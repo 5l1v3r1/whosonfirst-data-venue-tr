@@ -1,0 +1,63 @@
+{
+  "id": 169669061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
+    "geom:latitude":37.062946,
+    "geom:longitude":37.376102,
+    "iso:country":"TR",
+    "sg:address":"Degirmi?m Mh. ?kkes Bahri Cd. 32 Nolu Sk. No: 14",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 322 3934",
+    "sg:postcode":"27000",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "stevedores-tally"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934731,
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G276WemOrRZBz99LLnhiN_37.062946_37.376102@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d0034f9a74007248d8c170651dc1bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":169669061
+        }
+    ],
+    "wof:id":169669061,
+    "wof:lastmodified":1449033061,
+    "wof:name":"Altinay Nakliyat",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stevedores-tally"
+    ]
+},
+  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169554883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.080587,40.998302,29.080587,40.998302",
+    "geom:latitude":40.998302,
+    "geom:longitude":29.080587,
+    "iso:country":"TR",
+    "sg:address":"Ornek Mah. 38 Cad. No. 52",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 315 3098",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EYtAz7EufPbAGGduFpOR7_40.998302_29.080587@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47c482bc620110db80c4397ca7b43996",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169554883
+        }
+    ],
+    "wof:id":169554883,
+    "wof:lastmodified":1449033371,
+    "wof:name":"Mobil Pazarlama",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.080587,40.998302,29.080587,40.998302],
+  "geometry": {"coordinates":[29.080587,40.998302],"type":"Point"}
+}

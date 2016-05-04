@@ -1,0 +1,66 @@
+{
+  "id": 169575405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.973909,40.352825,27.973909,40.352825",
+    "geom:latitude":40.352825,
+    "geom:longitude":27.973909,
+    "iso:country":"TR",
+    "sg:address":"Kasif Acar Cd.no 7/50",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 718 8811",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Y7K221Mt5lEEsD1HBRZa_40.352825_27.973909@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac153a50ac8cc42a041ec875ff835fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169575405
+        }
+    ],
+    "wof:id":169575405,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Berberoglu Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.973909,40.352825,27.973909,40.352825],
+  "geometry": {"coordinates":[27.973909,40.352825],"type":"Point"}
+}

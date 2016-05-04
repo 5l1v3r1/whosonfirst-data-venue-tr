@@ -1,0 +1,62 @@
+{
+  "id": 169684837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.86808,39.905262,32.86808,39.905262",
+    "geom:latitude":39.905262,
+    "geom:longitude":32.86808,
+    "iso:country":"TR",
+    "sg:address":"Esat Cad. No:137/3",
+    "sg:city":"K.esat",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 5671",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929547,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JKbU0Rb5JqauRN6kgJoDD_39.905262_32.868080@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c34452da41efc325d972e27afa4caafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":169684837
+        }
+    ],
+    "wof:id":169684837,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Hasan Koc",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.86808,39.905262,32.86808,39.905262],
+  "geometry": {"coordinates":[32.86808,39.905262],"type":"Point"}
+}

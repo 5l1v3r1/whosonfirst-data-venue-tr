@@ -1,0 +1,64 @@
+{
+  "id": 169673299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982885,41.029396,28.982885,41.029396",
+    "geom:latitude":41.029396,
+    "geom:longitude":28.982885,
+    "iso:country":"TR",
+    "sg:address":"Bilezik Sok. No:2",
+    "sg:city":"Findikli",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 0600",
+    "sg:postcode":"01470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906607,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0upHzSF02zoGpLrH6rBd8h_41.029396_28.982885@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d1dbf5ba8e951fc189dd0bf4c181755",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906607,
+            "region_id":85679237,
+            "venue_id":169673299
+        }
+    ],
+    "wof:id":169673299,
+    "wof:lastmodified":1449033957,
+    "wof:name":"Vitsan Mumessilik Ve Ticaret A.s.",
+    "wof:parent_id":85906607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [28.982885,41.029396,28.982885,41.029396],
+  "geometry": {"coordinates":[28.982885,41.029396],"type":"Point"}
+}

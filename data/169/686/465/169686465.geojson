@@ -1,0 +1,67 @@
+{
+  "id": 169686465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.079433,40.220612,29.079433,40.220612",
+    "geom:latitude":40.220612,
+    "geom:longitude":29.079433,
+    "iso:country":"TR",
+    "sg:address":"Kucukbalikli Sanli Cad. Kahve Sok. No: 15",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 215 2828",
+    "sg:postcode":"41400",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929763,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUMhNlX62XO6VSaKO05wt_40.220612_29.079433@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8ba5f8379c738cecc33d5f8f5714b9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":169686465
+        }
+    ],
+    "wof:id":169686465,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Assateks",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [29.079433,40.220612,29.079433,40.220612],
+  "geometry": {"coordinates":[29.079433,40.220612],"type":"Point"}
+}

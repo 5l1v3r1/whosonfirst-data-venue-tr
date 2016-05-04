@@ -1,0 +1,65 @@
+{
+  "id": 169687097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.969957,41.009197,28.969957,41.009197",
+    "geom:latitude":41.009197,
+    "geom:longitude":28.969957,
+    "iso:country":"TR",
+    "sg:address":"Mesih Pasa Cd. No:44/6",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 7950",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906475,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5270oxsmY6tFosj9SxXM0G_41.009197_28.969957@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62390e114d365d17af52722e1ff79f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906475,
+            "region_id":85679237,
+            "venue_id":169687097
+        }
+    ],
+    "wof:id":169687097,
+    "wof:lastmodified":1449033608,
+    "wof:name":"Bayteks Tekstil Pazarlama",
+    "wof:parent_id":85906475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [28.969957,41.009197,28.969957,41.009197],
+  "geometry": {"coordinates":[28.969957,41.009197],"type":"Point"}
+}

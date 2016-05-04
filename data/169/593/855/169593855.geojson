@@ -1,0 +1,66 @@
+{
+  "id": 169593855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.006433,41.056873,29.006433,41.056873",
+    "geom:latitude":41.056873,
+    "geom:longitude":29.006433,
+    "iso:country":"TR",
+    "sg:address":"Emirhan Cad.no:133/b Dikilitas-besiktas",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 9733",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929473,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k3xDFw2i3bH0LksdyiGKQ_41.056873_29.006433@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e83e2f03df18910966a4c0b7d4ad7060",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
+            "region_id":85679237,
+            "venue_id":169593855
+        }
+    ],
+    "wof:id":169593855,
+    "wof:lastmodified":1449034877,
+    "wof:name":"Vankim",
+    "wof:parent_id":85929473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [29.006433,41.056873,29.006433,41.056873],
+  "geometry": {"coordinates":[29.006433,41.056873],"type":"Point"}
+}

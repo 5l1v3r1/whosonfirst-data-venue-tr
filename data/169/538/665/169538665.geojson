@@ -1,0 +1,57 @@
+{
+  "id": 169538665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.513229,37.866943,32.513229,37.866943",
+    "geom:latitude":37.866943,
+    "geom:longitude":32.513229,
+    "iso:country":"TR",
+    "sg:address":"Alaaddin Cad 16",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3315662",
+    "sg:province":"Konya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01lbfOGALOspruIc8uGaaJ_37.866943_32.513229@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"909a24991a32d8e590dd020d5ae3ca43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169538665
+        }
+    ],
+    "wof:id":169538665,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Osmanli Bankasi",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.513229,37.866943,32.513229,37.866943],
+  "geometry": {"coordinates":[32.513229,37.866943],"type":"Point"}
+}

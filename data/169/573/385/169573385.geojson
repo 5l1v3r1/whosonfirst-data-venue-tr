@@ -1,0 +1,64 @@
+{
+  "id": 169573385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.948156,41.070148,28.948156,41.070148",
+    "geom:latitude":41.070148,
+    "geom:longitude":28.948156,
+    "iso:country":"TR",
+    "sg:address":"Defferdar Yokusu No20",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 0508",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13P5by9BtYIwnU5SJhFk1p_41.070148_28.948156@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"94b6f17a6f63c7317625f5b407192ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":169573385
+        }
+    ],
+    "wof:id":169573385,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Mariner Denizcilik A.s.",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.948156,41.070148,28.948156,41.070148],
+  "geometry": {"coordinates":[28.948156,41.070148],"type":"Point"}
+}

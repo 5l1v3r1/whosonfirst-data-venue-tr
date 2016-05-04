@@ -1,0 +1,64 @@
+{
+  "id": 169566585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.089916,40.965431,29.089916,40.965431",
+    "geom:latitude":40.965431,
+    "geom:longitude":29.089916,
+    "iso:country":"TR",
+    "sg:address":"Marmara Cad. No:13/1 Kozyatagi",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 361 3705",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eLU3Ek0bnBe61QHALQ4yc_40.965431_29.089916@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f12cba04aa0ae11366bff4013580a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169566585
+        }
+    ],
+    "wof:id":169566585,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Cs Guvenlik Ve Bilgisayar",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.089916,40.965431,29.089916,40.965431],
+  "geometry": {"coordinates":[29.089916,40.965431],"type":"Point"}
+}

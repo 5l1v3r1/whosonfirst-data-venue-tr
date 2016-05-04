@@ -1,0 +1,62 @@
+{
+  "id": 169573559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "sg:address":"?mer Avni Mh.d?en Sk.g?aydin Apr.no5/3",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 6736",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xwf63mZu3ppZDfXYOfmdp_41.012379_28.975925@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169573559
+        }
+    ],
+    "wof:id":169573559,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Oba Denizcilik Ltd.sti.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
+}

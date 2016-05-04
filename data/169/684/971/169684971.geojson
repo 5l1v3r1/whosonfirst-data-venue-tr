@@ -1,0 +1,63 @@
+{
+  "id": 169684971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.887903,39.652824,27.887903,39.652824",
+    "geom:latitude":39.652824,
+    "geom:longitude":27.887903,
+    "iso:country":"TR",
+    "sg:address":"Ege Mah. Cuceler Sok.",
+    "sg:city":"Korkuteli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2662416489241",
+    "sg:postcode":"07800",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912867,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73P5QySO0vJoft9k7ZK8XQ_39.652824_27.887903@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3f105861d6db3b59dd08c7a9e62b09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912867,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169684971
+        }
+    ],
+    "wof:id":169684971,
+    "wof:lastmodified":1449033511,
+    "wof:name":"Kurtulus Vardar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [27.887903,39.652824,27.887903,39.652824],
+  "geometry": {"coordinates":[27.887903,39.652824],"type":"Point"}
+}

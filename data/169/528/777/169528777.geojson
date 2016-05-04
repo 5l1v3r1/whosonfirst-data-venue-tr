@@ -1,0 +1,63 @@
+{
+  "id": 169528777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.91326,40.998089,28.91326,40.998089",
+    "geom:latitude":40.998089,
+    "geom:longitude":28.91326,
+    "iso:country":"TR",
+    "sg:address":"Telsiz Mah. 84/1 Sk. No.44/a Zeytinburnu",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 546 3433",
+    "sg:postcode":"26120",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bag-belt-accessories"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906453,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eFtwBJN3Ch7NN7b2DpzDc_40.998089_28.913260@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e16b5c8f48c3dd43d0db6d53356f06fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906453,
+            "region_id":85679237,
+            "venue_id":169528777
+        }
+    ],
+    "wof:id":169528777,
+    "wof:lastmodified":1449033571,
+    "wof:name":"Erya Ltd.sti.",
+    "wof:parent_id":85906453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag-belt-accessories"
+    ]
+},
+  "bbox": [28.91326,40.998089,28.91326,40.998089],
+  "geometry": {"coordinates":[28.91326,40.998089],"type":"Point"}
+}

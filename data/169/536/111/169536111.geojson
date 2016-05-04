@@ -1,0 +1,57 @@
+{
+  "id": 169536111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.863792,39.924301,32.863792,39.924301",
+    "geom:latitude":39.924301,
+    "geom:longitude":32.863792,
+    "iso:country":"TR",
+    "sg:address":"Umut Sok 19, Kurtulus",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 41180575",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929555,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1titztTN6dnBkFMBpTLKeU_39.924301_32.863792@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b64dd1e195711db9c9128d43de0b3a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929555,
+            "region_id":85679409,
+            "venue_id":169536111
+        }
+    ],
+    "wof:id":169536111,
+    "wof:lastmodified":1449034661,
+    "wof:name":"Iller Bankasi",
+    "wof:parent_id":85929555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.863792,39.924301,32.863792,39.924301],
+  "geometry": {"coordinates":[32.863792,39.924301],"type":"Point"}
+}

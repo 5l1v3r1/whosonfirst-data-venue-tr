@@ -1,0 +1,66 @@
+{
+  "id": 169605995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.002232,41.054409,29.002232,41.054409",
+    "geom:latitude":41.054409,
+    "geom:longitude":29.002232,
+    "iso:country":"TR",
+    "sg:address":"Emirhan Cad. No.29 D.1 Dikilitas",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 9810",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YZwFAriAdlulbiSQ9Y2yi_41.054409_29.002232@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc9c3197fa2f8741e6e0ee0581f99678",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":169605995
+        }
+    ],
+    "wof:id":169605995,
+    "wof:lastmodified":1449034292,
+    "wof:name":"Interspor Dis Tic. A.s.",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.002232,41.054409,29.002232,41.054409],
+  "geometry": {"coordinates":[29.002232,41.054409],"type":"Point"}
+}

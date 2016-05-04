@@ -1,0 +1,57 @@
+{
+  "id": 169545875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.797295,41.00499,28.797295,41.00499",
+    "geom:latitude":41.00499,
+    "geom:longitude":28.797295,
+    "iso:country":"TR",
+    "sg:address":"Halkali Cad 114",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 592 1524",
+    "sg:province":"34620",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vQ93ft3mF8h3TGB5buWMp_41.004990_28.797295@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d412b1eaa7c752be179876c664a32bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169545875
+        }
+    ],
+    "wof:id":169545875,
+    "wof:lastmodified":1449033487,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.797295,41.00499,28.797295,41.00499],
+  "geometry": {"coordinates":[28.797295,41.00499],"type":"Point"}
+}

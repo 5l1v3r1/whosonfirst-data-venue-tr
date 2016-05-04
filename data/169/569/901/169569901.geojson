@@ -1,0 +1,64 @@
+{
+  "id": 169569901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.101988,40.948353,29.101988,40.948353",
+    "geom:latitude":40.948353,
+    "geom:longitude":29.101988,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. No:53 Kucukyali",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 367 8437",
+    "sg:postcode":"80260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HZT1x0oathTZFUGKapt4i_40.948353_29.101988@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b496976db8f14e05773dda5d0c8ccf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169569901
+        }
+    ],
+    "wof:id":169569901,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Sinerji G?venlik Sistemleri",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.101988,40.948353,29.101988,40.948353],
+  "geometry": {"coordinates":[29.101988,40.948353],"type":"Point"}
+}

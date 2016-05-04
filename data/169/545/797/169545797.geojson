@@ -1,0 +1,68 @@
+{
+  "id": 169545797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.009726,41.055866,29.009726,41.055866",
+    "geom:latitude":41.055866,
+    "geom:longitude":29.009726,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 6373",
+    "sg:province":"80700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237,
+        85929407,
+        101912685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lrJTgRmFpehZl99yhq4gH_41.055866_29.009726@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f6712d82d7ae5456fe343aee4281253",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169545797
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169545797
+        }
+    ],
+    "wof:id":169545797,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.009726,41.055866,29.009726,41.055866],
+  "geometry": {"coordinates":[29.009726,41.055866],"type":"Point"}
+}

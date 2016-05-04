@@ -1,0 +1,63 @@
+{
+  "id": 169551993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.502968,37.871159,32.502968,37.871159",
+    "geom:latitude":37.871159,
+    "geom:longitude":32.502968,
+    "iso:country":"TR",
+    "sg:address":"Mevlana Cad. No: 61/c",
+    "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 351 9397",
+    "sg:postcode":"34524",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uOJFo97jIEku0eeR2QYZu_37.871159_32.502968@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"55a38b48c78771ffa1bca8b515b45aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169551993
+        }
+    ],
+    "wof:id":169551993,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Afk Sakalliogullari Bisiklet A.s.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [32.502968,37.871159,32.502968,37.871159],
+  "geometry": {"coordinates":[32.502968,37.871159],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169543141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.843983,39.953411,32.843983,39.953411",
+    "geom:latitude":39.953411,
+    "geom:longitude":32.843983,
+    "iso:country":"TR",
+    "sg:address":"Cemal G?sel Cad 92/a Cankaya",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 518 4621",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929513,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vstmZm8J698aNiqiOBAOc_39.953411_32.843983@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f18bb48b442351627a0a82b3ba2081b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":169543141
+        }
+    ],
+    "wof:id":169543141,
+    "wof:lastmodified":1449033335,
+    "wof:name":"T\u00fcrkiye Cumhuriyeti, Ziraat Bankasi",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.843983,39.953411,32.843983,39.953411],
+  "geometry": {"coordinates":[32.843983,39.953411],"type":"Point"}
+}

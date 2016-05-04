@@ -1,0 +1,65 @@
+{
+  "id": 169592101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.926132,37.575169,36.926132,37.575169",
+    "geom:latitude":37.575169,
+    "geom:longitude":36.926132,
+    "iso:country":"TR",
+    "sg:address":"Azerbaycan Bulvari No:68/a",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 214 1800",
+    "sg:postcode":"52750",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WwFYN3yZv53SxNgkF7DQL_37.575169_36.926132@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"17a5d46c32fbe16df8a8b7b74b14b7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169592101
+        }
+    ],
+    "wof:id":169592101,
+    "wof:lastmodified":1449034585,
+    "wof:name":"Karayagli Biber Fabrikasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [36.926132,37.575169,36.926132,37.575169],
+  "geometry": {"coordinates":[36.926132,37.575169],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169685493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.867804,41.010872,28.867804,41.010872",
+    "geom:latitude":41.010872,
+    "geom:longitude":28.867804,
+    "iso:country":"TR",
+    "sg:address":"Haznedar Mah. Ergene Sok. No: 14/1",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 502 0151",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lEvdIA3SU0i3HLV4dcyxc_41.010872_28.867804@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"318d0aeaaf6797e43fea973b8d256010",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169685493
+        }
+    ],
+    "wof:id":169685493,
+    "wof:lastmodified":1449035885,
+    "wof:name":"Bedir Dis Ticaret",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.867804,41.010872,28.867804,41.010872],
+  "geometry": {"coordinates":[28.867804,41.010872],"type":"Point"}
+}

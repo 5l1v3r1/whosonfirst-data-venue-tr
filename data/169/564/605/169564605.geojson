@@ -1,0 +1,64 @@
+{
+  "id": 169564605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.856039,41.01104,28.856039,41.01104",
+    "geom:latitude":41.01104,
+    "geom:longitude":28.856039,
+    "iso:country":"TR",
+    "sg:address":"Izzettin ?alislar Cad. No:60/9",
+    "sg:city":"Bah?elievler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 644 9058",
+    "sg:postcode":"34183",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BgyNnjxh2lcD6F8Jr1ww2_41.011040_28.856039@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6feea7a6b62ab3f15e5da2e195b99de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169564605
+        }
+    ],
+    "wof:id":169564605,
+    "wof:lastmodified":1449035763,
+    "wof:name":"Aa-entegre Elektronik G?venlik Sistemleri Ltd.sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.856039,41.01104,28.856039,41.01104],
+  "geometry": {"coordinates":[28.856039,41.01104],"type":"Point"}
+}

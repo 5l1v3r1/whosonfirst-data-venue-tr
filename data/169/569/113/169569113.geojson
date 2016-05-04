@@ -1,0 +1,64 @@
+{
+  "id": 169569113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981241,41.076466,28.981241,41.076466",
+    "geom:latitude":41.076466,
+    "geom:longitude":28.981241,
+    "iso:country":"TR",
+    "sg:address":"Bahar Sok.no:2 1.levent",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 2800",
+    "sg:postcode":"05000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R8j9DOIDyId9yOweB8Fpr_41.076466_28.981241@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c7bafa77ea3297e2c8416fd8e7f1bb49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169569113
+        }
+    ],
+    "wof:id":169569113,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Nart Telekom & Hirsiz Alarm Sistemleri",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.981241,41.076466,28.981241,41.076466],
+  "geometry": {"coordinates":[28.981241,41.076466],"type":"Point"}
+}

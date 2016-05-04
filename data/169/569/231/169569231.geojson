@@ -1,0 +1,63 @@
+{
+  "id": 169569231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.142883,38.392757,27.142883,38.392757",
+    "geom:latitude":38.392757,
+    "geom:longitude":27.142883,
+    "iso:country":"TR",
+    "sg:address":"Fevzipasa Bulvari No:19/506 Cankaya",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 4173",
+    "sg:postcode":"05000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904097,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zpjrCRyLccg5gTveLTb0w_38.392757_27.142883@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9202d2127f14317bc8d4f26c25b9014e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":169569231
+        }
+    ],
+    "wof:id":169569231,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Okida Guvenlik & Bilgisayar Sistemleri",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [27.142883,38.392757,27.142883,38.392757],
+  "geometry": {"coordinates":[27.142883,38.392757],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169687081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.327419,36.998287,35.327419,36.998287",
+    "geom:latitude":36.998287,
+    "geom:longitude":35.327419,
+    "iso:country":"TR",
+    "sg:address":"Vali Yolu 21. Sok. Yildiz Has Apt.",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 456 0097",
+    "sg:postcode":"01120",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930275,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnbjuC8OQKpb6RnVA4MEd_36.998287_35.327419@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"526e17ad2629b90eab3c5e9f8f621f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930275,
+            "region_id":85679443,
+            "venue_id":169687081
+        }
+    ],
+    "wof:id":169687081,
+    "wof:lastmodified":1449033607,
+    "wof:name":"B.t Perdahci",
+    "wof:parent_id":85930275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [35.327419,36.998287,35.327419,36.998287],
+  "geometry": {"coordinates":[35.327419,36.998287],"type":"Point"}
+}

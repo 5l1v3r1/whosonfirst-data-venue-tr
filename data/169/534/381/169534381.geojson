@@ -1,0 +1,58 @@
+{
+  "id": 169534381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.140825,38.423832,27.140825,38.423832",
+    "geom:latitude":38.423832,
+    "geom:longitude":27.140825,
+    "iso:country":"TR",
+    "sg:address":"Gazi Bulvari 126a",
+    "sg:city":"Basmane",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 5767",
+    "sg:postcode":"35240",
+    "sg:province":"35230",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929657,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BbKE6VujRzKhgPjUJ5AuW_38.423832_27.140825@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"03520076fd4c67e64306c711e7716b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":169534381
+        }
+    ],
+    "wof:id":169534381,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.140825,38.423832,27.140825,38.423832],
+  "geometry": {"coordinates":[27.140825,38.423832],"type":"Point"}
+}

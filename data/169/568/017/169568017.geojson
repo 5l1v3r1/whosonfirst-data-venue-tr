@@ -1,0 +1,63 @@
+{
+  "id": 169568017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.723101,40.981201,28.723101,40.981201",
+    "geom:latitude":40.981201,
+    "geom:longitude":28.723101,
+    "iso:country":"TR",
+    "sg:address":"Londra Asfalti E-5 Yanyol No:117 Kat:2 D:2 Avcilar",
+    "sg:city":"?nkaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212591404072",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XE5AwPvZhFt9WcWbc8FaB_40.981201_28.723101@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1870d64d3c939a3ade0d11a9542322e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":169568017
+        }
+    ],
+    "wof:id":169568017,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Focus Guvenlik Sist.",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.723101,40.981201,28.723101,40.981201],
+  "geometry": {"coordinates":[28.723101,40.981201],"type":"Point"}
+}

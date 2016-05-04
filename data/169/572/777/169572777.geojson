@@ -1,0 +1,73 @@
+{
+  "id": 169572777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.032244,41.078781,29.032244,41.078781",
+    "geom:latitude":41.078781,
+    "geom:longitude":29.032244,
+    "iso:country":"TR",
+    "sg:address":"Dilhayat Sk.no.32",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 7743",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        85632393,
+        101912663,
+        85679237,
+        85930151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oCZkuuGaUDZ0546R82q8x_41.078781_29.032244@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91396e21716b2586be673ececceb439c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":169572777
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":169572777
+        }
+    ],
+    "wof:id":169572777,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Gentrans Dis Tic.a.s. .",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.032244,41.078781,29.032244,41.078781],
+  "geometry": {"coordinates":[29.032244,41.078781],"type":"Point"}
+}

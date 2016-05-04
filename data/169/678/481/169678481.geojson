@@ -1,0 +1,62 @@
+{
+  "id": 169678481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.871332,40.977638,28.871332,40.977638",
+    "geom:latitude":40.977638,
+    "geom:longitude":28.871332,
+    "iso:country":"TR",
+    "sg:address":"G??suyu Cd. Birtas San. Sit. No:18/41 Maltepe",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 3300",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930019,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B8lSWUe4QjkhLYEqd5YNE_40.977638_28.871332@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4afff4f12d81377d5d03384a4a1f875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930019,
+            "region_id":-1,
+            "venue_id":169678481
+        }
+    ],
+    "wof:id":169678481,
+    "wof:lastmodified":1449034276,
+    "wof:name":"Ved-rek Plastik Kalip Baski Tesis. Koll. Sti.",
+    "wof:parent_id":85930019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [28.871332,40.977638,28.871332,40.977638],
+  "geometry": {"coordinates":[28.871332,40.977638],"type":"Point"}
+}

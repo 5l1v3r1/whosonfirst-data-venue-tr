@@ -1,0 +1,67 @@
+{
+  "id": 169575835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.968147,41.081184,28.968147,41.081184",
+    "geom:latitude":41.081184,
+    "geom:longitude":28.968147,
+    "iso:country":"TR",
+    "sg:address":"Ortabayir Mh.talatpasa Cd.no7 K4 Oda2",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 4808",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aKwzEpDz6tH4ZzR1OjYgZ_41.081184_28.968147@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4a8d9d30ba423bd4d351d86341a52ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169575835
+        }
+    ],
+    "wof:id":169575835,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Deltamar Denizcilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.968147,41.081184,28.968147,41.081184],
+  "geometry": {"coordinates":[28.968147,41.081184],"type":"Point"}
+}

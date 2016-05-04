@@ -1,0 +1,63 @@
+{
+  "id": 169553629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.174786,38.465645,27.174786,38.465645",
+    "geom:latitude":38.465645,
+    "geom:longitude":27.174786,
+    "iso:country":"TR",
+    "sg:address":"2086/2 Sok. No:23/a",
+    "sg:city":"Bayrakli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 341 3623",
+    "sg:postcode":"35580",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929643,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xhfAwpmQvVy7rK0AoSR5u_38.465645_27.174786@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90f106d4e956cff1aa97d4b105c2317d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929643,
+            "region_id":85679201,
+            "venue_id":169553629
+        }
+    ],
+    "wof:id":169553629,
+    "wof:lastmodified":1449032709,
+    "wof:name":"Disem Helva San.tic.",
+    "wof:parent_id":85929643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.174786,38.465645,27.174786,38.465645],
+  "geometry": {"coordinates":[27.174786,38.465645],"type":"Point"}
+}

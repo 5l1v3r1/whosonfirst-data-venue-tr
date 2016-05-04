@@ -1,0 +1,63 @@
+{
+  "id": 169685889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.180899,40.907803,29.180899,40.907803",
+    "geom:latitude":40.907803,
+    "geom:longitude":29.180899,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad No:39 D?.1 Esentepe",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 517 0641",
+    "sg:postcode":"81410",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zkqQtD95hjNWB2QA9ou1s_40.907803_29.180899@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"915273e6d75ca2f758ad0b1ab7a19610",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169685889
+        }
+    ],
+    "wof:id":169685889,
+    "wof:lastmodified":1449035885,
+    "wof:name":"Kilavuz Tekstil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.180899,40.907803,29.180899,40.907803],
+  "geometry": {"coordinates":[29.180899,40.907803],"type":"Point"}
+}

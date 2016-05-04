@@ -1,0 +1,63 @@
+{
+  "id": 169567933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.072008,41.017876,29.072008,41.017876",
+    "geom:latitude":41.017876,
+    "geom:longitude":29.072008,
+    "iso:country":"TR",
+    "sg:address":"Kisikli Mah.bulgurlu Cad. No:22 K.camlica",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 428 3000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ykdRY07mXLGnvE53Th5iG_41.017876_29.072008@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5fbd9bd8288469295236867326c57df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":169567933
+        }
+    ],
+    "wof:id":169567933,
+    "wof:lastmodified":1449035993,
+    "wof:name":"Etkin Hizmet Servisi Tur.tic.san.a.s.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.072008,41.017876,29.072008,41.017876],
+  "geometry": {"coordinates":[29.072008,41.017876],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169527899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.142221,40.939476,29.142221,40.939476",
+    "geom:latitude":40.939476,
+    "geom:longitude":29.142221,
+    "iso:country":"TR",
+    "sg:address":"Sogut Sok. No:14",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 3680",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O23jalCuyHPa9466qBMf1_40.939476_29.142221@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da9166d66d7a91d4f894ae0c003d655e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":169527899
+        }
+    ],
+    "wof:id":169527899,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Tekinel Bebe A.s.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [29.142221,40.939476,29.142221,40.939476],
+  "geometry": {"coordinates":[29.142221,40.939476],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169538475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.045906,40.983376,29.045906,40.983376",
+    "geom:latitude":40.983376,
+    "geom:longitude":29.045906,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Cad 26",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 6689",
+    "sg:province":"34720",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lUXBQlYgsfBkwVL4zdXbr_40.983376_29.045906@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"242138c5d1802c564b9b7856a2bfa3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169538475
+        }
+    ],
+    "wof:id":169538475,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Osmanli Bankasi As",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.045906,40.983376,29.045906,40.983376],
+  "geometry": {"coordinates":[29.045906,40.983376],"type":"Point"}
+}

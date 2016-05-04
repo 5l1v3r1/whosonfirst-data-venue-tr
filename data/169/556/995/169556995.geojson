@@ -1,0 +1,64 @@
+{
+  "id": 169556995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.001011,41.044224,29.001011,41.044224",
+    "geom:latitude":41.044224,
+    "geom:longitude":29.001011,
+    "iso:country":"TR",
+    "sg:address":"Sair Nedim Cad. No. 51 Besiktas",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122562212212",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a6QcykucoOGRUZhAFMhbV_41.044224_29.001011@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5b0a5b2002712ec4ce08658dabc9e8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169556995
+        }
+    ],
+    "wof:id":169556995,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Kuru?ay Komple Havuz Tesisati",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.001011,41.044224,29.001011,41.044224],
+  "geometry": {"coordinates":[29.001011,41.044224],"type":"Point"}
+}

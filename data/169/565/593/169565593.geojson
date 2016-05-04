@@ -1,0 +1,64 @@
+{
+  "id": 169565593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.980183,41.080418,28.980183,41.080418",
+    "geom:latitude":41.080418,
+    "geom:longitude":28.980183,
+    "iso:country":"TR",
+    "sg:address":"Y.posta Cd. Vefa Bayiri Sk. No:14/2 G.tepe",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 3800",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76s7jzRfnBVml9M3szs0vm_41.080418_28.980183@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11d230de071e6e8ef3dd42d03c67d8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169565593
+        }
+    ],
+    "wof:id":169565593,
+    "wof:lastmodified":1449035665,
+    "wof:name":"Bardes Ltd. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.980183,41.080418,28.980183,41.080418],
+  "geometry": {"coordinates":[28.980183,41.080418],"type":"Point"}
+}

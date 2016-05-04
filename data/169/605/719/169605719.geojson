@@ -1,0 +1,65 @@
+{
+  "id": 169605719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007883,41.077511,29.007883,41.077511",
+    "geom:latitude":41.077511,
+    "geom:longitude":29.007883,
+    "iso:country":"TR",
+    "sg:address":"Safak Sk. No:7 Nisantasi",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 247 2105",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63HlxIRIUg1f0BZUNaIFLv_41.077511_29.007883@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee4abed90cec3b2af2cb9999cd6a72b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169605719
+        }
+    ],
+    "wof:id":169605719,
+    "wof:lastmodified":1449034287,
+    "wof:name":"Han Spor Malz. Ltd. Sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.007883,41.077511,29.007883,41.077511],
+  "geometry": {"coordinates":[29.007883,41.077511],"type":"Point"}
+}

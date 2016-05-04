@@ -1,0 +1,64 @@
+{
+  "id": 169567827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.868418,41.003963,28.868418,41.003963",
+    "geom:latitude":41.003963,
+    "geom:longitude":28.868418,
+    "iso:country":"TR",
+    "sg:address":"Bahariye Cad.sulun Sok. Nalcaci Plaza No:57 Ikitelli",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 697 9900",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JnDeFXasiwXAdWR94ycMw_41.003963_28.868418@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aade427347fe7bd5ba8994f77310f6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169567827
+        }
+    ],
+    "wof:id":169567827,
+    "wof:lastmodified":1449035994,
+    "wof:name":"Erben Kontrol Sistemleri San.tic.a.s.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.868418,41.003963,28.868418,41.003963],
+  "geometry": {"coordinates":[28.868418,41.003963],"type":"Point"}
+}

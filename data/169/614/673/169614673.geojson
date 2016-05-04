@@ -1,0 +1,63 @@
+{
+  "id": 169614673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.429701,38.6222,27.429701,38.6222",
+    "geom:latitude":38.6222,
+    "geom:longitude":27.429701,
+    "iso:country":"TR",
+    "sg:address":"Hastane Cad. Demirci/ Manisa",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 236 462 1308",
+    "sg:postcode":"34660",
+    "sg:province":"Manisa",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911255,
+        85679285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2180zu2IKrHB8cDvZrMVwU_38.622200_27.429701@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"513f283dfe32e62ed84d4961d20c05d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911255,
+            "neighbourhood_id":-1,
+            "region_id":85679285,
+            "venue_id":169614673
+        }
+    ],
+    "wof:id":169614673,
+    "wof:lastmodified":1449036058,
+    "wof:name":"Demirci Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [27.429701,38.6222,27.429701,38.6222],
+  "geometry": {"coordinates":[27.429701,38.6222],"type":"Point"}
+}

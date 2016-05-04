@@ -1,0 +1,63 @@
+{
+  "id": 169552813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.832424,39.956066,32.832424,39.956066",
+    "geom:latitude":39.956066,
+    "geom:longitude":32.832424,
+    "iso:country":"TR",
+    "sg:address":"Buyuk Sanayi Suzgun Sok. No. 5",
+    "sg:city":"Iskitler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 341 4632",
+    "sg:postcode":"06070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tv9u8jItGrY8JGdWDYRxc_39.956066_32.832424@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6c4f0d29b801f72c7e23c4620407e193",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169552813
+        }
+    ],
+    "wof:id":169552813,
+    "wof:lastmodified":1449034053,
+    "wof:name":"Acikel Gida San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [32.832424,39.956066,32.832424,39.956066],
+  "geometry": {"coordinates":[32.832424,39.956066],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169540873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.143221,38.431789,27.143221,38.431789",
+    "geom:latitude":38.431789,
+    "geom:longitude":27.143221,
+    "iso:country":"TR",
+    "sg:address":"Dr. Mustafabey",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 8094",
+    "sg:province":"35220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929637,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kug9UwpiW3oytMyRO2Crh_38.431789_27.143221@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e26d7ded66e3be1b6fd3b8da4c9e81f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":169540873
+        }
+    ],
+    "wof:id":169540873,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.143221,38.431789,27.143221,38.431789],
+  "geometry": {"coordinates":[27.143221,38.431789],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169602605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.854897,41.006824,28.854897,41.006824",
+    "geom:latitude":41.006824,
+    "geom:longitude":28.854897,
+    "iso:country":"TR",
+    "sg:address":"Meseli Sokak No 12",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 5145",
+    "sg:postcode":"80620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sport-fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70GQkYBHXelQqWEOGgclCX_41.006824_28.854897@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d7e4b9809d6f5062b96c1b8cf35619b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169602605
+        }
+    ],
+    "wof:id":169602605,
+    "wof:lastmodified":1449034229,
+    "wof:name":"Uma Yoga",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport-fitness"
+    ]
+},
+  "bbox": [28.854897,41.006824,28.854897,41.006824],
+  "geometry": {"coordinates":[28.854897,41.006824],"type":"Point"}
+}

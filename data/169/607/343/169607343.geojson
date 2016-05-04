@@ -1,0 +1,66 @@
+{
+  "id": 169607343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.027365,41.048702,29.027365,41.048702",
+    "geom:latitude":41.048702,
+    "geom:longitude":29.027365,
+    "iso:country":"TR",
+    "sg:address":"Muallim Naci Cad. No:18 Ortakoy",
+    "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 8833",
+    "sg:postcode":"34110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52ZNpk1Nv5ygzOuohx2PP1_41.048702_29.027365@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f0b6f1972b514f1b6f1b6a36e5f7fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":169607343
+        }
+    ],
+    "wof:id":169607343,
+    "wof:lastmodified":1449033125,
+    "wof:name":"Progame Spor Malzemeleri",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.027365,41.048702,29.027365,41.048702],
+  "geometry": {"coordinates":[29.027365,41.048702],"type":"Point"}
+}

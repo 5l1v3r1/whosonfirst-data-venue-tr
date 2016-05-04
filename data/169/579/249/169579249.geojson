@@ -1,0 +1,68 @@
+{
+  "id": 169579249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.045265,41.11702,29.045265,41.11702",
+    "geom:latitude":41.11702,
+    "geom:longitude":29.045265,
+    "iso:country":"TR",
+    "sg:address":"Istinye Cd.mahmut ?avus Sk.no5",
+    "sg:city":"Istinye",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 229 2760",
+    "sg:postcode":"34460",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LplrNoZYFGsSXcgKIbs0G_41.117020_29.045265@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a011b3b279bb452c5c5d503779c86061",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":169579249
+        }
+    ],
+    "wof:id":169579249,
+    "wof:lastmodified":1449033738,
+    "wof:name":"Unimar Denizcilik A.s.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.045265,41.11702,29.045265,41.11702],
+  "geometry": {"coordinates":[29.045265,41.11702],"type":"Point"}
+}

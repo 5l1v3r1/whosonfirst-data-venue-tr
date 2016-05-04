@@ -1,0 +1,64 @@
+{
+  "id": 169573073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.043758,41.128635,29.043758,41.128635",
+    "geom:latitude":41.128635,
+    "geom:longitude":29.043758,
+    "iso:country":"TR",
+    "sg:address":"B??dere,cayirbasi Cd.no.278",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 0491",
+    "sg:postcode":"33740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VkAET1MpjtKrfzpJpyhJn_41.128635_29.043758@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26da1d8f873e1fa534a42a02d98a4820",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":169573073
+        }
+    ],
+    "wof:id":169573073,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Ist.bogazici Vapur Hizm.a.s..",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.043758,41.128635,29.043758,41.128635],
+  "geometry": {"coordinates":[29.043758,41.128635],"type":"Point"}
+}

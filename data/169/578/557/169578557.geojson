@@ -1,0 +1,67 @@
+{
+  "id": 169578557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.169718,38.429478,27.169718,38.429478",
+    "geom:latitude":38.429478,
+    "geom:longitude":27.169718,
+    "iso:country":"TR",
+    "sg:address":"1443 Sok.no.148 K.5 D.503-504",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 4711",
+    "sg:postcode":"35220",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904105,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mDIo6YlpJ57h2tdLfEvX6_38.429478_27.169718@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8443520562d440f6e119f06f92f2ed89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":169578557
+        }
+    ],
+    "wof:id":169578557,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Selim Shipping Agency",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.169718,38.429478,27.169718,38.429478],
+  "geometry": {"coordinates":[27.169718,38.429478],"type":"Point"}
+}

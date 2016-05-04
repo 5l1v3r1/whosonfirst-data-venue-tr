@@ -1,0 +1,59 @@
+{
+  "id": 169532203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.042969,41.016174,29.042969,41.016174",
+    "geom:latitude":41.016174,
+    "geom:longitude":29.042969,
+    "iso:country":"TR",
+    "sg:address":"Tophanelioglu Cad No.51",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 492 0192",
+    "sg:postcode":"34662",
+    "sg:province":"81190",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g408ucpoUT0GwjZwErt6y_41.016174_29.042969@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f4498319971299086cb9d398188b9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":169532203
+        }
+    ],
+    "wof:id":169532203,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.042969,41.016174,29.042969,41.016174],
+  "geometry": {"coordinates":[29.042969,41.016174],"type":"Point"}
+}

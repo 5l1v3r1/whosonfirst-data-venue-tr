@@ -1,0 +1,64 @@
+{
+  "id": 169571053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.422407,40.875919,29.422407,40.875919",
+    "geom:latitude":40.875919,
+    "geom:longitude":29.422407,
+    "iso:country":"TR",
+    "sg:address":"Ankara Asvalti No 60 Gebze",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 532 353 7355",
+    "sg:postcode":"41400",
+    "sg:province":"Kocaeli",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e3DKzB0qQxM41PYon4Th9_40.875919_29.422407@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"828c3845baf59fe8d61d1ffd54054073",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169571053
+        }
+    ],
+    "wof:id":169571053,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Met Kim Metal San Ve Tic Ltd Sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [29.422407,40.875919,29.422407,40.875919],
+  "geometry": {"coordinates":[29.422407,40.875919],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169662151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.105032,41.024635,29.105032,41.024635",
+    "geom:latitude":41.024635,
+    "geom:longitude":29.105032,
+    "iso:country":"TR",
+    "sg:address":"Alemdag Cad 284",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 328 2915",
+    "sg:postcode":"81240",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SysbzeW6XGrULq05dxZzi_41.024635_29.105032@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b04505a03630f7572061e605f3ed2fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":169662151
+        }
+    ],
+    "wof:id":169662151,
+    "wof:lastmodified":1449034921,
+    "wof:name":"Hamurcuoglu?elik Esya San Tic.",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.105032,41.024635,29.105032,41.024635],
+  "geometry": {"coordinates":[29.105032,41.024635],"type":"Point"}
+}

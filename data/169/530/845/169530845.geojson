@@ -1,0 +1,58 @@
+{
+  "id": 169530845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.864826,39.905682,32.864826,39.905682",
+    "geom:latitude":39.905682,
+    "geom:longitude":32.864826,
+    "iso:country":"TR",
+    "sg:address":"Kavaklidere",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 1170",
+    "sg:postcode":"63570",
+    "sg:province":"06700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929547,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HIYHyPq51YixX43elHgJb_39.905682_32.864826@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7fd6a3cc8299cecbdd83bd012fcb63b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":169530845
+        }
+    ],
+    "wof:id":169530845,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Banca Commerciale, Italiana Spa",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.864826,39.905682,32.864826,39.905682],
+  "geometry": {"coordinates":[32.864826,39.905682],"type":"Point"}
+}

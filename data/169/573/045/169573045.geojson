@@ -1,0 +1,64 @@
+{
+  "id": 169573045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.046719,40.982758,29.046719,40.982758",
+    "geom:latitude":40.982758,
+    "geom:longitude":29.046719,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad.no:139 B Blok 4 Kat",
+    "sg:city":"Feneryolu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 338 9268",
+    "sg:postcode":"34724",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zYyn2ujLWt5dwKoSvmpJh_40.982758_29.046719@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d10d82a203e7c4f5470e257ccab24114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169573045
+        }
+    ],
+    "wof:id":169573045,
+    "wof:lastmodified":1449035114,
+    "wof:name":"Intertrans Shipping And Trading Inc.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.046719,40.982758,29.046719,40.982758],
+  "geometry": {"coordinates":[29.046719,40.982758],"type":"Point"}
+}

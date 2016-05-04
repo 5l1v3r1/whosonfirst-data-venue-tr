@@ -1,0 +1,63 @@
+{
+  "id": 169684871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"31.459373,36.7845,31.459373,36.7845",
+    "geom:latitude":36.7845,
+    "geom:longitude":31.459373,
+    "iso:country":"TR",
+    "sg:address":"Isiklar Cad.no:8/a",
+    "sg:city":"Bigadic",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2422476288247",
+    "sg:postcode":"10440",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934649,
+        85632393,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6foeWw2KX9njaHzQiyreVE_36.784500_31.459373@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"74308b7fe2da5bf885f374edfc936c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934649,
+            "region_id":85679263,
+            "venue_id":169684871
+        }
+    ],
+    "wof:id":169684871,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Huseyin Akyuz",
+    "wof:parent_id":85934649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [31.459373,36.7845,31.459373,36.7845],
+  "geometry": {"coordinates":[31.459373,36.7845],"type":"Point"}
+}

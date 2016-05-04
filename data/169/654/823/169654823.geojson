@@ -1,0 +1,67 @@
+{
+  "id": 169654823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.167215,40.902351,29.167215,40.902351",
+    "geom:latitude":40.902351,
+    "geom:longitude":29.167215,
+    "iso:country":"TR",
+    "sg:address":"Ayyildiz Sok. No:9 Rahmanlar",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 389 2882",
+    "sg:postcode":"34869",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "box",
+        "cupboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930215,
+        85632393,
+        101912649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06xQdEN5bQRAHjAfvMQ2dX_40.902351_29.167215@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c885ba9aa247cbde2999c2f13418e084",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930215,
+            "region_id":-1,
+            "venue_id":169654823
+        }
+    ],
+    "wof:id":169654823,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Hitek Elektronik",
+    "wof:parent_id":85930215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "box",
+        "cupboard"
+    ]
+},
+  "bbox": [29.167215,40.902351,29.167215,40.902351],
+  "geometry": {"coordinates":[29.167215,40.902351],"type":"Point"}
+}

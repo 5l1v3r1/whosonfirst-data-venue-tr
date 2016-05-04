@@ -1,0 +1,63 @@
+{
+  "id": 169570159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.853027,39.923428,32.853027,39.923428",
+    "geom:latitude":39.923428,
+    "geom:longitude":32.853027,
+    "iso:country":"TR",
+    "sg:address":"Menekse 1. Sk. No:5/13 Kizilay",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312419640304",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QmL74e6nnqiGyYRM0jZq_39.923428_32.853027@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ca81440d13e54fc6aa1191b920f4feb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169570159
+        }
+    ],
+    "wof:id":169570159,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Temag G?venlik Sistem.tic. Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.853027,39.923428,32.853027,39.923428],
+  "geometry": {"coordinates":[32.853027,39.923428],"type":"Point"}
+}

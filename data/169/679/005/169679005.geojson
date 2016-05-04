@@ -1,0 +1,63 @@
+{
+  "id": 169679005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.313736,37.000717,35.313736,37.000717",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "sg:address":"Mobilyacilar Sitesi S.er.g?han Yilmaz Cad. 13.blok No:12",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 346 5657",
+    "sg:postcode":"63570",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929841,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20TIglo2kdlcdjj8OokK78_37.000717_35.313736@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ae5c3198fb5575113b12136fbeb21bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":169679005
+        }
+    ],
+    "wof:id":169679005,
+    "wof:lastmodified":1449034806,
+    "wof:name":"Kardesler Cam San.ve Tic.ltd.sti.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [35.313736,37.000717,35.313736,37.000717],
+  "geometry": {"coordinates":[35.313736,37.000717],"type":"Point"}
+}

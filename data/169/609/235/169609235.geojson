@@ -1,0 +1,65 @@
+{
+  "id": 169609235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.907211,41.015591,28.907211,41.015591",
+    "geom:latitude":41.015591,
+    "geom:longitude":28.907211,
+    "iso:country":"TR",
+    "sg:address":"Davutpasa Cd. Yilanli Ayazma Sk. No:8 Topkapi",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 4700",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904123,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hpfcFeevvGcb3OgKH2ZJZ_41.015591_28.907211@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bffb018d3736ca94c95b61e998b7818b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":169609235
+        }
+    ],
+    "wof:id":169609235,
+    "wof:lastmodified":1449033920,
+    "wof:name":"?rme Is Teks. San. A.s.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.907211,41.015591,28.907211,41.015591],
+  "geometry": {"coordinates":[28.907211,41.015591],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 169535559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.11787,41.120346,29.11787,41.120346",
+    "geom:latitude":41.120346,
+    "geom:longitude":29.11787,
+    "iso:country":"TR",
+    "sg:address":"G?esli, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934775,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W9DJC1whzccDzpTlNUPYi_41.120346_29.117870@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"75ad3bd91f2df0948e4afd7fb8169550",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934775,
+            "region_id":85679237,
+            "venue_id":169535559
+        }
+    ],
+    "wof:id":169535559,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Garanti ?deme Sistemleri As",
+    "wof:parent_id":85934775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.11787,41.120346,29.11787,41.120346],
+  "geometry": {"coordinates":[29.11787,41.120346],"type":"Point"}
+}

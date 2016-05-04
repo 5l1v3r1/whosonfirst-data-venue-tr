@@ -1,0 +1,65 @@
+{
+  "id": 169584611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"38.390301,40.9175,38.390301,40.9175",
+    "geom:latitude":40.9175,
+    "geom:longitude":38.390301,
+    "iso:country":"TR",
+    "sg:address":"Ahmet Fatoglu Cad. No:15",
+    "sg:city":"Bulancak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 454 318 0262",
+    "sg:postcode":"63850",
+    "sg:province":"Giresun",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911103,
+        85679341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79GMdre1hFZ5ZdCjfkRzXf_40.917500_38.390301@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85264d8af2fa9dd225fb88d402539a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911103,
+            "neighbourhood_id":-1,
+            "region_id":85679341,
+            "venue_id":169584611
+        }
+    ],
+    "wof:id":169584611,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Fatsu Mesrubat San Tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [38.390301,40.9175,38.390301,40.9175],
+  "geometry": {"coordinates":[38.390301,40.9175],"type":"Point"}
+}

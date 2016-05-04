@@ -1,0 +1,56 @@
+{
+  "id": 169542529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.127392,40.922367,29.127392,40.922367",
+    "geom:latitude":40.922367,
+    "geom:longitude":29.127392,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cad 135",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 4605",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03mXAqhTH7vvNIeTZ4RZq3_40.922367_29.127392@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e57c9c19a24fdfa45cd55dfba3f72871",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169542529
+        }
+    ],
+    "wof:id":169542529,
+    "wof:lastmodified":1449035220,
+    "wof:name":"T?k Dis Ticaret, Bankasi As",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.127392,40.922367,29.127392,40.922367],
+  "geometry": {"coordinates":[29.127392,40.922367],"type":"Point"}
+}

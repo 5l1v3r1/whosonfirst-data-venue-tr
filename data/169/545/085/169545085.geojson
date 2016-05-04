@@ -1,0 +1,59 @@
+{
+  "id": 169545085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.992979,41.080627,28.992979,41.080627",
+    "geom:latitude":41.080627,
+    "geom:longitude":28.992979,
+    "iso:country":"TR",
+    "sg:address":"B??dere Caddesi 42-46, 80290 Mecidiyek?, Istanbul",
+    "sg:city":"Bakanliklar",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 267 0607",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.imarbankasi.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zyaCt8A4WWDe5EOb6D882_41.080627_28.992979@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a53bc005f77caed05734d5759619d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169545085
+        }
+    ],
+    "wof:id":169545085,
+    "wof:lastmodified":1449033484,
+    "wof:name":"T?kiye Imar Bankasi Tas",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.992979,41.080627,28.992979,41.080627],
+  "geometry": {"coordinates":[28.992979,41.080627],"type":"Point"}
+}

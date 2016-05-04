@@ -1,0 +1,67 @@
+{
+  "id": 169574641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.714472,40.992817,28.714472,40.992817",
+    "geom:latitude":40.992817,
+    "geom:longitude":28.714472,
+    "iso:country":"TR",
+    "sg:address":"Ambarli G?r? Binasi A/17",
+    "sg:city":"B.?kmece",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 875 4558",
+    "sg:postcode":"34900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t1ZRB4mpGdHCQblbxAOuA_40.992817_28.714472@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f1f97d77de67937324b99d3a1b30083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169574641
+        }
+    ],
+    "wof:id":169574641,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Akan G?r?leme Ve M?avirlik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.714472,40.992817,28.714472,40.992817],
+  "geometry": {"coordinates":[28.714472,40.992817],"type":"Point"}
+}

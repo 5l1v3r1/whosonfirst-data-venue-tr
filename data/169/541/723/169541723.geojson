@@ -1,0 +1,57 @@
+{
+  "id": 169541723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.969931,41.010128,28.969931,41.010128",
+    "geom:latitude":41.010128,
+    "geom:longitude":28.969931,
+    "iso:country":"TR",
+    "sg:address":"Nuruosmaniye Cad. 90-92",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 519 1406",
+    "sg:province":"34440",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906475,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L3JJhi586PePWafxnWoJP_41.010128_28.969931@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"793a9f26060138c5587226bcc8e67296",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906475,
+            "region_id":85679237,
+            "venue_id":169541723
+        }
+    ],
+    "wof:id":169541723,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85906475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.969931,41.010128,28.969931,41.010128],
+  "geometry": {"coordinates":[28.969931,41.010128],"type":"Point"}
+}

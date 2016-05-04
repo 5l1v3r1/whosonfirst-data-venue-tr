@@ -1,0 +1,65 @@
+{
+  "id": 169551545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.337799,41.636398,32.337799,41.636398",
+    "geom:latitude":41.636398,
+    "geom:longitude":32.337799,
+    "iso:country":"TR",
+    "sg:address":"Yeni San. Sitesi 1 Nolu Cad. 15.",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 378 227 4733",
+    "sg:postcode":"63000",
+    "sg:province":"Bartin",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911163,
+        85679543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJrv7aEnXANnPrKajEC4r_41.636398_32.337799@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cdb1ec479a4c398f434ea38400fbd587",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911163,
+            "neighbourhood_id":-1,
+            "region_id":85679543,
+            "venue_id":169551545
+        }
+    ],
+    "wof:id":169551545,
+    "wof:lastmodified":1449033354,
+    "wof:name":"Onur Yatak San.tic. Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [32.337799,41.636398,32.337799,41.636398],
+  "geometry": {"coordinates":[32.337799,41.636398],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 169547213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.34066,40.786377,29.34066,40.786377",
+    "geom:latitude":40.786377,
+    "geom:longitude":29.34066,
+    "iso:country":"TR",
+    "sg:address":"Yapi Kredi Plaza",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 1111",
+    "sg:province":"Levent",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AfPR0ivT9frjJFpxBzwim_40.786377_29.340660@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69097c6414d841dfe2b28cbd57865f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169547213
+        }
+    ],
+    "wof:id":169547213,
+    "wof:lastmodified":1449033005,
+    "wof:name":"Yapi Ve Kredi Bankasi A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.34066,40.786377,29.34066,40.786377],
+  "geometry": {"coordinates":[29.34066,40.786377],"type":"Point"}
+}

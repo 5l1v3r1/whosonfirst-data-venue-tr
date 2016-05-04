@@ -1,0 +1,58 @@
+{
+  "id": 169645123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.09063,40.965164,29.09063,40.965164",
+    "geom:latitude":40.965164,
+    "geom:longitude":29.09063,
+    "iso:country":"TR",
+    "sg:address":"Semsettin Gunaltay Cad. Kaya Sultan Sk. No: 37/4 Suadiye",
+    "sg:city":"?atalca",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 380 3979",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zPNwmFKQedvhTJvyaZ1ui_40.965164_29.090630@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1342714e107ea228ef8d1e41ec94300d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169645123
+        }
+    ],
+    "wof:id":169645123,
+    "wof:lastmodified":1449033004,
+    "wof:name":"Me & Ce Kirtasiye Ve Ofis Malzemeleri",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.09063,40.965164,29.09063,40.965164],
+  "geometry": {"coordinates":[29.09063,40.965164],"type":"Point"}
+}

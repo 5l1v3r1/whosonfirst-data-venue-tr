@@ -1,0 +1,63 @@
+{
+  "id": 169552207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.285637,40.655128,29.285637,40.655128",
+    "geom:latitude":40.655128,
+    "geom:longitude":29.285637,
+    "iso:country":"TR",
+    "sg:address":"Kazim Karabekir Mah.876 Sok.no:1 Gaziosmanpasa",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 419 2212",
+    "sg:postcode":"81480",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912669,
+        85679529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0TUZ7xqAF80VDMekpZY5_40.655128_29.285637@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23bf00903cb425fd175394c6094c3ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912669,
+            "neighbourhood_id":-1,
+            "region_id":85679529,
+            "venue_id":169552207
+        }
+    ],
+    "wof:id":169552207,
+    "wof:lastmodified":1449034057,
+    "wof:name":"Kadrosan Bisiklet Otomobil San.tic.ltd.sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [29.285637,40.655128,29.285637,40.655128],
+  "geometry": {"coordinates":[29.285637,40.655128],"type":"Point"}
+}

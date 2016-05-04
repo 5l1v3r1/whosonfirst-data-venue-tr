@@ -1,0 +1,68 @@
+{
+  "id": 169635859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.017464,41.074951,29.017464,41.074951",
+    "geom:latitude":41.074951,
+    "geom:longitude":29.017464,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cd. No:3/a-b 1.levent",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 2597",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237,
+        85929845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pUb8C595MKFPO18HaOaIK_41.074951_29.017464@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f04f6b7f622433dcf3cf15e0579a42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169635859
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169635859
+        }
+    ],
+    "wof:id":169635859,
+    "wof:lastmodified":1449034099,
+    "wof:name":"Babaoglu Kirtasiye Tic. San. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.017464,41.074951,29.017464,41.074951],
+  "geometry": {"coordinates":[29.017464,41.074951],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169685269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.006531,41.057213,29.006531,41.057213",
+    "geom:latitude":41.057213,
+    "geom:longitude":29.006531,
+    "iso:country":"TR",
+    "sg:address":"Emirhan Cad. Saraka Sok. 4/6 Dikilitas",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 261 4760",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwater",
+        "working"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929473,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ydabs5pClooQGrH6qn91w_41.057213_29.006531@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6bbe4739a413a4558033ef3b1eca8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
+            "region_id":85679237,
+            "venue_id":169685269
+        }
+    ],
+    "wof:id":169685269,
+    "wof:lastmodified":1449035887,
+    "wof:name":"Den-ta Deniz Tarama Ve Sualti Yapilari.",
+    "wof:parent_id":85929473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwater",
+        "working"
+    ]
+},
+  "bbox": [29.006531,41.057213,29.006531,41.057213],
+  "geometry": {"coordinates":[29.006531,41.057213],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169685261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.046719,40.982758,29.046719,40.982758",
+    "geom:latitude":40.982758,
+    "geom:longitude":29.046719,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. Prenses Palas B Blok No:106/17",
+    "sg:city":"Feneryolu",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 414 4668",
+    "sg:postcode":"34724",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwater",
+        "working"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPdqFNM7xk7m6rTWagm6R_40.982758_29.046719@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d10d82a203e7c4f5470e257ccab24114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169685261
+        }
+    ],
+    "wof:id":169685261,
+    "wof:lastmodified":1449035884,
+    "wof:name":"Deef Offshore Tr",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwater",
+        "working"
+    ]
+},
+  "bbox": [29.046719,40.982758,29.046719,40.982758],
+  "geometry": {"coordinates":[29.046719,40.982758],"type":"Point"}
+}

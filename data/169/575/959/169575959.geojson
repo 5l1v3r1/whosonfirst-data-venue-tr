@@ -1,0 +1,66 @@
+{
+  "id": 169575959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.881521,40.853271,29.881521,40.853271",
+    "geom:latitude":40.853271,
+    "geom:longitude":29.881521,
+    "iso:country":"TR",
+    "sg:address":"Mimarsinan Mah. Adnan Acarlar Sok. No:2 K?fez",
+    "sg:city":"Izmit",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 26252827045287",
+    "sg:postcode":"41000",
+    "sg:province":"Kocaeli",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28aIOOlDrgaKTrCNsAL57l_40.853271_29.881521@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4bbacdb87df7679c41b056fb97afd7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169575959
+        }
+    ],
+    "wof:id":169575959,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Dinc-trans San Ve Tic Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.881521,40.853271,29.881521,40.853271],
+  "geometry": {"coordinates":[29.881521,40.853271],"type":"Point"}
+}

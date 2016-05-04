@@ -1,0 +1,63 @@
+{
+  "id": 169527715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.870768,41.052044,28.870768,41.052044",
+    "geom:latitude":41.052044,
+    "geom:longitude":28.870768,
+    "iso:country":"TR",
+    "sg:address":"G.1 Sk. Birlik Apt. No.22",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 679 2404",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wear"
+    ],
+    "sg:website":"semestekstil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1skPo58tAwl48K3TpiaSq3_41.052044_28.870768@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b564e64681919d1f97ec09890bb8f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169527715
+        }
+    ],
+    "wof:id":169527715,
+    "wof:lastmodified":1449035279,
+    "wof:name":"Semes Tekstil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [28.870768,41.052044,28.870768,41.052044],
+  "geometry": {"coordinates":[28.870768,41.052044],"type":"Point"}
+}

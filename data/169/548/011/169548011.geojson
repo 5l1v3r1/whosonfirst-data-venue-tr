@@ -1,0 +1,68 @@
+{
+  "id": 169548011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976204,41.027885,28.976204,41.027885",
+    "geom:latitude":41.027885,
+    "geom:longitude":28.976204,
+    "iso:country":"TR",
+    "sg:address":"K.k.bostan Sk. No:35 Aksaray",
+    "sg:city":"?sk?dar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 529 5835",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IL7DeuKw7PZYpBl6YUuWu_41.027885_28.976204@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0dd95fce5cd74463cce819391e672bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169548011
+        }
+    ],
+    "wof:id":169548011,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Ari Ak?m?lat?r End?stri San. Tic. A.s.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [28.976204,41.027885,28.976204,41.027885],
+  "geometry": {"coordinates":[28.976204,41.027885],"type":"Point"}
+}

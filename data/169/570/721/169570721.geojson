@@ -1,0 +1,66 @@
+{
+  "id": 169570721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.099709,40.974583,29.099709,40.974583",
+    "geom:latitude":40.974583,
+    "geom:longitude":29.099709,
+    "iso:country":"TR",
+    "sg:address":"Doguskent Cad. No:6 Yanyol",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 441 6777",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XfM8YwfiGlYQe4wL6yNoe_40.974583_29.099709@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e401f4f572759d419f1924ecb8a40d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169570721
+        }
+    ],
+    "wof:id":169570721,
+    "wof:lastmodified":1449034648,
+    "wof:name":"Acar Metal Ticaret As.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [29.099709,40.974583,29.099709,40.974583],
+  "geometry": {"coordinates":[29.099709,40.974583],"type":"Point"}
+}

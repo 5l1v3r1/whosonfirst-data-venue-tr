@@ -1,0 +1,66 @@
+{
+  "id": 169579427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.870386,41.046196,28.870386,41.046196",
+    "geom:latitude":41.046196,
+    "geom:longitude":28.870386,
+    "iso:country":"TR",
+    "sg:address":"P.k.1041",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 2067",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UyxZGXaK8eCIXzODuTzuB_41.046196_28.870386@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e346b8ceb4bcbf7a4540a8ccabaf2d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169579427
+        }
+    ],
+    "wof:id":169579427,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Uzman Deniz Tasim.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.870386,41.046196,28.870386,41.046196],
+  "geometry": {"coordinates":[28.870386,41.046196],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169530643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.780794,40.978367,28.780794,40.978367",
+    "geom:latitude":40.978367,
+    "geom:longitude":28.780794,
+    "iso:country":"TR",
+    "sg:address":"Vali Konagi Cad 10",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 0575",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PAUJFJkYJW7WhPhdpDURb_40.978367_28.780794@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b00d4487ffb60e18c6a3b7fcb02f6994",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":169530643
+        }
+    ],
+    "wof:id":169530643,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Arab Turkish Bank",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.780794,40.978367,28.780794,40.978367],
+  "geometry": {"coordinates":[28.780794,40.978367],"type":"Point"}
+}

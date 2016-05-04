@@ -1,0 +1,68 @@
+{
+  "id": 169577357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.045973,40.994091,29.045973,40.994091",
+    "geom:latitude":40.994091,
+    "geom:longitude":29.045973,
+    "iso:country":"TR",
+    "sg:address":"S.gunaltay Cd.oral Sk.17/3 Kazasker",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 5646",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CCSbULH4hzSG0Epo3KSWj_40.994091_29.045973@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"56a1be32d2525c7f9bda8a1feae41aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169577357
+        }
+    ],
+    "wof:id":169577357,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Marimpeks Tur.ltd.sti.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.045973,40.994091,29.045973,40.994091],
+  "geometry": {"coordinates":[29.045973,40.994091],"type":"Point"}
+}

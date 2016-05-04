@@ -1,0 +1,61 @@
+{
+  "id": 169685225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.486397,37.811703,28.486397,37.811703",
+    "geom:latitude":37.811703,
+    "geom:longitude":28.486397,
+    "iso:country":"TR",
+    "sg:address":"Kurtulus Mah. A. Mend. Bulv. 18. Sk. No:11/c",
+    "sg:city":"Karkuteli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 213 4928",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CYNdP1BFwfUl9fkOwkTj8_37.811703_28.486397@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e5845d886680a7e8f784bc23e212c2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169685225
+        }
+    ],
+    "wof:id":169685225,
+    "wof:lastmodified":1449035885,
+    "wof:name":"Vetsag Veter. Sag. Hizm. Tic. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [28.486397,37.811703,28.486397,37.811703],
+  "geometry": {"coordinates":[28.486397,37.811703],"type":"Point"}
+}

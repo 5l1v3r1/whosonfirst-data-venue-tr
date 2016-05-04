@@ -1,0 +1,65 @@
+{
+  "id": 169673641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.117508,38.456718,27.117508,38.456718",
+    "geom:latitude":38.456718,
+    "geom:longitude":27.117508,
+    "iso:country":"TR",
+    "sg:address":"1717. Sok. No:52",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 369 6151",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66wjmxImFT6yH61Fd2DXUL_38.456718_27.117508@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ba6a43f5e753a3638b332bb66a66eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169673641
+        }
+    ],
+    "wof:id":169673641,
+    "wof:lastmodified":1449033959,
+    "wof:name":"Evim Pastacilik Gida San.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [27.117508,38.456718,27.117508,38.456718],
+  "geometry": {"coordinates":[27.117508,38.456718],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169566153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.090885,41.094128,29.090885,41.094128",
+    "geom:latitude":41.094128,
+    "geom:longitude":29.090885,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad.akbey Sok.no:6/1 Kavacik",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 416 7711",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FHTfNLoUOjs0pwJPzyfIc_41.094128_29.090885@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3fe3d4b5dcd015675c840f81f828de58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":169566153
+        }
+    ],
+    "wof:id":169566153,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Bts Bina Teknolojileri Sistemleri",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.090885,41.094128,29.090885,41.094128],
+  "geometry": {"coordinates":[29.090885,41.094128],"type":"Point"}
+}

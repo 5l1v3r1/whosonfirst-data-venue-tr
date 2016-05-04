@@ -1,0 +1,58 @@
+{
+  "id": 169530261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.973242,41.030918,28.973242,41.030918",
+    "geom:latitude":41.030918,
+    "geom:longitude":28.973242,
+    "iso:country":"TR",
+    "sg:address":"Po Box 782",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 0834",
+    "sg:province":"34430",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906543,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H8WFhvIslfsGh1mPJRgji_41.030918_28.973242@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5fa53feaba15916ac7486aafe126e98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906543,
+            "region_id":85679237,
+            "venue_id":169530261
+        }
+    ],
+    "wof:id":169530261,
+    "wof:lastmodified":1449034440,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":85906543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.973242,41.030918,28.973242,41.030918],
+  "geometry": {"coordinates":[28.973242,41.030918],"type":"Point"}
+}

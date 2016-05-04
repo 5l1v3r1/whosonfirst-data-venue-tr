@@ -1,0 +1,66 @@
+{
+  "id": 169674805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019236,41.112164,29.019236,41.112164",
+    "geom:latitude":41.112164,
+    "geom:longitude":29.019236,
+    "iso:country":"TR",
+    "sg:address":"Evren Oto San.sitesi",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 623 1005",
+    "sg:postcode":"07800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aUVrqC49RJbVO2NfaYZ2Y_41.112164_29.019236@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d2c5f82f86b512214f349050050b2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":169674805
+        }
+    ],
+    "wof:id":169674805,
+    "wof:lastmodified":1449035137,
+    "wof:name":"Pelit Gida San.a.s.",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [29.019236,41.112164,29.019236,41.112164],
+  "geometry": {"coordinates":[29.019236,41.112164],"type":"Point"}
+}

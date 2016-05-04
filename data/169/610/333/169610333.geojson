@@ -1,0 +1,63 @@
+{
+  "id": 169610333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.851753,39.918476,32.851753,39.918476",
+    "geom:latitude":39.918476,
+    "geom:longitude":32.851753,
+    "iso:country":"TR",
+    "sg:address":"Balgat",
+    "sg:city":"Balgat",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 285 6025",
+    "sg:postcode":"63510",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iq3caPRV7RZkLZUYp7NrE_39.918476_32.851753@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9c272193ede2b4240ef28068d7cd74d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169610333
+        }
+    ],
+    "wof:id":169610333,
+    "wof:lastmodified":1449035911,
+    "wof:name":"?ag Termal",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [32.851753,39.918476,32.851753,39.918476],
+  "geometry": {"coordinates":[32.851753,39.918476],"type":"Point"}
+}

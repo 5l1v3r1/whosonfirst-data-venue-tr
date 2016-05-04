@@ -1,0 +1,64 @@
+{
+  "id": 169569663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.826351,39.928234,32.826351,39.928234",
+    "geom:latitude":39.928234,
+    "geom:longitude":32.826351,
+    "iso:country":"TR",
+    "sg:address":"Azerbaycan Cad. No: 2/2 Bahcelievler",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 213 7100",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EppPOmLWvG5V3MSkvJBxX_39.928234_32.826351@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d1973dc15c9ff252cf7fe9103d43522",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":169569663
+        }
+    ],
+    "wof:id":169569663,
+    "wof:lastmodified":1449035831,
+    "wof:name":"S&s Guvermit Otomasyon Ve Bilgisayar Sistemleri San.tic.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.826351,39.928234,32.826351,39.928234],
+  "geometry": {"coordinates":[32.826351,39.928234],"type":"Point"}
+}

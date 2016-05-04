@@ -1,0 +1,64 @@
+{
+  "id": 169586621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"38.313236,38.345364,38.313236,38.345364",
+    "geom:latitude":38.345364,
+    "geom:longitude":38.313236,
+    "iso:country":"TR",
+    "sg:address":"Zafer Mah Milli Egemenlik Cad. No:134/b",
+    "sg:city":"Beypazari",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 762 6090",
+    "sg:postcode":"06730",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4isURZ9qkKPyhPPnMRIbID_38.345364_38.313236@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"469a02e24db981d228b9cb1f31c9864e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679309,
+            "venue_id":169586621
+        }
+    ],
+    "wof:id":169586621,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Bey Isi G?nes Enerji Sistemleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [38.313236,38.345364,38.313236,38.345364],
+  "geometry": {"coordinates":[38.313236,38.345364],"type":"Point"}
+}

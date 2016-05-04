@@ -1,0 +1,58 @@
+{
+  "id": 169542285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.072239,40.96489,29.072239,40.96489",
+    "geom:latitude":40.96489,
+    "geom:longitude":29.072239,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad 351",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 13609244",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nhxc5EejxMEgj9A06mWX2_40.964890_29.072239@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cb149ac6cb55ef56ad56ac724508f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169542285
+        }
+    ],
+    "wof:id":169542285,
+    "wof:lastmodified":1449035219,
+    "wof:name":"T?k Dis Ticaret, Bankasi As",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.072239,40.96489,29.072239,40.96489],
+  "geometry": {"coordinates":[29.072239,40.96489],"type":"Point"}
+}

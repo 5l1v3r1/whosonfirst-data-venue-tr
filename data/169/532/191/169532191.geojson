@@ -1,0 +1,58 @@
+{
+  "id": 169532191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.029699,41.078346,29.029699,41.078346",
+    "geom:latitude":41.078346,
+    "geom:longitude":29.029699,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cad 31",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 9343",
+    "sg:province":"80630",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wE6MLwW5as4mmlyLB0bL0_41.078346_29.029699@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6fe48c8619470b382cd40d6c5efee00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":169532191
+        }
+    ],
+    "wof:id":169532191,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.029699,41.078346,29.029699,41.078346],
+  "geometry": {"coordinates":[29.029699,41.078346],"type":"Point"}
+}

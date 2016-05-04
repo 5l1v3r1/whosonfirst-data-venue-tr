@@ -1,0 +1,67 @@
+{
+  "id": 169574611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"38.383411,40.915855,38.383411,40.915855",
+    "geom:latitude":40.915855,
+    "geom:longitude":38.383411,
+    "iso:country":"TR",
+    "sg:address":"Dervisoglu Sok. No:13",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 454 212 6984",
+    "sg:postcode":"75200",
+    "sg:province":"Giresun",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911103,
+        85679341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OENNMpB7Vw8IaTI3uqlE1_40.915855_38.383411@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26affb66ffe2aeb0802160c87d166917",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911103,
+            "neighbourhood_id":-1,
+            "region_id":85679341,
+            "venue_id":169574611
+        }
+    ],
+    "wof:id":169574611,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Ak & Diz Tic. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [38.383411,40.915855,38.383411,40.915855],
+  "geometry": {"coordinates":[38.383411,40.915855],"type":"Point"}
+}

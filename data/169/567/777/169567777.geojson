@@ -1,0 +1,64 @@
+{
+  "id": 169567777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.864712,41.017384,28.864712,41.017384",
+    "geom:latitude":41.017384,
+    "geom:longitude":28.864712,
+    "iso:country":"TR",
+    "sg:address":"Soganli Cad. Azak Sok.6/a Gungoren",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 504 4699",
+    "sg:postcode":"43050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ax1s3rvW5VT9AACHECNFJ_41.017384_28.864712@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e88282613eabdb826b13c6ddfdd60eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169567777
+        }
+    ],
+    "wof:id":169567777,
+    "wof:lastmodified":1449035995,
+    "wof:name":"Enes Elektronik Guvenlik Ve Iletisim Sistemleri",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.864712,41.017384,28.864712,41.017384],
+  "geometry": {"coordinates":[28.864712,41.017384],"type":"Point"}
+}

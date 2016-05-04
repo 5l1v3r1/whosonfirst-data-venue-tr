@@ -1,0 +1,58 @@
+{
+  "id": 169533169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.556833,39.763275,30.556833,39.763275",
+    "geom:latitude":39.763275,
+    "geom:longitude":30.556833,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad 4",
+    "sg:city":"Eskisehir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 237 1445",
+    "sg:postcode":"12800",
+    "sg:province":"26070",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uihfM3eBl63xb54Fty9TH_39.763275_30.556833@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ed071e35a1dfd88acecface8eba8190",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":-1,
+            "region_id":85679255,
+            "venue_id":169533169
+        }
+    ],
+    "wof:id":169533169,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.556833,39.763275,30.556833,39.763275],
+  "geometry": {"coordinates":[30.556833,39.763275],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169602719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.983784,41.036766,28.983784,41.036766",
+    "geom:latitude":41.036766,
+    "geom:longitude":28.983784,
+    "iso:country":"TR",
+    "sg:address":"Taksim Cd. No:145/147 Taksim",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 7505",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DgaSadq7hpqGMTMlaZVMN_41.036766_28.983784@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d5eefea7fd27da1f47dd90a443cec8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169602719
+        }
+    ],
+    "wof:id":169602719,
+    "wof:lastmodified":1449034226,
+    "wof:name":"Actuel Spor Malz. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.983784,41.036766,28.983784,41.036766],
+  "geometry": {"coordinates":[28.983784,41.036766],"type":"Point"}
+}

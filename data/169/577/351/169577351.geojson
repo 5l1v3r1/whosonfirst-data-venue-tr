@@ -1,0 +1,67 @@
+{
+  "id": 169577351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.365801,37.219601,28.365801,37.219601",
+    "geom:latitude":37.219601,
+    "geom:longitude":28.365801,
+    "iso:country":"TR",
+    "sg:address":"Dikmen Is Hani Kat: 1 No:13 Gulluk-",
+    "sg:city":"Milas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 522 3184",
+    "sg:postcode":"48200",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911277,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jvk2Z34rXxAJZhnHdXZSG_37.219601_28.365801@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50d33d777b7f78a0fd0b7c6c1092932a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911277,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169577351
+        }
+    ],
+    "wof:id":169577351,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Levent Denizcilik Gemi Acenteligi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.365801,37.219601,28.365801,37.219601],
+  "geometry": {"coordinates":[28.365801,37.219601],"type":"Point"}
+}

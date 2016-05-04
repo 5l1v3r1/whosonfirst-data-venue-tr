@@ -1,0 +1,57 @@
+{
+  "id": 169540841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.030432,41.065701,29.030432,41.065701",
+    "geom:latitude":41.065701,
+    "geom:longitude":29.030432,
+    "iso:country":"TR",
+    "sg:address":"Adnan Saygun Cad. Ulus",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 7604",
+    "sg:province":"80600",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904139,
+        85632393,
+        101912663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ucCuDXCFgL5rqOr09QVJ7_41.065701_29.030432@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6890b1532f7ac4e080cbbc439e6755d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904139,
+            "region_id":-1,
+            "venue_id":169540841
+        }
+    ],
+    "wof:id":169540841,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85904139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.030432,41.065701,29.030432,41.065701],
+  "geometry": {"coordinates":[29.030432,41.065701],"type":"Point"}
+}

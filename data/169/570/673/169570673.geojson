@@ -1,0 +1,60 @@
+{
+  "id": 169570673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.004108,41.065701,29.004108,41.065701",
+    "geom:latitude":41.065701,
+    "geom:longitude":29.004108,
+    "iso:country":"TR",
+    "sg:address":"Vefabey Sok. No:13",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 6973",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:website":"test-ltd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WG6GclCHtzJ7l2UwRAD94_41.065701_29.004108@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6a89400e98a0bcbd2cfa8954cfda99c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169570673
+        }
+    ],
+    "wof:id":169570673,
+    "wof:lastmodified":1449034645,
+    "wof:name":"Test Teknik Elektronik San. Ve Tic. Ltd.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.004108,41.065701,29.004108,41.065701],
+  "geometry": {"coordinates":[29.004108,41.065701],"type":"Point"}
+}

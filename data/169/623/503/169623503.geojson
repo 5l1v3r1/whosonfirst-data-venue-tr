@@ -1,0 +1,63 @@
+{
+  "id": 169623503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.365801,37.219601,28.365801,37.219601",
+    "geom:latitude":37.219601,
+    "geom:longitude":28.365801,
+    "iso:country":"TR",
+    "sg:address":"532 Sok.no:6 Dolgu Sahasi Fethiye",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 614 6200",
+    "sg:postcode":"34660",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911277,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tK7Kyed7FEm7K4wOsNJK9_37.219601_28.365801@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50d33d777b7f78a0fd0b7c6c1092932a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911277,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169623503
+        }
+    ],
+    "wof:id":169623503,
+    "wof:lastmodified":1449035001,
+    "wof:name":"Lokman Hekim Esnaf Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [28.365801,37.219601,28.365801,37.219601],
+  "geometry": {"coordinates":[28.365801,37.219601],"type":"Point"}
+}

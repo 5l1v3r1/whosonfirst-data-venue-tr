@@ -1,0 +1,63 @@
+{
+  "id": 169556345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.167656,38.428513,27.167656,38.428513",
+    "geom:latitude":38.428513,
+    "geom:longitude":27.167656,
+    "iso:country":"TR",
+    "sg:address":"1203/7 Sk. No.2/d Yenisehir",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2324498286729",
+    "sg:postcode":"36100",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904105,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_519jJapJBtycjfcWtTyqGf_38.428513_27.167656@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"acbf9120fb4436631acda2f12cce8502",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":169556345
+        }
+    ],
+    "wof:id":169556345,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Akuzman Havuz Sauna Jakuzy Sulama",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [27.167656,38.428513,27.167656,38.428513],
+  "geometry": {"coordinates":[27.167656,38.428513],"type":"Point"}
+}

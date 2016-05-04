@@ -1,0 +1,65 @@
+{
+  "id": 169571217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.076178,40.219116,29.076178,40.219116",
+    "geom:latitude":40.219116,
+    "geom:longitude":29.076178,
+    "iso:country":"TR",
+    "sg:address":"Kucukbalikli Sanli Cad. Kadirga Sok. No:15 Osmangazi",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 271 2893",
+    "sg:postcode":"20100",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929763,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ujwQtS0ZK4SllhAmDZRx9_40.219116_29.076178@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8876c2d0920e84c6894f1ef81a3828ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":169571217
+        }
+    ],
+    "wof:id":169571217,
+    "wof:lastmodified":1449034949,
+    "wof:name":"End Raf Sistemleri San. Ve Tic. Ltd.",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [29.076178,40.219116,29.076178,40.219116],
+  "geometry": {"coordinates":[29.076178,40.219116],"type":"Point"}
+}

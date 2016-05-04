@@ -1,0 +1,59 @@
+{
+  "id": 169534141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097456,41.094898,29.097456,41.094898",
+    "geom:latitude":41.094898,
+    "geom:longitude":29.097456,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad. 27",
+    "sg:city":"Yatagan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 572 2244",
+    "sg:postcode":"65900",
+    "sg:province":"48501",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oQTYA8PG9hquPEdbNBzOp_41.094898_29.097456@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a71790b2452c4b8a399b0bcc3d11920d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":169534141
+        }
+    ],
+    "wof:id":169534141,
+    "wof:lastmodified":1449033549,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.097456,41.094898,29.097456,41.094898],
+  "geometry": {"coordinates":[29.097456,41.094898],"type":"Point"}
+}

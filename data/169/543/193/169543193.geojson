@@ -1,0 +1,58 @@
+{
+  "id": 169543193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.858528,39.933861,32.858528,39.933861",
+    "geom:latitude":39.933861,
+    "geom:longitude":32.858528,
+    "iso:country":"TR",
+    "sg:address":"Adibinpasa",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 4099",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929569,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hCNezFgm2NEwyTL1dwZAs_39.933861_32.858528@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d1be7dc783e8f28c46d1fa5fecabb60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":169543193
+        }
+    ],
+    "wof:id":169543193,
+    "wof:lastmodified":1449033334,
+    "wof:name":"T\u00fcrkiye Emlak Bankasi As",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.858528,39.933861,32.858528,39.933861],
+  "geometry": {"coordinates":[32.858528,39.933861],"type":"Point"}
+}

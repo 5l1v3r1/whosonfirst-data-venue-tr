@@ -1,0 +1,64 @@
+{
+  "id": 169565915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.016119,41.073013,29.016119,41.073013",
+    "geom:latitude":41.073013,
+    "geom:longitude":29.016119,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cd. No:6/a Levent",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 9378",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cyAlvCaU1zhY0wkOKtn03_41.073013_29.016119@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ffea94b489370d2673ce2b8ec84e9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169565915
+        }
+    ],
+    "wof:id":169565915,
+    "wof:lastmodified":1449035668,
+    "wof:name":"Bina Guvenlik Otomasyon Sistemleri",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.016119,41.073013,29.016119,41.073013],
+  "geometry": {"coordinates":[29.016119,41.073013],"type":"Point"}
+}

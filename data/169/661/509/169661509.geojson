@@ -1,0 +1,64 @@
+{
+  "id": 169661509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.489136,38.722576,35.489136,38.722576",
+    "geom:latitude":38.722576,
+    "geom:longitude":35.489136,
+    "iso:country":"TR",
+    "sg:address":"Org. Sanayi B?g. 19. Cd. No:24",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 321 1416",
+    "sg:postcode":"20100",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rKCYWzqwGzq3QnebV4xe5_38.722576_35.489136@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"afa9f22991fa79dee544bcb23ffdf913",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169661509
+        }
+    ],
+    "wof:id":169661509,
+    "wof:lastmodified":1449035597,
+    "wof:name":"Evin Celik Esya Tel Cekme San.tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [35.489136,38.722576,35.489136,38.722576],
+  "geometry": {"coordinates":[35.489136,38.722576],"type":"Point"}
+}

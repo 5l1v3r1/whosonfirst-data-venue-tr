@@ -1,0 +1,64 @@
+{
+  "id": 169586039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.849815,39.903835,32.849815,39.903835",
+    "geom:latitude":39.903835,
+    "geom:longitude":32.849815,
+    "iso:country":"TR",
+    "sg:address":"Hosdere Cad. No:24/5",
+    "sg:city":"Y.ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 31246867903",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i1k0GLytVWrvS2P8icwPQ_39.903835_32.849815@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ccf3f86ea7beaa08745b0143b9853595",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169586039
+        }
+    ],
+    "wof:id":169586039,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Agd",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.849815,39.903835,32.849815,39.903835],
+  "geometry": {"coordinates":[32.849815,39.903835],"type":"Point"}
+}

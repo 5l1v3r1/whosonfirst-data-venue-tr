@@ -1,0 +1,63 @@
+{
+  "id": 169554475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.848608,37.848751,27.848608,37.848751",
+    "geom:latitude":37.848751,
+    "geom:longitude":27.848608,
+    "iso:country":"TR",
+    "sg:address":"Cuma Mah. Gazi Bulv. No:20",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 212 9528",
+    "sg:postcode":"43050",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911263,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10pzMw7ZbxDzcvJguPpV9h_37.848751_27.848608@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a7c91954605f0876dfe171373a4a4e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911263,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169554475
+        }
+    ],
+    "wof:id":169554475,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Izci Ticaret",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.848608,37.848751,27.848608,37.848751],
+  "geometry": {"coordinates":[27.848608,37.848751],"type":"Point"}
+}

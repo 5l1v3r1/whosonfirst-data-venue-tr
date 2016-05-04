@@ -1,0 +1,58 @@
+{
+  "id": 169533349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.957432,40.549126,34.957432,40.549126",
+    "geom:latitude":40.549126,
+    "geom:longitude":34.957432,
+    "iso:country":"TR",
+    "sg:address":"Eskisaray Caddesi 17",
+    "sg:city":"Gaziantep",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 233 9960",
+    "sg:postcode":"63570",
+    "sg:province":"27400",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911161,
+        85679339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B0AMwPfU27kPDENI40IWy_40.549126_34.957432@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"162f25fdad463c6a0ce5d6d57e2f8127",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911161,
+            "neighbourhood_id":-1,
+            "region_id":85679339,
+            "venue_id":169533349
+        }
+    ],
+    "wof:id":169533349,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [34.957432,40.549126,34.957432,40.549126],
+  "geometry": {"coordinates":[34.957432,40.549126],"type":"Point"}
+}

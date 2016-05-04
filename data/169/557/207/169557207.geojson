@@ -1,0 +1,64 @@
+{
+  "id": 169557207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.983854,41.034431,28.983854,41.034431",
+    "geom:latitude":41.034431,
+    "geom:longitude":28.983854,
+    "iso:country":"TR",
+    "sg:address":"Siraselviler Billurcu Sk. No. 8 Taksim",
+    "sg:city":"Atasehir",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122452923212",
+    "sg:postcode":"34758",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906571,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g5n6yNzVfkrCXXpQJ78to_41.034431_28.983854@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09ef99723f5c3c6902e55f73b11e543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906571,
+            "region_id":85679237,
+            "venue_id":169557207
+        }
+    ],
+    "wof:id":169557207,
+    "wof:lastmodified":1449035037,
+    "wof:name":"Ospa Erko? Ltd.",
+    "wof:parent_id":85906571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.983854,41.034431,28.983854,41.034431],
+  "geometry": {"coordinates":[28.983854,41.034431],"type":"Point"}
+}

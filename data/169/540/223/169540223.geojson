@@ -1,0 +1,58 @@
+{
+  "id": 169540223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.095304,40.975155,29.095304,40.975155",
+    "geom:latitude":40.975155,
+    "geom:longitude":29.095304,
+    "iso:country":"TR",
+    "sg:address":"Mayis Mahallesi 19",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 225 7090",
+    "sg:province":"80220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ved4wijtmMaNTrW6urBrR_40.975155_29.095304@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0498cd9ae8c54e03e09957c9f432bd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169540223
+        }
+    ],
+    "wof:id":169540223,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Taib Bank Ec",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.095304,40.975155,29.095304,40.975155],
+  "geometry": {"coordinates":[29.095304,40.975155],"type":"Point"}
+}

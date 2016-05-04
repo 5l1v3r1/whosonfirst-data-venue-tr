@@ -1,0 +1,59 @@
+{
+  "id": 169541197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.188206,40.920761,29.188206,40.920761",
+    "geom:latitude":40.920761,
+    "geom:longitude":29.188206,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad No 143, 80280 Esentepe, Istanbul",
+    "sg:city":"Caddebostan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 340 1000",
+    "sg:postcode":"34728",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.toprakbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ngo52QybL9eG2Mj38Qlv6_40.920761_29.188206@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d79a1fa6f05670d33b5be0bff059d059",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169541197
+        }
+    ],
+    "wof:id":169541197,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.188206,40.920761,29.188206,40.920761],
+  "geometry": {"coordinates":[29.188206,40.920761],"type":"Point"}
+}

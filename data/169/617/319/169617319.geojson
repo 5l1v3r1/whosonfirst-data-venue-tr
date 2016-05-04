@@ -1,0 +1,62 @@
+{
+  "id": 169617319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"42.270279,37.93,42.270279,37.93",
+    "geom:latitude":37.93,
+    "geom:longitude":42.270279,
+    "iso:country":"TR",
+    "sg:address":"Siirt",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 484 223 1021",
+    "sg:postcode":"34660",
+    "sg:province":"Siirt",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KVttynW1mkbKNlvtG9gOe_37.930000_42.270279@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dd272b0619e430e65fef1b1a983f14ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679489,
+            "venue_id":169617319
+        }
+    ],
+    "wof:id":169617319,
+    "wof:lastmodified":1449032800,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [42.270279,37.93,42.270279,37.93],
+  "geometry": {"coordinates":[42.270279,37.93],"type":"Point"}
+}

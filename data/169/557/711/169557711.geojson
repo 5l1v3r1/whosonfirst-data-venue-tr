@@ -1,0 +1,63 @@
+{
+  "id": 169557711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.668158,36.935825,30.668158,36.935825",
+    "geom:latitude":36.935825,
+    "geom:longitude":30.668158,
+    "iso:country":"TR",
+    "sg:address":"Asakoglu Sahil Sit. Deniz Kent 21 Bl. D. 6",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 514 1054",
+    "sg:postcode":"07080",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rC0uOoDYnJdTkkGhDhwVb_36.935825_30.668158@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad03bdd8b2add2e4c454447b9219b2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":-1,
+            "region_id":85679263,
+            "venue_id":169557711
+        }
+    ],
+    "wof:id":169557711,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Timpas A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [30.668158,36.935825,30.668158,36.935825],
+  "geometry": {"coordinates":[30.668158,36.935825],"type":"Point"}
+}

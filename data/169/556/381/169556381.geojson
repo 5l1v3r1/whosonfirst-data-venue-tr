@@ -1,0 +1,64 @@
+{
+  "id": 169556381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.089172,40.962078,29.089172,40.962078",
+    "geom:latitude":40.962078,
+    "geom:longitude":29.089172,
+    "iso:country":"TR",
+    "sg:address":"Sehit Evliya Sok. No.4/ 2 Suadiye",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 463 1074",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WSlm33098XD6qOZHbB2dn_40.962078_29.089172@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"645cadbd1f60e45b77a88b59299718e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169556381
+        }
+    ],
+    "wof:id":169556381,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Aqua Havuz Sauna",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.089172,40.962078,29.089172,40.962078],
+  "geometry": {"coordinates":[29.089172,40.962078],"type":"Point"}
+}

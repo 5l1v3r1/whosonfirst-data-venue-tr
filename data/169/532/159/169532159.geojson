@@ -1,0 +1,57 @@
+{
+  "id": 169532159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.201406,38.460987,27.201406,38.460987",
+    "geom:latitude":38.460987,
+    "geom:longitude":27.201406,
+    "iso:country":"TR",
+    "sg:address":"Mustafa Kemal Cad 134",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 342 7799",
+    "sg:province":"35040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tn5HBXlom3qwlE2YNVEEf_38.460987_27.201406@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bce3655f54f5526830811cfb62817b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169532159
+        }
+    ],
+    "wof:id":169532159,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.201406,38.460987,27.201406,38.460987],
+  "geometry": {"coordinates":[27.201406,38.460987],"type":"Point"}
+}

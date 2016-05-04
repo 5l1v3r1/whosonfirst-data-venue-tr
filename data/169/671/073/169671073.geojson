@@ -1,0 +1,62 @@
+{
+  "id": 169671073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "sg:address":"Halaskargazi Cad. Maya Apt. No:198 Kat:1 D:2",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 225 3240",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sugar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03wFsAsqFPRre8veDEVeYv_41.012379_28.975925@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169671073
+        }
+    ],
+    "wof:id":169671073,
+    "wof:lastmodified":1449033451,
+    "wof:name":"Manar Makine",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sugar"
+    ]
+},
+  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
+}

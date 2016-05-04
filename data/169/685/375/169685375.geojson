@@ -1,0 +1,65 @@
+{
+  "id": 169685375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.79314,41.092854,28.79314,41.092854",
+    "geom:latitude":41.092854,
+    "geom:longitude":28.79314,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cd.petrol Sit.31 Blok D5",
+    "sg:city":"Levent",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 0769",
+    "sg:postcode":"01310",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwater",
+        "working"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929961,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72UKaANj5GYN8EvXty5lue_41.092854_28.793140@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f94785edeb1b7f49809c2ec56d8de358",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":169685375
+        }
+    ],
+    "wof:id":169685375,
+    "wof:lastmodified":1449035884,
+    "wof:name":"Yuysan Katodik Koruma Ltd.sti",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwater",
+        "working"
+    ]
+},
+  "bbox": [28.79314,41.092854,28.79314,41.092854],
+  "geometry": {"coordinates":[28.79314,41.092854],"type":"Point"}
+}

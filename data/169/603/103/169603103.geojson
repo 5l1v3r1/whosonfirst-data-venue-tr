@@ -1,0 +1,64 @@
+{
+  "id": 169603103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.968021,41.013653,28.968021,41.013653",
+    "geom:latitude":41.013653,
+    "geom:longitude":28.968021,
+    "iso:country":"TR",
+    "sg:address":"Tigcilar Cakmakcila Yokusu 1/3 Mercan",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212528012324",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906465,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38RUUz0Zyb9nw2P2FX1lXD_41.013653_28.968021@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb18f74b215cd7f7ef11ef78ecc6a472",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906465,
+            "region_id":85679237,
+            "venue_id":169603103
+        }
+    ],
+    "wof:id":169603103,
+    "wof:lastmodified":1449035455,
+    "wof:name":"Anlaroglu Av Ve Spor Malzemeleri A.s.",
+    "wof:parent_id":85906465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.968021,41.013653,28.968021,41.013653],
+  "geometry": {"coordinates":[28.968021,41.013653],"type":"Point"}
+}

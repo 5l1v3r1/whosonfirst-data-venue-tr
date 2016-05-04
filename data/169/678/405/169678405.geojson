@@ -1,0 +1,63 @@
+{
+  "id": 169678405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.002756,41.096481,29.002756,41.096481",
+    "geom:latitude":41.096481,
+    "geom:longitude":29.002756,
+    "iso:country":"TR",
+    "sg:address":"Yesilce Mh. Aytekin Sk. No:18 K:4 4.levent",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 6876",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930127,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N8FQolLlCqf4bPfQXM3s9_41.096481_29.002756@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"92a20c834c85f36dcd0d577e6011689e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":169678405
+        }
+    ],
+    "wof:id":169678405,
+    "wof:lastmodified":1449034275,
+    "wof:name":"Topa? Plastik San. Tic. A.s.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [29.002756,41.096481,29.002756,41.096481],
+  "geometry": {"coordinates":[29.002756,41.096481],"type":"Point"}
+}

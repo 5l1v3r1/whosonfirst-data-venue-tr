@@ -1,0 +1,64 @@
+{
+  "id": 169571953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.03772,41.00285,29.03772,41.00285",
+    "geom:latitude":41.00285,
+    "geom:longitude":29.03772,
+    "iso:country":"TR",
+    "sg:address":"Acibadem Koftuncu Sk.no.1",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 326 6965",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26LuXS8w72XUbOpSiDa8pw_41.002850_29.037720@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f01c962ac0b12d9d0f60d845521526a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":169571953
+        }
+    ],
+    "wof:id":169571953,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Atabay Denizcilik Ve Yatcilik Ltd.sti..",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.03772,41.00285,29.03772,41.00285],
+  "geometry": {"coordinates":[29.03772,41.00285],"type":"Point"}
+}

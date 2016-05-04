@@ -1,0 +1,57 @@
+{
+  "id": 169533323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.889107,41.031036,28.889107,41.031036",
+    "geom:latitude":41.031036,
+    "geom:longitude":28.889107,
+    "iso:country":"TR",
+    "sg:address":"Davutpasa Cad 119",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 565 7299",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929891,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nqz0cHAyLADRd2E064xfC_41.031036_28.889107@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"902ee233495b0cee77d70608a7c99433",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":169533323
+        }
+    ],
+    "wof:id":169533323,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.889107,41.031036,28.889107,41.031036],
+  "geometry": {"coordinates":[28.889107,41.031036],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169579581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.970146,41.011391,28.970146,41.011391",
+    "geom:latitude":41.011391,
+    "geom:longitude":28.970146,
+    "iso:country":"TR",
+    "sg:address":"Defterdar Yokusu No47 K2 D2",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 3074",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906487,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YKvMMMaQoCPLmv7epn1I5_41.011391_28.970146@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"02e47f0006befd1ea3b86cc9a225d642",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":169579581
+        }
+    ],
+    "wof:id":169579581,
+    "wof:lastmodified":1449033740,
+    "wof:name":"?alisanlar Denizcilik A.s.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.970146,41.011391,28.970146,41.011391],
+  "geometry": {"coordinates":[28.970146,41.011391],"type":"Point"}
+}

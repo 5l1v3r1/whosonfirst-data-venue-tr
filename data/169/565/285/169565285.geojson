@@ -1,0 +1,62 @@
+{
+  "id": 169565285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.770508,40.990532,28.770508,40.990532",
+    "geom:latitude":40.990532,
+    "geom:longitude":28.770508,
+    "iso:country":"TR",
+    "sg:address":"Londra Asfalti Denizkoskler Mah. No:117/4 Avcilar",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212509755758",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929775,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CRRYwmEyIBcriYO4DZ2cS_40.990532_28.770508@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da57a49df8ae8e50bef117b061f9f745",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929775,
+            "region_id":85679237,
+            "venue_id":169565285
+        }
+    ],
+    "wof:id":169565285,
+    "wof:lastmodified":1449035662,
+    "wof:name":"As G?venlik Sistemleri Lojistik Turizm.ve Temizlik Hizm.san.tic.ltd.sti.",
+    "wof:parent_id":85929775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.770508,40.990532,28.770508,40.990532],
+  "geometry": {"coordinates":[28.770508,40.990532],"type":"Point"}
+}

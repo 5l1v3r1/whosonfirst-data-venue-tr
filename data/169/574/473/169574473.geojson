@@ -1,0 +1,68 @@
+{
+  "id": 169574473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.082638,40.973072,29.082638,40.973072",
+    "geom:latitude":40.973072,
+    "geom:longitude":29.082638,
+    "iso:country":"TR",
+    "sg:address":"Semsettin Gunaltay Cad.no: 206",
+    "sg:city":"Erenkoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 2790",
+    "sg:postcode":"07060",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zk1cDUDmbtXCCNKPYjhK2_40.973072_29.082638@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a08ec02389d477e0d8e58a3c28677450",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169574473
+        }
+    ],
+    "wof:id":169574473,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Active Marine Ist.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.082638,40.973072,29.082638,40.973072],
+  "geometry": {"coordinates":[29.082638,40.973072],"type":"Point"}
+}

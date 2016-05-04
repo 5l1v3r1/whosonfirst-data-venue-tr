@@ -1,0 +1,62 @@
+{
+  "id": 169615661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.230175,40.262684,40.230175,40.262684",
+    "geom:latitude":40.262684,
+    "geom:longitude":40.230175,
+    "iso:country":"TR",
+    "sg:address":"Bayburt",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 458 211 7122",
+    "sg:postcode":"34660",
+    "sg:province":"Bayburt",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lLMCl79mE6vmUjxPpQbTu_40.262684_40.230175@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5665e99894eb15fc483387f3ee7461b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679471,
+            "venue_id":169615661
+        }
+    ],
+    "wof:id":169615661,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [40.230175,40.262684,40.230175,40.262684],
+  "geometry": {"coordinates":[40.230175,40.262684],"type":"Point"}
+}

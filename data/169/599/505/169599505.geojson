@@ -1,0 +1,64 @@
+{
+  "id": 169599505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.080196,40.993542,29.080196,40.993542",
+    "geom:latitude":40.993542,
+    "geom:longitude":29.080196,
+    "iso:country":"TR",
+    "sg:address":"Emin Efendi Cad. Huzur Sok.no:6/a",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ski Slope",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 565 1137",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JAtDiJ5zfCeTT8mkoxjf1_40.993542_29.080196@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"103385382d399e35dec7b3ad2c3c8ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169599505
+        }
+    ],
+    "wof:id":169599505,
+    "wof:lastmodified":1449034210,
+    "wof:name":"Mina Tekstil",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [29.080196,40.993542,29.080196,40.993542],
+  "geometry": {"coordinates":[29.080196,40.993542],"type":"Point"}
+}

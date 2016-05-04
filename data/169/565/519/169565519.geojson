@@ -1,0 +1,64 @@
+{
+  "id": 169565519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049021,40.99213,29.049021,40.99213",
+    "geom:latitude":40.99213,
+    "geom:longitude":29.049021,
+    "iso:country":"TR",
+    "sg:address":"Hizirbey Cad.no:73/a Fikirtepe Kadikoy",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 449 4836",
+    "sg:postcode":"43050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FSWm5finoKZTxOu2TIxBz_40.992130_29.049021@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"294207d1ad2db22efdaf2da6f2f05716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169565519
+        }
+    ],
+    "wof:id":169565519,
+    "wof:lastmodified":1449035669,
+    "wof:name":"Ayibil Elektronik Sanayi Ve Tic.ltd.sti.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.049021,40.99213,29.049021,40.99213],
+  "geometry": {"coordinates":[29.049021,40.99213],"type":"Point"}
+}

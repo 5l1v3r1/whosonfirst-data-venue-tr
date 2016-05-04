@@ -1,0 +1,65 @@
+{
+  "id": 169625321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.825279,37.775135,-96.825279,37.775135",
+    "geom:latitude":37.775135,
+    "geom:longitude":-96.825279,
+    "iso:country":"TR",
+    "sg:address":"I?el",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 714 1159",
+    "sg:postcode":"34660",
+    "sg:province":"I?el",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        102082695,
+        85851529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gxcJKiMqZ7DZudp3ewtJ3_37.775135_-96.825279@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6051e8ef6caa43f88d8a5a21c8b725dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082695,
+            "locality_id":-1,
+            "neighbourhood_id":85851529,
+            "region_id":85688555,
+            "venue_id":169625321
+        }
+    ],
+    "wof:id":169625321,
+    "wof:lastmodified":1449036020,
+    "wof:name":"Silifke Devlet Hastanesi",
+    "wof:parent_id":85851529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [-96.825279,37.775135,-96.825279,37.775135],
+  "geometry": {"coordinates":[-96.825279,37.775135],"type":"Point"}
+}

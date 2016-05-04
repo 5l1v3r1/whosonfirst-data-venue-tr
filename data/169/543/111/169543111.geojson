@@ -1,0 +1,57 @@
+{
+  "id": 169543111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856911,39.913414,32.856911,39.913414",
+    "geom:latitude":39.913414,
+    "geom:longitude":32.856911,
+    "iso:country":"TR",
+    "sg:address":"Akay Cad 4 Cankaya",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 219 7331",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWuGPjBjd0dQJ2zsZgHnR_39.913414_32.856911@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ace1b7a30fb98b635a72d6e04fa09e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169543111
+        }
+    ],
+    "wof:id":169543111,
+    "wof:lastmodified":1449033335,
+    "wof:name":"T?kiye Cumhuriyeti, Ziraat Bankasi",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.856911,39.913414,32.856911,39.913414],
+  "geometry": {"coordinates":[32.856911,39.913414],"type":"Point"}
+}

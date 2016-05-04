@@ -1,0 +1,64 @@
+{
+  "id": 169566095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.088379,40.965069,29.088379,40.965069",
+    "geom:latitude":40.965069,
+    "geom:longitude":29.088379,
+    "iso:country":"TR",
+    "sg:address":"Hal Yolu Fatih Cad. No:3 Kozyatagi",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 8833",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cjay2Jq1NHu0d3haKlPif_40.965069_29.088379@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7b98082e924a0bd6fbc2afca41f52287",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169566095
+        }
+    ],
+    "wof:id":169566095,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Bosphorus Security Systems",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.088379,40.965069,29.088379,40.965069],
+  "geometry": {"coordinates":[29.088379,40.965069],"type":"Point"}
+}

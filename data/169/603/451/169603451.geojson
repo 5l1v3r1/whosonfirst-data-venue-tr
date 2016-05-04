@@ -1,0 +1,63 @@
+{
+  "id": 169603451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.236578,40.877224,29.236578,40.877224",
+    "geom:latitude":40.877224,
+    "geom:longitude":29.236578,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cd. No:175 Pendik",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 375 3202",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930121,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vd1b1FpASNLGHhgn52hIj_40.877224_29.236578@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b075d35c473959b40872c9bd63c9fff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930121,
+            "region_id":-1,
+            "venue_id":169603451
+        }
+    ],
+    "wof:id":169603451,
+    "wof:lastmodified":1449035452,
+    "wof:name":"Baris Spor Galerisi",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.236578,40.877224,29.236578,40.877224],
+  "geometry": {"coordinates":[29.236578,40.877224],"type":"Point"}
+}

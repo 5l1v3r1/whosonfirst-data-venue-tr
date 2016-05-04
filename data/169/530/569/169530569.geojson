@@ -1,0 +1,57 @@
+{
+  "id": 169530569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.847652,40.995689,28.847652,40.995689",
+    "geom:latitude":40.995689,
+    "geom:longitude":28.847652,
+    "iso:country":"TR",
+    "sg:address":"Haznedar 1, Bahcelievler, 34603 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wj06MpIt9HDC3fGvmNB4g_40.995689_28.847652@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"96afc71bd989a5bedc307b09fa67d2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169530569
+        }
+    ],
+    "wof:id":169530569,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Anadolu Efes Biracilik Ve Malt San As",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.847652,40.995689,28.847652,40.995689],
+  "geometry": {"coordinates":[28.847652,40.995689],"type":"Point"}
+}

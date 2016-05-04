@@ -1,0 +1,67 @@
+{
+  "id": 169579479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul.no54 K2/209",
+    "sg:city":"Tesvikiye",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 4254",
+    "sg:postcode":"43270",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wxNtAv8xGqpT3N8P3Lg56_38.418697_27.129686@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e642dc93600900c2a83494e531c8288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169579479
+        }
+    ],
+    "wof:id":169579479,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Yeni Marmara Denizcilik Ltd.sti.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
+}

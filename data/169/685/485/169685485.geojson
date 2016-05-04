@@ -1,0 +1,64 @@
+{
+  "id": 169685485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.075064,41.052784,29.075064,41.052784",
+    "geom:latitude":41.052784,
+    "geom:longitude":29.075064,
+    "iso:country":"TR",
+    "sg:address":"Bahcelievler Mah. Zubeyde Hanim Cad. Pelin Sok. No:1",
+    "sg:city":"Cengelkoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21646236073",
+    "sg:postcode":"28950",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929501,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_382kX1O9PUcEX82590wm0t_41.052784_29.075064@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cafc8eac8a439d2dde1456292a7b1e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237,
+            "venue_id":169685485
+        }
+    ],
+    "wof:id":169685485,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Barem Tekstil",
+    "wof:parent_id":85929501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.075064,41.052784,29.075064,41.052784],
+  "geometry": {"coordinates":[29.075064,41.052784],"type":"Point"}
+}

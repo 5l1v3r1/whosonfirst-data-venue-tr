@@ -1,0 +1,63 @@
+{
+  "id": 169555391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.16,42.026901,35.16,42.026901",
+    "geom:latitude":42.026901,
+    "geom:longitude":35.16,
+    "iso:country":"TR",
+    "sg:address":"Cevdet Kerim Cad. No:1/a",
+    "sg:city":"Boyabat",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 368 315 1457",
+    "sg:postcode":"57200",
+    "sg:province":"Sinop",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101910983,
+        85679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fWiAofVQMJPTzFGixX73n_42.026901_35.160000@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"250f69803d76f7d672b16f5869dc0d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101910983,
+            "neighbourhood_id":-1,
+            "region_id":85679351,
+            "venue_id":169555391
+        }
+    ],
+    "wof:id":169555391,
+    "wof:lastmodified":1449035494,
+    "wof:name":"Sembol Ticaret",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [35.16,42.026901,35.16,42.026901],
+  "geometry": {"coordinates":[35.16,42.026901],"type":"Point"}
+}

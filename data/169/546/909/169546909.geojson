@@ -1,0 +1,58 @@
+{
+  "id": 169546909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.091135,40.966686,29.091135,40.966686",
+    "geom:latitude":40.966686,
+    "geom:longitude":29.091135,
+    "iso:country":"TR",
+    "sg:address":"Marmara Cad 3",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 593 7339",
+    "sg:province":"34840",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lrH0Y2g1e7sdvhz8qZAQb_40.966686_29.091135@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5d7f71665027008ae9757e84c1c6604b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169546909
+        }
+    ],
+    "wof:id":169546909,
+    "wof:lastmodified":1449032680,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.091135,40.966686,29.091135,40.966686],
+  "geometry": {"coordinates":[29.091135,40.966686],"type":"Point"}
+}

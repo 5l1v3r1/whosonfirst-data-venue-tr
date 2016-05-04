@@ -1,0 +1,65 @@
+{
+  "id": 169574939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.557814,41.016258,28.557814,41.016258",
+    "geom:latitude":41.016258,
+    "geom:longitude":28.557814,
+    "iso:country":"TR",
+    "sg:address":"Ataturk Mah.soydan Sok. Hakan Apt. No:4/3",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 883 4538",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dqhydT40IRxhwzq56Dp7o_41.016258_28.557814@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24364af1a2091235953905b72fea0b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169574939
+        }
+    ],
+    "wof:id":169574939,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Ares Denizcilik Tas.ic.ve Dis Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.557814,41.016258,28.557814,41.016258],
+  "geometry": {"coordinates":[28.557814,41.016258],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169684853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.616287,40.039818,32.616287,40.039818",
+    "geom:latitude":40.039818,
+    "geom:longitude":32.616287,
+    "iso:country":"TR",
+    "sg:address":"Adnan Menderes Bulvari No:4/a",
+    "sg:city":"Cubuk",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 837 6238",
+    "sg:postcode":"27800",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pByQF9zrB8ugLETQ63t7v_40.039818_32.616287@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d91ecadcc8263b7f7a7ec73088c294c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169684853
+        }
+    ],
+    "wof:id":169684853,
+    "wof:lastmodified":1449033511,
+    "wof:name":"Veysel Yilmaz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [32.616287,40.039818,32.616287,40.039818],
+  "geometry": {"coordinates":[32.616287,40.039818],"type":"Point"}
+}

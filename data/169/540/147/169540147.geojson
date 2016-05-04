@@ -1,0 +1,59 @@
+{
+  "id": 169540147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.004833,41.066486,29.004833,41.066486",
+    "geom:latitude":41.066486,
+    "geom:longitude":29.004833,
+    "iso:country":"TR",
+    "sg:address":"Yildiz Posta Cad 18",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 273 2332",
+    "sg:postcode":"34349",
+    "sg:province":"80280",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ioLUTjLrYahhWz6ZSWlfA_41.066486_29.004833@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f6d798d5e2f74e02e5efaf52645f90b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169540147
+        }
+    ],
+    "wof:id":169540147,
+    "wof:lastmodified":1449033977,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.004833,41.066486,29.004833,41.066486],
+  "geometry": {"coordinates":[29.004833,41.066486],"type":"Point"}
+}

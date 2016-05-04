@@ -1,0 +1,64 @@
+{
+  "id": 169556263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.871332,40.977638,28.871332,40.977638",
+    "geom:latitude":40.977638,
+    "geom:longitude":28.871332,
+    "iso:country":"TR",
+    "sg:address":"Numunebag Cad.no:104/b",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 674 9454",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930019,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQ2isQYbNJwvfJEyBIPZ5_40.977638_28.871332@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4afff4f12d81377d5d03384a4a1f875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930019,
+            "region_id":-1,
+            "venue_id":169556263
+        }
+    ],
+    "wof:id":169556263,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Master Electronic",
+    "wof:parent_id":85930019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [28.871332,40.977638,28.871332,40.977638],
+  "geometry": {"coordinates":[28.871332,40.977638],"type":"Point"}
+}

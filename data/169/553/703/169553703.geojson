@@ -1,0 +1,62 @@
+{
+  "id": 169553703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.406033,37.054729,37.406033,37.054729",
+    "geom:latitude":37.054729,
+    "geom:longitude":37.406033,
+    "iso:country":"TR",
+    "sg:address":"Kenan Evren Bulvari Mehdi Efendi Sok. No:50",
+    "sg:city":"Haskoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 225 0551",
+    "sg:postcode":"75200",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gKfoe9OaNldeMYzx7pBmB_37.054729_37.406033@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a7ca9ff7b91d20558fe5ce1ce17695e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679437,
+            "venue_id":169553703
+        }
+    ],
+    "wof:id":169553703,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Ege Gida San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [37.406033,37.054729,37.406033,37.054729],
+  "geometry": {"coordinates":[37.406033,37.054729],"type":"Point"}
+}

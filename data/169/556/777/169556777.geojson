@@ -1,0 +1,64 @@
+{
+  "id": 169556777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.673359,36.903618,30.673359,36.903618",
+    "geom:latitude":36.903618,
+    "geom:longitude":30.673359,
+    "iso:country":"TR",
+    "sg:address":"Bayindir Mah. Gazi Bul. No:68",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 345 1513",
+    "sg:postcode":"52750",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929913,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j33YtpNF3815Ikh7PjInR_36.903618_30.673359@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0f7309bd821d74061cbf9d236c3cb7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85929913,
+            "region_id":85679263,
+            "venue_id":169556777
+        }
+    ],
+    "wof:id":169556777,
+    "wof:lastmodified":1449033508,
+    "wof:name":"G?nsu Enerji Sistemleri Ve Konfor Tesis. San. Tic. A.s.",
+    "wof:parent_id":85929913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [30.673359,36.903618,30.673359,36.903618],
+  "geometry": {"coordinates":[30.673359,36.903618],"type":"Point"}
+}

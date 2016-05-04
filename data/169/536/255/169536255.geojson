@@ -1,0 +1,57 @@
+{
+  "id": 169536255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.219631,38.464611,27.219631,38.464611",
+    "geom:latitude":38.464611,
+    "geom:longitude":27.219631,
+    "iso:country":"TR",
+    "sg:address":"Erzene Mah 85",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 343 1544",
+    "sg:province":"35040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oa25XfHUMSeAEHwDH1WVs_38.464611_27.219631@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1b0269c3a4b1001a7105645e35bdc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169536255
+        }
+    ],
+    "wof:id":169536255,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.219631,38.464611,27.219631,38.464611],
+  "geometry": {"coordinates":[27.219631,38.464611],"type":"Point"}
+}

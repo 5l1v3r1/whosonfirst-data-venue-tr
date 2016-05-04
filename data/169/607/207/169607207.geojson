@@ -1,0 +1,65 @@
+{
+  "id": 169607207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.95764,41.015499,28.95764,41.015499",
+    "geom:latitude":41.015499,
+    "geom:longitude":28.95764,
+    "iso:country":"TR",
+    "sg:address":"Cemal Yener Tosyali Cad No:38",
+    "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 514 5050",
+    "sg:postcode":"34110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906509,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23SXW6OxKMOWBwtWDs8lLb_41.015499_28.957640@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a0cfcf1f0250f9fb1ac453504b57ea02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906509,
+            "region_id":85679237,
+            "venue_id":169607207
+        }
+    ],
+    "wof:id":169607207,
+    "wof:lastmodified":1449033124,
+    "wof:name":"Pe-ba Sport Ltd Sti",
+    "wof:parent_id":85906509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.95764,41.015499,28.95764,41.015499],
+  "geometry": {"coordinates":[28.95764,41.015499],"type":"Point"}
+}

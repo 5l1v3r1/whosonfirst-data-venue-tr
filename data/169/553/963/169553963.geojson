@@ -1,0 +1,63 @@
+{
+  "id": 169553963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.931042,37.577538,36.931042,37.577538",
+    "geom:latitude":37.577538,
+    "geom:longitude":36.931042,
+    "iso:country":"TR",
+    "sg:address":"Trabzon Cad.no.24",
+    "sg:city":"Selcuklu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 225 0303",
+    "sg:postcode":"32650",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CsmZOCgqOQT2AwEiGERtB_37.577538_36.931042@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf2e74f929422728a0f1eb4208ce33e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169553963
+        }
+    ],
+    "wof:id":169553963,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Ferah Dondurma Gida San.ve Tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [36.931042,37.577538,36.931042,37.577538],
+  "geometry": {"coordinates":[36.931042,37.577538],"type":"Point"}
+}

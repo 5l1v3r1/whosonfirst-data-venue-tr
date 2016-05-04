@@ -1,0 +1,63 @@
+{
+  "id": 169573809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.293245,40.828709,29.293245,40.828709",
+    "geom:latitude":40.828709,
+    "geom:longitude":29.293245,
+    "iso:country":"TR",
+    "sg:address":"Rauf Orbay Cd.g-48 No3",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 395 2769",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929767,
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b2gLiuUBsXAz0snqOuAAN_40.828709_29.293245@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f73afbc7ccb04659de900e3a7cd45ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929767,
+            "region_id":85679241,
+            "venue_id":169573809
+        }
+    ],
+    "wof:id":169573809,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Sekerciler Denizcilir Ltd.sti.",
+    "wof:parent_id":85929767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.293245,40.828709,29.293245,40.828709],
+  "geometry": {"coordinates":[29.293245,40.828709],"type":"Point"}
+}

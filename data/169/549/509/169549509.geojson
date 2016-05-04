@@ -1,0 +1,66 @@
+{
+  "id": 169549509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.151043,40.945744,29.151043,40.945744",
+    "geom:latitude":40.945744,
+    "geom:longitude":29.151043,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. No.28 Y?evler, Maltepe",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 1026",
+    "sg:postcode":"35110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qprmJ2XZY35DpftiUInds_40.945744_29.151043@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c12debd0c9ecdd710f0711e9e7a78191",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":169549509
+        }
+    ],
+    "wof:id":169549509,
+    "wof:lastmodified":1449033589,
+    "wof:name":"Gulermaksan Tic. Paz.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [29.151043,40.945744,29.151043,40.945744],
+  "geometry": {"coordinates":[29.151043,40.945744],"type":"Point"}
+}

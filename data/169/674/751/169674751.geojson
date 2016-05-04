@@ -1,0 +1,65 @@
+{
+  "id": 169674751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.839836,39.918945,32.839836,39.918945",
+    "geom:latitude":39.918945,
+    "geom:longitude":32.839836,
+    "iso:country":"TR",
+    "sg:address":"Erzurum Sit. Aziziye Sk. No.20",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 5485",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929609,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I2VLFqxiNeNCS96I7V6oM_39.918945_32.839836@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd84de39a99da83daf0747d9609386e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929609,
+            "region_id":85679409,
+            "venue_id":169674751
+        }
+    ],
+    "wof:id":169674751,
+    "wof:lastmodified":1449035134,
+    "wof:name":"Orion Gida San. A.s.",
+    "wof:parent_id":85929609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [32.839836,39.918945,32.839836,39.918945],
+  "geometry": {"coordinates":[32.839836,39.918945],"type":"Point"}
+}

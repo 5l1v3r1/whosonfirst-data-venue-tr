@@ -1,0 +1,65 @@
+{
+  "id": 169584329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.32135,36.985844,35.32135,36.985844",
+    "geom:latitude":36.985844,
+    "geom:longitude":35.32135,
+    "iso:country":"TR",
+    "sg:address":"Pazarlar Cad. No:17",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 352 1483",
+    "sg:postcode":"43050",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t3Z0E3teCGMNdbnN3gKhn_36.985844_35.321350@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b30a0bec8c4342db5403b87408ac623",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169584329
+        }
+    ],
+    "wof:id":169584329,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Cevik Salgam Uretimi Ltd.sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [35.32135,36.985844,35.32135,36.985844],
+  "geometry": {"coordinates":[35.32135,36.985844],"type":"Point"}
+}

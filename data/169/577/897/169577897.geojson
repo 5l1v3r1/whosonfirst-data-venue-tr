@@ -1,0 +1,68 @@
+{
+  "id": 169577897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.045492,41.005192,29.045492,41.005192",
+    "geom:latitude":41.005192,
+    "geom:longitude":29.045492,
+    "iso:country":"TR",
+    "sg:address":"Acibadem Cad.no: 83/3",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 545 0194",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eTbV5Y7P2edA0SXRErth2_41.005192_29.045492@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8bea566f0c790d88f2a278babc3b787e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":169577897
+        }
+    ],
+    "wof:id":169577897,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Norex North Express Logistics Services And Shipping Co Ltd.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.045492,41.005192,29.045492,41.005192],
+  "geometry": {"coordinates":[29.045492,41.005192],"type":"Point"}
+}

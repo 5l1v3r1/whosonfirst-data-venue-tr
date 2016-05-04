@@ -1,0 +1,58 @@
+{
+  "id": 169532443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.853458,39.92292,32.853458,39.92292",
+    "geom:latitude":39.92292,
+    "geom:longitude":32.853458,
+    "iso:country":"TR",
+    "sg:address":"Izmir Cad 35",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 9200",
+    "sg:postcode":"63570",
+    "sg:province":"06440",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BErCcHcED9g8UCnUwQtMw_39.922920_32.853458@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8f5bb350be544452588b4fe1e6ea0a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169532443
+        }
+    ],
+    "wof:id":169532443,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Development Bank, Of Turkey Inc.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.853458,39.92292,32.853458,39.92292],
+  "geometry": {"coordinates":[32.853458,39.92292],"type":"Point"}
+}

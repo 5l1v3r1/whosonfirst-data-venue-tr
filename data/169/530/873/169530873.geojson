@@ -1,0 +1,57 @@
+{
+  "id": 169530873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.973299,41.0144,28.973299,41.0144",
+    "geom:latitude":41.0144,
+    "geom:longitude":28.973299,
+    "iso:country":"TR",
+    "sg:address":"Asirefendi Cad.33",
+    "sg:city":"Bahcekapi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 9666",
+    "sg:postcode":"23000",
+    "sg:province":"34430",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vRxWDMUR4i1rEtyrZP8Bv_41.014400_28.973299@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b220f5fa67510f7ad9903d9b1af7826",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169530873
+        }
+    ],
+    "wof:id":169530873,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Bank Ekspres As",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.973299,41.0144,28.973299,41.0144],
+  "geometry": {"coordinates":[28.973299,41.0144],"type":"Point"}
+}

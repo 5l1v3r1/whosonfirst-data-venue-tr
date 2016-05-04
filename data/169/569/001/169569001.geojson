@@ -1,0 +1,64 @@
+{
+  "id": 169569001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.104675,40.966396,29.104675,40.966396",
+    "geom:latitude":40.966396,
+    "geom:longitude":29.104675,
+    "iso:country":"TR",
+    "sg:address":"Ali Nihat Tarlan Cad. Kartal Sok. No.13 K:4 Icerenkoy",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 573 2893",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P7oPPFzop0f1D5HV1wyR6_40.966396_29.104675@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"72a18da780789b913fbc1e6682e466f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169569001
+        }
+    ],
+    "wof:id":169569001,
+    "wof:lastmodified":1449035828,
+    "wof:name":"Mettek Teknolojik Sistemler Ic Ve Dis Tic.a.s.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.104675,40.966396,29.104675,40.966396],
+  "geometry": {"coordinates":[29.104675,40.966396],"type":"Point"}
+}

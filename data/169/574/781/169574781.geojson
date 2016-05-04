@@ -1,0 +1,68 @@
+{
+  "id": 169574781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "sg:address":"Kopyaalti Cd.no40/26 S.goksoy Apt.",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 7770",
+    "sg:postcode":"34662",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y60TnWWE2zJRLg5lvOU8c_36.887505_30.703135@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42194d9943fb0d1486651cff60d89ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169574781
+        }
+    ],
+    "wof:id":169574781,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Antmarin Denizcilik A.s.",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169586369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005186,41.065594,29.005186,41.065594",
+    "geom:latitude":41.065594,
+    "geom:longitude":29.005186,
+    "iso:country":"TR",
+    "sg:address":"Vefabey Sokak No:9",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212347788081",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O6FlwMpBExUybiPbLKwDb_41.065594_29.005186@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"810e98a7c583839a8e1966cf860a0f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169586369
+        }
+    ],
+    "wof:id":169586369,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Boreas R?zgar Enerjisi ?retim Sis.san.ve Tic.ltd S",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.005186,41.065594,29.005186,41.065594],
+  "geometry": {"coordinates":[29.005186,41.065594],"type":"Point"}
+}

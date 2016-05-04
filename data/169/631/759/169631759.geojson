@@ -1,0 +1,63 @@
+{
+  "id": 169631759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.874001,40.988098,37.874001,40.988098",
+    "geom:latitude":40.988098,
+    "geom:longitude":37.874001,
+    "iso:country":"TR",
+    "sg:address":"Karakoca Mah. Hastane Cad. Ulubey",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 452 861 4041",
+    "sg:postcode":"34660",
+    "sg:province":"Ordu",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911105,
+        85679349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JgSfW70pmxPGtcBB5wiIx_40.988098_37.874001@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4378235bceef20a4343d4f8666ba1533",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911105,
+            "neighbourhood_id":-1,
+            "region_id":85679349,
+            "venue_id":169631759
+        }
+    ],
+    "wof:id":169631759,
+    "wof:lastmodified":1449033713,
+    "wof:name":"Ulubey Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [37.874001,40.988098,37.874001,40.988098],
+  "geometry": {"coordinates":[37.874001,40.988098],"type":"Point"}
+}

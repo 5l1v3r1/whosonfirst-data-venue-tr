@@ -1,0 +1,62 @@
+{
+  "id": 169612235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.68639,40.699722,35.68639,40.699722",
+    "geom:latitude":40.699722,
+    "geom:longitude":35.68639,
+    "iso:country":"TR",
+    "sg:address":"Amasya",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 358 242 0025",
+    "sg:postcode":"34660",
+    "sg:province":"Amasya",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ucJpDDFEDjv6jG1XRiGqE_40.699722_35.686390@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"caf6809754bfdb62094fbe54c8e0d557",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679335,
+            "venue_id":169612235
+        }
+    ],
+    "wof:id":169612235,
+    "wof:lastmodified":1449034130,
+    "wof:name":"Askeri Hastane",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [35.68639,40.699722,35.68639,40.699722],
+  "geometry": {"coordinates":[35.68639,40.699722],"type":"Point"}
+}

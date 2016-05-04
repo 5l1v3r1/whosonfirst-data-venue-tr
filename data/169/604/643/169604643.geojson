@@ -1,0 +1,64 @@
+{
+  "id": 169604643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.811155,41.036751,28.811155,41.036751",
+    "geom:latitude":41.036751,
+    "geom:longitude":28.811155,
+    "iso:country":"TR",
+    "sg:address":"Gunesli Evren Mah. G?bahar Cad. No: 30 Istanbul",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 630 0063",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929887,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12j46V9Z2p0v7QonwoQjx2_41.036751_28.811155@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff62f6544e336b5c43ac5c5a5cb71b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":169604643
+        }
+    ],
+    "wof:id":169604643,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Ender Spor Malz. Tekstil Turizm Insaat Ic Ve Dis Tic. A.s.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.811155,41.036751,28.811155,41.036751],
+  "geometry": {"coordinates":[28.811155,41.036751],"type":"Point"}
+}

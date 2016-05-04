@@ -1,0 +1,65 @@
+{
+  "id": 169551767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.900616,39.957794,32.900616,39.957794",
+    "geom:latitude":39.957794,
+    "geom:longitude":32.900616,
+    "iso:country":"TR",
+    "sg:address":"Karacakaya Cad. No:110 Siteler",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 348 6769",
+    "sg:postcode":"63000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B3zGP1AnnJbMc1DxQy5u8_39.957794_32.900616@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc2b2a42b94ce84f28564921b398ddcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169551767
+        }
+    ],
+    "wof:id":169551767,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Yata - Home",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [32.900616,39.957794,32.900616,39.957794],
+  "geometry": {"coordinates":[32.900616,39.957794],"type":"Point"}
+}

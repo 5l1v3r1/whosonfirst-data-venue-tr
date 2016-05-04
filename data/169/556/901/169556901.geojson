@@ -1,0 +1,64 @@
+{
+  "id": 169556901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.059801,40.965843,29.059801,40.965843",
+    "geom:latitude":40.965843,
+    "geom:longitude":29.059801,
+    "iso:country":"TR",
+    "sg:address":"Cemil Topuzlu Cad. No. 83 / 2 Caddebostan",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 6018",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b5MFWozvgZUKEBzLcGDDM_40.965843_29.059801@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5f26e9d5aab4b3b01b3301b17a6d5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169556901
+        }
+    ],
+    "wof:id":169556901,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Hinmak Havuz Malzemeleri San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.059801,40.965843,29.059801,40.965843],
+  "geometry": {"coordinates":[29.059801,40.965843],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169577779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.126474,38.333626,27.126474,38.333626",
+    "geom:latitude":38.333626,
+    "geom:longitude":27.126474,
+    "iso:country":"TR",
+    "sg:address":"Tren Istasyonu Karsisi",
+    "sg:city":"Gaziemir",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 251 3434",
+    "sg:postcode":"35410",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q0z9ae57vEBe2QsGWzFWX_38.333626_27.126474@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90ab02c3270b84f976a6ca1ddaa1b6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169577779
+        }
+    ],
+    "wof:id":169577779,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Metar Denizcilik A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.126474,38.333626,27.126474,38.333626],
+  "geometry": {"coordinates":[27.126474,38.333626],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169585651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.811155,41.036751,28.811155,41.036751",
+    "geom:latitude":41.036751,
+    "geom:longitude":28.811155,
+    "iso:country":"TR",
+    "sg:address":"Evren Mh. G?bahar C. No.60",
+    "sg:city":"G?esli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 656 6280",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929887,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14yadw2cwfzAGZlTUfu3ba_41.036751_28.811155@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff62f6544e336b5c43ac5c5a5cb71b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":169585651
+        }
+    ],
+    "wof:id":169585651,
+    "wof:lastmodified":1449034885,
+    "wof:name":"Tamek Gida San. A.s.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [28.811155,41.036751,28.811155,41.036751],
+  "geometry": {"coordinates":[28.811155,41.036751],"type":"Point"}
+}

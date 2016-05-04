@@ -1,0 +1,58 @@
+{
+  "id": 169643743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981276,41.054539,28.981276,41.054539",
+    "geom:latitude":41.054539,
+    "geom:longitude":28.981276,
+    "iso:country":"TR",
+    "sg:address":"Ergenekon Cd. No:104/5 Sisli",
+    "sg:city":"Levent - Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 7956",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v5FdG4pQcAAe2wI3btxnp_41.054539_28.981276@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c03ae5b72a664d342758843a12e2ebc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169643743
+        }
+    ],
+    "wof:id":169643743,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Kavsak Kirtasiye",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.981276,41.054539,28.981276,41.054539],
+  "geometry": {"coordinates":[28.981276,41.054539],"type":"Point"}
+}

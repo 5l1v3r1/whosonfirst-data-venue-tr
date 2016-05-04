@@ -1,0 +1,64 @@
+{
+  "id": 169608005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.031893,40.989494,29.031893,40.989494",
+    "geom:latitude":40.989494,
+    "geom:longitude":29.031893,
+    "iso:country":"TR",
+    "sg:address":"Kusdili Cd. No:17 Kadik?",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 3467",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        85632393,
+        101912677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tu3pj29LKLWSQychgTCrQ_40.989494_29.031893@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d8515817b84d8c1a2c0ef6626ff1c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":-1,
+            "venue_id":169608005
+        }
+    ],
+    "wof:id":169608005,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Sma? Spor Galerisi",
+    "wof:parent_id":85904115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.031893,40.989494,29.031893,40.989494],
+  "geometry": {"coordinates":[29.031893,40.989494],"type":"Point"}
+}

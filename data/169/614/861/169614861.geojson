@@ -1,0 +1,62 @@
+{
+  "id": 169614861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.706112,37.368332,35.706112,37.368332",
+    "geom:latitude":37.368332,
+    "geom:longitude":35.706112,
+    "iso:country":"TR",
+    "sg:address":"Adana",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 321 5752",
+    "sg:postcode":"34660",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VvbkW4IabgmiUexfmtTYr_37.368332_35.706112@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e9216ef98458393ba7394ccbdf7a92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679443,
+            "venue_id":169614861
+        }
+    ],
+    "wof:id":169614861,
+    "wof:lastmodified":1449036061,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [35.706112,37.368332,35.706112,37.368332],
+  "geometry": {"coordinates":[35.706112,37.368332],"type":"Point"}
+}

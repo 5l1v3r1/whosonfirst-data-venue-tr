@@ -1,0 +1,58 @@
+{
+  "id": 169547107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.992258,41.08004,28.992258,41.08004",
+    "geom:latitude":41.08004,
+    "geom:longitude":28.992258,
+    "iso:country":"TR",
+    "sg:address":"B??dere Caddesi 14, Sisli, 80220 Istanbul",
+    "sg:city":"Kayseri",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63600",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LeBkNfjklaG4qmzCBtYkP_41.080040_28.992258@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"08f5c4917db7238aeeba6a725a7051a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169547107
+        }
+    ],
+    "wof:id":169547107,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Uluslararasi Yatirim Holding As",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.992258,41.08004,28.992258,41.08004],
+  "geometry": {"coordinates":[28.992258,41.08004],"type":"Point"}
+}

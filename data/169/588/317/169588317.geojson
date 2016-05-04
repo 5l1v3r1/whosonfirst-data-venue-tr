@@ -1,0 +1,66 @@
+{
+  "id": 169588317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981224,41.042233,28.981224,41.042233",
+    "geom:latitude":41.042233,
+    "geom:longitude":28.981224,
+    "iso:country":"TR",
+    "sg:address":"Dolapdere Cd. No:155",
+    "sg:city":"Pangalti",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 5861",
+    "sg:postcode":"34373",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EUVketeEX4uMyNw7LzLKS_41.042233_28.981224@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"775927883d7f71a143c75be1b7ea574d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":169588317
+        }
+    ],
+    "wof:id":169588317,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Man Enerji Sistem Ltd.",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.981224,41.042233,28.981224,41.042233],
+  "geometry": {"coordinates":[28.981224,41.042233],"type":"Point"}
+}

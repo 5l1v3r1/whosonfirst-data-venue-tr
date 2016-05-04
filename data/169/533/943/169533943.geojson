@@ -1,0 +1,58 @@
+{
+  "id": 169533943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.519375,39.851807,33.519375,39.851807",
+    "geom:latitude":39.851807,
+    "geom:longitude":33.519375,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad Demirer",
+    "sg:city":"Afyon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 272 214 1952",
+    "sg:postcode":"03703",
+    "sg:province":"03100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911233,
+        85679447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tV9p0BsoWndGnJ4Ln11WE_39.851807_33.519375@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eeb42587d1d10373714039a25278ac9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911233,
+            "neighbourhood_id":-1,
+            "region_id":85679447,
+            "venue_id":169533943
+        }
+    ],
+    "wof:id":169533943,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [33.519375,39.851807,33.519375,39.851807],
+  "geometry": {"coordinates":[33.519375,39.851807],"type":"Point"}
+}

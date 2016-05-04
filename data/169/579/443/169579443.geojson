@@ -1,0 +1,67 @@
+{
+  "id": 169579443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.838055,41.028065,28.838055,41.028065",
+    "geom:latitude":41.028065,
+    "geom:longitude":28.838055,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari, Uzay Apt. No.51 K.5 D.13",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 7162",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hwPxDCp2SpDCvHfy4Wgnt_41.028065_28.838055@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ffdbc4893447396b303f38c3b0e504a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169579443
+        }
+    ],
+    "wof:id":169579443,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Uzunoglu Gozetme Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.838055,41.028065,28.838055,41.028065],
+  "geometry": {"coordinates":[28.838055,41.028065],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169667999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.795441,40.99173,28.795441,40.99173",
+    "geom:latitude":40.99173,
+    "geom:longitude":28.795441,
+    "iso:country":"TR",
+    "sg:address":"Besyol Karadeniz Cd. No:26 Sefak?",
+    "sg:city":"A.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 579 1272",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S81GdF3tVbnY4IppSnIxk_40.991730_28.795441@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0100d45898b6eb0c74e06d25cf69a8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169667999
+        }
+    ],
+    "wof:id":169667999,
+    "wof:lastmodified":1449034844,
+    "wof:name":"Y?ceros Paslanmaz ?elik Esya Ve Mak. San. A.s.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.795441,40.99173,28.795441,40.99173],
+  "geometry": {"coordinates":[28.795441,40.99173],"type":"Point"}
+}

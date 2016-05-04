@@ -1,0 +1,67 @@
+{
+  "id": 169548595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972216,41.074734,28.972216,41.074734",
+    "geom:latitude":41.074734,
+    "geom:longitude":28.972216,
+    "iso:country":"TR",
+    "sg:address":"Kagithane Cd. No:7 Sisli",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 220 9852",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fnr3zdLNAnWzsGQ5U3kjL_41.074734_28.972216@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3f38117d0844d6c837007d56a20f42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169548595
+        }
+    ],
+    "wof:id":169548595,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Pilma Pil San. Ltd. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [28.972216,41.074734,28.972216,41.074734],
+  "geometry": {"coordinates":[28.972216,41.074734],"type":"Point"}
+}

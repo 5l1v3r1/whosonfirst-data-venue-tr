@@ -1,0 +1,58 @@
+{
+  "id": 169545935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.032679,41.098667,29.032679,41.098667",
+    "geom:latitude":41.098667,
+    "geom:longitude":29.032679,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad 112",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 7740",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fTW7rw2edaJAQTqnen71z_41.098667_29.032679@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e1daca028eb4099f1c9d299f4e96fba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169545935
+        }
+    ],
+    "wof:id":169545935,
+    "wof:lastmodified":1449033487,
+    "wof:name":"T?kiye Ithalat Ve Ihracat Bankasi",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.032679,41.098667,29.032679,41.098667],
+  "geometry": {"coordinates":[29.032679,41.098667],"type":"Point"}
+}

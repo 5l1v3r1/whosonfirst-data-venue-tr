@@ -1,0 +1,64 @@
+{
+  "id": 169584977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.884712,40.989876,28.884712,40.989876",
+    "geom:latitude":40.989876,
+    "geom:longitude":28.884712,
+    "iso:country":"TR",
+    "sg:address":"Osmaniye Aksu Cd. No.21",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 672 1224",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N0bv150jq2wy1G8widiLJ_40.989876_28.884712@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"99dd8805295db91f4bff487b0476fd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169584977
+        }
+    ],
+    "wof:id":169584977,
+    "wof:lastmodified":1449033040,
+    "wof:name":"Marmara Mesrubat A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [28.884712,40.989876,28.884712,40.989876],
+  "geometry": {"coordinates":[28.884712,40.989876],"type":"Point"}
+}

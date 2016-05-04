@@ -1,0 +1,64 @@
+{
+  "id": 169571829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.506546,40.977863,27.506546,40.977863",
+    "geom:latitude":40.977863,
+    "geom:longitude":27.506546,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cd.zihni H.28/30 K.2",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 1520",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2asPWE5KdOjaes8a8TAHl1_40.977863_27.506546@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c0297bed80f864780d8cb77f7c3a9697",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":169571829
+        }
+    ],
+    "wof:id":169571829,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Anadolu Denizcilik Ve Tic.a.s. .",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [27.506546,40.977863,27.506546,40.977863],
+  "geometry": {"coordinates":[27.506546,40.977863],"type":"Point"}
+}

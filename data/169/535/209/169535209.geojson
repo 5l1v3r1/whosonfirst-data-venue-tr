@@ -1,0 +1,57 @@
+{
+  "id": 169535209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.132601,38.427837,27.132601,38.427837",
+    "geom:latitude":38.427837,
+    "geom:longitude":27.132601,
+    "iso:country":"TR",
+    "sg:address":"Akdeniz Cad. 1",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 2000",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zqEKWut411v6f0GerUnmV_38.427837_27.132601@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1e34a9bd7209416e24c40e96b476315",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169535209
+        }
+    ],
+    "wof:id":169535209,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Finansbank As",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.132601,38.427837,27.132601,38.427837],
+  "geometry": {"coordinates":[27.132601,38.427837],"type":"Point"}
+}

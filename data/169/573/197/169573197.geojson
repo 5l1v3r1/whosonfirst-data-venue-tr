@@ -1,0 +1,64 @@
+{
+  "id": 169573197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007875,41.062359,29.007875,41.062359",
+    "geom:latitude":41.062359,
+    "geom:longitude":29.007875,
+    "iso:country":"TR",
+    "sg:address":"Yasemin Sok. No:40/11/",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 5471",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mVtllniXVaOfpmEcgcDHy_41.062359_29.007875@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf25407b4d09a279c5d41272ed3f4bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169573197
+        }
+    ],
+    "wof:id":169573197,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Kampet Denizcilik Ve Akaryakit Ltd.sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.007875,41.062359,29.007875,41.062359],
+  "geometry": {"coordinates":[29.007875,41.062359],"type":"Point"}
+}

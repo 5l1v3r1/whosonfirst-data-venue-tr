@@ -1,0 +1,57 @@
+{
+  "id": 169533275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.132504,38.425423,27.132504,38.425423",
+    "geom:latitude":38.425423,
+    "geom:longitude":27.132504,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 86/a",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 9740",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FBYbRPpQuTLhajxGSbV9c_38.425423_27.132504@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c7e699a8b97762b7143a1fa8a9bf7b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169533275
+        }
+    ],
+    "wof:id":169533275,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.132504,38.425423,27.132504,38.425423],
+  "geometry": {"coordinates":[27.132504,38.425423],"type":"Point"}
+}

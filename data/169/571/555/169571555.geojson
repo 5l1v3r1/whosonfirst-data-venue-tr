@@ -1,0 +1,65 @@
+{
+  "id": 169571555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "sg:address":"Liman Mah.21.sok.emre Apt.no:6/1",
+    "sg:city":"07070",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 259 4294",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "repair",
+        "ship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hFFKWZjhFIm7dA3Gi78gF_36.887505_30.703135@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42194d9943fb0d1486651cff60d89ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169571555
+        }
+    ],
+    "wof:id":169571555,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Aguaelecs-alesta Tekne Ltd.sti",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "ship"
+    ]
+},
+  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
+}

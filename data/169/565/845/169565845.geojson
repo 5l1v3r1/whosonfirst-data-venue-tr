@@ -1,0 +1,64 @@
+{
+  "id": 169565845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.044863,40.995781,29.044863,40.995781",
+    "geom:latitude":40.995781,
+    "geom:longitude":29.044863,
+    "iso:country":"TR",
+    "sg:address":"Uzuncayir Cad. No: 19/2 Hasanpasa/ Kadikoy",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 8909",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FFwbsfFXVUo8kB0m7LYX2_40.995781_29.044863@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90142e0c79f502157b9dfc184743e4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169565845
+        }
+    ],
+    "wof:id":169565845,
+    "wof:lastmodified":1449035663,
+    "wof:name":"Bilgi Elektronik A.s",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.044863,40.995781,29.044863,40.995781],
+  "geometry": {"coordinates":[29.044863,40.995781],"type":"Point"}
+}

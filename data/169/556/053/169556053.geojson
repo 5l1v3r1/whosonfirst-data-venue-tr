@@ -1,0 +1,65 @@
+{
+  "id": 169556053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.0284,38.374599,34.0284,38.374599",
+    "geom:latitude":38.374599,
+    "geom:longitude":34.0284,
+    "iso:country":"TR",
+    "sg:address":"E-90 Karayolu ?eri Karasu Mevkii Ak-tir-nak Petrol Ofisi I?",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 544 567 6868",
+    "sg:postcode":"68100",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911229,
+        85679457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R3PKSC1qNR4d9CyDzxCqM_38.374599_34.028400@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d24da48c6fa71e3906367e97b84b10e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911229,
+            "neighbourhood_id":-1,
+            "region_id":85679457,
+            "venue_id":169556053
+        }
+    ],
+    "wof:id":169556053,
+    "wof:lastmodified":1449033506,
+    "wof:name":"Ak-tir Elektronik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [34.0284,38.374599,34.0284,38.374599],
+  "geometry": {"coordinates":[34.0284,38.374599],"type":"Point"}
+}

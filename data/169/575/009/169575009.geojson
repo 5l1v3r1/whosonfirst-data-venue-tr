@@ -1,0 +1,68 @@
+{
+  "id": 169575009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097754,40.952011,29.097754,40.952011",
+    "geom:latitude":40.952011,
+    "geom:longitude":29.097754,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. No:78/7",
+    "sg:city":"Kiziltoprak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 0033",
+    "sg:postcode":"07300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F1trG40ltNe93F0b5wLfk_40.952011_29.097754@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85cee22d0ddb048901eed16cee45ce88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169575009
+        }
+    ],
+    "wof:id":169575009,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Atamar Denizcilik Ve Ticaret A.s.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.097754,40.952011,29.097754,40.952011],
+  "geometry": {"coordinates":[29.097754,40.952011],"type":"Point"}
+}

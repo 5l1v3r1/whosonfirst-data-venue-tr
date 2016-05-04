@@ -1,0 +1,57 @@
+{
+  "id": 169532151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.70784,40.992573,28.70784,40.992573",
+    "geom:latitude":40.992573,
+    "geom:longitude":28.70784,
+    "iso:country":"TR",
+    "sg:address":"Mesrutiyet Cad 10",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21224982000",
+    "sg:province":"80050",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_421CdLabmIB3G9HLcVX8s9_40.992573_28.707840@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2e5ddcb2ec3a2886d40a6e58098fd181",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169532151
+        }
+    ],
+    "wof:id":169532151,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.70784,40.992573,28.70784,40.992573],
+  "geometry": {"coordinates":[28.70784,40.992573],"type":"Point"}
+}

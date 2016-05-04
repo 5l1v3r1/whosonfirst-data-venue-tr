@@ -1,0 +1,66 @@
+{
+  "id": 169540739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.983225,41.027699,28.983225,41.027699",
+    "geom:latitude":41.027699,
+    "geom:longitude":28.983225,
+    "iso:country":"TR",
+    "sg:address":"Meclis-i Mebusan Cad 85/6, 80040 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        85632393,
+        101913185,
+        85679237,
+        85906607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mBLg0xoIN9qcopwNTpLZv_41.027699_28.983225@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"72768e83287d596bf6ee6ba48eb495ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":169540739
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906607,
+            "region_id":85679237,
+            "venue_id":169540739
+        }
+    ],
+    "wof:id":169540739,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Teb Finansal Kiralama As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.983225,41.027699,28.983225,41.027699],
+  "geometry": {"coordinates":[28.983225,41.027699],"type":"Point"}
+}

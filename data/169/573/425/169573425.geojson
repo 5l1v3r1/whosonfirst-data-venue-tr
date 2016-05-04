@@ -1,0 +1,64 @@
+{
+  "id": 169573425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984241,41.033634,28.984241,41.033634",
+    "geom:latitude":41.033634,
+    "geom:longitude":28.984241,
+    "iso:country":"TR",
+    "sg:address":"Siraselviler Cd. No.149-151 K3 D15/a1",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 5500",
+    "sg:postcode":"13500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906571,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_717rStOQso4qJXaYU4tBt0_41.033634_28.984241@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de371a9d50e999862063b9d438748ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906571,
+            "region_id":85679237,
+            "venue_id":169573425
+        }
+    ],
+    "wof:id":169573425,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Marti Deniz Islm.a.s.",
+    "wof:parent_id":85906571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.984241,41.033634,28.984241,41.033634],
+  "geometry": {"coordinates":[28.984241,41.033634],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169557415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.964636,41.049858,28.964636,41.049858",
+    "geom:latitude":41.049858,
+    "geom:longitude":28.964636,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad. Sark Apt. No.1/1 Taksim",
+    "sg:city":"Besy?evler",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 9879",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ubXzElmJ4Wi7N4ZOxo0wr_41.049858_28.964636@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ef4ee5d2e94944e83276c6e6edf84f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":169557415
+        }
+    ],
+    "wof:id":169557415,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Sahin Kimya Ve Aritma San. A.s.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.964636,41.049858,28.964636,41.049858],
+  "geometry": {"coordinates":[28.964636,41.049858],"type":"Point"}
+}

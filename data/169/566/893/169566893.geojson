@@ -1,0 +1,63 @@
+{
+  "id": 169566893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.483963,37.873531,32.483963,37.873531",
+    "geom:latitude":37.873531,
+    "geom:longitude":32.483963,
+    "iso:country":"TR",
+    "sg:address":"Vatan Cd 35/a",
+    "sg:city":"Selcuklu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 322 9322",
+    "sg:postcode":"32650",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934705,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DlVDyHZOuLzt4XeqphEoM_37.873531_32.483963@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83202678afb2c99b402df5cafad69f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":169566893
+        }
+    ],
+    "wof:id":169566893,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Dolunay G?venlik",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.483963,37.873531,32.483963,37.873531],
+  "geometry": {"coordinates":[32.483963,37.873531],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169545241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad, Pembeg? Sok, 4 Levent, 80620 Istanbul",
+    "sg:city":"Denizli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 316 0000",
+    "sg:postcode":"01130",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.isbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J5i5l3spLIbdAyTpvCR0X_41.012379_28.975925@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169545241
+        }
+    ],
+    "wof:id":169545241,
+    "wof:lastmodified":1449033488,
+    "wof:name":"T?rkiye Is Bankasi As",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
+}

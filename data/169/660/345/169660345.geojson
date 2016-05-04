@@ -1,0 +1,65 @@
+{
+  "id": 169660345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.016472,41.078468,29.016472,41.078468",
+    "geom:latitude":41.078468,
+    "geom:longitude":29.016472,
+    "iso:country":"TR",
+    "sg:address":"Lale Sk. 1.levent",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 1093",
+    "sg:postcode":"20100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tKRfVeKtkqIINak5QPh3r_41.078468_29.016472@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4ba11380cdc5dcf868c5cb2c3d0a62e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169660345
+        }
+    ],
+    "wof:id":169660345,
+    "wof:lastmodified":1449035615,
+    "wof:name":"Ego Elek. Alet. San. Tic. A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.016472,41.078468,29.016472,41.078468],
+  "geometry": {"coordinates":[29.016472,41.078468],"type":"Point"}
+}

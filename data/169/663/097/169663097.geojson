@@ -1,0 +1,65 @@
+{
+  "id": 169663097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.319614,41.279835,36.319614,41.279835",
+    "geom:latitude":41.279835,
+    "geom:longitude":36.319614,
+    "iso:country":"TR",
+    "sg:address":"Kazim Karabekir Cad. No:95/36 Iskitler",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 341 4139",
+    "sg:postcode":"34670",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911033,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ezH72QW8fZBrvzDhOFFfU_41.279835_36.319614@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3054b288e4fdcf768f1971ed94cd01e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911033,
+            "neighbourhood_id":-1,
+            "region_id":85679357,
+            "venue_id":169663097
+        }
+    ],
+    "wof:id":169663097,
+    "wof:lastmodified":1449035105,
+    "wof:name":"Kahraman Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [36.319614,41.279835,36.319614,41.279835],
+  "geometry": {"coordinates":[36.319614,41.279835],"type":"Point"}
+}

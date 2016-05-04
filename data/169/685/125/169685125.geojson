@@ -1,0 +1,62 @@
+{
+  "id": 169685125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.852757,39.903629,32.852757,39.903629",
+    "geom:latitude":39.903629,
+    "geom:longitude":32.852757,
+    "iso:country":"TR",
+    "sg:address":"Guvenlik Cad. No:26/1",
+    "sg:city":"A.ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3124268057468",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b8UwYHAv6sKaacau2IVU0_39.903629_32.852757@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bcdf734fb8e54285b8fbac2f311925ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169685125
+        }
+    ],
+    "wof:id":169685125,
+    "wof:lastmodified":1449035890,
+    "wof:name":"S.tarkan Ozcetin",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.852757,39.903629,32.852757,39.903629],
+  "geometry": {"coordinates":[32.852757,39.903629],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169540955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.783052,41.07119,28.783052,41.07119",
+    "geom:latitude":41.07119,
+    "geom:longitude":28.783052,
+    "iso:country":"TR",
+    "sg:address":"Keresteciler Sitesi",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 506 1762",
+    "sg:province":"34010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929961,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQ5YjF2gQkqHmgnpquFB5_41.071190_28.783052@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5cc524027e4d2afeb5227356cc3f2201",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":169540955
+        }
+    ],
+    "wof:id":169540955,
+    "wof:lastmodified":1449033977,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.783052,41.07119,28.783052,41.07119],
+  "geometry": {"coordinates":[28.783052,41.07119],"type":"Point"}
+}

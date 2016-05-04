@@ -1,0 +1,66 @@
+{
+  "id": 169579405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.828867,40.753925,29.828867,40.753925",
+    "geom:latitude":40.753925,
+    "geom:longitude":29.828867,
+    "iso:country":"TR",
+    "sg:address":"Deniz Mahallesi Fevzi Cakmak Caddesi No 28",
+    "sg:city":"Derince",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 262 239 2185",
+    "sg:postcode":"31000",
+    "sg:province":"Kocaeli",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191569",
+        "85632393"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L4XCzot5MyDYQHU4ctxs1_40.753925_29.828867@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2dba15ce64780b1f990183da824116be",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632393",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":169579405
+        }
+    ],
+    "wof:id":169579405,
+    "wof:lastmodified":1449033742,
+    "wof:name":"Ural Tasimacilik Ticaret Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.828867,40.753925,29.828867,40.753925],
+  "geometry": {"coordinates":[29.828867,40.753925],"type":"Point"}
+}

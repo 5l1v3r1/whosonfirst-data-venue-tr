@@ -1,0 +1,63 @@
+{
+  "id": 169557469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.969868,41.05109,28.969868,41.05109",
+    "geom:latitude":41.05109,
+    "geom:longitude":28.969868,
+    "iso:country":"TR",
+    "sg:address":"Siracevizler Cad. No. 14 / 16 Sisli",
+    "sg:city":"Besy?evler",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122324004246",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RPbTjn9di4NOjNZsRFki2_41.051090_28.969868@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e1e3387dc57e7e1c1eb18f2ad8278c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169557469
+        }
+    ],
+    "wof:id":169557469,
+    "wof:lastmodified":1449035038,
+    "wof:name":"Santem End. Konut San. Tic. A.s.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.969868,41.05109,28.969868,41.05109],
+  "geometry": {"coordinates":[28.969868,41.05109],"type":"Point"}
+}

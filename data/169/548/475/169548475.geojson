@@ -1,0 +1,68 @@
+{
+  "id": 169548475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
+    "geom:latitude":39.770081,
+    "geom:longitude":30.517546,
+    "iso:country":"TR",
+    "sg:address":"Baksan San. Site. 64 Blok No:3",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 335 1938",
+    "sg:postcode":"31300",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M45T3a1lnm1wCbpctbYUY_39.770081_30.517546@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be96a25c1666ba8b5cc6a50005fb136e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169548475
+        }
+    ],
+    "wof:id":169548475,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Kuvvet Aku Sanayi Isletmesi Ve Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169666205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.893259,41.081253,28.893259,41.081253",
+    "geom:latitude":41.081253,
+    "geom:longitude":28.893259,
+    "iso:country":"TR",
+    "sg:address":"Cebeci Cd. No:139 G.o.pasa",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 537 1162",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930271,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o7vDD2umbLkeJQ7ggv80d_41.081253_28.893259@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8783b0c14e31bb307c679781de641a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":169666205
+        }
+    ],
+    "wof:id":169666205,
+    "wof:lastmodified":1449033899,
+    "wof:name":"S?per ?elik Esya San.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.893259,41.081253,28.893259,41.081253],
+  "geometry": {"coordinates":[28.893259,41.081253],"type":"Point"}
+}

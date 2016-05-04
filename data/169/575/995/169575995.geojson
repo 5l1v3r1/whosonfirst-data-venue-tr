@@ -1,0 +1,67 @@
+{
+  "id": 169575995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.13677,38.426872,27.13677,38.426872",
+    "geom:latitude":38.426872,
+    "geom:longitude":27.13677,
+    "iso:country":"TR",
+    "sg:address":"1353.sk.taner Ish.no1/206",
+    "sg:city":"Pasaport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 9004",
+    "sg:postcode":"35210",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929657,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VpEr0tzUquSHdVAJrcEBl_38.426872_27.136770@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1be2731b033c05fb9ef1ccb371a2d716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":169575995
+        }
+    ],
+    "wof:id":169575995,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Egemar Deniz Nakl.ltd.sti.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.13677,38.426872,27.13677,38.426872],
+  "geometry": {"coordinates":[27.13677,38.426872],"type":"Point"}
+}

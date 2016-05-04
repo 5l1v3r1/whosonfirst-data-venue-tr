@@ -1,0 +1,64 @@
+{
+  "id": 169662463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.132231,38.390255,27.132231,38.390255",
+    "geom:latitude":38.390255,
+    "geom:longitude":27.132231,
+    "iso:country":"TR",
+    "sg:address":"5709 Sk. No:9 Karabaglar",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 237 9740",
+    "sg:postcode":"20100",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hfnv8vdhOshvBwQBIfJg6_38.390255_27.132231@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c44c2aa891aec75e13e0948bae6ccc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169662463
+        }
+    ],
+    "wof:id":169662463,
+    "wof:lastmodified":1449034923,
+    "wof:name":"G?rkomp Kompros?r. Ve Basin?li Kaplar San. Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [27.132231,38.390255,27.132231,38.390255],
+  "geometry": {"coordinates":[27.132231,38.390255],"type":"Point"}
+}

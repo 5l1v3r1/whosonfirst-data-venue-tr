@@ -1,0 +1,62 @@
+{
+  "id": 169573789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007845,41.043045,29.007845,41.043045",
+    "geom:latitude":41.043045,
+    "geom:longitude":29.007845,
+    "iso:country":"TR",
+    "sg:address":"Eski Yildiz Yolu No16/2",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 9422",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906567,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IwbR46B62RwYzWOMUUlEp_41.043045_29.007845@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61aedb5e87f6cc340b38c4f5588740f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906567,
+            "region_id":-1,
+            "venue_id":169573789
+        }
+    ],
+    "wof:id":169573789,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Saraykoy Denizcilik Ltd.sti.",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.007845,41.043045,29.007845,41.043045],
+  "geometry": {"coordinates":[29.007845,41.043045],"type":"Point"}
+}

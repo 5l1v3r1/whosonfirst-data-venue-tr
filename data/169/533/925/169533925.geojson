@@ -1,0 +1,58 @@
+{
+  "id": 169533925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.058235,38.384121,27.058235,38.384121",
+    "geom:latitude":38.384121,
+    "geom:longitude":27.058235,
+    "iso:country":"TR",
+    "sg:address":"Ata?k Bulvari 156",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 3186",
+    "sg:postcode":"31030",
+    "sg:province":"34470",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929631,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VzmnJrBnZnpiOT40gsZQd_38.384121_27.058235@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e73e33b8b1fccbad2bcdd4c78af8624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":169533925
+        }
+    ],
+    "wof:id":169533925,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.058235,38.384121,27.058235,38.384121],
+  "geometry": {"coordinates":[27.058235,38.384121],"type":"Point"}
+}

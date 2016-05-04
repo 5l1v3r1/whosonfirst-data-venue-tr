@@ -1,0 +1,57 @@
+{
+  "id": 169532031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.033022,41.098919,29.033022,41.098919",
+    "geom:latitude":41.098919,
+    "geom:longitude":29.033022,
+    "iso:country":"TR",
+    "sg:address":"B??dere Caddesi No 122/b, Levent 80620, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NwwlXNEd21Jln8ChTqTxm_41.098919_29.033022@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a93a744986e6670da584f837b878df7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169532031
+        }
+    ],
+    "wof:id":169532031,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.033022,41.098919,29.033022,41.098919],
+  "geometry": {"coordinates":[29.033022,41.098919],"type":"Point"}
+}

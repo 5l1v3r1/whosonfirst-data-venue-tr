@@ -1,0 +1,65 @@
+{
+  "id": 169548627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.256001,40.8787,29.256001,40.8787",
+    "geom:latitude":40.8787,
+    "geom:longitude":29.256001,
+    "iso:country":"TR",
+    "sg:address":"Cemal Gursel Cad. No:16/d Ustkaynarca-pendik",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 397 0652",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930121,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VA33VshqRTAhihUO5OH5p_40.878700_29.256001@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"58189d649c7b732376423f0bd49facb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930121,
+            "region_id":-1,
+            "venue_id":169548627
+        }
+    ],
+    "wof:id":169548627,
+    "wof:lastmodified":1449034977,
+    "wof:name":"Spot Ticaret",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.256001,40.8787,29.256001,40.8787],
+  "geometry": {"coordinates":[29.256001,40.8787],"type":"Point"}
+}

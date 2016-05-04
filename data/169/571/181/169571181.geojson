@@ -1,0 +1,65 @@
+{
+  "id": 169571181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.97333,41.076378,28.97333,41.076378",
+    "geom:latitude":41.076378,
+    "geom:longitude":28.97333,
+    "iso:country":"TR",
+    "sg:address":"Kagithane Cad.no:19",
+    "sg:city":"?aglayan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 321 2006",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRVGkcjUMRll3CzZKfWLM_41.076378_28.973330@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"410ca8b97006724f6e423b32a11ae73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169571181
+        }
+    ],
+    "wof:id":169571181,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Aslar Raf",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [28.97333,41.076378,28.97333,41.076378],
+  "geometry": {"coordinates":[28.97333,41.076378],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169578055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.909605,41.030766,28.909605,41.030766",
+    "geom:latitude":41.030766,
+    "geom:longitude":28.909605,
+    "iso:country":"TR",
+    "sg:address":"Mumhane Cad. No:108 B.blok 39",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 0659",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RkqNlGj6iBfIQ8RSHNjEQ_41.030766_28.909605@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"836803716501f36492f0555f769c09cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169578055
+        }
+    ],
+    "wof:id":169578055,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Omega Denizcilik Insaat Ithalat-ihracat Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.909605,41.030766,28.909605,41.030766],
+  "geometry": {"coordinates":[28.909605,41.030766],"type":"Point"}
+}

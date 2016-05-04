@@ -1,0 +1,56 @@
+{
+  "id": 169532549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.882229,41.00589,28.882229,41.00589",
+    "geom:latitude":41.00589,
+    "geom:longitude":28.882229,
+    "iso:country":"TR",
+    "sg:address":"Turunclu Sok 25, Merter, 34010 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bwBBkM3eJZI7HmowI9W99_41.005890_28.882229@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5d1187018b22f7afd8ccf543d5fd8fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169532549
+        }
+    ],
+    "wof:id":169532549,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Efes Pazarlama Ve Dagitim Ticaret As",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.882229,41.00589,28.882229,41.00589],
+  "geometry": {"coordinates":[28.882229,41.00589],"type":"Point"}
+}

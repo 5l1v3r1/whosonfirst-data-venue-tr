@@ -1,0 +1,63 @@
+{
+  "id": 169552997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.845257,37.840347,27.845257,37.840347",
+    "geom:latitude":37.840347,
+    "geom:longitude":27.845257,
+    "iso:country":"TR",
+    "sg:address":"Adnan Menderes Bulv. No:74/d",
+    "sg:city":"Sungurlu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 214 3661",
+    "sg:postcode":"19300",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911263,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5srXO9QTja4H63yD6Ha3ap_37.840347_27.845257@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aefc7234896fd3566dcf8bc6a3195d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911263,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169552997
+        }
+    ],
+    "wof:id":169552997,
+    "wof:lastmodified":1449034057,
+    "wof:name":"Altinpetek",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.845257,37.840347,27.845257,37.840347],
+  "geometry": {"coordinates":[27.845257,37.840347],"type":"Point"}
+}

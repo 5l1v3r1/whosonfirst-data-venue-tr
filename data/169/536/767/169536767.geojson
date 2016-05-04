@@ -1,0 +1,58 @@
+{
+  "id": 169536767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975225,41.02327,28.975225,41.02327",
+    "geom:latitude":41.02327,
+    "geom:longitude":28.975225,
+    "iso:country":"TR",
+    "sg:address":"Kemeralti Cad 2",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 6989",
+    "sg:province":"80030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906581,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JZvhsHuFT0VfFg66ONJAo_41.023270_28.975225@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f8ebc7753988357e452e95635c2fd6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906581,
+            "region_id":85679237,
+            "venue_id":169536767
+        }
+    ],
+    "wof:id":169536767,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Kentbank As",
+    "wof:parent_id":85906581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.975225,41.02327,28.975225,41.02327],
+  "geometry": {"coordinates":[28.975225,41.02327],"type":"Point"}
+}

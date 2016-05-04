@@ -1,0 +1,67 @@
+{
+  "id": 169575247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.028568,41.095665,29.028568,41.095665",
+    "geom:latitude":41.095665,
+    "geom:longitude":29.028568,
+    "iso:country":"TR",
+    "sg:address":"Kanlikavak Cad. No:1/12",
+    "sg:city":"4 Levent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 324 6573",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6145EtjydAzBnT2pMp2aYT_41.095665_29.028568@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"48bd0db2c3a77e4f72ee5918f758a77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169575247
+        }
+    ],
+    "wof:id":169575247,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Batu Shipping",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.028568,41.095665,29.028568,41.095665],
+  "geometry": {"coordinates":[29.028568,41.095665],"type":"Point"}
+}

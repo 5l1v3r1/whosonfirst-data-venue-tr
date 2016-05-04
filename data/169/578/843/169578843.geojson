@@ -1,0 +1,68 @@
+{
+  "id": 169578843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.018347,41.076271,29.018347,41.076271",
+    "geom:latitude":41.076271,
+    "geom:longitude":29.018347,
+    "iso:country":"TR",
+    "sg:address":"Beylerbeyi Cad. Gazhane Sok. Taskent Apt. 6/3",
+    "sg:city":"Kuzguncuk",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 492 2042",
+    "sg:postcode":"42310",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Aw1GMKfTn9zEbKCvbvmbC_41.076271_29.018347@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3b16189101eeccd70dbf8d8c6be29b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169578843
+        }
+    ],
+    "wof:id":169578843,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Taskent Turizm Ve Denizcilik Hizmetleri Tic.ltd.sti.",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.018347,41.076271,29.018347,41.076271],
+  "geometry": {"coordinates":[29.018347,41.076271],"type":"Point"}
+}

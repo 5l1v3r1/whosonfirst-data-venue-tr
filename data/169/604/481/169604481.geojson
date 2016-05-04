@@ -1,0 +1,65 @@
+{
+  "id": 169604481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.013508,41.061218,29.013508,41.061218",
+    "geom:latitude":41.061218,
+    "geom:longitude":29.013508,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari Bulvar Ap. No:40/3 Balmumcu",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 213 3637",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KbAKBnjq2pNCgUwGy5Dpa_41.061218_29.013508@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d92508554f88a05544a3faa16be23d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169604481
+        }
+    ],
+    "wof:id":169604481,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Eks Dis Ticaret Kondisyon Chazlari Ltd. Sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.013508,41.061218,29.013508,41.061218],
+  "geometry": {"coordinates":[29.013508,41.061218],"type":"Point"}
+}

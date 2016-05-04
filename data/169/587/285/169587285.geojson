@@ -1,0 +1,65 @@
+{
+  "id": 169587285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.164001,39.147999,34.164001,39.147999",
+    "geom:latitude":39.147999,
+    "geom:longitude":34.164001,
+    "iso:country":"TR",
+    "sg:address":"Cecba 2.carsi Kemal Hocaogullari Apt. Alti",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 386 272 1070",
+    "sg:postcode":"31030",
+    "sg:province":"Kirsehir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911227,
+        85679317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bU8nKYhsQLpt6ZGxG0SCw_39.147999_34.164001@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"28fc3afe41d5763b3ce9bd3c667a5cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911227,
+            "neighbourhood_id":-1,
+            "region_id":85679317,
+            "venue_id":169587285
+        }
+    ],
+    "wof:id":169587285,
+    "wof:lastmodified":1449033820,
+    "wof:name":"Eraslan Gunes Enerjisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [34.164001,39.147999,34.164001,39.147999],
+  "geometry": {"coordinates":[34.164001,39.147999],"type":"Point"}
+}

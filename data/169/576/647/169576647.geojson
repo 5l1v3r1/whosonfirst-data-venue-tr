@@ -1,0 +1,66 @@
+{
+  "id": 169576647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.291826,40.954857,29.291826,40.954857",
+    "geom:latitude":40.954857,
+    "geom:longitude":29.291826,
+    "iso:country":"TR",
+    "sg:address":"Hamidiye Mah. Kumsal Sok. No:19",
+    "sg:city":"Gemlik",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 514 7777",
+    "sg:postcode":"16600",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_128w0duGDk7APRpHCx0GTA_40.954857_29.291826@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e8a2f0e81771925be989a64746e3cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169576647
+        }
+    ],
+    "wof:id":169576647,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Gulf Agency Company Denizcili A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.291826,40.954857,29.291826,40.954857],
+  "geometry": {"coordinates":[29.291826,40.954857],"type":"Point"}
+}

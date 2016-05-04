@@ -1,0 +1,63 @@
+{
+  "id": 169567901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.04455,40.984241,29.04455,40.984241",
+    "geom:latitude":40.984241,
+    "geom:longitude":29.04455,
+    "iso:country":"TR",
+    "sg:address":"Kiziltoprak Bagdat Cad. Nur Apt. 65/15 Kadikoy",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2163377174729",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cMzAOiktNA6nbLAX3UDk7_40.984241_29.044550@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f22ca30a305a1c9b4dd28368b0a20828",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169567901
+        }
+    ],
+    "wof:id":169567901,
+    "wof:lastmodified":1449035994,
+    "wof:name":"Essed Bil.elektronik G?enlik Sist.egt.dan.dis Tic.a.s.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.04455,40.984241,29.04455,40.984241],
+  "geometry": {"coordinates":[29.04455,40.984241],"type":"Point"}
+}

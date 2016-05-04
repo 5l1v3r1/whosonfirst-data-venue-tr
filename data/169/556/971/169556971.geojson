@@ -1,0 +1,64 @@
+{
+  "id": 169556971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.079876,40.963688,29.079876,40.963688",
+    "geom:latitude":40.963688,
+    "geom:longitude":29.079876,
+    "iso:country":"TR",
+    "sg:address":"?olak Ismail Sk. No. 31 / 1 Suadiye",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 372 2485",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_465lsR0KGO4yyUQArWC3wj_40.963688_29.079876@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"19195c76c1ae46286291431d5de743fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169556971
+        }
+    ],
+    "wof:id":169556971,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Kr?lland Y?zme Havuzlari Ve Ekipmanlari",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.079876,40.963688,29.079876,40.963688],
+  "geometry": {"coordinates":[29.079876,40.963688],"type":"Point"}
+}

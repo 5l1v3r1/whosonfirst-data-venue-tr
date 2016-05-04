@@ -1,0 +1,65 @@
+{
+  "id": 169549473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.167929,38.425869,27.167929,38.425869",
+    "geom:latitude":38.425869,
+    "geom:longitude":27.167929,
+    "iso:country":"TR",
+    "sg:address":"1145 /7 Sok.no:16/b Yenisehir",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 9898",
+    "sg:postcode":"09010",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904105,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O8bmm3ZslFIk7ZRXrb87i_38.425869_27.167929@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d68165ef859bc0e9b9db94363100bda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":169549473
+        }
+    ],
+    "wof:id":169549473,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Fazil Rulman A.s.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [27.167929,38.425869,27.167929,38.425869],
+  "geometry": {"coordinates":[27.167929,38.425869],"type":"Point"}
+}

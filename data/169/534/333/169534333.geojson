@@ -1,0 +1,58 @@
+{
+  "id": 169534333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.631596,39.977131,32.631596,39.977131",
+    "geom:latitude":39.977131,
+    "geom:longitude":32.631596,
+    "iso:country":"TR",
+    "sg:address":"Ertugrul Cad.43",
+    "sg:city":"Menemen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 832 1659",
+    "sg:postcode":"35660",
+    "sg:province":"35660",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929955,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XquFb1D32SZoLXrTLjXJu_39.977131_32.631596@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"916d1d92fc5d62ff5fce643ed9a5b066",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929955,
+            "region_id":85679409,
+            "venue_id":169534333
+        }
+    ],
+    "wof:id":169534333,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.631596,39.977131,32.631596,39.977131],
+  "geometry": {"coordinates":[32.631596,39.977131],"type":"Point"}
+}

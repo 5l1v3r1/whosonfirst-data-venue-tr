@@ -1,0 +1,68 @@
+{
+  "id": 169574883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011803,41.054176,29.011803,41.054176",
+    "geom:latitude":41.054176,
+    "geom:longitude":29.011803,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bul.gunaydin Apt.no131 K1",
+    "sg:city":"Balmumcu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 273 1400",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41H2tzHTyMx1Zxn6Y3jDHB_41.054176_29.011803@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"603e5cf060cbfcd39554807c18e94670",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169574883
+        }
+    ],
+    "wof:id":169574883,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Arsel Denizcilik A.s.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.011803,41.054176,29.011803,41.054176],
+  "geometry": {"coordinates":[29.011803,41.054176],"type":"Point"}
+}

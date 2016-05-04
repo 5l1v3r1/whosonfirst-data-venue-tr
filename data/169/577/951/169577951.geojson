@@ -1,0 +1,67 @@
+{
+  "id": 169577951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.12261,40.933197,29.12261,40.933197",
+    "geom:latitude":40.933197,
+    "geom:longitude":29.12261,
+    "iso:country":"TR",
+    "sg:address":"Celik Sok. No: 32/4",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 284 5572",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c1ubb30uuO5J4tpOcxMES_40.933197_29.122610@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e704d1f1c91a2d12a68f978f424e1d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":169577951
+        }
+    ],
+    "wof:id":169577951,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Onurbey Yatcilik Ltd.sti.",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.12261,40.933197,29.12261,40.933197],
+  "geometry": {"coordinates":[29.12261,40.933197],"type":"Point"}
+}

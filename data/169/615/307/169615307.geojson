@@ -1,0 +1,63 @@
+{
+  "id": 169615307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.824265,41.188183,41.824265,41.188183",
+    "geom:latitude":41.188183,
+    "geom:longitude":41.824265,
+    "iso:country":"TR",
+    "sg:address":"Artvin",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 466 212 1531",
+    "sg:postcode":"34660",
+    "sg:province":"Artvin",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911639,
+        85679367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VAbwVmR3qn4pj6yCgYhdF_41.188183_41.824265@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"540f478ced8da61c76b7877f04c88ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911639,
+            "neighbourhood_id":-1,
+            "region_id":85679367,
+            "venue_id":169615307
+        }
+    ],
+    "wof:id":169615307,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [41.824265,41.188183,41.824265,41.188183],
+  "geometry": {"coordinates":[41.824265,41.188183],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169544087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.036306,41.128757,29.036306,41.128757",
+    "geom:latitude":41.128757,
+    "geom:longitude":29.036306,
+    "iso:country":"TR",
+    "sg:address":"B??dere Caddesi 63, Maslak, 80670 Istanbul",
+    "sg:city":"D?d?co Levent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 335 3535",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.garantibank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jXE5S7qvdg769PTPEiQOF_41.128757_29.036306@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8f22d7bbd12789ccd0afb8f00b67b6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":169544087
+        }
+    ],
+    "wof:id":169544087,
+    "wof:lastmodified":1449035963,
+    "wof:name":"T?kiye Garanti Bankasi As",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.036306,41.128757,29.036306,41.128757],
+  "geometry": {"coordinates":[29.036306,41.128757],"type":"Point"}
+}

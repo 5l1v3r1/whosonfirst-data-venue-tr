@@ -1,0 +1,64 @@
+{
+  "id": 169604131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.952,41.01741,28.952,41.01741",
+    "geom:latitude":41.01741,
+    "geom:longitude":28.952,
+    "iso:country":"TR",
+    "sg:address":"Kiztasi Cd. No:27/1 Fatih",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 523 0253",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906529,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c1y4f0hVVhlj80rsSv6SE_41.017410_28.952000@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fa6abfc11cd5e2aee580889858852bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906529,
+            "region_id":85679237,
+            "venue_id":169604131
+        }
+    ],
+    "wof:id":169604131,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Champion Spor Malz. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.952,41.01741,28.952,41.01741],
+  "geometry": {"coordinates":[28.952,41.01741],"type":"Point"}
+}

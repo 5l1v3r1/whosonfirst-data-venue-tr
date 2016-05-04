@@ -1,0 +1,65 @@
+{
+  "id": 169583971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.483162,37.915512,32.483162,37.915512",
+    "geom:latitude":37.915512,
+    "geom:longitude":32.483162,
+    "iso:country":"TR",
+    "sg:address":"Merkez: Tahran Cad. No:19/4",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 8314",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934715,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2peVNo5w5SkMrksyjYHq29_37.915512_32.483162@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed3b323f46e60374441913aee5f4d7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934715,
+            "region_id":85679425,
+            "venue_id":169583971
+        }
+    ],
+    "wof:id":169583971,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Asya Meyve Suyu Ve Gida San. A.s.",
+    "wof:parent_id":85934715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [32.483162,37.915512,32.483162,37.915512],
+  "geometry": {"coordinates":[32.483162,37.915512],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169556465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.042074,40.214268,29.042074,40.214268",
+    "geom:latitude":40.214268,
+    "geom:longitude":29.042074,
+    "iso:country":"TR",
+    "sg:address":"Mudanya Yolu Nilufor K?kavsagi",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 244 7384",
+    "sg:postcode":"52750",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929979,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pD29GbqLhxA71EPHpqUhK_40.214268_29.042074@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"37c08d2bce0a18d1f324f74aa269e7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929979,
+            "region_id":85679231,
+            "venue_id":169556465
+        }
+    ],
+    "wof:id":169556465,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Badem Havuz, Jakuzi, Sauna Imalat Tic.san.ltd.sti.",
+    "wof:parent_id":85929979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.042074,40.214268,29.042074,40.214268],
+  "geometry": {"coordinates":[29.042074,40.214268],"type":"Point"}
+}

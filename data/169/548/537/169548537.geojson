@@ -1,0 +1,67 @@
+{
+  "id": 169548537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.8606,39.892921,32.8606,39.892921",
+    "geom:latitude":39.892921,
+    "geom:longitude":32.8606,
+    "iso:country":"TR",
+    "sg:address":"?obanyildizi Sok. Esenboga Apt. No:4-2",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312466275354",
+    "sg:postcode":"06105",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Dayz6P7GIrjGcyJGGaZo_39.892921_32.860600@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3476448651f0c35513ba01fe7ea67693",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169548537
+        }
+    ],
+    "wof:id":169548537,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Norm Enerji Sistemleri Ltd.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [32.8606,39.892921,32.8606,39.892921],
+  "geometry": {"coordinates":[32.8606,39.892921],"type":"Point"}
+}

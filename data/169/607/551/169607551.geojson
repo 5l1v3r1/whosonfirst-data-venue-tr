@@ -1,0 +1,64 @@
+{
+  "id": 169607551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.00416,41.090618,29.00416,41.090618",
+    "geom:latitude":41.090618,
+    "geom:longitude":29.00416,
+    "iso:country":"TR",
+    "sg:address":"Sanayi Mh. Sultan Selim Cd. No:34 4.levent",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 7951",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lLxJqtyASGBSp80s04Xz6_41.090618_29.004160@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a019d7f2b95fc2b208c44d0d44170251",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169607551
+        }
+    ],
+    "wof:id":169607551,
+    "wof:lastmodified":1449033121,
+    "wof:name":"Sampiyon Spor Tesis.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.00416,41.090618,29.00416,41.090618],
+  "geometry": {"coordinates":[29.00416,41.090618],"type":"Point"}
+}

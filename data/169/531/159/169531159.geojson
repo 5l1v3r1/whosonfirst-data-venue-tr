@@ -1,0 +1,57 @@
+{
+  "id": 169531159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.970457,41.012005,28.970457,41.012005",
+    "geom:latitude":41.012005,
+    "geom:longitude":28.970457,
+    "iso:country":"TR",
+    "sg:address":"Atat?k Bul 112 K 4 Eminonu",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 3804",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906487,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GCcyk0gUChtNV5ppKLgne_41.012005_28.970457@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80e4aa40a7912ae23a9bfef6bbc4df9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":169531159
+        }
+    ],
+    "wof:id":169531159,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Banka Sigorta Iscileri Sendikasi",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.970457,41.012005,28.970457,41.012005],
+  "geometry": {"coordinates":[28.970457,41.012005],"type":"Point"}
+}

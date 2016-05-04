@@ -1,0 +1,58 @@
+{
+  "id": 169535591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.013336,41.069599,29.013336,41.069599",
+    "geom:latitude":41.069599,
+    "geom:longitude":29.013336,
+    "iso:country":"TR",
+    "sg:address":"11 Floor, Buyukdeke N122/b, Esentepe, Istanbul",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hKRwRbSMRfrUM2oBpEZZO_41.069599_29.013336@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0442709316f5bccc9823a1f6660df2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169535591
+        }
+    ],
+    "wof:id":169535591,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Gingilli Holding",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.013336,41.069599,29.013336,41.069599],
+  "geometry": {"coordinates":[29.013336,41.069599],"type":"Point"}
+}

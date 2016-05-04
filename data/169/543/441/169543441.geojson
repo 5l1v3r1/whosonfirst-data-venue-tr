@@ -1,0 +1,58 @@
+{
+  "id": 169543441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.846989,39.89299,32.846989,39.89299",
+    "geom:latitude":39.89299,
+    "geom:longitude":32.846989,
+    "iso:country":"TR",
+    "sg:address":"Yukari Ayranci",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 41393772",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j9cfLtsCc8hApkHnnWhZA_39.892990_32.846989@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3dbfa0a86914b4a65fd0e3387ce912b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169543441
+        }
+    ],
+    "wof:id":169543441,
+    "wof:lastmodified":1449033334,
+    "wof:name":"T\u00fcrkiye Emlak Bankasi As",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.846989,39.89299,32.846989,39.89299],
+  "geometry": {"coordinates":[32.846989,39.89299],"type":"Point"}
+}

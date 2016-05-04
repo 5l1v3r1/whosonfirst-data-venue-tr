@@ -1,0 +1,64 @@
+{
+  "id": 169608767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976213,41.01556,28.976213,41.01556",
+    "geom:latitude":41.01556,
+    "geom:longitude":28.976213,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad. No:233/4 Sirkeci",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 4768",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RBgm4NM316eijzz0APHMO_41.015560_28.976213@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bd5f12c81b25b549a747f0e1e1b01f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169608767
+        }
+    ],
+    "wof:id":169608767,
+    "wof:lastmodified":1449034082,
+    "wof:name":"Winners Spor",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.976213,41.01556,28.976213,41.01556],
+  "geometry": {"coordinates":[28.976213,41.01556],"type":"Point"}
+}

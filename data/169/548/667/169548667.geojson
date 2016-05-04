@@ -1,0 +1,67 @@
+{
+  "id": 169548667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.006334,41.062099,29.006334,41.062099",
+    "geom:latitude":41.062099,
+    "geom:longitude":29.006334,
+    "iso:country":"TR",
+    "sg:address":"Yildiz Posta Cd. Emekli Subay Evleri Gayrettepe",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 7232",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33mYU7EFTsVcURJPcmj0KP_41.062099_29.006334@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26ae6a916dbc9016bffd3eda01d45fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169548667
+        }
+    ],
+    "wof:id":169548667,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Vatan Pazarlama A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.006334,41.062099,29.006334,41.062099],
+  "geometry": {"coordinates":[29.006334,41.062099],"type":"Point"}
+}

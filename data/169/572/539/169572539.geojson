@@ -1,0 +1,62 @@
+{
+  "id": 169572539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.211624,40.891857,29.211624,40.891857",
+    "geom:latitude":40.891857,
+    "geom:longitude":29.211624,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cd. Platin Apt. No:43/1",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 6580",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ijb9XEQWHveMl195NpYuf_40.891857_29.211624@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e169612e33f7ddc26898242ee054c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169572539
+        }
+    ],
+    "wof:id":169572539,
+    "wof:lastmodified":1449034709,
+    "wof:name":"Denmar Denizcilik.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.211624,40.891857,29.211624,40.891857],
+  "geometry": {"coordinates":[29.211624,40.891857],"type":"Point"}
+}

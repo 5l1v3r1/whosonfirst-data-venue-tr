@@ -1,0 +1,58 @@
+{
+  "id": 169536199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.082542,40.959354,29.082542,40.959354",
+    "geom:latitude":40.959354,
+    "geom:longitude":29.082542,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad 471",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 411 5455",
+    "sg:province":"Suadiye",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sQiuI1yC8znulDhy0b1vp_40.959354_29.082542@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fab8e795524040edd9f9ec6ef085cbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169536199
+        }
+    ],
+    "wof:id":169536199,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.082542,40.959354,29.082542,40.959354],
+  "geometry": {"coordinates":[29.082542,40.959354],"type":"Point"}
+}

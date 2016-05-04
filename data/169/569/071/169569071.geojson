@@ -1,0 +1,64 @@
+{
+  "id": 169569071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.968874,41.057594,28.968874,41.057594",
+    "geom:latitude":41.057594,
+    "geom:longitude":28.968874,
+    "iso:country":"TR",
+    "sg:address":"Karak? Kat Oto Park. Alti No:6 Karak?",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 1762",
+    "sg:postcode":"34384",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PahUz2elW3aaD1YImnV5D_41.057594_28.968874@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"637aa20ebaf101529d49ed1b200d4b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169569071
+        }
+    ],
+    "wof:id":169569071,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Monacor Elektronik San. Tic. A.s.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.968874,41.057594,28.968874,41.057594],
+  "geometry": {"coordinates":[28.968874,41.057594],"type":"Point"}
+}

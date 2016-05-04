@@ -1,0 +1,63 @@
+{
+  "id": 169569835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.042156,41.089153,29.042156,41.089153",
+    "geom:latitude":41.089153,
+    "geom:longitude":29.042156,
+    "iso:country":"TR",
+    "sg:address":"Cengiz Topel Cad. Bebek Yolu Sok. No:7 Etiler",
+    "sg:city":"63100",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 4775",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fuV46qv5iyUXgZ2ZasTCx_41.089153_29.042156@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b851ebbf306c7b18edce541b51917fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169569835
+        }
+    ],
+    "wof:id":169569835,
+    "wof:lastmodified":1449035829,
+    "wof:name":"Sensormatic Guvenlik Sistemleri A.s",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.042156,41.089153,29.042156,41.089153],
+  "geometry": {"coordinates":[29.042156,41.089153],"type":"Point"}
+}

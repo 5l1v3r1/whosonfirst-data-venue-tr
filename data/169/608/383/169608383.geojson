@@ -1,0 +1,66 @@
+{
+  "id": 169608383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.00738,41.044666,29.00738,41.044666",
+    "geom:latitude":41.044666,
+    "geom:longitude":29.00738,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulv. No:64/4 Besiktas",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 3139",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09QgcoKDw8Nbnx79bSNMYe_41.044666_29.007380@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25b3a466b3d6a255ec19a27b67b396e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169608383
+        }
+    ],
+    "wof:id":169608383,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Tayca Spor Sahalari",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.00738,41.044666,29.00738,41.044666],
+  "geometry": {"coordinates":[29.00738,41.044666],"type":"Point"}
+}

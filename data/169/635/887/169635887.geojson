@@ -1,0 +1,59 @@
+{
+  "id": 169635887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.12672,40.933064,29.12672,40.933064",
+    "geom:latitude":40.933064,
+    "geom:longitude":29.12672,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cd. No:145 Maltepe",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 352 2203",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s023T3B2rAImoGbg5iFb9_40.933064_29.126720@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"17c07957dbde68a1e3057af7fd5afa02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":169635887
+        }
+    ],
+    "wof:id":169635887,
+    "wof:lastmodified":1449034100,
+    "wof:name":"Baris Kitap Kirtasiye",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.12672,40.933064,29.12672,40.933064],
+  "geometry": {"coordinates":[29.12672,40.933064],"type":"Point"}
+}

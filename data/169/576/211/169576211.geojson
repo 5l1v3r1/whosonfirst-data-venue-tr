@@ -1,0 +1,66 @@
+{
+  "id": 169576211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.864254,39.897011,32.864254,39.897011",
+    "geom:latitude":39.897011,
+    "geom:longitude":32.864254,
+    "iso:country":"TR",
+    "sg:address":"Turan Emeksiz Sok. No: 5-a/24",
+    "sg:city":"G.o.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 3627",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41v6XfZlpBpQUA3RRwD8WK_39.897011_32.864254@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b2e42c80b7c43f5269b518398fa4c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169576211
+        }
+    ],
+    "wof:id":169576211,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Ever A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [32.864254,39.897011,32.864254,39.897011],
+  "geometry": {"coordinates":[32.864254,39.897011],"type":"Point"}
+}

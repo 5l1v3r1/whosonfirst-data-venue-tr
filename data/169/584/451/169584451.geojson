@@ -1,0 +1,65 @@
+{
+  "id": 169584451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.172787,38.469059,27.172787,38.469059",
+    "geom:latitude":38.469059,
+    "geom:longitude":27.172787,
+    "iso:country":"TR",
+    "sg:address":"1637.sok.no:99",
+    "sg:city":"Bayrakli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 341 1491",
+    "sg:postcode":"35580",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929643,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AqQ0YBi4e56bIyBxOBwdY_38.469059_27.172787@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b7bbd7cf013a91e88532080ece67415a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929643,
+            "region_id":85679201,
+            "venue_id":169584451
+        }
+    ],
+    "wof:id":169584451,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Fatih Gida",
+    "wof:parent_id":85929643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [27.172787,38.469059,27.172787,38.469059],
+  "geometry": {"coordinates":[27.172787,38.469059],"type":"Point"}
+}

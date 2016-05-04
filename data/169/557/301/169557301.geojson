@@ -1,0 +1,63 @@
+{
+  "id": 169557301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.034597,41.006634,29.034597,41.006634",
+    "geom:latitude":41.006634,
+    "geom:longitude":29.034597,
+    "iso:country":"TR",
+    "sg:address":"Mehmet Afkan Sk. No. 57 / 2 Kosuyolu",
+    "sg:city":"Besy?evler",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 6265",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZC6j7sOg06EyIC8bF1ii_41.006634_29.034597@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c729eadc26a1d59cf16175851da6aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":169557301
+        }
+    ],
+    "wof:id":169557301,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Pnk Havuz Mak. Ins. Ends. Mlz. San. Tic.ltd.sti.",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.034597,41.006634,29.034597,41.006634],
+  "geometry": {"coordinates":[29.034597,41.006634],"type":"Point"}
+}

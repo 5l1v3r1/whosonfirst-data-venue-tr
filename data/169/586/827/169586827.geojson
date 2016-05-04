@@ -1,0 +1,64 @@
+{
+  "id": 169586827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.249001,40.895279,29.249001,40.895279",
+    "geom:latitude":40.895279,
+    "geom:longitude":29.249001,
+    "iso:country":"TR",
+    "sg:address":"Alibaba Cad. Yesilirmak Sok. No: 42 Dolayaba-",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 379 4924",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nr6aqB33NMy1tcrPiJyWs_40.895279_29.249001@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9f8a96a6764916cc53d69995d573a0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169586827
+        }
+    ],
+    "wof:id":169586827,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Celikel Pres Dokum San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.249001,40.895279,29.249001,40.895279],
+  "geometry": {"coordinates":[29.249001,40.895279],"type":"Point"}
+}

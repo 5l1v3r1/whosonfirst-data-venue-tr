@@ -1,0 +1,65 @@
+{
+  "id": 169588223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.123938,40.935417,29.123938,40.935417",
+    "geom:latitude":40.935417,
+    "geom:longitude":29.123938,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cd. No:281",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 358 6438",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yMy6pwM6o7qpYs0tnh6bj_40.935417_29.123938@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d95ea697c1ce0168c8452a2de257ea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":169588223
+        }
+    ],
+    "wof:id":169588223,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Makyal Enerji Sistem. San. A.s.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.123938,40.935417,29.123938,40.935417],
+  "geometry": {"coordinates":[29.123938,40.935417],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169528813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.794655,41.031563,28.794655,41.031563",
+    "geom:latitude":41.031563,
+    "geom:longitude":28.794655,
+    "iso:country":"TR",
+    "sg:address":"A.veysel C. Hazar Sk. Ikitelli Halkali",
+    "sg:city":"Melikgazi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 697 4187",
+    "sg:postcode":"38020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bag-belt-accessories"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929887,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L2YjAbfTa2jgnm4KEki2r_41.031563_28.794655@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e3defb57e1919cfa5dc588b6a726ec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":169528813
+        }
+    ],
+    "wof:id":169528813,
+    "wof:lastmodified":1449033569,
+    "wof:name":"Fereks Deri Mam. Ltd.sti.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag-belt-accessories"
+    ]
+},
+  "bbox": [28.794655,41.031563,28.794655,41.031563],
+  "geometry": {"coordinates":[28.794655,41.031563],"type":"Point"}
+}

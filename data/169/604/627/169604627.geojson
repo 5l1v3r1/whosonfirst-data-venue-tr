@@ -1,0 +1,65 @@
+{
+  "id": 169604627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.97871,41.082996,28.97871,41.082996",
+    "geom:latitude":41.082996,
+    "geom:longitude":28.97871,
+    "iso:country":"TR",
+    "sg:address":"?aglayan Yolu Dere?t?sk. No:1/3-4-5 Kagithane",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 248 0448",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GsNJJLZu1iVyV5aJHZ3fe_41.082996_28.978710@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"408eeb64e51059994f0dfff77a96bea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169604627
+        }
+    ],
+    "wof:id":169604627,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Emeks Teks. Tic. San. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.97871,41.082996,28.97871,41.082996],
+  "geometry": {"coordinates":[28.97871,41.082996],"type":"Point"}
+}

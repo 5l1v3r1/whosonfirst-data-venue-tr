@@ -1,0 +1,64 @@
+{
+  "id": 169571679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.094704,40.959518,29.094704,40.959518",
+    "geom:latitude":40.959518,
+    "geom:longitude":29.094704,
+    "iso:country":"TR",
+    "sg:address":"Semsettin Gunaltay Cad. No: 206/11 Erenkoy/",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 2790",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_375B9xp2Y9VVlre3BwuBnp_40.959518_29.094704@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f743b5745077ab0300d89c78b9c110fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169571679
+        }
+    ],
+    "wof:id":169571679,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Active Marine Istanbul",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.094704,40.959518,29.094704,40.959518],
+  "geometry": {"coordinates":[29.094704,40.959518],"type":"Point"}
+}

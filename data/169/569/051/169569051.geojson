@@ -1,0 +1,64 @@
+{
+  "id": 169569051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975174,41.003654,28.975174,41.003654",
+    "geom:latitude":41.003654,
+    "geom:longitude":28.975174,
+    "iso:country":"TR",
+    "sg:address":"K.ayasofya Cad.aksakal Sok. No:29 Sultanahmet",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 517 3653",
+    "sg:postcode":"34384",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64nYa1PkoodBUJL8AQDrUr_41.003654_28.975174@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f788fa8c10847b4bb671727bab1b6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906491,
+            "region_id":85679237,
+            "venue_id":169569051
+        }
+    ],
+    "wof:id":169569051,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Mis Security",
+    "wof:parent_id":85906491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.975174,41.003654,28.975174,41.003654],
+  "geometry": {"coordinates":[28.975174,41.003654],"type":"Point"}
+}

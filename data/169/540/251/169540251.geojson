@@ -1,0 +1,58 @@
+{
+  "id": 169540251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977297,41.025101,28.977297,41.025101",
+    "geom:latitude":41.025101,
+    "geom:longitude":28.977297,
+    "iso:country":"TR",
+    "sg:address":"Kemeralti Cad 24",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 5040",
+    "sg:province":"80030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906577,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OK0XAxc9TxxWWbRWtvZKv_41.025101_28.977297@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b9f6e106f930305dae3889f335f28d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906577,
+            "region_id":85679237,
+            "venue_id":169540251
+        }
+    ],
+    "wof:id":169540251,
+    "wof:lastmodified":1449033972,
+    "wof:name":"Tat Yatirim, Bankasi As",
+    "wof:parent_id":85906577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.977297,41.025101,28.977297,41.025101],
+  "geometry": {"coordinates":[28.977297,41.025101],"type":"Point"}
+}

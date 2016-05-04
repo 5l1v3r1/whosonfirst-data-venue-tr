@@ -1,0 +1,64 @@
+{
+  "id": 169671539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.996155,41.049095,28.996155,41.049095",
+    "geom:latitude":41.049095,
+    "geom:longitude":28.996155,
+    "iso:country":"TR",
+    "sg:address":"Sakayik Sok.no:37/9",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 0880",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KCwbNKCmwutzjl3OdxDQw_41.049095_28.996155@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"656bb65be1578279c22305728156392b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169671539
+        }
+    ],
+    "wof:id":169671539,
+    "wof:lastmodified":1449033454,
+    "wof:name":"Avrasya Gozetme Kontrol Ve Laboratuvar Servisleri Ltd.sti.",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [28.996155,41.049095,28.996155,41.049095],
+  "geometry": {"coordinates":[28.996155,41.049095],"type":"Point"}
+}

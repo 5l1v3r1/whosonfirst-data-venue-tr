@@ -1,0 +1,65 @@
+{
+  "id": 169667849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.846985,40.999081,28.846985,40.999081",
+    "geom:latitude":40.999081,
+    "geom:longitude":28.846985,
+    "iso:country":"TR",
+    "sg:address":"H?riyet Mh. H?riyet Cd. No:28 Sirinevler",
+    "sg:city":"A.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 552 4794",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwrI6ht5IpEtz2kcJc6rg_40.999081_28.846985@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"685280f90a811d2e53e24ba935e29dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169667849
+        }
+    ],
+    "wof:id":169667849,
+    "wof:lastmodified":1449034843,
+    "wof:name":"Yesiltan Madeni Esya San. Tic. Ltd.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.846985,40.999081,28.846985,40.999081],
+  "geometry": {"coordinates":[28.846985,40.999081],"type":"Point"}
+}

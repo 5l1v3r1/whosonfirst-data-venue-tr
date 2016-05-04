@@ -1,0 +1,59 @@
+{
+  "id": 169538861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.990908,41.078609,28.990908,41.078609",
+    "geom:latitude":41.078609,
+    "geom:longitude":28.990908,
+    "iso:country":"TR",
+    "sg:address":"B??dere Caddesi No 82, Gayrettepe, 80450 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122752424729",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.pamukbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C266tF4EzZnLePL3ryxxG_41.078609_28.990908@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"959300c1931767c6d42f6f3a846d8edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169538861
+        }
+    ],
+    "wof:id":169538861,
+    "wof:lastmodified":1449033101,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.990908,41.078609,28.990908,41.078609],
+  "geometry": {"coordinates":[28.990908,41.078609],"type":"Point"}
+}

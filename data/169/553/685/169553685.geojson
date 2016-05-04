@@ -1,0 +1,63 @@
+{
+  "id": 169553685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.932758,41.065979,28.932758,41.065979",
+    "geom:latitude":41.065979,
+    "geom:longitude":28.932758,
+    "iso:country":"TR",
+    "sg:address":"Haskoy Cad. No:2/2 A",
+    "sg:city":"Haskoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212254755556",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930157,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gv4yH7xNCQqoCk3CBQX80_41.065979_28.932758@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f512c7ff847c56a7b13786be0c76f774",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930157,
+            "region_id":85679237,
+            "venue_id":169553685
+        }
+    ],
+    "wof:id":169553685,
+    "wof:lastmodified":1449032710,
+    "wof:name":"Efes Cikolata Sekerleme Tic.san.a.s.",
+    "wof:parent_id":85930157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.932758,41.065979,28.932758,41.065979],
+  "geometry": {"coordinates":[28.932758,41.065979],"type":"Point"}
+}

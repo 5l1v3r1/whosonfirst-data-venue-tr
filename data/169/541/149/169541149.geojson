@@ -1,0 +1,59 @@
+{
+  "id": 169541149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.809486,39.922398,32.809486,39.922398",
+    "geom:latitude":39.922398,
+    "geom:longitude":32.809486,
+    "iso:country":"TR",
+    "sg:address":"Askabat Cad 10/7",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 223 0621",
+    "sg:postcode":"63570",
+    "sg:province":"06500",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929583,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lYmaEdX0sBJcITtqqHdcZ_39.922398_32.809486@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1739d074f511517dc7702a0b167ebc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929583,
+            "region_id":85679409,
+            "venue_id":169541149
+        }
+    ],
+    "wof:id":169541149,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85929583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.809486,39.922398,32.809486,39.922398],
+  "geometry": {"coordinates":[32.809486,39.922398],"type":"Point"}
+}

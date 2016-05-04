@@ -1,0 +1,58 @@
+{
+  "id": 169533813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.876007,39.947624,32.876007,39.947624",
+    "geom:latitude":39.947624,
+    "geom:longitude":32.876007,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar C 84/b Altindag",
+    "sg:city":"Turgutlu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 1482",
+    "sg:postcode":"01500",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904077,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fQCeReBl9f6Nzy4PZDJm8_39.947624_32.876007@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2766ca52e5b6d35ec9733d588cd4d662",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":169533813
+        }
+    ],
+    "wof:id":169533813,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.876007,39.947624,32.876007,39.947624],
+  "geometry": {"coordinates":[32.876007,39.947624],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169572059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978384,41.064487,28.978384,41.064487",
+    "geom:latitude":41.064487,
+    "geom:longitude":28.978384,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cd. Yildiz Cicigi Sk. No.7",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 0203",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tqyCFRoTVVw2n3CJUD1uY_41.064487_28.978384@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"312c1a9b808dd3fb0c2b1209ebd55e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169572059
+        }
+    ],
+    "wof:id":169572059,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Barwil Universal Denizcilik A.s. .",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.978384,41.064487,28.978384,41.064487],
+  "geometry": {"coordinates":[28.978384,41.064487],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169534577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.680695,37.967869,34.680695,37.967869",
+    "geom:latitude":37.967869,
+    "geom:longitude":34.680695,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Cad. 21-55",
+    "sg:city":"Nigde",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 388 232 3476",
+    "sg:postcode":"51000",
+    "sg:province":"51100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911223,
+        85679453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48jdZG5DLHCKXtScdtQdxt_37.967869_34.680695@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61b47dc1bf4a8e250b6e182dedd952ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911223,
+            "neighbourhood_id":-1,
+            "region_id":85679453,
+            "venue_id":169534577
+        }
+    ],
+    "wof:id":169534577,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [34.680695,37.967869,34.680695,37.967869],
+  "geometry": {"coordinates":[34.680695,37.967869],"type":"Point"}
+}

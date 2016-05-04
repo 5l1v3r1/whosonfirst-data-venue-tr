@@ -1,0 +1,65 @@
+{
+  "id": 169662037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.851433,39.889839,32.851433,39.889839",
+    "geom:latitude":39.889839,
+    "geom:longitude":32.851433,
+    "iso:country":"TR",
+    "sg:address":"Piyade Sk. No:19 ?ankaya",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 1150",
+    "sg:postcode":"20100",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929559,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hlR5dbSuG2vjcmzCivkIf_39.889839_32.851433@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"141d39e33efbeca6f760adb91ce40261",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":169662037
+        }
+    ],
+    "wof:id":169662037,
+    "wof:lastmodified":1449034924,
+    "wof:name":"G?ris Makina Montaj San. A.s.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [32.851433,39.889839,32.851433,39.889839],
+  "geometry": {"coordinates":[32.851433,39.889839],"type":"Point"}
+}

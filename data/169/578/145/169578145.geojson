@@ -1,0 +1,67 @@
+{
+  "id": 169578145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.7719,41.372299,33.7719,41.372299",
+    "geom:latitude":41.372299,
+    "geom:longitude":33.7719,
+    "iso:country":"TR",
+    "sg:address":"Haci Numan Cad. No:32",
+    "sg:city":"Inebolu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 366 811 3848",
+    "sg:postcode":"37500",
+    "sg:province":"Kastamonu",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911031,
+        85679259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GEk36gvwivFBsnFloBtej_41.372299_33.771900@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e5608933a3cfe5d804e0519f45af627e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911031,
+            "neighbourhood_id":-1,
+            "region_id":85679259,
+            "venue_id":169578145
+        }
+    ],
+    "wof:id":169578145,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Ozay Gemi Acenteleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [33.7719,41.372299,33.7719,41.372299],
+  "geometry": {"coordinates":[33.7719,41.372299],"type":"Point"}
+}

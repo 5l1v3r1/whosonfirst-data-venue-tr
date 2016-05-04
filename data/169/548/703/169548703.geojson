@@ -1,0 +1,66 @@
+{
+  "id": 169548703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.744122,39.97929,32.744122,39.97929",
+    "geom:latitude":39.97929,
+    "geom:longitude":32.744122,
+    "iso:country":"TR",
+    "sg:address":"100. Yil Bulvari 57.sk. No:91 Ostim",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 354 3004",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T44v9vp69GUbaYKKO1Zrd_39.979290_32.744122@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a14df27ad5151d6b80fe9d7cd4e2fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169548703
+        }
+    ],
+    "wof:id":169548703,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Yal?in Ak?m?lat?r San. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [32.744122,39.97929,32.744122,39.97929],
+  "geometry": {"coordinates":[32.744122,39.97929],"type":"Point"}
+}

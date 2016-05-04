@@ -1,0 +1,62 @@
+{
+  "id": 169670635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.300451,40.849403,29.300451,40.849403",
+    "geom:latitude":40.849403,
+    "geom:longitude":29.300451,
+    "iso:country":"TR",
+    "sg:address":"Rauf Orbay Cad. G-48 Sk. No:3/1",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 395 9500",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "stevedores-tally"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B5SVre6l8NWkydM0Qo19o_40.849403_29.300451@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"51736aa075b665530696e68fb7d75c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169670635
+        }
+    ],
+    "wof:id":169670635,
+    "wof:lastmodified":1449033185,
+    "wof:name":"Transmare Shipping Trading",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stevedores-tally"
+    ]
+},
+  "bbox": [29.300451,40.849403,29.300451,40.849403],
+  "geometry": {"coordinates":[29.300451,40.849403],"type":"Point"}
+}

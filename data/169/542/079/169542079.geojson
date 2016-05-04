@@ -1,0 +1,58 @@
+{
+  "id": 169542079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.279367,37.86536,27.279367,37.86536",
+    "geom:latitude":37.86536,
+    "geom:longitude":27.279367,
+    "iso:country":"TR",
+    "sg:address":"Caddesi 254",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 357 0997",
+    "sg:postcode":"41400",
+    "sg:province":"Moda",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912955,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sQrLClsmqQOK53CqwA5O4_37.865360_27.279367@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c8d7018fe142dd40b8f955ecfe4d1a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912955,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169542079
+        }
+    ],
+    "wof:id":169542079,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Turkish Bank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.279367,37.86536,27.279367,37.86536],
+  "geometry": {"coordinates":[27.279367,37.86536],"type":"Point"}
+}

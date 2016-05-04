@@ -1,0 +1,64 @@
+{
+  "id": 169605469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.857552,39.91111,32.857552,39.91111",
+    "geom:latitude":39.91111,
+    "geom:longitude":32.857552,
+    "iso:country":"TR",
+    "sg:address":"Karun Ismrk. Iran Cad.no:21/269 Kavaklidere",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 4490",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32CLTzBqTVTLHePLNL8Jk3_39.911110_32.857552@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6127903961551837ed1e72baaf648c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169605469
+        }
+    ],
+    "wof:id":169605469,
+    "wof:lastmodified":1449034291,
+    "wof:name":"Grena Hediyelik Esya Ve Ev Assesuarlari Ltd.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [32.857552,39.91111,32.857552,39.91111],
+  "geometry": {"coordinates":[32.857552,39.91111],"type":"Point"}
+}

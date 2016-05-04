@@ -1,0 +1,67 @@
+{
+  "id": 169578669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.082228,38.499607,27.082228,38.499607",
+    "geom:latitude":38.499607,
+    "geom:longitude":27.082228,
+    "iso:country":"TR",
+    "sg:address":"1453 Sk. No:14 Cagdas Apt. K.3 D.7",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 424 4204",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101913199,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hb6k4WVxYw7VtmqEVPhTF_38.499607_27.082228@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6fecc931f5de5b9012c2add3b6950054",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913199,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169578669
+        }
+    ],
+    "wof:id":169578669,
+    "wof:lastmodified":1449033519,
+    "wof:name":"Simirna Denizcilik Nak. Trzm. Ve San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.082228,38.499607,27.082228,38.499607],
+  "geometry": {"coordinates":[27.082228,38.499607],"type":"Point"}
+}

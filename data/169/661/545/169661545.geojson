@@ -1,0 +1,64 @@
+{
+  "id": 169661545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.473015,38.723927,35.473015,38.723927",
+    "geom:latitude":38.723927,
+    "geom:longitude":35.473015,
+    "iso:country":"TR",
+    "sg:address":"Sanayi B?g. 1. Cd. 104",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 336 8585",
+    "sg:postcode":"20100",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h0GqA7Jq9b9JU5hgaaA0E_38.723927_35.473015@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"57b56197bf66ebc24d99cdf8b77990c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169661545
+        }
+    ],
+    "wof:id":169661545,
+    "wof:lastmodified":1449035597,
+    "wof:name":"Evin ?elik Esya Tel ?ekme San. Koll. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [35.473015,38.723927,35.473015,38.723927],
+  "geometry": {"coordinates":[35.473015,38.723927],"type":"Point"}
+}

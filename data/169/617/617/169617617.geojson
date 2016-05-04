@@ -1,0 +1,62 @@
+{
+  "id": 169617617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005013,40.233589,29.005013,40.233589",
+    "geom:latitude":40.233589,
+    "geom:longitude":29.005013,
+    "iso:country":"TR",
+    "sg:address":"Bursa",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 366 8560",
+    "sg:postcode":"34660",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l9QxZLmvfA3syqJzYrnyw_40.233589_29.005013@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"97ca715d16b37e715a4e4303759d96be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679231,
+            "venue_id":169617617
+        }
+    ],
+    "wof:id":169617617,
+    "wof:lastmodified":1449032799,
+    "wof:name":"Dis Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [29.005013,40.233589,29.005013,40.233589],
+  "geometry": {"coordinates":[29.005013,40.233589],"type":"Point"}
+}

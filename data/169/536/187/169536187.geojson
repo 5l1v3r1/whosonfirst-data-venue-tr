@@ -1,0 +1,58 @@
+{
+  "id": 169536187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.017595,41.074306,29.017595,41.074306",
+    "geom:latitude":41.074306,
+    "geom:longitude":29.017595,
+    "iso:country":"TR",
+    "sg:address":"Aytar Cad 40",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 0102",
+    "sg:province":"80600",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gN8bthFjkWCKNsjn8STgK_41.074306_29.017595@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6cec6ce43a05b72766986906e8771443",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169536187
+        }
+    ],
+    "wof:id":169536187,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.017595,41.074306,29.017595,41.074306],
+  "geometry": {"coordinates":[29.017595,41.074306],"type":"Point"}
+}

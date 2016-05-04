@@ -1,0 +1,59 @@
+{
+  "id": 169530899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097132,40.951889,29.097132,40.951889",
+    "geom:latitude":40.951889,
+    "geom:longitude":29.097132,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad Suadiye",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 9999",
+    "sg:postcode":"34740",
+    "sg:province":"81070",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UfynkYeSgOhfDKmGVhGaS_40.951889_29.097132@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d8a780c2ba49535182006564c9e27ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169530899
+        }
+    ],
+    "wof:id":169530899,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Bank Ekspres As",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.097132,40.951889,29.097132,40.951889],
+  "geometry": {"coordinates":[29.097132,40.951889],"type":"Point"}
+}

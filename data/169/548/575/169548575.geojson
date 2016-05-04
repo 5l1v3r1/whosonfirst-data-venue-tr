@@ -1,0 +1,66 @@
+{
+  "id": 169548575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.912464,40.76527,29.912464,40.76527",
+    "geom:latitude":40.76527,
+    "geom:longitude":29.912464,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad. No:55 Izmit",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 262 331 0379",
+    "sg:province":"Kocaeli",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IKiDtsVDLpZiilVYvLdIX_40.765270_29.912464@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3b4fe710d2dbc321642ef7c3fd4817aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169548575
+        }
+    ],
+    "wof:id":169548575,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Ozgurler Dis Ticaret A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.912464,40.76527,29.912464,40.76527],
+  "geometry": {"coordinates":[29.912464,40.76527],"type":"Point"}
+}

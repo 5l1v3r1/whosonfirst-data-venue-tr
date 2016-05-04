@@ -1,0 +1,67 @@
+{
+  "id": 169575481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.143387,38.436447,27.143387,38.436447",
+    "geom:latitude":38.436447,
+    "geom:longitude":27.143387,
+    "iso:country":"TR",
+    "sg:address":"Cunhuriyet Bulvari No:280 K:2 D:201 Tev-2 Binasi",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 4014",
+    "sg:postcode":"35220",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c6Atx8cVRCwn91jjwkImo_38.436447_27.143387@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68a0d58517c20fc0a79071c7b319faaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169575481
+        }
+    ],
+    "wof:id":169575481,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bumeran Denizcilik Ltd.sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.143387,38.436447,27.143387,38.436447],
+  "geometry": {"coordinates":[27.143387,38.436447],"type":"Point"}
+}

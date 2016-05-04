@@ -1,0 +1,62 @@
+{
+  "id": 169610341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.151739,36.57748,29.151739,36.57748",
+    "geom:latitude":36.57748,
+    "geom:longitude":29.151739,
+    "iso:country":"TR",
+    "sg:address":"Ataturk Cad. No:121",
+    "sg:city":"Bodrum",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 25231330645",
+    "sg:postcode":"48400",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cQidd01XCtlATz1NrSCQC_36.577480_29.151739@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"653294e735cbf399e0d3c9e40ca34478",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169610341
+        }
+    ],
+    "wof:id":169610341,
+    "wof:lastmodified":1449035912,
+    "wof:name":"Melis Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [29.151739,36.57748,29.151739,36.57748],
+  "geometry": {"coordinates":[29.151739,36.57748],"type":"Point"}
+}

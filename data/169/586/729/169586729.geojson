@@ -1,0 +1,65 @@
+{
+  "id": 169586729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.855572,39.926651,32.855572,39.926651",
+    "geom:latitude":39.926651,
+    "geom:longitude":32.855572,
+    "iso:country":"TR",
+    "sg:address":"Mithatpasa Cad. No:71/12",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 3300",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934683,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t9CAdsgvX82bSFpfnaAWM_39.926651_32.855572@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb9aa15516056bb10e7bc6190c753a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":169586729
+        }
+    ],
+    "wof:id":169586729,
+    "wof:lastmodified":1449035576,
+    "wof:name":"De Wind Ruzgar Enerjisi Sistemleri Ltd.sti.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.855572,39.926651,32.855572,39.926651],
+  "geometry": {"coordinates":[32.855572,39.926651],"type":"Point"}
+}

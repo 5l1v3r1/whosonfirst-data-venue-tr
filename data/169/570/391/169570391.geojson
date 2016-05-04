@@ -1,0 +1,64 @@
+{
+  "id": 169570391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.044514,40.979401,29.044514,40.979401",
+    "geom:latitude":40.979401,
+    "geom:longitude":29.044514,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Caddesi No : 179 / 121",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 399 5005",
+    "sg:postcode":"81090",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OC4dZohVxS6tVkXzEturd_40.979401_29.044514@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee48ee3f92d8b45bd2beb6338425b60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":169570391
+        }
+    ],
+    "wof:id":169570391,
+    "wof:lastmodified":1449034647,
+    "wof:name":"Vizyon Elektronik G?enlik Ve Kontrol Sistemleri",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.044514,40.979401,29.044514,40.979401],
+  "geometry": {"coordinates":[29.044514,40.979401],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169568539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.219606,38.45932,27.219606,38.45932",
+    "geom:latitude":38.45932,
+    "geom:longitude":27.219606,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad. No: 197/4 Bornova",
+    "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 339 7677",
+    "sg:postcode":"34450",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DoIZq4egaB4oJL9czGEQS_38.459320_27.219606@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b56d94cc785efa888106a5885732a666",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169568539
+        }
+    ],
+    "wof:id":169568539,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Kart Sistem Elektronik Ltd.sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [27.219606,38.45932,27.219606,38.45932],
+  "geometry": {"coordinates":[27.219606,38.45932],"type":"Point"}
+}

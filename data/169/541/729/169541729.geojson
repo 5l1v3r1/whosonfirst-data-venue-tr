@@ -1,0 +1,59 @@
+{
+  "id": 169541729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.088491,41.003933,29.088491,41.003933",
+    "geom:latitude":41.003933,
+    "geom:longitude":29.088491,
+    "iso:country":"TR",
+    "sg:address":"Omurtak Cad. 85",
+    "sg:city":"Tekirdag",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 651 2120",
+    "sg:postcode":"59000",
+    "sg:province":"59860",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WtuDMjPFfHTv9SQ9Maq95_41.003933_29.088491@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5e4fa83c25527616b184ef33be12a2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169541729
+        }
+    ],
+    "wof:id":169541729,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.088491,41.003933,29.088491,41.003933],
+  "geometry": {"coordinates":[29.088491,41.003933],"type":"Point"}
+}

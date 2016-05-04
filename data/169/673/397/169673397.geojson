@@ -1,0 +1,64 @@
+{
+  "id": 169673397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.798912,40.980923,28.798912,40.980923",
+    "geom:latitude":40.980923,
+    "geom:longitude":28.798912,
+    "iso:country":"TR",
+    "sg:address":"Baglari? Cad. No:26 Avcilar",
+    "sg:city":"Levet",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 509 5700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mEdYpimIGZC695oU1cmxQ_40.980923_28.798912@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"052ae4805a5e68f982dee04ad7bf176b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169673397
+        }
+    ],
+    "wof:id":169673397,
+    "wof:lastmodified":1449033958,
+    "wof:name":"Art Gida Paz.san.ltd.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.798912,40.980923,28.798912,40.980923],
+  "geometry": {"coordinates":[28.798912,40.980923],"type":"Point"}
+}

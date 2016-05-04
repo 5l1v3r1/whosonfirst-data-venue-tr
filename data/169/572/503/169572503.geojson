@@ -1,0 +1,63 @@
+{
+  "id": 169572503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.036364,40.993668,29.036364,40.993668",
+    "geom:latitude":40.993668,
+    "geom:longitude":29.036364,
+    "iso:country":"TR",
+    "sg:address":"Hasanpasa Kurbagalidere Cd. No:61/1",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 4978",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        85632393,
+        101912677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69qtMg5R8YxYYJ2jeqsD9s_40.993668_29.036364@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24287cb89c91145fe38ed7dc681f92b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":-1,
+            "venue_id":169572503
+        }
+    ],
+    "wof:id":169572503,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Dogan Denizciliktic.ltd.sti.",
+    "wof:parent_id":85904115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.036364,40.993668,29.036364,40.993668],
+  "geometry": {"coordinates":[29.036364,40.993668],"type":"Point"}
+}

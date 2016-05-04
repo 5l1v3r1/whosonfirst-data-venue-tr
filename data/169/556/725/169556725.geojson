@@ -1,0 +1,64 @@
+{
+  "id": 169556725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978685,41.04705,28.978685,41.04705",
+    "geom:latitude":41.04705,
+    "geom:longitude":28.978685,
+    "iso:country":"TR",
+    "sg:address":"Kurtulus Cad. Sopali H?n?sk. No. 8 Kurtulus",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122465302212",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929499,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y7SMm1g8DVBnBe10exR5s_41.047050_28.978685@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82729edf7d7aa4bb70f6a1bc7f7e408b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929499,
+            "region_id":85679237,
+            "venue_id":169556725
+        }
+    ],
+    "wof:id":169556725,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Gen-tes Yapi End. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.978685,41.04705,28.978685,41.04705],
+  "geometry": {"coordinates":[28.978685,41.04705],"type":"Point"}
+}

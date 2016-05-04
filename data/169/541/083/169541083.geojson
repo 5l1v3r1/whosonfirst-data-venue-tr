@@ -1,0 +1,57 @@
+{
+  "id": 169541083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.888014,41.006847,28.888014,41.006847",
+    "geom:latitude":41.006847,
+    "geom:longitude":28.888014,
+    "iso:country":"TR",
+    "sg:address":"A.kutsi Tecer Cad 56/5",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 557 7958",
+    "sg:province":"34010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ts0iAJxt0ywsz1PX4TmMS_41.006847_28.888014@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be9ec49ec6adf3da60edd269b3e98881",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169541083
+        }
+    ],
+    "wof:id":169541083,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.888014,41.006847,28.888014,41.006847],
+  "geometry": {"coordinates":[28.888014,41.006847],"type":"Point"}
+}

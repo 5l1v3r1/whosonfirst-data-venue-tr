@@ -1,0 +1,68 @@
+{
+  "id": 169576817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.083015,40.995186,29.083015,40.995186",
+    "geom:latitude":40.995186,
+    "geom:longitude":29.083015,
+    "iso:country":"TR",
+    "sg:address":"Fahrettin Kerim G?ay Cad.no:22/2",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 391 6750",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MyURMh6nJulZirbyzS0G4_40.995186_29.083015@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e4f10d78f659af9212d1079bd270456e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169576817
+        }
+    ],
+    "wof:id":169576817,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Ince Denizcilik",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.083015,40.995186,29.083015,40.995186],
+  "geometry": {"coordinates":[29.083015,40.995186],"type":"Point"}
+}

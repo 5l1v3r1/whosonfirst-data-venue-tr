@@ -1,0 +1,63 @@
+{
+  "id": 169685409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.046659,40.974506,29.046659,40.974506",
+    "geom:latitude":40.974506,
+    "geom:longitude":29.046659,
+    "iso:country":"TR",
+    "sg:address":"U?k Cd. Lalezar Sk. No: 15",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 3937",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ZYQT8Kk6Ra3N9wnSnZKS_40.974506_29.046659@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1bd5517b77ef844aa811f2bca2d8aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":169685409
+        }
+    ],
+    "wof:id":169685409,
+    "wof:lastmodified":1449035885,
+    "wof:name":"Altun Tekstil ?rme Kumas San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.046659,40.974506,29.046659,40.974506],
+  "geometry": {"coordinates":[29.046659,40.974506],"type":"Point"}
+}

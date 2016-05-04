@@ -1,0 +1,64 @@
+{
+  "id": 169570905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.740738,39.977226,32.740738,39.977226",
+    "geom:latitude":39.977226,
+    "geom:longitude":32.740738,
+    "iso:country":"TR",
+    "sg:address":"47.sokak No:56",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312354593839",
+    "sg:postcode":"06370",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37pQiyJfpj9Ur1XZHcQfsl_39.977226_32.740738@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"92f4bab0bc37cd7248cce05f1dc2b53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169570905
+        }
+    ],
+    "wof:id":169570905,
+    "wof:lastmodified":1449034645,
+    "wof:name":"B?sra Metal Ltd Sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [32.740738,39.977226,32.740738,39.977226],
+  "geometry": {"coordinates":[32.740738,39.977226],"type":"Point"}
+}

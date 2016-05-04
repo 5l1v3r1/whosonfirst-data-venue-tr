@@ -1,0 +1,66 @@
+{
+  "id": 169655781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.089193,40.984627,29.089193,40.984627",
+    "geom:latitude":40.984627,
+    "geom:longitude":29.089193,
+    "iso:country":"TR",
+    "sg:address":"Sahrayicedit",
+    "sg:city":"Yeni Sanayi",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 356 2408",
+    "sg:postcode":"46010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UB6JKEqCSohoqxsf0lKB7_40.984627_29.089193@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"274b6479c14fc24150132358c60e428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":169655781
+        }
+    ],
+    "wof:id":169655781,
+    "wof:lastmodified":1449034586,
+    "wof:name":"Kale Celik Kapi Ve Kasa",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "door"
+    ]
+},
+  "bbox": [29.089193,40.984627,29.089193,40.984627],
+  "geometry": {"coordinates":[29.089193,40.984627],"type":"Point"}
+}

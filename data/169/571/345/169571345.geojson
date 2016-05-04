@@ -1,0 +1,64 @@
+{
+  "id": 169571345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011587,41.024227,29.011587,41.024227",
+    "geom:latitude":41.024227,
+    "geom:longitude":29.011587,
+    "iso:country":"TR",
+    "sg:address":"Istanbul",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 1664",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qWSUaK7yiEsVrjQUYiDDP_41.024227_29.011587@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1f72fbd9c1aff86c58bb0fee07bc1c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":169571345
+        }
+    ],
+    "wof:id":169571345,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Marketsan Raf Tic.a.s.",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [29.011587,41.024227,29.011587,41.024227],
+  "geometry": {"coordinates":[29.011587,41.024227],"type":"Point"}
+}

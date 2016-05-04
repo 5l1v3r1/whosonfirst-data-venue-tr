@@ -1,0 +1,65 @@
+{
+  "id": 169558157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.2843,37.719299,30.2843,37.719299",
+    "geom:latitude":37.719299,
+    "geom:longitude":30.2843,
+    "iso:country":"TR",
+    "sg:address":"Karayollari Kantar Arkasi Bucak",
+    "sg:city":"Kazan",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 248 325 1566",
+    "sg:postcode":"06980",
+    "sg:province":"Burdur",
+    "sg:tags":[
+        "scaffolding",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911261,
+        85679273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oQJd3uBTvPKMpmpP1tOIc_37.719299_30.284300@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7bf39102b5c037f11f91fcb94d0907fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911261,
+            "neighbourhood_id":-1,
+            "region_id":85679273,
+            "venue_id":169558157
+        }
+    ],
+    "wof:id":169558157,
+    "wof:lastmodified":1449033583,
+    "wof:name":"Portisan Iskele Ve Kalip San.a.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding",
+        "form"
+    ]
+},
+  "bbox": [30.2843,37.719299,30.2843,37.719299],
+  "geometry": {"coordinates":[30.2843,37.719299],"type":"Point"}
+}

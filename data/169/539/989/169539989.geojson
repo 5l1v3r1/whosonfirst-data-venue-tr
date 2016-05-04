@@ -1,0 +1,59 @@
+{
+  "id": 169539989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.024347,40.982658,29.024347,40.982658",
+    "geom:latitude":40.982658,
+    "geom:longitude":29.024347,
+    "iso:country":"TR",
+    "sg:address":"Moda",
+    "sg:city":"Bahcekapi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 414 5534",
+    "sg:postcode":"23000",
+    "sg:province":"Moda",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nYuKhaOdOvlHQPmubDtLM_40.982658_29.024347@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"97ca84314b1bb4a6df4b9cafd5849a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904147,
+            "region_id":85679237,
+            "venue_id":169539989
+        }
+    ],
+    "wof:id":169539989,
+    "wof:lastmodified":1449036039,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85904147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.024347,40.982658,29.024347,40.982658],
+  "geometry": {"coordinates":[29.024347,40.982658],"type":"Point"}
+}

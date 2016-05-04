@@ -1,0 +1,66 @@
+{
+  "id": 169587547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.955708,41.046566,28.955708,41.046566",
+    "geom:latitude":41.046566,
+    "geom:longitude":28.955708,
+    "iso:country":"TR",
+    "sg:address":"Fetihtepe Mah.cilesiz Sok. No:51",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 5391",
+    "sg:postcode":"31750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906531,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z55D1Hmsj7pGtrM0Zj95g_41.046566_28.955708@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"988bab0be1a266a731d75ab98432657f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906531,
+            "region_id":85679237,
+            "venue_id":169587547
+        }
+    ],
+    "wof:id":169587547,
+    "wof:lastmodified":1449033819,
+    "wof:name":"G? Pinar Gunes Enerji",
+    "wof:parent_id":85906531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.955708,41.046566,28.955708,41.046566],
+  "geometry": {"coordinates":[28.955708,41.046566],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169531257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.400396,40.780704,30.400396,40.780704",
+    "geom:latitude":40.780704,
+    "geom:longitude":30.400396,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad. 39/41",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 8000",
+    "sg:province":"80000",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912667,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sMUFJlGNZzteAXvgEFfT7_40.780704_30.400396@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"57cf5c72ef04f7118ddebc5c5f7e1e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912667,
+            "neighbourhood_id":-1,
+            "region_id":85679245,
+            "venue_id":169531257
+        }
+    ],
+    "wof:id":169531257,
+    "wof:lastmodified":1449033474,
+    "wof:name":"Banque Centrale De La, R?ublic De Turquie Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.400396,40.780704,30.400396,40.780704],
+  "geometry": {"coordinates":[30.400396,40.780704],"type":"Point"}
+}

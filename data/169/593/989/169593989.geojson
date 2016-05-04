@@ -1,0 +1,75 @@
+{
+  "id": 169593989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.993208,41.055065,28.993208,41.055065",
+    "geom:latitude":41.055065,
+    "geom:longitude":28.993208,
+    "iso:country":"TR",
+    "sg:address":"Koresehitleri Cad.no:1/10 Zincirlikuyu",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3419",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237,
+        85929365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NQ9kJPiPCdiwhT1e4CAIh_41.055065_28.993208@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"baf61cff2e175b8ed3aae40c6cab576e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169593989
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":169593989
+        }
+    ],
+    "wof:id":169593989,
+    "wof:lastmodified":1449034877,
+    "wof:name":"Yilmaz Kimya A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [28.993208,41.055065,28.993208,41.055065],
+  "geometry": {"coordinates":[28.993208,41.055065],"type":"Point"}
+}

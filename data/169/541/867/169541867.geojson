@@ -1,0 +1,58 @@
+{
+  "id": 169541867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.875614,39.892822,32.875614,39.892822",
+    "geom:latitude":39.892822,
+    "geom:longitude":32.875614,
+    "iso:country":"TR",
+    "sg:address":"Ugur Mumcu Cad",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 3203",
+    "sg:postcode":"63570",
+    "sg:province":"06700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VNr7aJbsqDvYPYytnq8RQ_39.892822_32.875614@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"561501a9abcfbe38f2aa8fb19ee814c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169541867
+        }
+    ],
+    "wof:id":169541867,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.875614,39.892822,32.875614,39.892822],
+  "geometry": {"coordinates":[32.875614,39.892822],"type":"Point"}
+}

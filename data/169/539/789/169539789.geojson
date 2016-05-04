@@ -1,0 +1,58 @@
+{
+  "id": 169539789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.84848,39.896893,32.84848,39.896893",
+    "geom:latitude":39.896893,
+    "geom:longitude":32.84848,
+    "iso:country":"TR",
+    "sg:address":"Hosdere Caddesi",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 8427",
+    "sg:postcode":"07080",
+    "sg:province":"06540",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ptw19QlyKNGXJzEuTRSrY_39.896893_32.848480@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"397d06bf0c74efbfe73a9577e9a8caaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169539789
+        }
+    ],
+    "wof:id":169539789,
+    "wof:lastmodified":1449036038,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.84848,39.896893,32.84848,39.896893],
+  "geometry": {"coordinates":[32.84848,39.896893],"type":"Point"}
+}

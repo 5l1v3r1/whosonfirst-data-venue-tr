@@ -1,0 +1,58 @@
+{
+  "id": 169537067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.855007,39.888485,32.855007,39.888485",
+    "geom:latitude":39.888485,
+    "geom:longitude":32.855007,
+    "iso:country":"TR",
+    "sg:address":"Cinnah Cad 88/1",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 5205",
+    "sg:postcode":"63570",
+    "sg:province":"06690",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zPBLynFndWT67gGZQuoi3_39.888485_32.855007@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6e4a188d67bb9377af7babdd5c72ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169537067
+        }
+    ],
+    "wof:id":169537067,
+    "wof:lastmodified":1449033496,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.855007,39.888485,32.855007,39.888485],
+  "geometry": {"coordinates":[32.855007,39.888485],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169685591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.84399,41.00145,28.84399,41.00145",
+    "geom:latitude":41.00145,
+    "geom:longitude":28.84399,
+    "iso:country":"TR",
+    "sg:address":"Senevler Mah. G9 Sok. No:16",
+    "sg:city":"Cubuklu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 425 8156",
+    "sg:postcode":"24000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zdgAw2zIH40seK9OosH6z_41.001450_28.843990@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ba3bfc374478f8fc172c10ed7331db5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169685591
+        }
+    ],
+    "wof:id":169685591,
+    "wof:lastmodified":1449035887,
+    "wof:name":"Dikmen Tekstil",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.84399,41.00145,28.84399,41.00145],
+  "geometry": {"coordinates":[28.84399,41.00145],"type":"Point"}
+}

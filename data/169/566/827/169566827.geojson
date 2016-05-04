@@ -1,0 +1,63 @@
+{
+  "id": 169566827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.588264,41.018402,28.588264,41.018402",
+    "geom:latitude":41.018402,
+    "geom:longitude":28.588264,
+    "iso:country":"TR",
+    "sg:address":"Adnan Menderes Bulvari Vatan Cad.no: 62/3 K:4 D:19 Fatih",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 621 9635",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930205,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbGzoO2yBuYW0zaa9S5n9_41.018402_28.588264@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9cba156eeaa5129a00e4d34e0eb71a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930205,
+            "region_id":85679237,
+            "venue_id":169566827
+        }
+    ],
+    "wof:id":169566827,
+    "wof:lastmodified":1449032752,
+    "wof:name":"Dilek Elektrik Muhendislik San.tic.ltd.sti.",
+    "wof:parent_id":85930205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.588264,41.018402,28.588264,41.018402],
+  "geometry": {"coordinates":[28.588264,41.018402],"type":"Point"}
+}

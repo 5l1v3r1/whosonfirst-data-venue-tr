@@ -1,0 +1,64 @@
+{
+  "id": 169556025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.5144,40.979198,27.5144,40.979198",
+    "geom:latitude":40.979198,
+    "geom:longitude":27.5144,
+    "iso:country":"TR",
+    "sg:address":"Cicioglu Sitesi 10 Km.",
+    "sg:city":"Tarsus",
+    "sg:classifiers":[
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 231 2287",
+    "sg:postcode":"33400",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "sapling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uaGUkUrpR1EIJlGnJLwFi_40.979198_27.514400@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8387aa57b27f83127b6471eb24e26083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":169556025
+        }
+    ],
+    "wof:id":169556025,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Yildiz Yesillendirme",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sapling"
+    ]
+},
+  "bbox": [27.5144,40.979198,27.5144,40.979198],
+  "geometry": {"coordinates":[27.5144,40.979198],"type":"Point"}
+}

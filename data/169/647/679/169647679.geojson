@@ -1,0 +1,59 @@
+{
+  "id": 169647679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982054,41.035202,28.982054,41.035202",
+    "geom:latitude":41.035202,
+    "geom:longitude":28.982054,
+    "iso:country":"TR",
+    "sg:address":"B??parmakkapi Sok.no:3 Beyoglu",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 3503",
+    "sg:postcode":"06650",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43gvRvcaVWZh3zCKTBXoIN_41.035202_28.982054@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0176bd99a4f9a3bbb3548454d9b8b48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":169647679
+        }
+    ],
+    "wof:id":169647679,
+    "wof:lastmodified":1449034240,
+    "wof:name":"Pandora Bookstore",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.982054,41.035202,28.982054,41.035202],
+  "geometry": {"coordinates":[28.982054,41.035202],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169528529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.860487,41.012753,28.860487,41.012753",
+    "geom:latitude":41.012753,
+    "geom:longitude":28.860487,
+    "iso:country":"TR",
+    "sg:address":"Soganli Mah. Alper Sok. No:36 Bahcelievler",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 507 6649",
+    "sg:postcode":"34130",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bag-belt-accessories"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThoJxElueSRWDYoU39Kdf_41.012753_28.860487@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a830f15c2edfb39de616bad687937ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169528529
+        }
+    ],
+    "wof:id":169528529,
+    "wof:lastmodified":1449033568,
+    "wof:name":"Dema Deri Sanayi",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag-belt-accessories"
+    ]
+},
+  "bbox": [28.860487,41.012753,28.860487,41.012753],
+  "geometry": {"coordinates":[28.860487,41.012753],"type":"Point"}
+}

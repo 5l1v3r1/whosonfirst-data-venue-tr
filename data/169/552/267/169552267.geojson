@@ -1,0 +1,63 @@
+{
+  "id": 169552267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.038361,41.061726,29.038361,41.061726",
+    "geom:latitude":41.061726,
+    "geom:longitude":29.038361,
+    "iso:country":"TR",
+    "sg:address":"Kurucesme Cad. No: 82 Kurucesme",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 8298",
+    "sg:postcode":"81480",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904139,
+        85632393,
+        101912663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VlA19fuGIV0JEr2Pkf7CJ_41.061726_29.038361@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6757ebe1eb3aeed4342a7cd2a550e809",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904139,
+            "region_id":-1,
+            "venue_id":169552267
+        }
+    ],
+    "wof:id":169552267,
+    "wof:lastmodified":1449034057,
+    "wof:name":"Moto Start Bozkan Motorlu Araclar San.tic.ltd.sti.",
+    "wof:parent_id":85904139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [29.038361,41.061726,29.038361,41.061726],
+  "geometry": {"coordinates":[29.038361,41.061726],"type":"Point"}
+}

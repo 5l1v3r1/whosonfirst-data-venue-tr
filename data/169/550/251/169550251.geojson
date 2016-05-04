@@ -1,0 +1,65 @@
+{
+  "id": 169550251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.925846,41.01992,28.925846,41.01992",
+    "geom:latitude":41.01992,
+    "geom:longitude":28.925846,
+    "iso:country":"TR",
+    "sg:address":"Davutpasa Cd. No:28/1 Topkapi",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 501 4870",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904123,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v3Q5t21d5J3AkLtUVrQ0P_41.019920_28.925846@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b67316002ffbf70e2622c95f0093a275",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":169550251
+        }
+    ],
+    "wof:id":169550251,
+    "wof:lastmodified":1449034475,
+    "wof:name":"Topkapi Rulman San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [28.925846,41.01992,28.925846,41.01992],
+  "geometry": {"coordinates":[28.925846,41.01992],"type":"Point"}
+}

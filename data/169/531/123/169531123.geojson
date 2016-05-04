@@ -1,0 +1,58 @@
+{
+  "id": 169531123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.96176,41.003998,28.96176,41.003998",
+    "geom:latitude":41.003998,
+    "geom:longitude":28.96176,
+    "iso:country":"TR",
+    "sg:address":"Ziya G?alp Cad 12",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 8760",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pJH2fw45J4hCSghV7gzf3_41.003998_28.961760@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8368484469c79e1e9ae8d737f02cf7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":169531123
+        }
+    ],
+    "wof:id":169531123,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Bank Mellat",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.96176,41.003998,28.96176,41.003998],
+  "geometry": {"coordinates":[28.96176,41.003998],"type":"Point"}
+}

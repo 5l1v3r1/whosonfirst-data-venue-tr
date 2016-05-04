@@ -1,0 +1,59 @@
+{
+  "id": 169536899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.961451,41.003853,28.961451,41.003853",
+    "geom:latitude":41.003853,
+    "geom:longitude":28.961451,
+    "iso:country":"TR",
+    "sg:address":"Ziya G?alp Cad 23",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 7600",
+    "sg:postcode":"63570",
+    "sg:province":"06420",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y6Lqyqhe9bjzdEagvol3q_41.003853_28.961451@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cef66d45b83156b37a7a8055b7ed2bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":169536899
+        }
+    ],
+    "wof:id":169536899,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Kentbank As",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.961451,41.003853,28.961451,41.003853],
+  "geometry": {"coordinates":[28.961451,41.003853],"type":"Point"}
+}

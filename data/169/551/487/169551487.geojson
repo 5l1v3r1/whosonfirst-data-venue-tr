@@ -1,0 +1,65 @@
+{
+  "id": 169551487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.901047,39.95863,32.901047,39.95863",
+    "geom:latitude":39.95863,
+    "geom:longitude":32.901047,
+    "iso:country":"TR",
+    "sg:address":"Senkal Sk. No:7 Siteler",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 349 1829",
+    "sg:postcode":"63000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_767H1Lz1syisD6iRVkLlEX_39.958630_32.901047@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1fba3491b6323e55a2c750d5d83c5f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169551487
+        }
+    ],
+    "wof:id":169551487,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Mekan Yatak Ve Kapitone San. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [32.901047,39.95863,32.901047,39.95863],
+  "geometry": {"coordinates":[32.901047,39.95863],"type":"Point"}
+}

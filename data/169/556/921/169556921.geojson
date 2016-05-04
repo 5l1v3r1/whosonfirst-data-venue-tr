@@ -1,0 +1,63 @@
+{
+  "id": 169556921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.170172,38.425434,27.170172,38.425434",
+    "geom:latitude":38.425434,
+    "geom:longitude":27.170172,
+    "iso:country":"TR",
+    "sg:address":"1202 / 1 Sk. No. 19 Yenisehir",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 457 6423",
+    "sg:postcode":"52750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904105,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V5fs56kDdmoMA3ZYinvKO_38.425434_27.170172@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"35c830084f259ec1d13204ea773a60f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":169556921
+        }
+    ],
+    "wof:id":169556921,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Incedogan Havuz Sauna",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [27.170172,38.425434,27.170172,38.425434],
+  "geometry": {"coordinates":[27.170172,38.425434],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169568403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.995251,41.067268,28.995251,41.067268",
+    "geom:latitude":41.067268,
+    "geom:longitude":28.995251,
+    "iso:country":"TR",
+    "sg:address":"Eski Osmanli Sk. 3/3 Mecidiyek?",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 3957",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5souo5ZtPGJ4P3hze2LL85_41.067268_28.995251@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b0884acce628226707a33ae6b0c0a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":169568403
+        }
+    ],
+    "wof:id":169568403,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Imaj Bilgisayar Ve Guvenlik Sistemleri",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.995251,41.067268,28.995251,41.067268],
+  "geometry": {"coordinates":[28.995251,41.067268],"type":"Point"}
+}

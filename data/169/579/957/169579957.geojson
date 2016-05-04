@@ -1,0 +1,59 @@
+{
+  "id": 169579957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978012,41.039505,28.978012,41.039505",
+    "geom:latitude":41.039505,
+    "geom:longitude":28.978012,
+    "iso:country":"TR",
+    "sg:address":"Kaskaval Sok.no.8/3 Yenisehir Beyoglu",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 235 8899",
+    "sg:postcode":"16240",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906561,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4f5YSD5v1NOACHfipFof_41.039505_28.978012@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"882f3317343532f73c713ea888027395",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906561,
+            "region_id":85679237,
+            "venue_id":169579957
+        }
+    ],
+    "wof:id":169579957,
+    "wof:lastmodified":1449033742,
+    "wof:name":"Andante Shoes",
+    "wof:parent_id":85906561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.978012,41.039505,28.978012,41.039505],
+  "geometry": {"coordinates":[28.978012,41.039505],"type":"Point"}
+}

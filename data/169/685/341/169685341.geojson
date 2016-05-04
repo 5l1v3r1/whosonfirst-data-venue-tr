@@ -1,0 +1,66 @@
+{
+  "id": 169685341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976879,41.04847,28.976879,41.04847",
+    "geom:latitude":41.04847,
+    "geom:longitude":28.976879,
+    "iso:country":"TR",
+    "sg:address":"Baskin Sokulluoglu 33/1 Evrenoszade Sok.",
+    "sg:city":"Ferikoy",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 5468",
+    "sg:postcode":"34377",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwater",
+        "working"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929499,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xCkRyozfWdr3j7eNPsjKN_41.048470_28.976879@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b2e52aedb1f5bfba1ac9809e1aa8c753",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929499,
+            "region_id":85679237,
+            "venue_id":169685341
+        }
+    ],
+    "wof:id":169685341,
+    "wof:lastmodified":1449035890,
+    "wof:name":"Sodena Sokullu Deniz Araclari Taah.ve Tic.a.s.",
+    "wof:parent_id":85929499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwater",
+        "working"
+    ]
+},
+  "bbox": [28.976879,41.04847,28.976879,41.04847],
+  "geometry": {"coordinates":[28.976879,41.04847],"type":"Point"}
+}

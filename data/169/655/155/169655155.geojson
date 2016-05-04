@@ -1,0 +1,63 @@
+{
+  "id": 169655155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.109135,40.971024,29.109135,40.971024",
+    "geom:latitude":40.971024,
+    "geom:longitude":29.109135,
+    "iso:country":"TR",
+    "sg:address":"Fahrettin Kerim G?ay Caddesi No:280/18",
+    "sg:city":"Sahrayicedit-kadik?",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 385 3102",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33dbuTWmPyB9fUfmZrEExM_40.971024_29.109135@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"582e6588183621b44cd05c86c472bedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169655155
+        }
+    ],
+    "wof:id":169655155,
+    "wof:lastmodified":1449034589,
+    "wof:name":"Emb-jv A.s.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [29.109135,40.971024,29.109135,40.971024],
+  "geometry": {"coordinates":[29.109135,40.971024],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169658663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.844654,41.002247,28.844654,41.002247",
+    "geom:latitude":41.002247,
+    "geom:longitude":28.844654,
+    "iso:country":"TR",
+    "sg:address":"Bakirk? Cd. No:18 Bagcilar",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 575 2133",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2guyBCSJcqxK7DV5qDudqE_41.002247_28.844654@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bfaaaed651b94d8c5ec026b96f161ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169658663
+        }
+    ],
+    "wof:id":169658663,
+    "wof:lastmodified":1449032616,
+    "wof:name":"Asya ?elik Kapi",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.844654,41.002247,28.844654,41.002247],
+  "geometry": {"coordinates":[28.844654,41.002247],"type":"Point"}
+}

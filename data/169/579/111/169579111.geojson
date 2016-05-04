@@ -1,0 +1,66 @@
+{
+  "id": 169579111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.126934,40.922977,29.126934,40.922977",
+    "geom:latitude":40.922977,
+    "geom:longitude":29.126934,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cd.no:2/12",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 388 9038",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BLAH2viCawo63RfNNiePf_40.922977_29.126934@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0b5e8442274a7f72dd14e9913ac7d6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169579111
+        }
+    ],
+    "wof:id":169579111,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Turship",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.126934,40.922977,29.126934,40.922977],
+  "geometry": {"coordinates":[29.126934,40.922977],"type":"Point"}
+}

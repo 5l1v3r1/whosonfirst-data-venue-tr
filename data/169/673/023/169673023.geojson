@@ -1,0 +1,64 @@
+{
+  "id": 169673023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.033417,41.009602,29.033417,41.009602",
+    "geom:latitude":41.009602,
+    "geom:longitude":29.033417,
+    "iso:country":"TR",
+    "sg:address":"Baskan Sok. Ozlem Sitesi E-8 Barbaros Mah. Uskudar",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 492 4274",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18tX7tEjaKFOGy7U5zLfZ2_41.009602_29.033417@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"353dac746660ad756e117d433a96fcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":169673023
+        }
+    ],
+    "wof:id":169673023,
+    "wof:lastmodified":1449033958,
+    "wof:name":"Topaz Denizcilik Ekspertiz Ve Danismanlik Ltd.sti.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [29.033417,41.009602,29.033417,41.009602],
+  "geometry": {"coordinates":[29.033417,41.009602],"type":"Point"}
+}

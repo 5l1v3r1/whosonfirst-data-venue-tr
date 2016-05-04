@@ -1,0 +1,59 @@
+{
+  "id": 169537049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011852,41.056908,29.011852,41.056908",
+    "geom:latitude":41.056908,
+    "geom:longitude":29.011852,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bul, Morbasan",
+    "sg:city":"Gaziantep",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 7777",
+    "sg:postcode":"63570",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hHIBhBSVehgIfzLOdrD23_41.056908_29.011852@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6d8fc3c38928ed1a79f33a78bbea97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169537049
+        }
+    ],
+    "wof:id":169537049,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.011852,41.056908,29.011852,41.056908],
+  "geometry": {"coordinates":[29.011852,41.056908],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169602733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.958532,41.045681,28.958532,41.045681",
+    "geom:latitude":41.045681,
+    "geom:longitude":28.958532,
+    "iso:country":"TR",
+    "sg:address":"Fatih Sultan Cd. No:50/3 Okmeydani",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 2286",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zy0eGvDLB3enWw4W2jFOo_41.045681_28.958532@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dfff6c1c6859e49e1782a72bdb0aeda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":169602733
+        }
+    ],
+    "wof:id":169602733,
+    "wof:lastmodified":1449034225,
+    "wof:name":"Ada Teks. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.958532,41.045681,28.958532,41.045681],
+  "geometry": {"coordinates":[28.958532,41.045681],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169569589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.795584,41.036301,28.795584,41.036301",
+    "geom:latitude":41.036301,
+    "geom:longitude":28.795584,
+    "iso:country":"TR",
+    "sg:address":"Merkez Mah.mahmutbey Cad.okul Sok.merkez ?arsisi.no:2/6 Halkali",
+    "sg:city":"K.?ekmece / Halkali",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 6930012",
+    "sg:postcode":"34301",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929887,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Auh1oXn0s6sM9N5F6SfsN_41.036301_28.795584@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1a12795d2d79e8831c2fa65ebeeed8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":169569589
+        }
+    ],
+    "wof:id":169569589,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Reelteknik",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.795584,41.036301,28.795584,41.036301],
+  "geometry": {"coordinates":[28.795584,41.036301],"type":"Point"}
+}

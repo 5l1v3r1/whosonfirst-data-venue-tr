@@ -1,0 +1,65 @@
+{
+  "id": 169571561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.28126,40.815536,29.28126,40.815536",
+    "geom:latitude":40.815536,
+    "geom:longitude":29.28126,
+    "iso:country":"TR",
+    "sg:address":"Rauf Orbay Cad.g 47 Sok.no:15/2",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 446 9074",
+    "sg:postcode":"81700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "repair",
+        "ship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929767,
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pzmdep34t7OTZSfM5qW4t_40.815536_29.281260@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2f53954f9de93973337efc920ea3fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929767,
+            "region_id":85679241,
+            "venue_id":169571561
+        }
+    ],
+    "wof:id":169571561,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Alfa Gemi Elektronigi M?endisligi",
+    "wof:parent_id":85929767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "ship"
+    ]
+},
+  "bbox": [29.28126,40.815536,29.28126,40.815536],
+  "geometry": {"coordinates":[29.28126,40.815536],"type":"Point"}
+}

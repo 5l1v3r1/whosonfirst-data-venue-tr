@@ -1,0 +1,63 @@
+{
+  "id": 169555615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.2285,41.737801,27.2285,41.737801",
+    "geom:latitude":41.737801,
+    "geom:longitude":27.2285,
+    "iso:country":"TR",
+    "sg:address":"M.kemal Bulvari Merve Apt. No:66",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 288 214 5556",
+    "sg:postcode":"01000",
+    "sg:province":"Kirklareli",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911155,
+        85679219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L9XUBG70bkj01qSHoJV5m_41.737801_27.228500@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54216534cf0c83a97262477ccf07e9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911155,
+            "neighbourhood_id":-1,
+            "region_id":85679219,
+            "venue_id":169555615
+        }
+    ],
+    "wof:id":169555615,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Toktarlar Gida Maddeleri Imalat Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.2285,41.737801,27.2285,41.737801],
+  "geometry": {"coordinates":[27.2285,41.737801],"type":"Point"}
+}

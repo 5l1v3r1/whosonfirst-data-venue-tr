@@ -1,0 +1,62 @@
+{
+  "id": 169553665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.891678,36.919617,34.891678,36.919617",
+    "geom:latitude":36.919617,
+    "geom:longitude":34.891678,
+    "iso:country":"TR",
+    "sg:address":"Ismetpasa Mah. 946/4 Sok. No:21",
+    "sg:city":"Elbistan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 435 1436",
+    "sg:postcode":"46300",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QCDGu0Hbr7tHzjdxGYiYz_36.919617_34.891678@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e36391c4d8b9066731f73bcdf9f81e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679313,
+            "venue_id":169553665
+        }
+    ],
+    "wof:id":169553665,
+    "wof:lastmodified":1449032708,
+    "wof:name":"Dogus ?iklet San Ve Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [34.891678,36.919617,34.891678,36.919617],
+  "geometry": {"coordinates":[34.891678,36.919617],"type":"Point"}
+}

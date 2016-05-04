@@ -1,0 +1,57 @@
+{
+  "id": 169531237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.604582,40.989456,28.604582,40.989456",
+    "geom:latitude":40.989456,
+    "geom:longitude":28.604582,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad 10, Ulus, 06100 Ankara",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312310364674",
+    "sg:province":"Ankara",
+    "sg:website":"http://www.tcmb.gov.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZaIwCigNQMkxYXD7bOTk_40.989456_28.604582@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25516a370320c91fdf70f419fd143188",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169531237
+        }
+    ],
+    "wof:id":169531237,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Banque Centrale De La R?ublique De Turquie Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.604582,40.989456,28.604582,40.989456],
+  "geometry": {"coordinates":[28.604582,40.989456],"type":"Point"}
+}

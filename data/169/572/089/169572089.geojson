@@ -1,0 +1,62 @@
+{
+  "id": 169572089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.291826,40.954857,29.291826,40.954857",
+    "geom:latitude":40.954857,
+    "geom:longitude":29.291826,
+    "iso:country":"TR",
+    "sg:address":"Hamidiye Mah. Kumsal Sok. No:37",
+    "sg:city":"Gemlik",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 513 2284",
+    "sg:postcode":"16600",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ljVIXrnNRwmVFebzcP0C9_40.954857_29.291826@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e8a2f0e81771925be989a64746e3cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169572089
+        }
+    ],
+    "wof:id":169572089,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Avci Denizcilik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.291826,40.954857,29.291826,40.954857],
+  "geometry": {"coordinates":[29.291826,40.954857],"type":"Point"}
+}

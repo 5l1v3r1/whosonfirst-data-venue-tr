@@ -1,0 +1,67 @@
+{
+  "id": 169686641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.0784,41.000294,29.0784,41.000294",
+    "geom:latitude":41.000294,
+    "geom:longitude":29.0784,
+    "iso:country":"TR",
+    "sg:address":"Ahmet Yasevi Cad.no: 102/b",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 654 8500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPOmfIWjARA9iwqkgI2me_41.000294_29.078400@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09cdb07ac6785a7e9080b62326334910",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169686641
+        }
+    ],
+    "wof:id":169686641,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Evim Ev Aletleri Tic.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [29.0784,41.000294,29.0784,41.000294],
+  "geometry": {"coordinates":[29.0784,41.000294],"type":"Point"}
+}

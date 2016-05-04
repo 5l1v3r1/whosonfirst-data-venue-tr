@@ -1,0 +1,67 @@
+{
+  "id": 169579293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.142698,38.435577,27.142698,38.435577",
+    "geom:latitude":38.435577,
+    "geom:longitude":27.142698,
+    "iso:country":"TR",
+    "sg:address":"Kibris Sehitleri Cd. No : 146 Floor : 3 / 19",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 5954",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gUUpbZtr1ZPa13zIg6eTk_38.435577_27.142698@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9749928a20ebc2a8a7d1b6c0b579f81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169579293
+        }
+    ],
+    "wof:id":169579293,
+    "wof:lastmodified":1449033740,
+    "wof:name":"Ural Tasimacilik Ticaret Ltd.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.142698,38.435577,27.142698,38.435577],
+  "geometry": {"coordinates":[27.142698,38.435577],"type":"Point"}
+}

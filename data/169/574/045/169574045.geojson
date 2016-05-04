@@ -1,0 +1,61 @@
+{
+  "id": 169574045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.127392,40.922367,29.127392,40.922367",
+    "geom:latitude":40.922367,
+    "geom:longitude":29.127392,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cd.",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 5000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jka6fgyl0V6zfGSTgy2yI_40.922367_29.127392@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e57c9c19a24fdfa45cd55dfba3f72871",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169574045
+        }
+    ],
+    "wof:id":169574045,
+    "wof:lastmodified":1449032667,
+    "wof:name":"Turkiye Den.islm.a.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.127392,40.922367,29.127392,40.922367],
+  "geometry": {"coordinates":[29.127392,40.922367],"type":"Point"}
+}

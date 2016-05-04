@@ -1,0 +1,62 @@
+{
+  "id": 169556437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019047,41.011738,29.019047,41.011738",
+    "geom:latitude":41.011738,
+    "geom:longitude":29.019047,
+    "iso:country":"TR",
+    "sg:address":"Selimiye Kisla Cad. No. 18",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 342 9751",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906601,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yDOo7dzBdL9NvVZFIjj7O_41.011738_29.019047@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c2dbc860dd381d999a2ad1049a1f72b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906601,
+            "region_id":-1,
+            "venue_id":169556437
+        }
+    ],
+    "wof:id":169556437,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Ates Sauna",
+    "wof:parent_id":85906601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.019047,41.011738,29.019047,41.011738],
+  "geometry": {"coordinates":[29.019047,41.011738],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 169572435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.495558,40.982056,27.495558,40.982056",
+    "geom:latitude":40.982056,
+    "geom:longitude":27.495558,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cd.no.28-30 K.3 S?? Han",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 1515",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101910981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34TWS0dmZxBnxqfy7u0Zk1_40.982056_27.495558@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"691076a29a704c1917c8299fddf0934b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":101910981,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":169572435
+        }
+    ],
+    "wof:id":169572435,
+    "wof:lastmodified":1449034706,
+    "wof:name":"C?mert Denizcilik A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [27.495558,40.982056,27.495558,40.982056],
+  "geometry": {"coordinates":[27.495558,40.982056],"type":"Point"}
+}

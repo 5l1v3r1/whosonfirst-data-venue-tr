@@ -1,0 +1,63 @@
+{
+  "id": 169555261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.707661,36.880505,30.707661,36.880505",
+    "geom:latitude":36.880505,
+    "geom:longitude":30.707661,
+    "iso:country":"TR",
+    "sg:address":"Zerdalilik Mah.1382 Sok.no:18/c",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 321 8900",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CvmWT7MzSTLardS50yHdB_36.880505_30.707661@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ec6e8fc359b9d5d50c51950bf5cc749b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":169555261
+        }
+    ],
+    "wof:id":169555261,
+    "wof:lastmodified":1449035494,
+    "wof:name":"Rem Gida Paz.dag.san.tic.ltd.sti",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [30.707661,36.880505,30.707661,36.880505],
+  "geometry": {"coordinates":[30.707661,36.880505],"type":"Point"}
+}

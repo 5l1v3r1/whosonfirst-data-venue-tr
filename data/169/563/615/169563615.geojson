@@ -1,0 +1,63 @@
+{
+  "id": 169563615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.043724,41.094044,29.043724,41.094044",
+    "geom:latitude":41.094044,
+    "geom:longitude":29.043724,
+    "iso:country":"TR",
+    "sg:address":"Oto Sanayi Sitesi Ataturk Cad. No:15 4 Levent",
+    "sg:city":"Sultan?ftligi-gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 6670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930219,
+        85632393,
+        101912659,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NnehyeYEn4mKh3DmWvCcC_41.094044_29.043724@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4eab7c67af18b9205687a007c6bf2e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912659,
+            "neighbourhood_id":85930219,
+            "region_id":85679237,
+            "venue_id":169563615
+        }
+    ],
+    "wof:id":169563615,
+    "wof:lastmodified":1449032732,
+    "wof:name":"Ersah Maden Esya San.tic. Ltd.",
+    "wof:parent_id":85930219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [29.043724,41.094044,29.043724,41.094044],
+  "geometry": {"coordinates":[29.043724,41.094044],"type":"Point"}
+}

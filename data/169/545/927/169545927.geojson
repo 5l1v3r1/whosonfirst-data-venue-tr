@@ -1,0 +1,57 @@
+{
+  "id": 169545927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.969379,41.008591,28.969379,41.008591",
+    "geom:latitude":41.008591,
+    "geom:longitude":28.969379,
+    "iso:country":"TR",
+    "sg:address":"Yeniceriler",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 517 0800",
+    "sg:province":"34490",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906619,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09JoUa6LZmGibWwUtMiBTD_41.008591_28.969379@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a871e0cac9e358c3c8d520a610dc454c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906619,
+            "region_id":85679237,
+            "venue_id":169545927
+        }
+    ],
+    "wof:id":169545927,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85906619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.969379,41.008591,28.969379,41.008591],
+  "geometry": {"coordinates":[28.969379,41.008591],"type":"Point"}
+}

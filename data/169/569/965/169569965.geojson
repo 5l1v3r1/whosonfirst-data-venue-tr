@@ -1,0 +1,64 @@
+{
+  "id": 169569965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984383,41.038845,28.984383,41.038845",
+    "geom:latitude":41.038845,
+    "geom:longitude":28.984383,
+    "iso:country":"TR",
+    "sg:address":"Aydede Cd. No:38/3 Taksim",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 254 7127",
+    "sg:postcode":"80260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04xiKRgd4YnJ6r3vIvGXuy_41.038845_28.984383@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be1ec2f3c7181cfac68bbe64843a0bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":169569965
+        }
+    ],
+    "wof:id":169569965,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Soner Dis San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.984383,41.038845,28.984383,41.038845],
+  "geometry": {"coordinates":[28.984383,41.038845],"type":"Point"}
+}

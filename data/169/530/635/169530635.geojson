@@ -1,0 +1,68 @@
+{
+  "id": 169530635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.998312,41.056252,28.998312,41.056252",
+    "geom:latitude":41.056252,
+    "geom:longitude":28.998312,
+    "iso:country":"TR",
+    "sg:address":"Po Box 380, 80223 Sisli, Istanbul, Turkey.",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212225050019",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.arabturkbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929473,
+        85632393,
+        101912685,
+        85679237,
+        85929365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e7hVrQ6APsgZfCvsLIGBD_41.056252_28.998312@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb59ff3fd641b47ed5fc9d27accfdaa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
+            "region_id":85679237,
+            "venue_id":169530635
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":169530635
+        }
+    ],
+    "wof:id":169530635,
+    "wof:lastmodified":1449034443,
+    "wof:name":"Arab Turkish Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.998312,41.056252,28.998312,41.056252],
+  "geometry": {"coordinates":[28.998312,41.056252],"type":"Point"}
+}

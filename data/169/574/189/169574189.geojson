@@ -1,0 +1,63 @@
+{
+  "id": 169574189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005423,41.092728,29.005423,41.092728",
+    "geom:latitude":41.092728,
+    "geom:longitude":29.005423,
+    "iso:country":"TR",
+    "sg:address":".omer Avni Mh.molla Bayiri Sk.no.4 K3",
+    "sg:city":"Kabatas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 0500",
+    "sg:postcode":"24600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930127,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63lCAZvfU8WW3JzUVCmIge_41.092728_29.005423@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ac97d02b0a383e4f3cf47e26af50a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":169574189
+        }
+    ],
+    "wof:id":169574189,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Yardimci Den.ltd.sti",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.005423,41.092728,29.005423,41.092728],
+  "geometry": {"coordinates":[29.005423,41.092728],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169636151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.044653,41.080208,29.044653,41.080208",
+    "geom:latitude":41.080208,
+    "geom:longitude":29.044653,
+    "iso:country":"TR",
+    "sg:address":"K?? Bebek Cd. No:19/1 Bebek",
+    "sg:city":"Mahmutbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 4259",
+    "sg:postcode":"46600",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929797,
+        85632393,
+        101912659,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ULXNpWdVtPVN23Kto2PNe_41.080208_29.044653@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"880192109a423c24710caa78f1d4a61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912659,
+            "neighbourhood_id":85929797,
+            "region_id":85679237,
+            "venue_id":169636151
+        }
+    ],
+    "wof:id":169636151,
+    "wof:lastmodified":1449033984,
+    "wof:name":"Bebek Kirtasiye",
+    "wof:parent_id":85929797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.044653,41.080208,29.044653,41.080208],
+  "geometry": {"coordinates":[29.044653,41.080208],"type":"Point"}
+}

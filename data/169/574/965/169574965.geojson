@@ -1,0 +1,67 @@
+{
+  "id": 169574965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.193361,40.88813,29.193361,40.88813",
+    "geom:latitude":40.88813,
+    "geom:longitude":29.193361,
+    "iso:country":"TR",
+    "sg:address":"Meseli Ayazma Cad.",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 353 3526",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JaxemCy9FcBdw117kMz0B_40.888130_29.193361@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f4ba6a5b0656d22fcf0c17893b78380",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169574965
+        }
+    ],
+    "wof:id":169574965,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Armator Denizcilik Ve Bilgi Iletisim Merkezi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.193361,40.88813,29.193361,40.88813],
+  "geometry": {"coordinates":[29.193361,40.88813],"type":"Point"}
+}

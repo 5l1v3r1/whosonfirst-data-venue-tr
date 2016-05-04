@@ -1,0 +1,65 @@
+{
+  "id": 169571319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.841064,40.993587,28.841064,40.993587",
+    "geom:latitude":40.993587,
+    "geom:longitude":28.841064,
+    "iso:country":"TR",
+    "sg:address":"Hurriyet Mah. Hurriyet Cad. No:22 Yenibosna",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 552 4914",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WDWDHO2PoID01n6vHdt25_40.993587_28.841064@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d8bcdc810ea4dabd44ede57798ca7760",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169571319
+        }
+    ],
+    "wof:id":169571319,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Kale Dekorasyon",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [28.841064,40.993587,28.841064,40.993587],
+  "geometry": {"coordinates":[28.841064,40.993587],"type":"Point"}
+}

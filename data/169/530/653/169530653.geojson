@@ -1,0 +1,58 @@
+{
+  "id": 169530653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.321716,36.995438,35.321716,36.995438",
+    "geom:latitude":36.995438,
+    "geom:longitude":35.321716,
+    "iso:country":"TR",
+    "sg:address":"Ziyapasi Bul 14a",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 453 0901",
+    "sg:postcode":"63570",
+    "sg:province":"01130",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RlCBGMqcodYQaFYaAYF5q_36.995438_35.321716@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bbcd70648dffdf371d5394bf620f8c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169530653
+        }
+    ],
+    "wof:id":169530653,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Arab Turkish Bank",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.321716,36.995438,35.321716,36.995438],
+  "geometry": {"coordinates":[35.321716,36.995438],"type":"Point"}
+}

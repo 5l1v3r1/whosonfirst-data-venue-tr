@@ -1,0 +1,63 @@
+{
+  "id": 169557775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.081493,40.961082,29.081493,40.961082",
+    "geom:latitude":40.961082,
+    "geom:longitude":29.081493,
+    "iso:country":"TR",
+    "sg:address":"Eminalipasa Cad. No. 30 / 3-4-5-6-7 Suadiye",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216388965154",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26vVQo5cHuD8AUDRE2xu8q_40.961082_29.081493@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64e12b4597261a6df3cf63bb221cbe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169557775
+        }
+    ],
+    "wof:id":169557775,
+    "wof:lastmodified":1449035037,
+    "wof:name":"Villa Havuz Yapi Organizasyon Ltd.",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.081493,40.961082,29.081493,40.961082],
+  "geometry": {"coordinates":[29.081493,40.961082],"type":"Point"}
+}

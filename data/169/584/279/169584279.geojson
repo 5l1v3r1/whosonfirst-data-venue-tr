@@ -1,0 +1,65 @@
+{
+  "id": 169584279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"31.610701,40.733299,31.610701,40.733299",
+    "geom:latitude":40.733299,
+    "geom:longitude":31.610701,
+    "iso:country":"TR",
+    "sg:address":"Baris Mah. Sanayi Bolgesi No:129",
+    "sg:city":"Safranbolu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 370 712 5056",
+    "sg:postcode":"78600",
+    "sg:province":"Bolu",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911153,
+        85679249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0STgEN1VPi1oANLmzWGUNy_40.733299_31.610701@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4da43b4270068282695aeb392e8c7de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911153,
+            "neighbourhood_id":-1,
+            "region_id":85679249,
+            "venue_id":169584279
+        }
+    ],
+    "wof:id":169584279,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Baglar Mesrubat San.tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [31.610701,40.733299,31.610701,40.733299],
+  "geometry": {"coordinates":[31.610701,40.733299],"type":"Point"}
+}

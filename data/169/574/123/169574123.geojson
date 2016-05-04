@@ -1,0 +1,64 @@
+{
+  "id": 169574123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.993685,41.035957,28.993685,41.035957",
+    "geom:latitude":41.035957,
+    "geom:longitude":28.993685,
+    "iso:country":"TR",
+    "sg:address":"Inebolu Sk.no.77 K2",
+    "sg:city":"Kabatas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 3810",
+    "sg:postcode":"24600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69cAfebdWLP51WKTOpCU9U_41.035957_28.993685@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"107c652a377b52c52dc064ae801f8932",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":169574123
+        }
+    ],
+    "wof:id":169574123,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Vardar Den.ltd.sti.",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.993685,41.035957,28.993685,41.035957],
+  "geometry": {"coordinates":[28.993685,41.035957],"type":"Point"}
+}

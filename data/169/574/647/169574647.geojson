@@ -1,0 +1,68 @@
+{
+  "id": 169574647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.039085,40.997211,29.039085,40.997211",
+    "geom:latitude":40.997211,
+    "geom:longitude":29.039085,
+    "iso:country":"TR",
+    "sg:address":"Ulusuluk Sk. No.39 Acibadem,",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 428 3874",
+    "sg:postcode":"81020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lDQV6KF0khmgCMCCdFk0N_40.997211_29.039085@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"05228f82bd1cc38435201584e204ae21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":169574647
+        }
+    ],
+    "wof:id":169574647,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Akya Denizcilik Ltd-akya Shipping Agency",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.039085,40.997211,29.039085,40.997211],
+  "geometry": {"coordinates":[29.039085,40.997211],"type":"Point"}
+}

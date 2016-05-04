@@ -1,0 +1,63 @@
+{
+  "id": 169686325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "sg:address":"1375 Sok. No:25 Kat:3 35210 Alsancak",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 23246369502324",
+    "sg:postcode":"54040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hNb9cb4qwkSx2dtIzu0jx_38.418697_27.129686@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e642dc93600900c2a83494e531c8288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169686325
+        }
+    ],
+    "wof:id":169686325,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Ege Ihracat?i Birlikleri Genel Sekreterligi",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter"
+    ]
+},
+  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
+}

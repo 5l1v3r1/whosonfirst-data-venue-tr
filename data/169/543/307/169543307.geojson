@@ -1,0 +1,58 @@
+{
+  "id": 169543307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.875717,39.931805,32.875717,39.931805",
+    "geom:latitude":39.931805,
+    "geom:longitude":32.875717,
+    "iso:country":"TR",
+    "sg:address":"Cebeci",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 41191447",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929569,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YOhJgGKXBDhXO4ZFe60E5_39.931805_32.875717@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f425cbd3d97648c37c8d6f99ed624ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":169543307
+        }
+    ],
+    "wof:id":169543307,
+    "wof:lastmodified":1449033334,
+    "wof:name":"T\u00fcrkiye Emlak Bankasi As",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.875717,39.931805,32.875717,39.931805],
+  "geometry": {"coordinates":[32.875717,39.931805],"type":"Point"}
+}

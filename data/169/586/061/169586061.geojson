@@ -1,0 +1,64 @@
+{
+  "id": 169586061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.337109,36.97525,35.337109,36.97525",
+    "geom:latitude":36.97525,
+    "geom:longitude":35.337109,
+    "iso:country":"TR",
+    "sg:address":"Kocavezir Mh. 31 Sk. No:4/a",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 352 2877",
+    "sg:postcode":"01160",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LnRoT80q7OiMeVGAN9yU1_36.975250_35.337109@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b632f31f489e586d30c73fd43315297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679443,
+            "venue_id":169586061
+        }
+    ],
+    "wof:id":169586061,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Zaman Mesrubat Sanayi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [35.337109,36.97525,35.337109,36.97525],
+  "geometry": {"coordinates":[35.337109,36.97525],"type":"Point"}
+}

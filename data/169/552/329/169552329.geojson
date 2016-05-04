@@ -1,0 +1,63 @@
+{
+  "id": 169552329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.502968,37.871159,32.502968,37.871159",
+    "geom:latitude":37.871159,
+    "geom:longitude":32.502968,
+    "iso:country":"TR",
+    "sg:address":"Mevlana Cad. No: 61/a",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 351 6963",
+    "sg:postcode":"81480",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_014bEFLiIz8FpXp1ZcbkPg_37.871159_32.502968@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"55a38b48c78771ffa1bca8b515b45aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169552329
+        }
+    ],
+    "wof:id":169552329,
+    "wof:lastmodified":1449034053,
+    "wof:name":"Sakalliogullari Mersa Bisiklet Sanayi",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [32.502968,37.871159,32.502968,37.871159],
+  "geometry": {"coordinates":[32.502968,37.871159],"type":"Point"}
+}

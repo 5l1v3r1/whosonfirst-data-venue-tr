@@ -1,0 +1,57 @@
+{
+  "id": 169545755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.203611,38.429432,27.203611,38.429432",
+    "geom:latitude":38.429432,
+    "geom:longitude":27.203611,
+    "iso:country":"TR",
+    "sg:address":"Abdi Ipekci Cad 75",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0360",
+    "sg:province":"80412",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SKggCuGhVtjV9faZvxghz_38.429432_27.203611@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f98d0a8bffb61c842aff75dc97d52393",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169545755
+        }
+    ],
+    "wof:id":169545755,
+    "wof:lastmodified":1449033484,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.203611,38.429432,27.203611,38.429432],
+  "geometry": {"coordinates":[27.203611,38.429432],"type":"Point"}
+}

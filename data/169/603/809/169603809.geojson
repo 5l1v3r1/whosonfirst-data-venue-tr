@@ -1,0 +1,64 @@
+{
+  "id": 169603809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.901155,41.05162,28.901155,41.05162",
+    "geom:latitude":41.05162,
+    "geom:longitude":28.901155,
+    "iso:country":"TR",
+    "sg:address":"Murat Mah. Uluyol Sok. Hakkibey Is Merkz. No:25/16 Bayrampasa",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 5755",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904095,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zpgi9rWUxjgJJlTHZu4UY_41.051620_28.901155@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf9d1b28e0115e3b9c13b851345b72bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":169603809
+        }
+    ],
+    "wof:id":169603809,
+    "wof:lastmodified":1449035454,
+    "wof:name":"California Sport San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.901155,41.05162,28.901155,41.05162],
+  "geometry": {"coordinates":[28.901155,41.05162],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169553315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.842079,41.004524,28.842079,41.004524",
+    "geom:latitude":41.004524,
+    "geom:longitude":28.842079,
+    "iso:country":"TR",
+    "sg:address":"Tevfik Fikret Cad.derya Apt. No:2 D:1",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 503 3143",
+    "sg:postcode":"15040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A681tePsm8SmCuDKXODws_41.004524_28.842079@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"223417a74362470528814803eb839220",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169553315
+        }
+    ],
+    "wof:id":169553315,
+    "wof:lastmodified":1449032708,
+    "wof:name":"Bifa Bisk?vi Gida San. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.842079,41.004524,28.842079,41.004524],
+  "geometry": {"coordinates":[28.842079,41.004524],"type":"Point"}
+}

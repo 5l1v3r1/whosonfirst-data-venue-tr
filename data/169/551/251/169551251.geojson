@@ -1,0 +1,65 @@
+{
+  "id": 169551251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.068462,40.183868,29.068462,40.183868",
+    "geom:latitude":40.183868,
+    "geom:longitude":29.068462,
+    "iso:country":"TR",
+    "sg:address":"Inonu Cad. No: 20",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 223 7675",
+    "sg:postcode":"01000",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930161,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15dzKSEH3sSMwiWYWorsvf_40.183868_29.068462@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de57f2e1e8c1159e3c9713766013e36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":169551251
+        }
+    ],
+    "wof:id":169551251,
+    "wof:lastmodified":1449033350,
+    "wof:name":"Durmaz Day. Tuk. Mall. San. Tic. A.s.",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [29.068462,40.183868,29.068462,40.183868],
+  "geometry": {"coordinates":[29.068462,40.183868],"type":"Point"}
+}

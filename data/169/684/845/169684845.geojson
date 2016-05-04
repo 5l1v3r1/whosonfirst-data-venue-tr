@@ -1,0 +1,63 @@
+{
+  "id": 169684845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.878136,39.65197,27.878136,39.65197",
+    "geom:latitude":39.65197,
+    "geom:longitude":27.878136,
+    "iso:country":"TR",
+    "sg:address":"Orucgazi Mah. Dereboyu Cad. No.54/1",
+    "sg:city":"Cine",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 249 1490",
+    "sg:postcode":"01370",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912867,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Oc5VdBnqogHerWELKbHL_39.651970_27.878136@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"df0333ea6671b58e25f75686acff86ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912867,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169684845
+        }
+    ],
+    "wof:id":169684845,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Yucel Agalar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [27.878136,39.65197,27.878136,39.65197],
+  "geometry": {"coordinates":[27.878136,39.65197],"type":"Point"}
+}

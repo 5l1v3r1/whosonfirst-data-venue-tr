@@ -1,0 +1,63 @@
+{
+  "id": 169569025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.160269,38.473141,27.160269,38.473141",
+    "geom:latitude":38.473141,
+    "geom:longitude":27.160269,
+    "iso:country":"TR",
+    "sg:address":"Ataturk Bulvari No:30/24 Karsiyaka",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 366 9952",
+    "sg:postcode":"46000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929643,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xA0M8oxISv6CxdqW8As3p_38.473141_27.160269@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54d9e11ab9ebbada23d5d04ec7805a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929643,
+            "region_id":85679201,
+            "venue_id":169569025
+        }
+    ],
+    "wof:id":169569025,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Mezura Elektronik Guvenlik Bilg. Otomasyon Sistemleri",
+    "wof:parent_id":85929643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [27.160269,38.473141,27.160269,38.473141],
+  "geometry": {"coordinates":[27.160269,38.473141],"type":"Point"}
+}

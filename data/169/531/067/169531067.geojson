@@ -1,0 +1,57 @@
+{
+  "id": 169531067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.058004,40.194756,29.058004,40.194756",
+    "geom:latitude":40.194756,
+    "geom:longitude":29.058004,
+    "iso:country":"TR",
+    "sg:address":"Fevzi Cakmak Cad Koruyucu",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 271 4200",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41o7kLMiL00VIWmVA80LaM_40.194756_29.058004@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2fb162fc23efecc2a9d4fc26d71c2a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169531067
+        }
+    ],
+    "wof:id":169531067,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Bank Kapital Tas",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.058004,40.194756,29.058004,40.194756],
+  "geometry": {"coordinates":[29.058004,40.194756],"type":"Point"}
+}

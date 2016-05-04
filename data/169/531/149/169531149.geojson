@@ -1,0 +1,56 @@
+{
+  "id": 169531149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.416666,41.233334,28.416666,41.233334",
+    "geom:latitude":41.233334,
+    "geom:longitude":28.416666,
+    "iso:country":"TR",
+    "sg:address":"G Tepe",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 3349",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nd1CWNiwhX5dFjPHk1Fz1_41.233334_28.416666@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2e03035874f1787e138692d422a73c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169531149
+        }
+    ],
+    "wof:id":169531149,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Bank Of Boston",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.416666,41.233334,28.416666,41.233334],
+  "geometry": {"coordinates":[28.416666,41.233334],"type":"Point"}
+}

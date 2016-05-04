@@ -1,0 +1,68 @@
+{
+  "id": 169578151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981962,41.082382,28.981962,41.082382",
+    "geom:latitude":41.082382,
+    "geom:longitude":28.981962,
+    "iso:country":"TR",
+    "sg:address":"Ayazma Yolu No45",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 294 5132",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W50TFDqKVtQUHYq3UhTp7_41.082382_28.981962@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1f7759b6a4764870c25c75892048897",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169578151
+        }
+    ],
+    "wof:id":169578151,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Oztek Tasimacilik A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.981962,41.082382,28.981962,41.082382],
+  "geometry": {"coordinates":[28.981962,41.082382],"type":"Point"}
+}

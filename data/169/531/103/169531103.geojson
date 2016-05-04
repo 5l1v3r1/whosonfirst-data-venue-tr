@@ -1,0 +1,57 @@
+{
+  "id": 169531103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.250454,39.889259,41.250454,39.889259",
+    "geom:latitude":39.889259,
+    "geom:longitude":41.250454,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad 14",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 9157",
+    "sg:province":"80220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911101,
+        85679369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KuviJCylJusgcVJDSwNgM_39.889259_41.250454@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"193c7b7298f238e4e7c149f7ea0a081c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911101,
+            "neighbourhood_id":-1,
+            "region_id":85679369,
+            "venue_id":169531103
+        }
+    ],
+    "wof:id":169531103,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Bank Kreiss Ag",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [41.250454,39.889259,41.250454,39.889259],
+  "geometry": {"coordinates":[41.250454,39.889259],"type":"Point"}
+}

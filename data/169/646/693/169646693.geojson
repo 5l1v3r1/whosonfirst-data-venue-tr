@@ -1,0 +1,59 @@
+{
+  "id": 169646693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.965816,41.058121,28.965816,41.058121",
+    "geom:latitude":41.058121,
+    "geom:longitude":28.965816,
+    "iso:country":"TR",
+    "sg:address":"Taskizak Sk. No:14/6 Okmeydani",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 220 2449",
+    "sg:postcode":"06650",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wu0YEvWbXDAMTjIZ3pgj_41.058121_28.965816@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6774657086441ed39371379df74efaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169646693
+        }
+    ],
+    "wof:id":169646693,
+    "wof:lastmodified":1449032605,
+    "wof:name":"Okmeydani Kirtasiye",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.965816,41.058121,28.965816,41.058121],
+  "geometry": {"coordinates":[28.965816,41.058121],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169551221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.908718,39.953182,32.908718,39.953182",
+    "geom:latitude":39.953182,
+    "geom:longitude":32.908718,
+    "iso:country":"TR",
+    "sg:address":"Demirhendek Cd. No:155/a Siteler",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 353 5573",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zOTub3cMuJIMJDQUfggy8_39.953182_32.908718@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c586f147bc761817b3b0fee3a94c957a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169551221
+        }
+    ],
+    "wof:id":169551221,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Cennet S?nger Ve Yatak San. Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [32.908718,39.953182,32.908718,39.953182],
+  "geometry": {"coordinates":[32.908718,39.953182],"type":"Point"}
+}

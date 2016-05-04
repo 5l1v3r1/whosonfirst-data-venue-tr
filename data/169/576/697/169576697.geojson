@@ -1,0 +1,67 @@
+{
+  "id": 169576697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978338,41.024685,28.978338,41.024685",
+    "geom:latitude":41.024685,
+    "geom:longitude":28.978338,
+    "iso:country":"TR",
+    "sg:address":"Necatibey Cad. Bas Cerrah Sk. No:6/41",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 8405",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSnnFqoylAKL9tDLsk74t_41.024685_28.978338@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6073280db7c1007eaa1300df666e0d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":169576697
+        }
+    ],
+    "wof:id":169576697,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Hedef Denizcilik Tic.ltd.sti.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.978338,41.024685,28.978338,41.024685],
+  "geometry": {"coordinates":[28.978338,41.024685],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169542901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.023861,40.988056,29.023861,40.988056",
+    "geom:latitude":40.988056,
+    "geom:longitude":29.023861,
+    "iso:country":"TR",
+    "sg:address":"Ali Munir Cad 28",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 359 4090",
+    "sg:postcode":"63570",
+    "sg:province":"01010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        85632393,
+        101912675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s421BqpafJ39vEkTagkIi_40.988056_29.023861@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc50e80cdd0bb5c3de374b0de8b38790",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":-1,
+            "venue_id":169542901
+        }
+    ],
+    "wof:id":169542901,
+    "wof:lastmodified":1449035219,
+    "wof:name":"T?k Ticaret, Bankasi As",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.023861,40.988056,29.023861,40.988056],
+  "geometry": {"coordinates":[29.023861,40.988056],"type":"Point"}
+}

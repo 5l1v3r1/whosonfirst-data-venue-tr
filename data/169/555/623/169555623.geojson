@@ -1,0 +1,64 @@
+{
+  "id": 169555623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.018856,41.076176,29.018856,41.076176",
+    "geom:latitude":41.076176,
+    "geom:longitude":29.018856,
+    "iso:country":"TR",
+    "sg:address":"4.levent",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 284 4164",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dgBi4Ms9r50jubDupXf80_41.076176_29.018856@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef84dbb99966260173c74541693e341c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169555623
+        }
+    ],
+    "wof:id":169555623,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Tunaltas Foreign Trade Company",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.018856,41.076176,29.018856,41.076176],
+  "geometry": {"coordinates":[29.018856,41.076176],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169575157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.308901,40.486675,29.308901,40.486675",
+    "geom:latitude":40.486675,
+    "geom:longitude":29.308901,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad. No:89/a",
+    "sg:city":"Gemlik",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 513 2284",
+    "sg:postcode":"16600",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Em5fsRyvW9SQLPx20MxA8_40.486675_29.308901@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d16cf5cac03653c4e15f7d9c2c9b63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679231,
+            "venue_id":169575157
+        }
+    ],
+    "wof:id":169575157,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Avcilar Gemi Acenteligi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.308901,40.486675,29.308901,40.486675],
+  "geometry": {"coordinates":[29.308901,40.486675],"type":"Point"}
+}

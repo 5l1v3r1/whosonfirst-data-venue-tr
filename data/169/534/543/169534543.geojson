@@ -1,0 +1,58 @@
+{
+  "id": 169534543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982819,41.035732,28.982819,41.035732",
+    "geom:latitude":41.035732,
+    "geom:longitude":28.982819,
+    "iso:country":"TR",
+    "sg:address":"Istanbul Caddesi 26",
+    "sg:city":"D?ce",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 374 523 1600",
+    "sg:province":"14400",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DWRcRmpd0jn8OvQdOBx7E_41.035732_28.982819@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d8b4a6aed8fc6506e7c632ac7a2ac90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":169534543
+        }
+    ],
+    "wof:id":169534543,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.982819,41.035732,28.982819,41.035732],
+  "geometry": {"coordinates":[28.982819,41.035732],"type":"Point"}
+}

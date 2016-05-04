@@ -1,0 +1,66 @@
+{
+  "id": 169659303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.004175,41.047306,29.004175,41.047306",
+    "geom:latitude":41.047306,
+    "geom:longitude":29.004175,
+    "iso:country":"TR",
+    "sg:address":"Gayrettepe Mh. Balmumcu Dere Sk. No:44/1 Besiktas",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 1574",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74ibRVBuf9XL016hvcbFe8_41.047306_29.004175@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d334d1cb5a8d039c70d47a472f04f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169659303
+        }
+    ],
+    "wof:id":169659303,
+    "wof:lastmodified":1449033028,
+    "wof:name":"B?s Birlesik ?elik San.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.004175,41.047306,29.004175,41.047306],
+  "geometry": {"coordinates":[29.004175,41.047306],"type":"Point"}
+}

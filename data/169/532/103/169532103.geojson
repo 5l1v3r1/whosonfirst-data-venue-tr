@@ -1,0 +1,57 @@
+{
+  "id": 169532103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.222572,38.669331,39.222572,38.669331",
+    "geom:latitude":38.669331,
+    "geom:longitude":39.222572,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Cad 85",
+    "sg:city":"Denizli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 265 8881",
+    "sg:postcode":"01130",
+    "sg:province":"20100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OM8sk76FXR7YHNiALFeiz_38.669331_39.222572@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90f95c090a7c2e3542ea57fba74585fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679299,
+            "venue_id":169532103
+        }
+    ],
+    "wof:id":169532103,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [39.222572,38.669331,39.222572,38.669331],
+  "geometry": {"coordinates":[39.222572,38.669331],"type":"Point"}
+}

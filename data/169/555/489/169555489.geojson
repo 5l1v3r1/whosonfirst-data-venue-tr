@@ -1,0 +1,63 @@
+{
+  "id": 169555489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.533844,38.764668,30.533844,38.764668",
+    "geom:latitude":38.764668,
+    "geom:longitude":30.533844,
+    "iso:country":"TR",
+    "sg:address":"Izmir Istasyon Caddesi No:37",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 272 215 6268",
+    "sg:postcode":"10100",
+    "sg:province":"Afyon",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911145,
+        85679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CXIUBb5yQiiehS4pakjEq_38.764668_30.533844@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c764eedae89f9dc9187ded4439a37bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911145,
+            "neighbourhood_id":-1,
+            "region_id":85679267,
+            "venue_id":169555489
+        }
+    ],
+    "wof:id":169555489,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Sultan Sekerleme Ihtiyac Mad. Turizm Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [30.533844,38.764668,30.533844,38.764668],
+  "geometry": {"coordinates":[30.533844,38.764668],"type":"Point"}
+}

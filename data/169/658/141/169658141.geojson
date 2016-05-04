@@ -1,0 +1,66 @@
+{
+  "id": 169658141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.847376,41.000645,28.847376,41.000645",
+    "geom:latitude":41.000645,
+    "geom:longitude":28.847376,
+    "iso:country":"TR",
+    "sg:address":"Dereyolu Caddesi No:5 Sirinevler",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 552 5225",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07MkreORYE7Z8nfUJqpevO_41.000645_28.847376@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0fc37ffff790b15d52ea30d69e711676",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169658141
+        }
+    ],
+    "wof:id":169658141,
+    "wof:lastmodified":1449032614,
+    "wof:name":"Ari Metal ?elik Esya Sanayii",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.847376,41.000645,28.847376,41.000645],
+  "geometry": {"coordinates":[28.847376,41.000645],"type":"Point"}
+}

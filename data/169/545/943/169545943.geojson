@@ -1,0 +1,58 @@
+{
+  "id": 169545943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.999655,41.067474,28.999655,41.067474",
+    "geom:latitude":41.067474,
+    "geom:longitude":28.999655,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad Rasit Riza Sok",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 3527",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GBmntZ8K3c24EaO49Xxz9_41.067474_28.999655@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be8e0b913105e823c047b6f40d0a3381",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169545943
+        }
+    ],
+    "wof:id":169545943,
+    "wof:lastmodified":1449033483,
+    "wof:name":"T?kiye Kalkinma Bankasi As",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.999655,41.067474,28.999655,41.067474],
+  "geometry": {"coordinates":[28.999655,41.067474],"type":"Point"}
+}

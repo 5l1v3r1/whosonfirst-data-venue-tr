@@ -1,0 +1,66 @@
+{
+  "id": 169679605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.067612,41.000839,29.067612,41.000839",
+    "geom:latitude":41.000839,
+    "geom:longitude":29.067612,
+    "iso:country":"TR",
+    "sg:address":"Unalan Mah. Ayazma Cad. No:26 Uskudar",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 315 5191",
+    "sg:postcode":"07100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-",
+        "golg-silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mA8WPSiykZoPd48DBIyAj_41.000839_29.067612@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77e7baaf3fe3691ffb46cc45a12cb4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169679605
+        }
+    ],
+    "wof:id":169679605,
+    "wof:lastmodified":1449034806,
+    "wof:name":"Has Kuyumculuk",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "golg-silver"
+    ]
+},
+  "bbox": [29.067612,41.000839,29.067612,41.000839],
+  "geometry": {"coordinates":[29.067612,41.000839],"type":"Point"}
+}

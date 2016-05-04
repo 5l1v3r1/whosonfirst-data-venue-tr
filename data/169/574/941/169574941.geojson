@@ -1,0 +1,68 @@
+{
+  "id": 169574941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
+    "geom:latitude":41.021832,
+    "geom:longitude":29.015442,
+    "iso:country":"TR",
+    "sg:address":"Baglarbasi,selamiali Mh.reisul Kuttar Sk.no.50 D2",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 343 4722",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KnKMGxrWj1oNQLkp1RVvW_41.021832_29.015442@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"562a806d37c526d2ccacc4a96432a30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":169574941
+        }
+    ],
+    "wof:id":169574941,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Assos Denizcilik Ltd.sti.",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
+}

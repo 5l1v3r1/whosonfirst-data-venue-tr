@@ -1,0 +1,64 @@
+{
+  "id": 169685069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "sg:address":"Sinan Mah.a.fuat Cebesoy Cad. 1269. Sok. No:7/a2",
+    "sg:city":"Bala",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2423113955311",
+    "sg:postcode":"15800",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nQGn4Mt3WaqU8NKLSeB8G_36.887505_30.703135@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42194d9943fb0d1486651cff60d89ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169685069
+        }
+    ],
+    "wof:id":169685069,
+    "wof:lastmodified":1449035887,
+    "wof:name":"Onder Ozcan",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
+}

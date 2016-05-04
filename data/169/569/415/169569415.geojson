@@ -1,0 +1,64 @@
+{
+  "id": 169569415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.869144,40.985836,28.869144,40.985836",
+    "geom:latitude":40.985836,
+    "geom:longitude":28.869144,
+    "iso:country":"TR",
+    "sg:address":"Zuhuratbaba Mah. Vankulu Sok.no:28/a Bakirkoy",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 583 1329",
+    "sg:postcode":"43050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f4d0L1WispgTQnTjkNjl8_40.985836_28.869144@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82ad33e38725a5481ae56b01110215e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169569415
+        }
+    ],
+    "wof:id":169569415,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Pionner Lg Hitachi Clarion Yetkili Servisi",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.869144,40.985836,28.869144,40.985836],
+  "geometry": {"coordinates":[28.869144,40.985836],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169533505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.989826,41.032051,28.989826,41.032051",
+    "geom:latitude":41.032051,
+    "geom:longitude":28.989826,
+    "iso:country":"TR",
+    "sg:address":"Meclis-i Mebusan Cad",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 7255",
+    "sg:province":"80040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kF5fdhHJ5EmqbTQSZwhCp_41.032051_28.989826@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4fd59802b5f45ade0fdeff32f48ae1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":169533505
+        }
+    ],
+    "wof:id":169533505,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.989826,41.032051,28.989826,41.032051],
+  "geometry": {"coordinates":[28.989826,41.032051],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169552851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.099525,40.962231,29.099525,40.962231",
+    "geom:latitude":40.962231,
+    "geom:longitude":29.099525,
+    "iso:country":"TR",
+    "sg:address":"Dr.kemal Akguder Cad.no.24 /28",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 417 5149",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15u3NRJK7NiQ1daDSojEym_40.962231_29.099525@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9f46c27540db161c038e283cd2098991",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169552851
+        }
+    ],
+    "wof:id":169552851,
+    "wof:lastmodified":1449034058,
+    "wof:name":"Akan Ticaret",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.099525,40.962231,29.099525,40.962231],
+  "geometry": {"coordinates":[29.099525,40.962231],"type":"Point"}
+}

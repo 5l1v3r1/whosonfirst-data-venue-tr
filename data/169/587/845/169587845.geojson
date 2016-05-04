@@ -1,0 +1,64 @@
+{
+  "id": 169587845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"38.314301,38.3475,38.314301,38.3475",
+    "geom:latitude":38.3475,
+    "geom:longitude":38.314301,
+    "iso:country":"TR",
+    "sg:address":"Kucuk Sanayi Sitesi Blok No:27",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 422 324 3194",
+    "sg:postcode":"31750",
+    "sg:province":"Malatya",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lcMx4pZGFYt4A7PFuFNeh_38.347500_38.314301@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"88e1ff1a056db2532e77e8181662084d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679309,
+            "venue_id":169587845
+        }
+    ],
+    "wof:id":169587845,
+    "wof:lastmodified":1449033821,
+    "wof:name":"Gulsu Gunes Enerji Sistemleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [38.314301,38.3475,38.314301,38.3475],
+  "geometry": {"coordinates":[38.314301,38.3475],"type":"Point"}
+}

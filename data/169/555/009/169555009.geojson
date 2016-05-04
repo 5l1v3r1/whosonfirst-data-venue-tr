@@ -1,0 +1,64 @@
+{
+  "id": 169555009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097988,40.986401,29.097988,40.986401",
+    "geom:latitude":40.986401,
+    "geom:longitude":29.097988,
+    "iso:country":"TR",
+    "sg:address":"Halk Cad.basaran Sok. No:9/1",
+    "sg:city":"Yenisahra",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216315970119",
+    "sg:postcode":"34746",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930023,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30708VjpszAx9l4KYGVPg7_40.986401_29.097988@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a54a82451e14d048e86a3e13e4dac2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930023,
+            "region_id":85679237,
+            "venue_id":169555009
+        }
+    ],
+    "wof:id":169555009,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Ornek Lokum Pazarlama Gida San.tic.ltd.sti.",
+    "wof:parent_id":85930023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.097988,40.986401,29.097988,40.986401],
+  "geometry": {"coordinates":[29.097988,40.986401],"type":"Point"}
+}

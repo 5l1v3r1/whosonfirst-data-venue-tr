@@ -1,0 +1,66 @@
+{
+  "id": 169574991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.970251,40.350578,27.970251,40.350578",
+    "geom:latitude":40.350578,
+    "geom:longitude":27.970251,
+    "iso:country":"TR",
+    "sg:address":"Dere Mah. Sunullah Cad. No:9/3",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 714 4114",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iB0Wx3EIhudLmrYO491q5_40.350578_27.970251@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e6d3ebcfa54f3fdfc0d5d88ac61b6378",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169574991
+        }
+    ],
+    "wof:id":169574991,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Arskar Universal Denizcilik Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.970251,40.350578,27.970251,40.350578],
+  "geometry": {"coordinates":[27.970251,40.350578],"type":"Point"}
+}

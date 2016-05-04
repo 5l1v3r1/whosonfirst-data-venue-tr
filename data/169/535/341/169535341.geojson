@@ -1,0 +1,58 @@
+{
+  "id": 169535341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.777653,41.379593,33.777653,41.379593",
+    "geom:latitude":41.379593,
+    "geom:longitude":33.777653,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad 18",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 1150",
+    "sg:postcode":"65900",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911031,
+        85679259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AYa19Cuf236x9qcCvK5OV_41.379593_33.777653@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0e2007829778aa127a4504ab9dd05d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911031,
+            "neighbourhood_id":-1,
+            "region_id":85679259,
+            "venue_id":169535341
+        }
+    ],
+    "wof:id":169535341,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Finansbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [33.777653,41.379593,33.777653,41.379593],
+  "geometry": {"coordinates":[33.777653,41.379593],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169541705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.488274,38.717842,35.488274,38.717842",
+    "geom:latitude":38.717842,
+    "geom:longitude":35.488274,
+    "iso:country":"TR",
+    "sg:address":"Millet Cad 39/a",
+    "sg:city":"Kayseri",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 222 6212",
+    "sg:postcode":"63600",
+    "sg:province":"38040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12CZDhiYe7l2Y5jZLQ54zD_38.717842_35.488274@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6210ed22b8a656f50b77cf1858be72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169541705
+        }
+    ],
+    "wof:id":169541705,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.488274,38.717842,35.488274,38.717842],
+  "geometry": {"coordinates":[35.488274,38.717842],"type":"Point"}
+}

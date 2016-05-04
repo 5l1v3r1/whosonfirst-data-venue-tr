@@ -1,0 +1,65 @@
+{
+  "id": 169551283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.868069,39.893005,32.868069,39.893005",
+    "geom:latitude":39.893005,
+    "geom:longitude":32.868069,
+    "iso:country":"TR",
+    "sg:address":"?ankaya Cd. No:17/5",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 8787",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Shuv8MeID0cSm89MxfJeO_39.893005_32.868069@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9fdce5455c88fd3f8d3477896a5e877",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169551283
+        }
+    ],
+    "wof:id":169551283,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Ergo Yataklari",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [32.868069,39.893005,32.868069,39.893005],
+  "geometry": {"coordinates":[32.868069,39.893005],"type":"Point"}
+}

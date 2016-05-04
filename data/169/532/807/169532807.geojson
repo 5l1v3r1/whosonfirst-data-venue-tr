@@ -1,0 +1,58 @@
+{
+  "id": 169532807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.853493,39.884926,32.853493,39.884926",
+    "geom:latitude":39.884926,
+    "geom:longitude":32.853493,
+    "iso:country":"TR",
+    "sg:address":"Hosdere Caddesi 220",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 6975",
+    "sg:postcode":"07080",
+    "sg:province":"06550",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929559,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zlN6VBDACw0LlEitngzR9_39.884926_32.853493@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a28ef1e7f0d89e1fe41c7edfaaeab991",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":169532807
+        }
+    ],
+    "wof:id":169532807,
+    "wof:lastmodified":1449033796,
+    "wof:name":"Egebank As",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.853493,39.884926,32.853493,39.884926],
+  "geometry": {"coordinates":[32.853493,39.884926],"type":"Point"}
+}

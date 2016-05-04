@@ -1,0 +1,67 @@
+{
+  "id": 169686683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.98107,41.075401,28.98107,41.075401",
+    "geom:latitude":41.075401,
+    "geom:longitude":28.98107,
+    "iso:country":"TR",
+    "sg:address":"Vatan Cd. No:55 ?aglayan",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 2736",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SinYvdoszFvKebBG5nCno_41.075401_28.981070@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bdddda55255d067cdab5fc6f4437523f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169686683
+        }
+    ],
+    "wof:id":169686683,
+    "wof:lastmodified":1449035156,
+    "wof:name":"G?roglu Mefrusat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [28.98107,41.075401,28.98107,41.075401],
+  "geometry": {"coordinates":[28.98107,41.075401],"type":"Point"}
+}

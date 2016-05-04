@@ -1,0 +1,66 @@
+{
+  "id": 169575243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.968481,40.346977,27.968481,40.346977",
+    "geom:latitude":40.346977,
+    "geom:longitude":27.968481,
+    "iso:country":"TR",
+    "sg:address":"Ordu Cad. No:3/2",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 714 0191",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73eVU6lglm4s3MY73dOgIJ_40.346977_27.968481@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"187775ed46fdacffaf9d9203cee2cb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169575243
+        }
+    ],
+    "wof:id":169575243,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Baneks Denizcilik Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.968481,40.346977,27.968481,40.346977],
+  "geometry": {"coordinates":[27.968481,40.346977],"type":"Point"}
+}

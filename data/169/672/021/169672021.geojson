@@ -1,0 +1,62 @@
+{
+  "id": 169672021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.086506,41.145859,29.086506,41.145859",
+    "geom:latitude":41.145859,
+    "geom:longitude":29.086506,
+    "iso:country":"TR",
+    "sg:address":"Menekse Sok, Cigdem Apt No: 18/11,",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 464 8800",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930081,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55cf1Pf6tFs6S12bK2RNoD_41.145859_29.086506@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47da632338af68542b49d079e3bf8357",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930081,
+            "region_id":-1,
+            "venue_id":169672021
+        }
+    ],
+    "wof:id":169672021,
+    "wof:lastmodified":1449032890,
+    "wof:name":"Control Union Turkiye",
+    "wof:parent_id":85930081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [29.086506,41.145859,29.086506,41.145859],
+  "geometry": {"coordinates":[29.086506,41.145859],"type":"Point"}
+}

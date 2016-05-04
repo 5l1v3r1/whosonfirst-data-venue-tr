@@ -1,0 +1,58 @@
+{
+  "id": 169536121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.05813,40.992546,29.05813,40.992546",
+    "geom:latitude":40.992546,
+    "geom:longitude":29.05813,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad Karakoy",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 3759",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LOMADW6VD52KS3nrIiMJs_40.992546_29.058130@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd2eff839775c9a57334b33ea75f2c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169536121
+        }
+    ],
+    "wof:id":169536121,
+    "wof:lastmodified":1449034658,
+    "wof:name":"Imar Bankasi As",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.05813,40.992546,29.05813,40.992546],
+  "geometry": {"coordinates":[29.05813,40.992546],"type":"Point"}
+}

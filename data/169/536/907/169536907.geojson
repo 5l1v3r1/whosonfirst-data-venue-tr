@@ -1,0 +1,58 @@
+{
+  "id": 169536907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.953869,41.040573,28.953869,41.040573",
+    "geom:latitude":41.040573,
+    "geom:longitude":28.953869,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad 118, Zincirlikuyu, 80280 Istanbul",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63570",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906535,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGhVgqJxwMsauNqAQfmdP_41.040573_28.953869@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a528ea22ab85607f7b586ba79825ce1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906535,
+            "region_id":85679237,
+            "venue_id":169536907
+        }
+    ],
+    "wof:id":169536907,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Kibris Kredi Bankasi Ltd",
+    "wof:parent_id":85906535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.953869,41.040573,28.953869,41.040573],
+  "geometry": {"coordinates":[28.953869,41.040573],"type":"Point"}
+}

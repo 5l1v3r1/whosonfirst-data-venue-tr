@@ -1,0 +1,56 @@
+{
+  "id": 169540643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"44.0149,38.0476,44.0149,38.0476",
+    "geom:latitude":38.0476,
+    "geom:longitude":44.0149,
+    "iso:country":"TR",
+    "sg:address":"Baskale",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 432 212 1476",
+    "sg:province":"Van",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31L3ZxdAPV0tU6N0e0wz8i_38.047600_44.014900@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ba3dc8075be993509d0eaac1494cd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679509,
+            "venue_id":169540643
+        }
+    ],
+    "wof:id":169540643,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Tc Ziraat Bankasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [44.0149,38.0476,44.0149,38.0476],
+  "geometry": {"coordinates":[44.0149,38.0476],"type":"Point"}
+}

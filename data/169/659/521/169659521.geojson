@@ -1,0 +1,65 @@
+{
+  "id": 169659521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.946198,41.046471,28.946198,41.046471",
+    "geom:latitude":41.046471,
+    "geom:longitude":28.946198,
+    "iso:country":"TR",
+    "sg:address":"G??suyu Cd. No:46 Emin?? Istanbul",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 0830",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929477,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YneUvBoAvhtL3hSWGC2KQ_41.046471_28.946198@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5045707306cb41c9b74b5f89707f196",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":169659521
+        }
+    ],
+    "wof:id":169659521,
+    "wof:lastmodified":1449033029,
+    "wof:name":"Ce-zi-ne Maden Esya San. Tic. A.s.",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.946198,41.046471,28.946198,41.046471],
+  "geometry": {"coordinates":[28.946198,41.046471],"type":"Point"}
+}

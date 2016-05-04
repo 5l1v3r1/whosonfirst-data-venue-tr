@@ -1,0 +1,56 @@
+{
+  "id": 169532533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"26.5604,41.675499,26.5604,41.675499",
+    "geom:latitude":41.675499,
+    "geom:longitude":26.5604,
+    "iso:country":"TR",
+    "sg:address":"Edirne",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Edirne",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911151,
+        85679213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VrmHGCmYtn7i24uuABgWw_41.675499_26.560400@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ec4fc5b12eb724bc082f2cd032e65d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911151,
+            "neighbourhood_id":-1,
+            "region_id":85679213,
+            "venue_id":169532533
+        }
+    ],
+    "wof:id":169532533,
+    "wof:lastmodified":1449033793,
+    "wof:name":"Edirne Turizm Ve End As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [26.5604,41.675499,26.5604,41.675499],
+  "geometry": {"coordinates":[26.5604,41.675499],"type":"Point"}
+}

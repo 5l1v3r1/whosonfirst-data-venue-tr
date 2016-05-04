@@ -1,0 +1,63 @@
+{
+  "id": 169557095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.120491,38.466496,27.120491,38.466496",
+    "geom:latitude":38.466496,
+    "geom:longitude":27.120491,
+    "iso:country":"TR",
+    "sg:address":"1851/9. Sok. No: 4/2 D:7 Karsiyaka",
+    "sg:city":"Devlet Hastanesi Civari",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 372 5632",
+    "sg:postcode":"33050",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R3Zn9UOYaLHSftvxV1dci_38.466496_27.120491@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b3514eb80a88225a7334e4b26942dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169557095
+        }
+    ],
+    "wof:id":169557095,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Norm Havuzculuk Mak.ins.tur.san.tic.ltd.sti.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [27.120491,38.466496,27.120491,38.466496],
+  "geometry": {"coordinates":[27.120491,38.466496],"type":"Point"}
+}

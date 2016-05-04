@@ -1,0 +1,57 @@
+{
+  "id": 169535975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.386757,40.769615,30.386757,40.769615",
+    "geom:latitude":40.769615,
+    "geom:longitude":30.386757,
+    "iso:country":"TR",
+    "sg:address":"Maliye Cad 15",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 7235",
+    "sg:province":"80020",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912667,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pJe9OTFvU8pl0f1ZVIo75_40.769615_30.386757@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b113b6e6979d9c6881f8de91dc48eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912667,
+            "neighbourhood_id":-1,
+            "region_id":85679245,
+            "venue_id":169535975
+        }
+    ],
+    "wof:id":169535975,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Iktisat Bankasi, T?k As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.386757,40.769615,30.386757,40.769615],
+  "geometry": {"coordinates":[30.386757,40.769615],"type":"Point"}
+}

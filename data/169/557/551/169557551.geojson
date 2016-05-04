@@ -1,0 +1,64 @@
+{
+  "id": 169557551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.720249,36.887157,30.720249,36.887157",
+    "geom:latitude":36.887157,
+    "geom:longitude":30.720249,
+    "iso:country":"TR",
+    "sg:address":"Burhanettin Onat Cad.no:102 D:9",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 321 9977",
+    "sg:postcode":"34660",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929965,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JuL5ETgkfUFznRFwlby5Y_36.887157_30.720249@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6a4c341b452626a02dad8e676539eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929965,
+            "region_id":85679263,
+            "venue_id":169557551
+        }
+    ],
+    "wof:id":169557551,
+    "wof:lastmodified":1449035034,
+    "wof:name":"Sistem Havuz",
+    "wof:parent_id":85929965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [30.720249,36.887157,30.720249,36.887157],
+  "geometry": {"coordinates":[30.720249,36.887157],"type":"Point"}
+}

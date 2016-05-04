@@ -1,0 +1,64 @@
+{
+  "id": 169685765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.110186,40.971905,29.110186,40.971905",
+    "geom:latitude":40.971905,
+    "geom:longitude":29.110186,
+    "iso:country":"TR",
+    "sg:address":"Sultan Mektep Sok. Ugurhan No:10",
+    "sg:city":"Yesildirek",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 519 4742",
+    "sg:postcode":"63200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DOvPl8xsa71SITsN1KLzb_40.971905_29.110186@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"373789f9c02b884a7dda5d7d3cf77c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169685765
+        }
+    ],
+    "wof:id":169685765,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Her Tip Camasirlari Tex. Orme San.tic. Ltd.sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.110186,40.971905,29.110186,40.971905],
+  "geometry": {"coordinates":[29.110186,40.971905],"type":"Point"}
+}

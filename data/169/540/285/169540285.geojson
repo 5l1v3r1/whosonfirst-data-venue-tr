@@ -1,0 +1,57 @@
+{
+  "id": 169540285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.912462,41.040447,28.912462,41.040447",
+    "geom:latitude":41.040447,
+    "geom:longitude":28.912462,
+    "iso:country":"TR",
+    "sg:address":"Abdi Ipekci Cad 130",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 0985",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906463,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qbED45C9palv4qX687yRf_41.040447_28.912462@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e3c9e0cd66cd36befa215266263828e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":169540285
+        }
+    ],
+    "wof:id":169540285,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Tc Ziraat Bankasi",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.912462,41.040447,28.912462,41.040447],
+  "geometry": {"coordinates":[28.912462,41.040447],"type":"Point"}
+}

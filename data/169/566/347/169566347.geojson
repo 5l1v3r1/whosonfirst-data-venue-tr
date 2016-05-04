@@ -1,0 +1,63 @@
+{
+  "id": 169566347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.00753,41.078312,29.00753,41.078312",
+    "geom:latitude":41.078312,
+    "geom:longitude":29.00753,
+    "iso:country":"TR",
+    "sg:address":"Dereboyu Cad.no:178/1 Ortak?",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 236 4431",
+    "sg:postcode":"06550",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r4ssefMeB9hGrfSJULBr2_41.078312_29.007530@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"db73277d06bf5df05e110673c5e67d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169566347
+        }
+    ],
+    "wof:id":169566347,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Celtas Yapi Otomasyon Sistemleri Ins.muh.taah.san.tic.ltd",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.00753,41.078312,29.00753,41.078312],
+  "geometry": {"coordinates":[29.00753,41.078312],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169610113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.996778,41.044182,28.996778,41.044182",
+    "geom:latitude":41.044182,
+    "geom:longitude":28.996778,
+    "iso:country":"TR",
+    "sg:address":"Bayildim Cad. No:2 Macka",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 326 1100",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bPNerIfk4aycCtDQovfCC_41.044182_28.996778@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"05f4613390a9712bc6572d21144cfbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169610113
+        }
+    ],
+    "wof:id":169610113,
+    "wof:lastmodified":1449035911,
+    "wof:name":"Swissotel The Bosphorus",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [28.996778,41.044182,28.996778,41.044182],
+  "geometry": {"coordinates":[28.996778,41.044182],"type":"Point"}
+}

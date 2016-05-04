@@ -1,0 +1,73 @@
+{
+  "id": 169564591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.986195,41.035854,28.986195,41.035854",
+    "geom:latitude":41.035854,
+    "geom:longitude":28.986195,
+    "iso:country":"TR",
+    "sg:address":"Muhtar Kamil Sk. No.5/3 Taksim",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 2702",
+    "sg:postcode":"80220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237,
+        85906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09DbyJzpUINPRO6L7t3f4B_41.035854_28.986195@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de86ab5c4bb4bdcd4a9cba573328eca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169564591
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906563,
+            "region_id":85679237,
+            "venue_id":169564591
+        }
+    ],
+    "wof:id":169564591,
+    "wof:lastmodified":1449035765,
+    "wof:name":"A.l.s. Guvenlik Sistemleri San. Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.986195,41.035854,28.986195,41.035854],
+  "geometry": {"coordinates":[28.986195,41.035854],"type":"Point"}
+}

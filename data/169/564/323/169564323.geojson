@@ -1,0 +1,64 @@
+{
+  "id": 169564323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.96619,41.047916,28.96619,41.047916",
+    "geom:latitude":41.047916,
+    "geom:longitude":28.96619,
+    "iso:country":"TR",
+    "sg:address":"Piyalepasa, Sosyal Meskenler Sk. No:12 Okmeydani",
+    "sg:city":"Edremit",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 2221",
+    "sg:postcode":"04500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w2lyZrFTHfIcajIuxQqzA_41.047916_28.966190@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ddbc45c54e55d53c6118a80917f132e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":169564323
+        }
+    ],
+    "wof:id":169564323,
+    "wof:lastmodified":1449035762,
+    "wof:name":"?zcan Mobilya Ltd. Sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [28.96619,41.047916,28.96619,41.047916],
+  "geometry": {"coordinates":[28.96619,41.047916],"type":"Point"}
+}

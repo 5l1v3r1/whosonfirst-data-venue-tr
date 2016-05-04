@@ -1,0 +1,58 @@
+{
+  "id": 169541273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.89426,41.027977,28.89426,41.027977",
+    "geom:latitude":41.027977,
+    "geom:longitude":28.89426,
+    "iso:country":"TR",
+    "sg:address":"Davutpasa Cad. 230-231-352",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 501 8214",
+    "sg:postcode":"41000",
+    "sg:province":"34760",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929891,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7imTNV7dAydEYxsoSDlqVg_41.027977_28.894260@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eeb07e5d13c115ef4becf421e4778614",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":169541273
+        }
+    ],
+    "wof:id":169541273,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.89426,41.027977,28.89426,41.027977],
+  "geometry": {"coordinates":[28.89426,41.027977],"type":"Point"}
+}

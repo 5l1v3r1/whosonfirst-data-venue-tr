@@ -1,0 +1,64 @@
+{
+  "id": 169607275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856152,39.918697,32.856152,39.918697",
+    "geom:latitude":39.918697,
+    "geom:longitude":32.856152,
+    "iso:country":"TR",
+    "sg:address":"Konur Sok.12/8 Kizilay",
+    "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 3602",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OXkWhtTDxL06L1hElZTeJ_39.918697_32.856152@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b99b3fa8881e7e0fbe2c98a9957a09b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169607275
+        }
+    ],
+    "wof:id":169607275,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Prizma Onur Day. T?k.mal. Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [32.856152,39.918697,32.856152,39.918697],
+  "geometry": {"coordinates":[32.856152,39.918697],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169540747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.989296,41.032139,28.989296,41.032139",
+    "geom:latitude":41.032139,
+    "geom:longitude":28.989296,
+    "iso:country":"TR",
+    "sg:address":"Meclis-i Mebusan 145/6, Findikli, 80040 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E9gCEE0CySSNKAXa92IOV_41.032139_28.989296@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0e62968b0c89e3e655a92f836220fdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":169540747
+        }
+    ],
+    "wof:id":169540747,
+    "wof:lastmodified":1449033973,
+    "wof:name":"Teb Sigorta As",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.989296,41.032139,28.989296,41.032139],
+  "geometry": {"coordinates":[28.989296,41.032139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169529973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.880524,39.88768,32.880524,39.88768",
+    "geom:latitude":39.88768,
+    "geom:longitude":32.880524,
+    "iso:country":"TR",
+    "sg:address":"B?l? Sok. No:2/15 06660 Kavaklidere Ankara",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 7548",
+    "sg:postcode":"27000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UiIJskXm65sQch59V1Qw0_39.887680_32.880524@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"75049a8d49ce6c72ed6ec5b7f8b32195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169529973
+        }
+    ],
+    "wof:id":169529973,
+    "wof:lastmodified":1449034114,
+    "wof:name":"Dogan?z Sigorta Aracilik Hiz Ltd Sti",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "finance",
+        "insurance"
+    ]
+},
+  "bbox": [32.880524,39.88768,32.880524,39.88768],
+  "geometry": {"coordinates":[32.880524,39.88768],"type":"Point"}
+}

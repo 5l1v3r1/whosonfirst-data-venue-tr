@@ -1,0 +1,66 @@
+{
+  "id": 169576447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.349812,36.401848,36.349812,36.401848",
+    "geom:latitude":36.401848,
+    "geom:longitude":36.349812,
+    "iso:country":"TR",
+    "sg:address":"Ataturk Blv. Bahceli Sahil Evler Seber Apt. No: 19 K.2",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 326 613 9963",
+    "sg:postcode":"31200",
+    "sg:province":"Hatay",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h6Qqc8BAq0qili9nbrhMS_36.401848_36.349812@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ac94a8f779da6ff9b8f238158420a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679331,
+            "venue_id":169576447
+        }
+    ],
+    "wof:id":169576447,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Gemek Denizcilik Ve Gemi Acenteligi A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [36.349812,36.401848,36.349812,36.401848],
+  "geometry": {"coordinates":[36.349812,36.401848],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169553837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.50771,39.753906,30.50771,39.753906",
+    "geom:latitude":39.753906,
+    "geom:longitude":30.50771,
+    "iso:country":"TR",
+    "sg:address":"K?ahya Cad.no:331",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 224 0202",
+    "sg:postcode":"15040",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NiL9no22lvdhxNymYUqsw_39.753906_30.507710@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b5d5e1e8e04c1ea1af5d069e74db703",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":-1,
+            "region_id":85679255,
+            "venue_id":169553837
+        }
+    ],
+    "wof:id":169553837,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Er Gida Paz.san.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [30.50771,39.753906,30.50771,39.753906],
+  "geometry": {"coordinates":[30.50771,39.753906],"type":"Point"}
+}

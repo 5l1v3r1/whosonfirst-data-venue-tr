@@ -1,0 +1,66 @@
+{
+  "id": 169578511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977694,41.012562,28.977694,41.012562",
+    "geom:latitude":41.012562,
+    "geom:longitude":28.977694,
+    "iso:country":"TR",
+    "sg:address":"Ibni Kemal Cad. No:17 K:3-4",
+    "sg:city":"Sirkeci",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 1314",
+    "sg:postcode":"34112",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904153,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61dQJtRsPt2Zw5D7yjerS5_41.012562_28.977694@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eb635dca7109e195caa6014dd0464d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904153,
+            "region_id":85679237,
+            "venue_id":169578511
+        }
+    ],
+    "wof:id":169578511,
+    "wof:lastmodified":1449033521,
+    "wof:name":"Selay Tasimacilik Turizm & Lojistik Kargo Hizmetleri Tic.ltd.sti.",
+    "wof:parent_id":85904153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.977694,41.012562,28.977694,41.012562],
+  "geometry": {"coordinates":[28.977694,41.012562],"type":"Point"}
+}

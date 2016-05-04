@@ -1,0 +1,59 @@
+{
+  "id": 169539637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.084965,40.958214,29.084965,40.958214",
+    "geom:latitude":40.958214,
+    "geom:longitude":29.084965,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad 501",
+    "sg:city":"Erzincan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 9871",
+    "sg:postcode":"24000",
+    "sg:province":"Suadiye",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uou11iJ2qVgKoJoLLwBVU_40.958214_29.084965@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6acc1bfac78bc5d65b7f18394addf4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169539637
+        }
+    ],
+    "wof:id":169539637,
+    "wof:lastmodified":1449036036,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.084965,40.958214,29.084965,40.958214],
+  "geometry": {"coordinates":[29.084965,40.958214],"type":"Point"}
+}

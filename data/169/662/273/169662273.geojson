@@ -1,0 +1,65 @@
+{
+  "id": 169662273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.071442,40.180679,29.071442,40.180679",
+    "geom:latitude":40.180679,
+    "geom:longitude":29.071442,
+    "iso:country":"TR",
+    "sg:address":"Yesil Cd. No:21",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 243 1905",
+    "sg:postcode":"81240",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930161,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21oqEr9k8SfP4Pg2gTt6Co_40.180679_29.071442@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ba0b6fcf5b7705eb77b82ec83064c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":169662273
+        }
+    ],
+    "wof:id":169662273,
+    "wof:lastmodified":1449034924,
+    "wof:name":"Has Mak. San. Tic. A.s.",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.071442,40.180679,29.071442,40.180679],
+  "geometry": {"coordinates":[29.071442,40.180679],"type":"Point"}
+}

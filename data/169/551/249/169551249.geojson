@@ -1,0 +1,65 @@
+{
+  "id": 169551249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.533587,39.814693,30.533587,39.814693",
+    "geom:latitude":39.814693,
+    "geom:longitude":30.533587,
+    "iso:country":"TR",
+    "sg:address":"2 Eylul Cad. Bakim Sok. No:4",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 8904",
+    "sg:postcode":"01000",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01VA2mWAHgXMXeeYshAMKT_39.814693_30.533587@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d24d55dff6ea2fb6ccb5c1617d02e749",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":-1,
+            "region_id":85679255,
+            "venue_id":169551249
+        }
+    ],
+    "wof:id":169551249,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Dinc Kimya Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [30.533587,39.814693,30.533587,39.814693],
+  "geometry": {"coordinates":[30.533587,39.814693],"type":"Point"}
+}

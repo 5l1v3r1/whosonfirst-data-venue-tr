@@ -1,0 +1,65 @@
+{
+  "id": 169589779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.484299,37.864239,32.484299,37.864239",
+    "geom:latitude":37.864239,
+    "geom:longitude":32.484299,
+    "iso:country":"TR",
+    "sg:address":"Larende Cad. No:254",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 352 8406",
+    "sg:postcode":"34433",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934705,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dK6ZAh2ZNlayTa8OFCacT_37.864239_32.484299@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da3e2fb99e3f70f7ded68a582f110c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":169589779
+        }
+    ],
+    "wof:id":169589779,
+    "wof:lastmodified":1449034445,
+    "wof:name":"?zenir G?nes Enerjisi",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.484299,37.864239,32.484299,37.864239],
+  "geometry": {"coordinates":[32.484299,37.864239],"type":"Point"}
+}

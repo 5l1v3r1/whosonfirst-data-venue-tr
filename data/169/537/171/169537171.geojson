@@ -1,0 +1,58 @@
+{
+  "id": 169537171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976254,41.0322,28.976254,41.0322",
+    "geom:latitude":41.0322,
+    "geom:longitude":28.976254,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad 347",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 2213",
+    "sg:province":"80050",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i2iFJHd12uemqq43XS1K7_41.032200_28.976254@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68250dce90f5929db4637249ffa9fdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":169537171
+        }
+    ],
+    "wof:id":169537171,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.976254,41.0322,28.976254,41.0322],
+  "geometry": {"coordinates":[28.976254,41.0322],"type":"Point"}
+}

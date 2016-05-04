@@ -1,0 +1,56 @@
+{
+  "id": 169539079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.004402,41.042614,29.004402,41.042614",
+    "geom:latitude":41.042614,
+    "geom:longitude":29.004402,
+    "iso:country":"TR",
+    "sg:address":"Ortabahce Cad 14/16",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 9276",
+    "sg:province":"80690",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906567,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HvOrHzIO7To2RfW6ldJTq_41.042614_29.004402@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bbcda73492752ab6e8aed74591beb80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906567,
+            "region_id":-1,
+            "venue_id":169539079
+        }
+    ],
+    "wof:id":169539079,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.004402,41.042614,29.004402,41.042614],
+  "geometry": {"coordinates":[29.004402,41.042614],"type":"Point"}
+}

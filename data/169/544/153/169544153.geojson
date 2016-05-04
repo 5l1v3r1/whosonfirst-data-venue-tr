@@ -1,0 +1,56 @@
+{
+  "id": 169544153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.280857,40.870182,29.280857,40.870182",
+    "geom:latitude":40.870182,
+    "geom:longitude":29.280857,
+    "iso:country":"TR",
+    "sg:address":"Abdi Ipekci Cad 17/1",
+    "sg:city":"D?d?co Levent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 5592",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930009,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JNRmfGfQlHb9u9uvzHZ7z_40.870182_29.280857@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb9696ea1e80556da9b92a804fb9f313",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930009,
+            "region_id":-1,
+            "venue_id":169544153
+        }
+    ],
+    "wof:id":169544153,
+    "wof:lastmodified":1449035963,
+    "wof:name":"T?kiye Garanti, Bankasi As",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.280857,40.870182,29.280857,40.870182],
+  "geometry": {"coordinates":[29.280857,40.870182],"type":"Point"}
+}

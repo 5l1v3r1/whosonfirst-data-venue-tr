@@ -1,0 +1,65 @@
+{
+  "id": 169577167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.5214,41.0224,40.5214,41.0224",
+    "geom:latitude":41.0224,
+    "geom:longitude":40.5214,
+    "iso:country":"TR",
+    "sg:address":"Liman Karsisi",
+    "sg:city":"Aliaga",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"35800",
+    "sg:province":"Rize",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101910997,
+        85679377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RGlNWcsjFAjWLpZh1jQqz_41.022400_40.521400@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a573f817e32857e60a012ae1bf475ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":101910997,
+            "neighbourhood_id":-1,
+            "region_id":85679377,
+            "venue_id":169577167
+        }
+    ],
+    "wof:id":169577167,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Kartal Shipping Agency",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [40.5214,41.0224,40.5214,41.0224],
+  "geometry": {"coordinates":[40.5214,41.0224],"type":"Point"}
+}

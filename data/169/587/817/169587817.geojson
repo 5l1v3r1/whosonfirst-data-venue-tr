@@ -1,0 +1,65 @@
+{
+  "id": 169587817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.0172,39.751499,37.0172,39.751499",
+    "geom:latitude":39.751499,
+    "geom:longitude":37.0172,
+    "iso:country":"TR",
+    "sg:address":"4 Eylul San.sitesi 31.blok 7.cad.no:23",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 346 226 3738",
+    "sg:postcode":"31750",
+    "sg:province":"Sivas",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912781,
+        85679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bK5MXtCVYfimyxlblCTgi_39.751499_37.017200@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5e112597067f4cfac8bf11fc2aa8b0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912781,
+            "neighbourhood_id":-1,
+            "region_id":85679355,
+            "venue_id":169587817
+        }
+    ],
+    "wof:id":169587817,
+    "wof:lastmodified":1449033823,
+    "wof:name":"Gunebakan Gunes Enerjisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [37.0172,39.751499,37.0172,39.751499],
+  "geometry": {"coordinates":[37.0172,39.751499],"type":"Point"}
+}

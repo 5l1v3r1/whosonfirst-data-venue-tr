@@ -1,0 +1,64 @@
+{
+  "id": 169573243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.042355,41.016853,29.042355,41.016853",
+    "geom:latitude":41.016853,
+    "geom:longitude":29.042355,
+    "iso:country":"TR",
+    "sg:address":"Fahrettin Kerim G?ay Cd.no.22 A/blok K1",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 310 4507",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uVBtuLuEvQ4caGPAeo7SN_41.016853_29.042355@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f022d4e07d2fa4ba639ec194c275a9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":169573243
+        }
+    ],
+    "wof:id":169573243,
+    "wof:lastmodified":1449035111,
+    "wof:name":"Kaptanoglu Denizcilik Ltd.sti. .",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.042355,41.016853,29.042355,41.016853],
+  "geometry": {"coordinates":[29.042355,41.016853],"type":"Point"}
+}

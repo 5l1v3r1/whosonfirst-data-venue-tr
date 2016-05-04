@@ -1,0 +1,64 @@
+{
+  "id": 169572851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.095444,40.969147,29.095444,40.969147",
+    "geom:latitude":40.969147,
+    "geom:longitude":29.095444,
+    "iso:country":"TR",
+    "sg:address":"Kayasultan Sok.dumankaya Sitesi 94/a Yazgan Apt D.7",
+    "sg:city":"Kozyatagi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21641060633",
+    "sg:postcode":"34742",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S3JyseV1bWhlcacwoXXmx_40.969147_29.095444@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb84d90e1638222da71f6572e24c09b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169572851
+        }
+    ],
+    "wof:id":169572851,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Goldmar Denizcilik San Ve Tic. Ltd",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.095444,40.969147,29.095444,40.969147],
+  "geometry": {"coordinates":[29.095444,40.969147],"type":"Point"}
+}

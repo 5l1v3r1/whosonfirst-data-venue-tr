@@ -1,0 +1,64 @@
+{
+  "id": 169573375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.035479,41.0364,29.035479,41.0364",
+    "geom:latitude":41.0364,
+    "geom:longitude":29.035479,
+    "iso:country":"TR",
+    "sg:address":"Nakkastepe G??suyu Yolu 19/7",
+    "sg:city":"Beylerbeyi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 333 4352",
+    "sg:postcode":"20300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DXchkEG3vzXoSa5VlLa2q_41.036400_29.035479@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42d01d85ca72357ded5bc01aa990f370",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169573375
+        }
+    ],
+    "wof:id":169573375,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Maraton Denizcilik A.s.",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.035479,41.0364,29.035479,41.0364],
+  "geometry": {"coordinates":[29.035479,41.0364],"type":"Point"}
+}

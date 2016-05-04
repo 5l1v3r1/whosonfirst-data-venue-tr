@@ -1,0 +1,61 @@
+{
+  "id": 169553917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "sg:address":"Gultepe Mah. Harman Cad. Ali Kaya Sok. Polat Plaza B-m.blok No:2 Kat:7-8",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212325217115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eQJcFJfJ16x6yGRcPdwZy_41.012379_28.975925@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169553917
+        }
+    ],
+    "wof:id":169553917,
+    "wof:lastmodified":1449032709,
+    "wof:name":"Eti Pazarlama Ve Sanayi A.s",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
+}

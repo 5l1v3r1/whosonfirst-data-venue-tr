@@ -1,0 +1,63 @@
+{
+  "id": 169574205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.5144,40.979198,27.5144,40.979198",
+    "geom:latitude":40.979198,
+    "geom:longitude":27.5144,
+    "iso:country":"TR",
+    "sg:address":"Kumbag Kavsagi Cevreyolu Uzeri No: 1",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282260571920",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46AODTwojR9yVLVu0X4jlA_40.979198_27.514400@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8387aa57b27f83127b6471eb24e26083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":169574205
+        }
+    ],
+    "wof:id":169574205,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Yeni Pazarli Insaat Ve Gida Tic.ltd.sti.",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [27.5144,40.979198,27.5144,40.979198],
+  "geometry": {"coordinates":[27.5144,40.979198],"type":"Point"}
+}

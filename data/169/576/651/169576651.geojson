@@ -1,0 +1,69 @@
+{
+  "id": 169576651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.846571,40.999107,28.846571,40.999107",
+    "geom:latitude":40.999107,
+    "geom:longitude":28.846571,
+    "iso:country":"TR",
+    "sg:address":"Eski Londra Asfalti Pak Apt. 17/2",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 1853",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "sg:website":"halicint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HtqKDfh7Mq12rGKK9PiSF_40.999107_28.846571@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a60602dffc8ae1e43c58691d53dc7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169576651
+        }
+    ],
+    "wof:id":169576651,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Hali? Uluslararasi Tasimacilik Ve Dis Tic. Ltd",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.846571,40.999107,28.846571,40.999107],
+  "geometry": {"coordinates":[28.846571,40.999107],"type":"Point"}
+}

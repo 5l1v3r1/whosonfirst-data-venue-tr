@@ -1,0 +1,66 @@
+{
+  "id": 169576629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.293064,40.842873,29.293064,40.842873",
+    "geom:latitude":40.842873,
+    "geom:longitude":29.293064,
+    "iso:country":"TR",
+    "sg:address":"Rauf Orbay Cad. 11/c Icmeler-",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 446 7417",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_134AY3l4kOjQIXzlLZQttC_40.842873_29.293064@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91ff114a71535d19aecb801e81c9c043",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169576629
+        }
+    ],
+    "wof:id":169576629,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Gs (general Store) Denizcilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.293064,40.842873,29.293064,40.842873],
+  "geometry": {"coordinates":[29.293064,40.842873],"type":"Point"}
+}

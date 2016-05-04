@@ -1,0 +1,64 @@
+{
+  "id": 169569735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049599,41.044659,29.049599,41.044659",
+    "geom:latitude":41.044659,
+    "geom:longitude":29.049599,
+    "iso:country":"TR",
+    "sg:address":"Yaliboyu Cad. ?avusoglu Apt.no:63 Daire:2 Beylerbeyi",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 321 5588",
+    "sg:postcode":"34676",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_091Kh3uX7Pgrqup6F0hCaH_41.044659_29.049599@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da23371e5d827b11bcd164b908b3b233",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169569735
+        }
+    ],
+    "wof:id":169569735,
+    "wof:lastmodified":1449035833,
+    "wof:name":"Sebasis G?venlik Ve Bina Otomasyon San.tic.a.s.",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.049599,41.044659,29.049599,41.044659],
+  "geometry": {"coordinates":[29.049599,41.044659],"type":"Point"}
+}

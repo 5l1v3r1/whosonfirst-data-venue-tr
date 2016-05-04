@@ -1,0 +1,67 @@
+{
+  "id": 169547851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.558901,37.763599,30.558901,37.763599",
+    "geom:latitude":37.763599,
+    "geom:longitude":30.558901,
+    "iso:country":"TR",
+    "sg:address":"Sanayi Sitesi Senirkent",
+    "sg:city":"Senirkent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 246 511 4609",
+    "sg:postcode":"32600",
+    "sg:province":"Isparta",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911259,
+        85679279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w9R6Wgzcij1dso67u4p1m_37.763599_30.558901@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d495983f7580aeba4d5a3c8129f240f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911259,
+            "neighbourhood_id":-1,
+            "region_id":85679279,
+            "venue_id":169547851
+        }
+    ],
+    "wof:id":169547851,
+    "wof:lastmodified":1449033009,
+    "wof:name":"Afacan Otomotiv",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [30.558901,37.763599,30.558901,37.763599],
+  "geometry": {"coordinates":[30.558901,37.763599],"type":"Point"}
+}

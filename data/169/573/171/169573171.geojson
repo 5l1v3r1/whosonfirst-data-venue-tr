@@ -1,0 +1,64 @@
+{
+  "id": 169573171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.966282,41.051079,28.966282,41.051079",
+    "geom:latitude":41.051079,
+    "geom:longitude":28.966282,
+    "iso:country":"TR",
+    "sg:address":"Buyukdere Cad. Simsek Apt.no:3 D:3",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 5892",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BuGDymueiDSOlcXXilxx5_41.051079_28.966282@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61be8b4bdaac2237bfd43b590fdf6e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":169573171
+        }
+    ],
+    "wof:id":169573171,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Kalyon Denizcilik Ve Tic.a.s.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.966282,41.051079,28.966282,41.051079],
+  "geometry": {"coordinates":[28.966282,41.051079],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169647403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.874203,40.991932,28.874203,40.991932",
+    "geom:latitude":40.991932,
+    "geom:longitude":28.874203,
+    "iso:country":"TR",
+    "sg:address":"Agah Efendi Sok. No:4/c Bakirkoy",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 3576",
+    "sg:postcode":"06650",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SE3shqikVc5abW95sekn1_40.991932_28.874203@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"737587a8f11f3ab026a4cafa4602d215",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169647403
+        }
+    ],
+    "wof:id":169647403,
+    "wof:lastmodified":1449034241,
+    "wof:name":"Orkin Kirtasiye",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.874203,40.991932,28.874203,40.991932],
+  "geometry": {"coordinates":[28.874203,40.991932],"type":"Point"}
+}

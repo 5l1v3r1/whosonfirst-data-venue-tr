@@ -1,0 +1,65 @@
+{
+  "id": 169604389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.023275,41.071552,29.023275,41.071552",
+    "geom:latitude":41.071552,
+    "geom:longitude":29.023275,
+    "iso:country":"TR",
+    "sg:address":"Hasfirin Sk. Sinanpasa Ismerk. No:165 Besiktas",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 1455",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X4AA6efDN9nAJpW6fm4gM_41.071552_29.023275@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bcaea8accf6fb31844dcae7ee25f1da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169604389
+        }
+    ],
+    "wof:id":169604389,
+    "wof:lastmodified":1449035570,
+    "wof:name":"Efor Shop",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.023275,41.071552,29.023275,41.071552],
+  "geometry": {"coordinates":[29.023275,41.071552],"type":"Point"}
+}

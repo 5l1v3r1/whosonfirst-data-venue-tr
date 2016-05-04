@@ -1,0 +1,67 @@
+{
+  "id": 169574853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.859043,39.928486,32.859043,39.928486",
+    "geom:latitude":39.928486,
+    "geom:longitude":32.859043,
+    "iso:country":"TR",
+    "sg:address":"Evliya Celebi Mah. Rauf Orbay Cad. No:13/1",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 446 1747",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934683,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xgm420llSb1uA8btvbsvH_39.928486_32.859043@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d24f7f6c803576204f5972464f65f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":169574853
+        }
+    ],
+    "wof:id":169574853,
+    "wof:lastmodified":1449032663,
+    "wof:name":"Argos Muhendislik San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [32.859043,39.928486,32.859043,39.928486],
+  "geometry": {"coordinates":[32.859043,39.928486],"type":"Point"}
+}

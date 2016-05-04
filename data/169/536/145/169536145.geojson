@@ -1,0 +1,58 @@
+{
+  "id": 169536145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.708511,36.88776,30.708511,36.88776",
+    "geom:latitude":36.88776,
+    "geom:longitude":30.708511,
+    "iso:country":"TR",
+    "sg:address":"Ali Cetinkaya Cad 12",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 247 0656",
+    "sg:province":"07100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mW8wKKuT5tQv9qiLQnqu5_36.887760_30.708511@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6456c4ca2fbb20259d03bbc98e56b05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169536145
+        }
+    ],
+    "wof:id":169536145,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.708511,36.88776,30.708511,36.88776],
+  "geometry": {"coordinates":[30.708511,36.88776],"type":"Point"}
+}

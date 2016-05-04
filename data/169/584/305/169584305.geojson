@@ -1,0 +1,65 @@
+{
+  "id": 169584305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.8055,39.821201,34.8055,39.821201",
+    "geom:latitude":39.821201,
+    "geom:longitude":34.8055,
+    "iso:country":"TR",
+    "sg:address":"Gevrekzade Cad. No:16",
+    "sg:city":"Safranbolu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 354 212 1022",
+    "sg:postcode":"78600",
+    "sg:province":"Yozgat",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911235,
+        85679461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TN4qhvrCO5JwTDRUyoyvO_39.821201_34.805500@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"763d0c18257b4006b7472146130f807f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911235,
+            "neighbourhood_id":-1,
+            "region_id":85679461,
+            "venue_id":169584305
+        }
+    ],
+    "wof:id":169584305,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Bektaslar Mesrubat Dag. Paz. Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [34.8055,39.821201,34.8055,39.821201],
+  "geometry": {"coordinates":[34.8055,39.821201],"type":"Point"}
+}

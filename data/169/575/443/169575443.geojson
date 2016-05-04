@@ -1,0 +1,67 @@
+{
+  "id": 169575443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.145115,38.439129,27.145115,38.439129",
+    "geom:latitude":38.439129,
+    "geom:longitude":27.145115,
+    "iso:country":"TR",
+    "sg:address":"1469 Sk.no 62",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 3888",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4akEqfHLUfDT8KPTITZGPd_38.439129_27.145115@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"49a4c2d4c9d8d2888341a84a0f17cae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169575443
+        }
+    ],
+    "wof:id":169575443,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bosfor Deniz Tasim.a.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.145115,38.439129,27.145115,38.439129],
+  "geometry": {"coordinates":[27.145115,38.439129],"type":"Point"}
+}

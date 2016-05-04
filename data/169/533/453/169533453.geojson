@@ -1,0 +1,58 @@
+{
+  "id": 169533453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.385029,37.057178,37.385029,37.057178",
+    "geom:latitude":37.057178,
+    "geom:longitude":37.385029,
+    "iso:country":"TR",
+    "sg:address":"Ismetpasa Mahallesi 5-6",
+    "sg:city":"Kahramanmaras",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 225 2336",
+    "sg:postcode":"46000",
+    "sg:province":"46100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934731,
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lVb2OavM7HAdCLnGVSAZA_37.057178_37.385029@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5de4cac35dca80d17096f761048242f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":169533453
+        }
+    ],
+    "wof:id":169533453,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [37.385029,37.057178,37.385029,37.057178],
+  "geometry": {"coordinates":[37.385029,37.057178],"type":"Point"}
+}

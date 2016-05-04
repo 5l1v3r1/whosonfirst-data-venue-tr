@@ -1,0 +1,63 @@
+{
+  "id": 169586409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.558851,41.021507,28.558851,41.021507",
+    "geom:latitude":41.021507,
+    "geom:longitude":28.558851,
+    "iso:country":"TR",
+    "sg:address":"Marmara Cad. No:20 Mimarsinan",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 882 4234",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LReW05fBs9kkKnus0HPDs_41.021507_28.558851@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64f94218f490ca3025baaeb4ca8d217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169586409
+        }
+    ],
+    "wof:id":169586409,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Alurator Yapi San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.558851,41.021507,28.558851,41.021507],
+  "geometry": {"coordinates":[28.558851,41.021507],"type":"Point"}
+}

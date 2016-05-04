@@ -1,0 +1,63 @@
+{
+  "id": 169555673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.550348,39.775009,30.550348,39.775009",
+    "geom:latitude":39.775009,
+    "geom:longitude":30.550348,
+    "iso:country":"TR",
+    "sg:address":"Sivrihisar Cad. No:149",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 230 2739",
+    "sg:postcode":"07700",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ezhBsQR9wiCE0nDpUIZsX_39.775009_30.550348@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b121392d2a9a9aaa09234a84ada1f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":-1,
+            "region_id":85679255,
+            "venue_id":169555673
+        }
+    ],
+    "wof:id":169555673,
+    "wof:lastmodified":1449035494,
+    "wof:name":"Turkiye Seker Fabrikalari A.s. /eskisehir Seker Fabrikasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [30.550348,39.775009,30.550348,39.775009],
+  "geometry": {"coordinates":[30.550348,39.775009],"type":"Point"}
+}

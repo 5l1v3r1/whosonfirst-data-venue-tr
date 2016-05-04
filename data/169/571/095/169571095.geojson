@@ -1,0 +1,65 @@
+{
+  "id": 169571095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.147785,41.007889,29.147785,41.007889",
+    "geom:latitude":41.007889,
+    "geom:longitude":29.147785,
+    "iso:country":"TR",
+    "sg:address":"Imes San.sit. C Blok 307 Sok. No:12",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216364516142",
+    "sg:postcode":"34775",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930257,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BVPVHdjRKSLTdwXli2iHv_41.007889_29.147785@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"43912dd33edc320182c6e5e9ce679820",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":169571095
+        }
+    ],
+    "wof:id":169571095,
+    "wof:lastmodified":1449034946,
+    "wof:name":"?zbal Sac San.ve Tic. Ltd.sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [29.147785,41.007889,29.147785,41.007889],
+  "geometry": {"coordinates":[29.147785,41.007889],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169548071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"26.783634,38.31789,26.783634,38.31789",
+    "geom:latitude":38.31789,
+    "geom:longitude":26.783634,
+    "iso:country":"TR",
+    "sg:address":"Urla",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 752 0561",
+    "sg:postcode":"52750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Whs6JYMabaSHDYLgqgFUS_38.317890_26.783634@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed13dbd998066011da77d8eddc89f68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169548071
+        }
+    ],
+    "wof:id":169548071,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Ates Dis Ticaret (ates Aku)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [26.783634,38.31789,26.783634,38.31789],
+  "geometry": {"coordinates":[26.783634,38.31789],"type":"Point"}
+}

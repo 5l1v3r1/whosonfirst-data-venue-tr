@@ -1,0 +1,59 @@
+{
+  "id": 169635715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.980459,41.078827,28.980459,41.078827",
+    "geom:latitude":41.078827,
+    "geom:longitude":28.980459,
+    "iso:country":"TR",
+    "sg:address":"Talatpasa Cd. No:29 G?tepe",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 5793",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PApJiWLtTmYYmZ99r3qRE_41.078827_28.980459@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4dc91c44eaa45e77131f7782aa7ab01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169635715
+        }
+    ],
+    "wof:id":169635715,
+    "wof:lastmodified":1449034099,
+    "wof:name":"A?ikkapi Kirtasiye",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.980459,41.078827,28.980459,41.078827],
+  "geometry": {"coordinates":[28.980459,41.078827],"type":"Point"}
+}

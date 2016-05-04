@@ -1,0 +1,65 @@
+{
+  "id": 169556111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.928299,37.589401,36.928299,37.589401",
+    "geom:latitude":37.589401,
+    "geom:longitude":36.928299,
+    "iso:country":"TR",
+    "sg:address":"Yeni Sanayi Sitesi 30.carsi No:78",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 236 0064",
+    "sg:postcode":"46200",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f76ZSqbNhAeGI1jNUz1Kn_37.589401_36.928299@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aa033acc693f11bbcee13f429fa06bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169556111
+        }
+    ],
+    "wof:id":169556111,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Bessat Uydu Anten Imalati",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [36.928299,37.589401,36.928299,37.589401],
+  "geometry": {"coordinates":[36.928299,37.589401],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169673925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.828384,40.993038,28.828384,40.993038",
+    "geom:latitude":40.993038,
+    "geom:longitude":28.828384,
+    "iso:country":"TR",
+    "sg:address":"Sanayi Cad.no:24 Cobancesme-",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 1858",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W0AnDsebkVaB2SzrfQshn_40.993038_28.828384@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"17a97fb69339638ea92390c666a1cccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":169673925
+        }
+    ],
+    "wof:id":169673925,
+    "wof:lastmodified":1449033956,
+    "wof:name":"Kamel Biskuvi A.s",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.828384,40.993038,28.828384,40.993038],
+  "geometry": {"coordinates":[28.828384,40.993038],"type":"Point"}
+}

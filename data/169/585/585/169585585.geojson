@@ -1,0 +1,66 @@
+{
+  "id": 169585585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.082355,40.960983,29.082355,40.960983",
+    "geom:latitude":40.960983,
+    "geom:longitude":29.082355,
+    "iso:country":"TR",
+    "sg:address":"Emin Ali Pasa Cad. Veda Sitesi No:21 A Blok",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 445 1110",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WGueja2Oa5tsb4pki1TKA_40.960983_29.082355@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a3cb2600faa67012e5e6ed05f414d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169585585
+        }
+    ],
+    "wof:id":169585585,
+    "wof:lastmodified":1449034888,
+    "wof:name":"Soe Gida Urunleri San.tic.ltd.sti.",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [29.082355,40.960983,29.082355,40.960983],
+  "geometry": {"coordinates":[29.082355,40.960983],"type":"Point"}
+}

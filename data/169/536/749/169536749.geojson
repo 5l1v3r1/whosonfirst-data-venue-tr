@@ -1,0 +1,57 @@
+{
+  "id": 169536749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.060385,40.191097,29.060385,40.191097",
+    "geom:latitude":40.191097,
+    "geom:longitude":29.060385,
+    "iso:country":"TR",
+    "sg:address":"Fevzi Cakmak Cad",
+    "sg:city":"Bursa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 223 8130",
+    "sg:province":"16060",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679Bk245ZW27qYc3cWgrTt_40.191097_29.060385@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"92e8951bc933cf65944662cde95a2584",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169536749
+        }
+    ],
+    "wof:id":169536749,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Kentbank As",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.060385,40.191097,29.060385,40.191097],
+  "geometry": {"coordinates":[29.060385,40.191097],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169592349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.095686,40.968979,29.095686,40.968979",
+    "geom:latitude":40.968979,
+    "geom:longitude":29.095686,
+    "iso:country":"TR",
+    "sg:address":"Bayar Cad.indet Ismrk.kat:4 D:11 Kozyatagi",
+    "sg:city":"G.o.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 384 1175",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tibzby9UDMvLqo9rFplfG_40.968979_29.095686@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d18ba5423a0a7b57c6bf986fb5a17660",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169592349
+        }
+    ],
+    "wof:id":169592349,
+    "wof:lastmodified":1449034584,
+    "wof:name":"Maysa Gida San.a.s",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [29.095686,40.968979,29.095686,40.968979],
+  "geometry": {"coordinates":[29.095686,40.968979],"type":"Point"}
+}

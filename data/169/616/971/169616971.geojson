@@ -1,0 +1,62 @@
+{
+  "id": 169616971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.908611,37.363056,40.908611,37.363056",
+    "geom:latitude":37.363056,
+    "geom:longitude":40.908611,
+    "iso:country":"TR",
+    "sg:address":"Mardin",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 482 212 2495",
+    "sg:postcode":"34660",
+    "sg:province":"Mardin",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJpgoJ3PVqUlVQhJLlKR0_37.363056_40.908611@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"56353c4877f0fe27ab29d7a4afcd411e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679481,
+            "venue_id":169616971
+        }
+    ],
+    "wof:id":169616971,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [40.908611,37.363056,40.908611,37.363056],
+  "geometry": {"coordinates":[40.908611,37.363056],"type":"Point"}
+}

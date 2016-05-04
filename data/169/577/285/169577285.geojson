@@ -1,0 +1,67 @@
+{
+  "id": 169577285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.142719,38.435638,27.142719,38.435638",
+    "geom:latitude":38.435638,
+    "geom:longitude":27.142719,
+    "iso:country":"TR",
+    "sg:address":"Kibris Sehitleri Cad.no:146/17",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 6500",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xsxM4IGdHDmv12wj3944A_38.435638_27.142719@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"60e30e7fcc8304334fde8bd5d2d0921c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169577285
+        }
+    ],
+    "wof:id":169577285,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Link Denizcilik Ltd.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.142719,38.435638,27.142719,38.435638],
+  "geometry": {"coordinates":[27.142719,38.435638],"type":"Point"}
+}

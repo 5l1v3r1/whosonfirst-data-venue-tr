@@ -1,0 +1,64 @@
+{
+  "id": 169584135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.581478,39.989998,32.581478,39.989998",
+    "geom:latitude":39.989998,
+    "geom:longitude":32.581478,
+    "iso:country":"TR",
+    "sg:address":"Izmir Cad. 22/17",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 8300",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oj6iLcjfUKYQn8knnKErF_39.989998_32.581478@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ca22c9534dbeb54f5416b8ef2248a7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169584135
+        }
+    ],
+    "wof:id":169584135,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Ascelik Sanayi Ve Dis Ticaret A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [32.581478,39.989998,32.581478,39.989998],
+  "geometry": {"coordinates":[32.581478,39.989998],"type":"Point"}
+}

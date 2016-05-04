@@ -1,0 +1,67 @@
+{
+  "id": 169577799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.143938,38.441933,27.143938,38.441933",
+    "geom:latitude":38.441933,
+    "geom:longitude":27.143938,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bulvari No302 K4/401",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0060",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zKG8Rxsa8unOiqJKVu0mP_38.441933_27.143938@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"caac164d605b2ad3a11c4e0f27e69645",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169577799
+        }
+    ],
+    "wof:id":169577799,
+    "wof:lastmodified":1449036071,
+    "wof:name":"Mts Denizcilik Ltd.sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.143938,38.441933,27.143938,38.441933],
+  "geometry": {"coordinates":[27.143938,38.441933],"type":"Point"}
+}

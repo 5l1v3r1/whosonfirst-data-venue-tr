@@ -1,0 +1,59 @@
+{
+  "id": 169536725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007483,41.045982,29.007483,41.045982",
+    "geom:latitude":41.045982,
+    "geom:longitude":29.007483,
+    "iso:country":"TR",
+    "sg:address":"Cihannuma Mah, Barbaros Bul",
+    "sg:city":"Malatya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 7065",
+    "sg:postcode":"44000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IXBkAggycHiaZaWDaiGdF_41.045982_29.007483@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"928ee98b335419e718357195d0cc61c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169536725
+        }
+    ],
+    "wof:id":169536725,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Kentbank As",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.007483,41.045982,29.007483,41.045982],
+  "geometry": {"coordinates":[29.007483,41.045982],"type":"Point"}
+}

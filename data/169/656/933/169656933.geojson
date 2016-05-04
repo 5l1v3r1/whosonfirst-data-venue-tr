@@ -1,0 +1,65 @@
+{
+  "id": 169656933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.175404,41.006042,29.175404,41.006042",
+    "geom:latitude":41.006042,
+    "geom:longitude":29.175404,
+    "iso:country":"TR",
+    "sg:address":"Des Sanayi Sitesi B 14 Blok 107 Sokak No:2-4-6 Y.dudullu",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2164663705729",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "pipe"
+    ],
+    "sg:website":"borsenboru.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jAKCTa72b6Z6fxFinNwW7_41.006042_29.175404@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"255552304dbf5e0248eb52fca5ad6918",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169656933
+        }
+    ],
+    "wof:id":169656933,
+    "wof:lastmodified":1449034836,
+    "wof:name":"Borsen Boru Sanayi Ve Ticaret Ltd.sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "pipe"
+    ]
+},
+  "bbox": [29.175404,41.006042,29.175404,41.006042],
+  "geometry": {"coordinates":[29.175404,41.006042],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169590849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.058531,40.203575,29.058531,40.203575",
+    "geom:latitude":40.203575,
+    "geom:longitude":29.058531,
+    "iso:country":"TR",
+    "sg:address":"Ahmet Pasa Mah. Bursali Tahir Cad. No:1",
+    "sg:city":"Isikkent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 220 6424",
+    "sg:postcode":"32100",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nXmuWtCXkm7dHQdvrGelw_40.203575_29.058531@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a40e409711aeb82f9bcefd28942eb2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169590849
+        }
+    ],
+    "wof:id":169590849,
+    "wof:lastmodified":1449034653,
+    "wof:name":"Ekol Otomotiv Ve Baharat Sanayi",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [29.058531,40.203575,29.058531,40.203575],
+  "geometry": {"coordinates":[29.058531,40.203575],"type":"Point"}
+}

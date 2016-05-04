@@ -1,0 +1,62 @@
+{
+  "id": 169615945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"42.387779,38.525833,42.387779,38.525833",
+    "geom:latitude":38.525833,
+    "geom:longitude":42.387779,
+    "iso:country":"TR",
+    "sg:address":"Bitlis",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 434 226 6700",
+    "sg:postcode":"34660",
+    "sg:province":"Bitlis",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XOyIF4wgWl4fXPrKpYK55_38.525833_42.387779@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e0db318e75806e3d9763474e46f2928",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679407,
+            "venue_id":169615945
+        }
+    ],
+    "wof:id":169615945,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [42.387779,38.525833,42.387779,38.525833],
+  "geometry": {"coordinates":[42.387779,38.525833],"type":"Point"}
+}

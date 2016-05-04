@@ -1,0 +1,66 @@
+{
+  "id": 169585275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.697046,36.89267,30.697046,36.89267",
+    "geom:latitude":36.89267,
+    "geom:longitude":30.697046,
+    "iso:country":"TR",
+    "sg:address":"Kizilsaray Mah. Dolaplidere Cad. 72.sok. 18/c",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 247 4501",
+    "sg:postcode":"01365",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929847,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6olRO01Ni5PIWmyLjVbZXA_36.892670_30.697046@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0cca2898ee25cb7ff26e14ffc3f4a5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929847,
+            "region_id":85679263,
+            "venue_id":169585275
+        }
+    ],
+    "wof:id":169585275,
+    "wof:lastmodified":1449034884,
+    "wof:name":"Palanet",
+    "wof:parent_id":85929847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [30.697046,36.89267,30.697046,36.89267],
+  "geometry": {"coordinates":[30.697046,36.89267],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 169531993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007912,41.042686,29.007912,41.042686",
+    "geom:latitude":41.042686,
+    "geom:longitude":29.007912,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bul 7",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 236 2102",
+    "sg:province":"80690",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906567,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jypjNCCFTbbuQxbKnWHK2_41.042686_29.007912@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"115f313428f4a759d8ed24f16fe1f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906567,
+            "region_id":-1,
+            "venue_id":169531993
+        }
+    ],
+    "wof:id":169531993,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.007912,41.042686,29.007912,41.042686],
+  "geometry": {"coordinates":[29.007912,41.042686],"type":"Point"}
+}

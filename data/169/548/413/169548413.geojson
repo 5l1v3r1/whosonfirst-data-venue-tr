@@ -1,0 +1,66 @@
+{
+  "id": 169548413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.746693,39.978333,32.746693,39.978333",
+    "geom:latitude":39.978333,
+    "geom:longitude":32.746693,
+    "iso:country":"TR",
+    "sg:address":"40. Sk. No:63 Ostim",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 385 1519",
+    "sg:postcode":"31300",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18v6O14ENTHpJv1YGcLXKC_39.978333_32.746693@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d8c232cb9911831956aa0e643a4c1d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169548413
+        }
+    ],
+    "wof:id":169548413,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Karag?z Ak?m?lat?r San. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [32.746693,39.978333,32.746693,39.978333],
+  "geometry": {"coordinates":[32.746693,39.978333],"type":"Point"}
+}

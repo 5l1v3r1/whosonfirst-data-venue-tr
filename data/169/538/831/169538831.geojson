@@ -1,0 +1,58 @@
+{
+  "id": 169538831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.969553,41.03476,28.969553,41.03476",
+    "geom:latitude":41.03476,
+    "geom:longitude":28.969553,
+    "iso:country":"TR",
+    "sg:address":"Bayram Yeri 12",
+    "sg:city":"Denizli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 261 3308",
+    "sg:postcode":"01130",
+    "sg:province":"20001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904111,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FziV4fTdRfbR5dQO5Nyfu_41.034760_28.969553@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac2afbbb38232bd7ab076a7a0801e35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904111,
+            "region_id":85679237,
+            "venue_id":169538831
+        }
+    ],
+    "wof:id":169538831,
+    "wof:lastmodified":1449033098,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85904111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.969553,41.03476,28.969553,41.03476],
+  "geometry": {"coordinates":[28.969553,41.03476],"type":"Point"}
+}

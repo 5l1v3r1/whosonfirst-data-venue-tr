@@ -1,0 +1,56 @@
+{
+  "id": 169531327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.487312,38.723442,35.487312,38.723442",
+    "geom:latitude":38.723442,
+    "geom:longitude":35.487312,
+    "iso:country":"TR",
+    "sg:address":"Mete Cad 22/3",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 3421",
+    "sg:province":"80000",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72GTZvSEtui6FZYO7DCaFK_38.723442_35.487312@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"facd3df14be29ac5ed41314abb1e0b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169531327
+        }
+    ],
+    "wof:id":169531327,
+    "wof:lastmodified":1449033474,
+    "wof:name":"Banque Paribas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.487312,38.723442,35.487312,38.723442],
+  "geometry": {"coordinates":[35.487312,38.723442],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169548645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.148027,38.424622,27.148027,38.424622",
+    "geom:latitude":38.424622,
+    "geom:longitude":27.148027,
+    "iso:country":"TR",
+    "sg:address":"1258. Sok.no:34/b Kahramanlar",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 2393",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929637,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24mFXH7p1pDoVw6C5lwZdJ_38.424622_27.148027@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a3c4fc5e7e5fd102ed34f5395f44e744",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":169548645
+        }
+    ],
+    "wof:id":169548645,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Super Aku",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [27.148027,38.424622,27.148027,38.424622],
+  "geometry": {"coordinates":[27.148027,38.424622],"type":"Point"}
+}

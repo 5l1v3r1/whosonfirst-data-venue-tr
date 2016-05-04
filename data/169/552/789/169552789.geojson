@@ -1,0 +1,63 @@
+{
+  "id": 169552789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.901911,41.05043,28.901911,41.05043",
+    "geom:latitude":41.05043,
+    "geom:longitude":28.901911,
+    "iso:country":"TR",
+    "sg:address":"Kuru Gidacilar Sitesi D Blok No:55",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 615 8467",
+    "sg:postcode":"34040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904095,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73qm3kWyIXl836i8Gqsp52_41.050430_28.901911@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68e5908070145331e973da2db3236348",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":169552789
+        }
+    ],
+    "wof:id":169552789,
+    "wof:lastmodified":1449034053,
+    "wof:name":"A. G?venis Koll.sti.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.901911,41.05043,28.901911,41.05043],
+  "geometry": {"coordinates":[28.901911,41.05043],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169548851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981234,41.037243,28.981234,41.037243",
+    "geom:latitude":41.037243,
+    "geom:longitude":28.981234,
+    "iso:country":"TR",
+    "sg:address":"Tarlabasi Cd. No:46 Taksim",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 5134",
+    "sg:postcode":"34515",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906553,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h1cjFmwfCmoq9iT6vrD4o_41.037243_28.981234@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82d5d9af3d49e1274983cfffec341620",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906553,
+            "region_id":85679237,
+            "venue_id":169548851
+        }
+    ],
+    "wof:id":169548851,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Alko T?rk Tic. Adi Kom. Sti.",
+    "wof:parent_id":85906553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [28.981234,41.037243,28.981234,41.037243],
+  "geometry": {"coordinates":[28.981234,41.037243],"type":"Point"}
+}

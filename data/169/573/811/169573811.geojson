@@ -1,0 +1,63 @@
+{
+  "id": 169573811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.800488,41.05843,28.800488,41.05843",
+    "geom:latitude":41.05843,
+    "geom:longitude":28.800488,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari No51 Uzay Apr.k3 D11",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 1282",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930241,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Arzu6ACdm5wt6n2VIqmeH_41.058430_28.800488@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c6f67f011c43a36f71df0072b60b3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930241,
+            "region_id":85679237,
+            "venue_id":169573811
+        }
+    ],
+    "wof:id":169573811,
+    "wof:lastmodified":1449035113,
+    "wof:name":"Sehirli Deniz A.s.",
+    "wof:parent_id":85930241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.800488,41.05843,28.800488,41.05843],
+  "geometry": {"coordinates":[28.800488,41.05843],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169540987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.145491,38.430519,27.145491,38.430519",
+    "geom:latitude":38.430519,
+    "geom:longitude":27.145491,
+    "iso:country":"TR",
+    "sg:address":"Izmir",
+    "sg:city":"Bahcekapi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"23000",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929637,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tvoPntwjcIzkoY4lEOWzB_38.430519_27.145491@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b757c23ed45381242dffb660a8e131a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":169540987
+        }
+    ],
+    "wof:id":169540987,
+    "wof:lastmodified":1449033976,
+    "wof:name":"Th Ege Elektrik Tas",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.145491,38.430519,27.145491,38.430519],
+  "geometry": {"coordinates":[27.145491,38.430519],"type":"Point"}
+}

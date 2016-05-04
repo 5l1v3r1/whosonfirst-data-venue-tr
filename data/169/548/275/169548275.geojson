@@ -1,0 +1,66 @@
+{
+  "id": 169548275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.387913,37.059399,37.387913,37.059399",
+    "geom:latitude":37.059399,
+    "geom:longitude":37.387913,
+    "iso:country":"TR",
+    "sg:address":"Ismetpasa Mah. Inonu Cad. No:198/aa Sahinbey",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 231 3124",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934731,
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cy5uvnH4kmZjnhgcGung8_37.059399_37.387913@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5e32ee8d8b8f2b27e2e3748c6eab0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":169548275
+        }
+    ],
+    "wof:id":169548275,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Gecit Akaryakit Oto. Bil San.tic. Ltd.sti.",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [37.387913,37.059399,37.387913,37.059399],
+  "geometry": {"coordinates":[37.387913,37.059399],"type":"Point"}
+}

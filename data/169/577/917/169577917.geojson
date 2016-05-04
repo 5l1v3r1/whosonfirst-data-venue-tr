@@ -1,0 +1,66 @@
+{
+  "id": 169577917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.943941,41.011662,28.943941,41.011662",
+    "geom:latitude":41.011662,
+    "geom:longitude":28.943941,
+    "iso:country":"TR",
+    "sg:address":"Muratpasa Mah. Mir-i Alem Sok. No:9",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 0141",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906519,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zBezWwPwBxhue1BgKW6L_41.011662_28.943941@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77ed496240061ec910d5ce4b3df89a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906519,
+            "region_id":-1,
+            "venue_id":169577917
+        }
+    ],
+    "wof:id":169577917,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Ogemarin Denizcilik Turizm Ve Tic.ltd.sti.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.943941,41.011662,28.943941,41.011662],
+  "geometry": {"coordinates":[28.943941,41.011662],"type":"Point"}
+}

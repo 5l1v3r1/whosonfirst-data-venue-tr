@@ -1,0 +1,68 @@
+{
+  "id": 169547945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.950176,41.003723,28.950176,41.003723",
+    "geom:latitude":41.003723,
+    "geom:longitude":28.950176,
+    "iso:country":"TR",
+    "sg:address":"Namik Kemal Cd. No:103 Aksaray",
+    "sg:city":"Kocasinan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 530 0106",
+    "sg:postcode":"38110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xf9uMCVwOEKvMyEObni4S_41.003723_28.950176@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e66b542341fbd56cb3ba6c71fddea83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":169547945
+        }
+    ],
+    "wof:id":169547945,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Alfa Ak? San. Ltd. Sti.",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [28.950176,41.003723,28.950176,41.003723],
+  "geometry": {"coordinates":[28.950176,41.003723],"type":"Point"}
+}

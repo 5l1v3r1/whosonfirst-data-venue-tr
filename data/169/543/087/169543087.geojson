@@ -1,0 +1,66 @@
+{
+  "id": 169543087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.86087,39.939426,32.86087,39.939426",
+    "geom:latitude":39.939426,
+    "geom:longitude":32.86087,
+    "iso:country":"TR",
+    "sg:address":"Necatibey",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 230 6393",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929595,
+        85632393,
+        85679409,
+        85929573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sWd5I4vopoB6EoTdVbvFf_39.939426_32.860870@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5133efd708087cb012621a4f8200ea17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929595,
+            "region_id":85679409,
+            "venue_id":169543087
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":169543087
+        }
+    ],
+    "wof:id":169543087,
+    "wof:lastmodified":1449033335,
+    "wof:name":"T?kish Bank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.86087,39.939426,32.86087,39.939426],
+  "geometry": {"coordinates":[32.86087,39.939426],"type":"Point"}
+}

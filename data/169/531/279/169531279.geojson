@@ -1,0 +1,57 @@
+{
+  "id": 169531279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.089016,37.772766,29.089016,37.772766",
+    "geom:latitude":37.772766,
+    "geom:longitude":29.089016,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad 10",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 3646",
+    "sg:postcode":"63570",
+    "sg:province":"06100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AEMLAeyJFLJBGpGDtyyZv_37.772766_29.089016@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"835c342493c461bbdb75554620c18a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679277,
+            "venue_id":169531279
+        }
+    ],
+    "wof:id":169531279,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Banque Centrale De La, R?ublique De Turquie Sa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.089016,37.772766,29.089016,37.772766],
+  "geometry": {"coordinates":[29.089016,37.772766],"type":"Point"}
+}

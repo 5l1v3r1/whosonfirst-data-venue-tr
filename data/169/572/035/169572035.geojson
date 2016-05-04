@@ -1,0 +1,63 @@
+{
+  "id": 169572035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.079721,40.978828,29.079721,40.978828",
+    "geom:latitude":40.978828,
+    "geom:longitude":29.079721,
+    "iso:country":"TR",
+    "sg:address":"Sahrayicedit,in??cd. Camlik Park Sk.no.8",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 0133",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2boaUULOz6VZHexFeGYtwU_40.978828_29.079721@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d4b92319ea16f68b0d0d19cc555dbb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169572035
+        }
+    ],
+    "wof:id":169572035,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Barsay Denizcilik A.s. .",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.079721,40.978828,29.079721,40.978828],
+  "geometry": {"coordinates":[29.079721,40.978828],"type":"Point"}
+}

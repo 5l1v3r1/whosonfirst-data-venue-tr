@@ -1,0 +1,63 @@
+{
+  "id": 169552397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.950296,41.074993,28.950296,41.074993",
+    "geom:latitude":41.074993,
+    "geom:longitude":28.950296,
+    "iso:country":"TR",
+    "sg:address":"Maresal Fevzi Cakmak Cad. No:80 Alibeykoy",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 625 9835",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O9IxVUiXEMvEa9SgRiooQ_41.074993_28.950296@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"00dc9c5482977ee0a9f950e4c794fa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":169552397
+        }
+    ],
+    "wof:id":169552397,
+    "wof:lastmodified":1449034054,
+    "wof:name":"Yildiz Bisiklet San.tic. Ltd.sti.",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [28.950296,41.074993,28.950296,41.074993],
+  "geometry": {"coordinates":[28.950296,41.074993],"type":"Point"}
+}

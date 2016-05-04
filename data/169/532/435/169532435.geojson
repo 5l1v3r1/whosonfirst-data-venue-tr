@@ -1,0 +1,58 @@
+{
+  "id": 169532435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977283,41.037632,28.977283,41.037632",
+    "geom:latitude":41.037632,
+    "geom:longitude":28.977283,
+    "iso:country":"TR",
+    "sg:address":"Sehit Nevres Bulvari",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0046",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906547,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JXSXkPCLpCbEr4O4WcpFt_41.037632_28.977283@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc030e534338498e243f61717c5cedee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":169532435
+        }
+    ],
+    "wof:id":169532435,
+    "wof:lastmodified":1449033797,
+    "wof:name":"Development Bank, Of Turkey Inc",
+    "wof:parent_id":85906547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.977283,41.037632,28.977283,41.037632],
+  "geometry": {"coordinates":[28.977283,41.037632],"type":"Point"}
+}

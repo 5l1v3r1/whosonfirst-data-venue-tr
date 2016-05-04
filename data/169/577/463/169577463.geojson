@@ -1,0 +1,67 @@
+{
+  "id": 169577463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.337841,41.289719,36.337841,41.289719",
+    "geom:latitude":41.289719,
+    "geom:longitude":36.337841,
+    "iso:country":"TR",
+    "sg:address":"Kale Mah.ataturk Bulvari Cenesizler Is Hani No.584 Kat:7 D:710",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 362 435 6426",
+    "sg:postcode":"25900",
+    "sg:province":"Samsun",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911033,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uosW6eqAHoyOPL2Tuiing_41.289719_36.337841@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70a242429b34638e6fa9bb77536e8ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911033,
+            "neighbourhood_id":-1,
+            "region_id":85679357,
+            "venue_id":169577463
+        }
+    ],
+    "wof:id":169577463,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Marinar Denizcilik Ve Ticaret",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [36.337841,41.289719,36.337841,41.289719],
+  "geometry": {"coordinates":[36.337841,41.289719],"type":"Point"}
+}

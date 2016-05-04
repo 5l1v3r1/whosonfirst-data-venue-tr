@@ -1,0 +1,68 @@
+{
+  "id": 169548469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982849,41.082939,28.982849,41.082939",
+    "geom:latitude":41.082939,
+    "geom:longitude":28.982849,
+    "iso:country":"TR",
+    "sg:address":"Ayazma Yolu No:13 Kagithane",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 294 5163",
+    "sg:postcode":"31300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qu6Haz5PipNZiIdpgvd5Y_41.082939_28.982849@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"adeb191e94bec207917d9576bd80fb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169548469
+        }
+    ],
+    "wof:id":169548469,
+    "wof:lastmodified":1449034978,
+    "wof:name":"Kocabay Aku San.tic. Kool. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [28.982849,41.082939,28.982849,41.082939],
+  "geometry": {"coordinates":[28.982849,41.082939],"type":"Point"}
+}

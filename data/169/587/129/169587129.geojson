@@ -1,0 +1,64 @@
+{
+  "id": 169587129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.857182,39.915054,32.857182,39.915054",
+    "geom:latitude":39.915054,
+    "geom:longitude":32.857182,
+    "iso:country":"TR",
+    "sg:address":"Olgunlar Sk. No:20/24",
+    "sg:city":"Bakanliklar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 4961",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JhGvMnC5LIDC3UDLvFa4k_39.915054_32.857182@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"704c845eef012c50c2194f5cd7baed19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169587129
+        }
+    ],
+    "wof:id":169587129,
+    "wof:lastmodified":1449033823,
+    "wof:name":"Ete Enerji Tesisat End?stri San. Tic. Ltd.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.857182,39.915054,32.857182,39.915054],
+  "geometry": {"coordinates":[32.857182,39.915054],"type":"Point"}
+}

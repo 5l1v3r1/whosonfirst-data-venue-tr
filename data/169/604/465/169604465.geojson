@@ -1,0 +1,65 @@
+{
+  "id": 169604465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.868843,40.989952,28.868843,40.989952",
+    "geom:latitude":40.989952,
+    "geom:longitude":28.868843,
+    "iso:country":"TR",
+    "sg:address":"Incirli Cd. Mektep Sk. No:1 Bakirk?",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 7214",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xgJr9ErMWuQOaOiBX915s_40.989952_28.868843@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91c1ec9fb28c944f90295d5489841e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169604465
+        }
+    ],
+    "wof:id":169604465,
+    "wof:lastmodified":1449035570,
+    "wof:name":"Ekin Spor Saglik Turizm Ltd. Sti.",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.868843,40.989952,28.868843,40.989952],
+  "geometry": {"coordinates":[28.868843,40.989952],"type":"Point"}
+}

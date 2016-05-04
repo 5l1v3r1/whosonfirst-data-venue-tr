@@ -1,0 +1,64 @@
+{
+  "id": 169569083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.07902,40.980064,29.07902,40.980064",
+    "geom:latitude":40.980064,
+    "geom:longitude":29.07902,
+    "iso:country":"TR",
+    "sg:address":"Inonu Cad.no.45 D:4 Sahrayicedit",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 411 8300",
+    "sg:postcode":"05000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HJYBSFLeBUNB3jEkO0rVd_40.980064_29.079020@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"740729bac2b44ff59133b925e03c9c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169569083
+        }
+    ],
+    "wof:id":169569083,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Mvm Danismanlik Ve Guvenlik Sist.tic.a.s.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.07902,40.980064,29.07902,40.980064],
+  "geometry": {"coordinates":[29.07902,40.980064],"type":"Point"}
+}

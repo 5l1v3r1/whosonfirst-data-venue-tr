@@ -1,0 +1,63 @@
+{
+  "id": 169569249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.99684,41.07169,28.99684,41.07169",
+    "geom:latitude":41.07169,
+    "geom:longitude":28.99684,
+    "iso:country":"TR",
+    "sg:address":"Siritas Sok. No:5 Isik Apt. A-blok D:3 Mecidiyekoy",
+    "sg:city":"Bakirk?y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 4719",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UZ4eDCVG2RNgQp4IprxRM_41.071690_28.996840@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23021d3adc64760a3e42cf6790d399d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":169569249
+        }
+    ],
+    "wof:id":169569249,
+    "wof:lastmodified":1449035829,
+    "wof:name":"Okisan Guvenlik Sistemleri",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.99684,41.07169,28.99684,41.07169],
+  "geometry": {"coordinates":[28.99684,41.07169],"type":"Point"}
+}

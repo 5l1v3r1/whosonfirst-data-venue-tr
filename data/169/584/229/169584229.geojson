@@ -1,0 +1,65 @@
+{
+  "id": 169584229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.326416,41.305489,36.326416,41.305489",
+    "geom:latitude":41.305489,
+    "geom:longitude":36.326416,
+    "iso:country":"TR",
+    "sg:address":"Horosan Sok. No:28/2",
+    "sg:city":"Gazi Osman Pasa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 0136",
+    "sg:postcode":"35993",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911033,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nkU2OKUs3xxOn9pkj4Ktu_41.305489_36.326416@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bdb2eaf19cc8c4b16d60e870c62fce8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911033,
+            "neighbourhood_id":-1,
+            "region_id":85679357,
+            "venue_id":169584229
+        }
+    ],
+    "wof:id":169584229,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Aysu Aydiner Su Sanayi Ve Tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [36.326416,41.305489,36.326416,41.305489],
+  "geometry": {"coordinates":[36.326416,41.305489],"type":"Point"}
+}

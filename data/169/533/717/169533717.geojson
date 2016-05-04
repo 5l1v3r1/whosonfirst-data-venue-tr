@@ -1,0 +1,57 @@
+{
+  "id": 169533717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
+    "geom:latitude":39.770081,
+    "geom:longitude":30.517546,
+    "iso:country":"TR",
+    "sg:address":"Eskisehir",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Eskisehir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DAxAoCrzXKzOY78kIJFI1_39.770081_30.517546@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be96a25c1666ba8b5cc6a50005fb136e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169533717
+        }
+    ],
+    "wof:id":169533717,
+    "wof:lastmodified":1449032641,
+    "wof:name":"Eston Eskisehir Beton San Ve Tic As",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
+}

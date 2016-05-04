@@ -1,0 +1,63 @@
+{
+  "id": 169557079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.796736,40.98867,28.796736,40.98867",
+    "geom:latitude":40.98867,
+    "geom:longitude":28.796736,
+    "iso:country":"TR",
+    "sg:address":"Eski Londra Asfalti No. 65 Bah?lievler",
+    "sg:city":"Devlet Hastanesi Civari",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 1247",
+    "sg:postcode":"33050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E0cTylHOinG6hmVl375w4_40.988670_28.796736@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf28f32f66406b56690775b4f939bdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169557079
+        }
+    ],
+    "wof:id":169557079,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Mir Havuzculuk",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.796736,40.98867,28.796736,40.98867],
+  "geometry": {"coordinates":[28.796736,40.98867],"type":"Point"}
+}

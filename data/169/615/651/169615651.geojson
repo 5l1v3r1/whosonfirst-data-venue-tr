@@ -1,0 +1,62 @@
+{
+  "id": 169615651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.407223,38.081944,41.407223,38.081944",
+    "geom:latitude":38.081944,
+    "geom:longitude":41.407223,
+    "iso:country":"TR",
+    "sg:address":"Batman",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 488 213 8925",
+    "sg:postcode":"34660",
+    "sg:province":"Batman",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I6K6PMXBOWT5glO9FQCRx_38.081944_41.407223@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"36c45d445ceb796ad0ec25cd19abe864",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679483,
+            "venue_id":169615651
+        }
+    ],
+    "wof:id":169615651,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [41.407223,38.081944,41.407223,38.081944],
+  "geometry": {"coordinates":[41.407223,38.081944],"type":"Point"}
+}

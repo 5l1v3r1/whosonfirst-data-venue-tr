@@ -1,0 +1,57 @@
+{
+  "id": 169545025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.065725,40.196068,29.065725,40.196068",
+    "geom:latitude":40.196068,
+    "geom:longitude":29.065725,
+    "iso:country":"TR",
+    "sg:address":"Ulubatli Hasan",
+    "sg:city":"Garajlar",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 255 4014",
+    "sg:province":"16240",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DEP0138wm4nULFnPOT4QK_40.196068_29.065725@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0722f8b27b4a73e38d84fab930d83ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169545025
+        }
+    ],
+    "wof:id":169545025,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Halk, Bankasi As",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.065725,40.196068,29.065725,40.196068],
+  "geometry": {"coordinates":[29.065725,40.196068],"type":"Point"}
+}

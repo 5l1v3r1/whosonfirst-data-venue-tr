@@ -1,0 +1,66 @@
+{
+  "id": 169589707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984354,41.03167,28.984354,41.03167",
+    "geom:latitude":41.03167,
+    "geom:longitude":28.984354,
+    "iso:country":"TR",
+    "sg:address":"Havyar Sokak 56",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 0810",
+    "sg:postcode":"34433",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906607,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T6PsFmEy2GMtZYPHWXYoN_41.031670_28.984354@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3cc13d58bf123a8786a41dbb8549deb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906607,
+            "region_id":85679237,
+            "venue_id":169589707
+        }
+    ],
+    "wof:id":169589707,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Yorum Yapi Sanayi Ve Tic.ltd.sti.",
+    "wof:parent_id":85906607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.984354,41.03167,28.984354,41.03167],
+  "geometry": {"coordinates":[28.984354,41.03167],"type":"Point"}
+}

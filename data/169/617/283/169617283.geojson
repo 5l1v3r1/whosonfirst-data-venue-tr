@@ -1,0 +1,62 @@
+{
+  "id": 169617283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.47139,39.214722,39.47139,39.214722",
+    "geom:latitude":39.214722,
+    "geom:longitude":39.47139,
+    "iso:country":"TR",
+    "sg:address":"Tunceli",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 428 212 1039",
+    "sg:postcode":"34660",
+    "sg:province":"Tunceli",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SKrpA4WnFFveZq5Zaibga_39.214722_39.471390@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"59a59eb611fce12fd552e2f79d06585b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679497,
+            "venue_id":169617283
+        }
+    ],
+    "wof:id":169617283,
+    "wof:lastmodified":1449032800,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [39.47139,39.214722,39.47139,39.214722],
+  "geometry": {"coordinates":[39.47139,39.214722],"type":"Point"}
+}

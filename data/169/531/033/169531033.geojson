@@ -1,0 +1,58 @@
+{
+  "id": 169531033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.328541,36.987812,35.328541,36.987812",
+    "geom:latitude":36.987812,
+    "geom:longitude":35.328541,
+    "iso:country":"TR",
+    "sg:address":"Bey Mah",
+    "sg:city":"Gaziantep",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 220 7760",
+    "sg:postcode":"63570",
+    "sg:province":"27010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nGmLZvlT2jLlnV5lnodW_36.987812_35.328541@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c737ba84dc87201c2cab27aeb171f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169531033
+        }
+    ],
+    "wof:id":169531033,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Bank Kapital Tas",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.328541,36.987812,35.328541,36.987812],
+  "geometry": {"coordinates":[35.328541,36.987812],"type":"Point"}
+}

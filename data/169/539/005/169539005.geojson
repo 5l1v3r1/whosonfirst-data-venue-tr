@@ -1,0 +1,57 @@
+{
+  "id": 169539005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.006016,39.728168,37.006016,39.728168",
+    "geom:latitude":39.728168,
+    "geom:longitude":37.006016,
+    "iso:country":"TR",
+    "sg:address":"Keresteciler Sitesi, Fatih",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 6537",
+    "sg:province":"34010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912781,
+        85679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30kbMn4aZiJLCWEly5Jmh4_39.728168_37.006016@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77f630d82b2b983dd125bef0d194eb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912781,
+            "neighbourhood_id":-1,
+            "region_id":85679355,
+            "venue_id":169539005
+        }
+    ],
+    "wof:id":169539005,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [37.006016,39.728168,37.006016,39.728168],
+  "geometry": {"coordinates":[37.006016,39.728168],"type":"Point"}
+}

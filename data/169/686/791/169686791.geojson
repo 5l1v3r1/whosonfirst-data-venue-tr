@@ -1,0 +1,67 @@
+{
+  "id": 169686791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.90683,39.953804,32.90683,39.953804",
+    "geom:latitude":39.953804,
+    "geom:longitude":32.90683,
+    "iso:country":"TR",
+    "sg:address":"Demirhendek Cd. No:143/2 Siteler",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 9016",
+    "sg:postcode":"43050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hmTL46h9dDfz2vezSC7dP_39.953804_32.906830@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad739ec9c14cb0db707656a485848e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169686791
+        }
+    ],
+    "wof:id":169686791,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Muratsan Koltuk San. Tic.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [32.90683,39.953804,32.90683,39.953804],
+  "geometry": {"coordinates":[32.90683,39.953804],"type":"Point"}
+}

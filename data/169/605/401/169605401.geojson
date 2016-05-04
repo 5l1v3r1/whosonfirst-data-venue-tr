@@ -1,0 +1,64 @@
+{
+  "id": 169605401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.494499,37.870499,32.494499,37.870499",
+    "geom:latitude":37.870499,
+    "geom:longitude":32.494499,
+    "iso:country":"TR",
+    "sg:address":"Mahmuriye Mah. Feritpasa Cad. No: 197/b Istasyon Karsisi Meram",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 321 1265",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934705,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nesPMkuwIgAZeX6D4lXXp_37.870499_32.494499@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0064b8f47cede04d5695896296667fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":169605401
+        }
+    ],
+    "wof:id":169605401,
+    "wof:lastmodified":1449034292,
+    "wof:name":"Fitnes Spor",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [32.494499,37.870499,32.494499,37.870499],
+  "geometry": {"coordinates":[32.494499,37.870499],"type":"Point"}
+}

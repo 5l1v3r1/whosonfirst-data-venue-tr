@@ -1,0 +1,64 @@
+{
+  "id": 169558067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.738224,39.972301,32.738224,39.972301",
+    "geom:latitude":39.972301,
+    "geom:longitude":32.738224,
+    "iso:country":"TR",
+    "sg:address":"32.sokak No:61",
+    "sg:city":"Ostim",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 354 6097",
+    "sg:postcode":"06370",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "scaffolding",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RJD0r3OnygikeJ75CsCHD_39.972301_32.738224@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d46eef8e1a9e03a84fe05c10eda1c810",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169558067
+        }
+    ],
+    "wof:id":169558067,
+    "wof:lastmodified":1449033580,
+    "wof:name":"Eser Makina Ve Kalip San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding",
+        "form"
+    ]
+},
+  "bbox": [32.738224,39.972301,32.738224,39.972301],
+  "geometry": {"coordinates":[32.738224,39.972301],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169563893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.869875,40.997669,28.869875,40.997669",
+    "geom:latitude":40.997669,
+    "geom:longitude":28.869875,
+    "iso:country":"TR",
+    "sg:address":"Izzettin ?. Cd. No:61/d Bah?lievler",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 8520",
+    "sg:postcode":"81260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KKAZCU3nwOsFrRJmjNdnr_40.997669_28.869875@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"091a676d793000bb525e97edbb918da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169563893
+        }
+    ],
+    "wof:id":169563893,
+    "wof:lastmodified":1449032735,
+    "wof:name":"Marmara Yapi Eleman. San.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [28.869875,40.997669,28.869875,40.997669],
+  "geometry": {"coordinates":[28.869875,40.997669],"type":"Point"}
+}

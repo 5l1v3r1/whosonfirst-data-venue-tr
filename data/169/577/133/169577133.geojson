@@ -1,0 +1,67 @@
+{
+  "id": 169577133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.907339,39.641483,27.907339,39.641483",
+    "geom:latitude":39.641483,
+    "geom:longitude":27.907339,
+    "iso:country":"TR",
+    "sg:address":"Hukumet Meydani Eren Ish.k3",
+    "sg:city":"Aliaga",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 616 0526",
+    "sg:postcode":"35800",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912867,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XMapzm2LPGSSCfqrge178_39.641483_27.907339@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"835b89607189d1d9550a29c08146d447",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912867,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169577133
+        }
+    ],
+    "wof:id":169577133,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Karsan Denizcilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.907339,39.641483,27.907339,39.641483],
+  "geometry": {"coordinates":[27.907339,39.641483],"type":"Point"}
+}

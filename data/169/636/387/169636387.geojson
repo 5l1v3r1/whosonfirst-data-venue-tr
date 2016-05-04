@@ -1,0 +1,59 @@
+{
+  "id": 169636387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978596,41.034054,28.978596,41.034054",
+    "geom:latitude":41.034054,
+    "geom:longitude":28.978596,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad. No: 388 C Beyoglu",
+    "sg:city":"Mahmutbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 8244",
+    "sg:postcode":"46600",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rNEcceYa78nzLRWUXxzW4_41.034054_28.978596@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8f6eda34e098fb5e1685615d4c1c57f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":169636387
+        }
+    ],
+    "wof:id":169636387,
+    "wof:lastmodified":1449033988,
+    "wof:name":"Beyoglu Kitap Evi",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.978596,41.034054,28.978596,41.034054],
+  "geometry": {"coordinates":[28.978596,41.034054],"type":"Point"}
+}

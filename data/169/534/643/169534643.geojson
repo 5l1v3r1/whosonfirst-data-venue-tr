@@ -1,0 +1,58 @@
+{
+  "id": 169534643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.902164,39.957291,32.902164,39.957291",
+    "geom:latitude":39.957291,
+    "geom:longitude":32.902164,
+    "iso:country":"TR",
+    "sg:address":"Karacakaya Cad. 148",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 348 5842",
+    "sg:postcode":"07070",
+    "sg:province":"06160",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ce35BLqMTLkAGfyCihVBJ_39.957291_32.902164@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"427796b23a4587446668803e6c665b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169534643
+        }
+    ],
+    "wof:id":169534643,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.902164,39.957291,32.902164,39.957291],
+  "geometry": {"coordinates":[32.902164,39.957291],"type":"Point"}
+}

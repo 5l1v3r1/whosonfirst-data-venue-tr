@@ -1,0 +1,58 @@
+{
+  "id": 169533069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972754,41.031975,28.972754,41.031975",
+    "geom:latitude":41.031975,
+    "geom:longitude":28.972754,
+    "iso:country":"TR",
+    "sg:address":"Mesrutiyet Caddesi No 141, Tepebasi, 80050 Istanbul",
+    "sg:city":"Denizli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01130",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906541,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Ox9eYyntKFcbmWzK8Veo_41.031975_28.972754@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"988fa5e3c035158d2ada439aff4e25da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906541,
+            "region_id":85679237,
+            "venue_id":169533069
+        }
+    ],
+    "wof:id":169533069,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Esbank Eskisehir Bankasi Tas",
+    "wof:parent_id":85906541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.972754,41.031975,28.972754,41.031975],
+  "geometry": {"coordinates":[28.972754,41.031975],"type":"Point"}
+}

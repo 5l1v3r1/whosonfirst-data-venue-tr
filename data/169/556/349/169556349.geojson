@@ -1,0 +1,64 @@
+{
+  "id": 169556349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.70031,36.89257,30.70031,36.89257",
+    "geom:latitude":36.89257,
+    "geom:longitude":30.70031,
+    "iso:country":"TR",
+    "sg:address":"Yener Ulusoy Bul. No. 39 / A",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 7667",
+    "sg:postcode":"36100",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929847,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HomjedDQ8g96vS0y2wcAC_36.892570_30.700310@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"65e8bad18fdb4aaaf54b121c035f56d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929847,
+            "region_id":85679263,
+            "venue_id":169556349
+        }
+    ],
+    "wof:id":169556349,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Aldemo Ve Imaj A.s.",
+    "wof:parent_id":85929847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [30.70031,36.89257,30.70031,36.89257],
+  "geometry": {"coordinates":[30.70031,36.89257],"type":"Point"}
+}

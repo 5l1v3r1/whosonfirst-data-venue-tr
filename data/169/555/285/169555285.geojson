@@ -1,0 +1,63 @@
+{
+  "id": 169555285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.838711,41.022797,28.838711,41.022797",
+    "geom:latitude":41.022797,
+    "geom:longitude":28.838711,
+    "iso:country":"TR",
+    "sg:address":"Mahmutbey Cad. No.184-2",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212639100001",
+    "sg:postcode":"15040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OSo5KBJ8oP5jEpf8APVAr_41.022797_28.838711@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf6e7fef31e1019ccf274a061d57f370",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169555285
+        }
+    ],
+    "wof:id":169555285,
+    "wof:lastmodified":1449035493,
+    "wof:name":"Saadet Gida San. Ve Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.838711,41.022797,28.838711,41.022797],
+  "geometry": {"coordinates":[28.838711,41.022797],"type":"Point"}
+}

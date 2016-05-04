@@ -1,0 +1,66 @@
+{
+  "id": 169576871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.251961,38.451458,27.251961,38.451458",
+    "geom:latitude":38.451458,
+    "geom:longitude":27.251961,
+    "iso:country":"TR",
+    "sg:address":"1451 Sok.no:9",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 3700",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RPfZV1K4nQ2vblLNI1Yoy_38.451458_27.251961@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85d57e8c3e74023bf4f402f0e5d2f955",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169576871
+        }
+    ],
+    "wof:id":169576871,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Imi Denizcilik Hizmetleri A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.251961,38.451458,27.251961,38.451458],
+  "geometry": {"coordinates":[27.251961,38.451458],"type":"Point"}
+}

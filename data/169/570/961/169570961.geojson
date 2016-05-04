@@ -1,0 +1,65 @@
+{
+  "id": 169570961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.923021,41.040619,28.923021,41.040619",
+    "geom:latitude":41.040619,
+    "geom:longitude":28.923021,
+    "iso:country":"TR",
+    "sg:address":"Kisla Caddesi Cicoz Yolu No:20 Top?ular",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 7794",
+    "sg:postcode":"34055",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906463,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cqVd0ts2e3e9PwxAEQRw2_41.040619_28.923021@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"862c8f591050b173b8758540cf55ff46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":169570961
+        }
+    ],
+    "wof:id":169570961,
+    "wof:lastmodified":1449034648,
+    "wof:name":"Mades Metal San Ve Tic.ltd",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [28.923021,41.040619,28.923021,41.040619],
+  "geometry": {"coordinates":[28.923021,41.040619],"type":"Point"}
+}

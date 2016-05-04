@@ -1,0 +1,59 @@
+{
+  "id": 169540825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.87059,41.017696,28.87059,41.017696",
+    "geom:latitude":41.017696,
+    "geom:longitude":28.87059,
+    "iso:country":"TR",
+    "sg:address":"Abdi Ipekci Cad 74",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 501 6700",
+    "sg:postcode":"36100",
+    "sg:province":"34160",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y9rRzsQ7cazDX0HYYN6Ui_41.017696_28.870590@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1217f54f3c163414a12917e30c7a6f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169540825
+        }
+    ],
+    "wof:id":169540825,
+    "wof:lastmodified":1449033974,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.87059,41.017696,28.87059,41.017696],
+  "geometry": {"coordinates":[28.87059,41.017696],"type":"Point"}
+}

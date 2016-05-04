@@ -1,0 +1,64 @@
+{
+  "id": 169568269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097591,40.952122,29.097591,40.952122",
+    "geom:latitude":40.952122,
+    "geom:longitude":29.097591,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cd. No:19/11 Fener Yolu",
+    "sg:city":"Mecdiyek?",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 346 6258",
+    "sg:postcode":"81090",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dg1wl8XNZW0IrrP6NhG28_40.952122_29.097591@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"262e53997ffbbf4d62886d052df92967",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169568269
+        }
+    ],
+    "wof:id":169568269,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Guard G?venlik Sistem. A.s.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.097591,40.952122,29.097591,40.952122],
+  "geometry": {"coordinates":[29.097591,40.952122],"type":"Point"}
+}

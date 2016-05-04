@@ -1,0 +1,66 @@
+{
+  "id": 169608633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.836256,41.002075,28.836256,41.002075",
+    "geom:latitude":41.002075,
+    "geom:longitude":28.836256,
+    "iso:country":"TR",
+    "sg:address":"Zafer Mah. Dogru Sk. No: 6 Yenibosna",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 0663",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nbKLqBnB7qwQPi2Yrl8JI_41.002075_28.836256@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9f2f72b587cccaba0e08af09611770cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":169608633
+        }
+    ],
+    "wof:id":169608633,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Vakumsan Tic. Ltd. Sti.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.836256,41.002075,28.836256,41.002075],
+  "geometry": {"coordinates":[28.836256,41.002075],"type":"Point"}
+}

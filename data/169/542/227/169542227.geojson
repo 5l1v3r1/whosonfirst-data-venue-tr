@@ -1,0 +1,57 @@
+{
+  "id": 169542227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.860786,39.952091,32.860786,39.952091",
+    "geom:latitude":39.952091,
+    "geom:longitude":32.860786,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar C 22/e Altindag",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 4005",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904077,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tzmfJX5itVMnmWJT1VrGk_39.952091_32.860786@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ba52df972b50561df59912bb488451a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":169542227
+        }
+    ],
+    "wof:id":169542227,
+    "wof:lastmodified":1449035220,
+    "wof:name":"T?ank As",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.860786,39.952091,32.860786,39.952091],
+  "geometry": {"coordinates":[32.860786,39.952091],"type":"Point"}
+}

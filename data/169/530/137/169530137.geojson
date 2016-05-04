@@ -1,0 +1,57 @@
+{
+  "id": 169530137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"121.022514,14.487687,121.022514,14.487687",
+    "geom:latitude":14.487687,
+    "geom:longitude":121.022514,
+    "iso:country":"TR",
+    "sg:address":"Po Box 114",
+    "sg:city":"Bursa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 224 1637",
+    "sg:province":"16371",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902779,
+        85632509,
+        85676419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JVF3rXW1Wv0nJyJ0kKCkD_14.487687_121.022514@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7aacef89cf70745281635026e824831c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632509,
+            "locality_id":-1,
+            "neighbourhood_id":85902779,
+            "region_id":85676419,
+            "venue_id":169530137
+        }
+    ],
+    "wof:id":169530137,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":85902779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [121.022514,14.487687,121.022514,14.487687],
+  "geometry": {"coordinates":[121.022514,14.487687],"type":"Point"}
+}

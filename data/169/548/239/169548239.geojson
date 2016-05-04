@@ -1,0 +1,65 @@
+{
+  "id": 169548239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.265198,41.116718,37.265198,41.116718",
+    "geom:latitude":41.116718,
+    "geom:longitude":37.265198,
+    "iso:country":"TR",
+    "sg:address":"Niksar Cad.no:60/a Unye",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 452 323 6402",
+    "sg:province":"Ordu",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18j7S6l87YKG8wCIjnOJh2_41.116718_37.265198@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"831301f1ee82ed630d0a164a5f91488b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679349,
+            "venue_id":169548239
+        }
+    ],
+    "wof:id":169548239,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Europe Batteries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [37.265198,41.116718,37.265198,41.116718],
+  "geometry": {"coordinates":[37.265198,41.116718],"type":"Point"}
+}

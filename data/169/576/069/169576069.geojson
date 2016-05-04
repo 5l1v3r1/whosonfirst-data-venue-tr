@@ -1,0 +1,68 @@
+{
+  "id": 169576069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049982,40.995487,29.049982,40.995487",
+    "geom:latitude":40.995487,
+    "geom:longitude":29.049982,
+    "iso:country":"TR",
+    "sg:address":"Hatboyu 9/9 G?tepe",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 457 5821",
+    "sg:postcode":"34730",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4is1t4UanxyE1A4bXOcblE_40.995487_29.049982@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a1365d956a0e463195be3e6991b51da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169576069
+        }
+    ],
+    "wof:id":169576069,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Elit Logistics Services Transport Foreign Trade",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.049982,40.995487,29.049982,40.995487],
+  "geometry": {"coordinates":[29.049982,40.995487],"type":"Point"}
+}

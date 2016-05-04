@@ -1,0 +1,64 @@
+{
+  "id": 169572117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011425,41.061371,29.011425,41.061371",
+    "geom:latitude":41.061371,
+    "geom:longitude":29.011425,
+    "iso:country":"TR",
+    "sg:address":"Balmumcu Barbaros Bulvari No.48/2-3",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 2956",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0Gq30VudZq7yFKWRLDI8_41.061371_29.011425@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eea3c2471934c3b5cf57fbfee94088f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169572117
+        }
+    ],
+    "wof:id":169572117,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Bigtas Ihr. A.s. .",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.011425,41.061371,29.011425,41.061371],
+  "geometry": {"coordinates":[29.011425,41.061371],"type":"Point"}
+}

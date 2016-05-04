@@ -1,0 +1,64 @@
+{
+  "id": 169674593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.889065,41.004997,28.889065,41.004997",
+    "geom:latitude":41.004997,
+    "geom:longitude":28.889065,
+    "iso:country":"TR",
+    "sg:address":"Kinalitepe Sok. No:80/3",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 505 4343",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05kQ70QQ9fNQM32pm6x8l4_41.004997_28.889065@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b25cb4f195b6cff53c4263e5f3bebe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169674593
+        }
+    ],
+    "wof:id":169674593,
+    "wof:lastmodified":1449035137,
+    "wof:name":"Merhaba Pastaneleri",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.889065,41.004997,28.889065,41.004997],
+  "geometry": {"coordinates":[28.889065,41.004997],"type":"Point"}
+}

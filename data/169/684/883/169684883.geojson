@@ -1,0 +1,63 @@
+{
+  "id": 169684883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.646912,39.974678,32.646912,39.974678",
+    "geom:latitude":39.974678,
+    "geom:longitude":32.646912,
+    "iso:country":"TR",
+    "sg:address":"Eryaman 1.etap 35. Sok. No: 15",
+    "sg:city":"Dursunbey",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 280 3926",
+    "sg:postcode":"10800",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929955,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n1JUCJJYRztVUtsPpmH5L_39.974678_32.646912@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"778b1bbb2593d139af3694ea28ed2058",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929955,
+            "region_id":85679409,
+            "venue_id":169684883
+        }
+    ],
+    "wof:id":169684883,
+    "wof:lastmodified":1449033511,
+    "wof:name":"Iskender Atlihan",
+    "wof:parent_id":85929955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.646912,39.974678,32.646912,39.974678],
+  "geometry": {"coordinates":[32.646912,39.974678],"type":"Point"}
+}

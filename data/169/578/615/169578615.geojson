@@ -1,0 +1,66 @@
+{
+  "id": 169578615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.970184,40.350754,27.970184,40.350754",
+    "geom:latitude":40.350754,
+    "geom:longitude":27.970184,
+    "iso:country":"TR",
+    "sg:address":"Dere Mh.suhullah Cd.2/3",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 714 7666",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fY7UjCsB5HS9XR0hlCIvY_40.350754_27.970184@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0210b9e9391791279b1fbe582693dbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169578615
+        }
+    ],
+    "wof:id":169578615,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Sayar Denizcilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.970184,40.350754,27.970184,40.350754],
+  "geometry": {"coordinates":[27.970184,40.350754],"type":"Point"}
+}

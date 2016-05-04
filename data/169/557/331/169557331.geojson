@@ -1,0 +1,63 @@
+{
+  "id": 169557331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.99684,41.07169,28.99684,41.07169",
+    "geom:latitude":41.07169,
+    "geom:longitude":28.99684,
+    "iso:country":"TR",
+    "sg:address":"Eskiosmanli Sok. Osmanli Apt. No:15 Kat:2 D:27 Mecidiyekoy",
+    "sg:city":"Besy?evler",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 216 5193",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A7MjO4qm4WbiaC1J00AjV_41.071690_28.996840@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23021d3adc64760a3e42cf6790d399d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":169557331
+        }
+    ],
+    "wof:id":169557331,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Pozitif Aritma Ve Havuz Teknolojileri Insaat Taahhut Ve Sanayi Ltd.sti.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.99684,41.07169,28.99684,41.07169],
+  "geometry": {"coordinates":[28.99684,41.07169],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169549031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972513,41.025505,28.972513,41.025505",
+    "geom:latitude":41.025505,
+    "geom:longitude":28.972513,
+    "iso:country":"TR",
+    "sg:address":"Hirdavatcilar ?arsisi No:28 Karak?",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 5490",
+    "sg:postcode":"34420",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2kALqWcsaU730StUgtkr_41.025505_28.972513@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4851fcb68994c3fa9c7b2e88ce639ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169549031
+        }
+    ],
+    "wof:id":169549031,
+    "wof:lastmodified":1449033591,
+    "wof:name":"Bilya Hirdavat",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [28.972513,41.025505,28.972513,41.025505],
+  "geometry": {"coordinates":[28.972513,41.025505],"type":"Point"}
+}

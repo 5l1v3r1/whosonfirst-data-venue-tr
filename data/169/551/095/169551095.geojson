@@ -1,0 +1,66 @@
+{
+  "id": 169551095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.076782,40.959007,29.076782,40.959007",
+    "geom:latitude":40.959007,
+    "geom:longitude":29.076782,
+    "iso:country":"TR",
+    "sg:address":"Bostanci-maltepe Sahil Yolu No:106",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21651810000",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59hipewaMaIpWC6iX2I6Ii_40.959007_29.076782@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26de39e047de494bbbd370802a418f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169551095
+        }
+    ],
+    "wof:id":169551095,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Altin Yatak",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [29.076782,40.959007,29.076782,40.959007],
+  "geometry": {"coordinates":[29.076782,40.959007],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169552799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.025663,40.987583,29.025663,40.987583",
+    "geom:latitude":40.987583,
+    "geom:longitude":29.025663,
+    "iso:country":"TR",
+    "sg:address":"Serasker Cad. Sakiz Sok. No:40/4 D:11",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 4846",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        85632393,
+        101912675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OhSU7qHjraM6rWUBynKGf_40.987583_29.025663@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82baab3b2d5d3cf5db0221ca1ac12e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":-1,
+            "venue_id":169552799
+        }
+    ],
+    "wof:id":169552799,
+    "wof:lastmodified":1449034057,
+    "wof:name":"Aben International",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.025663,40.987583,29.025663,40.987583],
+  "geometry": {"coordinates":[29.025663,40.987583],"type":"Point"}
+}

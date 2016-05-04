@@ -1,0 +1,58 @@
+{
+  "id": 169543543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.161732,40.906406,29.161732,40.906406",
+    "geom:latitude":40.906406,
+    "geom:longitude":29.161732,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad 1",
+    "sg:city":"Afyon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 272 214 0628",
+    "sg:postcode":"03703",
+    "sg:province":"03200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930215,
+        85632393,
+        101912649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTUX0tNzqn299aKmJ8SfR_40.906406_29.161732@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8369532f66c882f94ef7a29b2c269fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930215,
+            "region_id":-1,
+            "venue_id":169543543
+        }
+    ],
+    "wof:id":169543543,
+    "wof:lastmodified":1449033334,
+    "wof:name":"T?kiye Emlak, Bankasi As",
+    "wof:parent_id":85930215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.161732,40.906406,29.161732,40.906406],
+  "geometry": {"coordinates":[29.161732,40.906406],"type":"Point"}
+}

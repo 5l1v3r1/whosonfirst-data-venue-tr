@@ -1,0 +1,57 @@
+{
+  "id": 169531295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.128956,38.418598,27.128956,38.418598",
+    "geom:latitude":38.418598,
+    "geom:longitude":27.128956,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 3",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 0505",
+    "sg:province":"35260",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSHL6tnBYzB6pwzKXTzMm_38.418598_27.128956@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79a5ffab5ece14b93d74f2ca6de2d245",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169531295
+        }
+    ],
+    "wof:id":169531295,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Banque Entrale De La, R?ublique De Turquie Sa",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.128956,38.418598,27.128956,38.418598],
+  "geometry": {"coordinates":[27.128956,38.418598],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169586997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.903818,41.051407,28.903818,41.051407",
+    "geom:latitude":41.051407,
+    "geom:longitude":28.903818,
+    "iso:country":"TR",
+    "sg:address":"T. Hasanpasa Cd. No:63",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 586 9649",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904095,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6brPGR5dEZtaEYsqxWFuKX_41.051407_28.903818@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"52d01fcc60d37cb7766524c68ca55b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":169586997
+        }
+    ],
+    "wof:id":169586997,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Epim Enerji Ltd. Sti.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.903818,41.051407,28.903818,41.051407],
+  "geometry": {"coordinates":[28.903818,41.051407],"type":"Point"}
+}

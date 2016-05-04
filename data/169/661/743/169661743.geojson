@@ -1,0 +1,65 @@
+{
+  "id": 169661743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.905138,41.048637,28.905138,41.048637",
+    "geom:latitude":41.048637,
+    "geom:longitude":28.905138,
+    "iso:country":"TR",
+    "sg:address":"A. Ipek? Cd. No:106 Bayrampasa",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 1858",
+    "sg:postcode":"20100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904095,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ElDzShayAUGpNd2OLo0QZ_41.048637_28.905138@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6e7e6b9246f9f66d9cd270ac12ad1790",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":169661743
+        }
+    ],
+    "wof:id":169661743,
+    "wof:lastmodified":1449035600,
+    "wof:name":"Gider ?elik San. Tic. A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.905138,41.048637,28.905138,41.048637],
+  "geometry": {"coordinates":[28.905138,41.048637],"type":"Point"}
+}

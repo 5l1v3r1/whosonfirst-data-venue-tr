@@ -1,0 +1,64 @@
+{
+  "id": 169571111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"31.7925,41.451401,31.7925,41.451401",
+    "geom:latitude":41.451401,
+    "geom:longitude":31.7925,
+    "iso:country":"TR",
+    "sg:address":"Ugur Mumcu Cad Meftun Is Merkezi Kat4/406",
+    "sg:city":"Kdz Eregli",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"67300",
+    "sg:province":"Zonguldak",
+    "sg:tags":[
+        "sheet",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911165,
+        85679419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FqqJQnbjkIfupmxK8kgaQ_41.451401_31.792500@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1ad02952d11dfde1dca13ab95611a9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911165,
+            "neighbourhood_id":-1,
+            "region_id":85679419,
+            "venue_id":169571111
+        }
+    ],
+    "wof:id":169571111,
+    "wof:lastmodified":1449034949,
+    "wof:name":"Vesile Metal San A.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "iron"
+    ]
+},
+  "bbox": [31.7925,41.451401,31.7925,41.451401],
+  "geometry": {"coordinates":[31.7925,41.451401],"type":"Point"}
+}

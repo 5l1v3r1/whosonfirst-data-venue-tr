@@ -1,0 +1,66 @@
+{
+  "id": 169588909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.98601,41.076023,28.98601,41.076023",
+    "geom:latitude":41.076023,
+    "geom:longitude":28.98601,
+    "iso:country":"TR",
+    "sg:address":"Tasocagi Sk. No:26/28",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 273 2110",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7adh3a4h4L6SlyLy6A3Nu8_41.076023_28.986010@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d2387f733dbbe5684e418b1bee29ec28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169588909
+        }
+    ],
+    "wof:id":169588909,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Prosen Profilo Enerji Sistem. San. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.98601,41.076023,28.98601,41.076023],
+  "geometry": {"coordinates":[28.98601,41.076023],"type":"Point"}
+}

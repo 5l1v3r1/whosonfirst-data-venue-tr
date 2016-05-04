@@ -1,0 +1,68 @@
+{
+  "id": 169577551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.101105,40.96925,29.101105,40.96925",
+    "geom:latitude":40.96925,
+    "geom:longitude":29.101105,
+    "iso:country":"TR",
+    "sg:address":"-kozyatagi",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 463 6394",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vz9fHqCfTLPVelajb6HBa_40.969250_29.101105@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70e309f03d70025d68e8f3ca90a56d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169577551
+        }
+    ],
+    "wof:id":169577551,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Me-ba Trade Center",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.101105,40.96925,29.101105,40.96925],
+  "geometry": {"coordinates":[29.101105,40.96925],"type":"Point"}
+}

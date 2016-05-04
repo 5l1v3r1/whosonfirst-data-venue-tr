@@ -1,0 +1,67 @@
+{
+  "id": 169532499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.998751,41.070263,28.998751,41.070263",
+    "geom:latitude":41.070263,
+    "geom:longitude":28.998751,
+    "iso:country":"TR",
+    "sg:address":"K3-4 42, Mecidiyek?, 80290 Istanbul",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63570",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        85632393,
+        101912685,
+        85679237,
+        85929407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VnukwPTFxXbSbDIsb2MI3_41.070263_28.998751@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1c1f72079202149bc27020a763ec5890",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":169532499
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169532499
+        }
+    ],
+    "wof:id":169532499,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Dogus Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.998751,41.070263,28.998751,41.070263],
+  "geometry": {"coordinates":[28.998751,41.070263],"type":"Point"}
+}

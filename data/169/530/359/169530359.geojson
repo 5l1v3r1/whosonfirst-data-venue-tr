@@ -1,0 +1,57 @@
+{
+  "id": 169530359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.027914,41.028084,29.027914,41.028084",
+    "geom:latitude":41.028084,
+    "geom:longitude":29.027914,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Caddesi 26, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929383,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_535juewEXp9XrUzZyGM8rW_41.028084_29.027914@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0c853fe3d6c6587f816eb515eceae32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929383,
+            "region_id":85679237,
+            "venue_id":169530359
+        }
+    ],
+    "wof:id":169530359,
+    "wof:lastmodified":1449034441,
+    "wof:name":"Alternatif Menkul Kiymetler As (invest A)",
+    "wof:parent_id":85929383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.027914,41.028084,29.027914,41.028084],
+  "geometry": {"coordinates":[29.027914,41.028084],"type":"Point"}
+}

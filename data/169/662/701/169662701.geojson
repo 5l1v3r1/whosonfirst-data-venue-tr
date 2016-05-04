@@ -1,0 +1,65 @@
+{
+  "id": 169662701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.013901,41.077305,29.013901,41.077305",
+    "geom:latitude":41.077305,
+    "geom:longitude":29.013901,
+    "iso:country":"TR",
+    "sg:address":"Buyukdere Cad. 64/4 D.10 Mecidiyekoy",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 8197",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69yCa3KWcSIqcXPX6Fl9KV_41.077305_29.013901@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33f4dc945eb5236a52f72112fba969a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169662701
+        }
+    ],
+    "wof:id":169662701,
+    "wof:lastmodified":1449034923,
+    "wof:name":"Jia Dis Ticaret Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.013901,41.077305,29.013901,41.077305],
+  "geometry": {"coordinates":[29.013901,41.077305],"type":"Point"}
+}

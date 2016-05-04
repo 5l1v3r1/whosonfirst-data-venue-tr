@@ -1,0 +1,58 @@
+{
+  "id": 169536229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.133661,38.428043,27.133661,38.428043",
+    "geom:latitude":38.428043,
+    "geom:longitude":27.133661,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 109/a",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 5333",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679201,
+        85632393,
+        85929653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PTsBWGCrWKIdqH4wZ3q2a_38.428043_27.133661@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23cf8daa611a20b4af46a26b4d18d41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929653,
+            "region_id":85679201,
+            "venue_id":169536229
+        }
+    ],
+    "wof:id":169536229,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85929653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.133661,38.428043,27.133661,38.428043],
+  "geometry": {"coordinates":[27.133661,38.428043],"type":"Point"}
+}

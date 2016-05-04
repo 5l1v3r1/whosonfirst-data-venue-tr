@@ -1,0 +1,67 @@
+{
+  "id": 169574515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.128763,41.014278,29.128763,41.014278",
+    "geom:latitude":41.014278,
+    "geom:longitude":29.128763,
+    "iso:country":"TR",
+    "sg:address":".barbaros Bul.manolya Apt.20/3",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 2423",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929833,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wjM5LYqM0mQLqjkqpOFtu_41.014278_29.128763@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f9d2ab21cc3bdb44b95958ce2fc96327",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":169574515
+        }
+    ],
+    "wof:id":169574515,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Ahu Trans Den.ltd.sti",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.128763,41.014278,29.128763,41.014278],
+  "geometry": {"coordinates":[29.128763,41.014278],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169595303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.89687,39.958321,32.89687,39.958321",
+    "geom:latitude":39.958321,
+    "geom:longitude":32.89687,
+    "iso:country":"TR",
+    "sg:address":"Kartalcik Sok. 12 Siteler",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 9102",
+    "sg:postcode":"63000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "sponge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CPUAnXemiK0wN6mSNCR4M_39.958321_32.896870@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c214377c6ad320454a455d4b0299cfca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169595303
+        }
+    ],
+    "wof:id":169595303,
+    "wof:lastmodified":1449035636,
+    "wof:name":"Yavuz Ticaret",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sponge"
+    ]
+},
+  "bbox": [32.89687,39.958321,32.89687,39.958321],
+  "geometry": {"coordinates":[32.89687,39.958321],"type":"Point"}
+}

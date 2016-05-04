@@ -1,0 +1,62 @@
+{
+  "id": 169572085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.958088,41.023212,28.958088,41.023212",
+    "geom:latitude":41.023212,
+    "geom:longitude":28.958088,
+    "iso:country":"TR",
+    "sg:address":"Salih Pasa Cd. No.27",
+    "sg:city":"G.osmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 578 1437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906525,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5addIJ0hHGjIitzcQy7elw_41.023212_28.958088@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"520d6272c1edfc1098e9a371cfe1ad5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906525,
+            "region_id":85679237,
+            "venue_id":169572085
+        }
+    ],
+    "wof:id":169572085,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Behcetler A.s. .",
+    "wof:parent_id":85906525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.958088,41.023212,28.958088,41.023212],
+  "geometry": {"coordinates":[28.958088,41.023212],"type":"Point"}
+}

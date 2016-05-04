@@ -1,0 +1,63 @@
+{
+  "id": 169552213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.496887,37.877502,32.496887,37.877502",
+    "geom:latitude":37.877502,
+    "geom:longitude":32.496887,
+    "iso:country":"TR",
+    "sg:address":"Sultanveled Cad. No: 16 Karatay",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 352 1508",
+    "sg:postcode":"81480",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904143,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kqh0vAaoiFQnXTF93yGyJ_37.877502_32.496887@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b52faf1fcc3db131ca4d590195b17e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904143,
+            "region_id":85679425,
+            "venue_id":169552213
+        }
+    ],
+    "wof:id":169552213,
+    "wof:lastmodified":1449034053,
+    "wof:name":"Kervan Ticaret",
+    "wof:parent_id":85904143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [32.496887,37.877502,32.496887,37.877502],
+  "geometry": {"coordinates":[32.496887,37.877502],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169605763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.922901,41.058025,28.922901,41.058025",
+    "geom:latitude":41.058025,
+    "geom:longitude":28.922901,
+    "iso:country":"TR",
+    "sg:address":"Ordu Cad. No: 115 G.o.pasa/istanbul",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 545 7836",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929387,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65IjQnd24KQEtyMgyAWqy8_41.058025_28.922901@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"395e5741492706cd33a2dff04fb0c56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":169605763
+        }
+    ],
+    "wof:id":169605763,
+    "wof:lastmodified":1449034291,
+    "wof:name":"Hedefkondisyon Tamir Bakim Servisi",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.922901,41.058025,28.922901,41.058025],
+  "geometry": {"coordinates":[28.922901,41.058025],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169613745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.672867,37.96854,34.672867,37.96854",
+    "geom:latitude":37.96854,
+    "geom:longitude":34.672867,
+    "iso:country":"TR",
+    "sg:address":"Nigde",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 388 311 7887",
+    "sg:postcode":"34660",
+    "sg:province":"Nigde",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911223,
+        85679453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L5rHK9G6sUl7alqWwqvXp_37.968540_34.672867@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"772118fcd1c8fe27bbf9b1a193448531",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911223,
+            "neighbourhood_id":-1,
+            "region_id":85679453,
+            "venue_id":169613745
+        }
+    ],
+    "wof:id":169613745,
+    "wof:lastmodified":1449034216,
+    "wof:name":"Bor Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [34.672867,37.96854,34.672867,37.96854],
+  "geometry": {"coordinates":[34.672867,37.96854],"type":"Point"}
+}

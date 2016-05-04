@@ -1,0 +1,59 @@
+{
+  "id": 169534513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.810009,39.902946,32.810009,39.902946",
+    "geom:latitude":39.902946,
+    "geom:longitude":32.810009,
+    "iso:country":"TR",
+    "sg:address":"In??cad 48/b",
+    "sg:city":"Malatya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 422 323 1324",
+    "sg:postcode":"44000",
+    "sg:province":"44100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929601,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IkYAl84HPdo9II91jXSQg_39.902946_32.810009@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"962593135a273d73edf021ef9d685a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929601,
+            "region_id":85679409,
+            "venue_id":169534513
+        }
+    ],
+    "wof:id":169534513,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.810009,39.902946,32.810009,39.902946],
+  "geometry": {"coordinates":[32.810009,39.902946],"type":"Point"}
+}

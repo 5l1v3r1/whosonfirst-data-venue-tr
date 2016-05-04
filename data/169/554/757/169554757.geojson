@@ -1,0 +1,63 @@
+{
+  "id": 169554757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.701807,41.033173,28.701807,41.033173",
+    "geom:latitude":41.033173,
+    "geom:longitude":28.701807,
+    "iso:country":"TR",
+    "sg:address":"Dogan Arasli Cad. 133.sok. No:4",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 620 3030",
+    "sg:postcode":"07800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EKzTVLMgAM03xBG9XQxpP_41.033173_28.701807@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6e4f66e25fcf32a55d1b0063dc8caae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169554757
+        }
+    ],
+    "wof:id":169554757,
+    "wof:lastmodified":1449033369,
+    "wof:name":"Melodi Cikolata Ve Gida San.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.701807,41.033173,28.701807,41.033173],
+  "geometry": {"coordinates":[28.701807,41.033173],"type":"Point"}
+}

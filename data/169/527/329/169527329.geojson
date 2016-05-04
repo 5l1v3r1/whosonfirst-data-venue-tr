@@ -1,0 +1,64 @@
+{
+  "id": 169527329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.843288,40.995258,28.843288,40.995258",
+    "geom:latitude":40.995258,
+    "geom:longitude":28.843288,
+    "iso:country":"TR",
+    "sg:address":"Merkez Mah.bakirkoy Cad. No:33 K:1-2-5",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2124624044729",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uqCwLquq6nw0Phr7eVbyc_40.995258_28.843288@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8eb403ec4b5d333d645ba790de5b756a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169527329
+        }
+    ],
+    "wof:id":169527329,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Murkem Tekstil San.tic.ltd.sti.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [28.843288,40.995258,28.843288,40.995258],
+  "geometry": {"coordinates":[28.843288,40.995258],"type":"Point"}
+}

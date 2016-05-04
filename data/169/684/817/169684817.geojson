@@ -1,0 +1,63 @@
+{
+  "id": 169684817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.331684,41.628128,32.331684,41.628128",
+    "geom:latitude":41.628128,
+    "geom:longitude":32.331684,
+    "iso:country":"TR",
+    "sg:address":"Eski Hastane Cad. No:22",
+    "sg:city":"Kepsut",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 378 228 7576",
+    "sg:postcode":"10660",
+    "sg:province":"Bartin",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911163,
+        85679543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ox0Ay8DGBDP3bYBTWl8Os_41.628128_32.331684@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ae15e14bc5e95a3bbb8692c1778c5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911163,
+            "neighbourhood_id":-1,
+            "region_id":85679543,
+            "venue_id":169684817
+        }
+    ],
+    "wof:id":169684817,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Saricam Veteriner Klinigi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [32.331684,41.628128,32.331684,41.628128],
+  "geometry": {"coordinates":[32.331684,41.628128],"type":"Point"}
+}

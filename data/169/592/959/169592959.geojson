@@ -1,0 +1,65 @@
+{
+  "id": 169592959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.956493,41.051662,28.956493,41.051662",
+    "geom:latitude":41.051662,
+    "geom:longitude":28.956493,
+    "iso:country":"TR",
+    "sg:address":"M.sevket Pasa Mah. Sivas Sok. No: 6 Okmeydani",
+    "sg:city":"Edremit",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 361 0393",
+    "sg:postcode":"04500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929477,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5byTnGNlD8dl1QYbVaLvJ7_41.051662_28.956493@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed921d8fe96125fa7a96f980eccc964a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":169592959
+        }
+    ],
+    "wof:id":169592959,
+    "wof:lastmodified":1449034585,
+    "wof:name":"Pehlivanoglu Gida Baharat Ve Katki Mad.",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [28.956493,41.051662,28.956493,41.051662],
+  "geometry": {"coordinates":[28.956493,41.051662],"type":"Point"}
+}

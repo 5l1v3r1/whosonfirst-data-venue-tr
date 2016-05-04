@@ -1,0 +1,57 @@
+{
+  "id": 169541819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.117508,38.456718,27.117508,38.456718",
+    "geom:latitude":38.456718,
+    "geom:longitude":27.117508,
+    "iso:country":"TR",
+    "sg:address":"Tuna Mah 1717 Sok.124/a",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 369 6901",
+    "sg:province":"35600",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QF69yBGgrKfubdSGmvD5S_38.456718_27.117508@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ba6a43f5e753a3638b332bb66a66eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169541819
+        }
+    ],
+    "wof:id":169541819,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.117508,38.456718,27.117508,38.456718],
+  "geometry": {"coordinates":[27.117508,38.456718],"type":"Point"}
+}

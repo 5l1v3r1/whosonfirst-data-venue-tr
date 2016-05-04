@@ -1,0 +1,57 @@
+{
+  "id": 169540103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.124418,40.202339,29.124418,40.202339",
+    "geom:latitude":40.202339,
+    "geom:longitude":29.124418,
+    "iso:country":"TR",
+    "sg:address":"Ulus Meydani 2",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 311 4463",
+    "sg:postcode":"63570",
+    "sg:province":"06030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MdLLR0OsjgsaYApnl9zup_40.202339_29.124418@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5035b1e68d9eeea23aa8ad14f968ede5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679231,
+            "venue_id":169540103
+        }
+    ],
+    "wof:id":169540103,
+    "wof:lastmodified":1449033976,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.124418,40.202339,29.124418,40.202339],
+  "geometry": {"coordinates":[29.124418,40.202339],"type":"Point"}
+}

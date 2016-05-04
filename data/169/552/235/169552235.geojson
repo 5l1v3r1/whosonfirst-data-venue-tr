@@ -1,0 +1,63 @@
+{
+  "id": 169552235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.212683,38.438992,27.212683,38.438992",
+    "geom:latitude":38.438992,
+    "geom:longitude":27.212683,
+    "iso:country":"TR",
+    "sg:address":"Karacaoglan Mah. 166.sok. No:27 Isikkent",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 472 1000",
+    "sg:postcode":"81480",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74AK41B8NTtxrqv5Z6hcBu_38.438992_27.212683@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c14675da7701fdbea79326ca8add0dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169552235
+        }
+    ],
+    "wof:id":169552235,
+    "wof:lastmodified":1449034053,
+    "wof:name":"Maraton Kondisyon Aletleri Ltd.sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [27.212683,38.438992,27.212683,38.438992],
+  "geometry": {"coordinates":[27.212683,38.438992],"type":"Point"}
+}

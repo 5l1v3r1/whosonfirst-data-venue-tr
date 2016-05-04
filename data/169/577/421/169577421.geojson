@@ -1,0 +1,68 @@
+{
+  "id": 169577421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.293318,40.817265,29.293318,40.817265",
+    "geom:latitude":40.817265,
+    "geom:longitude":29.293318,
+    "iso:country":"TR",
+    "sg:address":"Rauf Orbay Cd.yasemin Sk No6",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 395 2178",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BRWQY6ZnvEHIzwgjDdIGq_40.817265_29.293318@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb9937f6cad782ef202b6dd595c1f078",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930147,
+            "region_id":85679237,
+            "venue_id":169577421
+        }
+    ],
+    "wof:id":169577421,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Mariner Ltd.sti.",
+    "wof:parent_id":85930147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.293318,40.817265,29.293318,40.817265],
+  "geometry": {"coordinates":[29.293318,40.817265],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169661471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.82443,41.038116,28.82443,41.038116",
+    "geom:latitude":41.038116,
+    "geom:longitude":28.82443,
+    "iso:country":"TR",
+    "sg:address":"Kirazli Fevzi Cakmak Mah. N.kemal Cad. No:102",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 550 5214",
+    "sg:postcode":"20100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NwZXROZ4FActNoCYEVwAb_41.038116_28.824430@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e8c85048ca765883500466ed60453797",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169661471
+        }
+    ],
+    "wof:id":169661471,
+    "wof:lastmodified":1449035598,
+    "wof:name":"Ezas Celik Esya Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.82443,41.038116,28.82443,41.038116],
+  "geometry": {"coordinates":[28.82443,41.038116],"type":"Point"}
+}

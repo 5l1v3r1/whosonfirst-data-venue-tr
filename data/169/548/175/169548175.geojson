@@ -1,0 +1,66 @@
+{
+  "id": 169548175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.194141,40.906025,29.194141,40.906025",
+    "geom:latitude":40.906025,
+    "geom:longitude":29.194141,
+    "iso:country":"TR",
+    "sg:address":"Gazeteciler Sitesi Saglam Fikir Sok. No:3 Esentepe",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 212 2900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lzgBCQgSLjpHCapC0NDvv_40.906025_29.194141@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9494fb480bfd9ff6f2e8349bb35710af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169548175
+        }
+    ],
+    "wof:id":169548175,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Elkotek Elektrik Ve Elektronik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.194141,40.906025,29.194141,40.906025],
+  "geometry": {"coordinates":[29.194141,40.906025],"type":"Point"}
+}

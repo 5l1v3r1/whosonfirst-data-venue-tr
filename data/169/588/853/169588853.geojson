@@ -1,0 +1,65 @@
+{
+  "id": 169588853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.90983,41.003815,28.90983,41.003815",
+    "geom:latitude":41.003815,
+    "geom:longitude":28.90983,
+    "iso:country":"TR",
+    "sg:address":"Calislar Cad.genc Apt. No: 3",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 6448",
+    "sg:postcode":"01980",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906451,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iCTzwoQ3b8rP9isN2AD24_41.003815_28.909830@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e83b310685f6d9032fcd17b32956cad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":169588853
+        }
+    ],
+    "wof:id":169588853,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Prizma Gunes Enerji Sistemleri Ltd.sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.90983,41.003815,28.90983,41.003815],
+  "geometry": {"coordinates":[28.90983,41.003815],"type":"Point"}
+}

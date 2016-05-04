@@ -1,0 +1,58 @@
+{
+  "id": 169544621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.329739,36.985085,35.329739,36.985085",
+    "geom:latitude":36.985085,
+    "geom:longitude":35.329739,
+    "iso:country":"TR",
+    "sg:address":"Kizilay Cad 37",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 359 3452",
+    "sg:postcode":"63570",
+    "sg:province":"01010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mPzfQpYHwcgYl39snnKMd_36.985085_35.329739@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64386b2982bb74f4c7acc4ccf8183ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169544621
+        }
+    ],
+    "wof:id":169544621,
+    "wof:lastmodified":1449035965,
+    "wof:name":"T?kiye Halk Bankasi As",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.329739,36.985085,35.329739,36.985085],
+  "geometry": {"coordinates":[35.329739,36.985085],"type":"Point"}
+}

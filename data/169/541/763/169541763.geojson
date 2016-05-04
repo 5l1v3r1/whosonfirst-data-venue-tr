@@ -1,0 +1,58 @@
+{
+  "id": 169541763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984617,41.037842,28.984617,41.037842",
+    "geom:latitude":41.037842,
+    "geom:longitude":28.984617,
+    "iso:country":"TR",
+    "sg:address":"Tarlabasi Bulvari 10",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 9855",
+    "sg:province":"80090",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n09WIW1vayMTvPSBOzCwL_41.037842_28.984617@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d6cb0b8e6a66bde93c8f2b1d53c9cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169541763
+        }
+    ],
+    "wof:id":169541763,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.984617,41.037842,28.984617,41.037842],
+  "geometry": {"coordinates":[28.984617,41.037842],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169539179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.092739,40.954441,29.092739,40.954441",
+    "geom:latitude":40.954441,
+    "geom:longitude":29.092739,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad 5",
+    "sg:city":"Feneryolu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 3555",
+    "sg:postcode":"34724",
+    "sg:province":"81030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rRlj4FlOdF9Nwnd2Vbzme_40.954441_29.092739@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54b1eedfa8c05431c4e43328a2852c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169539179
+        }
+    ],
+    "wof:id":169539179,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Park Yatirim, Bankasi As",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.092739,40.954441,29.092739,40.954441],
+  "geometry": {"coordinates":[29.092739,40.954441],"type":"Point"}
+}

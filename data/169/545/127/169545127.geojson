@@ -1,0 +1,57 @@
+{
+  "id": 169545127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.131872,38.423943,27.131872,38.423943",
+    "geom:latitude":38.423943,
+    "geom:longitude":27.131872,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 64/a",
+    "sg:city":"Bakanliklar",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 484 3226",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nOlSpROPbwHPdfspbzwUt_38.423943_27.131872@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9dcadd4e30c8aeda76bd4b6492839b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169545127
+        }
+    ],
+    "wof:id":169545127,
+    "wof:lastmodified":1449033487,
+    "wof:name":"T?kiye Imar, Bankasi Tas",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.131872,38.423943,27.131872,38.423943],
+  "geometry": {"coordinates":[27.131872,38.423943],"type":"Point"}
+}

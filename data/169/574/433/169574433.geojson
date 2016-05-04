@@ -1,0 +1,67 @@
+{
+  "id": 169574433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.883301,39.6521,27.883301,39.6521",
+    "geom:latitude":39.6521,
+    "geom:longitude":27.883301,
+    "iso:country":"TR",
+    "sg:address":"M.akif Ersoy Cad. Kinay Bldg. P.o.box:12",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 718 3020",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912867,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bzft2fi0OV8zGeOq8oLyQ_39.652100_27.883301@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e864b810f2957902af1fa28821f5009e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912867,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169574433
+        }
+    ],
+    "wof:id":169574433,
+    "wof:lastmodified":1449032662,
+    "wof:name":"A.riza Kinay Vapur Acenteligi Ve Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.883301,39.6521,27.883301,39.6521],
+  "geometry": {"coordinates":[27.883301,39.6521],"type":"Point"}
+}

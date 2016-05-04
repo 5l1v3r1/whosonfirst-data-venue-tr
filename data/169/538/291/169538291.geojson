@@ -1,0 +1,56 @@
+{
+  "id": 169538291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.640209,41.047874,28.640209,41.047874",
+    "geom:latitude":41.047874,
+    "geom:longitude":28.640209,
+    "iso:country":"TR",
+    "sg:address":"Ziya Gkalp Cad 64, 06600 Kurtulus, Istanbul",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63570",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24Ir1VJ8CntOwlCRRpXYzV_41.047874_28.640209@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"97636faca87f3c4da0e2732568176952",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169538291
+        }
+    ],
+    "wof:id":169538291,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Ordu Yardimlasma Kurumu (oyak)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.640209,41.047874,28.640209,41.047874],
+  "geometry": {"coordinates":[28.640209,41.047874],"type":"Point"}
+}

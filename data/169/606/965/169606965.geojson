@@ -1,0 +1,64 @@
+{
+  "id": 169606965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.955439,41.027561,28.955439,41.027561",
+    "geom:latitude":41.027561,
+    "geom:longitude":28.955439,
+    "iso:country":"TR",
+    "sg:address":"Hamidiye Cd. No:36 K:1/18-19 Sirkeci",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 7799",
+    "sg:postcode":"81300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904099,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aJPJsuq6mORELBzVEV9L7_41.027561_28.955439@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6771d60ea49f0f9dd080b4a5aabfc316",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904099,
+            "region_id":85679237,
+            "venue_id":169606965
+        }
+    ],
+    "wof:id":169606965,
+    "wof:lastmodified":1449033202,
+    "wof:name":"Olimpiyatspor Imal.",
+    "wof:parent_id":85904099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.955439,41.027561,28.955439,41.027561],
+  "geometry": {"coordinates":[28.955439,41.027561],"type":"Point"}
+}

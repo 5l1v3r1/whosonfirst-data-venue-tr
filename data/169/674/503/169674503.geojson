@@ -1,0 +1,66 @@
+{
+  "id": 169674503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976234,41.026859,28.976234,41.026859",
+    "geom:latitude":41.026859,
+    "geom:longitude":28.976234,
+    "iso:country":"TR",
+    "sg:address":"Luleci Hendek Cad.dibek Sok.no:5",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 0068",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42CObhmMwiTbJcHZSG0f47_41.026859_28.976234@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d9d87bc423490c93421c37552acfd343",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169674503
+        }
+    ],
+    "wof:id":169674503,
+    "wof:lastmodified":1449035138,
+    "wof:name":"Lider Cikolata Ve Gida San.a.s.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.976234,41.026859,28.976234,41.026859],
+  "geometry": {"coordinates":[28.976234,41.026859],"type":"Point"}
+}

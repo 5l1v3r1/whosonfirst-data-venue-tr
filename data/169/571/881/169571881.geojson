@@ -1,0 +1,62 @@
+{
+  "id": 169571881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.007767,41.043118,29.007767,41.043118",
+    "geom:latitude":41.043118,
+    "geom:longitude":29.007767,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari No.36/5",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 2985",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906567,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sg5kFhcCKGdBIb51Ttgjg_41.043118_29.007767@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0163faf83209c399553e6577a1fe24e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906567,
+            "region_id":-1,
+            "venue_id":169571881
+        }
+    ],
+    "wof:id":169571881,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Armat?r Resit Kalkavan Denizcilik A.s..",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.007767,41.043118,29.007767,41.043118],
+  "geometry": {"coordinates":[29.007767,41.043118],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169577493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.072733,41.085743,29.072733,41.085743",
+    "geom:latitude":41.085743,
+    "geom:longitude":29.072733,
+    "iso:country":"TR",
+    "sg:address":"Mihrabat Cad.no:238 Marti Plaza",
+    "sg:city":"Kavacik",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 425 4646",
+    "sg:postcode":"15325",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929801,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yw5y6LhB58dNu2XDH43mv_41.085743_29.072733@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"41786221355e825368ef916a8130aafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85929801,
+            "region_id":85679237,
+            "venue_id":169577493
+        }
+    ],
+    "wof:id":169577493,
+    "wof:lastmodified":1449036065,
+    "wof:name":"Marti Konteyneri Hizmetleri",
+    "wof:parent_id":85929801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.072733,41.085743,29.072733,41.085743],
+  "geometry": {"coordinates":[29.072733,41.085743],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169589011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.10146,40.958313,29.10146,40.958313",
+    "geom:latitude":40.958313,
+    "geom:longitude":29.10146,
+    "iso:country":"TR",
+    "sg:address":"Mehmet Sevki Pasa Cad.no:17/b",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216445156163",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UrE0JOzzTw0FI1z99apZb_40.958313_29.101460@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"250c62f83bafb489fbf78fe60630674a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169589011
+        }
+    ],
+    "wof:id":169589011,
+    "wof:lastmodified":1449034448,
+    "wof:name":"Real Enerji Isi Sistemleri",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.10146,40.958313,29.10146,40.958313],
+  "geometry": {"coordinates":[29.10146,40.958313],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169541183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.063375,40.969551,29.063375,40.969551",
+    "geom:latitude":40.969551,
+    "geom:longitude":29.063375,
+    "iso:country":"TR",
+    "sg:address":"Bugdat Caddesi 287",
+    "sg:city":"Caddebostan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 386 5333",
+    "sg:postcode":"34728",
+    "sg:province":"81060",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yPIS5jsZHnhMMVphud8H_40.969551_29.063375@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2770eb3b0ebd29af5905fd3a17557c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169541183
+        }
+    ],
+    "wof:id":169541183,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.063375,40.969551,29.063375,40.969551],
+  "geometry": {"coordinates":[29.063375,40.969551],"type":"Point"}
+}

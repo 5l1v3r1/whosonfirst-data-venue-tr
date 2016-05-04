@@ -1,0 +1,58 @@
+{
+  "id": 169532315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.858719,39.898819,32.858719,39.898819",
+    "geom:latitude":39.898819,
+    "geom:longitude":32.858719,
+    "iso:country":"TR",
+    "sg:address":"Cinnah Cad 24/a",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 6182",
+    "sg:postcode":"07080",
+    "sg:province":"06690",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ab2uRggqkn9A9xkgvrwDa_39.898819_32.858719@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f95518204225393659efc6636e72fee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169532315
+        }
+    ],
+    "wof:id":169532315,
+    "wof:lastmodified":1449033797,
+    "wof:name":"Derbank As",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.858719,39.898819,32.858719,39.898819],
+  "geometry": {"coordinates":[32.858719,39.898819],"type":"Point"}
+}

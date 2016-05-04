@@ -1,0 +1,58 @@
+{
+  "id": 169535129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976631,41.024578,28.976631,41.024578",
+    "geom:latitude":41.024578,
+    "geom:longitude":28.976631,
+    "iso:country":"TR",
+    "sg:address":"Kemeralti Cad 46",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 12515694",
+    "sg:province":"80030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906577,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RVeEnLUR9xUD6dtP8Mgwj_41.024578_28.976631@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3c9859cf0fc1355bcafce3b4de430907",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906577,
+            "region_id":85679237,
+            "venue_id":169535129
+        }
+    ],
+    "wof:id":169535129,
+    "wof:lastmodified":1449033286,
+    "wof:name":"Faysal Islamic Bank Of Bahrain, Dmi Trust Representative Office",
+    "wof:parent_id":85906577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.976631,41.024578,28.976631,41.024578],
+  "geometry": {"coordinates":[28.976631,41.024578],"type":"Point"}
+}

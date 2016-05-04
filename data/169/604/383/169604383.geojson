@@ -1,0 +1,64 @@
+{
+  "id": 169604383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.908415,40.999653,28.908415,40.999653",
+    "geom:latitude":40.999653,
+    "geom:longitude":28.908415,
+    "iso:country":"TR",
+    "sg:address":"5 Telsiz Mh. 101. Sk. No:20 Zeytinburnu",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 4146",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906451,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wY2ewIX8KpPbP6vck9JCZ_40.999653_28.908415@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"78d951518f2a06b9e2b084fe9d1ac76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":169604383
+        }
+    ],
+    "wof:id":169604383,
+    "wof:lastmodified":1449035570,
+    "wof:name":"Dogan Safak Giyim San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.908415,40.999653,28.908415,40.999653],
+  "geometry": {"coordinates":[28.908415,40.999653],"type":"Point"}
+}

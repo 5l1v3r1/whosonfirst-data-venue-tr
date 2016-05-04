@@ -1,0 +1,62 @@
+{
+  "id": 169555643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.127392,40.922367,29.127392,40.922367",
+    "geom:latitude":40.922367,
+    "geom:longitude":29.127392,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cad. No:245",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 5140",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3teVqMaE4IHknJ8U21QRv9_40.922367_29.127392@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e57c9c19a24fdfa45cd55dfba3f72871",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169555643
+        }
+    ],
+    "wof:id":169555643,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Tunus Dis Ticaret Ve Gida San. Paz. A.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.127392,40.922367,29.127392,40.922367],
+  "geometry": {"coordinates":[29.127392,40.922367],"type":"Point"}
+}

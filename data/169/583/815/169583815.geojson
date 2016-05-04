@@ -1,0 +1,63 @@
+{
+  "id": 169583815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.130743,38.418278,27.130743,38.418278",
+    "geom:latitude":38.418278,
+    "geom:longitude":27.130743,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar Cad.no: 28/23",
+    "sg:city":"Kemeralti",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 2283",
+    "sg:postcode":"35250",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "slipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOll604IdCPCrKyVIlJhW_38.418278_27.130743@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b362a80858ca095f356f342fefc8e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169583815
+        }
+    ],
+    "wof:id":169583815,
+    "wof:lastmodified":1449035266,
+    "wof:name":"Nazan Kundura",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "slipper"
+    ]
+},
+  "bbox": [27.130743,38.418278,27.130743,38.418278],
+  "geometry": {"coordinates":[27.130743,38.418278],"type":"Point"}
+}

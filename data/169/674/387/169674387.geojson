@@ -1,0 +1,66 @@
+{
+  "id": 169674387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982779,41.060131,28.982779,41.060131",
+    "geom:latitude":41.060131,
+    "geom:longitude":28.982779,
+    "iso:country":"TR",
+    "sg:address":"Bomonti Firin Sok.no:40",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0040",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jGho1uoEeWL6jdqTO11ln_41.060131_28.982779@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de36a245678a97496060a46886a94d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":169674387
+        }
+    ],
+    "wof:id":169674387,
+    "wof:lastmodified":1449035140,
+    "wof:name":"Kent Gida Madd.san.a.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.982779,41.060131,28.982779,41.060131],
+  "geometry": {"coordinates":[28.982779,41.060131],"type":"Point"}
+}

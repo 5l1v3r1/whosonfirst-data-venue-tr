@@ -1,0 +1,64 @@
+{
+  "id": 169573249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972322,41.032806,28.972322,41.032806",
+    "geom:latitude":41.032806,
+    "geom:longitude":28.972322,
+    "iso:country":"TR",
+    "sg:address":"Kasimpasa",
+    "sg:city":"Kasimpasa",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 464 214 3392",
+    "sg:postcode":"34100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906541,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C3IqiE76zey3suPcN7rA4_41.032806_28.972322@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9bd0144867a03968ac523894dee2a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906541,
+            "region_id":85679237,
+            "venue_id":169573249
+        }
+    ],
+    "wof:id":169573249,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Karaaslan Denizcilik",
+    "wof:parent_id":85906541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.972322,41.032806,28.972322,41.032806],
+  "geometry": {"coordinates":[28.972322,41.032806],"type":"Point"}
+}

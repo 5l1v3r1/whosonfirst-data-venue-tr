@@ -1,0 +1,66 @@
+{
+  "id": 169660015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097462,40.978874,29.097462,40.978874",
+    "geom:latitude":40.978874,
+    "geom:longitude":29.097462,
+    "iso:country":"TR",
+    "sg:address":"Kayisdagi Cd. No:265 G?tepe",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 350 0570",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BDxVEzwo6MSGxmSCvn14q_40.978874_29.097462@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"074ffb8735ffa3bb4a57b8de0438a146",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169660015
+        }
+    ],
+    "wof:id":169660015,
+    "wof:lastmodified":1449035609,
+    "wof:name":"Dilaver Antep Para Kasalari",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.097462,40.978874,29.097462,40.978874],
+  "geometry": {"coordinates":[29.097462,40.978874],"type":"Point"}
+}

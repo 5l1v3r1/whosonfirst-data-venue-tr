@@ -1,0 +1,65 @@
+{
+  "id": 169585897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.373074,37.06089,37.373074,37.06089",
+    "geom:latitude":37.06089,
+    "geom:longitude":37.373074,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Mah. Kus? Ali Sok. No: 12/c",
+    "sg:city":"Nizip",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 517 4377",
+    "sg:postcode":"27700",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934731,
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Il3jkKFJoWeFsaeIPbBJS_37.060890_37.373074@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbb13b91604471d3a83e6003c2e4543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":169585897
+        }
+    ],
+    "wof:id":169585897,
+    "wof:lastmodified":1449034887,
+    "wof:name":"?zerol Ticaret",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [37.373074,37.06089,37.373074,37.06089],
+  "geometry": {"coordinates":[37.373074,37.06089],"type":"Point"}
+}

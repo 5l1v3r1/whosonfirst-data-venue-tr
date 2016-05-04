@@ -1,0 +1,62 @@
+{
+  "id": 169556891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.486397,37.811703,28.486397,37.811703",
+    "geom:latitude":37.811703,
+    "geom:longitude":28.486397,
+    "iso:country":"TR",
+    "sg:address":"Kitas Adalioglu Sitesi B Blok.no: 5/66 Kusadasi",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 612 5070",
+    "sg:postcode":"52750",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_272lyWnp9xsJlF0aIAH0yf_37.811703_28.486397@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e5845d886680a7e8f784bc23e212c2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169556891
+        }
+    ],
+    "wof:id":169556891,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Hidro Teknik Havuz Sauna Ve Jakuzi Su Aritma San. Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.486397,37.811703,28.486397,37.811703],
+  "geometry": {"coordinates":[28.486397,37.811703],"type":"Point"}
+}

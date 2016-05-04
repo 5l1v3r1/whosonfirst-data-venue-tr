@@ -1,0 +1,64 @@
+{
+  "id": 169674241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.542089,41.021683,28.542089,41.021683",
+    "geom:latitude":41.021683,
+    "geom:longitude":28.542089,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad. No :127",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212245137576",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kJaWbesugHWCboqTzr8JL_41.021683_28.542089@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"468ebc87b9e2c59fc902fccd1de120d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169674241
+        }
+    ],
+    "wof:id":169674241,
+    "wof:lastmodified":1449035140,
+    "wof:name":"Haci Bekir Lokum Ve Sekerli Mamuller Sanayii A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.542089,41.021683,28.542089,41.021683],
+  "geometry": {"coordinates":[28.542089,41.021683],"type":"Point"}
+}

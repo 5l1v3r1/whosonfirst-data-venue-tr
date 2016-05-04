@@ -1,0 +1,63 @@
+{
+  "id": 169566809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.8785,40.979431,28.8785,40.979431",
+    "geom:latitude":40.979431,
+    "geom:longitude":28.8785,
+    "iso:country":"TR",
+    "sg:address":"Istanbul Cad.mektep Arkasi Sok. No: 2/2 Bakirkoy",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 3256",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        85632393,
+        101912673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vz85DSRKlWWXSVqLBGc0u_40.979431_28.878500@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4da3851d66b74821363cdf7c9be2b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":-1,
+            "venue_id":169566809
+        }
+    ],
+    "wof:id":169566809,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Digital Cctv Elektronik Guvenlik Sistemleri",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.8785,40.979431,28.8785,40.979431],
+  "geometry": {"coordinates":[28.8785,40.979431],"type":"Point"}
+}

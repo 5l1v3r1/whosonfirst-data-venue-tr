@@ -1,0 +1,64 @@
+{
+  "id": 169572489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976267,41.033314,28.976267,41.033314",
+    "geom:latitude":41.033314,
+    "geom:longitude":28.976267,
+    "iso:country":"TR",
+    "sg:address":"M.mebusan Cd. Dursun Han No:89/6",
+    "sg:city":"Salipazari",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 5889",
+    "sg:postcode":"55530",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21Ctz4BwyEmC2ssAtZuEWk_41.033314_28.976267@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"55d4c42b8651a11bf5916d80a0abb71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":169572489
+        }
+    ],
+    "wof:id":169572489,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Devo Densan Van Ommeren Ltd.sti.",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.976267,41.033314,28.976267,41.033314],
+  "geometry": {"coordinates":[28.976267,41.033314],"type":"Point"}
+}

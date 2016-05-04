@@ -1,0 +1,63 @@
+{
+  "id": 169569469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.067545,41.023827,29.067545,41.023827",
+    "geom:latitude":41.023827,
+    "geom:longitude":29.067545,
+    "iso:country":"TR",
+    "sg:address":"Kisikli Alemdag Cad.no:48/4 Camlica-uskudar",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 523 1150",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SFX6IzfCPV5v64YlO31TI_41.023827_29.067545@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d09175a9ad116f6e7564de0dd5575efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":169569469
+        }
+    ],
+    "wof:id":169569469,
+    "wof:lastmodified":1449035832,
+    "wof:name":"Promet Kontrol Ve Enformasyon Teknolojileri A.s.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.067545,41.023827,29.067545,41.023827],
+  "geometry": {"coordinates":[29.067545,41.023827],"type":"Point"}
+}

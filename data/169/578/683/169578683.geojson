@@ -1,0 +1,66 @@
+{
+  "id": 169578683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.907995,39.668896,27.907995,39.668896",
+    "geom:latitude":39.668896,
+    "geom:longitude":27.907995,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cd. No:8/4",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 26671560064",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ndNGL1wq4RUkGZxLJQof9_39.668896_27.907995@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"887774a9c693025c6fed57b386fd66f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169578683
+        }
+    ],
+    "wof:id":169578683,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Serpen Ship Agency Co. Ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.907995,39.668896,27.907995,39.668896],
+  "geometry": {"coordinates":[27.907995,39.668896],"type":"Point"}
+}

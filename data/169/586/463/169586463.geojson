@@ -1,0 +1,64 @@
+{
+  "id": 169586463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.501514,37.895817,32.501514,37.895817",
+    "geom:latitude":37.895817,
+    "geom:longitude":32.501514,
+    "iso:country":"TR",
+    "sg:address":"Kasap Sok.kartal Apt.d:18",
+    "sg:city":"Esentepe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 0299",
+    "sg:postcode":"34394",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kwPR6PfmWvS5uqGnRB9Ii_37.895817_32.501514@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfa27665d870298a02c8ee5c08dd31a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679425,
+            "venue_id":169586463
+        }
+    ],
+    "wof:id":169586463,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Ares Enerji Sistemleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.501514,37.895817,32.501514,37.895817],
+  "geometry": {"coordinates":[32.501514,37.895817],"type":"Point"}
+}

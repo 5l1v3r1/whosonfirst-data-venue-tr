@@ -1,0 +1,58 @@
+{
+  "id": 169534223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.550821,37.765884,30.550821,37.765884",
+    "geom:latitude":37.765884,
+    "geom:longitude":30.550821,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Caddesi 13",
+    "sg:city":"Isparta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 246 218 7467",
+    "sg:postcode":"32000",
+    "sg:province":"32100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911259,
+        85679279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TgTkscJvPOe5ELSNyycZA_37.765884_30.550821@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a00305acdcd5c26618b73260efc29668",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911259,
+            "neighbourhood_id":-1,
+            "region_id":85679279,
+            "venue_id":169534223
+        }
+    ],
+    "wof:id":169534223,
+    "wof:lastmodified":1449033546,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.550821,37.765884,30.550821,37.765884],
+  "geometry": {"coordinates":[30.550821,37.765884],"type":"Point"}
+}

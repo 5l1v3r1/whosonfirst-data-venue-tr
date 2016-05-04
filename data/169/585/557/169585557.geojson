@@ -1,0 +1,65 @@
+{
+  "id": 169585557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "sg:address":"Kemalpasa Yolu ,ortakoy Mevkii No:22",
+    "sg:city":"Torbali",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 869 0469",
+    "sg:postcode":"35860",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZRDpBt7d8L5P5u0tp6vG_38.418697_27.129686@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e642dc93600900c2a83494e531c8288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169585557
+        }
+    ],
+    "wof:id":169585557,
+    "wof:lastmodified":1449034887,
+    "wof:name":"Sobe Gida Ltd.sti.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
+}

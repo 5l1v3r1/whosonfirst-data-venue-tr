@@ -1,0 +1,58 @@
+{
+  "id": 169533879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.851196,39.922935,32.851196,39.922935",
+    "geom:latitude":39.922935,
+    "geom:longitude":32.851196,
+    "iso:country":"TR",
+    "sg:address":"Atat?k Bul 103/a",
+    "sg:city":"Soma",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 2462",
+    "sg:postcode":"45500",
+    "sg:province":"Kizilay",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AJmqmfIB9lsQiJzAwOgtD_39.922935_32.851196@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d27f0eba6b6b099a08e542eb6d47ca6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169533879
+        }
+    ],
+    "wof:id":169533879,
+    "wof:lastmodified":1449032640,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.851196,39.922935,32.851196,39.922935],
+  "geometry": {"coordinates":[32.851196,39.922935],"type":"Point"}
+}

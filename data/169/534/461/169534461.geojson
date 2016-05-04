@@ -1,0 +1,58 @@
+{
+  "id": 169534461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.134125,38.424755,27.134125,38.424755",
+    "geom:latitude":38.424755,
+    "geom:longitude":27.134125,
+    "iso:country":"TR",
+    "sg:address":"Halit Ziya Bulvari",
+    "sg:city":"Izmit",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 1217",
+    "sg:postcode":"41000",
+    "sg:province":"Konak",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VgTzV6QmZQvNPJlNbhm9I_38.424755_27.134125@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1c6b58095bd4d29711663e3a191a3ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169534461
+        }
+    ],
+    "wof:id":169534461,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.134125,38.424755,27.134125,38.424755],
+  "geometry": {"coordinates":[27.134125,38.424755],"type":"Point"}
+}

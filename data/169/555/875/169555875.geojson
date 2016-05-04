@@ -1,0 +1,64 @@
+{
+  "id": 169555875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.115265,40.960735,29.115265,40.960735",
+    "geom:latitude":40.960735,
+    "geom:longitude":29.115265,
+    "iso:country":"TR",
+    "sg:address":"Atasehir Bulvari Ata 4 Plaza No:2",
+    "sg:city":"Atasehir",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2164561669456",
+    "sg:postcode":"81120",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61u6QuIKzwNa8RxpJI35Ij_40.960735_29.115265@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"284c2de0673fd0ffabb7ca0caf327cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169555875
+        }
+    ],
+    "wof:id":169555875,
+    "wof:lastmodified":1449035497,
+    "wof:name":"Laser Clinik Lazer Epilasyon Ve Estetik Merkezi",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [29.115265,40.960735,29.115265,40.960735],
+  "geometry": {"coordinates":[29.115265,40.960735],"type":"Point"}
+}

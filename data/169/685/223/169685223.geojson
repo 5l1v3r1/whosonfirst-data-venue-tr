@@ -1,0 +1,62 @@
+{
+  "id": 169685223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.810337,39.965591,32.810337,39.965591",
+    "geom:latitude":39.965591,
+    "geom:longitude":32.810337,
+    "iso:country":"TR",
+    "sg:address":"Taskin Sok.no: 39/a",
+    "sg:city":"Y.mahalle",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 343 5366",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qzOdjNWJ6hhhu8BeDZVc0_39.965591_32.810337@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf72a9ba12bde3bb50819de9b1a9feb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169685223
+        }
+    ],
+    "wof:id":169685223,
+    "wof:lastmodified":1449035883,
+    "wof:name":"Yasar Zengin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.810337,39.965591,32.810337,39.965591],
+  "geometry": {"coordinates":[32.810337,39.965591],"type":"Point"}
+}

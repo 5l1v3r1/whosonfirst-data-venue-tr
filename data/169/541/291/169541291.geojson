@@ -1,0 +1,59 @@
+{
+  "id": 169541291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.51841,39.77298,30.51841,39.77298",
+    "geom:latitude":39.77298,
+    "geom:longitude":30.51841,
+    "iso:country":"TR",
+    "sg:address":"Eski Kuyumcular Mah",
+    "sg:city":"Balikesir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 249 3761",
+    "sg:postcode":"10000",
+    "sg:province":"10100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TQXtQl15rfz3vhlvF724d_39.772980_30.518410@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"061eb6cc9cf07c89a128bfb07f0f13f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169541291
+        }
+    ],
+    "wof:id":169541291,
+    "wof:lastmodified":1449033042,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.51841,39.77298,30.51841,39.77298],
+  "geometry": {"coordinates":[30.51841,39.77298],"type":"Point"}
+}

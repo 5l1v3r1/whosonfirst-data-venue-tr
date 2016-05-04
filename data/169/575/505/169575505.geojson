@@ -1,0 +1,68 @@
+{
+  "id": 169575505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.973545,41.026165,28.973545,41.026165",
+    "geom:latitude":41.026165,
+    "geom:longitude":28.973545,
+    "iso:country":"TR",
+    "sg:address":"Luleci Hendek Cd.2/15",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 0600",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jDwOfqi8rfUuUibYooOUo_41.026165_28.973545@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a84b19425f06fcc8ffb89ba3505ad2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169575505
+        }
+    ],
+    "wof:id":169575505,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Buyuk Okyanus Denizcilik Ltd.sti.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.973545,41.026165,28.973545,41.026165],
+  "geometry": {"coordinates":[28.973545,41.026165],"type":"Point"}
+}

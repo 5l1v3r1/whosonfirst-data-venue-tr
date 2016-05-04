@@ -1,0 +1,68 @@
+{
+  "id": 169576123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
+    "geom:latitude":41.021832,
+    "geom:longitude":29.015442,
+    "iso:country":"TR",
+    "sg:address":"Icadiye Mah. Ayarcinasi Sok.no.1/4 Baglarbasi -",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 495 0801",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VhBZtovWMqRQL7Sd3fZpp_41.021832_29.015442@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"562a806d37c526d2ccacc4a96432a30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":169576123
+        }
+    ],
+    "wof:id":169576123,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Escort Shipping And Trading Maritime Agency",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
+}

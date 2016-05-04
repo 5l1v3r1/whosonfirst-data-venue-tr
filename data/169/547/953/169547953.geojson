@@ -1,0 +1,68 @@
+{
+  "id": 169547953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.10853,41.040333,29.10853,41.040333",
+    "geom:latitude":41.040333,
+    "geom:longitude":29.10853,
+    "iso:country":"TR",
+    "sg:address":"Des San. Sit. 101 Sok.a2 Blok No:6",
+    "sg:city":"Y.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 466 9547",
+    "sg:postcode":"34768",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DMfMwQ8z29qW1Vcx2CY7k_41.040333_29.108530@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a8c9be1d25a985725687a1e646277579",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":169547953
+        }
+    ],
+    "wof:id":169547953,
+    "wof:lastmodified":1449033008,
+    "wof:name":"Alga Muhendislik",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.10853,41.040333,29.10853,41.040333],
+  "geometry": {"coordinates":[29.10853,41.040333],"type":"Point"}
+}

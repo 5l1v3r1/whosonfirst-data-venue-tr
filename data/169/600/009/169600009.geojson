@@ -1,0 +1,64 @@
+{
+  "id": 169600009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.790483,40.97604,28.790483,40.97604",
+    "geom:latitude":40.97604,
+    "geom:longitude":28.790483,
+    "iso:country":"TR",
+    "sg:address":"Senlikoy Mah. Acar Sok. No: 10/1",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ski Slope",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 662 7200",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cwz1wiIG0oG2Btd2DcMfd_40.976040_28.790483@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15cc3bc251b7e5ebf1b55819cbe72931",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":169600009
+        }
+    ],
+    "wof:id":169600009,
+    "wof:lastmodified":1449032972,
+    "wof:name":"Palaz Hazelnuts & Products",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [28.790483,40.97604,28.790483,40.97604],
+  "geometry": {"coordinates":[28.790483,40.97604],"type":"Point"}
+}

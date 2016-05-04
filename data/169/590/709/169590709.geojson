@@ -1,0 +1,64 @@
+{
+  "id": 169590709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "sg:address":"Selamsiz Cad. Kapalicarsi No:30 D:275-299 Uskudar",
+    "sg:city":"Isikkent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 343 8127",
+    "sg:postcode":"32100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gyrUEHJy6Xg1dwqqbEUPD_41.012379_28.975925@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169590709
+        }
+    ],
+    "wof:id":169590709,
+    "wof:lastmodified":1449034652,
+    "wof:name":"Dogal Urunler Merkezi San. Ve Tic.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
+}

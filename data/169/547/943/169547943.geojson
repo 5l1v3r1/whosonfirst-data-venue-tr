@@ -1,0 +1,66 @@
+{
+  "id": 169547943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.528145,38.755348,35.528145,38.755348",
+    "geom:latitude":38.755348,
+    "geom:longitude":35.528145,
+    "iso:country":"TR",
+    "sg:address":"Sivas Yolu 8.km Kumarli Mevkii",
+    "sg:city":"Kocasinan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 241 0770",
+    "sg:postcode":"38110",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e0RlReFDYLbUiC278AoFl_38.755348_35.528145@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf9caad418c38d645938ce998dbfcaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169547943
+        }
+    ],
+    "wof:id":169547943,
+    "wof:lastmodified":1449033007,
+    "wof:name":"Ak?san A.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [35.528145,38.755348,35.528145,38.755348],
+  "geometry": {"coordinates":[35.528145,38.755348],"type":"Point"}
+}

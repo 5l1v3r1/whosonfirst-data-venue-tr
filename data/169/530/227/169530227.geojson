@@ -1,0 +1,57 @@
+{
+  "id": 169530227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.268398,36.984612,35.268398,36.984612",
+    "geom:latitude":36.984612,
+    "geom:longitude":35.268398,
+    "iso:country":"TR",
+    "sg:address":"Po Box 681",
+    "sg:city":"Hasircilar",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 6496",
+    "sg:postcode":"44210",
+    "sg:province":"34460",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RqZ82CvGuVPGPhq0Ubco8_36.984612_35.268398@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfe7a46f41902f7cd124512804165717",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679443,
+            "venue_id":169530227
+        }
+    ],
+    "wof:id":169530227,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.268398,36.984612,35.268398,36.984612],
+  "geometry": {"coordinates":[35.268398,36.984612],"type":"Point"}
+}

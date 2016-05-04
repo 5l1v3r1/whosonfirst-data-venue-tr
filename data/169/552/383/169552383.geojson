@@ -1,0 +1,62 @@
+{
+  "id": 169552383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.578699,41.022701,28.578699,41.022701",
+    "geom:latitude":41.022701,
+    "geom:longitude":28.578699,
+    "iso:country":"TR",
+    "sg:address":"Beylikduzu Sanayi Sitesi B.cekmece",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 875 1230",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929861,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ti20pfVoF2yzqILE9iDcQ_41.022701_28.578699@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"29dbdc3b59a7adfc5cf55e1e85ed7e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929861,
+            "region_id":85679237,
+            "venue_id":169552383
+        }
+    ],
+    "wof:id":169552383,
+    "wof:lastmodified":1449034053,
+    "wof:name":"Uzay Cocuk Arabalari A.s",
+    "wof:parent_id":85929861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [28.578699,41.022701,28.578699,41.022701],
+  "geometry": {"coordinates":[28.578699,41.022701],"type":"Point"}
+}

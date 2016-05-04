@@ -1,0 +1,62 @@
+{
+  "id": 169615605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"26.694958,39.347046,26.694958,39.347046",
+    "geom:latitude":39.347046,
+    "geom:longitude":26.694958,
+    "iso:country":"TR",
+    "sg:address":"Balikesir",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 245 9020",
+    "sg:postcode":"34660",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "102191569",
+        "85632393"
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xCb9ykVxAkDJQwn0Kjsta_39.347046_26.694958@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb9f782a290cba3358c72b68c5fe0c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191569",
+            "country_id":"85632393",
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":-1,
+            "venue_id":169615605
+        }
+    ],
+    "wof:id":169615605,
+    "wof:lastmodified":1449033732,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [26.694958,39.347046,26.694958,39.347046],
+  "geometry": {"coordinates":[26.694958,39.347046],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169610331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.398567,37.031796,27.398567,37.031796",
+    "geom:latitude":37.031796,
+    "geom:longitude":27.398567,
+    "iso:country":"TR",
+    "sg:address":"Gumbet Mah. Ethem Kaptan Sk. No:4 Gumbet -",
+    "sg:city":"Bodrum",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 313 0062",
+    "sg:postcode":"48400",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101913193,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73lw8BEoy5yLwPI1Aj7Zpb_37.031796_27.398567@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e2c56704e754fc53756930f915ac4057",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913193,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169610331
+        }
+    ],
+    "wof:id":169610331,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Melis Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [27.398567,37.031796,27.398567,37.031796],
+  "geometry": {"coordinates":[27.398567,37.031796],"type":"Point"}
+}

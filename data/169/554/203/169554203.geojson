@@ -1,0 +1,64 @@
+{
+  "id": 169554203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.0804,41.074444,29.0804,41.074444",
+    "geom:latitude":41.074444,
+    "geom:longitude":29.0804,
+    "iso:country":"TR",
+    "sg:address":"Yeni Mah. Yeni Cad. No:63",
+    "sg:city":"Kocarli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256214373976",
+    "sg:postcode":"09970",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZiEVv01fz5yfPDPRapYdT_41.074444_29.080400@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8888207279d4708318f78dceb9e34d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":169554203
+        }
+    ],
+    "wof:id":169554203,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Hasbas Gida",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.0804,41.074444,29.0804,41.074444],
+  "geometry": {"coordinates":[29.0804,41.074444],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 169542175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.490765,38.893833,40.490765,38.893833",
+    "geom:latitude":38.893833,
+    "geom:longitude":40.490765,
+    "iso:country":"TR",
+    "sg:address":"Vali Konagi Cad 7",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 225 0330",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fBYuVnYr7BzpZxK9hiMnp_38.893833_40.490765@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8cc4bec3633ca0487ede55d7f783fd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679391,
+            "venue_id":169542175
+        }
+    ],
+    "wof:id":169542175,
+    "wof:lastmodified":1449035222,
+    "wof:name":"Turkish Bank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [40.490765,38.893833,40.490765,38.893833],
+  "geometry": {"coordinates":[40.490765,38.893833],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169586605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.211756,38.463444,27.211756,38.463444",
+    "geom:latitude":38.463444,
+    "geom:longitude":27.211756,
+    "iso:country":"TR",
+    "sg:address":"303 Sk. No: 54 2. San. Sit.",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 5014",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53h4aNfoheRk7eWJsxIE8h_38.463444_27.211756@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6c1165579a73dec52d4abaee857d395",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169586605
+        }
+    ],
+    "wof:id":169586605,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Cihan Mak. Ve M?h. End. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.211756,38.463444,27.211756,38.463444],
+  "geometry": {"coordinates":[27.211756,38.463444],"type":"Point"}
+}

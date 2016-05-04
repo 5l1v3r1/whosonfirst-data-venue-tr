@@ -1,0 +1,63 @@
+{
+  "id": 169672025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.211756,38.463444,27.211756,38.463444",
+    "geom:latitude":38.463444,
+    "geom:longitude":27.211756,
+    "iso:country":"TR",
+    "sg:address":"Dirik Mah, Suvari Cad, Emin Dramali Apt No: 8/1",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 339 3787",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UEmeyjAF5sQ1EaNT67oPk_38.463444_27.211756@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6c1165579a73dec52d4abaee857d395",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169672025
+        }
+    ],
+    "wof:id":169672025,
+    "wof:lastmodified":1449032890,
+    "wof:name":"Control Union Turkiye",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [27.211756,38.463444,27.211756,38.463444],
+  "geometry": {"coordinates":[27.211756,38.463444],"type":"Point"}
+}

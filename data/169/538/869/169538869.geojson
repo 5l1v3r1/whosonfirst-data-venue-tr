@@ -1,0 +1,57 @@
+{
+  "id": 169538869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.131544,38.423534,27.131544,38.423534",
+    "geom:latitude":38.423534,
+    "geom:longitude":27.131544,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 45",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 4332",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M9X79gdnJgrR3UqFnEzTp_38.423534_27.131544@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ccbb5051ce320e1bd750a497392eed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169538869
+        }
+    ],
+    "wof:id":169538869,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.131544,38.423534,27.131544,38.423534],
+  "geometry": {"coordinates":[27.131544,38.423534],"type":"Point"}
+}

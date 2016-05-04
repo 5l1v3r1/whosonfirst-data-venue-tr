@@ -1,0 +1,62 @@
+{
+  "id": 169610511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.245792,40.656055,29.245792,40.656055",
+    "geom:latitude":40.656055,
+    "geom:longitude":29.245792,
+    "iso:country":"TR",
+    "sg:address":"Yalova Termal",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216835740013",
+    "sg:postcode":"24040",
+    "sg:province":"Yalova",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ICpewW5NVTj043zwf0hY_40.656055_29.245792@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c752b2b26906165a16b07032ae4612e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679529,
+            "venue_id":169610511
+        }
+    ],
+    "wof:id":169610511,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Turban Termal Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [29.245792,40.656055,29.245792,40.656055],
+  "geometry": {"coordinates":[29.245792,40.656055],"type":"Point"}
+}

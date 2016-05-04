@@ -1,0 +1,63 @@
+{
+  "id": 169666481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.256001,40.8787,29.256001,40.8787",
+    "geom:latitude":40.8787,
+    "geom:longitude":29.256001,
+    "iso:country":"TR",
+    "sg:address":"Pendik Tersane Yani Derici. Enstit??bitis. Pendik",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 396 2216",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930121,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l8o3HXwXJ4z06vSbVE8Nb_40.878700_29.256001@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"58189d649c7b732376423f0bd49facb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930121,
+            "region_id":-1,
+            "venue_id":169666481
+        }
+    ],
+    "wof:id":169666481,
+    "wof:lastmodified":1449033899,
+    "wof:name":"S?perteknik Otomatik Kont. Eleman. Tic. San. A.s.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.256001,40.8787,29.256001,40.8787],
+  "geometry": {"coordinates":[29.256001,40.8787],"type":"Point"}
+}

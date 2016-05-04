@@ -1,0 +1,59 @@
+{
+  "id": 169532309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.973923,41.054859,28.973923,41.054859",
+    "geom:latitude":41.054859,
+    "geom:longitude":28.973923,
+    "iso:country":"TR",
+    "sg:address":"Abide-i H?riyet Cad 125",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 9494",
+    "sg:postcode":"65710",
+    "sg:province":"80220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Ikj67LoFHIpuzqPRaBSp_41.054859_28.973923@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a5074b13b06072b9f7e432a40ca9d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169532309
+        }
+    ],
+    "wof:id":169532309,
+    "wof:lastmodified":1449033794,
+    "wof:name":"Derbank As",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.973923,41.054859,28.973923,41.054859],
+  "geometry": {"coordinates":[28.973923,41.054859],"type":"Point"}
+}

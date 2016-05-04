@@ -1,0 +1,60 @@
+{
+  "id": 169538691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.015966,41.108456,29.015966,41.108456",
+    "geom:latitude":41.108456,
+    "geom:longitude":29.015966,
+    "iso:country":"TR",
+    "sg:address":"Ayazaga Koy Yolu No 6, Maslak, 80620 Istanbul",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 335 1000",
+    "sg:postcode":"41400",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.oyakbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cEwGlkcYwvIYnyxWTWGHx_41.108456_29.015966@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a79113867b2f55c4818677eedd213e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":169538691
+        }
+    ],
+    "wof:id":169538691,
+    "wof:lastmodified":1449033097,
+    "wof:name":"Oyak Bank As",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.015966,41.108456,29.015966,41.108456],
+  "geometry": {"coordinates":[29.015966,41.108456],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169586941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.992361,41.080124,28.992361,41.080124",
+    "geom:latitude":41.080124,
+    "geom:longitude":28.992361,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cd. No:26/18",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 267 2693",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w3LviSCAdwtW8Jqz2hrd5_41.080124_28.992361@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1555c69ec9a03580d25674bd8f70f842",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169586941
+        }
+    ],
+    "wof:id":169586941,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Emsan Enerji Madde. San. Tic. Ltd.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.992361,41.080124,28.992361,41.080124],
+  "geometry": {"coordinates":[28.992361,41.080124],"type":"Point"}
+}

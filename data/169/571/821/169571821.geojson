@@ -1,0 +1,64 @@
+{
+  "id": 169571821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.090652,41.079674,29.090652,41.079674",
+    "geom:latitude":41.079674,
+    "geom:longitude":29.090652,
+    "iso:country":"TR",
+    "sg:address":"K?l?e Yolu No.53",
+    "sg:city":"Beylerbeyi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 318 4775",
+    "sg:postcode":"20300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fCrSnu7QFnfU7RxWkx67i_41.079674_29.090652@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"437aa3154946224d199631f1ab614555",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":169571821
+        }
+    ],
+    "wof:id":169571821,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Amas Denizcilik Ve Tic.a.s. .",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.090652,41.079674,29.090652,41.079674],
+  "geometry": {"coordinates":[29.090652,41.079674],"type":"Point"}
+}

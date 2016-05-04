@@ -1,0 +1,64 @@
+{
+  "id": 169566595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.869968,40.995575,28.869968,40.995575",
+    "geom:latitude":40.995575,
+    "geom:longitude":28.869968,
+    "iso:country":"TR",
+    "sg:address":"Incirli Cad. 104/3-8 Bakirkoy",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 2222",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0esN0rLWBET5JEVbmaarmN_40.995575_28.869968@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"208be837123f0a4e45c9f72f6a8945b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169566595
+        }
+    ],
+    "wof:id":169566595,
+    "wof:lastmodified":1449032754,
+    "wof:name":"Csu Elit Guvenlik Sistemleri",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.869968,40.995575,28.869968,40.995575],
+  "geometry": {"coordinates":[28.869968,40.995575],"type":"Point"}
+}

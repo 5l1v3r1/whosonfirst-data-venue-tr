@@ -1,0 +1,64 @@
+{
+  "id": 169685635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.027433,40.994041,29.027433,40.994041",
+    "geom:latitude":40.994041,
+    "geom:longitude":29.027433,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cad. Recaizade Sok. 18/b",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 3373",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929485,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_018knKbNVCDrQDPXxdJlc9_40.994041_29.027433@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0155040f30e42445dc25a4bb9af47496",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929485,
+            "region_id":85679237,
+            "venue_id":169685635
+        }
+    ],
+    "wof:id":169685635,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Ena Textil",
+    "wof:parent_id":85929485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.027433,40.994041,29.027433,40.994041],
+  "geometry": {"coordinates":[29.027433,40.994041],"type":"Point"}
+}

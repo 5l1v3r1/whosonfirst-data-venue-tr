@@ -1,0 +1,63 @@
+{
+  "id": 169684529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.086767,37.759972,29.086767,37.759972",
+    "geom:latitude":37.759972,
+    "geom:longitude":29.086767,
+    "iso:country":"TR",
+    "sg:address":"Mehmetcik Mah. 2578.sok.no:3/3",
+    "sg:city":"Kucukyali",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 212 4392",
+    "sg:postcode":"35280",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934755,
+        85632393,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y4vdO2MazGub5d6ssGhk0_37.759972_29.086767@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb5e55843f5138ae43f9889116aff69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934755,
+            "region_id":85679277,
+            "venue_id":169684529
+        }
+    ],
+    "wof:id":169684529,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Alke- Osman Kadikoy",
+    "wof:parent_id":85934755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [29.086767,37.759972,29.086767,37.759972],
+  "geometry": {"coordinates":[29.086767,37.759972],"type":"Point"}
+}

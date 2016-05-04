@@ -1,0 +1,59 @@
+{
+  "id": 169648735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005878,41.047848,29.005878,41.047848",
+    "geom:latitude":41.047848,
+    "geom:longitude":29.005878,
+    "iso:country":"TR",
+    "sg:address":"Yildiz Cd. No:12 Besiktas",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 1279",
+    "sg:postcode":"34660",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jVcIVWnG7ew85rJNap2WE_41.047848_29.005878@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc89bf99ba0ecd46610559eebdaa3b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169648735
+        }
+    ],
+    "wof:id":169648735,
+    "wof:lastmodified":1449033587,
+    "wof:name":"Saka Kitap Kirtasiye",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.005878,41.047848,29.005878,41.047848],
+  "geometry": {"coordinates":[29.005878,41.047848],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169567863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.09609,40.988636,29.09609,40.988636",
+    "geom:latitude":40.988636,
+    "geom:longitude":29.09609,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Mah.evren Cad. Sen Sok. No:16 Yenisahra-kadikoy",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 472 3400",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RmkZc0daqAIUKS8lGI4wh_40.988636_29.096090@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f140896c1836069f5dfcb11d6bd476d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":169567863
+        }
+    ],
+    "wof:id":169567863,
+    "wof:lastmodified":1449035995,
+    "wof:name":"Erve Teknolojik Yapi Sistemleri San.tic.a.s.",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.09609,40.988636,29.09609,40.988636],
+  "geometry": {"coordinates":[29.09609,40.988636],"type":"Point"}
+}

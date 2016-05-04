@@ -1,0 +1,63 @@
+{
+  "id": 169554963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.090286,38.481289,27.090286,38.481289",
+    "geom:latitude":38.481289,
+    "geom:longitude":27.090286,
+    "iso:country":"TR",
+    "sg:address":"Anadolu Cad.no:604",
+    "sg:city":"Semikler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 365 0402",
+    "sg:postcode":"20085",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912935,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y2UduvYwPmteHUDb4C07k_38.481289_27.090286@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1f14f0c591a70d4764845cbba582c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912935,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169554963
+        }
+    ],
+    "wof:id":169554963,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Odul Cikolata San.tic.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.090286,38.481289,27.090286,38.481289],
+  "geometry": {"coordinates":[27.090286,38.481289],"type":"Point"}
+}

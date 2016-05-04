@@ -1,0 +1,64 @@
+{
+  "id": 169586201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.323715,36.984169,35.323715,36.984169",
+    "geom:latitude":36.984169,
+    "geom:longitude":35.323715,
+    "iso:country":"TR",
+    "sg:address":"Obalar Cad.no:110",
+    "sg:city":"K??yali",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 365 2882",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zFe7bRfD4eC66updZx7jL_36.984169_35.323715@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0eb6760ff372f09d840f1ff38c92cdef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169586201
+        }
+    ],
+    "wof:id":169586201,
+    "wof:lastmodified":1449035575,
+    "wof:name":"Aysu Gunes Enerjisi Kollektorleri Ltd.sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [35.323715,36.984169,35.323715,36.984169],
+  "geometry": {"coordinates":[35.323715,36.984169],"type":"Point"}
+}

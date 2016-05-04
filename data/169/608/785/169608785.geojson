@@ -1,0 +1,65 @@
+{
+  "id": 169608785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.967491,41.035507,28.967491,41.035507",
+    "geom:latitude":41.035507,
+    "geom:longitude":28.967491,
+    "iso:country":"TR",
+    "sg:address":"Yeni Yol Sk. No:16 Kasimpasa",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 3343",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904111,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s9Nq7DVOwzBV8u0KdnYe0_41.035507_28.967491@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"02173a08a75c4df190bd83e0d5c39213",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904111,
+            "region_id":85679237,
+            "venue_id":169608785
+        }
+    ],
+    "wof:id":169608785,
+    "wof:lastmodified":1449034084,
+    "wof:name":"Yesa Spor Malz.",
+    "wof:parent_id":85904111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.967491,41.035507,28.967491,41.035507],
+  "geometry": {"coordinates":[28.967491,41.035507],"type":"Point"}
+}

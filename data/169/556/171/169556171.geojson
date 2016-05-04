@@ -1,0 +1,66 @@
+{
+  "id": 169556171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.995707,41.069057,28.995707,41.069057",
+    "geom:latitude":41.069057,
+    "geom:longitude":28.995707,
+    "iso:country":"TR",
+    "sg:address":"Eskiosmanli Sok. No:29-2",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 356 6595",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ddpNwJCIbsWR87hYQl5KP_41.069057_28.995707@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b8302d0547f98a2694256def896f114",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":169556171
+        }
+    ],
+    "wof:id":169556171,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Fidan Elektronik Bilgisayar San.dis.tic.ltd.sti.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [28.995707,41.069057,28.995707,41.069057],
+  "geometry": {"coordinates":[28.995707,41.069057],"type":"Point"}
+}

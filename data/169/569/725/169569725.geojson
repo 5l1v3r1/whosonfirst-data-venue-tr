@@ -1,0 +1,63 @@
+{
+  "id": 169569725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.500156,37.873264,32.500156,37.873264",
+    "geom:latitude":37.873264,
+    "geom:longitude":32.500156,
+    "iso:country":"TR",
+    "sg:address":"Serafettin Cad.g???sk. No:12/a",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 350 9019",
+    "sg:postcode":"42050",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kIlNxR6bJoSdncc0GYX0W_37.873264_32.500156@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6200c214c0c43cfe08e52cac49ba210",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169569725
+        }
+    ],
+    "wof:id":169569725,
+    "wof:lastmodified":1449035829,
+    "wof:name":"Say-com",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.500156,37.873264,32.500156,37.873264],
+  "geometry": {"coordinates":[32.500156,37.873264],"type":"Point"}
+}

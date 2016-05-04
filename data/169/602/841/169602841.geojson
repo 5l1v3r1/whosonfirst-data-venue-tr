@@ -1,0 +1,65 @@
+{
+  "id": 169602841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.000515,41.043404,29.000515,41.043404",
+    "geom:latitude":41.043404,
+    "geom:longitude":29.000515,
+    "iso:country":"TR",
+    "sg:address":"Sair Nedim Cad. Haci Halit Bey Sok. 1/1 Besiktas",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 7080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22I1iFtlFORmOaem2sXtOI_41.043404_29.000515@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0db74b60ac6ab1d63708fae371428c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169602841
+        }
+    ],
+    "wof:id":169602841,
+    "wof:lastmodified":1449034225,
+    "wof:name":"Adrenalin Tirmanis Ve Doga Sporlari",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.000515,41.043404,29.000515,41.043404],
+  "geometry": {"coordinates":[29.000515,41.043404],"type":"Point"}
+}

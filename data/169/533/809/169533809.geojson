@@ -1,0 +1,57 @@
+{
+  "id": 169533809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.134554,40.930023,29.134554,40.930023",
+    "geom:latitude":40.930023,
+    "geom:longitude":29.134554,
+    "iso:country":"TR",
+    "sg:address":"Altay Mah Ataturk",
+    "sg:city":"Turgutlu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 236 313 4978",
+    "sg:postcode":"01500",
+    "sg:province":"45400",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PRHOLKdPQ0x0KyUXW4zPt_40.930023_29.134554@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d086df4ff729ab2f92dbc3d7d070167",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169533809
+        }
+    ],
+    "wof:id":169533809,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.134554,40.930023,29.134554,40.930023],
+  "geometry": {"coordinates":[29.134554,40.930023],"type":"Point"}
+}

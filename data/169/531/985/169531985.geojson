@@ -1,0 +1,57 @@
+{
+  "id": 169531985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.40028,40.779816,30.40028,40.779816",
+    "geom:latitude":40.779816,
+    "geom:longitude":30.40028,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad 44/46",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 1005",
+    "sg:province":"80020",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912667,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6flCFMpjhouuOsHBT93Evz_40.779816_30.400280@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15740b5d1c515dc549cd4adf3d6d82b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912667,
+            "neighbourhood_id":-1,
+            "region_id":85679245,
+            "venue_id":169531985
+        }
+    ],
+    "wof:id":169531985,
+    "wof:lastmodified":1449033474,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.40028,40.779816,30.40028,40.779816],
+  "geometry": {"coordinates":[30.40028,40.779816],"type":"Point"}
+}

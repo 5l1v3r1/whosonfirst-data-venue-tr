@@ -1,0 +1,64 @@
+{
+  "id": 169574273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.985424,41.068989,28.985424,41.068989",
+    "geom:latitude":41.068989,
+    "geom:longitude":28.985424,
+    "iso:country":"TR",
+    "sg:address":"Eski Yildiz Yolu No16/1",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 261 0280",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75D7blU37zr91xfUhlONFE_41.068989_28.985424@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbef3836ae194d40bc73f7f77ecd103c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169574273
+        }
+    ],
+    "wof:id":169574273,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Yon Denizcilik Ltd.sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.985424,41.068989,28.985424,41.068989],
+  "geometry": {"coordinates":[28.985424,41.068989],"type":"Point"}
+}

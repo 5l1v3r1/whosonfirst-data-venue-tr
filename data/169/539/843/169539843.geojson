@@ -1,0 +1,58 @@
+{
+  "id": 169539843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.707102,36.887955,30.707102,36.887955",
+    "geom:latitude":36.887955,
+    "geom:longitude":30.707102,
+    "iso:country":"TR",
+    "sg:address":"Ismetpasa Cad 4b",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 247 7269",
+    "sg:province":"07040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VksyYPBzDGWVqTUi6EEwn_36.887955_30.707102@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0e43d7a2d8836643f44e5fa3a54afc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169539843
+        }
+    ],
+    "wof:id":169539843,
+    "wof:lastmodified":1449036036,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.707102,36.887955,30.707102,36.887955],
+  "geometry": {"coordinates":[30.707102,36.887955],"type":"Point"}
+}

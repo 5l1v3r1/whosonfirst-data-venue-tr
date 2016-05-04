@@ -1,0 +1,63 @@
+{
+  "id": 169685185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "sg:address":"Temelli Beldesi Belediye Is Hani No: 7",
+    "sg:city":"Polatli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 645 1756",
+    "sg:postcode":"06900",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929573,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g1oLqIuLZUmBCnKE7GtfJ_39.943874_32.856033@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68c3280b4a772c2c653ccc4d077be668",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":169685185
+        }
+    ],
+    "wof:id":169685185,
+    "wof:lastmodified":1449035884,
+    "wof:name":"Yusuf Bircan",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
+}

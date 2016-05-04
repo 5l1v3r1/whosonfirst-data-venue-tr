@@ -1,0 +1,63 @@
+{
+  "id": 169552373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.141253,40.935444,29.141253,40.935444",
+    "geom:latitude":40.935444,
+    "geom:longitude":29.141253,
+    "iso:country":"TR",
+    "sg:address":"Zumrutevler Mah. Cilek Sok. No: 1 Maltepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2164595100729",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_352rznv0jhdh5xhQA9Qu6E_40.935444_29.141253@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a3096e354025aa7d64697b30b0f2daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":169552373
+        }
+    ],
+    "wof:id":169552373,
+    "wof:lastmodified":1449034056,
+    "wof:name":"Umc Motorlu Araclar Ltd.sti.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [29.141253,40.935444,29.141253,40.935444],
+  "geometry": {"coordinates":[29.141253,40.935444],"type":"Point"}
+}

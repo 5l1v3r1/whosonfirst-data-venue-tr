@@ -1,0 +1,60 @@
+{
+  "id": 169530749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.04578,41.024151,29.04578,41.024151",
+    "geom:latitude":41.024151,
+    "geom:longitude":29.04578,
+    "iso:country":"TR",
+    "sg:address":"Kisikli Cad - Kusbakisi Sok No 2, 81190 Altunizade, Istanbul",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 474 0222",
+    "sg:postcode":"63570",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.asyafinans.com .tr;http://www.asyafinans.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906613,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tk6H2qC5S5mUHgtjx2BYS_41.024151_29.045780@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"03c296328d6067cff3af9523064b55b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906613,
+            "region_id":85679237,
+            "venue_id":169530749
+        }
+    ],
+    "wof:id":169530749,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Asya Finans Kurumu As",
+    "wof:parent_id":85906613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.04578,41.024151,29.04578,41.024151],
+  "geometry": {"coordinates":[29.04578,41.024151],"type":"Point"}
+}

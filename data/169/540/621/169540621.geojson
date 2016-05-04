@@ -1,0 +1,58 @@
+{
+  "id": 169540621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.115841,40.981419,29.115841,40.981419",
+    "geom:latitude":40.981419,
+    "geom:longitude":29.115841,
+    "iso:country":"TR",
+    "sg:address":"Barboros Hayrettin Pasa C D",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 422 841 1518",
+    "sg:province":"Malatya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LEALfwT7iKgSRcUUmODC5_40.981419_29.115841@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"777b6588d37a94e6cae72e296130a99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169540621
+        }
+    ],
+    "wof:id":169540621,
+    "wof:lastmodified":1449033979,
+    "wof:name":"Tc Ziraat Bankasi",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.115841,40.981419,29.115841,40.981419],
+  "geometry": {"coordinates":[29.115841,40.981419],"type":"Point"}
+}

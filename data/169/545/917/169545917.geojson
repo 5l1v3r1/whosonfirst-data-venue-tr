@@ -1,0 +1,57 @@
+{
+  "id": 169545917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.994663,41.091915,28.994663,41.091915",
+    "geom:latitude":41.091915,
+    "geom:longitude":28.994663,
+    "iso:country":"TR",
+    "sg:address":"Sultan Selim Cad 21",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 268 6928",
+    "sg:province":"80650",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930237,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RbEp22JvFbMrYR7pldj0m_41.091915_28.994663@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85abc43cd56be9732c3de33ecf7427b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":169545917
+        }
+    ],
+    "wof:id":169545917,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.994663,41.091915,28.994663,41.091915],
+  "geometry": {"coordinates":[28.994663,41.091915],"type":"Point"}
+}

@@ -1,0 +1,56 @@
+{
+  "id": 169547757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.013842,41.089298,29.013842,41.089298",
+    "geom:latitude":41.089298,
+    "geom:longitude":29.013842,
+    "iso:country":"TR",
+    "sg:address":"Eskib??dere Cad, No 225, 80650 Levent, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GZ79H5LCDS3gbXHhX73id_41.089298_29.013842@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ded6894f4c220005c65f95b320b9365c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169547757
+        }
+    ],
+    "wof:id":169547757,
+    "wof:lastmodified":1449033008,
+    "wof:name":"Ziraat Card Transactions Inc",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.013842,41.089298,29.013842,41.089298],
+  "geometry": {"coordinates":[29.013842,41.089298],"type":"Point"}
+}

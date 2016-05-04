@@ -1,0 +1,68 @@
+{
+  "id": 169576279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982382,41.030647,28.982382,41.030647",
+    "geom:latitude":41.030647,
+    "geom:longitude":28.982382,
+    "iso:country":"TR",
+    "sg:address":"Mebusan Yokusu No95 K6",
+    "sg:city":"Findikli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 3912",
+    "sg:postcode":"01470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906607,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qejWSezznOS0mhaYbHWEH_41.030647_28.982382@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5bc27b44f01fdbe5ccc0ed6160cfd750",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906607,
+            "region_id":85679237,
+            "venue_id":169576279
+        }
+    ],
+    "wof:id":169576279,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Formar Denizcilik Ltd.sti.",
+    "wof:parent_id":85906607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.982382,41.030647,28.982382,41.030647],
+  "geometry": {"coordinates":[28.982382,41.030647],"type":"Point"}
+}

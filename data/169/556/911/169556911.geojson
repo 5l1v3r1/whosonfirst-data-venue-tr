@@ -1,0 +1,64 @@
+{
+  "id": 169556911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.790091,40.989544,28.790091,40.989544",
+    "geom:latitude":40.989544,
+    "geom:longitude":28.790091,
+    "iso:country":"TR",
+    "sg:address":"Yesilova Mah. Barbaros Cad. No:35 Sefakoy-kucukcekmece",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212624752829",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13495cAslU5thElBXuS0Rh_40.989544_28.790091@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c34428e06e6e01b833346c3898d796d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":169556911
+        }
+    ],
+    "wof:id":169556911,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Image Havuz Ve Sauna",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.790091,40.989544,28.790091,40.989544],
+  "geometry": {"coordinates":[28.790091,40.989544],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169576235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
+    "geom:latitude":41.021832,
+    "geom:longitude":29.015442,
+    "iso:country":"TR",
+    "sg:address":"Ayazma Mah. Ogdul Sok. 37/1 Ihsan Sitesi A Blok Salacak",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 492 5333",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jQ2o6ZqpXmDhZ6srjozg5_41.021832_29.015442@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"562a806d37c526d2ccacc4a96432a30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":169576235
+        }
+    ],
+    "wof:id":169576235,
+    "wof:lastmodified":1449035195,
+    "wof:name":"Force Twins Shipping Co.ltd.",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
+}

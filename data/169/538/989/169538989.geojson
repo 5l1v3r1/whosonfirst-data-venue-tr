@@ -1,0 +1,59 @@
+{
+  "id": 169538989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.715771,40.998909,39.715771,40.998909",
+    "geom:latitude":40.998909,
+    "geom:longitude":39.715771,
+    "iso:country":"TR",
+    "sg:address":"Kemerkaya Mah",
+    "sg:city":"Trabzon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 322 5642",
+    "sg:postcode":"61000",
+    "sg:province":"61030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13xprBTM77jAeguTS6iCrf_40.998909_39.715771@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b6adf46d58aab72521e340d71bc8768",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":169538989
+        }
+    ],
+    "wof:id":169538989,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [39.715771,40.998909,39.715771,40.998909],
+  "geometry": {"coordinates":[39.715771,40.998909],"type":"Point"}
+}

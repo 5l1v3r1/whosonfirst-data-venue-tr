@@ -1,0 +1,64 @@
+{
+  "id": 169570307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.051855,41.030796,29.051855,41.030796",
+    "geom:latitude":41.030796,
+    "geom:longitude":29.051855,
+    "iso:country":"TR",
+    "sg:address":"Beylikd?? Istanbul",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 853 1050",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hf5xTG7aKjbBae9yQ2Axc_41.030796_29.051855@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0209be8bcfb144967d15ef24761ba53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169570307
+        }
+    ],
+    "wof:id":169570307,
+    "wof:lastmodified":1449034645,
+    "wof:name":"T?rkel Iletisim",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.051855,41.030796,29.051855,41.030796],
+  "geometry": {"coordinates":[29.051855,41.030796],"type":"Point"}
+}

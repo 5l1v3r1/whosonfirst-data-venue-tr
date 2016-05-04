@@ -1,0 +1,64 @@
+{
+  "id": 169585285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.010618,41.087341,29.010618,41.087341",
+    "geom:latitude":41.087341,
+    "geom:longitude":29.010618,
+    "iso:country":"TR",
+    "sg:address":"Akasyali Sok.no:22",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 8805",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n27DX8OCk3IH5MNaJFmbO_41.087341_29.010618@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e665ad1c6c489c1a78b020e402b43e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169585285
+        }
+    ],
+    "wof:id":169585285,
+    "wof:lastmodified":1449034883,
+    "wof:name":"Pepsi Cola Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [29.010618,41.087341,29.010618,41.087341],
+  "geometry": {"coordinates":[29.010618,41.087341],"type":"Point"}
+}

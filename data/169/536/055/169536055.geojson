@@ -1,0 +1,58 @@
+{
+  "id": 169536055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.665375,36.898399,30.665375,36.898399",
+    "geom:latitude":36.898399,
+    "geom:longitude":30.665375,
+    "iso:country":"TR",
+    "sg:address":"Dumpupinar Bulvari",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3125822",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929913,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lg3uJoJ8Dtm0eweoqL0Td_36.898399_30.665375@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"009c253373c9d84c91289c7db2a4eea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85929913,
+            "region_id":85679263,
+            "venue_id":169536055
+        }
+    ],
+    "wof:id":169536055,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Iller Bankasi",
+    "wof:parent_id":85929913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.665375,36.898399,30.665375,36.898399],
+  "geometry": {"coordinates":[30.665375,36.898399],"type":"Point"}
+}

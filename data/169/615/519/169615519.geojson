@@ -1,0 +1,62 @@
+{
+  "id": 169615519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.511112,41.604443,32.511112,41.604443",
+    "geom:latitude":41.604443,
+    "geom:longitude":32.511112,
+    "iso:country":"TR",
+    "sg:address":"Bartin",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 378 227 7622",
+    "sg:postcode":"34660",
+    "sg:province":"Bartin",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13fWc9q8SwKp3d5WRlymbA_41.604443_32.511112@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b7ae821f329b9a1ef0ef77ef860e424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679543,
+            "venue_id":169615519
+        }
+    ],
+    "wof:id":169615519,
+    "wof:lastmodified":1449033733,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [32.511112,41.604443,32.511112,41.604443],
+  "geometry": {"coordinates":[32.511112,41.604443],"type":"Point"}
+}

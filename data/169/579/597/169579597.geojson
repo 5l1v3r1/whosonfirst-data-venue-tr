@@ -1,0 +1,68 @@
+{
+  "id": 169579597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.846476,40.995937,28.846476,40.995937",
+    "geom:latitude":40.995937,
+    "geom:longitude":28.846476,
+    "iso:country":"TR",
+    "sg:address":"3.sokak No:1/3",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 415 7136",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iaW4ubRKtKhNB6cCfDIVl_40.995937_28.846476@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3269df935de3e61718f2370ba91c4d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":169579597
+        }
+    ],
+    "wof:id":169579597,
+    "wof:lastmodified":1449033742,
+    "wof:name":"?avusoglu Kara Ve Deniz Nakliyat Tic.ltd.sti",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.846476,40.995937,28.846476,40.995937],
+  "geometry": {"coordinates":[28.846476,40.995937],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169569677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.814091,39.924667,32.814091,39.924667",
+    "geom:latitude":39.924667,
+    "geom:longitude":32.814091,
+    "iso:country":"TR",
+    "sg:address":"Azerbaycan Caddesi (3. Cadde) No:2/2 Bah?elievler",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 215 7969",
+    "sg:postcode":"06500",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929583,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RFP7cQ0yPba5mKkxdd3NK_39.924667_32.814091@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c4ef914f1690742b6736d5ca2ba2bff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929583,
+            "region_id":85679409,
+            "venue_id":169569677
+        }
+    ],
+    "wof:id":169569677,
+    "wof:lastmodified":1449035830,
+    "wof:name":"S&s G?venlik, Otomasyon Ve Bilgisayar Sis. San. Ti",
+    "wof:parent_id":85929583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.814091,39.924667,32.814091,39.924667],
+  "geometry": {"coordinates":[32.814091,39.924667],"type":"Point"}
+}

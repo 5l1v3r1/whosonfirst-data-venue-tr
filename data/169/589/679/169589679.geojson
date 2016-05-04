@@ -1,0 +1,65 @@
+{
+  "id": 169589679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.054932,38.389877,27.054932,38.389877",
+    "geom:latitude":38.389877,
+    "geom:longitude":27.054932,
+    "iso:country":"TR",
+    "sg:address":"Kirazli Cad. No:115",
+    "sg:city":"Pazaryeri",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 878 6252",
+    "sg:postcode":"35240",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929631,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29zgH4CrSbqYVXTHGNUkXE_38.389877_27.054932@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b998c72a5350850ceaf4ff73bdaa2a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":169589679
+        }
+    ],
+    "wof:id":169589679,
+    "wof:lastmodified":1449034448,
+    "wof:name":"Yilmaz Isi G?es Enerji",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.054932,38.389877,27.054932,38.389877],
+  "geometry": {"coordinates":[27.054932,38.389877],"type":"Point"}
+}

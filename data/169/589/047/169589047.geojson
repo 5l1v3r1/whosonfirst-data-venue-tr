@@ -1,0 +1,65 @@
+{
+  "id": 169589047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.223425,36.802116,28.223425,36.802116",
+    "geom:latitude":36.802116,
+    "geom:longitude":28.223425,
+    "iso:country":"TR",
+    "sg:address":"Datca Yolu 72 Sokak C/26",
+    "sg:city":"Marmaris",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 412 0243",
+    "sg:postcode":"48700",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911265,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FtHsLDDftp6lsCMxDi5TX_36.802116_28.223425@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f53dbf95776b0ebc7fffad7b4612966a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911265,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169589047
+        }
+    ],
+    "wof:id":169589047,
+    "wof:lastmodified":1449034448,
+    "wof:name":"Paksu G?nes Enerjisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.223425,36.802116,28.223425,36.802116],
+  "geometry": {"coordinates":[28.223425,36.802116],"type":"Point"}
+}

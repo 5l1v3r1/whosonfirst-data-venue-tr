@@ -1,0 +1,58 @@
+{
+  "id": 169537197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.953983,40.765331,29.953983,40.765331",
+    "geom:latitude":40.765331,
+    "geom:longitude":29.953983,
+    "iso:country":"TR",
+    "sg:address":"Karabas Mah, Demiryolu Cad",
+    "sg:city":"Kocaeli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 262 331 2200",
+    "sg:postcode":"63400",
+    "sg:province":"41000",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_624QjHZl5gQyoCVxLWAIMx_40.765331_29.953983@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24b25f50a1ba29f8d8704c98fb84cb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":-1,
+            "region_id":85679241,
+            "venue_id":169537197
+        }
+    ],
+    "wof:id":169537197,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.953983,40.765331,29.953983,40.765331],
+  "geometry": {"coordinates":[29.953983,40.765331],"type":"Point"}
+}

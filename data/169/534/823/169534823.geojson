@@ -1,0 +1,58 @@
+{
+  "id": 169534823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.808426,39.823982,34.808426,39.823982",
+    "geom:latitude":39.823982,
+    "geom:longitude":34.808426,
+    "iso:country":"TR",
+    "sg:address":"Sakarya Cad. 11",
+    "sg:city":"Yozgat",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 354 212 8293",
+    "sg:postcode":"66000",
+    "sg:province":"66100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911235,
+        85679461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FNN3cYeEScF17pyNZBJYC_39.823982_34.808426@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e42ab20f6bba7aff5aa83ccdcf73126c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911235,
+            "neighbourhood_id":-1,
+            "region_id":85679461,
+            "venue_id":169534823
+        }
+    ],
+    "wof:id":169534823,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [34.808426,39.823982,34.808426,39.823982],
+  "geometry": {"coordinates":[34.808426,39.823982],"type":"Point"}
+}

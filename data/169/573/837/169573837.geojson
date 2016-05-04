@@ -1,0 +1,64 @@
+{
+  "id": 169573837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.790483,40.97604,28.790483,40.97604",
+    "geom:latitude":40.97604,
+    "geom:longitude":28.790483,
+    "iso:country":"TR",
+    "sg:address":"Senlik K? Konakli Cd.no10",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 5908",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PqQIA5b0ER6EluqBBtBsF_40.976040_28.790483@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15cc3bc251b7e5ebf1b55819cbe72931",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":169573837
+        }
+    ],
+    "wof:id":169573837,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Sen Denizcilik A.s.",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.790483,40.97604,28.790483,40.97604],
+  "geometry": {"coordinates":[28.790483,40.97604],"type":"Point"}
+}

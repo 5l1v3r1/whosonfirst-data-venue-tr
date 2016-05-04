@@ -1,0 +1,63 @@
+{
+  "id": 169568133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.132504,38.425423,27.132504,38.425423",
+    "geom:latitude":38.425423,
+    "geom:longitude":27.132504,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul. 86/ 501 Izmir",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 0729",
+    "sg:postcode":"35210",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mifAc1YncK8dckfSXlpXr_38.425423_27.132504@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c7e699a8b97762b7143a1fa8a9bf7b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169568133
+        }
+    ],
+    "wof:id":169568133,
+    "wof:lastmodified":1449032611,
+    "wof:name":"Gelisim Elektronik G?venlik Sis. San. Tic. Ltd. S",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [27.132504,38.425423,27.132504,38.425423],
+  "geometry": {"coordinates":[27.132504,38.425423],"type":"Point"}
+}

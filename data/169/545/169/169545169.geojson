@@ -1,0 +1,57 @@
+{
+  "id": 169545169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.402559,40.778625,30.402559,40.778625",
+    "geom:latitude":40.778625,
+    "geom:longitude":30.402559,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad 13",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 264 274 5910",
+    "sg:postcode":"54000",
+    "sg:province":"54040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iLTlVgG60HLThO7hQwOXY_40.778625_30.402559@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2fae6b8fb333bb2c72b3d3cfded41d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679245,
+            "venue_id":169545169
+        }
+    ],
+    "wof:id":169545169,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Is Bankasi As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.402559,40.778625,30.402559,40.778625],
+  "geometry": {"coordinates":[30.402559,40.778625],"type":"Point"}
+}

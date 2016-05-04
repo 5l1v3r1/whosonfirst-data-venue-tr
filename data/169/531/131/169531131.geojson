@@ -1,0 +1,57 @@
+{
+  "id": 169531131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.934851,41.048733,28.934851,41.048733",
+    "geom:latitude":41.048733,
+    "geom:longitude":28.934851,
+    "iso:country":"TR",
+    "sg:address":"T?k?e Merkez Sube",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 3234",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929387,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63DhuOuUQRvqNfGigiMuqc_41.048733_28.934851@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"afde351d5e95601c9e69ee73c4a97ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":169531131
+        }
+    ],
+    "wof:id":169531131,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Bank Of Boston Merkesi",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.934851,41.048733,28.934851,41.048733],
+  "geometry": {"coordinates":[28.934851,41.048733],"type":"Point"}
+}

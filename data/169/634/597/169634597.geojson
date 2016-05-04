@@ -1,0 +1,58 @@
+{
+  "id": 169634597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856659,39.919525,32.856659,39.919525",
+    "geom:latitude":39.919525,
+    "geom:longitude":32.856659,
+    "iso:country":"TR",
+    "sg:address":"Selanik Cad.no:30/4 Kizilay",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 4695",
+    "sg:postcode":"58040",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iSpy5KbLVcGBZsjkx4rks_39.919525_32.856659@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1f18f27679a7cb19dff4935d825e3ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169634597
+        }
+    ],
+    "wof:id":169634597,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Ankara Elt Shop",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.856659,39.919525,32.856659,39.919525],
+  "geometry": {"coordinates":[32.856659,39.919525],"type":"Point"}
+}

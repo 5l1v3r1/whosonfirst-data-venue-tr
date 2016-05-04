@@ -1,0 +1,63 @@
+{
+  "id": 169553023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.732233,40.984219,28.732233,40.984219",
+    "geom:latitude":40.984219,
+    "geom:longitude":28.732233,
+    "iso:country":"TR",
+    "sg:address":"Karayollari Cad. Coskun Sok.no:18",
+    "sg:city":"K.yali",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216487529291",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AlQ4RPnMoEQSbFfXURG0v_40.984219_28.732233@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5bf59b32fe8f20902bc23e8704fac194",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":169553023
+        }
+    ],
+    "wof:id":169553023,
+    "wof:lastmodified":1449032710,
+    "wof:name":"Ari Biskuvi Grissini",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.732233,40.984219,28.732233,40.984219],
+  "geometry": {"coordinates":[28.732233,40.984219],"type":"Point"}
+}

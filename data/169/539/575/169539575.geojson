@@ -1,0 +1,58 @@
+{
+  "id": 169539575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.091702,41.025257,29.091702,41.025257",
+    "geom:latitude":41.025257,
+    "geom:longitude":29.091702,
+    "iso:country":"TR",
+    "sg:address":"Alemdag Caddesi No. 94",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 365 7864",
+    "sg:province":"81260",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15tximt7qB6dfpMSFu2oyf_41.025257_29.091702@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"35e44b3fa80d4ec7ce34462388dfe489",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":169539575
+        }
+    ],
+    "wof:id":169539575,
+    "wof:lastmodified":1449036037,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.091702,41.025257,29.091702,41.025257],
+  "geometry": {"coordinates":[29.091702,41.025257],"type":"Point"}
+}

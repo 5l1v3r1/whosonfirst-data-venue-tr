@@ -1,0 +1,73 @@
+{
+  "id": 169571797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.971973,41.029652,28.971973,41.029652",
+    "geom:latitude":41.029652,
+    "geom:longitude":28.971973,
+    "iso:country":"TR",
+    "sg:address":"Refik Saydam Cd.simal Sk.no.8",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 9288",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906543,
+        85632393,
+        101913185,
+        85679237,
+        85906585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pUMKuqQSRxrPex6YlnFgi_41.029652_28.971973@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3bcbeea08a0a2a316dc0e6369b45d185",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906543,
+            "region_id":85679237,
+            "venue_id":169571797
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169571797
+        }
+    ],
+    "wof:id":169571797,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Ali Riza Aksoy Denizcilik A.s..",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.971973,41.029652,28.971973,41.029652],
+  "geometry": {"coordinates":[28.971973,41.029652],"type":"Point"}
+}

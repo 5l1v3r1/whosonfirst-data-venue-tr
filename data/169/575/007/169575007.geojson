@@ -1,0 +1,68 @@
+{
+  "id": 169575007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.5144,40.979198,27.5144,40.979198",
+    "geom:latitude":40.979198,
+    "geom:longitude":27.5144,
+    "iso:country":"TR",
+    "sg:address":"100.yil Mh.ziraat Sk.no2/a",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 261 6460",
+    "sg:postcode":"34349",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jiHWdAMsY5OKPRLODCfGK_40.979198_27.514400@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8387aa57b27f83127b6471eb24e26083",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":169575007
+        }
+    ],
+    "wof:id":169575007,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Atlantik Denizcilik Ltd.sti.",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.5144,40.979198,27.5144,40.979198],
+  "geometry": {"coordinates":[27.5144,40.979198],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169532915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.494232,37.887104,32.494232,37.887104",
+    "geom:latitude":37.887104,
+    "geom:longitude":32.494232,
+    "iso:country":"TR",
+    "sg:address":"Nalcaci Cad 83",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 237 2245",
+    "sg:province":"Konya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904143,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wmgTmZlTasWn68OhlZGLA_37.887104_32.494232@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"96f98820cc39341236945bf036153a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904143,
+            "region_id":85679425,
+            "venue_id":169532915
+        }
+    ],
+    "wof:id":169532915,
+    "wof:lastmodified":1449033797,
+    "wof:name":"Egebank As",
+    "wof:parent_id":85904143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.494232,37.887104,32.494232,37.887104],
+  "geometry": {"coordinates":[32.494232,37.887104],"type":"Point"}
+}

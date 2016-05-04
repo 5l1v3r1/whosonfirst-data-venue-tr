@@ -1,0 +1,63 @@
+{
+  "id": 169552319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.225334,37.91581,40.225334,37.91581",
+    "geom:latitude":37.91581,
+    "geom:longitude":40.225334,
+    "iso:country":"TR",
+    "sg:address":"Medine Cad. Ruhan 2 Apt.",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 412 233 5185",
+    "sg:postcode":"81480",
+    "sg:province":"Diyarbakir",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912775,
+        85679395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29fZbGjMbLDy5txnXyQmoi_37.915810_40.225334@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"05fc84fb009a21784ebe1e0e0b9e30a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912775,
+            "neighbourhood_id":-1,
+            "region_id":85679395,
+            "venue_id":169552319
+        }
+    ],
+    "wof:id":169552319,
+    "wof:lastmodified":1449034052,
+    "wof:name":"Onder Bisiklet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [40.225334,37.91581,40.225334,37.91581],
+  "geometry": {"coordinates":[40.225334,37.91581],"type":"Point"}
+}

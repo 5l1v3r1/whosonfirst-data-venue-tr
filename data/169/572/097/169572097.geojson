@@ -1,0 +1,63 @@
+{
+  "id": 169572097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.837313,41.030624,28.837313,41.030624",
+    "geom:latitude":41.030624,
+    "geom:longitude":28.837313,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari No.21/3 K.4",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 7260",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZhV8MDct2Swa4WDAJUNbb_41.030624_28.837313@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69fd36542a22c6e71022f279ccfa0a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169572097
+        }
+    ],
+    "wof:id":169572097,
+    "wof:lastmodified":1449034707,
+    "wof:name":"B.sohtorik Denizcilik Ltd.sti. .",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.837313,41.030624,28.837313,41.030624],
+  "geometry": {"coordinates":[28.837313,41.030624],"type":"Point"}
+}

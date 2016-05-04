@@ -1,0 +1,63 @@
+{
+  "id": 169563811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049459,41.120655,29.049459,41.120655",
+    "geom:latitude":41.120655,
+    "geom:longitude":29.049459,
+    "iso:country":"TR",
+    "sg:address":"Poligon Duragi Tepe?t?sok.no:1 Istinye - Sariyer",
+    "sg:city":"Sultan?ftligi-gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 323 4169",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LncbxtA0yBTXYqSyoNAeF_41.120655_29.049459@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c1d32c058acf4eafb9f5bd38a13dca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":169563811
+        }
+    ],
+    "wof:id":169563811,
+    "wof:lastmodified":1449032732,
+    "wof:name":"Istinye Sepetcisi",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [29.049459,41.120655,29.049459,41.120655],
+  "geometry": {"coordinates":[29.049459,41.120655],"type":"Point"}
+}

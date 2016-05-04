@@ -1,0 +1,58 @@
+{
+  "id": 169533975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.046616,39.755112,37.046616,39.755112",
+    "geom:latitude":39.755112,
+    "geom:longitude":37.046616,
+    "iso:country":"TR",
+    "sg:address":"Belediye Caddesi 2/a",
+    "sg:city":"Elazig",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 424 218 2650",
+    "sg:postcode":"23000",
+    "sg:province":"23100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912781,
+        85679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YGEegnMIwpCEkBYARR619_39.755112_37.046616@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f417650014d290ecdef4c53e3813ca80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912781,
+            "neighbourhood_id":-1,
+            "region_id":85679355,
+            "venue_id":169533975
+        }
+    ],
+    "wof:id":169533975,
+    "wof:lastmodified":1449032644,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [37.046616,39.755112,37.046616,39.755112],
+  "geometry": {"coordinates":[37.046616,39.755112],"type":"Point"}
+}

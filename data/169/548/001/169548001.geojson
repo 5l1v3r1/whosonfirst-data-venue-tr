@@ -1,0 +1,68 @@
+{
+  "id": 169548001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
+    "geom:latitude":41.021832,
+    "geom:longitude":29.015442,
+    "iso:country":"TR",
+    "sg:address":"Hakimiyeti Milliye Cad. G?lfem Hatun Sok.no:100/7",
+    "sg:city":"?sk?dar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 343 1290",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XU2aOXuDxqG0wYOPnP7pX_41.021832_29.015442@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"562a806d37c526d2ccacc4a96432a30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":169548001
+        }
+    ],
+    "wof:id":169548001,
+    "wof:lastmodified":1449034971,
+    "wof:name":"Arge Elektronik Ltd Sti",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
+}

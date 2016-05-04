@@ -1,0 +1,57 @@
+{
+  "id": 169530189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.13677,38.426872,27.13677,38.426872",
+    "geom:latitude":38.426872,
+    "geom:longitude":27.13677,
+    "iso:country":"TR",
+    "sg:address":"Po Box 504",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 8869",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929657,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kKBc9lMEhTLkIC4DYef9g_38.426872_27.136770@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1be2731b033c05fb9ef1ccb371a2d716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":169530189
+        }
+    ],
+    "wof:id":169530189,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.13677,38.426872,27.13677,38.426872],
+  "geometry": {"coordinates":[27.13677,38.426872],"type":"Point"}
+}

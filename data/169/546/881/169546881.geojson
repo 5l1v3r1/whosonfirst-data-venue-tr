@@ -1,0 +1,58 @@
+{
+  "id": 169546881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.8741,40.979935,28.8741,40.979935",
+    "geom:latitude":40.979935,
+    "geom:longitude":28.8741,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Cad 19-21",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 6213",
+    "sg:postcode":"01000",
+    "sg:province":"Bakirk?",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        85632393,
+        101912673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ObiVMqwmXNIRfRAhWTYX_40.979935_28.874100@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"30138d75cac0135ae0b155fda89cbfec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":-1,
+            "venue_id":169546881
+        }
+    ],
+    "wof:id":169546881,
+    "wof:lastmodified":1449032679,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.8741,40.979935,28.8741,40.979935],
+  "geometry": {"coordinates":[28.8741,40.979935],"type":"Point"}
+}

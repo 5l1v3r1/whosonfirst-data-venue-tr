@@ -1,0 +1,66 @@
+{
+  "id": 169589737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.981974,41.031418,28.981974,41.031418",
+    "geom:latitude":41.031418,
+    "geom:longitude":28.981974,
+    "iso:country":"TR",
+    "sg:address":"Yeni Camlica Mah.dursun Bey Cad.no:35/1",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 313 5434",
+    "sg:postcode":"34433",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906607,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yXTnzo98wonZsMaCdIGBF_41.031418_28.981974@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"089bff381d4a072a87d937b8e9176f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906607,
+            "region_id":85679237,
+            "venue_id":169589737
+        }
+    ],
+    "wof:id":169589737,
+    "wof:lastmodified":1449034447,
+    "wof:name":"?der Gunes Enerji Sistemleri",
+    "wof:parent_id":85906607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.981974,41.031418,28.981974,41.031418],
+  "geometry": {"coordinates":[28.981974,41.031418],"type":"Point"}
+}

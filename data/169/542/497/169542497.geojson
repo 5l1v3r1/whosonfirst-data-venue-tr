@@ -1,0 +1,57 @@
+{
+  "id": 169542497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.207361,38.462307,27.207361,38.462307",
+    "geom:latitude":38.462307,
+    "geom:longitude":27.207361,
+    "iso:country":"TR",
+    "sg:address":"Mustafa Kemal Cad 11/a-b",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 373 1532",
+    "sg:province":"35040",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929627,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07cyXhazPxrDclcmqDPJ0N_38.462307_27.207361@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d32b9cff2c7bd69df8820b33fd469c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":169542497
+        }
+    ],
+    "wof:id":169542497,
+    "wof:lastmodified":1449035223,
+    "wof:name":"T?k Dis Ticaret, Bankasi As",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.207361,38.462307,27.207361,38.462307],
+  "geometry": {"coordinates":[27.207361,38.462307],"type":"Point"}
+}

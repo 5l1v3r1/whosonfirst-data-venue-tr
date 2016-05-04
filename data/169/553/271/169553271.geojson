@@ -1,0 +1,63 @@
+{
+  "id": 169553271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.830652,41.026016,28.830652,41.026016",
+    "geom:latitude":41.026016,
+    "geom:longitude":28.830652,
+    "iso:country":"TR",
+    "sg:address":"Hurriyet Mah.gokmen Sok. No:34 Gunesli-",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 657 0935",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M8tGpzKAaIn9WiTi4NmlV_41.026016_28.830652@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5e7a9189f38c964e2066fc893d953c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169553271
+        }
+    ],
+    "wof:id":169553271,
+    "wof:lastmodified":1449032708,
+    "wof:name":"Beyazpinar Sekerleme",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.830652,41.026016,28.830652,41.026016],
+  "geometry": {"coordinates":[28.830652,41.026016],"type":"Point"}
+}

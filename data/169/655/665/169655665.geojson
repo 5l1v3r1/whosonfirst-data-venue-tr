@@ -1,0 +1,65 @@
+{
+  "id": 169655665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "sg:address":"G?c?ler Mah. 777.sok No: 11",
+    "sg:city":"Menderes",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 782 2717",
+    "sg:postcode":"35470",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "steel",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904135,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SKYbGHtKT9zaUg0VPVs6p_38.418697_27.129686@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e642dc93600900c2a83494e531c8288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":169655665
+        }
+    ],
+    "wof:id":169655665,
+    "wof:lastmodified":1449034587,
+    "wof:name":"G?l?elik Metal",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "door"
+    ]
+},
+  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
+}

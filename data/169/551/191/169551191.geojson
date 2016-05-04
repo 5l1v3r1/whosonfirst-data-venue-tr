@@ -1,0 +1,65 @@
+{
+  "id": 169551191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.89291,40.986084,28.89291,40.986084",
+    "geom:latitude":40.986084,
+    "geom:longitude":28.89291,
+    "iso:country":"TR",
+    "sg:address":"Prof. Dr. Turan Gunes Cad. No:48/a Zeytinburnu",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 546 8531",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        85632393,
+        101912673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FrbmGBUS5c9IipPLUjATF_40.986084_28.892910@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"154cb8410445c1f0dcbb214fc83a9bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":-1,
+            "venue_id":169551191
+        }
+    ],
+    "wof:id":169551191,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Birlik Ticaret Sunger Ve Yatak Malzemeleri Toptan Satisi",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [28.89291,40.986084,28.89291,40.986084],
+  "geometry": {"coordinates":[28.89291,40.986084],"type":"Point"}
+}

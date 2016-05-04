@@ -1,0 +1,58 @@
+{
+  "id": 169544145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.926029,40.764736,29.926029,40.764736",
+    "geom:latitude":40.764736,
+    "geom:longitude":29.926029,
+    "iso:country":"TR",
+    "sg:address":"Fethiye Cad 41",
+    "sg:city":"D?d?co Levent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2121235",
+    "sg:province":"Izmit",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934721,
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tQrbeU0z3wPpazw8O8fWg_40.764736_29.926029@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63e6003e4139c4eab84f6b39f41bc603",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":85934721,
+            "region_id":85679241,
+            "venue_id":169544145
+        }
+    ],
+    "wof:id":169544145,
+    "wof:lastmodified":1449035961,
+    "wof:name":"T?kiye Garanti Bankesi",
+    "wof:parent_id":85934721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.926029,40.764736,29.926029,40.764736],
+  "geometry": {"coordinates":[29.926029,40.764736],"type":"Point"}
+}

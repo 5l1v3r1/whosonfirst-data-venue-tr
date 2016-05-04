@@ -1,0 +1,63 @@
+{
+  "id": 169686259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.906813,40.998363,28.906813,40.998363",
+    "geom:latitude":40.998363,
+    "geom:longitude":28.906813,
+    "iso:country":"TR",
+    "sg:address":"5 Telsiz Mah. 109.sok. No:18/a",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 9022",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904171,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ugP1nv3AcDs7catdlseCa_40.998363_28.906813@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3f548655b8f7566fc5edb8ffa7511a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":169686259
+        }
+    ],
+    "wof:id":169686259,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Yavuz Camasirlari",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.906813,40.998363,28.906813,40.998363],
+  "geometry": {"coordinates":[28.906813,40.998363],"type":"Point"}
+}

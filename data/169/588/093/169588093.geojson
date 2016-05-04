@@ -1,0 +1,65 @@
+{
+  "id": 169588093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.167648,38.429409,27.167648,38.429409",
+    "geom:latitude":38.429409,
+    "geom:longitude":27.167648,
+    "iso:country":"TR",
+    "sg:address":"1203/4 Sokak No:2/b",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 7858",
+    "sg:postcode":"31750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904105,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3102fkEZIBMOqlXOpVFyI8_38.429409_27.167648@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"db0ed8090f3d76db81a719679c93f72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":169588093
+        }
+    ],
+    "wof:id":169588093,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Isig?n M?hendislik Se?im Demirkol",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.167648,38.429409,27.167648,38.429409],
+  "geometry": {"coordinates":[27.167648,38.429409],"type":"Point"}
+}

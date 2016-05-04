@@ -1,0 +1,59 @@
+{
+  "id": 169546647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.718206,36.888721,30.718206,36.888721",
+    "geom:latitude":36.888721,
+    "geom:longitude":30.718206,
+    "iso:country":"TR",
+    "sg:address":"Ali Cetinkaya Cad",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 243 4359",
+    "sg:postcode":"63570",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929965,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QitDpZQZmTgZZ3zYz8oll_36.888721_30.718206@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b658a7c5fc4af6c0c2a0b1c4854c26d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929965,
+            "region_id":85679263,
+            "venue_id":169546647
+        }
+    ],
+    "wof:id":169546647,
+    "wof:lastmodified":1449032680,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85929965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.718206,36.888721,30.718206,36.888721],
+  "geometry": {"coordinates":[30.718206,36.888721],"type":"Point"}
+}

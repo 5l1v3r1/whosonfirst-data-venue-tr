@@ -1,0 +1,68 @@
+{
+  "id": 169575415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.866337,41.010254,28.866337,41.010254",
+    "geom:latitude":41.010254,
+    "geom:longitude":28.866337,
+    "iso:country":"TR",
+    "sg:address":"Sehit Pilot Ahmet Altas Cad. No.2,",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2163837755729",
+    "sg:postcode":"81532",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yS3TjS9SPVCTwtutt0mIf_41.010254_28.866337@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c11e1e11a10435ca17ba1c82740c66d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169575415
+        }
+    ],
+    "wof:id":169575415,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bora Denizcilik Ve Ticaret A.s.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.866337,41.010254,28.866337,41.010254],
+  "geometry": {"coordinates":[28.866337,41.010254],"type":"Point"}
+}

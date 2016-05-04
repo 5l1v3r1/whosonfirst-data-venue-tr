@@ -1,0 +1,57 @@
+{
+  "id": 169542323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.119787,38.455357,27.119787,38.455357",
+    "geom:latitude":38.455357,
+    "geom:longitude":27.119787,
+    "iso:country":"TR",
+    "sg:address":"Cemal Gursel Cad 200/a",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 368 7784",
+    "sg:province":"35600",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hCPxwTuV6NRxKgfzogEJK_38.455357_27.119787@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33d2b0b460ec5cd48dc436b2f5827069",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169542323
+        }
+    ],
+    "wof:id":169542323,
+    "wof:lastmodified":1449035219,
+    "wof:name":"T?k Dis Ticaret, Bankasi As",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.119787,38.455357,27.119787,38.455357],
+  "geometry": {"coordinates":[27.119787,38.455357],"type":"Point"}
+}

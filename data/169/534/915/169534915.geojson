@@ -1,0 +1,58 @@
+{
+  "id": 169534915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.992702,41.052776,28.992702,41.052776",
+    "geom:latitude":41.052776,
+    "geom:longitude":28.992702,
+    "iso:country":"TR",
+    "sg:address":"Vali Konagi Cad 115/a",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 3732",
+    "sg:province":"80220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65iVmn7KQcZHi4Im2GsTk5_41.052776_28.992702@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d70aadf0abad0968bea15c4aec0b5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169534915
+        }
+    ],
+    "wof:id":169534915,
+    "wof:lastmodified":1449033550,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.992702,41.052776,28.992702,41.052776],
+  "geometry": {"coordinates":[28.992702,41.052776],"type":"Point"}
+}

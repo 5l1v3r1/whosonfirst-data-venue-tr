@@ -1,0 +1,65 @@
+{
+  "id": 169584383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.073502,38.397457,27.073502,38.397457",
+    "geom:latitude":38.397457,
+    "geom:longitude":27.073502,
+    "iso:country":"TR",
+    "sg:address":"4/1 Sok.no:6/c",
+    "sg:city":"Uckuyular",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 248 4669",
+    "sg:postcode":"35140",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904103,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E82aS5CFSCafvF3SK83pQ_38.397457_27.073502@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9fe07a3a5972c18c84f7f08b0589ee8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":169584383
+        }
+    ],
+    "wof:id":169584383,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Elsa Dagitim",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [27.073502,38.397457,27.073502,38.397457],
+  "geometry": {"coordinates":[27.073502,38.397457],"type":"Point"}
+}

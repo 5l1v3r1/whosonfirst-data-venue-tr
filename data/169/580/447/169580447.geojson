@@ -1,0 +1,58 @@
+{
+  "id": 169580447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.884516,40.983349,28.884516,40.983349",
+    "geom:latitude":40.983349,
+    "geom:longitude":28.884516,
+    "iso:country":"TR",
+    "sg:address":"Aksu Cad.no:15 Kartaltepe-bakirk?",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 9960",
+    "sg:postcode":"06640",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        85632393,
+        101912673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ABLu3pF9aMd6wgSfsa6Is_40.983349_28.884516@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"127269eb0e81d18f5a929577cf7eb4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":-1,
+            "venue_id":169580447
+        }
+    ],
+    "wof:id":169580447,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Dora Plastik Fab.a.s",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.884516,40.983349,28.884516,40.983349],
+  "geometry": {"coordinates":[28.884516,40.983349],"type":"Point"}
+}

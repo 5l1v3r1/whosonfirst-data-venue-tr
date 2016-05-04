@@ -1,0 +1,67 @@
+{
+  "id": 169548247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.819313,39.909187,32.819313,39.909187",
+    "geom:latitude":39.909187,
+    "geom:longitude":32.819313,
+    "iso:country":"TR",
+    "sg:address":"100.yil Omorfo Meydani No:171/6 Balgat",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 287 8366",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929585,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KASVIDdqYL0iQ88Galyhy_39.909187_32.819313@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23d0e5ce1da7ba1f7d60082583559171",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929585,
+            "region_id":85679409,
+            "venue_id":169548247
+        }
+    ],
+    "wof:id":169548247,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Firat Aku San.a.s",
+    "wof:parent_id":85929585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [32.819313,39.909187,32.819313,39.909187],
+  "geometry": {"coordinates":[32.819313,39.909187],"type":"Point"}
+}

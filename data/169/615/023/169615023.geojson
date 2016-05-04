@@ -1,0 +1,62 @@
+{
+  "id": 169615023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"38.231747,37.743942,38.231747,37.743942",
+    "geom:latitude":37.743942,
+    "geom:longitude":38.231747,
+    "iso:country":"TR",
+    "sg:address":"Adiyaman",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 416 216 1015",
+    "sg:postcode":"34660",
+    "sg:province":"Adiyaman",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qNYt6soscBR6aFPLjZ0FC_37.743942_38.231747@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfa2b0a35aed3824fbf1fb25e0006b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679295,
+            "venue_id":169615023
+        }
+    ],
+    "wof:id":169615023,
+    "wof:lastmodified":1449033735,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [38.231747,37.743942,38.231747,37.743942],
+  "geometry": {"coordinates":[38.231747,37.743942],"type":"Point"}
+}

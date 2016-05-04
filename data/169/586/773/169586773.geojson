@@ -1,0 +1,65 @@
+{
+  "id": 169586773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.0284,38.374599,34.0284,38.374599",
+    "geom:latitude":38.374599,
+    "geom:longitude":34.0284,
+    "iso:country":"TR",
+    "sg:address":"Yeni Sanayi Sitesi No: 50 2.blok",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 382 215 3139",
+    "sg:postcode":"34349",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911229,
+        85679457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XwiUJrI8rjVNseE1PMX8w_38.374599_34.028400@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d24da48c6fa71e3906367e97b84b10e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911229,
+            "neighbourhood_id":-1,
+            "region_id":85679457,
+            "venue_id":169586773
+        }
+    ],
+    "wof:id":169586773,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Celebi Gunes Enerji Sistemleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [34.0284,38.374599,34.0284,38.374599],
+  "geometry": {"coordinates":[34.0284,38.374599],"type":"Point"}
+}

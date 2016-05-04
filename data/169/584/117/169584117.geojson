@@ -1,0 +1,65 @@
+{
+  "id": 169584117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.558901,37.763599,30.558901,37.763599",
+    "geom:latitude":37.763599,
+    "geom:longitude":30.558901,
+    "iso:country":"TR",
+    "sg:address":"Tepeli Mevkii",
+    "sg:city":"Egirdir",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 246 328 7181",
+    "sg:postcode":"32500",
+    "sg:province":"Isparta",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911259,
+        85679279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B3cyECE5hV38kKWF8mKbD_37.763599_30.558901@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d495983f7580aeba4d5a3c8129f240f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911259,
+            "neighbourhood_id":-1,
+            "region_id":85679279,
+            "venue_id":169584117
+        }
+    ],
+    "wof:id":169584117,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Asya Meyve Suyu Ve Gida San. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [30.558901,37.763599,30.558901,37.763599],
+  "geometry": {"coordinates":[30.558901,37.763599],"type":"Point"}
+}

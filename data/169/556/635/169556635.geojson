@@ -1,0 +1,61 @@
+{
+  "id": 169556635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.896187,39.913769,32.896187,39.913769",
+    "geom:latitude":39.913769,
+    "geom:longitude":32.896187,
+    "iso:country":"TR",
+    "sg:address":"Sultanmurat Mah.dereboyu Cad.no:109",
+    "sg:city":"K??su",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 308 4300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78TQerDK6POs2zZA5nBcBc_39.913769_32.896187@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82bc89f0325428fc071e2be85b84e220",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169556635
+        }
+    ],
+    "wof:id":169556635,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Dost Sauna",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [32.896187,39.913769,32.896187,39.913769],
+  "geometry": {"coordinates":[32.896187,39.913769],"type":"Point"}
+}

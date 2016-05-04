@@ -1,0 +1,62 @@
+{
+  "id": 169684915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.023754,40.222527,33.023754,40.222527",
+    "geom:latitude":40.222527,
+    "geom:longitude":33.023754,
+    "iso:country":"TR",
+    "sg:address":"Albayrak Sok. No:19",
+    "sg:city":"Gudul",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 728 0292",
+    "sg:postcode":"44700",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cMwDmStmm5o98bBuoNIdt_40.222527_33.023754@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"94644916218e5b97fe79ca038a598e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169684915
+        }
+    ],
+    "wof:id":169684915,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Ibrahim Yildirim",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [33.023754,40.222527,33.023754,40.222527],
+  "geometry": {"coordinates":[33.023754,40.222527],"type":"Point"}
+}

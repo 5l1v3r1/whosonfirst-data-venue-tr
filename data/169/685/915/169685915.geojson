@@ -1,0 +1,63 @@
+{
+  "id": 169685915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.831308,41.031685,28.831308,41.031685",
+    "geom:latitude":41.031685,
+    "geom:longitude":28.831308,
+    "iso:country":"TR",
+    "sg:address":"Evren Mah. Sanayi Sok. No:3/3 Gunesli",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 655 7425",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912683,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jey3iEag8IwdPdeTgARDI_41.031685_28.831308@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"739ee488496bda2e205e0e915fb5f4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912683,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169685915
+        }
+    ],
+    "wof:id":169685915,
+    "wof:lastmodified":1449035889,
+    "wof:name":"Mansel Tekstil San.ve Dis.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.831308,41.031685,28.831308,41.031685],
+  "geometry": {"coordinates":[28.831308,41.031685],"type":"Point"}
+}

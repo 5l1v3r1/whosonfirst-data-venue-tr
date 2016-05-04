@@ -1,0 +1,65 @@
+{
+  "id": 169664763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.898781,41.054062,28.898781,41.054062",
+    "geom:latitude":41.054062,
+    "geom:longitude":28.898781,
+    "iso:country":"TR",
+    "sg:address":"G??suyu Cd. No:49 Maltepe",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 1879",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904095,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T0xDIOXRPzUIX3X01xC6A_41.054062_28.898781@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"040ab2fb6e6acc6710ed6de584feac05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":169664763
+        }
+    ],
+    "wof:id":169664763,
+    "wof:lastmodified":1449033914,
+    "wof:name":"Mgo Plastik Ve Madeni Esya San. Tic. A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.898781,41.054062,28.898781,41.054062],
+  "geometry": {"coordinates":[28.898781,41.054062],"type":"Point"}
+}

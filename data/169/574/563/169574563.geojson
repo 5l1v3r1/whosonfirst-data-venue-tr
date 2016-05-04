@@ -1,0 +1,68 @@
+{
+  "id": 169574563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "sg:address":"Kenan Evren Bul.goksoy Apt.no41 K2",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 1120",
+    "sg:postcode":"07700",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oARgPdW5PBM94kgrQpAgu_36.887505_30.703135@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42194d9943fb0d1486651cff60d89ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169574563
+        }
+    ],
+    "wof:id":169574563,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Akca Tic.it.-ih.den.a.s.",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
+}

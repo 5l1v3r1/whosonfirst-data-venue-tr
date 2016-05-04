@@ -1,0 +1,62 @@
+{
+  "id": 169624441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.812222,40.780556,39.812222,40.780556",
+    "geom:latitude":40.780556,
+    "geom:longitude":39.812222,
+    "iso:country":"TR",
+    "sg:address":"Trabzon",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 230 2301",
+    "sg:postcode":"34660",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXgCNal03V8uXKcuEtGoJ_40.780556_39.812222@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"751d46d7cc9ee89f15639eb4645332df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679383,
+            "venue_id":169624441
+        }
+    ],
+    "wof:id":169624441,
+    "wof:lastmodified":1449034955,
+    "wof:name":"Numune Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [39.812222,40.780556,39.812222,40.780556],
+  "geometry": {"coordinates":[39.812222,40.780556],"type":"Point"}
+}

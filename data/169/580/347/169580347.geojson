@@ -1,0 +1,58 @@
+{
+  "id": 169580347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.073629,40.20055,29.073629,40.20055",
+    "geom:latitude":40.20055,
+    "geom:longitude":29.073629,
+    "iso:country":"TR",
+    "sg:address":"Kemercesme Mah. Ve Cad. No:8 Gencosman",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 250 8326",
+    "sg:postcode":"16240",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jRX5x6Wpostodq12j55Ve_40.200550_29.073629@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"527b743f375bfb432347cdd581594992",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169580347
+        }
+    ],
+    "wof:id":169580347,
+    "wof:lastmodified":1449034916,
+    "wof:name":"Delta Collection",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.073629,40.20055,29.073629,40.20055],
+  "geometry": {"coordinates":[29.073629,40.20055],"type":"Point"}
+}

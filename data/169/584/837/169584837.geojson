@@ -1,0 +1,64 @@
+{
+  "id": 169584837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.906698,41.166656,28.906698,41.166656",
+    "geom:latitude":41.166656,
+    "geom:longitude":28.906698,
+    "iso:country":"TR",
+    "sg:address":"Istanbul Cad. No:112 Kemerburgaz-",
+    "sg:city":"Eyup",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 239 1745",
+    "sg:postcode":"60700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GDdicG2L1k9RB8wME0FLJ_41.166656_28.906698@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c26d3d2da299219a8f4de477142907bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169584837
+        }
+    ],
+    "wof:id":169584837,
+    "wof:lastmodified":1449033037,
+    "wof:name":"Hamidiye Kaynak Sulari A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [28.906698,41.166656,28.906698,41.166656],
+  "geometry": {"coordinates":[28.906698,41.166656],"type":"Point"}
+}

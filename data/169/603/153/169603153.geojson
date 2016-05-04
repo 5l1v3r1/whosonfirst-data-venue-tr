@@ -1,0 +1,65 @@
+{
+  "id": 169603153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987904,41.058693,28.987904,41.058693",
+    "geom:latitude":41.058693,
+    "geom:longitude":28.987904,
+    "iso:country":"TR",
+    "sg:address":"Abide-i H?riyet Cd. Iskete Sk. No:1 Sisli",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 234 4922",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EMexAWgdn5W0JRLbi8kXT_41.058693_28.987904@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a16c537f217eee597bb6d28f8c2ae927",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":169603153
+        }
+    ],
+    "wof:id":169603153,
+    "wof:lastmodified":1449035454,
+    "wof:name":"Artun Teks. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.987904,41.058693,28.987904,41.058693],
+  "geometry": {"coordinates":[28.987904,41.058693],"type":"Point"}
+}

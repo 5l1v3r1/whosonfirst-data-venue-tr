@@ -1,0 +1,62 @@
+{
+  "id": 169614733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.5,39.599998,32.5,39.599998",
+    "geom:latitude":39.599998,
+    "geom:longitude":32.5,
+    "iso:country":"TR",
+    "sg:address":"Ankara",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 212 6666",
+    "sg:postcode":"34660",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F0BD1hJr7AY6oy1erGMJW_39.599998_32.500000@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"530162b680a1b32fd17af859958af342",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169614733
+        }
+    ],
+    "wof:id":169614733,
+    "wof:lastmodified":1449036057,
+    "wof:name":"Ddy Ankara Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [32.5,39.599998,32.5,39.599998],
+  "geometry": {"coordinates":[32.5,39.599998],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169530367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976374,41.016209,28.976374,41.016209",
+    "geom:latitude":41.016209,
+    "geom:longitude":28.976374,
+    "iso:country":"TR",
+    "sg:address":"Ankara Caddesi 243",
+    "sg:city":"Sirkeci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 9509",
+    "sg:postcode":"34112",
+    "sg:province":"34420",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R8cl79e4WQIu4HhZPmpRE_41.016209_28.976374@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"06d134135ff665ce95444e71d4da39a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169530367
+        }
+    ],
+    "wof:id":169530367,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Alternatifbank As",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.976374,41.016209,28.976374,41.016209],
+  "geometry": {"coordinates":[28.976374,41.016209],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 169576693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.00736,41.04874,29.00736,41.04874",
+    "geom:latitude":41.04874,
+    "geom:longitude":29.00736,
+    "iso:country":"TR",
+    "sg:address":"H?n?savman Sk. 40/19 Barbaros Bulvari",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 327 1660",
+    "sg:postcode":"80690",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_360BC9tGTXlqIYxANGSGj9_41.048740_29.007360@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31722b79608e385957a49dffd165ad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169576693
+        }
+    ],
+    "wof:id":169576693,
+    "wof:lastmodified":1449035194,
+    "wof:name":"Hazek Forwarding & Trading Co. Ltd.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.00736,41.04874,29.00736,41.04874],
+  "geometry": {"coordinates":[29.00736,41.04874],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169663217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.082047,40.987629,29.082047,40.987629",
+    "geom:latitude":40.987629,
+    "geom:longitude":29.082047,
+    "iso:country":"TR",
+    "sg:address":"Sair Arsi Cad.no:19-21 Merdivenkoy - G?tepe",
+    "sg:city":"Harbiye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 8702",
+    "sg:postcode":"31080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pQkWPplmh3cgG4TnyzZg4_40.987629_29.082047@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a62468b0cb794e8972b799075f00730",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169663217
+        }
+    ],
+    "wof:id":169663217,
+    "wof:lastmodified":1449035108,
+    "wof:name":"Kiratli Elek. Kilit ?elik Kasa Ltd. Sti.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.082047,40.987629,29.082047,40.987629],
+  "geometry": {"coordinates":[29.082047,40.987629],"type":"Point"}
+}

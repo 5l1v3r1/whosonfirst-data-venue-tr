@@ -1,0 +1,65 @@
+{
+  "id": 169674553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.154747,40.977432,29.154747,40.977432",
+    "geom:latitude":40.977432,
+    "geom:longitude":29.154747,
+    "iso:country":"TR",
+    "sg:address":"Kurtoglu Sok.no:10",
+    "sg:city":"Kurtulus",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 3712",
+    "sg:postcode":"01470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930135,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67odhQRepNEqqAjR8qHt9A_40.977432_29.154747@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc62811436eca174c48f6283539bbea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":169674553
+        }
+    ],
+    "wof:id":169674553,
+    "wof:lastmodified":1449035136,
+    "wof:name":"Mabel Cikolota San.a.s",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [29.154747,40.977432,29.154747,40.977432],
+  "geometry": {"coordinates":[29.154747,40.977432],"type":"Point"}
+}

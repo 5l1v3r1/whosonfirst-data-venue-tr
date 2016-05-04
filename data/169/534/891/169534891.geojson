@@ -1,0 +1,58 @@
+{
+  "id": 169534891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.858067,39.908955,32.858067,39.908955",
+    "geom:latitude":39.908955,
+    "geom:longitude":32.858067,
+    "iso:country":"TR",
+    "sg:address":"Tunus Caddesi 33",
+    "sg:city":"Kirsehir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 6230",
+    "sg:postcode":"40000",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_119DgcSpopNGz2cgLwteY2_39.908955_32.858067@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc42a14e6c711b93c4fda8c8aa6385f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169534891
+        }
+    ],
+    "wof:id":169534891,
+    "wof:lastmodified":1449033547,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.858067,39.908955,32.858067,39.908955],
+  "geometry": {"coordinates":[32.858067,39.908955],"type":"Point"}
+}

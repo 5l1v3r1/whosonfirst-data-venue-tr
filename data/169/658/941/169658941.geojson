@@ -1,0 +1,65 @@
+{
+  "id": 169658941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.925341,41.058105,28.925341,41.058105",
+    "geom:latitude":41.058105,
+    "geom:longitude":28.925341,
+    "iso:country":"TR",
+    "sg:address":"Ordu Cd. No:174 G.o.pasa",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 563 1644",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929477,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LVWhMiBnyP9cNaEX4DdmY_41.058105_28.925341@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"04db63106553ae662cee14930189e21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":169658941
+        }
+    ],
+    "wof:id":169658941,
+    "wof:lastmodified":1449032616,
+    "wof:name":"Basaran Paslanmaz ?elik Mutfak San.",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.925341,41.058105,28.925341,41.058105],
+  "geometry": {"coordinates":[28.925341,41.058105],"type":"Point"}
+}

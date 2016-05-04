@@ -1,0 +1,68 @@
+{
+  "id": 169577773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.053898,40.984692,29.053898,40.984692",
+    "geom:latitude":40.984692,
+    "geom:longitude":29.053898,
+    "iso:country":"TR",
+    "sg:address":"Fahrettin Kerim Gokay Cd.no:14",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 474 4100",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O0lMAiCBJTtsWZgwcD4Lt_40.984692_29.053898@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"41c7d4f58a31391c97b765b5e27a8bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169577773
+        }
+    ],
+    "wof:id":169577773,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Mistral Denizcilik A.s.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.053898,40.984692,29.053898,40.984692],
+  "geometry": {"coordinates":[29.053898,40.984692],"type":"Point"}
+}

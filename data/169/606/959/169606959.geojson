@@ -1,0 +1,66 @@
+{
+  "id": 169606959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.051346,41.046841,29.051346,41.046841",
+    "geom:latitude":41.046841,
+    "geom:longitude":29.051346,
+    "iso:country":"TR",
+    "sg:address":"Yaliboyu Cad. 184/17 Arnavutkoy",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 0127",
+    "sg:postcode":"81300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WogDQA6oqSRFZYYQJ3oKo_41.046841_29.051346@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5006b9ffbba5f3ecc76ed50a05590fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169606959
+        }
+    ],
+    "wof:id":169606959,
+    "wof:lastmodified":1449033203,
+    "wof:name":"Onaon Spor Hizmetleri Ve Ticaret A.s.",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.051346,41.046841,29.051346,41.046841],
+  "geometry": {"coordinates":[29.051346,41.046841],"type":"Point"}
+}

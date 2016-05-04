@@ -1,0 +1,67 @@
+{
+  "id": 169574345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.857964,39.937019,32.857964,39.937019",
+    "geom:latitude":39.937019,
+    "geom:longitude":32.857964,
+    "iso:country":"TR",
+    "sg:address":"Spor Cad. Pala Sok. Ipek Apt. No:3 D:3-4",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 488 8877",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929577,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KDgQQl7S3YeG0DkWrUHT1_39.937019_32.857964@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85a1e32a4d23e8dc762a7b8a65f948b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":169574345
+        }
+    ],
+    "wof:id":169574345,
+    "wof:lastmodified":1449032666,
+    "wof:name":"2k Shipping And Trade",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [32.857964,39.937019,32.857964,39.937019],
+  "geometry": {"coordinates":[32.857964,39.937019],"type":"Point"}
+}

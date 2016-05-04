@@ -1,0 +1,58 @@
+{
+  "id": 169643765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.978693,41.004211,28.978693,41.004211",
+    "geom:latitude":41.004211,
+    "geom:longitude":28.978693,
+    "iso:country":"TR",
+    "sg:address":"Divanyolu Cad. Binbirdirek Is Hani No:15/1 Sultanahmet",
+    "sg:city":"Levent - Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 458 4303",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2unp79g5KHoSYZeGCuGLmT_41.004211_28.978693@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d87cd57e11e82c5cf21e58ee1ca7a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906491,
+            "region_id":85679237,
+            "venue_id":169643765
+        }
+    ],
+    "wof:id":169643765,
+    "wof:lastmodified":1449035524,
+    "wof:name":"Kazanci Kitap Tic.a.s.",
+    "wof:parent_id":85906491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.978693,41.004211,28.978693,41.004211],
+  "geometry": {"coordinates":[28.978693,41.004211],"type":"Point"}
+}

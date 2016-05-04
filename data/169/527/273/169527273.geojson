@@ -1,0 +1,63 @@
+{
+  "id": 169527273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.325428,36.986286,35.325428,36.986286",
+    "geom:latitude":36.986286,
+    "geom:longitude":35.325428,
+    "iso:country":"TR",
+    "sg:address":"Emek Mah.5. Sok. No:2/a",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 432 4587",
+    "sg:postcode":"01000",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21a3uoiS8aAQWhsov8WwLP_36.986286_35.325428@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dfd23d8f0e58e4961f5cf6db2735b3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169527273
+        }
+    ],
+    "wof:id":169527273,
+    "wof:lastmodified":1449035277,
+    "wof:name":"Monateks Giyim San.tic.a.s.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear"
+    ]
+},
+  "bbox": [35.325428,36.986286,35.325428,36.986286],
+  "geometry": {"coordinates":[35.325428,36.986286],"type":"Point"}
+}

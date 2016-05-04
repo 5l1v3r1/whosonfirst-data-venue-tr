@@ -1,0 +1,56 @@
+{
+  "id": 169532693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.242086,40.876415,29.242086,40.876415",
+    "geom:latitude":40.876415,
+    "geom:longitude":29.242086,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad 215",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 3258",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930121,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q9ACsbgTLcW1WEj3F5clU_40.876415_29.242086@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9d92f402eafc6b35d6aeba0a90a8fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930121,
+            "region_id":-1,
+            "venue_id":169532693
+        }
+    ],
+    "wof:id":169532693,
+    "wof:lastmodified":1449033793,
+    "wof:name":"Egebank As",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.242086,40.876415,29.242086,40.876415],
+  "geometry": {"coordinates":[29.242086,40.876415],"type":"Point"}
+}

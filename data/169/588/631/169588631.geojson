@@ -1,0 +1,64 @@
+{
+  "id": 169588631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.549753,41.015068,28.549753,41.015068",
+    "geom:latitude":41.015068,
+    "geom:longitude":28.549753,
+    "iso:country":"TR",
+    "sg:address":"8754.sok. No:5/a",
+    "sg:city":"Cigli",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 376 5538",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_129X6ADTry1v7Op9yOa4X3_41.015068_28.549753@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da4822c15d120ec459041bb87d5edb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169588631
+        }
+    ],
+    "wof:id":169588631,
+    "wof:lastmodified":1449035308,
+    "wof:name":"Mas Aluminyum Ve Asansor Sanayi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.549753,41.015068,28.549753,41.015068],
+  "geometry": {"coordinates":[28.549753,41.015068],"type":"Point"}
+}

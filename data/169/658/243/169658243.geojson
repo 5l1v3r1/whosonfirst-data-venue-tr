@@ -1,0 +1,65 @@
+{
+  "id": 169658243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856468,39.892807,32.856468,39.892807",
+    "geom:latitude":39.892807,
+    "geom:longitude":32.856468,
+    "iso:country":"TR",
+    "sg:address":"Cinnah Cad. 46/2 Cankaya",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 9478",
+    "sg:postcode":"34188",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YLJHjYRovSNpGHqfPGYb0_39.892807_32.856468@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e726ca81ed4c05757a8dc0fa1574768",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169658243
+        }
+    ],
+    "wof:id":169658243,
+    "wof:lastmodified":1449032615,
+    "wof:name":"Arser A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [32.856468,39.892807,32.856468,39.892807],
+  "geometry": {"coordinates":[32.856468,39.892807],"type":"Point"}
+}

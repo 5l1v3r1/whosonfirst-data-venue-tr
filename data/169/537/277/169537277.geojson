@@ -1,0 +1,59 @@
+{
+  "id": 169537277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.519907,39.776505,30.519907,39.776505",
+    "geom:latitude":39.776505,
+    "geom:longitude":30.519907,
+    "iso:country":"TR",
+    "sg:address":"Sakarya Cad 30",
+    "sg:city":"Eskisehir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 230 7616",
+    "sg:postcode":"12800",
+    "sg:province":"26120",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j7DyFCXjasyutjUR6ojob_39.776505_30.519907@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0078d1437cef0e68cbc6bbb0380ba9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169537277
+        }
+    ],
+    "wof:id":169537277,
+    "wof:lastmodified":1449033496,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.519907,39.776505,30.519907,39.776505],
+  "geometry": {"coordinates":[30.519907,39.776505],"type":"Point"}
+}

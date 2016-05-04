@@ -1,0 +1,66 @@
+{
+  "id": 169675023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.979822,41.036015,28.979822,41.036015",
+    "geom:latitude":41.036015,
+    "geom:longitude":28.979822,
+    "iso:country":"TR",
+    "sg:address":"Halasgargazi Cad. Halas Apt. No: 277-3",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 4449",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906551,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T6yMwCSlorkYqSLKQfFmw_41.036015_28.979822@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a9afcd8780f2c5183aa67d03c046be8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906551,
+            "region_id":85679237,
+            "venue_id":169675023
+        }
+    ],
+    "wof:id":169675023,
+    "wof:lastmodified":1449034357,
+    "wof:name":"Seckin Gida",
+    "wof:parent_id":85906551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.979822,41.036015,28.979822,41.036015],
+  "geometry": {"coordinates":[28.979822,41.036015],"type":"Point"}
+}

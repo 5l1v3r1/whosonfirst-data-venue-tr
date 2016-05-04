@@ -1,0 +1,66 @@
+{
+  "id": 169577191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"31.7925,41.451401,31.7925,41.451401",
+    "geom:latitude":41.451401,
+    "geom:longitude":31.7925,
+    "iso:country":"TR",
+    "sg:address":"Bozhane ?arsisi No22",
+    "sg:city":"Kdz.eregli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 372 323 3446",
+    "sg:province":"Zonguldak",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911165,
+        85679419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BKNSXLQfCNHyj72zvwVY5_41.451401_31.792500@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1ad02952d11dfde1dca13ab95611a9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911165,
+            "neighbourhood_id":-1,
+            "region_id":85679419,
+            "venue_id":169577191
+        }
+    ],
+    "wof:id":169577191,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Kdz/eregli Denizcilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [31.7925,41.451401,31.7925,41.451401],
+  "geometry": {"coordinates":[31.7925,41.451401],"type":"Point"}
+}

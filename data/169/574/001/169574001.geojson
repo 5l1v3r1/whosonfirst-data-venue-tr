@@ -1,0 +1,64 @@
+{
+  "id": 169574001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.048601,41.042061,29.048601,41.042061",
+    "geom:latitude":41.042061,
+    "geom:longitude":29.048601,
+    "iso:country":"TR",
+    "sg:address":"Kupluce Yolu No53",
+    "sg:city":"Beylerbeyi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 318 4775",
+    "sg:postcode":"20300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JMSeDnR5xrySZwtuJOodv_41.042061_29.048601@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a8418e86d089874474bf9dcdacf86dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169574001
+        }
+    ],
+    "wof:id":169574001,
+    "wof:lastmodified":1449032662,
+    "wof:name":"Topallar Den. A.s.",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.048601,41.042061,29.048601,41.042061],
+  "geometry": {"coordinates":[29.048601,41.042061],"type":"Point"}
+}

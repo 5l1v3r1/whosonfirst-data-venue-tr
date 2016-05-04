@@ -1,0 +1,66 @@
+{
+  "id": 169661885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
+    "geom:latitude":39.770081,
+    "geom:longitude":30.517546,
+    "iso:country":"TR",
+    "sg:address":"K?r?asi Degirmen Sk. No:19/d",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 6127",
+    "sg:postcode":"20100",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FB6AZ5YhuYBGeRNWMZbSo_39.770081_30.517546@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be96a25c1666ba8b5cc6a50005fb136e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169661885
+        }
+    ],
+    "wof:id":169661885,
+    "wof:lastmodified":1449035598,
+    "wof:name":"G?ler Metal ?r?n. San. Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
+}

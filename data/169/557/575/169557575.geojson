@@ -1,0 +1,63 @@
+{
+  "id": 169557575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.860722,39.876431,32.860722,39.876431",
+    "geom:latitude":39.876431,
+    "geom:longitude":32.860722,
+    "iso:country":"TR",
+    "sg:address":"Yildizevler Mah 4.cad No :53/a",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 442 5588",
+    "sg:postcode":"06105",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929559,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EQ2NDlBmWHLJOAkHl7hlK_39.876431_32.860722@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"04ba2336ee8bbb9e0b5f1a8ae499d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":169557575
+        }
+    ],
+    "wof:id":169557575,
+    "wof:lastmodified":1449035035,
+    "wof:name":"Spot Uluslararasi Havuz Insaat Ticaret Ltd.sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [32.860722,39.876431,32.860722,39.876431],
+  "geometry": {"coordinates":[32.860722,39.876431],"type":"Point"}
+}

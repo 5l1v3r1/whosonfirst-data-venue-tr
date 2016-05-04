@@ -1,0 +1,64 @@
+{
+  "id": 169568999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976759,41.068787,28.976759,41.068787",
+    "geom:latitude":41.068787,
+    "geom:longitude":28.976759,
+    "iso:country":"TR",
+    "sg:address":"Sinanpasa Mah. Alaybey Sok. No: 14/1 Besiktas",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 327 1733",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nXAuTZKCrq5cdcSXvvThZ_41.068787_28.976759@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2dbc16fb4ec884b6c69b7575aaf7fd47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169568999
+        }
+    ],
+    "wof:id":169568999,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Metropol Guvenlik Sist. Isl.tic.ltd.sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.976759,41.068787,28.976759,41.068787],
+  "geometry": {"coordinates":[28.976759,41.068787],"type":"Point"}
+}

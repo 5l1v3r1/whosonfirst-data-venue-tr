@@ -1,0 +1,67 @@
+{
+  "id": 169543119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.865002,39.898602,32.865002,39.898602",
+    "geom:latitude":39.898602,
+    "geom:longitude":32.865002,
+    "iso:country":"TR",
+    "sg:address":"Arjantin Cad 11",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 5210",
+    "sg:postcode":"63570",
+    "sg:province":"06700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929547,
+        85632393,
+        85679409,
+        85904089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hNajSEimntGUP5wGoG7nt_39.898602_32.865002@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5d588deb9f5b0bbefe393c44753c62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":169543119
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169543119
+        }
+    ],
+    "wof:id":169543119,
+    "wof:lastmodified":1449033337,
+    "wof:name":"T?kiye Cumhuriyeti, Ziraat Bankasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.865002,39.898602,32.865002,39.898602],
+  "geometry": {"coordinates":[32.865002,39.898602],"type":"Point"}
+}

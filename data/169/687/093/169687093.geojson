@@ -1,0 +1,66 @@
+{
+  "id": 169687093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.868418,41.003963,28.868418,41.003963",
+    "geom:latitude":41.003963,
+    "geom:longitude":28.868418,
+    "iso:country":"TR",
+    "sg:address":"Bah?lievler Mah. R?tgen Sok. No:20",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 9146",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nWWEcmZToSW7riLmIXGt8_41.003963_28.868418@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aade427347fe7bd5ba8994f77310f6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169687093
+        }
+    ],
+    "wof:id":169687093,
+    "wof:lastmodified":1449033608,
+    "wof:name":"Bahar Tekstil M&g Tic. Ltd. Sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [28.868418,41.003963,28.868418,41.003963],
+  "geometry": {"coordinates":[28.868418,41.003963],"type":"Point"}
+}

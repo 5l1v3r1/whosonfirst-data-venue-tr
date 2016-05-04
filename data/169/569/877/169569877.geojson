@@ -1,0 +1,64 @@
+{
+  "id": 169569877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.018518,41.056206,29.018518,41.056206",
+    "geom:latitude":41.056206,
+    "geom:longitude":29.018518,
+    "iso:country":"TR",
+    "sg:address":"Itri Sok.no:2/2 Balmumcu-besiktas",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3669",
+    "sg:postcode":"80260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hSxkOFvFxmii9BCp3oqXH_41.056206_29.018518@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a286381fa0a64f60ba6bf6f29075337",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":169569877
+        }
+    ],
+    "wof:id":169569877,
+    "wof:lastmodified":1449035830,
+    "wof:name":"Siemens Cerberus Guvenlik Sistemleri A.s.",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.018518,41.056206,29.018518,41.056206],
+  "geometry": {"coordinates":[29.018518,41.056206],"type":"Point"}
+}

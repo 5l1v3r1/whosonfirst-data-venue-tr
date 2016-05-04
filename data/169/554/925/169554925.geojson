@@ -1,0 +1,72 @@
+{
+  "id": 169554925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.865211,39.89838,32.865211,39.89838",
+    "geom:latitude":39.89838,
+    "geom:longitude":32.865211,
+    "iso:country":"TR",
+    "sg:address":"Arjantin Cad. 25",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 428 5808",
+    "sg:postcode":"01950",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929547,
+        85632393,
+        85679409,
+        85904089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zeIZsZsKAfzi0fGl12kCH_39.898380_32.865211@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69938d8d481e813e093bfc466002b5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":169554925
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169554925
+        }
+    ],
+    "wof:id":169554925,
+    "wof:lastmodified":1449033370,
+    "wof:name":"Neuhaus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [32.865211,39.89838,32.865211,39.89838],
+  "geometry": {"coordinates":[32.865211,39.89838],"type":"Point"}
+}

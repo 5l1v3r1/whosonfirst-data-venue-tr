@@ -1,0 +1,62 @@
+{
+  "id": 169685087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.500748,37.889008,32.500748,37.889008",
+    "geom:latitude":37.889008,
+    "geom:longitude":32.500748,
+    "iso:country":"TR",
+    "sg:address":"G.o.pasa Ankara Cad. No:80/b",
+    "sg:city":"Golbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 484 7997",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ifmbu9UYXT7mNls53N4p0_37.889008_32.500748@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1424f31f867d03b513aef68480f5a56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679425,
+            "venue_id":169685087
+        }
+    ],
+    "wof:id":169685087,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Necmettin Boran",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.500748,37.889008,32.500748,37.889008],
+  "geometry": {"coordinates":[32.500748,37.889008],"type":"Point"}
+}

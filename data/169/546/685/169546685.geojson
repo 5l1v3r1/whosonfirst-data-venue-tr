@@ -1,0 +1,59 @@
+{
+  "id": 169546685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.163097,40.913277,29.163097,40.913277",
+    "geom:latitude":40.913277,
+    "geom:longitude":29.163097,
+    "iso:country":"TR",
+    "sg:address":"Arif Bey Cad 6",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 454 216 0793",
+    "sg:postcode":"54000",
+    "sg:province":"Giresun",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G6eEuhWiq6WRZHGvilILa_40.913277_29.163097@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"814e9bd9ba63cdcea31e8407b79e1c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":169546685
+        }
+    ],
+    "wof:id":169546685,
+    "wof:lastmodified":1449032681,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.163097,40.913277,29.163097,40.913277],
+  "geometry": {"coordinates":[29.163097,40.913277],"type":"Point"}
+}

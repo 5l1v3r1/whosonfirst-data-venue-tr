@@ -1,0 +1,65 @@
+{
+  "id": 169674969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.02438,38.371117,34.02438,38.371117",
+    "geom:latitude":38.371117,
+    "geom:longitude":34.02438,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad No 8",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 382 213 8360",
+    "sg:postcode":"68100",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911229,
+        85679457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PhKYJqLMc7cXVwUIv8j2g_38.371117_34.024380@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4bb06cd1bb9255799ba980600b00f795",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911229,
+            "neighbourhood_id":-1,
+            "region_id":85679457,
+            "venue_id":169674969
+        }
+    ],
+    "wof:id":169674969,
+    "wof:lastmodified":1449035136,
+    "wof:name":"Melik Pastane Islt.gida.san.tic.ltd.sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [34.02438,38.371117,34.02438,38.371117],
+  "geometry": {"coordinates":[34.02438,38.371117],"type":"Point"}
+}

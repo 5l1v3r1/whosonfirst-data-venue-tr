@@ -1,0 +1,64 @@
+{
+  "id": 169675013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.873589,41.094994,28.873589,41.094994",
+    "geom:latitude":41.094994,
+    "geom:longitude":28.873589,
+    "iso:country":"TR",
+    "sg:address":"50. Yil Mah. E Cad. No.17",
+    "sg:city":"Sultanciftligi",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 667 4230",
+    "sg:postcode":"34265",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CbwQEDYiflhgT0peNBWnM_41.094994_28.873589@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7af00dc58ea6b74103b10403fc02a0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169675013
+        }
+    ],
+    "wof:id":169675013,
+    "wof:lastmodified":1449034357,
+    "wof:name":"Maketsan Gida San. Ve Dis Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.873589,41.094994,28.873589,41.094994],
+  "geometry": {"coordinates":[28.873589,41.094994],"type":"Point"}
+}

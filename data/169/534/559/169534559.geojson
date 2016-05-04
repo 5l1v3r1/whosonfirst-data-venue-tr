@@ -1,0 +1,58 @@
+{
+  "id": 169534559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.838421,37.847622,27.838421,37.847622",
+    "geom:latitude":37.847622,
+    "geom:longitude":27.838421,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Bulvari 3",
+    "sg:city":"Nazilli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 313 5551",
+    "sg:postcode":"65600",
+    "sg:province":"09800",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911263,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vRRYukDpvP3qLOljdAEOo_37.847622_27.838421@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"08465f080ddf739eacc72343f525ca22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911263,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169534559
+        }
+    ],
+    "wof:id":169534559,
+    "wof:lastmodified":1449033552,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.838421,37.847622,27.838421,37.847622],
+  "geometry": {"coordinates":[27.838421,37.847622],"type":"Point"}
+}

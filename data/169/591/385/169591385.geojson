@@ -1,0 +1,65 @@
+{
+  "id": 169591385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.000637,41.090157,29.000637,41.090157",
+    "geom:latitude":41.090157,
+    "geom:longitude":29.000637,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Bulvari, No.133-9 Koc Apt. K.5 Balmumcu",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 5996",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NDBRTmqRE6gaHZwIofKBK_41.090157_29.000637@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bdfce27fd3a26341d496153514bc35db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169591385
+        }
+    ],
+    "wof:id":169591385,
+    "wof:lastmodified":1449034450,
+    "wof:name":"Ihlamur Gida Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [29.000637,41.090157,29.000637,41.090157],
+  "geometry": {"coordinates":[29.000637,41.090157],"type":"Point"}
+}

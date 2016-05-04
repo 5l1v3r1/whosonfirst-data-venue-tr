@@ -1,0 +1,67 @@
+{
+  "id": 169576289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.048958,41.034756,29.048958,41.034756",
+    "geom:latitude":41.034756,
+    "geom:longitude":29.048958,
+    "iso:country":"TR",
+    "sg:address":"Uskudar",
+    "sg:city":"Salacak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 492 5333",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K0qgARt7bGvOruET5qFi8_41.034756_29.048958@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b60b9943b73a63061a98a256637e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":169576289
+        }
+    ],
+    "wof:id":169576289,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Fors Ikizler Denizcilik",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.048958,41.034756,29.048958,41.034756],
+  "geometry": {"coordinates":[29.048958,41.034756],"type":"Point"}
+}

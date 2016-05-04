@@ -1,0 +1,56 @@
+{
+  "id": 169534001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.973034,41.01511,28.973034,41.01511",
+    "geom:latitude":41.01511,
+    "geom:longitude":28.973034,
+    "iso:country":"TR",
+    "sg:address":"B?? Postane Cad 39",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 5764",
+    "sg:province":"34220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gxpMesMffjyk0SpBVFmvJ_41.015110_28.973034@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b125dc16ab72b057adb4a0ec2d22b355",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169534001
+        }
+    ],
+    "wof:id":169534001,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.973034,41.01511,28.973034,41.01511],
+  "geometry": {"coordinates":[28.973034,41.01511],"type":"Point"}
+}

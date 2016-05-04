@@ -1,0 +1,65 @@
+{
+  "id": 169589509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.661896,39.94838,32.661896,39.94838",
+    "geom:latitude":39.94838,
+    "geom:longitude":32.661896,
+    "iso:country":"TR",
+    "sg:address":"Hikmet Ozer Cad. 48.sok. No:2",
+    "sg:city":"Etimesgut",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312244927576",
+    "sg:postcode":"06790",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cJ0gXmSM1O1FHxNcxrSQZ_39.948380_32.661896@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4094e9fec8f09c71cc27c90840abd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169589509
+        }
+    ],
+    "wof:id":169589509,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Solerya Muhendislik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.661896,39.94838,32.661896,39.94838],
+  "geometry": {"coordinates":[32.661896,39.94838],"type":"Point"}
+}

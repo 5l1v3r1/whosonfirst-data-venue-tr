@@ -1,0 +1,63 @@
+{
+  "id": 169684959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.886757,39.629631,27.886757,39.629631",
+    "geom:latitude":39.629631,
+    "geom:longitude":27.886757,
+    "iso:country":"TR",
+    "sg:address":"Kultur Cad. No:17/b",
+    "sg:city":"Sindirgi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266516434141",
+    "sg:postcode":"10330",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912867,
+        85679205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gtxQOJLnAXqriB5ikqMi3_39.629631_27.886757@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0411bb6d383c12fd9f7f67bbd03f4c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912867,
+            "neighbourhood_id":-1,
+            "region_id":85679205,
+            "venue_id":169684959
+        }
+    ],
+    "wof:id":169684959,
+    "wof:lastmodified":1449033511,
+    "wof:name":"Ismail Erkan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [27.886757,39.629631,27.886757,39.629631],
+  "geometry": {"coordinates":[27.886757,39.629631],"type":"Point"}
+}

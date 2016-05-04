@@ -1,0 +1,57 @@
+{
+  "id": 169539691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.843983,39.953411,32.843983,39.953411",
+    "geom:latitude":39.953411,
+    "geom:longitude":32.843983,
+    "iso:country":"TR",
+    "sg:address":"Cemal G?sel",
+    "sg:city":"Ceveci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 319 4840",
+    "sg:province":"06590",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929513,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gSBZFcjwLJqRdEgTTO1yd_39.953411_32.843983@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f18bb48b442351627a0a82b3ba2081b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":169539691
+        }
+    ],
+    "wof:id":169539691,
+    "wof:lastmodified":1449036037,
+    "wof:name":"S?erbank As",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.843983,39.953411,32.843983,39.953411],
+  "geometry": {"coordinates":[32.843983,39.953411],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169580131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.787218,41.075935,28.787218,41.075935",
+    "geom:latitude":41.075935,
+    "geom:longitude":28.787218,
+    "iso:country":"TR",
+    "sg:address":"Ikitelli",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 696 9022",
+    "sg:postcode":"16240",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929961,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05XL38PJv2jKpATGazIWA7_41.075935_28.787218@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5964e9fceb60d4827c8bae2250195a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":169580131
+        }
+    ],
+    "wof:id":169580131,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Bilkim Kurumsal A.s.",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.787218,41.075935,28.787218,41.075935],
+  "geometry": {"coordinates":[28.787218,41.075935],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 169572865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972578,41.023293,28.972578,41.023293",
+    "geom:latitude":41.023293,
+    "geom:longitude":28.972578,
+    "iso:country":"TR",
+    "sg:address":"Tersane Cd.zincirli Han Sk.no.7",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 6992",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906587,
+        85632393,
+        101913185,
+        85679237,
+        85906579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qtuCXu5OraygK8LbBjHkR_41.023293_28.972578@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de7c2f059df77b79871d835285e87f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906587,
+            "region_id":85679237,
+            "venue_id":169572865
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906579,
+            "region_id":85679237,
+            "venue_id":169572865
+        }
+    ],
+    "wof:id":169572865,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Gurdeniz Koll.sti..",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.972578,41.023293,28.972578,41.023293],
+  "geometry": {"coordinates":[28.972578,41.023293],"type":"Point"}
+}

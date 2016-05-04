@@ -1,0 +1,63 @@
+{
+  "id": 169556245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.49255,37.901836,32.49255,37.901836",
+    "geom:latitude":37.901836,
+    "geom:longitude":32.49255,
+    "iso:country":"TR",
+    "sg:address":"Kocatepe Mah Ilim Sok No: 6",
+    "sg:city":"34000",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 640 9324",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B2G0l9ekuBypdfrdJsaHn_37.901836_32.492550@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47317a26336cd59ef3359e59ca93539a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679425,
+            "venue_id":169556245
+        }
+    ],
+    "wof:id":169556245,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Kanber Elektronik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [32.49255,37.901836,32.49255,37.901836],
+  "geometry": {"coordinates":[32.49255,37.901836],"type":"Point"}
+}

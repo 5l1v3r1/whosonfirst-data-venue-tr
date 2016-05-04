@@ -1,0 +1,58 @@
+{
+  "id": 169540961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.859535,39.91917,32.859535,39.91917",
+    "geom:latitude":39.91917,
+    "geom:longitude":32.859535,
+    "iso:country":"TR",
+    "sg:address":"Mithatpasa Cad 56/a",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 9810",
+    "sg:postcode":"23050",
+    "sg:province":"06420",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PvQU2T9ayTVvPnufvt7Vh_39.919170_32.859535@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4310cb85d9345f0e084242ecaa93243",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169540961
+        }
+    ],
+    "wof:id":169540961,
+    "wof:lastmodified":1449033978,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.859535,39.91917,32.859535,39.91917],
+  "geometry": {"coordinates":[32.859535,39.91917],"type":"Point"}
+}

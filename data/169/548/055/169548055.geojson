@@ -1,0 +1,68 @@
+{
+  "id": 169548055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "sg:address":"Yesil Antalya Sanayi Sitesi",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2422212214014",
+    "sg:postcode":"52750",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uMeYamrbBxvmP3R2sV1vn_36.887505_30.703135@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42194d9943fb0d1486651cff60d89ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":169548055
+        }
+    ],
+    "wof:id":169548055,
+    "wof:lastmodified":1449034974,
+    "wof:name":"Ates Aku Ticaret",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169595335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.986967,41.047108,28.986967,41.047108",
+    "geom:latitude":41.047108,
+    "geom:longitude":28.986967,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cd. No:361 Harbiye",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 1611",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sponge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4agLPBwocta82NSTERJV0c_41.047108_28.986967@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c79b0eb1b7c18b142605556f1c91d95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169595335
+        }
+    ],
+    "wof:id":169595335,
+    "wof:lastmodified":1449035637,
+    "wof:name":"?rosan Kimya San. A.s.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sponge"
+    ]
+},
+  "bbox": [28.986967,41.047108,28.986967,41.047108],
+  "geometry": {"coordinates":[28.986967,41.047108],"type":"Point"}
+}

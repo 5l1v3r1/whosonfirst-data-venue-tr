@@ -1,0 +1,57 @@
+{
+  "id": 169532321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.975203,41.015438,28.975203,41.015438",
+    "geom:latitude":41.015438,
+    "geom:longitude":28.975203,
+    "iso:country":"TR",
+    "sg:address":"Dervisoglu Sopk.",
+    "sg:city":"Sirkeci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 1059",
+    "sg:postcode":"34112",
+    "sg:province":"34420",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sV1ZvGqnAqpHlOuLuZcyP_41.015438_28.975203@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0d91a95ea13ab320b8fec8d73e2294d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169532321
+        }
+    ],
+    "wof:id":169532321,
+    "wof:lastmodified":1449033793,
+    "wof:name":"Derbank As",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.975203,41.015438,28.975203,41.015438],
+  "geometry": {"coordinates":[28.975203,41.015438],"type":"Point"}
+}

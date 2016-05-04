@@ -1,0 +1,66 @@
+{
+  "id": 169608725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019678,41.075993,29.019678,41.075993",
+    "geom:latitude":41.075993,
+    "geom:longitude":29.019678,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cd. No:30 Levent",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 4625",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BEE8vYUQtnDOEFWSqobH3_41.075993_29.019678@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b121d9b1a0833204b79b44468baae0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":169608725
+        }
+    ],
+    "wof:id":169608725,
+    "wof:lastmodified":1449034082,
+    "wof:name":"Veges Fitness Center",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.019678,41.075993,29.019678,41.075993],
+  "geometry": {"coordinates":[29.019678,41.075993],"type":"Point"}
+}

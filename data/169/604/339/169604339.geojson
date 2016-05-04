@@ -1,0 +1,65 @@
+{
+  "id": 169604339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982935,41.036633,28.982935,41.036633",
+    "geom:latitude":41.036633,
+    "geom:longitude":28.982935,
+    "iso:country":"TR",
+    "sg:address":"Zambak Sk. No:25 Beyoglu",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 0401",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xfZhX86gjtTtjeMQMryC0_41.036633_28.982935@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c9148fbbee90e0625305bf0b0e635ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169604339
+        }
+    ],
+    "wof:id":169604339,
+    "wof:lastmodified":1449035570,
+    "wof:name":"Dinamik Doga Sporlari Turizm San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.982935,41.036633,28.982935,41.036633],
+  "geometry": {"coordinates":[28.982935,41.036633],"type":"Point"}
+}

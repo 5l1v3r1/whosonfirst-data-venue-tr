@@ -1,0 +1,58 @@
+{
+  "id": 169531169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976488,41.032703,28.976488,41.032703",
+    "geom:latitude":41.032703,
+    "geom:longitude":28.976488,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad 311",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 5730",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uD2xtsGslBbt1wO6mNrmE_41.032703_28.976488@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0b84fbc54bf21e7dbb7c2bed265342be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":169531169
+        }
+    ],
+    "wof:id":169531169,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Banka Sigorta Iscileri, Sendkasi Besisen",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.976488,41.032703,28.976488,41.032703],
+  "geometry": {"coordinates":[28.976488,41.032703],"type":"Point"}
+}

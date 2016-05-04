@@ -1,0 +1,73 @@
+{
+  "id": 169685403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.957634,41.008766,28.957634,41.008766",
+    "geom:latitude":41.008766,
+    "geom:longitude":28.957634,
+    "iso:country":"TR",
+    "sg:address":"Koska Cad.sair Hasmet Sok.no 56",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 516 1679",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167,
+        85906505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XYBIYyXk8mqhrkfPFr9YO_41.008766_28.957634@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3c53863ee381a067bc0e528f2358ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":169685403
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":169685403
+        }
+    ],
+    "wof:id":169685403,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Alisa I? Giyim",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.957634,41.008766,28.957634,41.008766],
+  "geometry": {"coordinates":[28.957634,41.008766],"type":"Point"}
+}

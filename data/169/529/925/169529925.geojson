@@ -1,0 +1,65 @@
+{
+  "id": 169529925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.006296,41.089058,29.006296,41.089058",
+    "geom:latitude":41.089058,
+    "geom:longitude":29.006296,
+    "iso:country":"TR",
+    "sg:address":"Buyukdere Cad. No:193 34394 Levent Istanbul",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 339 9625",
+    "sg:postcode":"27000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "banking",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cPa75jn7zzA4V2Nf9xnfH_41.089058_29.006296@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"03da8c579a26b7faa7ea2e72bf97e7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169529925
+        }
+    ],
+    "wof:id":169529925,
+    "wof:lastmodified":1449034113,
+    "wof:name":"Eczacibasi Yapi Gerecleri San Ve Tic As Artema Armatur Grubu",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "institution"
+    ]
+},
+  "bbox": [29.006296,41.089058,29.006296,41.089058],
+  "geometry": {"coordinates":[29.006296,41.089058],"type":"Point"}
+}

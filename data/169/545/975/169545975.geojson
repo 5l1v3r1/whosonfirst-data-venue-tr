@@ -1,0 +1,58 @@
+{
+  "id": 169545975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"31.156771,40.843201,31.156771,40.843201",
+    "geom:latitude":40.843201,
+    "geom:longitude":31.156771,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad 18",
+    "sg:city":"Samsun",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 362 431 4671",
+    "sg:postcode":"61420",
+    "sg:province":"55030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912665,
+        85679533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02TqU0ctzDihNz7q0jhXAJ_40.843201_31.156771@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"271225b6239807e0993ef4abe458be0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912665,
+            "neighbourhood_id":-1,
+            "region_id":85679533,
+            "venue_id":169545975
+        }
+    ],
+    "wof:id":169545975,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Sinai, Kalkinma Bankasi As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [31.156771,40.843201,31.156771,40.843201],
+  "geometry": {"coordinates":[31.156771,40.843201],"type":"Point"}
+}

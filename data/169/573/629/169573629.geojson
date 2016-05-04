@@ -1,0 +1,63 @@
+{
+  "id": 169573629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.968147,41.081184,28.968147,41.081184",
+    "geom:latitude":41.081184,
+    "geom:longitude":28.968147,
+    "iso:country":"TR",
+    "sg:address":"H?iyet Cd.no.13",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 220 9852",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NIuODahTQL5jFRrWrziVS_41.081184_28.968147@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4a8d9d30ba423bd4d351d86341a52ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169573629
+        }
+    ],
+    "wof:id":169573629,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Mut Denizcilik A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.968147,41.081184,28.968147,41.081184],
+  "geometry": {"coordinates":[28.968147,41.081184],"type":"Point"}
+}

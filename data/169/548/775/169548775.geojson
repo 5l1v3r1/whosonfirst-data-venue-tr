@@ -1,0 +1,65 @@
+{
+  "id": 169548775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.113081,40.965794,29.113081,40.965794",
+    "geom:latitude":40.965794,
+    "geom:longitude":29.113081,
+    "iso:country":"TR",
+    "sg:address":"Semsettin G?altay Caddesi No:210/2",
+    "sg:city":"Erenk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 355 3777",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bath-toilet",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iZAK8lJBMxNcpjzoiqMZ1_40.965794_29.113081@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5085a1c927db265fdb1a3cffab13a4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169548775
+        }
+    ],
+    "wof:id":169548775,
+    "wof:lastmodified":1449034974,
+    "wof:name":"?zhan Insaat San.tic.ltd.sti",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bath-toilet",
+        "accessory"
+    ]
+},
+  "bbox": [29.113081,40.965794,29.113081,40.965794],
+  "geometry": {"coordinates":[29.113081,40.965794],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169594805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.861496,39.896786,32.861496,39.896786",
+    "geom:latitude":39.896786,
+    "geom:longitude":32.861496,
+    "iso:country":"TR",
+    "sg:address":"Farabi Sk. No:5/1 ?ankaya",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 1467",
+    "sg:postcode":"63000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "sponge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57i9cB2hLfI86bLMDgckhL_39.896786_32.861496@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5595684a85b8cc6db2cf5d1218934e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169594805
+        }
+    ],
+    "wof:id":169594805,
+    "wof:lastmodified":1449033165,
+    "wof:name":"Erensan Isi San. A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sponge"
+    ]
+},
+  "bbox": [32.861496,39.896786,32.861496,39.896786],
+  "geometry": {"coordinates":[32.861496,39.896786],"type":"Point"}
+}

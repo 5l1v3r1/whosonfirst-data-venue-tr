@@ -1,0 +1,57 @@
+{
+  "id": 169536247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.777802,41.379711,33.777802,41.379711",
+    "geom:latitude":41.379711,
+    "geom:longitude":33.777802,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad 20",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 2186",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911031,
+        85679259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WaRC3CPZPRIesrgLvKTLw_41.379711_33.777802@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f05cfc79b208e490e3348a20f0d3c2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911031,
+            "neighbourhood_id":-1,
+            "region_id":85679259,
+            "venue_id":169536247
+        }
+    ],
+    "wof:id":169536247,
+    "wof:lastmodified":1449034659,
+    "wof:name":"Interbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [33.777802,41.379711,33.777802,41.379711],
+  "geometry": {"coordinates":[33.777802,41.379711],"type":"Point"}
+}

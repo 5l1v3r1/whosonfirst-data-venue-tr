@@ -1,0 +1,59 @@
+{
+  "id": 169537099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987059,41.055332,28.987059,41.055332",
+    "geom:latitude":41.055332,
+    "geom:longitude":28.987059,
+    "iso:country":"TR",
+    "sg:address":"Halaskargazi Cad.no.90/1",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 3939",
+    "sg:postcode":"41400",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NMyhIUflxO8J24tMx3c1Y_41.055332_28.987059@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0735e724e71280cfaaba1496446f14f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169537099
+        }
+    ],
+    "wof:id":169537099,
+    "wof:lastmodified":1449033498,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.987059,41.055332,28.987059,41.055332],
+  "geometry": {"coordinates":[28.987059,41.055332],"type":"Point"}
+}

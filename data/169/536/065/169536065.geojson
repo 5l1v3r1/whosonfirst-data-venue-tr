@@ -1,0 +1,57 @@
+{
+  "id": 169536065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.060438,40.191807,29.060438,40.191807",
+    "geom:latitude":40.191807,
+    "geom:longitude":29.060438,
+    "iso:country":"TR",
+    "sg:address":"Fevzi Cakmak Cad 74",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224220728",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929923,
+        85632393,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WMV12ZZQf4MnKYjotNJWl_40.191807_29.060438@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f3a28f2fee91e0593153f4c1870eaf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":169536065
+        }
+    ],
+    "wof:id":169536065,
+    "wof:lastmodified":1449034662,
+    "wof:name":"Iller Bankasi",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.060438,40.191807,29.060438,40.191807],
+  "geometry": {"coordinates":[29.060438,40.191807],"type":"Point"}
+}

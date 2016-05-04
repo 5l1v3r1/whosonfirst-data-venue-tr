@@ -1,0 +1,65 @@
+{
+  "id": 169537125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.976229,41.014404,28.976229,41.014404",
+    "geom:latitude":41.014404,
+    "geom:longitude":28.976229,
+    "iso:country":"TR",
+    "sg:address":"Hocapasa Mah Muradiye",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 1334",
+    "sg:province":"34420",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237,
+        85904153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mCfETnWC8WHAG5tcHpaNL_41.014404_28.976229@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4b619213f1c91ee287576b726a81004",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169537125
+        },
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904153,
+            "region_id":85679237,
+            "venue_id":169537125
+        }
+    ],
+    "wof:id":169537125,
+    "wof:lastmodified":1449033501,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.976229,41.014404,28.976229,41.014404],
+  "geometry": {"coordinates":[28.976229,41.014404],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169539041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.795572,41.000553,28.795572,41.000553",
+    "geom:latitude":41.000553,
+    "geom:longitude":28.795572,
+    "iso:country":"TR",
+    "sg:address":"Mustafa Kemalpasa",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 5668",
+    "sg:province":"34480",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kt4oqpy2ecNQUTrrQxiuh_41.000553_28.795572@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"94b577982c27de1e2f243e1c4f713446",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169539041
+        }
+    ],
+    "wof:id":169539041,
+    "wof:lastmodified":1449036037,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.795572,41.000553,28.795572,41.000553],
+  "geometry": {"coordinates":[28.795572,41.000553],"type":"Point"}
+}

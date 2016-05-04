@@ -1,0 +1,66 @@
+{
+  "id": 169547981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.710217,39.954525,32.710217,39.954525",
+    "geom:latitude":39.954525,
+    "geom:longitude":32.710217,
+    "iso:country":"TR",
+    "sg:address":"Istanbul Yolu 13.km Ergazi",
+    "sg:city":"44200",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 278 1053",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CHNC3beRtbq83APveL2KG_39.954525_32.710217@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b000adfd53fff8c8990536841381d1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169547981
+        }
+    ],
+    "wof:id":169547981,
+    "wof:lastmodified":1449033010,
+    "wof:name":"Anadolu Plastik Aku Ve Kutusu",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [32.710217,39.954525,32.710217,39.954525],
+  "geometry": {"coordinates":[32.710217,39.954525],"type":"Point"}
+}

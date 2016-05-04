@@ -1,0 +1,58 @@
+{
+  "id": 169545855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.848999,39.941708,32.848999,39.941708",
+    "geom:latitude":39.941708,
+    "geom:longitude":32.848999,
+    "iso:country":"TR",
+    "sg:address":"Cankin Cad 1, Ulus",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 43113203",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929577,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wa92mU5b6yOI2Zij31kcq_39.941708_32.848999@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0755833bc679cc97f70bcfc008e4258f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":169545855
+        }
+    ],
+    "wof:id":169545855,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T\u00fcrkiye Is, Bankasi As",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.848999,39.941708,32.848999,39.941708],
+  "geometry": {"coordinates":[32.848999,39.941708],"type":"Point"}
+}

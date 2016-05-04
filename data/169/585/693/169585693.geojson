@@ -1,0 +1,66 @@
+{
+  "id": 169585693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.169167,40.909973,29.169167,40.909973",
+    "geom:latitude":40.909973,
+    "geom:longitude":29.169167,
+    "iso:country":"TR",
+    "sg:address":"Saraylar Cad,goksu Sok. No:5 Cevizli-",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 6252",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QAhYpcywIOYayfSsXd8yZ_40.909973_29.169167@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"569e48a8b8a4e90d07b52e47ec504c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":169585693
+        }
+    ],
+    "wof:id":169585693,
+    "wof:lastmodified":1449034884,
+    "wof:name":"Tansu Mesrubat San.tic.ltd.sti.",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [29.169167,40.909973,29.169167,40.909973],
+  "geometry": {"coordinates":[29.169167,40.909973],"type":"Point"}
+}

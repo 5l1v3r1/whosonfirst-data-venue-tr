@@ -1,0 +1,63 @@
+{
+  "id": 169555479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.844225,37.849976,27.844225,37.849976",
+    "geom:latitude":37.849976,
+    "geom:longitude":27.844225,
+    "iso:country":"TR",
+    "sg:address":"Gazi Bulv. No:164/1",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256213837821",
+    "sg:postcode":"10100",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911263,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n6E3QBMHRx2giHbN5d9Qk_37.849976_27.844225@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"46c57fbab1c74e8df68d959d4da62f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911263,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169555479
+        }
+    ],
+    "wof:id":169555479,
+    "wof:lastmodified":1449035495,
+    "wof:name":"Sonmez Gida Mad. Tic.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [27.844225,37.849976,27.844225,37.849976],
+  "geometry": {"coordinates":[27.844225,37.849976],"type":"Point"}
+}

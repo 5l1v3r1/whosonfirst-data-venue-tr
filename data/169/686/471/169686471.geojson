@@ -1,0 +1,68 @@
+{
+  "id": 169686471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.072855,40.965607,29.072855,40.965607",
+    "geom:latitude":40.965607,
+    "geom:longitude":29.072855,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. Kantarci Riza Sok. No: 1/2 - A Erenkoy",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 2405",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S7S8Ip2xN940Bc8clX3MI_40.965607_29.072855@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31ff8ddf3c496a6056b244100926fe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169686471
+        }
+    ],
+    "wof:id":169686471,
+    "wof:lastmodified":1449035156,
+    "wof:name":"Baghdad Perde",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [29.072855,40.965607,29.072855,40.965607],
+  "geometry": {"coordinates":[29.072855,40.965607],"type":"Point"}
+}

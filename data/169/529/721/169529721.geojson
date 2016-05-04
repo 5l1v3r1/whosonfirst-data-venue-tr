@@ -1,0 +1,63 @@
+{
+  "id": 169529721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.980036,41.076397,28.980036,41.076397",
+    "geom:latitude":41.076397,
+    "geom:longitude":28.980036,
+    "iso:country":"TR",
+    "sg:address":"Vatan Cad.cami Sok.no:30 Caglayan",
+    "sg:city":"Emin?? 34450",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 7333",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bag-belt-accessories"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6utVctNM0PeUf8KsLsrJYU_41.076397_28.980036@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff2b738e2ac863dab9a9fa6c20735a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169529721
+        }
+    ],
+    "wof:id":169529721,
+    "wof:lastmodified":1449034117,
+    "wof:name":"Tutkun Deri",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag-belt-accessories"
+    ]
+},
+  "bbox": [28.980036,41.076397,28.980036,41.076397],
+  "geometry": {"coordinates":[28.980036,41.076397],"type":"Point"}
+}

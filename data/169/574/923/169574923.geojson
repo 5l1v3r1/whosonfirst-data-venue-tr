@@ -1,0 +1,68 @@
+{
+  "id": 169574923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.099091,40.98584,29.099091,40.98584",
+    "geom:latitude":40.98584,
+    "geom:longitude":29.099091,
+    "iso:country":"TR",
+    "sg:address":"Barbaros Mah. Halk Cad.no:43 Yenisahra",
+    "sg:city":"Kozyatagi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 472 0835",
+    "sg:postcode":"34742",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930023,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MKbM48LmZCBzDn0lthhNN_40.985840_29.099091@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1221422bcdd98263e88f87c31e5152d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930023,
+            "region_id":85679237,
+            "venue_id":169574923
+        }
+    ],
+    "wof:id":169574923,
+    "wof:lastmodified":1449032666,
+    "wof:name":"Asa Uluslararasi Nakliyat Tic.ltd.sti.",
+    "wof:parent_id":85930023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.099091,40.98584,29.099091,40.98584],
+  "geometry": {"coordinates":[29.099091,40.98584],"type":"Point"}
+}

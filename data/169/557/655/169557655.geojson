@@ -1,0 +1,63 @@
+{
+  "id": 169557655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.9772,41.024055,28.9772,41.024055",
+    "geom:latitude":41.024055,
+    "geom:longitude":28.9772,
+    "iso:country":"TR",
+    "sg:address":"Necatibey Cad. No:70 Karakoy",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 1009",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906581,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SuluNzZfYo54dsplg6voO_41.024055_28.977200@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"deddc5c6ef7ce6b8fd1da444265c6ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906581,
+            "region_id":85679237,
+            "venue_id":169557655
+        }
+    ],
+    "wof:id":169557655,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Tempo Havuz",
+    "wof:parent_id":85906581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.9772,41.024055,28.9772,41.024055],
+  "geometry": {"coordinates":[28.9772,41.024055],"type":"Point"}
+}

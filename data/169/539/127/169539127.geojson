@@ -1,0 +1,56 @@
+{
+  "id": 169539127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.323603,40.667789,29.323603,40.667789",
+    "geom:latitude":40.667789,
+    "geom:longitude":29.323603,
+    "iso:country":"TR",
+    "sg:address":"Yakut Sok. 10",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 572 5466",
+    "sg:province":"34710",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q10oafSkAxZH5NLVskujX_40.667789_29.323603@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11fc6ec22dbbbf3b171f347a7e3bc3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679529,
+            "venue_id":169539127
+        }
+    ],
+    "wof:id":169539127,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Pamukbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.323603,40.667789,29.323603,40.667789],
+  "geometry": {"coordinates":[29.323603,40.667789],"type":"Point"}
+}

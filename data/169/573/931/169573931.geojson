@@ -1,0 +1,61 @@
+{
+  "id": 169573931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.127396,40.922489,29.127396,40.922489",
+    "geom:latitude":40.922489,
+    "geom:longitude":29.127396,
+    "iso:country":"TR",
+    "sg:address":"Rihtim Cd.no.47 K4-5",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 0043",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F77LHyvRrWzKfTiwxgDk6_40.922489_29.127396@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d42cefd136f1370b69da188f1ee6346",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169573931
+        }
+    ],
+    "wof:id":169573931,
+    "wof:lastmodified":1449035116,
+    "wof:name":"Sonmez Tanker.ve Den.a.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.127396,40.922489,29.127396,40.922489],
+  "geometry": {"coordinates":[29.127396,40.922489],"type":"Point"}
+}

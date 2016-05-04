@@ -1,0 +1,68 @@
+{
+  "id": 169537109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.70912,36.88171,30.70912,36.88171",
+    "geom:latitude":36.88171,
+    "geom:longitude":30.70912,
+    "iso:country":"TR",
+    "sg:address":"Hasim Iscan Mah",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 247 9193",
+    "sg:province":"07100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930085,
+        85632393,
+        101912923,
+        85679263,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72mlmeQsgeAonlN508Atd9_36.881710_30.709120@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ae5c3c82e1635d182a0be3971dcd53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930085,
+            "region_id":85679263,
+            "venue_id":169537109
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":169537109
+        }
+    ],
+    "wof:id":169537109,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.70912,36.88171,30.70912,36.88171],
+  "geometry": {"coordinates":[30.70912,36.88171],"type":"Point"}
+}

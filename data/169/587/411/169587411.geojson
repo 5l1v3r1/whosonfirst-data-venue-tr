@@ -1,0 +1,65 @@
+{
+  "id": 169587411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.313736,37.000717,35.313736,37.000717",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "sg:address":"Ceyhan Yolu 20. Km.",
+    "sg:city":"Suluca",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 393 5016",
+    "sg:postcode":"01350",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929841,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VcAPPyQaMLXxxPOd9gN6T_37.000717_35.313736@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ae5c3198fb5575113b12136fbeb21bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":169587411
+        }
+    ],
+    "wof:id":169587411,
+    "wof:lastmodified":1449033821,
+    "wof:name":"Gold Dus Ltd.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [35.313736,37.000717,35.313736,37.000717],
+  "geometry": {"coordinates":[35.313736,37.000717],"type":"Point"}
+}

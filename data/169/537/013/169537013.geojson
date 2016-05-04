@@ -1,0 +1,59 @@
+{
+  "id": 169537013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.790318,39.95557,32.790318,39.95557",
+    "geom:latitude":39.95557,
+    "geom:longitude":32.790318,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad Cinardibi",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 389 4940",
+    "sg:postcode":"46000",
+    "sg:province":"81430",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904093,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37y8K6P5osVHX8u3Yay2sM_39.955570_32.790318@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6c56b8f323285be92698830d692608d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904093,
+            "region_id":85679409,
+            "venue_id":169537013
+        }
+    ],
+    "wof:id":169537013,
+    "wof:lastmodified":1449033499,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85904093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.790318,39.95557,32.790318,39.95557],
+  "geometry": {"coordinates":[32.790318,39.95557],"type":"Point"}
+}

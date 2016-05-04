@@ -1,0 +1,59 @@
+{
+  "id": 169580639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.725166,40.979252,28.725166,40.979252",
+    "geom:latitude":40.979252,
+    "geom:longitude":28.725166,
+    "iso:country":"TR",
+    "sg:address":"Resit Pasa Cad No: 36",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 590 9971",
+    "sg:postcode":"34840",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fRbT9Q47xfe2pgQHdsAD5_40.979252_28.725166@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"730e1eae7cb325d8a067cdf3228c615d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":169580639
+        }
+    ],
+    "wof:id":169580639,
+    "wof:lastmodified":1449034917,
+    "wof:name":"Eren Kundura",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.725166,40.979252,28.725166,40.979252],
+  "geometry": {"coordinates":[28.725166,40.979252],"type":"Point"}
+}

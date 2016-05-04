@@ -1,0 +1,64 @@
+{
+  "id": 169574025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.030718,41.084877,29.030718,41.084877",
+    "geom:latitude":41.084877,
+    "geom:longitude":29.030718,
+    "iso:country":"TR",
+    "sg:address":"Toros Binasi",
+    "sg:city":"Akatlar",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 6469",
+    "sg:postcode":"34335",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YmbaQNr9E8eSvrc1Y5YQP_41.084877_29.030718@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a59cdae1a025a2a4d7d43d13fc369e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169574025
+        }
+    ],
+    "wof:id":169574025,
+    "wof:lastmodified":1449032664,
+    "wof:name":"Toros Deniz A.s.",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.030718,41.084877,29.030718,41.084877],
+  "geometry": {"coordinates":[29.030718,41.084877],"type":"Point"}
+}

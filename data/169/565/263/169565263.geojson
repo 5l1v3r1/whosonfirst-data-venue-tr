@@ -1,0 +1,63 @@
+{
+  "id": 169565263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.012461,41.062237,29.012461,41.062237",
+    "geom:latitude":41.062237,
+    "geom:longitude":29.012461,
+    "iso:country":"TR",
+    "sg:address":"Sakir Kesebir Cd. No:27 Balmumcu",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 1685",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f6ZKn8uHjmfXpll3PXCp6_41.062237_29.012461@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f219d537e6d5e3ddbde0ca189ef3132",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169565263
+        }
+    ],
+    "wof:id":169565263,
+    "wof:lastmodified":1449035669,
+    "wof:name":"As Guvenlik Sistemleri",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.012461,41.062237,29.012461,41.062237],
+  "geometry": {"coordinates":[29.012461,41.062237],"type":"Point"}
+}

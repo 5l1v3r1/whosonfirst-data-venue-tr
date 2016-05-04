@@ -1,0 +1,65 @@
+{
+  "id": 169551587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.885977,41.016563,28.885977,41.016563",
+    "geom:latitude":41.016563,
+    "geom:longitude":28.885977,
+    "iso:country":"TR",
+    "sg:address":"Akasya Sk. 8merter",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 2233",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4sMpTqJqEHbUBFqTGqEE_41.016563_28.885977@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f48ee6896653d6e3c08be9c03729eb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169551587
+        }
+    ],
+    "wof:id":169551587,
+    "wof:lastmodified":1449033353,
+    "wof:name":"Sabah Yatak San. Tic. A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [28.885977,41.016563,28.885977,41.016563],
+  "geometry": {"coordinates":[28.885977,41.016563],"type":"Point"}
+}

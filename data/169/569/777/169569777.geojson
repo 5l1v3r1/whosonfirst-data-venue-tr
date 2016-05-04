@@ -1,0 +1,64 @@
+{
+  "id": 169569777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.71479,36.898281,30.71479,36.898281",
+    "geom:latitude":36.898281,
+    "geom:longitude":30.71479,
+    "iso:country":"TR",
+    "sg:address":"Etiler Mah. Kizilirmak Cad.no: 5/b",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 321 3041",
+    "sg:postcode":"65710",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929789,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hd6VO9hOYtn9WSVZr0qOg_36.898281_30.714790@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6892cb2c0f378bda7d247d93c7d207d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929789,
+            "region_id":85679263,
+            "venue_id":169569777
+        }
+    ],
+    "wof:id":169569777,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Security Company S.a.",
+    "wof:parent_id":85929789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [30.71479,36.898281,30.71479,36.898281],
+  "geometry": {"coordinates":[30.71479,36.898281],"type":"Point"}
+}

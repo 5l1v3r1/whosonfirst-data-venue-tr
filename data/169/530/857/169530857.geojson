@@ -1,0 +1,63 @@
+{
+  "id": 169530857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.131691,38.423813,27.131691,38.423813",
+    "geom:latitude":38.423813,
+    "geom:longitude":27.131691,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bul 41",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 5501",
+    "sg:province":"35210",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929641,
+        85632393,
+        85679201
+    ],
+    "wof:brand_id":420573887,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T3popbLf5d3NaoqflzwRI_38.423813_27.131691@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a0bc3c2d90d1224fba80f8f274eb8987",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":169530857
+        }
+    ],
+    "wof:id":169530857,
+    "wof:lastmodified":1457207802,
+    "wof:name":"Banca Di Roma",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.131691,
+    38.423813,
+    27.131691,
+    38.423813
+],
+  "geometry": {"coordinates":[27.131691,38.423813],"type":"Point"}
+}

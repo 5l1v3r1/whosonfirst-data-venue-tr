@@ -1,0 +1,64 @@
+{
+  "id": 169556471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.953873,41.040646,28.953873,41.040646",
+    "geom:latitude":41.040646,
+    "geom:longitude":28.953873,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad. No. 155 / 6 Zincirlikuyu",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 0350",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906535,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OCuVPt29Bb8LAJbgGnzIr_41.040646_28.953873@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c7eb9522fd2f80cad60dd3ccf8022d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906535,
+            "region_id":85679237,
+            "venue_id":169556471
+        }
+    ],
+    "wof:id":169556471,
+    "wof:lastmodified":1449033507,
+    "wof:name":"Bedsamak Turizm Tic.ltd.sti.",
+    "wof:parent_id":85906535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.953873,41.040646,28.953873,41.040646],
+  "geometry": {"coordinates":[28.953873,41.040646],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169576319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.001829,41.109997,29.001829,41.109997",
+    "geom:latitude":41.109997,
+    "geom:longitude":29.001829,
+    "iso:country":"TR",
+    "sg:address":"Ayazaga Cendere Yolu No:10 34396 Ayazaga",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122892300729",
+    "sg:postcode":"34396",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Po31Y29g4vXCpMDOQk6uQ_41.109997_29.001829@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25be26fc1293b9326a71bfa082e228e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169576319
+        }
+    ],
+    "wof:id":169576319,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Evyap Deniz Isletmeciligi, Lojistik Ve Insaat A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.001829,41.109997,29.001829,41.109997],
+  "geometry": {"coordinates":[29.001829,41.109997],"type":"Point"}
+}

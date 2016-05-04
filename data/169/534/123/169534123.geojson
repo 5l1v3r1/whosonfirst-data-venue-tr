@@ -1,0 +1,58 @@
+{
+  "id": 169534123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.272541,39.905956,41.272541,39.905956",
+    "geom:latitude":39.905956,
+    "geom:longitude":41.272541,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad 70",
+    "sg:city":"Erzurum",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 442 233 6203",
+    "sg:postcode":"25750",
+    "sg:province":"25100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911101,
+        85679369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QqYQBnymGXuEeMn0xA5Tr_39.905956_41.272541@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a9297969c2e004ce75bc840fe25468b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911101,
+            "neighbourhood_id":-1,
+            "region_id":85679369,
+            "venue_id":169534123
+        }
+    ],
+    "wof:id":169534123,
+    "wof:lastmodified":1449033548,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [41.272541,39.905956,41.272541,39.905956],
+  "geometry": {"coordinates":[41.272541,39.905956],"type":"Point"}
+}

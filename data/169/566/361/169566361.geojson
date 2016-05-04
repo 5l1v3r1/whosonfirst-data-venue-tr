@@ -1,0 +1,63 @@
+{
+  "id": 169566361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.848999,39.941708,32.848999,39.941708",
+    "geom:latitude":39.941708,
+    "geom:longitude":32.848999,
+    "iso:country":"TR",
+    "sg:address":"Sanayi Cad.kurucesme Sok. No:6/19 Ulus",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 312 3715",
+    "sg:postcode":"06550",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929577,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MiHgzJrV3HJyfz2XD68x7_39.941708_32.848999@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0755833bc679cc97f70bcfc008e4258f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":169566361
+        }
+    ],
+    "wof:id":169566361,
+    "wof:lastmodified":1449032753,
+    "wof:name":"Cem Anten Ve Elektrik Malzemeleri",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.848999,39.941708,32.848999,39.941708],
+  "geometry": {"coordinates":[32.848999,39.941708],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169664489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.941519,41.017017,28.941519,41.017017",
+    "geom:latitude":41.017017,
+    "geom:longitude":28.941519,
+    "iso:country":"TR",
+    "sg:address":"Akdeniz Cd. Albay Cemil S. Sk. No:5/1 Fatih",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 534 6815",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904161,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tXcDEfv998eV5gyELOkjX_41.017017_28.941519@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"20b37dc0c3c65679639ae4009fd6b827",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":169664489
+        }
+    ],
+    "wof:id":169664489,
+    "wof:lastmodified":1449033913,
+    "wof:name":"Mert ?elik Mutfak Ara?. ?rt. Paz. Ltd. Sti.",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.941519,41.017017,28.941519,41.017017],
+  "geometry": {"coordinates":[28.941519,41.017017],"type":"Point"}
+}

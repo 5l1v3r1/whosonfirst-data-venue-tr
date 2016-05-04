@@ -1,0 +1,65 @@
+{
+  "id": 169607747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.952814,41.073502,28.952814,41.073502",
+    "geom:latitude":41.073502,
+    "geom:longitude":28.952814,
+    "iso:country":"TR",
+    "sg:address":"Yenidogan Mh. A. Ipek? Cd. Zorlu Sk. No:2/70 Bayrampasa",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 4657",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30HuBJHLrjgBq07GsHCJsN_41.073502_28.952814@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ccf9e90d5df70a7a1c3469280f758880",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":169607747
+        }
+    ],
+    "wof:id":169607747,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Sena Teks. San. Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.952814,41.073502,28.952814,41.073502],
+  "geometry": {"coordinates":[28.952814,41.073502],"type":"Point"}
+}

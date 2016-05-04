@@ -1,0 +1,59 @@
+{
+  "id": 169545849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.133387,40.934162,29.133387,40.934162",
+    "geom:latitude":40.934162,
+    "geom:longitude":29.133387,
+    "iso:country":"TR",
+    "sg:address":"Cam Sokak No.3",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 4646",
+    "sg:postcode":"63570",
+    "sg:province":"06041",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929949,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S9Az14UYBDQfDICSirfCD_40.934162_29.133387@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"014ae73edc06196005777ec6eec70b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929949,
+            "region_id":85679237,
+            "venue_id":169545849
+        }
+    ],
+    "wof:id":169545849,
+    "wof:lastmodified":1449033484,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85929949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.133387,40.934162,29.133387,40.934162],
+  "geometry": {"coordinates":[29.133387,40.934162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169654807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.073767,40.985809,29.073767,40.985809",
+    "geom:latitude":40.985809,
+    "geom:longitude":29.073767,
+    "iso:country":"TR",
+    "sg:address":"Sair Arsi Caddesi No:62 Merdivenk?y",
+    "sg:city":"G?ztepe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2163602170350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "box",
+        "cupboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H23TuCK1VrBH8BrYOquFj_40.985809_29.073767@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24b3985558126c12c2250a1b562fc8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169654807
+        }
+    ],
+    "wof:id":169654807,
+    "wof:lastmodified":1449033792,
+    "wof:name":"Dilaver ?elik Para Kasalari Ve ?elik San.tic.ltd.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "box",
+        "cupboard"
+    ]
+},
+  "bbox": [29.073767,40.985809,29.073767,40.985809],
+  "geometry": {"coordinates":[29.073767,40.985809],"type":"Point"}
+}

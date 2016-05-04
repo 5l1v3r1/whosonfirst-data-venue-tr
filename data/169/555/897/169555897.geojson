@@ -1,0 +1,65 @@
+{
+  "id": 169555897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.922289,41.019638,28.922289,41.019638",
+    "geom:latitude":41.019638,
+    "geom:longitude":28.922289,
+    "iso:country":"TR",
+    "sg:address":"Davutpasa Cad. No:10 34015 Topkapi Istanbul",
+    "sg:city":"Atasehir",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 6800",
+    "sg:postcode":"81120",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904123,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fQQ2AGfpV7fTMWvSGFg7a_41.019638_28.922289@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3b850f1646d381cd53e0459eeb25048b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":169555897
+        }
+    ],
+    "wof:id":169555897,
+    "wof:lastmodified":1449035496,
+    "wof:name":"Ulker Gida San. Ve Tic. A.s.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "bread"
+    ]
+},
+  "bbox": [28.922289,41.019638,28.922289,41.019638],
+  "geometry": {"coordinates":[28.922289,41.019638],"type":"Point"}
+}

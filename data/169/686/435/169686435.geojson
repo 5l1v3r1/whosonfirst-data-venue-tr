@@ -1,0 +1,67 @@
+{
+  "id": 169686435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.891209,39.960293,32.891209,39.960293",
+    "geom:latitude":39.960293,
+    "geom:longitude":32.891209,
+    "iso:country":"TR",
+    "sg:address":"Karacakaya Cd. No:73/12 Siteler",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 349 5107",
+    "sg:postcode":"41400",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904155,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GyKCTPhAMGsqFehx9Hn6R_39.960293_32.891209@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9ed8770707a81df243efc5186faa7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":169686435
+        }
+    ],
+    "wof:id":169686435,
+    "wof:lastmodified":1449035159,
+    "wof:name":"Ankara Mensucat Pazarlama San. Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtaining",
+        "-",
+        "upholstering"
+    ]
+},
+  "bbox": [32.891209,39.960293,32.891209,39.960293],
+  "geometry": {"coordinates":[32.891209,39.960293],"type":"Point"}
+}

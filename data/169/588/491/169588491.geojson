@@ -1,0 +1,64 @@
+{
+  "id": 169588491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.245754,38.672215,39.245754,38.672215",
+    "geom:latitude":38.672215,
+    "geom:longitude":39.245754,
+    "iso:country":"TR",
+    "sg:address":"Gazi Mah.1320.sok. No:14",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 329 0305",
+    "sg:postcode":"52750",
+    "sg:province":"I?el",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MdBTsJ0e5c3JHXO9bzjD5_38.672215_39.245754@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"213f3bdfcedb68f1657bd7955695fae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679299,
+            "venue_id":169588491
+        }
+    ],
+    "wof:id":169588491,
+    "wof:lastmodified":1449035309,
+    "wof:name":"Kuzey Enerji Sanayi Ve Tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [39.245754,38.672215,39.245754,38.672215],
+  "geometry": {"coordinates":[39.245754,38.672215],"type":"Point"}
+}

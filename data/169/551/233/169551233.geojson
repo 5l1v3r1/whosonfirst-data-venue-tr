@@ -1,0 +1,65 @@
+{
+  "id": 169551233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.710487,40.996407,28.710487,40.996407",
+    "geom:latitude":40.996407,
+    "geom:longitude":28.710487,
+    "iso:country":"TR",
+    "sg:address":"Uran Cd. No:62 Avcilar",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 6875",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FEO2zqa3Jobnos0TcBLZn_40.996407_28.710487@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b00c529d4303187d2ddf85f120cfa58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169551233
+        }
+    ],
+    "wof:id":169551233,
+    "wof:lastmodified":1449033355,
+    "wof:name":"Danis Yayli Yatak Uzdas A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [28.710487,40.996407,28.710487,40.996407],
+  "geometry": {"coordinates":[28.710487,40.996407],"type":"Point"}
+}

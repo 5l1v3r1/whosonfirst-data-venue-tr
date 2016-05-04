@@ -1,0 +1,58 @@
+{
+  "id": 169536287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.872501,40.984142,28.872501,40.984142",
+    "geom:latitude":40.984142,
+    "geom:longitude":28.872501,
+    "iso:country":"TR",
+    "sg:address":"Incirli Cad 26",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 8334",
+    "sg:province":"34740",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12mv0TYk5FWkqzrb1lHAIh_40.984142_28.872501@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"344b5fc1ca001df4a005c2ef3172ce9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169536287
+        }
+    ],
+    "wof:id":169536287,
+    "wof:lastmodified":1449034656,
+    "wof:name":"Interbank As",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.872501,40.984142,28.872501,40.984142],
+  "geometry": {"coordinates":[28.872501,40.984142],"type":"Point"}
+}

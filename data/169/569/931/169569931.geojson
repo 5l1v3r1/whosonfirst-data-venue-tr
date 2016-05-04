@@ -1,0 +1,64 @@
+{
+  "id": 169569931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.002222,41.082184,29.002222,41.082184",
+    "geom:latitude":41.082184,
+    "geom:longitude":29.002222,
+    "iso:country":"TR",
+    "sg:address":"Altinay Cad. K?e Han No.31 K.4 Seyrantepe",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 321 6070",
+    "sg:postcode":"80260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2860bComKxyoMiiWfCd76F_41.082184_29.002222@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50f4a625aa7ffade30d43af2ee5a988e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":169569931
+        }
+    ],
+    "wof:id":169569931,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Sistematik Proje Danismanlik Guvenlik Sistemleri",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.002222,41.082184,29.002222,41.082184],
+  "geometry": {"coordinates":[29.002222,41.082184],"type":"Point"}
+}

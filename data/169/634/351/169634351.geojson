@@ -1,0 +1,59 @@
+{
+  "id": 169634351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.09119,41.026814,29.09119,41.026814",
+    "geom:latitude":41.026814,
+    "geom:longitude":29.09119,
+    "iso:country":"TR",
+    "sg:address":"Ataturk Mah. Karanfil Sok. No:5 Umraniye",
+    "sg:city":"Fethiye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 443 0053",
+    "sg:postcode":"44000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GK24drQrPElk1BT2WaU0u_41.026814_29.091190@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77cec28982e8d5fc9b20578f5bdd25a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":169634351
+        }
+    ],
+    "wof:id":169634351,
+    "wof:lastmodified":1449034257,
+    "wof:name":"Alper Kitap Kirtasiye",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.09119,41.026814,29.09119,41.026814],
+  "geometry": {"coordinates":[29.09119,41.026814],"type":"Point"}
+}

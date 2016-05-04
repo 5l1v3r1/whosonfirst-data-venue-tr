@@ -1,0 +1,63 @@
+{
+  "id": 169555659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.5418,38.755798,30.5418,38.755798",
+    "geom:latitude":38.755798,
+    "geom:longitude":30.5418,
+    "iso:country":"TR",
+    "sg:address":"Konya Karayolu 21.km",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 272 248 3480",
+    "sg:postcode":"07700",
+    "sg:province":"Afyon",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911145,
+        85679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Au3ENm3fXCnSA1RNLpRD8_38.755798_30.541800@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6a6010eab95bb945a42d81d4ff83bcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911145,
+            "neighbourhood_id":-1,
+            "region_id":85679267,
+            "venue_id":169555659
+        }
+    ],
+    "wof:id":169555659,
+    "wof:lastmodified":1449035494,
+    "wof:name":"Turkiye Seker Fab. A.s. Afyon Seker Fabrikasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [30.5418,38.755798,30.5418,38.755798],
+  "geometry": {"coordinates":[30.5418,38.755798],"type":"Point"}
+}

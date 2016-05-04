@@ -1,0 +1,66 @@
+{
+  "id": 169588667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.974968,41.022114,28.974968,41.022114",
+    "geom:latitude":41.022114,
+    "geom:longitude":28.974968,
+    "iso:country":"TR",
+    "sg:address":"Karakoy",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 6042",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906581,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nxh0PJY3Hhw4AHXW7OMXq_41.022114_28.974968@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a71e321e5ac504e04a6a9e9879f5f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906581,
+            "region_id":85679237,
+            "venue_id":169588667
+        }
+    ],
+    "wof:id":169588667,
+    "wof:lastmodified":1449035311,
+    "wof:name":"Ohm Elektronik Ltd.sti.",
+    "wof:parent_id":85906581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.974968,41.022114,28.974968,41.022114],
+  "geometry": {"coordinates":[28.974968,41.022114],"type":"Point"}
+}

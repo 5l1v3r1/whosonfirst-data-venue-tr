@@ -1,0 +1,64 @@
+{
+  "id": 169556405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.707661,36.880505,30.707661,36.880505",
+    "geom:latitude":36.880505,
+    "geom:longitude":30.707661,
+    "iso:country":"TR",
+    "sg:address":"Zerdalilik Mah. 1382 Sk. No. 26 / B",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 322 4372",
+    "sg:postcode":"36100",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67YDFJCIUJmKobnmCNYLOy_36.880505_30.707661@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ec6e8fc359b9d5d50c51950bf5cc749b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":169556405
+        }
+    ],
+    "wof:id":169556405,
+    "wof:lastmodified":1449033508,
+    "wof:name":"Art Turizm San. Tic. A.s.",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [30.707661,36.880505,30.707661,36.880505],
+  "geometry": {"coordinates":[30.707661,36.880505],"type":"Point"}
+}

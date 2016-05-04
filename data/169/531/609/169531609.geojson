@@ -1,0 +1,57 @@
+{
+  "id": 169531609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.854053,39.957485,32.854053,39.957485",
+    "geom:latitude":39.957485,
+    "geom:longitude":32.854053,
+    "iso:country":"TR",
+    "sg:address":"Cadesi 13, Besevler, Ankara",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Ankara",
+    "sg:website":"http://www.spk.gov.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929513,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UU4wdDdR4HcNZIDJUp5dC_39.957485_32.854053@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"27a5ce1c3525f7dda1792f411d62164c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":169531609
+        }
+    ],
+    "wof:id":169531609,
+    "wof:lastmodified":1449033474,
+    "wof:name":"Capital Markets Board",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.854053,39.957485,32.854053,39.957485],
+  "geometry": {"coordinates":[32.854053,39.957485],"type":"Point"}
+}

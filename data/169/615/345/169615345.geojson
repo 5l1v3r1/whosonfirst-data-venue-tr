@@ -1,0 +1,62 @@
+{
+  "id": 169615345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"42.820835,41.113056,42.820835,41.113056",
+    "geom:latitude":41.113056,
+    "geom:longitude":42.820835,
+    "iso:country":"TR",
+    "sg:address":"Ardahan",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 478 211 3044",
+    "sg:postcode":"34660",
+    "sg:province":"Ardahan",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MI8xZ76BOMaGh7qC1rcSn_41.113056_42.820835@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2065888adbf6f47abbaa2c2aa43a5246",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679511,
+            "venue_id":169615345
+        }
+    ],
+    "wof:id":169615345,
+    "wof:lastmodified":1449033735,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [42.820835,41.113056,42.820835,41.113056],
+  "geometry": {"coordinates":[42.820835,41.113056],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 169685327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.979118,41.023869,28.979118,41.023869",
+    "geom:latitude":41.023869,
+    "geom:longitude":28.979118,
+    "iso:country":"TR",
+    "sg:address":"Kemenkes Sok.no:26/3",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 8790",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwater",
+        "working"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16uWbON0o8sMewArImc0k4_41.023869_28.979118@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07fe8748b3fd2bf27c3f974fef944647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":169685327
+        }
+    ],
+    "wof:id":169685327,
+    "wof:lastmodified":1449035883,
+    "wof:name":"Metear Deniz Isleri A.s.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwater",
+        "working"
+    ]
+},
+  "bbox": [28.979118,41.023869,28.979118,41.023869],
+  "geometry": {"coordinates":[28.979118,41.023869],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169586833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.49696,37.892059,32.49696,37.892059",
+    "geom:latitude":37.892059,
+    "geom:longitude":32.49696,
+    "iso:country":"TR",
+    "sg:address":"Hazim Ulusahin Is Mrk. A Blk. No:5",
+    "sg:city":"Sel?uklu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 236 1813",
+    "sg:postcode":"42060",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DJgWfKw69NF3D7qkjHDN4_37.892059_32.496960@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"681a7e6560e2887bce2e79e0fa4e277e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679425,
+            "venue_id":169586833
+        }
+    ],
+    "wof:id":169586833,
+    "wof:lastmodified":1449035573,
+    "wof:name":"Ceysan G?nes Kollekt?rleri San. Ve Ti?.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [32.49696,37.892059,32.49696,37.892059],
+  "geometry": {"coordinates":[32.49696,37.892059],"type":"Point"}
+}

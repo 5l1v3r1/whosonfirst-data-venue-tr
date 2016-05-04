@@ -1,0 +1,57 @@
+{
+  "id": 169531935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.268559,40.89883,29.268559,40.89883",
+    "geom:latitude":40.89883,
+    "geom:longitude":29.268559,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad 34",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 4696",
+    "sg:postcode":"46000",
+    "sg:province":"81410",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JfJrKgObktEID8GQ3UdMh_40.898830_29.268559@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d39057364b54c19a745e53644bc3774f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169531935
+        }
+    ],
+    "wof:id":169531935,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.268559,40.89883,29.268559,40.89883],
+  "geometry": {"coordinates":[29.268559,40.89883],"type":"Point"}
+}

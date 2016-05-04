@@ -1,0 +1,65 @@
+{
+  "id": 169604239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005051,41.046379,29.005051,41.046379",
+    "geom:latitude":41.046379,
+    "geom:longitude":29.005051,
+    "iso:country":"TR",
+    "sg:address":"Sair Nedim Cd. ?esme Sk. No:2 Besiktas",
+    "sg:city":"07230",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 0041",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RGTRL2BAjGqu8MTPmiLc7_41.046379_29.005051@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da4c47d9fa87c69dc81175ced691ab00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":169604239
+        }
+    ],
+    "wof:id":169604239,
+    "wof:lastmodified":1449035568,
+    "wof:name":"Conteks I? Dis Tic. A.s.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.005051,41.046379,29.005051,41.046379],
+  "geometry": {"coordinates":[29.005051,41.046379],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169612315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.291389,37.743332,29.291389,37.743332",
+    "geom:latitude":37.743332,
+    "geom:longitude":29.291389,
+    "iso:country":"TR",
+    "sg:address":"Denizli",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 261 1900",
+    "sg:postcode":"34660",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I6FVUHzQTEMELbUbxfQmr_37.743332_29.291389@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3c11004bef7e822b7143046a0db1f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679277,
+            "venue_id":169612315
+        }
+    ],
+    "wof:id":169612315,
+    "wof:lastmodified":1449034132,
+    "wof:name":"Askeri Hastane",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [29.291389,37.743332,29.291389,37.743332],
+  "geometry": {"coordinates":[29.291389,37.743332],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 169557451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.9839,41.058662,28.9839,41.058662",
+    "geom:latitude":41.058662,
+    "geom:longitude":28.9839,
+    "iso:country":"TR",
+    "sg:address":"Siracevizler Cad. No. 46 / A 80260 Sisli",
+    "sg:city":"Besy?evler",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122414236224",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237,
+        85929403,
+        101912685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xmg0dFvORhcE2uzIZhAyv_41.058662_28.983900@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1853ff59a610c93de35baff88901a835",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169557451
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":169557451
+        }
+    ],
+    "wof:id":169557451,
+    "wof:lastmodified":1449035036,
+    "wof:name":"Sankurt Insaat Taahh?t San. Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [28.9839,41.058662,28.9839,41.058662],
+  "geometry": {"coordinates":[28.9839,41.058662],"type":"Point"}
+}

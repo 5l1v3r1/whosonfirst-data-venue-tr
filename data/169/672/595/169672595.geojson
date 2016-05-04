@@ -1,0 +1,63 @@
+{
+  "id": 169672595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.72942,39.97715,32.72942,39.97715",
+    "geom:latitude":39.97715,
+    "geom:longitude":32.72942,
+    "iso:country":"TR",
+    "sg:address":"Ergazi Mah. Gersan San. Sit. 654. Sk. No. 26 Batikent",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Square",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 255 0932",
+    "sg:postcode":"06370",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYuXNYZ1HY0GBrZTMEFBg_39.977150_32.729420@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ec94fa657fe727b1ea9ecb49507456b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169672595
+        }
+    ],
+    "wof:id":169672595,
+    "wof:lastmodified":1449032890,
+    "wof:name":"Global G?zetim V E Analiz Hizmetleri Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [32.72942,39.97715,32.72942,39.97715],
+  "geometry": {"coordinates":[32.72942,39.97715],"type":"Point"}
+}

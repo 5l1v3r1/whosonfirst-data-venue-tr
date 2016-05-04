@@ -1,0 +1,58 @@
+{
+  "id": 169537519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.88039,39.896893,32.88039,39.896893",
+    "geom:latitude":39.896893,
+    "geom:longitude":32.88039,
+    "iso:country":"TR",
+    "sg:address":"Ugur Mumcu Cad 88",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 447 5506",
+    "sg:postcode":"63570",
+    "sg:province":"06650",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I9izwUbODBkh2F6lKKPGy_39.896893_32.880390@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e5356665123cbf2ce7fbce676b054021",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169537519
+        }
+    ],
+    "wof:id":169537519,
+    "wof:lastmodified":1449033500,
+    "wof:name":"K?fezbank",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.88039,39.896893,32.88039,39.896893],
+  "geometry": {"coordinates":[32.88039,39.896893],"type":"Point"}
+}

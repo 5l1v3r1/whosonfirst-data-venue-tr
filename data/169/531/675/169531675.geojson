@@ -1,0 +1,58 @@
+{
+  "id": 169531675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.032593,41.09853,29.032593,41.09853",
+    "geom:latitude":41.09853,
+    "geom:longitude":29.032593,
+    "iso:country":"TR",
+    "sg:address":"B??dere Cad 108/a",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 11752930",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DC8l5Kkv8Md6NGEVge8Zx_41.098530_29.032593@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e95088c2623c3eb408e2eb20a7167da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":169531675
+        }
+    ],
+    "wof:id":169531675,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Chemical Mitsui Bank As",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.032593,41.09853,29.032593,41.09853],
+  "geometry": {"coordinates":[29.032593,41.09853],"type":"Point"}
+}

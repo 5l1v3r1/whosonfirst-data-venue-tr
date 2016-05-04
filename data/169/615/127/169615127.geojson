@@ -1,0 +1,62 @@
+{
+  "id": 169615127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.862221,38.430832,33.862221,38.430832",
+    "geom:latitude":38.430832,
+    "geom:longitude":33.862221,
+    "iso:country":"TR",
+    "sg:address":"Aksaray",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 382 212 9100",
+    "sg:postcode":"34660",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oN2bDaCQEVkhxeyDgvDBx_38.430832_33.862221@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"afe8889241db76934b8747fee1d32e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679457,
+            "venue_id":169615127
+        }
+    ],
+    "wof:id":169615127,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [33.862221,38.430832,33.862221,38.430832],
+  "geometry": {"coordinates":[33.862221,38.430832],"type":"Point"}
+}

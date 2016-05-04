@@ -1,0 +1,62 @@
+{
+  "id": 169628015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.129166,39.323891,34.129166,39.323891",
+    "geom:latitude":39.323891,
+    "geom:longitude":34.129166,
+    "iso:country":"TR",
+    "sg:address":"Kirsehir",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 386 213 4539",
+    "sg:postcode":"34660",
+    "sg:province":"Kirsehir",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SE4nWirpoX4aWHwM8qzDo_39.323891_34.129166@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09aabe045a07d1f7d0c84b02d4f793ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679317,
+            "venue_id":169628015
+        }
+    ],
+    "wof:id":169628015,
+    "wof:lastmodified":1449035333,
+    "wof:name":"Ssk Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [34.129166,39.323891,34.129166,39.323891],
+  "geometry": {"coordinates":[34.129166,39.323891],"type":"Point"}
+}

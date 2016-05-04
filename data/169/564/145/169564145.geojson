@@ -1,0 +1,63 @@
+{
+  "id": 169564145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.99161,41.045483,28.99161,41.045483",
+    "geom:latitude":41.045483,
+    "geom:longitude":28.99161,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cad. Cebbeltopu Sok. No:11/3 Harbiye",
+    "sg:city":"Tasdelen-umraniye",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212225024142",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lJemDN7IS0p56Wj3ilTk5_41.045483_28.991610@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a7e7d2f4e4da45f849d725fc5ae25ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":169564145
+        }
+    ],
+    "wof:id":169564145,
+    "wof:lastmodified":1449035764,
+    "wof:name":"Teksim Egitim Donanimlari Sanayi Ticaret",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [28.99161,41.045483,28.99161,41.045483],
+  "geometry": {"coordinates":[28.99161,41.045483],"type":"Point"}
+}

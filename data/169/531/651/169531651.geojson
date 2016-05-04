@@ -1,0 +1,59 @@
+{
+  "id": 169531651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019218,41.118362,29.019218,41.118362",
+    "geom:latitude":41.118362,
+    "geom:longitude":29.019218,
+    "iso:country":"TR",
+    "sg:address":"Eski Buyukdere Caddesi No 22, Maslak Park Plaza, 80670 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 345 0675",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.ceylanhobling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yDeotU0pR01vH2Cq6uma2_41.118362_29.019218@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e1179ea627c7a1db4f549c331333fe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":169531651
+        }
+    ],
+    "wof:id":169531651,
+    "wof:lastmodified":1449033473,
+    "wof:name":"Ceylan Holding As",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.019218,41.118362,29.019218,41.118362],
+  "geometry": {"coordinates":[29.019218,41.118362],"type":"Point"}
+}

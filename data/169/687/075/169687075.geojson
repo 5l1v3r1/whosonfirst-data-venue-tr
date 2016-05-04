@@ -1,0 +1,65 @@
+{
+  "id": 169687075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.79314,41.092854,28.79314,41.092854",
+    "geom:latitude":41.092854,
+    "geom:longitude":28.79314,
+    "iso:country":"TR",
+    "sg:address":"I.m.?. 1. Blok No:1245",
+    "sg:city":"Unkapani",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 519 2396",
+    "sg:postcode":"34470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929961,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JOxnZlHQGXL5b8IoZCf9I_41.092854_28.793140@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f94785edeb1b7f49809c2ec56d8de358",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":169687075
+        }
+    ],
+    "wof:id":169687075,
+    "wof:lastmodified":1449033610,
+    "wof:name":"Alya Deri & Kumas",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [28.79314,41.092854,28.79314,41.092854],
+  "geometry": {"coordinates":[28.79314,41.092854],"type":"Point"}
+}

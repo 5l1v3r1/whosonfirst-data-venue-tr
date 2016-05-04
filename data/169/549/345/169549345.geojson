@@ -1,0 +1,66 @@
+{
+  "id": 169549345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982441,41.037743,28.982441,41.037743",
+    "geom:latitude":41.037743,
+    "geom:longitude":28.982441,
+    "iso:country":"TR",
+    "sg:address":"Feridiye Cad. No: 48/4 Taksim",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 254 6467",
+    "sg:postcode":"54100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y1U8ByLXei9iTRWHfueS7_41.037743_28.982441@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6e9843b85d1bdb9cb5ec3a054262788",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169549345
+        }
+    ],
+    "wof:id":169549345,
+    "wof:lastmodified":1449033593,
+    "wof:name":"Ensar Rulman",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [28.982441,41.037743,28.982441,41.037743],
+  "geometry": {"coordinates":[28.982441,41.037743],"type":"Point"}
+}

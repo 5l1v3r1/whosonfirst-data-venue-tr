@@ -1,0 +1,66 @@
+{
+  "id": 169663057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.980871,41.079903,28.980871,41.079903",
+    "geom:latitude":41.079903,
+    "geom:longitude":28.980871,
+    "iso:country":"TR",
+    "sg:address":"Bomonti Firin Sk. No:20 Sisli",
+    "sg:city":"Altindag",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 3125",
+    "sg:postcode":"06230",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XwqSZePBO76QQKnZU1B3q_41.079903_28.980871@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c0fa59fc426f3374133261fa6abe4f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169663057
+        }
+    ],
+    "wof:id":169663057,
+    "wof:lastmodified":1449035106,
+    "wof:name":"Kartal?elik Esya San. Tic. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.980871,41.079903,28.980871,41.079903],
+  "geometry": {"coordinates":[28.980871,41.079903],"type":"Point"}
+}

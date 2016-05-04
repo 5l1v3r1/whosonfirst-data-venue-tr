@@ -1,0 +1,59 @@
+{
+  "id": 169643577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.002554,41.052731,29.002554,41.052731",
+    "geom:latitude":41.052731,
+    "geom:longitude":29.002554,
+    "iso:country":"TR",
+    "sg:address":"Emirhan No:30/3 Besiktas",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 238 6143",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CXIgBYAp0HlwGvCEpk9ys_41.052731_29.002554@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fab844804187cd86d687912232d9a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":169643577
+        }
+    ],
+    "wof:id":169643577,
+    "wof:lastmodified":1449035526,
+    "wof:name":"Karinca Kirtasiye",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.002554,41.052731,29.002554,41.052731],
+  "geometry": {"coordinates":[29.002554,41.052731],"type":"Point"}
+}

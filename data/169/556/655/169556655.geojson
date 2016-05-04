@@ -1,0 +1,64 @@
+{
+  "id": 169556655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.043303,40.984245,29.043303,40.984245",
+    "geom:latitude":40.984245,
+    "geom:longitude":29.043303,
+    "iso:country":"TR",
+    "sg:address":"Recep Peker Cad. No. 11 Kiziltoprak",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 345 3830",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lAMN9z0lL9WokHXiClOl8_40.984245_29.043303@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a81bbfa072c142490e49868a08e1e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":169556655
+        }
+    ],
+    "wof:id":169556655,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Efor Havuz San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.043303,40.984245,29.043303,40.984245],
+  "geometry": {"coordinates":[29.043303,40.984245],"type":"Point"}
+}

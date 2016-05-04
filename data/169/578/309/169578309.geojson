@@ -1,0 +1,68 @@
+{
+  "id": 169578309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.719101,41.0061,39.719101,41.0061",
+    "geom:latitude":41.0061,
+    "geom:longitude":39.719101,
+    "iso:country":"TR",
+    "sg:address":"Iskenderpasa Mah. Duzenli Guneysu Is Merkezim No: 7/30",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 321 6025",
+    "sg:postcode":"01350",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Vz87cZiikuqnNd5XuCZZ_41.006100_39.719101@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a567949202a0f309de0269924861dfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":169578309
+        }
+    ],
+    "wof:id":169578309,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Poyraz Denizcilik Turizm Nak.tic.ltd.sti.",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [39.719101,41.0061,39.719101,41.0061],
+  "geometry": {"coordinates":[39.719101,41.0061],"type":"Point"}
+}

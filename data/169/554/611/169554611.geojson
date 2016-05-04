@@ -1,0 +1,63 @@
+{
+  "id": 169554611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.932995,37.575127,36.932995,37.575127",
+    "geom:latitude":37.575127,
+    "geom:longitude":36.932995,
+    "iso:country":"TR",
+    "sg:address":"Trabzon Cad.no.44",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344224066465",
+    "sg:postcode":"01350",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dJrHFxHcVgA3qTuSeULAF_37.575127_36.932995@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bbe4ccffaecc3705a15dd1cd9cf9e6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169554611
+        }
+    ],
+    "wof:id":169554611,
+    "wof:lastmodified":1449033372,
+    "wof:name":"Kervan Pasatane Dondurma Gida San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [36.932995,37.575127,36.932995,37.575127],
+  "geometry": {"coordinates":[36.932995,37.575127],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 169568513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.127455,38.461994,27.127455,38.461994",
+    "geom:latitude":38.461994,
+    "geom:longitude":27.127455,
+    "iso:country":"TR",
+    "sg:address":"1675 Sok. No:141-b Karsiyaka",
+    "sg:city":"06060",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 365 1788",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w8W6bwx3n3RsHfYsAn2FT_38.461994_27.127455@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9fb44e793188ff940daab7cf4cac082e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169568513
+        }
+    ],
+    "wof:id":169568513,
+    "wof:lastmodified":1449032613,
+    "wof:name":"Izmir Serigrafi Ikaz Ve Trafik Levhalari.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [27.127455,38.461994,27.127455,38.461994],
+  "geometry": {"coordinates":[27.127455,38.461994],"type":"Point"}
+}

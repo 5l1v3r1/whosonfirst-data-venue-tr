@@ -1,0 +1,58 @@
+{
+  "id": 169530953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.86997,40.992558,28.86997,40.992558",
+    "geom:latitude":40.992558,
+    "geom:longitude":28.86997,
+    "iso:country":"TR",
+    "sg:address":"Incirli Cad 90",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 6666",
+    "sg:province":"34740",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xj1eo3thRklMtqmcgeaMV_40.992558_28.869970@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0d3aac4727b804d778d4441ab2a24284",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169530953
+        }
+    ],
+    "wof:id":169530953,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Bank Ekspres As",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.86997,40.992558,28.86997,40.992558],
+  "geometry": {"coordinates":[28.86997,40.992558],"type":"Point"}
+}

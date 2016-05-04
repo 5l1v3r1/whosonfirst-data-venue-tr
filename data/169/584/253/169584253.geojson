@@ -1,0 +1,66 @@
+{
+  "id": 169584253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.061443,41.018951,29.061443,41.018951",
+    "geom:latitude":41.018951,
+    "geom:longitude":29.061443,
+    "iso:country":"TR",
+    "sg:address":"Kucukcamlica Cad.no:45",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 6040",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OJsFbtJWC7Q877zeUhy8k_41.018951_29.061443@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fec40ff13b89516b4f73870c7c229cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":169584253
+        }
+    ],
+    "wof:id":169584253,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Camlica Alkolsuz Icecekler A.s.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [29.061443,41.018951,29.061443,41.018951],
+  "geometry": {"coordinates":[29.061443,41.018951],"type":"Point"}
+}

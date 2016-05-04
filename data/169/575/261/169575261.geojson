@@ -1,0 +1,68 @@
+{
+  "id": 169575261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.507751,40.966351,27.507751,40.966351",
+    "geom:latitude":40.966351,
+    "geom:longitude":27.507751,
+    "iso:country":"TR",
+    "sg:address":"Atat?rk Bulvari 28/3",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 261 4540",
+    "sg:postcode":"59100",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s0ewOlxkdBjbcS38CBs2h_40.966351_27.507751@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6241b9f4217393efe35499d89405f5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":169575261
+        }
+    ],
+    "wof:id":169575261,
+    "wof:lastmodified":1449033641,
+    "wof:name":"Bayraktar Gemi Acenteligi Ltd Sti",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.507751,40.966351,27.507751,40.966351],
+  "geometry": {"coordinates":[27.507751,40.966351],"type":"Point"}
+}

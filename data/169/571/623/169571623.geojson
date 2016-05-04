@@ -1,0 +1,62 @@
+{
+  "id": 169571623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.876396,40.975437,28.876396,40.975437",
+    "geom:latitude":40.975437,
+    "geom:longitude":28.876396,
+    "iso:country":"TR",
+    "sg:address":"Kosuyolu Cd.halli Sk. No.3",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 5750",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930019,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wkr6VoiD9LWbzFRpzB5DF_40.975437_28.876396@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98804394c5fc7ac5c5feb32fdd7e24ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930019,
+            "region_id":-1,
+            "venue_id":169571623
+        }
+    ],
+    "wof:id":169571623,
+    "wof:lastmodified":1449034947,
+    "wof:name":"2k Denizcilik Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85930019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.876396,40.975437,28.876396,40.975437],
+  "geometry": {"coordinates":[28.876396,40.975437],"type":"Point"}
+}

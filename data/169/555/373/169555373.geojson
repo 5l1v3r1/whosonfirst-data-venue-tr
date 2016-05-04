@@ -1,0 +1,63 @@
+{
+  "id": 169555373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.499027,37.871536,32.499027,37.871536",
+    "geom:latitude":37.871536,
+    "geom:longitude":32.499027,
+    "iso:country":"TR",
+    "sg:address":"2. Org.san.bol. Guzelkonak Sok. No:28",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 239 0124",
+    "sg:postcode":"63000",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0flAaHBvVgLCzbzL0BI6uk_37.871536_32.499027@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0fa3aa234988f871e077f061c937d6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169555373
+        }
+    ],
+    "wof:id":169555373,
+    "wof:lastmodified":1449035493,
+    "wof:name":"Selva Food Industry Co.inc.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [32.499027,37.871536,32.499027,37.871536],
+  "geometry": {"coordinates":[32.499027,37.871536],"type":"Point"}
+}

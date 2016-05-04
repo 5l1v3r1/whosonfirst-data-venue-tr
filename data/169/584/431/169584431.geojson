@@ -1,0 +1,64 @@
+{
+  "id": 169584431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.404552,37.05455,37.404552,37.05455",
+    "geom:latitude":37.05455,
+    "geom:longitude":37.404552,
+    "iso:country":"TR",
+    "sg:address":"Kenan Evren Bulvari Kocaoglan Mah. No:189",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 227 8781",
+    "sg:postcode":"27000",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1adH8PYgQ5xceksyV282xG_37.054550_37.404552@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2e39545602439c30e4bdc166e8f2b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679437,
+            "venue_id":169584431
+        }
+    ],
+    "wof:id":169584431,
+    "wof:lastmodified":1449033038,
+    "wof:name":"Bogazici Mesrubatlari San Ve Tic.a.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [37.404552,37.05455,37.404552,37.05455],
+  "geometry": {"coordinates":[37.404552,37.05455],"type":"Point"}
+}

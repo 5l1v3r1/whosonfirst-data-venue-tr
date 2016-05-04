@@ -1,0 +1,58 @@
+{
+  "id": 169546795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.846558,39.927845,32.846558,39.927845",
+    "geom:latitude":39.927845,
+    "geom:longitude":32.846558,
+    "iso:country":"TR",
+    "sg:address":"Gazi Mustafa",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 9775",
+    "sg:postcode":"01000",
+    "sg:province":"06570",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929593,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IJZiWnl45n8iid15htB12_39.927845_32.846558@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e2c65cd8060ad0855a14654f337eb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":169546795
+        }
+    ],
+    "wof:id":169546795,
+    "wof:lastmodified":1449032680,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.846558,39.927845,32.846558,39.927845],
+  "geometry": {"coordinates":[32.846558,39.927845],"type":"Point"}
+}

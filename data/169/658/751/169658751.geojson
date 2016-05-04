@@ -1,0 +1,66 @@
+{
+  "id": 169658751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.986826,41.03091,28.986826,41.03091",
+    "geom:latitude":41.03091,
+    "geom:longitude":28.986826,
+    "iso:country":"TR",
+    "sg:address":"Cihangir Cad. 33/5 Beyoglu",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 3942",
+    "sg:postcode":"34188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iNS4lYKGSr0EwyODpaZQV_41.030910_28.986826@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1f9fe6efa0a056363019cca7d7a8e6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":169658751
+        }
+    ],
+    "wof:id":169658751,
+    "wof:lastmodified":1449032614,
+    "wof:name":"Baldini & Co.",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [28.986826,41.03091,28.986826,41.03091],
+  "geometry": {"coordinates":[28.986826,41.03091],"type":"Point"}
+}

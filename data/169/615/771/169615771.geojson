@@ -1,0 +1,62 @@
+{
+  "id": 169615771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.125834,40.106667,30.125834,40.106667",
+    "geom:latitude":40.106667,
+    "geom:longitude":30.125834,
+    "iso:country":"TR",
+    "sg:address":"Bilecik",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 228 212 1036",
+    "sg:postcode":"34660",
+    "sg:province":"Bilecik",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RYam2PrBcFy6mUYc1LETP_40.106667_30.125834@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"182b2d2a743f5a3baf926a86bcdd75db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679227,
+            "venue_id":169615771
+        }
+    ],
+    "wof:id":169615771,
+    "wof:lastmodified":1449033734,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [30.125834,40.106667,30.125834,40.106667],
+  "geometry": {"coordinates":[30.125834,40.106667],"type":"Point"}
+}

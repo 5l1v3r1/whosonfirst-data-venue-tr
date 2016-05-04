@@ -1,0 +1,66 @@
+{
+  "id": 169655783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.71661,41.00655,39.71661,41.00655",
+    "geom:latitude":41.00655,
+    "geom:longitude":39.71661,
+    "iso:country":"TR",
+    "sg:address":"Yeni Sanayi 6. Carsi/70",
+    "sg:city":"Yeni Sanayi",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 236 4000",
+    "sg:postcode":"46010",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "steel",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xw98AYqsesmCW5vasz3Hw_41.006550_39.716610@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b4f0e34302cde0e62edbc2408a302640",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":169655783
+        }
+    ],
+    "wof:id":169655783,
+    "wof:lastmodified":1449034586,
+    "wof:name":"Ikra Metal",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "door"
+    ]
+},
+  "bbox": [39.71661,41.00655,39.71661,41.00655],
+  "geometry": {"coordinates":[39.71661,41.00655],"type":"Point"}
+}

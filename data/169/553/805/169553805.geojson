@@ -1,0 +1,63 @@
+{
+  "id": 169553805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.932867,41.066017,28.932867,41.066017",
+    "geom:latitude":41.066017,
+    "geom:longitude":28.932867,
+    "iso:country":"TR",
+    "sg:address":"Haskoy Cad. No:2-4",
+    "sg:city":"Haskoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 254 7555",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930157,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48uO6zqKi6nP59501VHdhy_41.066017_28.932867@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf03fa10b972a0c9ed61d3a0a0187410",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930157,
+            "region_id":85679237,
+            "venue_id":169553805
+        }
+    ],
+    "wof:id":169553805,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Ender Cikolata Sek. A.s",
+    "wof:parent_id":85930157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.932867,41.066017,28.932867,41.066017],
+  "geometry": {"coordinates":[28.932867,41.066017],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169551741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.796688,41.004204,28.796688,41.004204",
+    "geom:latitude":41.004204,
+    "geom:longitude":28.796688,
+    "iso:country":"TR",
+    "sg:address":"Kemlapasa Mah. Koprulu Sok.no:27 Sefakoy",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 541 3886",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929917,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YHWm8kNof2GPHZvDZEplR_41.004204_28.796688@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61ecc92a2b7ab50f1d8197d014d2f4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":169551741
+        }
+    ],
+    "wof:id":169551741,
+    "wof:lastmodified":1449033352,
+    "wof:name":"Ulkem Yorgancilik",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [28.796688,41.004204,28.796688,41.004204],
+  "geometry": {"coordinates":[28.796688,41.004204],"type":"Point"}
+}

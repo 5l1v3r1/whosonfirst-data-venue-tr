@@ -1,0 +1,65 @@
+{
+  "id": 169662643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.928299,37.589401,36.928299,37.589401",
+    "geom:latitude":37.589401,
+    "geom:longitude":36.928299,
+    "iso:country":"TR",
+    "sg:address":"Yeni Sanayi Sitesi 34.carsi No:72",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344236053334",
+    "sg:postcode":"81240",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78DmTdwPr0QTeHd4VqG8M1_37.589401_36.928299@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aa033acc693f11bbcee13f429fa06bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169662643
+        }
+    ],
+    "wof:id":169662643,
+    "wof:lastmodified":1449034923,
+    "wof:name":"Has Cevher Metal San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [36.928299,37.589401,36.928299,37.589401],
+  "geometry": {"coordinates":[36.928299,37.589401],"type":"Point"}
+}

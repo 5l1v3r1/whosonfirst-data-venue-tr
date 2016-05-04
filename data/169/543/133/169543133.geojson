@@ -1,0 +1,58 @@
+{
+  "id": 169543133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.027485,38.370872,34.027485,38.370872",
+    "geom:latitude":38.370872,
+    "geom:longitude":34.027485,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad 42",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 2480",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911229,
+        85679457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44wuAUOzStKoBboHjFAsYP_38.370872_34.027485@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b3513ab2584108c11dbd362393d30b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911229,
+            "neighbourhood_id":-1,
+            "region_id":85679457,
+            "venue_id":169543133
+        }
+    ],
+    "wof:id":169543133,
+    "wof:lastmodified":1449033336,
+    "wof:name":"T\u00fcrkiye Cumhuriyeti, Ziraat Bankasi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [34.027485,38.370872,34.027485,38.370872],
+  "geometry": {"coordinates":[34.027485,38.370872],"type":"Point"}
+}

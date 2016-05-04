@@ -1,0 +1,64 @@
+{
+  "id": 169588661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.054506,38.49889,27.054506,38.49889",
+    "geom:latitude":38.49889,
+    "geom:longitude":27.054506,
+    "iso:country":"TR",
+    "sg:address":"8754 Sok. No:5/a",
+    "sg:city":"?igli",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 394 2027",
+    "sg:postcode":"35620",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eXuUHVKGOwi3tYDcnefE0_38.498890_27.054506@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c407cec27f2ab740307b998791e49b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169588661
+        }
+    ],
+    "wof:id":169588661,
+    "wof:lastmodified":1449035310,
+    "wof:name":"Mas Al?minyum Profil&g?nes Enerjisi Sistemleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.054506,38.49889,27.054506,38.49889],
+  "geometry": {"coordinates":[27.054506,38.49889],"type":"Point"}
+}

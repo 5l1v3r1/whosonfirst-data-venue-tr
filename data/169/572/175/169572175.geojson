@@ -1,0 +1,62 @@
+{
+  "id": 169572175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.133762,40.916931,29.133762,40.916931",
+    "geom:latitude":40.916931,
+    "geom:longitude":29.133762,
+    "iso:country":"TR",
+    "sg:address":"Yali Mah. Fevzi Cakmak Cad. Simsek Apt.no: 10/b",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 441 0802",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930179,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NAhjxfxGzV6HPTLxQIt04_40.916931_29.133762@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4949922ed4f836b68207831c810f7858",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930179,
+            "region_id":-1,
+            "venue_id":169572175
+        }
+    ],
+    "wof:id":169572175,
+    "wof:lastmodified":1449034707,
+    "wof:name":"Bogazici Kum Cakil Ve Denizcilik Tic.a.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.133762,40.916931,29.133762,40.916931],
+  "geometry": {"coordinates":[29.133762,40.916931],"type":"Point"}
+}

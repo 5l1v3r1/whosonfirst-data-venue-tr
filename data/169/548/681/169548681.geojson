@@ -1,0 +1,66 @@
+{
+  "id": 169548681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"34.900101,36.920101,34.900101,36.920101",
+    "geom:latitude":36.920101,
+    "geom:longitude":34.900101,
+    "iso:country":"TR",
+    "sg:address":"Tarsus Yolu Uzeri Yakakoy Mev. Mersin",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 221 6024",
+    "sg:postcode":"52750",
+    "sg:province":"I?el",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RiKQmqjMINHngNCdprfLV_36.920101_34.900101@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d9711dd9e0e666724fc8cc4e500c9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679313,
+            "venue_id":169548681
+        }
+    ],
+    "wof:id":169548681,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Vuruskan A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [34.900101,36.920101,34.900101,36.920101],
+  "geometry": {"coordinates":[34.900101,36.920101],"type":"Point"}
+}

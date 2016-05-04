@@ -1,0 +1,68 @@
+{
+  "id": 169575293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.988731,41.047634,28.988731,41.047634",
+    "geom:latitude":41.047634,
+    "geom:longitude":28.988731,
+    "iso:country":"TR",
+    "sg:address":"Celebi Hamami Sok. No:10 Kaptan Han",
+    "sg:city":"Findikli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212245231314",
+    "sg:postcode":"01470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TUHMjqKdlu6d8fEB75sxC_41.047634_28.988731@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b478d7f87bcecaf09af8c65df2ddf021",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169575293
+        }
+    ],
+    "wof:id":169575293,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Bebek Yachting & Marimite Agency",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.988731,41.047634,28.988731,41.047634],
+  "geometry": {"coordinates":[28.988731,41.047634],"type":"Point"}
+}

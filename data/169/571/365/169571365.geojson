@@ -1,0 +1,74 @@
+{
+  "id": 169571365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977701,41.025505,28.977701,41.025505",
+    "geom:latitude":41.025505,
+    "geom:longitude":28.977701,
+    "iso:country":"TR",
+    "sg:address":"Kemeralti Cad.no:101 Karakoy",
+    "sg:city":"?akmakli",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 4242",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        85632393,
+        101913185,
+        85679237,
+        85906577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6peBajvqqyNKPipIo9573t_41.025505_28.977701@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66f234368e139f6fe9c411573e410753",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":169571365
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906577,
+            "region_id":85679237,
+            "venue_id":169571365
+        }
+    ],
+    "wof:id":169571365,
+    "wof:lastmodified":1449034946,
+    "wof:name":"Rafsan Raf Sistemleri Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [28.977701,41.025505,28.977701,41.025505],
+  "geometry": {"coordinates":[28.977701,41.025505],"type":"Point"}
+}

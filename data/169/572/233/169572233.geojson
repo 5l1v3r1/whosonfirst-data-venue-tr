@@ -1,0 +1,63 @@
+{
+  "id": 169572233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.016535,41.089859,29.016535,41.089859",
+    "geom:latitude":41.089859,
+    "geom:longitude":29.016535,
+    "iso:country":"TR",
+    "sg:address":"Balmumcu,sakir Kesebir Cd.plaza No.34 D.5",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 5112",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wz6hezBlLHjgftIRPjigz_41.089859_29.016535@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"99c3bf161bbefdafa2f574acc252a111",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169572233
+        }
+    ],
+    "wof:id":169572233,
+    "wof:lastmodified":1449034709,
+    "wof:name":"Cakal Denizcilik A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.016535,41.089859,29.016535,41.089859],
+  "geometry": {"coordinates":[29.016535,41.089859],"type":"Point"}
+}

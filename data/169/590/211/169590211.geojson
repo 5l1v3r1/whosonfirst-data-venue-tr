@@ -1,0 +1,65 @@
+{
+  "id": 169590211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.10323,38.480186,27.10323,38.480186",
+    "geom:latitude":38.480186,
+    "geom:longitude":27.10323,
+    "iso:country":"TR",
+    "sg:address":"10006/1 Sok.no:16 Cigli",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 328 0909",
+    "sg:postcode":"52750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904071,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aOCaTSBvWvhVDhwet22RL_38.480186_27.103230@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7b90cd6a152c39ac61e613a3ff5bf09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":169590211
+        }
+    ],
+    "wof:id":169590211,
+    "wof:lastmodified":1449034652,
+    "wof:name":"Aytas Gida Ve Ihtiyac Maddeleri San.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [27.10323,38.480186,27.10323,38.480186],
+  "geometry": {"coordinates":[27.10323,38.480186],"type":"Point"}
+}

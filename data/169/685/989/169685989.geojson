@@ -1,0 +1,64 @@
+{
+  "id": 169685989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.058104,41.11478,29.058104,41.11478",
+    "geom:latitude":41.11478,
+    "geom:longitude":29.058104,
+    "iso:country":"TR",
+    "sg:address":"Istinye",
+    "sg:city":"Istinye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 285 4983",
+    "sg:postcode":"80880",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WEXjPdOXEoJGwA6qOTE9r_41.114780_29.058104@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"446deec249f3b90a1ef18ba270db0329",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929815,
+            "region_id":85679237,
+            "venue_id":169685989
+        }
+    ],
+    "wof:id":169685989,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Nilberg",
+    "wof:parent_id":85929815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [29.058104,41.11478,29.058104,41.11478],
+  "geometry": {"coordinates":[29.058104,41.11478],"type":"Point"}
+}

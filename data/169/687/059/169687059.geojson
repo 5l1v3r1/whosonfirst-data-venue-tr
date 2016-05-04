@@ -1,0 +1,65 @@
+{
+  "id": 169687059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019112,41.112995,29.019112,41.112995",
+    "geom:latitude":41.112995,
+    "geom:longitude":29.019112,
+    "iso:country":"TR",
+    "sg:address":"4.levent Oto Sanayi Sitesi Celik Sok.celik Sok.no:44 -",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 1028",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23PsrgJuj51o14AUEtvCNP_41.112995_29.019112@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c0c23833e278daf383f2f3f05e3cfe77",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":169687059
+        }
+    ],
+    "wof:id":169687059,
+    "wof:lastmodified":1449033608,
+    "wof:name":"Aksel Jaluzi Ve Perde San.",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [29.019112,41.112995,29.019112,41.112995],
+  "geometry": {"coordinates":[29.019112,41.112995],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169535199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.141411,38.432465,27.141411,38.432465",
+    "geom:latitude":38.432465,
+    "geom:longitude":27.141411,
+    "iso:country":"TR",
+    "sg:address":"1388 Sokak No.16/a",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 9260",
+    "sg:province":"35220",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679201,
+        85632393,
+        85929653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VcmSZPgOfhrzhKqREsBkI_38.432465_27.141411@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33596607785b7eeda2ffbb47a0847c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929653,
+            "region_id":85679201,
+            "venue_id":169535199
+        }
+    ],
+    "wof:id":169535199,
+    "wof:lastmodified":1449033284,
+    "wof:name":"Finansbank As",
+    "wof:parent_id":85929653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.141411,38.432465,27.141411,38.432465],
+  "geometry": {"coordinates":[27.141411,38.432465],"type":"Point"}
+}

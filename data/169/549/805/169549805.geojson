@@ -1,0 +1,66 @@
+{
+  "id": 169549805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.985165,41.039009,28.985165,41.039009",
+    "geom:latitude":41.039009,
+    "geom:longitude":28.985165,
+    "iso:country":"TR",
+    "sg:address":"Lamartin Cd. No:11 K:3 Taksim",
+    "sg:city":"Y?egir",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 238 0126",
+    "sg:postcode":"01280",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bearing",
+        "ball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hB6OgorZLgsEHOHybgFZf_41.039009_28.985165@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c5ce9deca6bad0197d410d0815456091",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":169549805
+        }
+    ],
+    "wof:id":169549805,
+    "wof:lastmodified":1449033590,
+    "wof:name":"Nsk. Rhp Rulmanlari",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bearing",
+        "ball"
+    ]
+},
+  "bbox": [28.985165,41.039009,28.985165,41.039009],
+  "geometry": {"coordinates":[28.985165,41.039009],"type":"Point"}
+}

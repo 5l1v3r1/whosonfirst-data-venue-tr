@@ -1,0 +1,63 @@
+{
+  "id": 169685229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.855824,39.900478,32.855824,39.900478",
+    "geom:latitude":39.900478,
+    "geom:longitude":32.855824,
+    "iso:country":"TR",
+    "sg:address":"Kuveyt Cad.no:12",
+    "sg:city":"Kepsut",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 3589",
+    "sg:postcode":"10660",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TQuPFT8XHp8lvQMsxEkoc_39.900478_32.855824@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ee7d04f8401283bd087ea2fa78ecad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169685229
+        }
+    ],
+    "wof:id":169685229,
+    "wof:lastmodified":1449035887,
+    "wof:name":"Zerrin Yilmaz",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.855824,39.900478,32.855824,39.900478],
+  "geometry": {"coordinates":[32.855824,39.900478],"type":"Point"}
+}

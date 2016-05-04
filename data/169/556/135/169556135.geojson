@@ -1,0 +1,66 @@
+{
+  "id": 169556135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.139418,38.4342,27.139418,38.4342",
+    "geom:latitude":38.4342,
+    "geom:longitude":27.139418,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Bulvari No:185/1 Alsancak",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 422 0929",
+    "sg:postcode":"41400",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679201,
+        85632393,
+        85929653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XmEdwexn2TaHeElYS9sYi_38.434200_27.139418@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c57fc53430382e8f26c0660be510ec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929653,
+            "region_id":85679201,
+            "venue_id":169556135
+        }
+    ],
+    "wof:id":169556135,
+    "wof:lastmodified":1449033505,
+    "wof:name":"Ege Elektronik Lab.",
+    "wof:parent_id":85929653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [27.139418,38.4342,27.139418,38.4342],
+  "geometry": {"coordinates":[27.139418,38.4342],"type":"Point"}
+}

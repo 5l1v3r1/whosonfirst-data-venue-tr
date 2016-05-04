@@ -1,0 +1,64 @@
+{
+  "id": 169610125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984959,41.036392,28.984959,41.036392",
+    "geom:latitude":41.036392,
+    "geom:longitude":28.984959,
+    "iso:country":"TR",
+    "sg:address":"Siraselviler Cad. No: 15",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 6440",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04qRPblC5zcKAcwqku5iiw_41.036392_28.984959@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1bd8030895b60f89d895e818352a0ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169610125
+        }
+    ],
+    "wof:id":169610125,
+    "wof:lastmodified":1449035910,
+    "wof:name":"Taksim Square Hotel",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [28.984959,41.036392,28.984959,41.036392],
+  "geometry": {"coordinates":[28.984959,41.036392],"type":"Point"}
+}

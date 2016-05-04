@@ -1,0 +1,64 @@
+{
+  "id": 169655541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.054678,41.170044,29.054678,41.170044",
+    "geom:latitude":41.170044,
+    "geom:longitude":29.054678,
+    "iso:country":"TR",
+    "sg:address":"Sular Cad. No: 90",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 1765",
+    "sg:postcode":"33740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929827,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68zaSGty9O8g4nA7DbK3rz_41.170044_29.054678@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"069a5a2ceb72ef2b273a55e63eb65de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929827,
+            "region_id":-1,
+            "venue_id":169655541
+        }
+    ],
+    "wof:id":169655541,
+    "wof:lastmodified":1449034586,
+    "wof:name":"Aydinlar Parke-kale ?elik Kapi",
+    "wof:parent_id":85929827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "door"
+    ]
+},
+  "bbox": [29.054678,41.170044,29.054678,41.170044],
+  "geometry": {"coordinates":[29.054678,41.170044],"type":"Point"}
+}

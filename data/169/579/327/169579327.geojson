@@ -1,0 +1,68 @@
+{
+  "id": 169579327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049635,41.010956,29.049635,41.010956",
+    "geom:latitude":41.010956,
+    "geom:longitude":29.049635,
+    "iso:country":"TR",
+    "sg:address":"Acibadem Bayir Sok. No:23-b",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21633910793274",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WBzhcNHLWDPJc3GKl4XFw_41.010956_29.049635@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"952dcab4a7601a8d017b75b747c50d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":169579327
+        }
+    ],
+    "wof:id":169579327,
+    "wof:lastmodified":1449033739,
+    "wof:name":"Uzun Maritime S.a-istanbul",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.049635,41.010956,29.049635,41.010956],
+  "geometry": {"coordinates":[29.049635,41.010956],"type":"Point"}
+}

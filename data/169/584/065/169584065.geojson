@@ -1,0 +1,64 @@
+{
+  "id": 169584065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.897945,40.01527,32.897945,40.01527",
+    "geom:latitude":40.01527,
+    "geom:longitude":32.897945,
+    "iso:country":"TR",
+    "sg:address":"Esenboga Yolu",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 424 2272",
+    "sg:postcode":"06920",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n8nmrWDm2rrRGcvIlCybx_40.015270_32.897945@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b93e9d1cab57e917b4a1eab23c72682",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169584065
+        }
+    ],
+    "wof:id":169584065,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Ansan Gida Ve Mesr. Meyve Suyu San.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [32.897945,40.01527,32.897945,40.01527],
+  "geometry": {"coordinates":[32.897945,40.01527],"type":"Point"}
+}

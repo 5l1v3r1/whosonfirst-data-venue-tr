@@ -1,0 +1,65 @@
+{
+  "id": 169606383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.95755,41.009506,28.95755,41.009506",
+    "geom:latitude":41.009506,
+    "geom:longitude":28.95755,
+    "iso:country":"TR",
+    "sg:address":"Ordu Cd. No:243 Beyazit",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 516 1605",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906505,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YXgnPb8uNElpmS6FmZVC6_41.009506_28.957550@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9bd5103661015d0117bccf3e3caf8c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":169606383
+        }
+    ],
+    "wof:id":169606383,
+    "wof:lastmodified":1449033201,
+    "wof:name":"Lale Sport Center",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [28.95755,41.009506,28.95755,41.009506],
+  "geometry": {"coordinates":[28.95755,41.009506],"type":"Point"}
+}

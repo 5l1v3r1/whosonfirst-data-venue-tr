@@ -1,0 +1,64 @@
+{
+  "id": 169586399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.486576,38.725155,35.486576,38.725155",
+    "geom:latitude":38.725155,
+    "geom:longitude":35.486576,
+    "iso:country":"TR",
+    "sg:address":"Sahabiye Mah Mete Cad No:22/a",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 222 9697",
+    "sg:postcode":"01900",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LjH7obT7ZpeANefhPJ3LG_38.725155_35.486576@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"758f521c7282d2cbdec24fbfaec72aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169586399
+        }
+    ],
+    "wof:id":169586399,
+    "wof:lastmodified":1449035571,
+    "wof:name":"Aker Isi San A.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [35.486576,38.725155,35.486576,38.725155],
+  "geometry": {"coordinates":[35.486576,38.725155],"type":"Point"}
+}

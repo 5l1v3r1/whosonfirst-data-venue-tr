@@ -1,0 +1,64 @@
+{
+  "id": 169569173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.039316,40.994133,29.039316,40.994133",
+    "geom:latitude":40.994133,
+    "geom:longitude":29.039316,
+    "iso:country":"TR",
+    "sg:address":"Hasanpasa Andelip Esat Sok. No:38/9 Kadikoy",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 338 3566",
+    "sg:postcode":"05000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zpfnleW2K66tdYE3Gna7o_40.994133_29.039316@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8cea84a7eec8ba6abf0fcf551753beac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":169569173
+        }
+    ],
+    "wof:id":169569173,
+    "wof:lastmodified":1449035828,
+    "wof:name":"Nokta Elektronik Sistemleri",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.039316,40.994133,29.039316,40.994133],
+  "geometry": {"coordinates":[29.039316,40.994133],"type":"Point"}
+}

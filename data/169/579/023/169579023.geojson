@@ -1,0 +1,68 @@
+{
+  "id": 169579023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.984156,41.045677,28.984156,41.045677",
+    "geom:latitude":41.045677,
+    "geom:longitude":28.984156,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Caddesi ?ftade Sokak No:6/3 Elmadag",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 4140",
+    "sg:postcode":"34373",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79OuQd0m7qt1pBR0VPA70T_41.045677_28.984156@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5574c02d479a39087217e63bc44381b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":169579023
+        }
+    ],
+    "wof:id":169579023,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Travellers Tourism & Meeting Management",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.984156,41.045677,28.984156,41.045677],
+  "geometry": {"coordinates":[28.984156,41.045677],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169533393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.284716,37.718624,30.284716,37.718624",
+    "geom:latitude":37.718624,
+    "geom:longitude":30.284716,
+    "iso:country":"TR",
+    "sg:address":"Gazi Caddesi 30",
+    "sg:city":"Burdur",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 248 232 2020",
+    "sg:postcode":"15000",
+    "sg:province":"15200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911261,
+        85679273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QOcu4gDqamg1LOAGU441q_37.718624_30.284716@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee414a4bcde9355a3eef57f466a94c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911261,
+            "neighbourhood_id":-1,
+            "region_id":85679273,
+            "venue_id":169533393
+        }
+    ],
+    "wof:id":169533393,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.284716,37.718624,30.284716,37.718624],
+  "geometry": {"coordinates":[30.284716,37.718624],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169572493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.019806,41.122284,29.019806,41.122284",
+    "geom:latitude":41.122284,
+    "geom:longitude":29.019806,
+    "iso:country":"TR",
+    "sg:address":"Buyukdere Cd. Ucyol Mevk. Noramin Is Merk. K.2 No:206/211",
+    "sg:city":"Maslak",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 285 0290",
+    "sg:postcode":"34398",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vj0cEwMnYXa5VZoOpUBZt_41.122284_29.019806@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"869e50637a8f67b2bf65c154f1a7abf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":169572493
+        }
+    ],
+    "wof:id":169572493,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Ditas Denizcilikisl.a.s.",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.019806,41.122284,29.019806,41.122284],
+  "geometry": {"coordinates":[29.019806,41.122284],"type":"Point"}
+}

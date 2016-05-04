@@ -1,0 +1,58 @@
+{
+  "id": 169542523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.028519,41.077652,29.028519,41.077652",
+    "geom:latitude":41.077652,
+    "geom:longitude":29.028519,
+    "iso:country":"TR",
+    "sg:address":"Nispetiye Cad 37",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 6952",
+    "sg:province":"80630",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76AZU0ZB1TV9OSavq7LVyT_41.077652_29.028519@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6c7401d811a80458c209f03bd4a4f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":169542523
+        }
+    ],
+    "wof:id":169542523,
+    "wof:lastmodified":1449035222,
+    "wof:name":"T?k Dis Ticaret, Bankasi As",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.028519,41.077652,29.028519,41.077652],
+  "geometry": {"coordinates":[29.028519,41.077652],"type":"Point"}
+}

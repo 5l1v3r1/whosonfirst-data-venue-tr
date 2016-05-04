@@ -1,0 +1,58 @@
+{
+  "id": 169541281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.02239,41.080936,29.02239,41.080936",
+    "geom:latitude":41.080936,
+    "geom:longitude":29.02239,
+    "iso:country":"TR",
+    "sg:address":"Ebulula Cad. 57",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 9501",
+    "sg:province":"80620",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vWXhnh4AfF5e9n73FSUbu_41.080936_29.022390@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63a11138db5eb615f9a5a75a2f30b29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":169541281
+        }
+    ],
+    "wof:id":169541281,
+    "wof:lastmodified":1449033043,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.02239,41.080936,29.02239,41.080936],
+  "geometry": {"coordinates":[29.02239,41.080936],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 169542609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987488,41.029537,28.987488,41.029537",
+    "geom:latitude":41.029537,
+    "geom:longitude":28.987488,
+    "iso:country":"TR",
+    "sg:address":"Meclis-i Mebusan Cad 35, Findikli, 80040 Istanbul",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 2121",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.teb.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KZgsIYTUMRWlEaZTVL5qe_41.029537_28.987488@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f57e14f16ed29d33d468b6b795acaaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":169542609
+        }
+    ],
+    "wof:id":169542609,
+    "wof:lastmodified":1449035220,
+    "wof:name":"T?k Ekonomi Bankasi As",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.987488,41.029537,28.987488,41.029537],
+  "geometry": {"coordinates":[28.987488,41.029537],"type":"Point"}
+}

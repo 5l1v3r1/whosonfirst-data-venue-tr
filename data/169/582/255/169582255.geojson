@@ -1,0 +1,67 @@
+{
+  "id": 169582255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.965797,41.006996,28.965797,41.006996",
+    "geom:latitude":41.006996,
+    "geom:longitude":28.965797,
+    "iso:country":"TR",
+    "sg:address":"M.kemalettin C. No.3/1 Sirkeci",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 3726",
+    "sg:postcode":"27400",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906619,
+        85632393,
+        85679237,
+        85906495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05XrvIRywpMXoo3EOXxpgD_41.006996_28.965797@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"613d38fa08e233e3b569a32dc99bad73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906619,
+            "region_id":85679237,
+            "venue_id":169582255
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906495,
+            "region_id":85679237,
+            "venue_id":169582255
+        }
+    ],
+    "wof:id":169582255,
+    "wof:lastmodified":1449034464,
+    "wof:name":"Saka Korkmaz Paz. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.965797,41.006996,28.965797,41.006996],
+  "geometry": {"coordinates":[28.965797,41.006996],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": 169530275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011358,41.085007,29.011358,41.085007",
+    "geom:latitude":41.085007,
+    "geom:longitude":29.011358,
+    "iso:country":"TR",
+    "sg:address":"Sabanci Center, 4 Levent, 80745 Istanbul",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 9822",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.akbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DSGCZee74NI39gi7jfatM_41.085007_29.011358@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dfcc1fcf171ae49acfaa2d07fb7b7234",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169530275
+        }
+    ],
+    "wof:id":169530275,
+    "wof:lastmodified":1449034442,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.011358,41.085007,29.011358,41.085007],
+  "geometry": {"coordinates":[29.011358,41.085007],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169670265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.852757,39.924023,32.852757,39.924023",
+    "geom:latitude":39.924023,
+    "geom:longitude":32.852757,
+    "iso:country":"TR",
+    "sg:address":"Sumer Sok. 20/5",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 3244",
+    "sg:postcode":"06440",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "sugar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934683,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fdo3OGoOfFNaPMniDGwfM_39.924023_32.852757@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3903c81fa0b8550772adf3ead2b57dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":169670265
+        }
+    ],
+    "wof:id":169670265,
+    "wof:lastmodified":1449033185,
+    "wof:name":"Anadolu Seker A.s.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sugar"
+    ]
+},
+  "bbox": [32.852757,39.924023,32.852757,39.924023],
+  "geometry": {"coordinates":[32.852757,39.924023],"type":"Point"}
+}

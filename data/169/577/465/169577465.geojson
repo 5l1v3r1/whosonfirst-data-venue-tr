@@ -1,0 +1,65 @@
+{
+  "id": 169577465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.670601,40.988499,28.670601,40.988499",
+    "geom:latitude":40.988499,
+    "geom:longitude":28.670601,
+    "iso:country":"TR",
+    "sg:address":"Ambarli Liman Tesis.mardas Iskelesi Yakuplu",
+    "sg:city":"B.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21287527325546",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jsPdyv4LL2nXcLf63x4mz_40.988499_28.670601@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d17206dc2b99ee675246a4e7c5d19a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169577465
+        }
+    ],
+    "wof:id":169577465,
+    "wof:lastmodified":1449036067,
+    "wof:name":"Mardeniz Denizcilik Isletmeleri A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.670601,40.988499,28.670601,40.988499],
+  "geometry": {"coordinates":[28.670601,40.988499],"type":"Point"}
+}

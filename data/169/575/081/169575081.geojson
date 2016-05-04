@@ -1,0 +1,67 @@
+{
+  "id": 169575081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.922012,37.581936,36.922012,37.581936",
+    "geom:latitude":37.581936,
+    "geom:longitude":36.922012,
+    "iso:country":"TR",
+    "sg:address":"Ismet Inonu Bulvari Bati Han No:88/5",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 237 8652",
+    "sg:postcode":"52750",
+    "sg:province":"I?el",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911231,
+        85679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IOTcb4yWmUdbWFngNPubX_37.581936_36.922012@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8a45f6cdb274582bcede88eb2c9a8e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911231,
+            "neighbourhood_id":-1,
+            "region_id":85679303,
+            "venue_id":169575081
+        }
+    ],
+    "wof:id":169575081,
+    "wof:lastmodified":1449033640,
+    "wof:name":"Atamar Denizcilik Tasimacilik Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [36.922012,37.581936,36.922012,37.581936],
+  "geometry": {"coordinates":[36.922012,37.581936],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169577707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"26.416897,40.161819,26.416897,40.161819",
+    "geom:latitude":40.161819,
+    "geom:longitude":26.416897,
+    "iso:country":"TR",
+    "sg:address":"Ugur Mumcu Cad. No:5/3",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 715 0187",
+    "sg:postcode":"10200",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912865,
+        85679209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnYkInDTCQaXl280d0Zh0_40.161819_26.416897@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c3a6f519e92e1cf760661ef4400e9c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912865,
+            "neighbourhood_id":-1,
+            "region_id":85679209,
+            "venue_id":169577707
+        }
+    ],
+    "wof:id":169577707,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Meridyen Gemi Acenteligi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [26.416897,40.161819,26.416897,40.161819],
+  "geometry": {"coordinates":[26.416897,40.161819],"type":"Point"}
+}

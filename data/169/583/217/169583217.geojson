@@ -1,0 +1,58 @@
+{
+  "id": 169583217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.959406,41.051785,28.959406,41.051785",
+    "geom:latitude":41.051785,
+    "geom:longitude":28.959406,
+    "iso:country":"TR",
+    "sg:address":"Fatih Sultan Cad.no: 261 Okmeydani",
+    "sg:city":"Isikkent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 5556",
+    "sg:postcode":"32100",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929477,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uV3mKgzxhJ0AyLawzeLvH_41.051785_28.959406@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d8f5b07036ce21fcdbac9fbb03b3430",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":169583217
+        }
+    ],
+    "wof:id":169583217,
+    "wof:lastmodified":1449035268,
+    "wof:name":"Yildiz Kundura & Canta",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.959406,41.051785,28.959406,41.051785],
+  "geometry": {"coordinates":[28.959406,41.051785],"type":"Point"}
+}

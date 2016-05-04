@@ -1,0 +1,58 @@
+{
+  "id": 169541419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.872303,40.984924,28.872303,40.984924",
+    "geom:latitude":40.984924,
+    "geom:longitude":28.872303,
+    "iso:country":"TR",
+    "sg:address":"Incirli Cad. 23",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 7256",
+    "sg:province":"34740",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JmnHSoz1iPVuhr99hKBiv_40.984924_28.872303@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"414ca240d3edfcca053e8554709f6989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":169541419
+        }
+    ],
+    "wof:id":169541419,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.872303,40.984924,28.872303,40.984924],
+  "geometry": {"coordinates":[28.872303,40.984924],"type":"Point"}
+}

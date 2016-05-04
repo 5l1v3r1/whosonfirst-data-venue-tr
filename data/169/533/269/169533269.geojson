@@ -1,0 +1,58 @@
+{
+  "id": 169533269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.855148,39.886375,32.855148,39.886375",
+    "geom:latitude":39.886375,
+    "geom:longitude":32.855148,
+    "iso:country":"TR",
+    "sg:address":"Cinnah Cad 102",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 9966",
+    "sg:postcode":"63570",
+    "sg:province":"06690",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929559,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TNNMaadcFRs9OSQDuNpcq_39.886375_32.855148@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"96bc90832c01cb46fe9a016919cf2890",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":169533269
+        }
+    ],
+    "wof:id":169533269,
+    "wof:lastmodified":1449032643,
+    "wof:name":"Esbank Eskisehir, Bankasi Tas",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.855148,39.886375,32.855148,39.886375],
+  "geometry": {"coordinates":[32.855148,39.886375],"type":"Point"}
+}

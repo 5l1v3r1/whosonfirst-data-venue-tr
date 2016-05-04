@@ -1,0 +1,64 @@
+{
+  "id": 169569419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.090769,40.971233,29.090769,40.971233",
+    "geom:latitude":40.971233,
+    "geom:longitude":29.090769,
+    "iso:country":"TR",
+    "sg:address":"Hilmi Pasa Cad. No:27 Kozyatagi",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 7164",
+    "sg:postcode":"43050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FCEtND8wCZdJKt9hIQEC7_40.971233_29.090769@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"912e699f949e18e89dcc4dc539997ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169569419
+        }
+    ],
+    "wof:id":169569419,
+    "wof:lastmodified":1449035833,
+    "wof:name":"Perpo Cevre G?venlik Teknolojileri San.tic.ltd.",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.090769,40.971233,29.090769,40.971233],
+  "geometry": {"coordinates":[29.090769,40.971233],"type":"Point"}
+}

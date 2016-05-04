@@ -1,0 +1,62 @@
+{
+  "id": 169553519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.917452,41.034939,28.917452,41.034939",
+    "geom:latitude":41.034939,
+    "geom:longitude":28.917452,
+    "iso:country":"TR",
+    "sg:address":"Cevreyolu Cad.orta Mah.no:51",
+    "sg:city":"B.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 4583",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906463,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_742YmY4p7kjsYDHoZwC3SK_41.034939_28.917452@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89ba25a23601a206a222e666e5a4945c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":169553519
+        }
+    ],
+    "wof:id":169553519,
+    "wof:lastmodified":1449032710,
+    "wof:name":"Cicisan Gida Sanayi A.s",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.917452,41.034939,28.917452,41.034939],
+  "geometry": {"coordinates":[28.917452,41.034939],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 169576771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.143597,38.439911,27.143597,38.439911",
+    "geom:latitude":38.439911,
+    "geom:longitude":27.143597,
+    "iso:country":"TR",
+    "sg:address":"1479 Sok. No.18/8 Alsancak",
+    "sg:city":"Konak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 465 2566",
+    "sg:postcode":"35000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1252jAybCK4wQPcM01WNfW_38.439911_27.143597@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"611623d4b9027877dedada2431c697ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169576771
+        }
+    ],
+    "wof:id":169576771,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Ilya Shipping And Trading Ltd",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.143597,38.439911,27.143597,38.439911],
+  "geometry": {"coordinates":[27.143597,38.439911],"type":"Point"}
+}

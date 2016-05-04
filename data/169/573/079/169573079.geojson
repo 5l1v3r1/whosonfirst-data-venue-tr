@@ -1,0 +1,64 @@
+{
+  "id": 169573079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987507,41.04874,28.987507,41.04874",
+    "geom:latitude":41.04874,
+    "geom:longitude":28.987507,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Cd.no.17",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 334 3424",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l7vR0XbaGcMzbOHCEUfV7_41.048740_28.987507@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c63e23c0f95acf537ac9bce072d44f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169573079
+        }
+    ],
+    "wof:id":169573079,
+    "wof:lastmodified":1449035115,
+    "wof:name":"Ist.denizcilik Ltd.sti. .",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [28.987507,41.04874,28.987507,41.04874],
+  "geometry": {"coordinates":[28.987507,41.04874],"type":"Point"}
+}

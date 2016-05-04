@@ -1,0 +1,57 @@
+{
+  "id": 169532459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.356743,37.059277,37.356743,37.059277",
+    "geom:latitude":37.059277,
+    "geom:longitude":37.356743,
+    "iso:country":"TR",
+    "sg:address":"Ordu Cad 7/c",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 339 4094",
+    "sg:postcode":"63570",
+    "sg:province":"Gaziantep",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o6dax2pCPl9HdLSoVYV84_37.059277_37.356743@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47e20eaec15993d32135f39af2c671e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679437,
+            "venue_id":169532459
+        }
+    ],
+    "wof:id":169532459,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Development Bank, Of Turkey Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [37.356743,37.059277,37.356743,37.059277],
+  "geometry": {"coordinates":[37.356743,37.059277],"type":"Point"}
+}

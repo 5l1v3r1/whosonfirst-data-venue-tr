@@ -1,0 +1,56 @@
+{
+  "id": 169538201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.5,39.599998,32.5,39.599998",
+    "geom:latitude":39.599998,
+    "geom:longitude":32.5,
+    "iso:country":"TR",
+    "sg:address":"Ankara",
+    "sg:city":"Adana",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63570",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UTuJOtFHsumDEJOJ776VC_39.599998_32.500000@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"530162b680a1b32fd17af859958af342",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169538201
+        }
+    ],
+    "wof:id":169538201,
+    "wof:lastmodified":1449033099,
+    "wof:name":"Nurol Holding As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.5,39.599998,32.5,39.599998],
+  "geometry": {"coordinates":[32.5,39.599998],"type":"Point"}
+}

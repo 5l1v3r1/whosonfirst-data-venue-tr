@@ -1,0 +1,58 @@
+{
+  "id": 169531075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.879648,40.991222,28.879648,40.991222",
+    "geom:latitude":40.991222,
+    "geom:longitude":28.879648,
+    "iso:country":"TR",
+    "sg:address":"K?alti Mrvki",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 624 2500",
+    "sg:postcode":"43270",
+    "sg:province":"34520",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930139,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GOu8bN2XiWmIUNHlJSVuk_40.991222_28.879648@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5b1df4da2801e5bbca589c038c91803",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":169531075
+        }
+    ],
+    "wof:id":169531075,
+    "wof:lastmodified":1449033475,
+    "wof:name":"Bank Kapital Tas",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.879648,40.991222,28.879648,40.991222],
+  "geometry": {"coordinates":[28.879648,40.991222],"type":"Point"}
+}

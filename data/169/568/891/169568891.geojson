@@ -1,0 +1,64 @@
+{
+  "id": 169568891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.98378,41.036797,28.98378,41.036797",
+    "geom:latitude":41.036797,
+    "geom:longitude":28.98378,
+    "iso:country":"TR",
+    "sg:address":"Siraselviler Cad. No.152/5 Taksim",
+    "sg:city":"Lara",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 9127",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eevxFNp6Plea6rdoSYqJ1_41.036797_28.983780@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9020979ff2d61a9a6fe0cb2cda4b3595",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169568891
+        }
+    ],
+    "wof:id":169568891,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Medcom Elek. Tic.san.ltd.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.98378,41.036797,28.98378,41.036797],
+  "geometry": {"coordinates":[28.98378,41.036797],"type":"Point"}
+}

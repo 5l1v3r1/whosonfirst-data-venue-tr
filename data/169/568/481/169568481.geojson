@@ -1,0 +1,64 @@
+{
+  "id": 169568481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.899759,40.984241,28.899759,40.984241",
+    "geom:latitude":40.984241,
+    "geom:longitude":28.899759,
+    "iso:country":"TR",
+    "sg:address":"Olgunlar Sk. No:11 Osmaniye Yolu Bakirk?",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 583 2504",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XfiA5Z7S9Sf2VHkdyTQzU_40.984241_28.899759@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"282e5235dddae4bae69cf6a23ff23813",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906615,
+            "region_id":85679237,
+            "venue_id":169568481
+        }
+    ],
+    "wof:id":169568481,
+    "wof:lastmodified":1449032612,
+    "wof:name":"Is G?ven. Merk.",
+    "wof:parent_id":85906615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.899759,40.984241,28.899759,40.984241],
+  "geometry": {"coordinates":[28.899759,40.984241],"type":"Point"}
+}

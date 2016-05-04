@@ -1,0 +1,62 @@
+{
+  "id": 169684879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.804749,39.791565,32.804749,39.791565",
+    "geom:latitude":39.791565,
+    "geom:longitude":32.804749,
+    "iso:country":"TR",
+    "sg:address":"Hukumet Cad.211.sok.no:5/a",
+    "sg:city":"Golbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 484 7123",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WcFPT0U84aonxhhZtvYTZ_39.791565_32.804749@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f0c7218ec24fe4557d775d3d6bad979",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169684879
+        }
+    ],
+    "wof:id":169684879,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Ankara Veteriner Himetleri Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [32.804749,39.791565,32.804749,39.791565],
+  "geometry": {"coordinates":[32.804749,39.791565],"type":"Point"}
+}

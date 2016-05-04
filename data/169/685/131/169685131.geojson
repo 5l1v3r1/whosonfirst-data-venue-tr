@@ -1,0 +1,63 @@
+{
+  "id": 169685131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.733282,36.870918,30.733282,36.870918",
+    "geom:latitude":36.870918,
+    "geom:longitude":30.733282,
+    "iso:country":"TR",
+    "sg:address":"Sirinyali Mah.sinanoglu Mah.no:134",
+    "sg:city":"Kepsut",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 323 9074",
+    "sg:postcode":"10660",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930113,
+        85632393,
+        101912923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66arthdAZ0RcxljJBN4Zj6_36.870918_30.733282@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a7079f1d586e0b6a46005e6015144b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930113,
+            "region_id":-1,
+            "venue_id":169685131
+        }
+    ],
+    "wof:id":169685131,
+    "wof:lastmodified":1449035884,
+    "wof:name":"Sebmen Karaca",
+    "wof:parent_id":85930113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [30.733282,36.870918,30.733282,36.870918],
+  "geometry": {"coordinates":[30.733282,36.870918],"type":"Point"}
+}

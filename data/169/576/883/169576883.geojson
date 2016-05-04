@@ -1,0 +1,68 @@
+{
+  "id": 169576883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.121214,40.938171,29.121214,40.938171",
+    "geom:latitude":40.938171,
+    "geom:longitude":29.121214,
+    "iso:country":"TR",
+    "sg:address":"Namik Kemal Cad. No:78/12",
+    "sg:city":"Idealtepe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 464 2289",
+    "sg:postcode":"34841",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cXpCXYeViWVN6t9RHF1CM_40.938171_29.121214@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07b6dbc466f776e5ed45d5351d56408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":169576883
+        }
+    ],
+    "wof:id":169576883,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Irem Denizcilik Tasimacilik.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.121214,40.938171,29.121214,40.938171],
+  "geometry": {"coordinates":[29.121214,40.938171],"type":"Point"}
+}

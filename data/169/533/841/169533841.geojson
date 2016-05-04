@@ -1,0 +1,58 @@
+{
+  "id": 169533841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.840611,39.92075,32.840611,39.92075",
+    "geom:latitude":39.92075,
+    "geom:longitude":32.840611,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar Cad. 84/b",
+    "sg:city":"Samanpazari",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 324 0922",
+    "sg:postcode":"06230",
+    "sg:province":"06641",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929609,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ibyNXt3Cnhamd6DakNuD_39.920750_32.840611@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e81c0a74e26a3a7fe75c083296cc0d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929609,
+            "region_id":85679409,
+            "venue_id":169533841
+        }
+    ],
+    "wof:id":169533841,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":85929609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.840611,39.92075,32.840611,39.92075],
+  "geometry": {"coordinates":[32.840611,39.92075],"type":"Point"}
+}

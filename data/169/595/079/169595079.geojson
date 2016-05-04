@@ -1,0 +1,64 @@
+{
+  "id": 169595079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097563,40.951527,29.097563,40.951527",
+    "geom:latitude":40.951527,
+    "geom:longitude":29.097563,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Yolu No:79 Dudullu-umraniye",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 415 0979",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sponge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22vzAMW9r3dx4devDVT4Ip_40.951527_29.097563@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4ca43ca2edc953ef89a2f29e2d78d0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169595079
+        }
+    ],
+    "wof:id":169595079,
+    "wof:lastmodified":1449035638,
+    "wof:name":"Sefa D?seme Malzemeleri.ltd.sti.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sponge"
+    ]
+},
+  "bbox": [29.097563,40.951527,29.097563,40.951527],
+  "geometry": {"coordinates":[29.097563,40.951527],"type":"Point"}
+}

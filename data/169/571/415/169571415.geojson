@@ -1,0 +1,66 @@
+{
+  "id": 169571415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977867,41.025471,28.977867,41.025471",
+    "geom:latitude":41.025471,
+    "geom:longitude":28.977867,
+    "iso:country":"TR",
+    "sg:address":"Kemeralti Cad. No: 42/1 Karakoy",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 6162",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AV3bxPZWvyRZYiDNEww4T_41.025471_28.977867@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"41b5eb7ab5140909af437aeb913f2e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":169571415
+        }
+    ],
+    "wof:id":169571415,
+    "wof:lastmodified":1449034948,
+    "wof:name":"Tepe Raf",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [28.977867,41.025471,28.977867,41.025471],
+  "geometry": {"coordinates":[28.977867,41.025471],"type":"Point"}
+}

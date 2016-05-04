@@ -1,0 +1,57 @@
+{
+  "id": 169541065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.006289,41.051136,29.006289,41.051136",
+    "geom:latitude":41.051136,
+    "geom:longitude":29.006289,
+    "iso:country":"TR",
+    "sg:address":"Ihlamur Yadiz Cad No 10, Besiktas, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WxiOkYOSe8Ybr5oUEJP4U_41.051136_29.006289@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"071528314c6613c3c3cc45e5135f8ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169541065
+        }
+    ],
+    "wof:id":169541065,
+    "wof:lastmodified":1449033044,
+    "wof:name":"Toprak Seramik Pazarlama Ticaret As",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.006289,41.051136,29.006289,41.051136],
+  "geometry": {"coordinates":[29.006289,41.051136],"type":"Point"}
+}

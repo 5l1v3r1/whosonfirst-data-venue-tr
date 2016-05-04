@@ -1,0 +1,65 @@
+{
+  "id": 169667701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.115717,40.980816,29.115717,40.980816",
+    "geom:latitude":40.980816,
+    "geom:longitude":29.115717,
+    "iso:country":"TR",
+    "sg:address":"Adem Yavuz Mah.b.hayrettin Sok. No:9",
+    "sg:city":"A.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 466 6568",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_663Z3TWmuhAqcV3ejMJLsr_40.980816_29.115717@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"926e98d58900dfcb63b9ac8ef6f9808f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169667701
+        }
+    ],
+    "wof:id":169667701,
+    "wof:lastmodified":1449034844,
+    "wof:name":"Yavuz Metal Celik Esya Sanayii.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.115717,40.980816,29.115717,40.980816],
+  "geometry": {"coordinates":[29.115717,40.980816],"type":"Point"}
+}

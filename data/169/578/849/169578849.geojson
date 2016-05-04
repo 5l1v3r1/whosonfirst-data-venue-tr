@@ -1,0 +1,66 @@
+{
+  "id": 169578849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.792475,41.111092,28.792475,41.111092",
+    "geom:latitude":41.111092,
+    "geom:longitude":28.792475,
+    "iso:country":"TR",
+    "sg:address":"P.k.421",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 532 3624",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yEQoE1NR5a0VteGNdQj3S_41.111092_28.792475@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"183160bb19d57673de9934a5dc3fe948",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169578849
+        }
+    ],
+    "wof:id":169578849,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Sun Den.nakl.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.792475,41.111092,28.792475,41.111092],
+  "geometry": {"coordinates":[28.792475,41.111092],"type":"Point"}
+}

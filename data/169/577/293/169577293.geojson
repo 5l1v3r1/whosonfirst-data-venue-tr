@@ -1,0 +1,68 @@
+{
+  "id": 169577293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.067097,41.083351,29.067097,41.083351",
+    "geom:latitude":41.083351,
+    "geom:longitude":29.067097,
+    "iso:country":"TR",
+    "sg:address":"Korfez Cad.no:6",
+    "sg:city":"Anadoluhisari",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 308 6770",
+    "sg:postcode":"34810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929801,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sSZ4IYSpwLrbGMgnowjcD_41.083351_29.067097@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2abd9c233adc10d9a26f3d6c7ae86d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85929801,
+            "region_id":85679237,
+            "venue_id":169577293
+        }
+    ],
+    "wof:id":169577293,
+    "wof:lastmodified":1449036064,
+    "wof:name":"Lufer Tekneleri",
+    "wof:parent_id":85929801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.067097,41.083351,29.067097,41.083351],
+  "geometry": {"coordinates":[29.067097,41.083351],"type":"Point"}
+}

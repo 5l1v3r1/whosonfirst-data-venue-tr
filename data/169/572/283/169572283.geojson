@@ -1,0 +1,62 @@
+{
+  "id": 169572283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.283152,40.868092,29.283152,40.868092",
+    "geom:latitude":40.868092,
+    "geom:longitude":29.283152,
+    "iso:country":"TR",
+    "sg:address":"58.bulvar Cd.no.133 K.3",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 0133",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930009,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b3cSYAtEw85EGIR6Fycgw_40.868092_29.283152@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0e8e13f6f2c87cfa9f200e33e0ff4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930009,
+            "region_id":-1,
+            "venue_id":169572283
+        }
+    ],
+    "wof:id":169572283,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Cepnioglu Denizcilik A.s.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.283152,40.868092,29.283152,40.868092],
+  "geometry": {"coordinates":[29.283152,40.868092],"type":"Point"}
+}

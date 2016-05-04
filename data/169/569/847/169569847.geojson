@@ -1,0 +1,64 @@
+{
+  "id": 169569847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.995623,41.065502,28.995623,41.065502",
+    "geom:latitude":41.065502,
+    "geom:longitude":28.995623,
+    "iso:country":"TR",
+    "sg:address":"Ortaklar Cad.?e Apt.no:22 D:1",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 347 8480",
+    "sg:postcode":"80260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00PsrcCFmzW7id8nlEDMYY_41.065502_28.995623@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8dfd8e9bab46dc436c2627161a99345a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":169569847
+        }
+    ],
+    "wof:id":169569847,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Set Elektronik G?enlik Sistemleri Ltd.sti.",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.995623,41.065502,28.995623,41.065502],
+  "geometry": {"coordinates":[28.995623,41.065502],"type":"Point"}
+}

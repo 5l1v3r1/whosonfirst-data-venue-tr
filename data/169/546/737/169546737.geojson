@@ -1,0 +1,58 @@
+{
+  "id": 169546737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.854382,39.942192,32.854382,39.942192",
+    "geom:latitude":39.942192,
+    "geom:longitude":32.854382,
+    "iso:country":"TR",
+    "sg:address":"Cankiri Cad 9",
+    "sg:city":"Gazipasa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 1888",
+    "sg:postcode":"01120",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929573,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WhLyE7SoyvGO9pdiupRIJ_39.942192_32.854382@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"793d43acfc98b2f24b2e50c37351ef7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":169546737
+        }
+    ],
+    "wof:id":169546737,
+    "wof:lastmodified":1449032680,
+    "wof:name":"T?kiye Vakiflar, Bankasi Tao",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.854382,39.942192,32.854382,39.942192],
+  "geometry": {"coordinates":[32.854382,39.942192],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169551179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.009441,41.023006,29.009441,41.023006",
+    "geom:latitude":41.023006,
+    "geom:longitude":29.009441,
+    "iso:country":"TR",
+    "sg:address":"Kosuyolu Asmali Sok. No:43 Kadikoy",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 340 2414",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quilt",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d6sgSW9NZhDYM6xQqmBc6_41.023006_29.009441@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3bc0ea93b90204b0a520ccacf211190",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":169551179
+        }
+    ],
+    "wof:id":169551179,
+    "wof:lastmodified":1449033356,
+    "wof:name":"Birlik Sunger Kimya San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quilt",
+        "bed"
+    ]
+},
+  "bbox": [29.009441,41.023006,29.009441,41.023006],
+  "geometry": {"coordinates":[29.009441,41.023006],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169534209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"42.704803,41.111485,42.704803,41.111485",
+    "geom:latitude":41.111485,
+    "geom:longitude":42.704803,
+    "iso:country":"TR",
+    "sg:address":"Cumhuriyet Caddesi 13",
+    "sg:city":"Emet",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 274 461 3361",
+    "sg:postcode":"43700",
+    "sg:province":"43700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NrJWvLEKeDClPDTYbGVTk_41.111485_42.704803@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a50d578796f2018ab48f4d05e3bfbdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679511,
+            "venue_id":169534209
+        }
+    ],
+    "wof:id":169534209,
+    "wof:lastmodified":1449033551,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [42.704803,41.111485,42.704803,41.111485],
+  "geometry": {"coordinates":[42.704803,41.111485],"type":"Point"}
+}

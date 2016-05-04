@@ -1,0 +1,59 @@
+{
+  "id": 169535147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.037479,41.110271,29.037479,41.110271",
+    "geom:latitude":41.110271,
+    "geom:longitude":29.037479,
+    "iso:country":"TR",
+    "sg:address":"Imkb Building, Istinye, 80860 Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 298 2160",
+    "sg:province":"Istanbul",
+    "sg:website":"http://www.feas.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MIPFooSxOfe58h4uPKLzL_41.110271_29.037479@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc26ccc52ae1b36e25cb391ca82c0355",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":169535147
+        }
+    ],
+    "wof:id":169535147,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Federation Of Euro-asian Stock Exchanges (feas)",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.037479,41.110271,29.037479,41.110271],
+  "geometry": {"coordinates":[29.037479,41.110271],"type":"Point"}
+}

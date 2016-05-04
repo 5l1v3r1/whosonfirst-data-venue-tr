@@ -1,0 +1,65 @@
+{
+  "id": 169656387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.377415,40.765121,30.377415,40.765121",
+    "geom:latitude":40.765121,
+    "geom:longitude":30.377415,
+    "iso:country":"TR",
+    "sg:address":"E-5 Karayolu ?zeri No:169 Ernler",
+    "sg:city":"Erenler",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 264 276 7652",
+    "sg:postcode":"54100",
+    "sg:province":"Sakarya",
+    "sg:tags":[
+        "steel",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912667,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5frjPAKvOUKStSwIwS6i5T_40.765121_30.377415@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"88f66d0d8d0fcb46efde3cd4273b8181",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912667,
+            "neighbourhood_id":-1,
+            "region_id":85679245,
+            "venue_id":169656387
+        }
+    ],
+    "wof:id":169656387,
+    "wof:lastmodified":1449034838,
+    "wof:name":"Sarica ?elik Kapi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "door"
+    ]
+},
+  "bbox": [30.377415,40.765121,30.377415,40.765121],
+  "geometry": {"coordinates":[30.377415,40.765121],"type":"Point"}
+}

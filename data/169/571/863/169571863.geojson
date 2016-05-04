@@ -1,0 +1,63 @@
+{
+  "id": 169571863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.039667,41.160877,29.039667,41.160877",
+    "geom:latitude":41.160877,
+    "geom:longitude":29.039667,
+    "iso:country":"TR",
+    "sg:address":"Yemisli Sok. No: 5 B.dere/",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 271 0745",
+    "sg:postcode":"33740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930143,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VfG9LaO2ArQiM0xs4DU6C_41.160877_29.039667@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6b1599d1923debcfa1a3f90e5509fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930143,
+            "region_id":85679237,
+            "venue_id":169571863
+        }
+    ],
+    "wof:id":169571863,
+    "wof:lastmodified":1449034947,
+    "wof:name":"Arena Ltd.",
+    "wof:parent_id":85930143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.039667,41.160877,29.039667,41.160877],
+  "geometry": {"coordinates":[29.039667,41.160877],"type":"Point"}
+}

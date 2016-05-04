@@ -1,0 +1,57 @@
+{
+  "id": 169536157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.188812,40.888519,29.188812,40.888519",
+    "geom:latitude":40.888519,
+    "geom:longitude":29.188812,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad 84",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 488 1050",
+    "sg:province":"Kartal",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TdKrlWhxp3NaQAQ2w4GeY_40.888519_29.188812@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ab208c346484044f48cb1d2add84970",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169536157
+        }
+    ],
+    "wof:id":169536157,
+    "wof:lastmodified":1449034660,
+    "wof:name":"Interbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.188812,40.888519,29.188812,40.888519],
+  "geometry": {"coordinates":[29.188812,40.888519],"type":"Point"}
+}

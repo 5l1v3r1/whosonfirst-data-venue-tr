@@ -1,0 +1,66 @@
+{
+  "id": 169657681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.515648,39.775322,30.515648,39.775322",
+    "geom:latitude":39.775322,
+    "geom:longitude":30.515648,
+    "iso:country":"TR",
+    "sg:address":"Sair Fuzuli Cd. Istiklal Mh. No:44",
+    "sg:city":"Nil?fer",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 234 3159",
+    "sg:postcode":"19285",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0femeOvBW4mCYXI2N67kNA_39.775322_30.515648@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"35a2550806faaf59df4ac7799ebda03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169657681
+        }
+    ],
+    "wof:id":169657681,
+    "wof:lastmodified":1449033051,
+    "wof:name":"Alpes End?stri Elektrik Teks. San. Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [30.515648,39.775322,30.515648,39.775322],
+  "geometry": {"coordinates":[30.515648,39.775322],"type":"Point"}
+}

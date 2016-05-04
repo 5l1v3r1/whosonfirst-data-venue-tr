@@ -1,0 +1,66 @@
+{
+  "id": 169548461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.484669,38.740334,35.484669,38.740334",
+    "geom:latitude":38.740334,
+    "geom:longitude":35.484669,
+    "iso:country":"TR",
+    "sg:address":"Yeni Gazi Ali Cd. 44. Sk. No:18",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 336 1658",
+    "sg:postcode":"31300",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EGyILpBpsfU3k0Tz8boOE_38.740334_35.484669@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9c156dbded7ba2fef2245264d96ea246",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169548461
+        }
+    ],
+    "wof:id":169548461,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Kaysan Ak?m?lat?r San. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [35.484669,38.740334,35.484669,38.740334],
+  "geometry": {"coordinates":[35.484669,38.740334],"type":"Point"}
+}

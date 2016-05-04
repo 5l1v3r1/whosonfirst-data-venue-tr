@@ -1,0 +1,67 @@
+{
+  "id": 169535553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987492,41.037258,28.987492,41.037258",
+    "geom:latitude":41.037258,
+    "geom:longitude":28.987492,
+    "iso:country":"TR",
+    "sg:address":"Mete Cad 40",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 5557",
+    "sg:province":"80060",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237,
+        85906563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_453WwzE26pUpyOcg4Kn1cK_41.037258_28.987492@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8fc81d4845185b067c0f0845d7b40446",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169535553
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906563,
+            "region_id":85679237,
+            "venue_id":169535553
+        }
+    ],
+    "wof:id":169535553,
+    "wof:lastmodified":1449033283,
+    "wof:name":"Garanti Yatrim Ve, Ticaret Bankasi As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.987492,41.037258,28.987492,41.037258],
+  "geometry": {"coordinates":[28.987492,41.037258],"type":"Point"}
+}

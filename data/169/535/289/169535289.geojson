@@ -1,0 +1,59 @@
+{
+  "id": 169535289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.055494,40.973808,29.055494,40.973808",
+    "geom:latitude":40.973808,
+    "geom:longitude":29.055494,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Caddesi 231/3",
+    "sg:city":"Ciftehavuzlar",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 0057",
+    "sg:postcode":"16200",
+    "sg:province":"81081",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LKpKVtIfEdXLsPJ7HuqIF_40.973808_29.055494@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b050f39f7ec4b63121ff0e9ab0d2eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":169535289
+        }
+    ],
+    "wof:id":169535289,
+    "wof:lastmodified":1449033289,
+    "wof:name":"Finansbank As",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.055494,40.973808,29.055494,40.973808],
+  "geometry": {"coordinates":[29.055494,40.973808],"type":"Point"}
+}

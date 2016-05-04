@@ -1,0 +1,68 @@
+{
+  "id": 169575437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.097834,40.951958,29.097834,40.951958",
+    "geom:latitude":40.951958,
+    "geom:longitude":29.097834,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad. No:225/5",
+    "sg:city":"?iftehavuzlar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 467 3700",
+    "sg:postcode":"81080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GmmBESjQbJhkLhWv9dK04_40.951958_29.097834@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11f72d9f7ae69cd28d5b40c3f51e2eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169575437
+        }
+    ],
+    "wof:id":169575437,
+    "wof:lastmodified":1449033642,
+    "wof:name":"Bosa Chartering Ltd.istanbul",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.097834,40.951958,29.097834,40.951958],
+  "geometry": {"coordinates":[29.097834,40.951958],"type":"Point"}
+}

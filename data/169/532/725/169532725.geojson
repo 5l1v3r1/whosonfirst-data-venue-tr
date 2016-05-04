@@ -1,0 +1,57 @@
+{
+  "id": 169532725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.486839,38.718639,35.486839,38.718639",
+    "geom:latitude":38.718639,
+    "geom:longitude":35.486839,
+    "iso:country":"TR",
+    "sg:address":"Bankalar Cad 5",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 35111868",
+    "sg:postcode":"63570",
+    "sg:province":"Kayseri",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nANFpXWu8PQUPuYR5m2N6_38.718639_35.486839@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7cbe43a364369c57a694890805a25c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169532725
+        }
+    ],
+    "wof:id":169532725,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Egebank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.486839,38.718639,35.486839,38.718639],
+  "geometry": {"coordinates":[35.486839,38.718639],"type":"Point"}
+}

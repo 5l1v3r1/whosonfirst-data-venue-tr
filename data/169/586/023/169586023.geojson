@@ -1,0 +1,65 @@
+{
+  "id": 169586023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.972021,41.026844,28.972021,41.026844",
+    "geom:latitude":41.026844,
+    "geom:longitude":28.972021,
+    "iso:country":"TR",
+    "sg:address":"A. Ipek? Cd. No:65/15",
+    "sg:city":"Ma?a",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 1121",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZMCkvWTbVJqhcj85k79lB_41.026844_28.972021@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a90b64684cf6af6678c0444fc4c47718",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":169586023
+        }
+    ],
+    "wof:id":169586023,
+    "wof:lastmodified":1449035576,
+    "wof:name":"Adecon Enerji Sistem. Konsorsiyumu A.s.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.972021,41.026844,28.972021,41.026844],
+  "geometry": {"coordinates":[28.972021,41.026844],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169609069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.229815,40.878235,29.229815,40.878235",
+    "geom:latitude":40.878235,
+    "geom:longitude":29.229815,
+    "iso:country":"TR",
+    "sg:address":"Ihlamur Sk. No:27/2 Pendik",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 5179",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930115,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NYgBytm5KOuT7No1GH1cK_40.878235_29.229815@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1ed1bd7af9d3cb6405f89f3fa182973",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930115,
+            "region_id":-1,
+            "venue_id":169609069
+        }
+    ],
+    "wof:id":169609069,
+    "wof:lastmodified":1449033919,
+    "wof:name":"?orba Spor Malz.",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.229815,40.878235,29.229815,40.878235],
+  "geometry": {"coordinates":[29.229815,40.878235],"type":"Point"}
+}

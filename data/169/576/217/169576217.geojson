@@ -1,0 +1,66 @@
+{
+  "id": 169576217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.719395,36.872402,30.719395,36.872402",
+    "geom:latitude":36.872402,
+    "geom:longitude":30.719395,
+    "iso:country":"TR",
+    "sg:address":"Metin Kasapoglu Cad. 1451.sok. No:7 D:8",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 313 0832",
+    "sg:postcode":"34396",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930261,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I2LiNyxeC14AppV2GfubF_36.872402_30.719395@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2c78d0b99b9cc39ed542f600605e903",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930261,
+            "region_id":-1,
+            "venue_id":169576217
+        }
+    ],
+    "wof:id":169576217,
+    "wof:lastmodified":1449035198,
+    "wof:name":"Face Ko Face Tours",
+    "wof:parent_id":85930261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [30.719395,36.872402,30.719395,36.872402],
+  "geometry": {"coordinates":[30.719395,36.872402],"type":"Point"}
+}

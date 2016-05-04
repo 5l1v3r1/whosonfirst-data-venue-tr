@@ -1,0 +1,63 @@
+{
+  "id": 169553301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.26511,39.91782,41.26511,39.91782",
+    "geom:latitude":39.91782,
+    "geom:longitude":41.26511,
+    "iso:country":"TR",
+    "sg:address":"H??et Bulv. 9. Sk. No:17",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2562128704212",
+    "sg:postcode":"43270",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911101,
+        85679369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efqf6TsOlRxb9C4tV0iCJ_39.917820_41.265110@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb57137609748393465d528e4a28a9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911101,
+            "neighbourhood_id":-1,
+            "region_id":85679369,
+            "venue_id":169553301
+        }
+    ],
+    "wof:id":169553301,
+    "wof:lastmodified":1449032707,
+    "wof:name":"Bezirgan Gida San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [41.26511,39.91782,41.26511,39.91782],
+  "geometry": {"coordinates":[41.26511,39.91782],"type":"Point"}
+}

@@ -1,0 +1,57 @@
+{
+  "id": 169542911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.696674,36.887676,30.696674,36.887676",
+    "geom:latitude":36.887676,
+    "geom:longitude":30.696674,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar Cad 35",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 311 4508",
+    "sg:postcode":"63570",
+    "sg:province":"06041",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930187,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Teik3FjwZhlGi0jJOnayU_36.887676_30.696674@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c36822e455dcd62acefe017b8fec25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930187,
+            "region_id":-1,
+            "venue_id":169542911
+        }
+    ],
+    "wof:id":169542911,
+    "wof:lastmodified":1449035222,
+    "wof:name":"T?k Ticaret, Bankasi As",
+    "wof:parent_id":85930187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.696674,36.887676,30.696674,36.887676],
+  "geometry": {"coordinates":[30.696674,36.887676],"type":"Point"}
+}

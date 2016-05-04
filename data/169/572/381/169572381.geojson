@@ -1,0 +1,63 @@
+{
+  "id": 169572381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.00415,41.086674,29.00415,41.086674",
+    "geom:latitude":41.086674,
+    "geom:longitude":29.00415,
+    "iso:country":"TR",
+    "sg:address":"Akarsu Cd.no.38 K.2",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 3474",
+    "sg:postcode":"13500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NvrHBB1BeA7pXqqmrtkZd_41.086674_29.004150@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d7c4dfe8c24b0b3c9cb80c3107b5d130",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169572381
+        }
+    ],
+    "wof:id":169572381,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Deniz Kara Tasimacilik A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.00415,41.086674,29.00415,41.086674],
+  "geometry": {"coordinates":[29.00415,41.086674],"type":"Point"}
+}

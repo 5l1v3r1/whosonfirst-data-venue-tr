@@ -1,0 +1,57 @@
+{
+  "id": 169639025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.974989,41.012253,28.974989,41.012253",
+    "geom:latitude":41.012253,
+    "geom:longitude":28.974989,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cd.60 Cagaloglu",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 3742",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4psFYlAMoIj8AucSdh5GFb_41.012253_28.974989@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8cf37f7e28c0cb8df1b206af6a78714e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":169639025
+        }
+    ],
+    "wof:id":169639025,
+    "wof:lastmodified":1449035954,
+    "wof:name":"Emek Is Yayinevi",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.974989,41.012253,28.974989,41.012253],
+  "geometry": {"coordinates":[28.974989,41.012253],"type":"Point"}
+}

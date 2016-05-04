@@ -1,0 +1,57 @@
+{
+  "id": 169544173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.857605,39.941807,32.857605,39.941807",
+    "geom:latitude":39.941807,
+    "geom:longitude":32.857605,
+    "iso:country":"TR",
+    "sg:address":"Anafartalar Cad 17",
+    "sg:city":"D?d?co Levent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 230 3632",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929573,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pOgfK7pBywS649Rwwc6Nn_39.941807_32.857605@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"166d17a12c3df403d4ea49f2a00c9955",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":169544173
+        }
+    ],
+    "wof:id":169544173,
+    "wof:lastmodified":1449035963,
+    "wof:name":"T?kiye Garanti, Bankasi As",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.857605,39.941807,32.857605,39.941807],
+  "geometry": {"coordinates":[32.857605,39.941807],"type":"Point"}
+}

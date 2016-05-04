@@ -1,0 +1,64 @@
+{
+  "id": 169567773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.821487,39.931755,32.821487,39.931755",
+    "geom:latitude":39.931755,
+    "geom:longitude":32.821487,
+    "iso:country":"TR",
+    "sg:address":"Cetin Emec Bulvari 78.sok. No:5 Ovecler",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 481 4727",
+    "sg:postcode":"43050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kaJcMc8Y90KP9oAJmZCi2_39.931755_32.821487@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb91669e30139aa1c04ef88bd18b2848",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":169567773
+        }
+    ],
+    "wof:id":169567773,
+    "wof:lastmodified":1449035992,
+    "wof:name":"Emt Electronics",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.821487,39.931755,32.821487,39.931755],
+  "geometry": {"coordinates":[32.821487,39.931755],"type":"Point"}
+}

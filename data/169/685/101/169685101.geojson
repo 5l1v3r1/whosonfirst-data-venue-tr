@@ -1,0 +1,63 @@
+{
+  "id": 169685101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.049362,41.178108,29.049362,41.178108",
+    "geom:latitude":41.178108,
+    "geom:longitude":29.049362,
+    "iso:country":"TR",
+    "sg:address":"Kilyos Cad. No:54 Maden Mahallesi",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 3261",
+    "sg:postcode":"33740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930165,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bTv4DvKNA3yXXLtvnvYWE_41.178108_29.049362@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"469868fd259530e950112c433a5ecfea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930165,
+            "region_id":85679237,
+            "venue_id":169685101
+        }
+    ],
+    "wof:id":169685101,
+    "wof:lastmodified":1449035886,
+    "wof:name":"Pro-vet Veteriner Klinigi",
+    "wof:parent_id":85930165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [29.049362,41.178108,29.049362,41.178108],
+  "geometry": {"coordinates":[29.049362,41.178108],"type":"Point"}
+}

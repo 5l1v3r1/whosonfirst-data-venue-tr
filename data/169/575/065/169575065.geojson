@@ -1,0 +1,68 @@
+{
+  "id": 169575065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.993668,41.050251,28.993668,41.050251",
+    "geom:latitude":41.050251,
+    "geom:longitude":28.993668,
+    "iso:country":"TR",
+    "sg:address":"Ihlamur Nisantasi Yolu No.36/3",
+    "sg:city":"Tesvikiye",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 1487",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jsVBDZ24nnADwA3m45NUa_41.050251_28.993668@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"46f03be5ba78a2faee74024ef774f618",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":169575065
+        }
+    ],
+    "wof:id":169575065,
+    "wof:lastmodified":1449033643,
+    "wof:name":"Avrasya Ekspres Denizcilik Ltd.sti.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [28.993668,41.050251,28.993668,41.050251],
+  "geometry": {"coordinates":[28.993668,41.050251],"type":"Point"}
+}

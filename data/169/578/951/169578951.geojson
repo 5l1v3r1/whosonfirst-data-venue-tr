@@ -1,0 +1,67 @@
+{
+  "id": 169578951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"41.82,41.181599,41.82,41.181599",
+    "geom:latitude":41.181599,
+    "geom:longitude":41.82,
+    "iso:country":"TR",
+    "sg:address":"Ortahopa Cd. No: 42",
+    "sg:city":"Hopa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 4663512263729",
+    "sg:postcode":"08600",
+    "sg:province":"Artvin",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911639,
+        85679367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41OXPkx4x3Opl1YtWYfRmQ_41.181599_41.820000@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a6ffd69b4341b1b7bbae6d41d0c3fb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911639,
+            "neighbourhood_id":-1,
+            "region_id":85679367,
+            "venue_id":169578951
+        }
+    ],
+    "wof:id":169578951,
+    "wof:lastmodified":1449033518,
+    "wof:name":"Tekin Denizcilik Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [41.82,41.181599,41.82,41.181599],
+  "geometry": {"coordinates":[41.82,41.181599],"type":"Point"}
+}

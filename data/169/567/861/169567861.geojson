@@ -1,0 +1,64 @@
+{
+  "id": 169567861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.857971,41.011074,28.857971,41.011074",
+    "geom:latitude":41.011074,
+    "geom:longitude":28.857971,
+    "iso:country":"TR",
+    "sg:address":"Birlik Sk. No:26/4 Levent",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 8727",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B5BDDowGkXMdE7wQs838r_41.011074_28.857971@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3236f8ec3acfb53085499996ae4e887",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":169567861
+        }
+    ],
+    "wof:id":169567861,
+    "wof:lastmodified":1449035998,
+    "wof:name":"Erve G?venlik Sistem. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.857971,41.011074,28.857971,41.011074],
+  "geometry": {"coordinates":[28.857971,41.011074],"type":"Point"}
+}

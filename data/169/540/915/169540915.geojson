@@ -1,0 +1,58 @@
+{
+  "id": 169540915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.002998,41.045433,29.002998,41.045433",
+    "geom:latitude":41.045433,
+    "geom:longitude":29.002998,
+    "iso:country":"TR",
+    "sg:address":"Ihlamurdere Cad 68-70",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 6131",
+    "sg:province":"80700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OR3GOs5LwlarUtNUci2vV_41.045433_29.002998@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2fd202ea84f611d23f3ac767a862bd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169540915
+        }
+    ],
+    "wof:id":169540915,
+    "wof:lastmodified":1449033979,
+    "wof:name":"Tekstilbank",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.002998,41.045433,29.002998,41.045433],
+  "geometry": {"coordinates":[29.002998,41.045433],"type":"Point"}
+}

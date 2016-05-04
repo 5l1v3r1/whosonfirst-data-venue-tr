@@ -1,0 +1,64 @@
+{
+  "id": 169589699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.54987,41.035,28.54987,41.035",
+    "geom:latitude":41.035,
+    "geom:longitude":28.54987,
+    "iso:country":"TR",
+    "sg:address":"Millet Cd. No:180",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 524 5846",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FazqYX91hLJhKOUWJHKhC_41.035000_28.549870@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"10eaa900a1cfe536f5dfc03c8554d203",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169589699
+        }
+    ],
+    "wof:id":169589699,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Topkapi End?stri Mal Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.54987,41.035,28.54987,41.035],
+  "geometry": {"coordinates":[28.54987,41.035],"type":"Point"}
+}

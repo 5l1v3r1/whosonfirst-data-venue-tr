@@ -1,0 +1,58 @@
+{
+  "id": 169531023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.989733,41.040249,28.989733,41.040249",
+    "geom:latitude":41.040249,
+    "geom:longitude":28.989733,
+    "iso:country":"TR",
+    "sg:address":"Askerocagi Caddesi 1",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 234 3314",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22GUf6NbKL7HnmhWDB96kS_41.040249_28.989733@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86d4bcb7f7aadc75fec0c4ea6584ac6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":169531023
+        }
+    ],
+    "wof:id":169531023,
+    "wof:lastmodified":1449033476,
+    "wof:name":"Bank Kapital Tas",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.989733,41.040249,28.989733,41.040249],
+  "geometry": {"coordinates":[28.989733,41.040249],"type":"Point"}
+}

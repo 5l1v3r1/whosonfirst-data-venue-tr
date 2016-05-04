@@ -1,0 +1,64 @@
+{
+  "id": 169556339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.825886,39.938385,32.825886,39.938385",
+    "geom:latitude":39.938385,
+    "geom:longitude":32.825886,
+    "iso:country":"TR",
+    "sg:address":"Turgut Reis Cad. No. 25 / A-b Tandogan",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 232 2915",
+    "sg:postcode":"36100",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ro8Hkxk451y8hmGXQ2xsr_39.938385_32.825886@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9cfc0097b7c4a8618b38f72262aef9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":169556339
+        }
+    ],
+    "wof:id":169556339,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Akberk M?hendislik Ltd. Sti.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [32.825886,39.938385,32.825886,39.938385],
+  "geometry": {"coordinates":[32.825886,39.938385],"type":"Point"}
+}

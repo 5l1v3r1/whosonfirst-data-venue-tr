@@ -1,0 +1,64 @@
+{
+  "id": 169589533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.184776,38.385433,27.184776,38.385433",
+    "geom:latitude":38.385433,
+    "geom:longitude":27.184776,
+    "iso:country":"TR",
+    "sg:address":"1202/1 Sok. No:27",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 6162",
+    "sg:postcode":"31750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zpSiMsLKumhRpJ6yuNhFs_38.385433_27.184776@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d386387d188a80b81ee5e1053c863cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679201,
+            "venue_id":169589533
+        }
+    ],
+    "wof:id":169589533,
+    "wof:lastmodified":1449034446,
+    "wof:name":"Solar Enerji Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.184776,38.385433,27.184776,38.385433],
+  "geometry": {"coordinates":[27.184776,38.385433],"type":"Point"}
+}

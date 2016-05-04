@@ -1,0 +1,64 @@
+{
+  "id": 169550741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.987059,41.059063,28.987059,41.059063",
+    "geom:latitude":41.059063,
+    "geom:longitude":28.987059,
+    "iso:country":"TR",
+    "sg:address":"Sisli Halaskargazi Caddesi No:369/1",
+    "sg:city":"Sisli",
+    "sg:classifiers":[],
+    "sg:orig_category":"Beaty Parlors",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 6406",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237,
+        85929403,
+        101912685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q69FbaJoRio5tK4zTbxIp_41.059063_28.987059@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0c849dc7c0e45d0f26e8a083d8d754b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169550741
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":169550741
+        }
+    ],
+    "wof:id":169550741,
+    "wof:lastmodified":1449034475,
+    "wof:name":"Last Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.987059,41.059063,28.987059,41.059063],
+  "geometry": {"coordinates":[28.987059,41.059063],"type":"Point"}
+}

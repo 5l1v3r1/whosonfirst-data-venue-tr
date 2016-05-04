@@ -1,0 +1,65 @@
+{
+  "id": 169571611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.114344,41.115475,29.114344,41.115475",
+    "geom:latitude":41.115475,
+    "geom:longitude":29.114344,
+    "iso:country":"TR",
+    "sg:address":"Evren San.sit 16.blok No: 10",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 672 5294",
+    "sg:postcode":"34800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "repair",
+        "ship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930059,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wFyj9l6refuNLpKWYx4vc_41.115475_29.114344@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"02bef2c5946d2267f1120a53467280e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930059,
+            "region_id":85679237,
+            "venue_id":169571611
+        }
+    ],
+    "wof:id":169571611,
+    "wof:lastmodified":1449034949,
+    "wof:name":"Promak Mekanik Salmastralari",
+    "wof:parent_id":85930059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "ship"
+    ]
+},
+  "bbox": [29.114344,41.115475,29.114344,41.115475],
+  "geometry": {"coordinates":[29.114344,41.115475],"type":"Point"}
+}

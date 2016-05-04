@@ -1,0 +1,62 @@
+{
+  "id": 169616271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.679657,40.313271,32.679657,40.313271",
+    "geom:latitude":40.313271,
+    "geom:longitude":32.679657,
+    "iso:country":"TR",
+    "sg:address":"Igdir",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 476 227 5751",
+    "sg:postcode":"34660",
+    "sg:province":"Igdir",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dvHcQwhFntRg1XedFaDjV_40.313271_32.679657@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc29b9e68c209ea08e828e95bf8b01fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679409,
+            "venue_id":169616271
+        }
+    ],
+    "wof:id":169616271,
+    "wof:lastmodified":1449035101,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [32.679657,40.313271,32.679657,40.313271],
+  "geometry": {"coordinates":[32.679657,40.313271],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169553711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.072474,40.979073,29.072474,40.979073",
+    "geom:latitude":40.979073,
+    "geom:longitude":29.072474,
+    "iso:country":"TR",
+    "sg:address":"Imam Ramiz Sok.ozcan Apt.no:75/3",
+    "sg:city":"Sahrayicedid",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 5195",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3euTbMOArL5fPJpt3o9Ram_40.979073_29.072474@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c62043bae6a0dd6617e1db0e5d84002f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169553711
+        }
+    ],
+    "wof:id":169553711,
+    "wof:lastmodified":1449032710,
+    "wof:name":"Ege Serek",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.072474,40.979073,29.072474,40.979073],
+  "geometry": {"coordinates":[29.072474,40.979073],"type":"Point"}
+}

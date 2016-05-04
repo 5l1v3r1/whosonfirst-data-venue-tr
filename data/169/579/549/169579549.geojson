@@ -1,0 +1,67 @@
+{
+  "id": 169579549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.329586,41.303669,36.329586,41.303669",
+    "geom:latitude":41.303669,
+    "geom:longitude":36.329586,
+    "iso:country":"TR",
+    "sg:address":"Liman Mah.ozan Sok.no:23/2",
+    "sg:city":"Kumkapi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 362447439798",
+    "sg:postcode":"34130",
+    "sg:province":"Samsun",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911033,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2deLenABi1K0j7M8E9YPNv_41.303669_36.329586@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"990c5ec3ad19bdacae614a871780d40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911033,
+            "neighbourhood_id":-1,
+            "region_id":85679357,
+            "venue_id":169579549
+        }
+    ],
+    "wof:id":169579549,
+    "wof:lastmodified":1449033741,
+    "wof:name":"Yelken Denizcilik Ve Tic.ltd:",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [36.329586,41.303669,36.329586,41.303669],
+  "geometry": {"coordinates":[36.329586,41.303669],"type":"Point"}
+}

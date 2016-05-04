@@ -1,0 +1,64 @@
+{
+  "id": 169586581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.2712,40.655998,29.2712,40.655998",
+    "geom:latitude":40.655998,
+    "geom:longitude":29.2712,
+    "iso:country":"TR",
+    "sg:address":"Fatih Cad.beyaz Saray Apt.no:29/2",
+    "sg:city":"77200",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 226 812 1777",
+    "sg:province":"Yalova",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912669,
+        85679529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LUgdfPHSOnFCl3pGEgHvH_40.655998_29.271200@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32abda5ba260cabc1405c7b2bb438165",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912669,
+            "neighbourhood_id":-1,
+            "region_id":85679529,
+            "venue_id":169586581
+        }
+    ],
+    "wof:id":169586581,
+    "wof:lastmodified":1449035572,
+    "wof:name":"Bilgen G?nes Enerjisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.2712,40.655998,29.2712,40.655998],
+  "geometry": {"coordinates":[29.2712,40.655998],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169528271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.719101,41.0061,39.719101,41.0061",
+    "geom:latitude":41.0061,
+    "geom:longitude":39.719101,
+    "iso:country":"TR",
+    "sg:address":"K.maras Cad.2/27 Sulhan",
+    "sg:city":"Hacilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 326 5311",
+    "sg:postcode":"38000",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "bag-belt-accessories"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ELiwXGXjXQDXqKqaL4hfy_41.006100_39.719101@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a567949202a0f309de0269924861dfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":169528271
+        }
+    ],
+    "wof:id":169528271,
+    "wof:lastmodified":1449033570,
+    "wof:name":"Arda Deri Ve Avci Evi",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag-belt-accessories"
+    ]
+},
+  "bbox": [39.719101,41.0061,39.719101,41.0061],
+  "geometry": {"coordinates":[39.719101,41.0061],"type":"Point"}
+}

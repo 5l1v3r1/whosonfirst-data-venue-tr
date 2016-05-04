@@ -1,0 +1,66 @@
+{
+  "id": 169548439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.965914,41.092869,28.965914,41.092869",
+    "geom:latitude":41.092869,
+    "geom:longitude":28.965914,
+    "iso:country":"TR",
+    "sg:address":"Kemerburgaz Cad.no:142 Kagithane",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 295 3903",
+    "sg:postcode":"31300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MBigx1tN9v1nKYMlprAtR_41.092869_28.965914@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"474e735857d908a0d4ce2da3c29ad572",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169548439
+        }
+    ],
+    "wof:id":169548439,
+    "wof:lastmodified":1449034972,
+    "wof:name":"Kas Ticaret Kollektif Sirketi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [28.965914,41.092869,28.965914,41.092869],
+  "geometry": {"coordinates":[28.965914,41.092869],"type":"Point"}
+}

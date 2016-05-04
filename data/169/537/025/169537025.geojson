@@ -1,0 +1,59 @@
+{
+  "id": 169537025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.826862,39.92025,32.826862,39.92025",
+    "geom:latitude":39.92025,
+    "geom:longitude":32.826862,
+    "iso:country":"TR",
+    "sg:address":"Askabat Cad",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 215 2730",
+    "sg:postcode":"63570",
+    "sg:province":"06490",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929585,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CG3zXJ4U4xr8ezbjiF3dY_39.920250_32.826862@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4dc6019cdaa0cdfcdd70403c718b42d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929585,
+            "region_id":85679409,
+            "venue_id":169537025
+        }
+    ],
+    "wof:id":169537025,
+    "wof:lastmodified":1449033500,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85929585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.826862,39.92025,32.826862,39.92025],
+  "geometry": {"coordinates":[32.826862,39.92025],"type":"Point"}
+}

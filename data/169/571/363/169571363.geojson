@@ -1,0 +1,66 @@
+{
+  "id": 169571363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.074352,40.966461,29.074352,40.966461",
+    "geom:latitude":40.966461,
+    "geom:longitude":29.074352,
+    "iso:country":"TR",
+    "sg:address":"Nurettin Ali Berkol Sok.no:23 Erenkoy",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 1010",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shelving",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GcYTA7opTecAu6Lxjv7mE_40.966461_29.074352@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5a15fd517c4b668a1c1df868bca7f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":169571363
+        }
+    ],
+    "wof:id":169571363,
+    "wof:lastmodified":1449034949,
+    "wof:name":"Ondesign",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelving",
+        "system"
+    ]
+},
+  "bbox": [29.074352,40.966461,29.074352,40.966461],
+  "geometry": {"coordinates":[29.074352,40.966461],"type":"Point"}
+}

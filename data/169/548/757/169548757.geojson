@@ -1,0 +1,65 @@
+{
+  "id": 169548757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.005222,41.086662,29.005222,41.086662",
+    "geom:latitude":41.086662,
+    "geom:longitude":29.005222,
+    "iso:country":"TR",
+    "sg:address":"Emniyetevleri Akarsu Caddesi Saka Sok. No:8 A",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 325 1720",
+    "sg:postcode":"34413",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "bath-toilet",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dd2DU2zS7NYKBP2MQYcIM_41.086662_29.005222@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"325f3b4e6710d96c8444d62eef848e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169548757
+        }
+    ],
+    "wof:id":169548757,
+    "wof:lastmodified":1449034975,
+    "wof:name":"Meltem Grup",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bath-toilet",
+        "accessory"
+    ]
+},
+  "bbox": [29.005222,41.086662,29.005222,41.086662],
+  "geometry": {"coordinates":[29.005222,41.086662],"type":"Point"}
+}

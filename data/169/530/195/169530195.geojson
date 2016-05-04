@@ -1,0 +1,58 @@
+{
+  "id": 169530195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.328148,36.986961,35.328148,36.986961",
+    "geom:latitude":36.986961,
+    "geom:longitude":35.328148,
+    "iso:country":"TR",
+    "sg:address":"Po Box 55",
+    "sg:city":"Gaziantep",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 231 1657",
+    "sg:postcode":"63570",
+    "sg:province":"27001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929983,
+        85632393,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mrg5i0akDATeZ3EMv0VJV_36.986961_35.328148@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"668f75244df65f931eb6a60b11059254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":169530195
+        }
+    ],
+    "wof:id":169530195,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Akbank Tas",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.328148,36.986961,35.328148,36.986961],
+  "geometry": {"coordinates":[35.328148,36.986961],"type":"Point"}
+}

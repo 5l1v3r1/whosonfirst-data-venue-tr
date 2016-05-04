@@ -1,0 +1,67 @@
+{
+  "id": 169576269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.337841,41.289719,36.337841,41.289719",
+    "geom:latitude":41.289719,
+    "geom:longitude":36.337841,
+    "iso:country":"TR",
+    "sg:address":"Tcdd Limani Acenta Binalari No:7",
+    "sg:city":"Aliaga",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 362 445 0072",
+    "sg:postcode":"35800",
+    "sg:province":"Samsun",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911033,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zmLZnou7q6NQ3Onpv9QzU_41.289719_36.337841@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70a242429b34638e6fa9bb77536e8ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911033,
+            "neighbourhood_id":-1,
+            "region_id":85679357,
+            "venue_id":169576269
+        }
+    ],
+    "wof:id":169576269,
+    "wof:lastmodified":1449035197,
+    "wof:name":"Eta Shipping & Trading Eta Denizcilik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [36.337841,41.289719,36.337841,41.289719],
+  "geometry": {"coordinates":[36.337841,41.289719],"type":"Point"}
+}

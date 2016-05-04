@@ -1,0 +1,66 @@
+{
+  "id": 169574509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.018038,41.008312,29.018038,41.008312",
+    "geom:latitude":41.008312,
+    "geom:longitude":29.018038,
+    "iso:country":"TR",
+    "sg:address":"Nezihe Gurbuz Sok. No:3/1 Moda-",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 5060",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906603,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7emlWfhp8ShqBIBYSGYqst_41.008312_29.018038@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c4aa2b6e0f26f48337543304edfc2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85906603,
+            "region_id":-1,
+            "venue_id":169574509
+        }
+    ],
+    "wof:id":169574509,
+    "wof:lastmodified":1449032661,
+    "wof:name":"Adda Deniz Acent.ltd.sti.",
+    "wof:parent_id":85906603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.018038,41.008312,29.018038,41.008312],
+  "geometry": {"coordinates":[29.018038,41.008312],"type":"Point"}
+}

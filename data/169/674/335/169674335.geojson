@@ -1,0 +1,65 @@
+{
+  "id": 169674335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.696938,41.008511,28.696938,41.008511",
+    "geom:latitude":41.008511,
+    "geom:longitude":28.696938,
+    "iso:country":"TR",
+    "sg:address":"Saadetdere Mah.esenyurt Yolu No:3",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21295911699",
+    "sg:postcode":"07800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cake",
+        "sweet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T9U6dT1i9Ya6jSkxQIITc_41.008511_28.696938@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e71cfedacae1faad74d3c19e284ba6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169674335
+        }
+    ],
+    "wof:id":169674335,
+    "wof:lastmodified":1449035136,
+    "wof:name":"Hersan Helva Recel San.a.s",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "sweet"
+    ]
+},
+  "bbox": [28.696938,41.008511,28.696938,41.008511],
+  "geometry": {"coordinates":[28.696938,41.008511],"type":"Point"}
+}

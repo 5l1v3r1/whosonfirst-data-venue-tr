@@ -1,0 +1,59 @@
+{
+  "id": 169580995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.97871,41.03532,28.97871,41.03532",
+    "geom:latitude":41.03532,
+    "geom:longitude":28.97871,
+    "iso:country":"TR",
+    "sg:address":"Buyukbayram Sok. No:7 Beyoglu",
+    "sg:city":"Isikkent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 4761",
+    "sg:postcode":"35070",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gsfcrGKRkyFzn1NZxBqFd_41.035320_28.978710@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c8a2d542f08241bb62cce4b8fde6aef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":169580995
+        }
+    ],
+    "wof:id":169580995,
+    "wof:lastmodified":1449034917,
+    "wof:name":"Kar Kundura",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.97871,41.03532,28.97871,41.03532],
+  "geometry": {"coordinates":[28.97871,41.03532],"type":"Point"}
+}

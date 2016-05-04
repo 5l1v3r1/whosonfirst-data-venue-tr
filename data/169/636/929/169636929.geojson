@@ -1,0 +1,59 @@
+{
+  "id": 169636929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.089012,41.003551,29.089012,41.003551",
+    "geom:latitude":41.003551,
+    "geom:longitude":29.089012,
+    "iso:country":"TR",
+    "sg:address":"Ali N. Tarlan Cd. Ertas Sk. No:1/6 Bostanci",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 362 8306",
+    "sg:postcode":"34347",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17I479Q1PMzU48RBnohOaH_41.003551_29.089012@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b39d489e86bbb365e6e2f281f5323ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169636929
+        }
+    ],
+    "wof:id":169636929,
+    "wof:lastmodified":1449033987,
+    "wof:name":"Bostanci Kirtasiye San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.089012,41.003551,29.089012,41.003551],
+  "geometry": {"coordinates":[29.089012,41.003551],"type":"Point"}
+}

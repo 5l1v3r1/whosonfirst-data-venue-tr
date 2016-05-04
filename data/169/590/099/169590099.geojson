@@ -1,0 +1,75 @@
+{
+  "id": 169590099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.009386,41.074135,29.009386,41.074135",
+    "geom:latitude":41.074135,
+    "geom:longitude":29.009386,
+    "iso:country":"TR",
+    "sg:address":"Kaya Aldogan Sok.no:11/9 Zincirlikuyu",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 216 1237",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237,
+        85929407,
+        101912685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43mUpzAw0yfgJ3QHPABRCO_41.074135_29.009386@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc9667e267ac2ec723ba329de490b515",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169590099
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":169590099
+        }
+    ],
+    "wof:id":169590099,
+    "wof:lastmodified":1449034655,
+    "wof:name":"Astas Dis Ticaret Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [29.009386,41.074135,29.009386,41.074135],
+  "geometry": {"coordinates":[29.009386,41.074135],"type":"Point"}
+}

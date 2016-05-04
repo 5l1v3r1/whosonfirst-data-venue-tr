@@ -1,0 +1,65 @@
+{
+  "id": 169590241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.499027,37.871536,32.499027,37.871536",
+    "geom:latitude":37.871536,
+    "geom:longitude":32.499027,
+    "iso:country":"TR",
+    "sg:address":"Toptancilar Carsisi Harsuva Sok. 8.blok No:12",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 236 0781",
+    "sg:postcode":"52750",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "natural",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sEPV5bUmiWChV9oIlHo4r_37.871536_32.499027@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0fa3aa234988f871e077f061c937d6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169590241
+        }
+    ],
+    "wof:id":169590241,
+    "wof:lastmodified":1449034657,
+    "wof:name":"Aziziye Baharat",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "spice"
+    ]
+},
+  "bbox": [32.499027,37.871536,32.499027,37.871536],
+  "geometry": {"coordinates":[32.499027,37.871536],"type":"Point"}
+}

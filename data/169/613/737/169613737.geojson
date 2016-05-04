@@ -1,0 +1,62 @@
+{
+  "id": 169613737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.467461,38.782192,30.467461,38.782192",
+    "geom:latitude":38.782192,
+    "geom:longitude":30.467461,
+    "iso:country":"TR",
+    "sg:address":"Afyon",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 272 612 7277",
+    "sg:postcode":"34660",
+    "sg:province":"Afyon",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EEQqC7cIQZXzI4vL2qEiQ_38.782192_30.467461@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e485c0c774f361f152c716f49f947d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679267,
+            "venue_id":169613737
+        }
+    ],
+    "wof:id":169613737,
+    "wof:lastmodified":1449034210,
+    "wof:name":"Bolvadin Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [30.467461,38.782192,30.467461,38.782192],
+  "geometry": {"coordinates":[30.467461,38.782192],"type":"Point"}
+}

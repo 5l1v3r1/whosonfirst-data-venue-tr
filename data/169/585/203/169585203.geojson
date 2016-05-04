@@ -1,0 +1,65 @@
+{
+  "id": 169585203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.500744,37.863689,32.500744,37.863689",
+    "geom:latitude":37.863689,
+    "geom:longitude":32.500744,
+    "iso:country":"TR",
+    "sg:address":"Karaman Cad. No:78",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 353 3249",
+    "sg:postcode":"52750",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "drink-",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934711,
+        85632393,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67mbXwVjDUJ0S2SgKdgoLZ_37.863689_32.500744@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3953aa2eb8e2ce7e5ead005d622a42ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":169585203
+        }
+    ],
+    "wof:id":169585203,
+    "wof:lastmodified":1449034888,
+    "wof:name":"Ozonderler Gida Ltd.sti.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink-",
+        "soft"
+    ]
+},
+  "bbox": [32.500744,37.863689,32.500744,37.863689],
+  "geometry": {"coordinates":[32.500744,37.863689],"type":"Point"}
+}

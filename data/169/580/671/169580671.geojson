@@ -1,0 +1,59 @@
+{
+  "id": 169580671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.107077,40.951256,29.107077,40.951256",
+    "geom:latitude":40.951256,
+    "geom:longitude":29.107077,
+    "iso:country":"TR",
+    "sg:address":"Cemberlitas Yeniceriler Cad. No:9/c Eminonu",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 4423",
+    "sg:postcode":"34840",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TgEQEBPeEhcxSe4aVZSrO_40.951256_29.107077@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d9b2ce6adc348854519e3088f5b14260",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169580671
+        }
+    ],
+    "wof:id":169580671,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Erkan Kundura",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.107077,40.951256,29.107077,40.951256],
+  "geometry": {"coordinates":[29.107077,40.951256],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169538485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"39.713531,41.00658,39.713531,41.00658",
+    "geom:latitude":41.00658,
+    "geom:longitude":39.713531,
+    "iso:country":"TR",
+    "sg:address":"Kahramanmaras Cad",
+    "sg:city":"Trabzon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 321 1014",
+    "sg:postcode":"61000",
+    "sg:province":"61030",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y0VUOUghLM8SuvaMmass5_41.006580_39.713531@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b812b7e38e9df15b1571a2a08eb36a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":169538485
+        }
+    ],
+    "wof:id":169538485,
+    "wof:lastmodified":1449033100,
+    "wof:name":"Osmanli Bankasi As",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [39.713531,41.00658,39.713531,41.00658],
+  "geometry": {"coordinates":[39.713531,41.00658],"type":"Point"}
+}

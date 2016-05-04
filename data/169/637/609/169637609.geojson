@@ -1,0 +1,60 @@
+{
+  "id": 169637609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.982121,41.061859,28.982121,41.061859",
+    "geom:latitude":41.061859,
+    "geom:longitude":28.982121,
+    "iso:country":"TR",
+    "sg:address":"Iyiniyet Sk. No.18 Bomonti, Sisli",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 6890",
+    "sg:postcode":"34347",
+    "sg:province":"Istanbul",
+    "sg:website":"cemkirtasiye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uKK6QllKQ2R11FnYjxQzN_41.061859_28.982121@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be40c7d1c9325fd29d7550ee7736f078",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":169637609
+        }
+    ],
+    "wof:id":169637609,
+    "wof:lastmodified":1449032687,
+    "wof:name":"Cem Kirtasiye Matbaacilik",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.982121,41.061859,28.982121,41.061859],
+  "geometry": {"coordinates":[28.982121,41.061859],"type":"Point"}
+}

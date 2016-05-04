@@ -1,0 +1,62 @@
+{
+  "id": 169572549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.020372,41.029411,29.020372,41.029411",
+    "geom:latitude":41.029411,
+    "geom:longitude":29.020372,
+    "iso:country":"TR",
+    "sg:address":"Kupluce Mh. Semsibey Sk. No:55/1",
+    "sg:city":"Beylerbeyi",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 318 0490",
+    "sg:postcode":"20300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929369,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lrjE0vd1sJuPwIsiEXiap_41.029411_29.020372@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc8cfb1317656ca495186b497ed4950e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929369,
+            "region_id":85679237,
+            "venue_id":169572549
+        }
+    ],
+    "wof:id":169572549,
+    "wof:lastmodified":1449034704,
+    "wof:name":"Durmusoglu Denizciliksan.a.s.",
+    "wof:parent_id":85929369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.020372,41.029411,29.020372,41.029411],
+  "geometry": {"coordinates":[29.020372,41.029411],"type":"Point"}
+}

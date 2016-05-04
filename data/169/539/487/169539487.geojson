@@ -1,0 +1,57 @@
+{
+  "id": 169539487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.203135,38.429928,27.203135,38.429928",
+    "geom:latitude":38.429928,
+    "geom:longitude":27.203135,
+    "iso:country":"TR",
+    "sg:address":"Abdi Ipekci Cad 63",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21223140",
+    "sg:province":"80200",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904075,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mebe98H2SyyAQdAadQ6mD_38.429928_27.203135@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1ef0c4cded7986255fdb4a1ea30f10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":169539487
+        }
+    ],
+    "wof:id":169539487,
+    "wof:lastmodified":1449036038,
+    "wof:name":"Sitebank",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.203135,38.429928,27.203135,38.429928],
+  "geometry": {"coordinates":[27.203135,38.429928],"type":"Point"}
+}

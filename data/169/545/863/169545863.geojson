@@ -1,0 +1,57 @@
+{
+  "id": 169545863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.017475,41.075226,29.017475,41.075226",
+    "geom:latitude":41.075226,
+    "geom:longitude":29.017475,
+    "iso:country":"TR",
+    "sg:address":"Gonca Sokak 10",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 6440",
+    "sg:province":"80620",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929845,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_026cyhdFVBezHW3XiNHunt_41.075226_29.017475@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70f75a0923e8f19ff19f9695153dc542",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":169545863
+        }
+    ],
+    "wof:id":169545863,
+    "wof:lastmodified":1449033486,
+    "wof:name":"T?kiye Is, Bankasi As",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.017475,41.075226,29.017475,41.075226],
+  "geometry": {"coordinates":[29.017475,41.075226],"type":"Point"}
+}

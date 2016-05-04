@@ -1,0 +1,63 @@
+{
+  "id": 169685581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.095032,38.389957,27.095032,38.389957",
+    "geom:latitude":38.389957,
+    "geom:longitude":27.095032,
+    "iso:country":"TR",
+    "sg:address":"108/6 Sok. No:36",
+    "sg:city":"Esendere",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 533 612 4116",
+    "sg:postcode":"35290",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904103,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eOaylbw7fv2jFkZ7kducV_38.389957_27.095032@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"960caa19e4f22265245ac2b2c00dfdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":169685581
+        }
+    ],
+    "wof:id":169685581,
+    "wof:lastmodified":1449035883,
+    "wof:name":"Der Tekstil",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [27.095032,38.389957,27.095032,38.389957],
+  "geometry": {"coordinates":[27.095032,38.389957],"type":"Point"}
+}

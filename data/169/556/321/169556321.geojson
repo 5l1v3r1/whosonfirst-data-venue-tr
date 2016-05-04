@@ -1,0 +1,63 @@
+{
+  "id": 169556321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.143969,41.122089,29.143969,41.122089",
+    "geom:latitude":41.122089,
+    "geom:longitude":29.143969,
+    "iso:country":"TR",
+    "sg:address":"Acarkent C 134 Pasabahce Beykoz",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 485 0177",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930059,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YZBBZV33e5XLtc2D0AAFK_41.122089_29.143969@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"36d60c3591444def3dfacd740f92ed9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85930059,
+            "region_id":85679237,
+            "venue_id":169556321
+        }
+    ],
+    "wof:id":169556321,
+    "wof:lastmodified":1449033506,
+    "wof:name":"Acart Havuz",
+    "wof:parent_id":85930059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.143969,41.122089,29.143969,41.122089],
+  "geometry": {"coordinates":[29.143969,41.122089],"type":"Point"}
+}

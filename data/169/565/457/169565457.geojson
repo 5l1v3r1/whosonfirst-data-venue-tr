@@ -1,0 +1,64 @@
+{
+  "id": 169565457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.80534,39.963757,32.80534,39.963757",
+    "geom:latitude":39.963757,
+    "geom:longitude":32.80534,
+    "iso:country":"TR",
+    "sg:address":"Ivedik Cad.no: 230 /a Yenimahalle",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 327 0806",
+    "sg:postcode":"06200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904093,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HkqIZzA5uDDgKr5c1UXDz_39.963757_32.805340@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e34dbf95ce635f8f26efcd0dc692f072",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904093,
+            "region_id":85679409,
+            "venue_id":169565457
+        }
+    ],
+    "wof:id":169565457,
+    "wof:lastmodified":1449035665,
+    "wof:name":"Atlas Bilgisayar Insaat Tur. Guvenlik Sist.tic.a.s.",
+    "wof:parent_id":85904093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.80534,39.963757,32.80534,39.963757],
+  "geometry": {"coordinates":[32.80534,39.963757],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 169557743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.0805,38.396618,27.0805,38.396618",
+    "geom:latitude":38.396618,
+    "geom:longitude":27.0805,
+    "iso:country":"TR",
+    "sg:address":"20.sok. No:24/b Uckuyular",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 247 0641",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904103,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hmrztd8WXTAKUlb4xebdd_38.396618_27.080500@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6fb67a99aaa306ae0472a9bb86dd878b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":169557743
+        }
+    ],
+    "wof:id":169557743,
+    "wof:lastmodified":1449035037,
+    "wof:name":"Turkuvaz Havuz & Aritma Tesisat Ins. Tic. Ve San. Ltd.sti.",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [27.0805,38.396618,27.0805,38.396618],
+  "geometry": {"coordinates":[27.0805,38.396618],"type":"Point"}
+}

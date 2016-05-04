@@ -1,0 +1,65 @@
+{
+  "id": 169556161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"40.209236,37.917023,40.209236,37.917023",
+    "geom:latitude":37.917023,
+    "geom:longitude":40.209236,
+    "iso:country":"TR",
+    "sg:address":"Fatih Cad.no:84/a",
+    "sg:city":"Baglar",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 412 233 7349",
+    "sg:postcode":"15100",
+    "sg:province":"Diyarbakir",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912775,
+        85679395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26FMTC9cUIkthqoKM8fBNq_37.917023_40.209236@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbb458f353656ae67ed4215e45d21ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912775,
+            "neighbourhood_id":-1,
+            "region_id":85679395,
+            "venue_id":169556161
+        }
+    ],
+    "wof:id":169556161,
+    "wof:lastmodified":1449033506,
+    "wof:name":"Fer-sat Elektronik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [40.209236,37.917023,40.209236,37.917023],
+  "geometry": {"coordinates":[40.209236,37.917023],"type":"Point"}
+}

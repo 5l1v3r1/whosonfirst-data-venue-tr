@@ -1,0 +1,66 @@
+{
+  "id": 169605327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.000046,41.047554,29.000046,41.047554",
+    "geom:latitude":41.047554,
+    "geom:longitude":29.000046,
+    "iso:country":"TR",
+    "sg:address":"Nuzhetiye Cad. 42/d Besiktas",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Tennis Court",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 7057",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fFCupYckRE3aMOcXvNdVG_41.047554_29.000046@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8fe01ba683857ec72909a7f6276d2e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":169605327
+        }
+    ],
+    "wof:id":169605327,
+    "wof:lastmodified":1449034287,
+    "wof:name":"Finspor Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material"
+    ]
+},
+  "bbox": [29.000046,41.047554,29.000046,41.047554],
+  "geometry": {"coordinates":[29.000046,41.047554],"type":"Point"}
+}

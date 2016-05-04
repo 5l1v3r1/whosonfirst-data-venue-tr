@@ -1,0 +1,57 @@
+{
+  "id": 169532085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.485966,38.724545,35.485966,38.724545",
+    "geom:latitude":38.724545,
+    "geom:longitude":35.485966,
+    "iso:country":"TR",
+    "sg:address":"Istasyon Cad 16",
+    "sg:city":"Kayseri",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 222 1263",
+    "sg:postcode":"63600",
+    "sg:province":"38020",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YtSIprTQGKpiwZqhlzrl7_38.724545_35.485966@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90e57a4995eb246742d7992465d6b9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169532085
+        }
+    ],
+    "wof:id":169532085,
+    "wof:lastmodified":1449033795,
+    "wof:name":"Demirbank Tas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [35.485966,38.724545,35.485966,38.724545],
+  "geometry": {"coordinates":[35.485966,38.724545],"type":"Point"}
+}

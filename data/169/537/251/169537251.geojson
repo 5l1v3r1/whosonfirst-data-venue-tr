@@ -1,0 +1,58 @@
+{
+  "id": 169537251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.475494,39.750088,30.475494,39.750088",
+    "geom:latitude":39.750088,
+    "geom:longitude":30.475494,
+    "iso:country":"TR",
+    "sg:address":"Osmangazi Mahallesi",
+    "sg:city":"Setbasi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 224 4256",
+    "sg:province":"16010",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934759,
+        85632393,
+        101912873,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LPUhgT4sPz4544DKKflO3_39.750088_30.475494@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"10b604b4dd07e73b91c876d6b8fb77a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912873,
+            "neighbourhood_id":85934759,
+            "region_id":85679255,
+            "venue_id":169537251
+        }
+    ],
+    "wof:id":169537251,
+    "wof:lastmodified":1449033496,
+    "wof:name":"Kocbank As",
+    "wof:parent_id":85934759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [30.475494,39.750088,30.475494,39.750088],
+  "geometry": {"coordinates":[30.475494,39.750088],"type":"Point"}
+}

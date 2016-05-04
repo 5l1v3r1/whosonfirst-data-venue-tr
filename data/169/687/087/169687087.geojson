@@ -1,0 +1,66 @@
+{
+  "id": 169687087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011803,41.054176,29.011803,41.054176",
+    "geom:latitude":41.054176,
+    "geom:longitude":29.011803,
+    "iso:country":"TR",
+    "sg:address":"Ertem Sk. No:4 Nil Apt. D:9 K:4",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 6780",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fjzn9JxgWkPsp9vAeqBpS_41.054176_29.011803@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"603e5cf060cbfcd39554807c18e94670",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169687087
+        }
+    ],
+    "wof:id":169687087,
+    "wof:lastmodified":1449033608,
+    "wof:name":"Bah?esan Tic. Ltd. Sti.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [29.011803,41.054176,29.011803,41.054176],
+  "geometry": {"coordinates":[29.011803,41.054176],"type":"Point"}
+}

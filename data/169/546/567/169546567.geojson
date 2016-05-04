@@ -1,0 +1,58 @@
+{
+  "id": 169546567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "sg:address":"Atat?k Bulvari No 207, 06683 Kavaklidere, Ankara",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312455757540",
+    "sg:province":"Ankara",
+    "sg:website":"http://www.vakifbank.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929573,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQbC5abpfh6BMZX98LcqL_39.943874_32.856033@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68c3280b4a772c2c653ccc4d077be668",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":169546567
+        }
+    ],
+    "wof:id":169546567,
+    "wof:lastmodified":1449032682,
+    "wof:name":"T?kiye Vakiflar Bankasi Tao",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
+}

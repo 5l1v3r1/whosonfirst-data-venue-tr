@@ -1,0 +1,64 @@
+{
+  "id": 169685477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.977005,41.074024,28.977005,41.074024",
+    "geom:latitude":41.074024,
+    "geom:longitude":28.977005,
+    "iso:country":"TR",
+    "sg:address":"Ugur Sk. No.2",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 295 4700",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "underwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KC7YLKUefj1Oagx9nWPKJ_41.074024_28.977005@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d508b10f24016bf9e3ef6e6e9b42eaa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":169685477
+        }
+    ],
+    "wof:id":169685477,
+    "wof:lastmodified":1449035885,
+    "wof:name":"Ayyildiz Tekstil Ve Konfeksiyon San. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underwear"
+    ]
+},
+  "bbox": [28.977005,41.074024,28.977005,41.074024],
+  "geometry": {"coordinates":[28.977005,41.074024],"type":"Point"}
+}

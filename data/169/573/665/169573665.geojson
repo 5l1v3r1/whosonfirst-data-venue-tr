@@ -1,0 +1,64 @@
+{
+  "id": 169573665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.011803,41.054176,29.011803,41.054176",
+    "geom:latitude":41.054176,
+    "geom:longitude":29.011803,
+    "iso:country":"TR",
+    "sg:address":"Prof.dr.b?ent Tarcan Sk.no5 Pak Ismek.",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 0755",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wgHtIT8m9YkTN0M7HEm6f_41.054176_29.011803@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"603e5cf060cbfcd39554807c18e94670",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":169573665
+        }
+    ],
+    "wof:id":169573665,
+    "wof:lastmodified":1449035112,
+    "wof:name":"Pak Holding A.s.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.011803,41.054176,29.011803,41.054176],
+  "geometry": {"coordinates":[29.011803,41.054176],"type":"Point"}
+}

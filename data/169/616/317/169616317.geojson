@@ -1,0 +1,62 @@
+{
+  "id": 169616317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"33.094166,37.023056,33.094166,37.023056",
+    "geom:latitude":37.023056,
+    "geom:longitude":33.094166,
+    "iso:country":"TR",
+    "sg:address":"Karaman",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 338 212 9564",
+    "sg:postcode":"34660",
+    "sg:province":"Karaman",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PnQMxvlj67fV85ypPcrwq_37.023056_33.094166@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bfa55589f0d35e737d11d55f37b94cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679427,
+            "venue_id":169616317
+        }
+    ],
+    "wof:id":169616317,
+    "wof:lastmodified":1449035100,
+    "wof:name":"Devlet Hastanesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [33.094166,37.023056,33.094166,37.023056],
+  "geometry": {"coordinates":[33.094166,37.023056],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 169556519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.115889,40.937237,29.115889,40.937237",
+    "geom:latitude":40.937237,
+    "geom:longitude":29.115889,
+    "iso:country":"TR",
+    "sg:address":"Adalar Sk. No. 7 Idealtepe",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 367 0516",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N7EiHjUbNp43zko5PbwuT_40.937237_29.115889@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e536db3e64468110d01ef5b313e24aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":169556519
+        }
+    ],
+    "wof:id":169556519,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Bogazi?i San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [29.115889,40.937237,29.115889,40.937237],
+  "geometry": {"coordinates":[29.115889,40.937237],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 169557969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.850674,39.904438,32.850674,39.904438",
+    "geom:latitude":39.904438,
+    "geom:longitude":32.850674,
+    "iso:country":"TR",
+    "sg:address":"Kuzgun Sk. No:78/5 A.ayranci",
+    "sg:city":"Narlidere",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 2508",
+    "sg:postcode":"33600",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "scaffolding",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DUZ28NPIX9ejiExnfExoz_39.904438_32.850674@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"592a6674bccd096a2c2c966201af6f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169557969
+        }
+    ],
+    "wof:id":169557969,
+    "wof:lastmodified":1449035034,
+    "wof:name":"Abs Al?i Blok San. A.s.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding",
+        "form"
+    ]
+},
+  "bbox": [32.850674,39.904438,32.850674,39.904438],
+  "geometry": {"coordinates":[32.850674,39.904438],"type":"Point"}
+}

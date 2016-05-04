@@ -1,0 +1,68 @@
+{
+  "id": 169578455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.082355,40.960983,29.082355,40.960983",
+    "geom:latitude":40.960983,
+    "geom:longitude":29.082355,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cd.adikoglu Ismerk.no435/4",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 358 2373",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sFDkwGrXLQBDaVwSFgEA9_40.960983_29.082355@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a3cb2600faa67012e5e6ed05f414d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":169578455
+        }
+    ],
+    "wof:id":169578455,
+    "wof:lastmodified":1449033520,
+    "wof:name":"Sankay Ltd.sti.",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.082355,40.960983,29.082355,40.960983],
+  "geometry": {"coordinates":[29.082355,40.960983],"type":"Point"}
+}

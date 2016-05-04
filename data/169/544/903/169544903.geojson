@@ -1,0 +1,58 @@
+{
+  "id": 169544903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.146585,38.422485,27.146585,38.422485",
+    "geom:latitude":38.422485,
+    "geom:longitude":27.146585,
+    "iso:country":"TR",
+    "sg:address":"Gaziler Caddesi 100",
+    "sg:city":"Gaziantep",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 234 0649",
+    "sg:postcode":"63570",
+    "sg:province":"27001",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929657,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61C0AVrMkEBQDfJ5zKvAkO_38.422485_27.146585@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"225d1a5cdd31e381b5b4453d17a1e9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":169544903
+        }
+    ],
+    "wof:id":169544903,
+    "wof:lastmodified":1449035962,
+    "wof:name":"T?kiye Halk, Bankasi As",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.146585,38.422485,27.146585,38.422485],
+  "geometry": {"coordinates":[27.146585,38.422485],"type":"Point"}
+}

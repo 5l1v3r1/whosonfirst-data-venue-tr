@@ -1,0 +1,63 @@
+{
+  "id": 169566569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.841389,39.889027,32.841389,39.889027",
+    "geom:latitude":39.889027,
+    "geom:longitude":32.841389,
+    "iso:country":"TR",
+    "sg:address":"Hosdere Cad.manolya Apt. No:51/9",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3124662666466",
+    "sg:postcode":"65710",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929503,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UhHWA4xBRSgFIfOYTu20v_39.889027_32.841389@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b012ae13519bd134b6a026068c881d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":169566569
+        }
+    ],
+    "wof:id":169566569,
+    "wof:lastmodified":1449032755,
+    "wof:name":"Cosmo Guvenlik Ve Iletisim Sist.ve Servis Hizmetlei Ltd.sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [32.841389,39.889027,32.841389,39.889027],
+  "geometry": {"coordinates":[32.841389,39.889027],"type":"Point"}
+}

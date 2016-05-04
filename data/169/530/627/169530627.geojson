@@ -1,0 +1,58 @@
+{
+  "id": 169530627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.85437,39.910381,32.85437,39.910381",
+    "geom:latitude":39.910381,
+    "geom:longitude":32.85437,
+    "iso:country":"TR",
+    "sg:address":"Havuzlu Sok No.3",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 1319",
+    "sg:postcode":"63570",
+    "sg:province":"06540",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904129,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Poqyz126DfKi9drkq2yWM_39.910381_32.854370@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3454dec37fece323fabae819b756a696",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":169530627
+        }
+    ],
+    "wof:id":169530627,
+    "wof:lastmodified":1449034445,
+    "wof:name":"Arab Turkis Bank",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.85437,39.910381,32.85437,39.910381],
+  "geometry": {"coordinates":[32.85437,39.910381],"type":"Point"}
+}

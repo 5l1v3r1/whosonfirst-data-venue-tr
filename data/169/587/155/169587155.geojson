@@ -1,0 +1,66 @@
+{
+  "id": 169587155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.107883,40.950558,29.107883,40.950558",
+    "geom:latitude":40.950558,
+    "geom:longitude":29.107883,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cd. Ak? Apt. No:418",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 411 4395",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W0L8lNxWlxxUbV69uut9D_40.950558_29.107883@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11f005e65721092006c7d62e53e253e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":169587155
+        }
+    ],
+    "wof:id":169587155,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Ets Enerji Tasarruf Sistem. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [29.107883,40.950558,29.107883,40.950558],
+  "geometry": {"coordinates":[29.107883,40.950558],"type":"Point"}
+}

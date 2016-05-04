@@ -1,0 +1,58 @@
+{
+  "id": 169541689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.856918,39.917976,32.856918,39.917976",
+    "geom:latitude":39.917976,
+    "geom:longitude":32.856918,
+    "iso:country":"TR",
+    "sg:address":"Mesrutiyet Cad 18",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 4631",
+    "sg:postcode":"63570",
+    "sg:province":"06640",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929551,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oA0d22Wmkc4bnJzg97aGY_39.917976_32.856918@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dffa2d8a50a4eb352812a433f2f00d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":169541689
+        }
+    ],
+    "wof:id":169541689,
+    "wof:lastmodified":1449033045,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.856918,39.917976,32.856918,39.917976],
+  "geometry": {"coordinates":[32.856918,39.917976],"type":"Point"}
+}

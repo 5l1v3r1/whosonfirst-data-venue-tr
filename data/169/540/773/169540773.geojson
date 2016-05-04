@@ -1,0 +1,58 @@
+{
+  "id": 169540773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.036564,41.08189,29.036564,41.08189",
+    "geom:latitude":41.08189,
+    "geom:longitude":29.036564,
+    "iso:country":"TR",
+    "sg:address":"80600 Etiler, Istanbul",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 265 3355",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QPkLaD86FG01O3nFu9hmh_41.081890_29.036564@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3fdde78ac8f13749a0a733d0d0b6184a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":169540773
+        }
+    ],
+    "wof:id":169540773,
+    "wof:lastmodified":1449033974,
+    "wof:name":"Tekfen Holding As",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [29.036564,41.08189,29.036564,41.08189],
+  "geometry": {"coordinates":[29.036564,41.08189],"type":"Point"}
+}

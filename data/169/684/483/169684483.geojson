@@ -1,0 +1,67 @@
+{
+  "id": 169684483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
+    "geom:latitude":37.062946,
+    "geom:longitude":37.376102,
+    "iso:country":"TR",
+    "sg:address":"Task?r?cad. No: 5",
+    "sg:city":"Nizip",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 513 0059",
+    "sg:postcode":"27700",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934731,
+        85632393,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PNoKGB5O48CRyWop6zbs8_37.062946_37.376102@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d0034f9a74007248d8c170651dc1bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":169684483
+        }
+    ],
+    "wof:id":169684483,
+    "wof:lastmodified":1449033509,
+    "wof:name":"Guvenal Zeytinyagi",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ]
+},
+  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
+}

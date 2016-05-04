@@ -1,0 +1,68 @@
+{
+  "id": 169577895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.037264,41.003334,29.037264,41.003334",
+    "geom:latitude":41.003334,
+    "geom:longitude":29.037264,
+    "iso:country":"TR",
+    "sg:address":"Bagdat Cad.oncu Sok. Buyukhanli Sitesi B1 Blok No: 8/22-23 .",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 368 6969",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BlyIrfQnpEaiqFpaui6XU_41.003334_29.037264@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6e21b808ddfbadf2c324dba88ca5ec01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":169577895
+        }
+    ],
+    "wof:id":169577895,
+    "wof:lastmodified":1449036066,
+    "wof:name":"Normed Shipping Transportation & Trading Co Inc.",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [29.037264,41.003334,29.037264,41.003334],
+  "geometry": {"coordinates":[29.037264,41.003334],"type":"Point"}
+}

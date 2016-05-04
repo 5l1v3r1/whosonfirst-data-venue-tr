@@ -1,0 +1,65 @@
+{
+  "id": 169589103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.365801,37.219601,28.365801,37.219601",
+    "geom:latitude":37.219601,
+    "geom:longitude":28.365801,
+    "iso:country":"TR",
+    "sg:address":"Dat? Yolu Eski Devlet Hast. Kars. 72 Sok. C/26",
+    "sg:city":"Marmaris",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 252 412 0243",
+    "sg:postcode":"48700",
+    "sg:province":"Mugla",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911277,
+        85679291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6psdOLJnHcPANoI3oj8BTr_37.219601_28.365801@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50d33d777b7f78a0fd0b7c6c1092932a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911277,
+            "neighbourhood_id":-1,
+            "region_id":85679291,
+            "venue_id":169589103
+        }
+    ],
+    "wof:id":169589103,
+    "wof:lastmodified":1449034447,
+    "wof:name":"Paksu G?nes Enerjisi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [28.365801,37.219601,28.365801,37.219601],
+  "geometry": {"coordinates":[28.365801,37.219601],"type":"Point"}
+}

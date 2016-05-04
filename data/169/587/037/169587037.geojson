@@ -1,0 +1,64 @@
+{
+  "id": 169587037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"35.527466,38.727798,35.527466,38.727798",
+    "geom:latitude":38.727798,
+    "geom:longitude":35.527466,
+    "iso:country":"TR",
+    "sg:address":"Osman Kavuncu Cad.beyazsaray Apt.no:215/d",
+    "sg:city":"Melikgazi",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352332510607",
+    "sg:postcode":"38030",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VUhQIthUCHWeG4vbYIaBj_38.727798_35.527466@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d87c1152614391f7052e81c856cc0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679321,
+            "venue_id":169587037
+        }
+    ],
+    "wof:id":169587037,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Deniz Isi Sanayi Tic.ltd.sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [35.527466,38.727798,35.527466,38.727798],
+  "geometry": {"coordinates":[35.527466,38.727798],"type":"Point"}
+}

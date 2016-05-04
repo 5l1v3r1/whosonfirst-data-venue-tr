@@ -1,0 +1,62 @@
+{
+  "id": 169572527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.257462,40.899723,29.257462,40.899723",
+    "geom:latitude":40.899723,
+    "geom:longitude":29.257462,
+    "iso:country":"TR",
+    "sg:address":"Ankara Cad. No:92/2",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 0953",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "shipowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fbuqzBhIL1dc2xQoseFdL_40.899723_29.257462@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"503547e3090b66c2810e54b0274a54db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169572527
+        }
+    ],
+    "wof:id":169572527,
+    "wof:lastmodified":1449034706,
+    "wof:name":"Denizman Gemi.tas.a.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipowner"
+    ]
+},
+  "bbox": [29.257462,40.899723,29.257462,40.899723],
+  "geometry": {"coordinates":[29.257462,40.899723],"type":"Point"}
+}

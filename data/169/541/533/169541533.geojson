@@ -1,0 +1,58 @@
+{
+  "id": 169541533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.844429,37.848099,27.844429,37.848099",
+    "geom:latitude":37.848099,
+    "geom:longitude":27.844429,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cad 9",
+    "sg:city":"Aydin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 225 8991",
+    "sg:postcode":"01513",
+    "sg:province":"09100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101911263,
+        85679195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uMnlGdKzQdqw6vclQ6QBO_37.848099_27.844429@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8fe9d8d4960cb2921aac8040b7df24f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101911263,
+            "neighbourhood_id":-1,
+            "region_id":85679195,
+            "venue_id":169541533
+        }
+    ],
+    "wof:id":169541533,
+    "wof:lastmodified":1449033039,
+    "wof:name":"Toprakbank As",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [27.844429,37.848099,27.844429,37.848099],
+  "geometry": {"coordinates":[27.844429,37.848099],"type":"Point"}
+}

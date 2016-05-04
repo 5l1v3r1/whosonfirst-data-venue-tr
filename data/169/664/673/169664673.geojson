@@ -1,0 +1,66 @@
+{
+  "id": 169664673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"30.524473,39.772774,30.524473,39.772774",
+    "geom:latitude":39.772774,
+    "geom:longitude":30.524473,
+    "iso:country":"TR",
+    "sg:address":"Yunusemre Cd. No:81/1",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 3942",
+    "sg:postcode":"36100",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12iTDLPLkZzdoM4NO0NmX7_39.772774_30.524473@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"46c4676852eb60d678f021dd0f2e5c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":169664673
+        }
+    ],
+    "wof:id":169664673,
+    "wof:lastmodified":1449033912,
+    "wof:name":"Metasan Metal Ve Aga? San. Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [30.524473,39.772774,30.524473,39.772774],
+  "geometry": {"coordinates":[30.524473,39.772774],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": 169580279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.980947,41.058281,28.980947,41.058281",
+    "geom:latitude":41.058281,
+    "geom:longitude":28.980947,
+    "iso:country":"TR",
+    "sg:address":"Birahane Sk. No.9/2 Sisli",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0433",
+    "sg:postcode":"16240",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mAlF79nWbxHG0qsKoAYVt_41.058281_28.980947@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe2c5ec12d732b813690c92625a50fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":169580279
+        }
+    ],
+    "wof:id":169580279,
+    "wof:lastmodified":1449034914,
+    "wof:name":"Cemre Ayakkabi San. A.s.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [28.980947,41.058281,28.980947,41.058281],
+  "geometry": {"coordinates":[28.980947,41.058281],"type":"Point"}
+}

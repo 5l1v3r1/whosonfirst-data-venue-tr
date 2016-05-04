@@ -1,0 +1,63 @@
+{
+  "id": 169555817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.076094,41.00288,29.076094,41.00288",
+    "geom:latitude":41.00288,
+    "geom:longitude":29.076094,
+    "iso:country":"TR",
+    "sg:address":"Fetih Mah.karadeniz Sok.no:10/a",
+    "sg:city":"?sk?dar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 324 1074",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Bc2Wum7zXtvE7GXSNsAq_41.002880_29.076094@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aeee16529d83e0c70d9c8f94a782ecca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":169555817
+        }
+    ],
+    "wof:id":169555817,
+    "wof:lastmodified":1449035496,
+    "wof:name":"?rnek Lokum Imalat Sanayi",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [29.076094,41.00288,29.076094,41.00288],
+  "geometry": {"coordinates":[29.076094,41.00288],"type":"Point"}
+}

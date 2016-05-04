@@ -1,0 +1,65 @@
+{
+  "id": 169587389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.09446,38.397568,27.09446,38.397568",
+    "geom:latitude":38.397568,
+    "geom:longitude":27.09446,
+    "iso:country":"TR",
+    "sg:address":"Inonu Cad. No:430",
+    "sg:city":"Hatay",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 23224491932326",
+    "sg:postcode":"35840",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904103,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RfvKilDzqREHEybWyBt2p_38.397568_27.094460@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b851305aae8880ec6f34a99cc07e9f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":169587389
+        }
+    ],
+    "wof:id":169587389,
+    "wof:lastmodified":1449033822,
+    "wof:name":"Goksu Gunay Muh. Yerden Isitma Klima Ins. Ltd.sti.",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [27.09446,38.397568,27.09446,38.397568],
+  "geometry": {"coordinates":[27.09446,38.397568],"type":"Point"}
+}

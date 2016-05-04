@@ -1,0 +1,66 @@
+{
+  "id": 169657645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.160032,40.917732,29.160032,40.917732",
+    "geom:latitude":40.917732,
+    "geom:longitude":29.160032,
+    "iso:country":"TR",
+    "sg:address":"Tugay Yolu No:73 Maltepe",
+    "sg:city":"Nil?fer",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 7135",
+    "sg:postcode":"19285",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "steel",
+        "utensil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o1vCsjlibpT7sIKAjzIAq_40.917732_29.160032@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"87d39e03668455241c9956e9bd5552bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":169657645
+        }
+    ],
+    "wof:id":169657645,
+    "wof:lastmodified":1449033047,
+    "wof:name":"Algaz Radyan Gaz Alet. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "utensil"
+    ]
+},
+  "bbox": [29.160032,40.917732,29.160032,40.917732],
+  "geometry": {"coordinates":[29.160032,40.917732],"type":"Point"}
+}

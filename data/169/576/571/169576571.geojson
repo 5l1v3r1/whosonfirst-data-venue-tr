@@ -1,0 +1,66 @@
+{
+  "id": 169576571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.155333,38.387825,27.155333,38.387825",
+    "geom:latitude":38.387825,
+    "geom:longitude":27.155333,
+    "iso:country":"TR",
+    "sg:address":"M.pasa Cad. No:610/4",
+    "sg:city":"K.yali",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 245 1003",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904097,
+        85632393,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2si7D8agsjWg7ZbVFu66Vb_38.387825_27.155333@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef7234519c4a06e2b824bfee382fb87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":169576571
+        }
+    ],
+    "wof:id":169576571,
+    "wof:lastmodified":1449035196,
+    "wof:name":"Guvenli Makina San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agent",
+        "shipping",
+        "broker"
+    ]
+},
+  "bbox": [27.155333,38.387825,27.155333,38.387825],
+  "geometry": {"coordinates":[27.155333,38.387825],"type":"Point"}
+}

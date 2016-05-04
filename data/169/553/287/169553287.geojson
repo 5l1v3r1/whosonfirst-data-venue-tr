@@ -1,0 +1,63 @@
+{
+  "id": 169553287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.840185,41.006779,28.840185,41.006779",
+    "geom:latitude":41.006779,
+    "geom:longitude":28.840185,
+    "iso:country":"TR",
+    "sg:address":"Hurriyet Mah. Caglar Sok. 1/4",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 425 0030",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "biscuit-chocolate-candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22o3pDwDbw7Rn7wY2oYmGw_41.006779_28.840185@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b15792a64c45da373216e6e88ed92092",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":-1,
+            "region_id":85679237,
+            "venue_id":169553287
+        }
+    ],
+    "wof:id":169553287,
+    "wof:lastmodified":1449032706,
+    "wof:name":"Beyzade Ticaret Gida Dagitim Ve Pazarlama",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biscuit-chocolate-candy"
+    ]
+},
+  "bbox": [28.840185,41.006779,28.840185,41.006779],
+  "geometry": {"coordinates":[28.840185,41.006779],"type":"Point"}
+}

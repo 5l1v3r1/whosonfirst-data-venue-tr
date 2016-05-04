@@ -1,0 +1,66 @@
+{
+  "id": 169556097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.095957,40.968014,29.095957,40.968014",
+    "geom:latitude":40.968014,
+    "geom:longitude":29.095957,
+    "iso:country":"TR",
+    "sg:address":"Kaya Sultan Sok. No:103/b Kozyatagi",
+    "sg:city":"Sahinbey",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 458 3000",
+    "sg:postcode":"27010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YSxibko2RV6tpu2Fsc2C0_40.968014_29.095957@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9315e42c4d41b11388efb289faac0da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":169556097
+        }
+    ],
+    "wof:id":169556097,
+    "wof:lastmodified":1449033506,
+    "wof:name":"Basari Uydu Sistemleri",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [29.095957,40.968014,29.095957,40.968014],
+  "geometry": {"coordinates":[29.095957,40.968014],"type":"Point"}
+}

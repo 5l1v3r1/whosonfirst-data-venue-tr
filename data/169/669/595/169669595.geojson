@@ -1,0 +1,61 @@
+{
+  "id": 169669595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"27.797115,41.158741,27.797115,41.158741",
+    "geom:latitude":41.158741,
+    "geom:longitude":27.797115,
+    "iso:country":"TR",
+    "sg:address":"Muhittin Mh.hancilar ?arsisi No:39",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"59860",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "stevedores-tally"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fpUkBd7zNR8COzttWbNsW_41.158741_27.797115@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98f605612882e407cab4fc8ec812fe3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679223,
+            "venue_id":169669595
+        }
+    ],
+    "wof:id":169669595,
+    "wof:lastmodified":1449033061,
+    "wof:name":"Bora Depolama Istifleme Ve Aktarma Hizmetleri",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stevedores-tally"
+    ]
+},
+  "bbox": [27.797115,41.158741,27.797115,41.158741],
+  "geometry": {"coordinates":[27.797115,41.158741],"type":"Point"}
+}

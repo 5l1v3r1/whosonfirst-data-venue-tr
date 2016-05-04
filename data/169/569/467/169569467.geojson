@@ -1,0 +1,63 @@
+{
+  "id": 169569467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.106501,41.0303,29.106501,41.0303",
+    "geom:latitude":41.0303,
+    "geom:longitude":29.106501,
+    "iso:country":"TR",
+    "sg:address":"Yeni Istanbul Carsisi E-blok K:1 Umraniye",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 499 5123",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x7zUovV0MyioGB5fJniSE_41.030300_29.106501@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"593b3cf643d9d7fd9b3b3ed1036207d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":169569467
+        }
+    ],
+    "wof:id":169569467,
+    "wof:lastmodified":1449035831,
+    "wof:name":"Proje Guvenlik Sistemleri",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [29.106501,41.0303,29.106501,41.0303],
+  "geometry": {"coordinates":[29.106501,41.0303],"type":"Point"}
+}

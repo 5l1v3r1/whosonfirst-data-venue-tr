@@ -1,0 +1,64 @@
+{
+  "id": 169588487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"36.349812,36.401848,36.349812,36.401848",
+    "geom:latitude":36.401848,
+    "geom:longitude":36.349812,
+    "iso:country":"TR",
+    "sg:address":"Osmangazi Cad. No:8",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 326 617 4681",
+    "sg:postcode":"31200",
+    "sg:province":"Hatay",
+    "sg:tags":[
+        "energy",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11wVNSoLJ1b34mLsuq6DVQ_36.401848_36.349812@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ac94a8f779da6ff9b8f238158420a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85679331,
+            "venue_id":169588487
+        }
+    ],
+    "wof:id":169588487,
+    "wof:lastmodified":1449035307,
+    "wof:name":"Kumbara Gunesle Su Isiticilari",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "energy",
+        "solar"
+    ]
+},
+  "bbox": [36.349812,36.401848,36.349812,36.401848],
+  "geometry": {"coordinates":[36.349812,36.401848],"type":"Point"}
+}

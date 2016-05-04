@@ -1,0 +1,58 @@
+{
+  "id": 169533991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"37.043083,39.755463,37.043083,39.755463",
+    "geom:latitude":39.755463,
+    "geom:longitude":37.043083,
+    "iso:country":"TR",
+    "sg:address":"Belediye Meydani 5",
+    "sg:city":"Bolu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 374 215 3601",
+    "sg:postcode":"14030",
+    "sg:province":"14100",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        101912781,
+        85679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xtaeT4kXadR4eohetSMIe_39.755463_37.043083@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d9c4ce29e7f762d78214d635f68031a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912781,
+            "neighbourhood_id":-1,
+            "region_id":85679355,
+            "venue_id":169533991
+        }
+    ],
+    "wof:id":169533991,
+    "wof:lastmodified":1449032642,
+    "wof:name":"Etibank Bao",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [37.043083,39.755463,37.043083,39.755463],
+  "geometry": {"coordinates":[37.043083,39.755463],"type":"Point"}
+}

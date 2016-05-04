@@ -1,0 +1,67 @@
+{
+  "id": 169548659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"29.106501,41.0303,29.106501,41.0303",
+    "geom:latitude":41.0303,
+    "geom:longitude":29.106501,
+    "iso:country":"TR",
+    "sg:address":"Gumrukculer San.sitesi A Blok No:2 Umraniye",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 335 1666",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YD7XUxsq4OZzgqas9M2Fa_41.030300_29.106501@1306270051"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"593b3cf643d9d7fd9b3b3ed1036207d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":169548659
+        }
+    ],
+    "wof:id":169548659,
+    "wof:lastmodified":1449034973,
+    "wof:name":"Vardar Oto Mutlu Aku Servisi",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accumulator",
+        "-",
+        "batery"
+    ]
+},
+  "bbox": [29.106501,41.0303,29.106501,41.0303],
+  "geometry": {"coordinates":[29.106501,41.0303],"type":"Point"}
+}

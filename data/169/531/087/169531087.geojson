@@ -1,0 +1,58 @@
+{
+  "id": 169531087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"32.87738,39.895512,32.87738,39.895512",
+    "geom:latitude":39.895512,
+    "geom:longitude":32.87738,
+    "iso:country":"TR",
+    "sg:address":"Ugur Mumcu Cad 51",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 447 3300",
+    "sg:postcode":"63570",
+    "sg:province":"06700",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904089,
+        85632393,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M8Q72xxWrio4blpQGIP0O_39.895512_32.877380@1306270050"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32b85ae9a9b45192c83431cff65c06b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":169531087
+        }
+    ],
+    "wof:id":169531087,
+    "wof:lastmodified":1449033472,
+    "wof:name":"Bank Kapital Tas",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [32.87738,39.895512,32.87738,39.895512],
+  "geometry": {"coordinates":[32.87738,39.895512],"type":"Point"}
+}

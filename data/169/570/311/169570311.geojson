@@ -1,0 +1,64 @@
+{
+  "id": 169570311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"28.983305,41.035969,28.983305,41.035969",
+    "geom:latitude":41.035969,
+    "geom:longitude":28.983305,
+    "iso:country":"TR",
+    "sg:address":"Istiklal Cd. No:348/15 Beyoglu",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 5070",
+    "sg:postcode":"80270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ct8k7rr1VTrqllH0tMhI9_41.035969_28.983305@1306270052"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"416c3a195b9c3f887648093a74700124",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":169570311
+        }
+    ],
+    "wof:id":169570311,
+    "wof:lastmodified":1449034645,
+    "wof:name":"T?v Stutgart Teknik G?venlik Ltd. Sti.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [28.983305,41.035969,28.983305,41.035969],
+  "geometry": {"coordinates":[28.983305,41.035969],"type":"Point"}
+}
