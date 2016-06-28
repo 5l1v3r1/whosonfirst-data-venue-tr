@@ -2,13 +2,14 @@
   "id": 169545733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.134851,38.373703,27.134851,38.373703",
     "geom:latitude":38.373703,
     "geom:longitude":27.134851,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yesillik Cad 456",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169545733,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466313231,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.134851,38.373703,27.134851,38.373703],
+  "bbox": [
+    27.134851,
+    38.373703,
+    27.134851,
+    38.373703
+],
   "geometry": {"coordinates":[27.134851,38.373703],"type":"Point"}
 }

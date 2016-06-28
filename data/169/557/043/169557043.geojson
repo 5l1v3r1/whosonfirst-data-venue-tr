@@ -2,13 +2,14 @@
   "id": 169557043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.094246,40.954338,29.094246,40.954338",
     "geom:latitude":40.954338,
     "geom:longitude":29.094246,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Nihat Tarlan Cad. No:91/1 Bostanci",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169557043,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466313247,
     "wof:name":"Mavi Havuz Havuzculuk Ins. San. Ve Tic. Ltd. Sti.",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.094246,40.954338,29.094246,40.954338],
+  "bbox": [
+    29.094246,
+    40.954338,
+    29.094246,
+    40.954338
+],
   "geometry": {"coordinates":[29.094246,40.954338],"type":"Point"}
 }

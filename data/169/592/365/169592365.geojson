@@ -2,13 +2,14 @@
   "id": 169592365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.085018,37.784325,29.085018,37.784325",
     "geom:latitude":37.784325,
     "geom:longitude":29.085018,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Saray Koy Cad.no: 8",
     "sg:city":"G.o.pasa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169592365,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1466313340,
     "wof:name":"Memisoglu Baharat Ve Kimyevi Mad.san.tic.ltd.sti.",
     "wof:parent_id":85934747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "spice"
     ]
 },
-  "bbox": [29.085018,37.784325,29.085018,37.784325],
+  "bbox": [
+    29.085018,
+    37.784325,
+    29.085018,
+    37.784325
+],
   "geometry": {"coordinates":[29.085018,37.784325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
     "geom:latitude":41.021832,
     "geom:longitude":29.015442,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kuzguncuk Behl? Sk.no.9/10",
     "sg:city":"\u00dcsk\u00fcdar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169572943,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466313318,
     "wof:name":"Hantallar Koll.sti. .",
     "wof:parent_id":85906599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "bbox": [
+    29.015442,
+    41.021832,
+    29.015442,
+    41.021832
+],
   "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
 }

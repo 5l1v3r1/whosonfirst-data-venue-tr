@@ -2,13 +2,14 @@
   "id": 169686985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.114416,40.97168,29.114416,40.97168",
     "geom:latitude":40.97168,
     "geom:longitude":29.114416,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??cd. No:17/1 Erenk?",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169686985,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313460,
     "wof:name":"?avusoglu Ev D?seme Tekstil Tic. San. Ltd. Sti.",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholstering"
     ]
 },
-  "bbox": [29.114416,40.97168,29.114416,40.97168],
+  "bbox": [
+    29.114416,
+    40.97168,
+    29.114416,
+    40.97168
+],
   "geometry": {"coordinates":[29.114416,40.97168],"type":"Point"}
 }

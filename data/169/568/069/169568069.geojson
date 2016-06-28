@@ -2,13 +2,14 @@
   "id": 169568069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.998474,41.098381,28.998474,41.098381",
     "geom:latitude":41.098381,
     "geom:longitude":28.998474,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gulbahar Mah.karanfil Sok.no:10 D:1 M.koy",
     "sg:city":"?nkaya",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169568069,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466313265,
     "wof:name":"F?me Elektrik Guvenlik Sist.",
     "wof:parent_id":85930237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.998474,41.098381,28.998474,41.098381],
+  "bbox": [
+    28.998474,
+    41.098381,
+    28.998474,
+    41.098381
+],
   "geometry": {"coordinates":[28.998474,41.098381],"type":"Point"}
 }

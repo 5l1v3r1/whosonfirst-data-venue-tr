@@ -2,13 +2,14 @@
   "id": 169566095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.088379,40.965069,29.088379,40.965069",
     "geom:latitude":40.965069,
     "geom:longitude":29.088379,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hal Yolu Fatih Cad. No:3 Kozyatagi",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169566095,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466313257,
     "wof:name":"Bosphorus Security Systems",
     "wof:parent_id":85930005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.088379,40.965069,29.088379,40.965069],
+  "bbox": [
+    29.088379,
+    40.965069,
+    29.088379,
+    40.965069
+],
   "geometry": {"coordinates":[29.088379,40.965069],"type":"Point"}
 }

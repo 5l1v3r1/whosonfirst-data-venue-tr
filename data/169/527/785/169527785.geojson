@@ -2,13 +2,14 @@
   "id": 169527785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.990656,41.053104,28.990656,41.053104",
     "geom:latitude":41.053104,
     "geom:longitude":28.990656,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sair Nigar Sk. No:27/3",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527785,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466313193,
     "wof:name":"Seyan Konf. Tic. Ltd. Sti.",
     "wof:parent_id":85929491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.990656,41.053104,28.990656,41.053104],
+  "bbox": [
+    28.990656,
+    41.053104,
+    28.990656,
+    41.053104
+],
   "geometry": {"coordinates":[28.990656,41.053104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169570673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.004108,41.065701,29.004108,41.065701",
     "geom:latitude":41.065701,
     "geom:longitude":29.004108,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vefabey Sok. No:13",
     "sg:city":"Gayrettepe",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169570673,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466313296,
     "wof:name":"Test Teknik Elektronik San. Ve Tic. Ltd.",
     "wof:parent_id":85929407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.004108,41.065701,29.004108,41.065701],
+  "bbox": [
+    29.004108,
+    41.065701,
+    29.004108,
+    41.065701
+],
   "geometry": {"coordinates":[29.004108,41.065701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169548475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
     "geom:latitude":39.770081,
     "geom:longitude":30.517546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baksan San. Site. 64 Blok No:3",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169548475,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313225,
     "wof:name":"Kuvvet Aku Sanayi Isletmesi Ve Tic. A.s.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "batery"
     ]
 },
-  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "bbox": [
+    30.517546,
+    39.770081,
+    30.517546,
+    39.770081
+],
   "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
 }

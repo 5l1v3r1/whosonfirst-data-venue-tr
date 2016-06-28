@@ -2,13 +2,14 @@
   "id": 169553171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
     "geom:latitude":37.062946,
     "geom:longitude":37.376102,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gatem Toptancilar Sitesi Siyah Ada 2.blok No:1",
     "sg:city":"Ey\u00fcp",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169553171,
-    "wof:lastmodified":1449032708,
+    "wof:lastmodified":1466313213,
     "wof:name":"Basak Pazarlama",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "bbox": [
+    37.376102,
+    37.062946,
+    37.376102,
+    37.062946
+],
   "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169589011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.10146,40.958313,29.10146,40.958313",
     "geom:latitude":40.958313,
     "geom:longitude":29.10146,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mehmet Sevki Pasa Cad.no:17/b",
     "sg:city":"Bostanci",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169589011,
-    "wof:lastmodified":1449034448,
+    "wof:lastmodified":1466313445,
     "wof:name":"Real Enerji Isi Sistemleri",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [29.10146,40.958313,29.10146,40.958313],
+  "bbox": [
+    29.10146,
+    40.958313,
+    29.10146,
+    40.958313
+],
   "geometry": {"coordinates":[29.10146,40.958313],"type":"Point"}
 }

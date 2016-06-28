@@ -2,13 +2,14 @@
   "id": 169569275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.281538,40.871391,29.281538,40.871391",
     "geom:latitude":40.871391,
     "geom:longitude":29.281538,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rauf Orbay Cad. Gul Sok. No: 24",
     "sg:city":"Bakirk?y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169569275,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313278,
     "wof:name":"Oksimar Sinai Gazlar Dolum Tesisleri",
     "wof:parent_id":85930009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.281538,40.871391,29.281538,40.871391],
+  "bbox": [
+    29.281538,
+    40.871391,
+    29.281538,
+    40.871391
+],
   "geometry": {"coordinates":[29.281538,40.871391],"type":"Point"}
 }

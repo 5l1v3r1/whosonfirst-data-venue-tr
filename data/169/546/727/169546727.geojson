@@ -2,13 +2,14 @@
   "id": 169546727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.86747,39.898319,32.86747,39.898319",
     "geom:latitude":39.898319,
     "geom:longitude":32.86747,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Attar Sok No. 9/14",
     "sg:city":"Gazipasa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169546727,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466313234,
     "wof:name":"T?kiye Vakiflar, Bankasi Tao",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.86747,39.898319,32.86747,39.898319],
+  "bbox": [
+    32.86747,
+    39.898319,
+    32.86747,
+    39.898319
+],
   "geometry": {"coordinates":[32.86747,39.898319],"type":"Point"}
 }

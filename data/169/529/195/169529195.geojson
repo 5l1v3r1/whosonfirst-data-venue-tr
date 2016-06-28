@@ -2,13 +2,14 @@
   "id": 169529195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.041319,40.99527,29.041319,40.99527",
     "geom:latitude":40.99527,
     "geom:longitude":29.041319,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamiyet Sk. No.18/1 Kadik?",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529195,
-    "wof:lastmodified":1449034115,
+    "wof:lastmodified":1466313190,
     "wof:name":"Marimeks Ltd.sti.",
     "wof:parent_id":85929427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [29.041319,40.99527,29.041319,40.99527],
+  "bbox": [
+    29.041319,
+    40.99527,
+    29.041319,
+    40.99527
+],
   "geometry": {"coordinates":[29.041319,40.99527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169572929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.024452,40.987446,29.024452,40.987446",
     "geom:latitude":40.987446,
     "geom:longitude":29.024452,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Moda Cad.caferaga Mah.zuhal Sok.g? Apt.no:9/1",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169572929,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466313317,
     "wof:name":"Haci Saban Zorer Deniz Nakliyat",
     "wof:parent_id":85929481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.024452,40.987446,29.024452,40.987446],
+  "bbox": [
+    29.024452,
+    40.987446,
+    29.024452,
+    40.987446
+],
   "geometry": {"coordinates":[29.024452,40.987446],"type":"Point"}
 }

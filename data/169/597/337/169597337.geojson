@@ -2,13 +2,14 @@
   "id": 169597337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.852859,39.923946,32.852859,39.923946",
     "geom:latitude":39.923946,
     "geom:longitude":32.852859,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Necatibey Bul.no:14/4 ?ankaya",
     "sg:city":"?igli",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169597337,
-    "wof:lastmodified":1449035923,
+    "wof:lastmodified":1466313342,
     "wof:name":"Ege Spor Giyim A.s",
     "wof:parent_id":85934683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [32.852859,39.923946,32.852859,39.923946],
+  "bbox": [
+    32.852859,
+    39.923946,
+    32.852859,
+    39.923946
+],
   "geometry": {"coordinates":[32.852859,39.923946],"type":"Point"}
 }

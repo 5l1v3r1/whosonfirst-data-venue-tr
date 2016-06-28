@@ -2,13 +2,14 @@
   "id": 169587845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.314301,38.3475,38.314301,38.3475",
     "geom:latitude":38.3475,
     "geom:longitude":38.314301,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kucuk Sanayi Sitesi Blok No:27",
     "sg:city":"Yenisehir",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169587845,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466313336,
     "wof:name":"Gulsu Gunes Enerji Sistemleri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [38.314301,38.3475,38.314301,38.3475],
+  "bbox": [
+    38.314301,
+    38.3475,
+    38.314301,
+    38.3475
+],
   "geometry": {"coordinates":[38.314301,38.3475],"type":"Point"}
 }

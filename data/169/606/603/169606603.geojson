@@ -2,13 +2,14 @@
   "id": 169606603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.903563,41.068405,28.903563,41.068405",
     "geom:latitude":41.068405,
     "geom:longitude":28.903563,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ordu Cad.36.sok. No:17 Sultanciftligi G.osmanpasa",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169606603,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466313355,
     "wof:name":"Just Akpinar Ayakkabicilik Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [28.903563,41.068405,28.903563,41.068405],
+  "bbox": [
+    28.903563,
+    41.068405,
+    28.903563,
+    41.068405
+],
   "geometry": {"coordinates":[28.903563,41.068405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.257669,41.079498,28.257669,41.079498",
     "geom:latitude":41.079498,
     "geom:longitude":28.257669,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Mh.istanbul Cd.no102/1",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169573415,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466313297,
     "wof:name":"Kotay Deniz Nakl.a.s. .",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.257669,41.079498,28.257669,41.079498],
+  "bbox": [
+    28.257669,
+    41.079498,
+    28.257669,
+    41.079498
+],
   "geometry": {"coordinates":[28.257669,41.079498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.886826,39.65094,27.886826,39.65094",
     "geom:latitude":39.65094,
     "geom:longitude":27.886826,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Demirciler Cad. No:4/1",
     "sg:city":"Bandirma",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169685099,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466313408,
     "wof:name":"Olga Turkmen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [27.886826,39.65094,27.886826,39.65094],
+  "bbox": [
+    27.886826,
+    39.65094,
+    27.886826,
+    39.65094
+],
   "geometry": {"coordinates":[27.886826,39.65094],"type":"Point"}
 }

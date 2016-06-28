@@ -2,13 +2,14 @@
   "id": 169597851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.814512,41.032829,28.814512,41.032829",
     "geom:latitude":41.032829,
     "geom:longitude":28.814512,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gunesli Evren Mah. Gulbahar Cad. No: 30",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169597851,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466313347,
     "wof:name":"Ender Spor Malz. Tekstil Turz. Insaat. Ic Ve Dis Tic. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.814512,41.032829,28.814512,41.032829],
+  "bbox": [
+    28.814512,
+    41.032829,
+    28.814512,
+    41.032829
+],
   "geometry": {"coordinates":[28.814512,41.032829],"type":"Point"}
 }

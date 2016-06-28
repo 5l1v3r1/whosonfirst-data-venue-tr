@@ -2,13 +2,14 @@
   "id": 169539735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.236843,37.915451,40.236843,37.915451",
     "geom:latitude":37.915451,
     "geom:longitude":40.236843,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gazi Cad 1/a",
     "sg:city":"Diyarbakir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169539735,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466313433,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [40.236843,37.915451,40.236843,37.915451],
+  "bbox": [
+    40.236843,
+    37.915451,
+    40.236843,
+    37.915451
+],
   "geometry": {"coordinates":[40.236843,37.915451],"type":"Point"}
 }

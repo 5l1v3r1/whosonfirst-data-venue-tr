@@ -2,13 +2,14 @@
   "id": 169543585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.547026,40.978455,27.547026,40.978455",
     "geom:latitude":40.978455,
     "geom:longitude":27.547026,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bey Mah Hurriyet",
     "sg:city":"Gaziantep",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169543585,
-    "wof:lastmodified":1449033336,
+    "wof:lastmodified":1466313205,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.547026,40.978455,27.547026,40.978455],
+  "bbox": [
+    27.547026,
+    40.978455,
+    27.547026,
+    40.978455
+],
   "geometry": {"coordinates":[27.547026,40.978455],"type":"Point"}
 }

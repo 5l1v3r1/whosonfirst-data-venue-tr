@@ -2,13 +2,14 @@
   "id": 169581615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.448418,37.857609,32.448418,37.857609",
     "geom:latitude":37.857609,
     "geom:longitude":32.448418,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eski Meram Yolu",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169581615,
-    "wof:lastmodified":1449033380,
+    "wof:lastmodified":1466313327,
     "wof:name":"Meram Kervan Kaucuk San.a.s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.448418,37.857609,32.448418,37.857609],
+  "bbox": [
+    32.448418,
+    37.857609,
+    32.448418,
+    37.857609
+],
   "geometry": {"coordinates":[32.448418,37.857609],"type":"Point"}
 }

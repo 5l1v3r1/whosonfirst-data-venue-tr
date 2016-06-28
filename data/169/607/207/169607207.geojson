@@ -2,13 +2,14 @@
   "id": 169607207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.95764,41.015499,28.95764,41.015499",
     "geom:latitude":41.015499,
     "geom:longitude":28.95764,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cemal Yener Tosyali Cad No:38",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169607207,
-    "wof:lastmodified":1449033124,
+    "wof:lastmodified":1466313350,
     "wof:name":"Pe-ba Sport Ltd Sti",
     "wof:parent_id":85906509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [28.95764,41.015499,28.95764,41.015499],
+  "bbox": [
+    28.95764,
+    41.015499,
+    28.95764,
+    41.015499
+],
   "geometry": {"coordinates":[28.95764,41.015499],"type":"Point"}
 }

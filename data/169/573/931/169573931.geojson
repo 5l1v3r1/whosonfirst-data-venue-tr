@@ -2,13 +2,14 @@
   "id": 169573931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.127396,40.922489,29.127396,40.922489",
     "geom:latitude":40.922489,
     "geom:longitude":29.127396,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rihtim Cd.no.47 K4-5",
     "sg:city":"Karak\u00f6y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169573931,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466313326,
     "wof:name":"Sonmez Tanker.ve Den.a.s.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.127396,40.922489,29.127396,40.922489],
+  "bbox": [
+    29.127396,
+    40.922489,
+    29.127396,
+    40.922489
+],
   "geometry": {"coordinates":[29.127396,40.922489],"type":"Point"}
 }

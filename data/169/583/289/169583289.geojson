@@ -2,13 +2,14 @@
   "id": 169583289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.977608,41.008068,28.977608,41.008068",
     "geom:latitude":41.008068,
     "geom:longitude":28.977608,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayar Cad.gulbahar Sok.perdemac Plz.no:17/66 Kozyatagi",
     "sg:city":"Sultanahmet",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169583289,
-    "wof:lastmodified":1449035269,
+    "wof:lastmodified":1466313321,
     "wof:name":"Yurt Ic Ve Dis.ti.a.s.",
     "wof:parent_id":85906489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.977608,41.008068,28.977608,41.008068],
+  "bbox": [
+    28.977608,
+    41.008068,
+    28.977608,
+    41.008068
+],
   "geometry": {"coordinates":[28.977608,41.008068],"type":"Point"}
 }

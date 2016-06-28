@@ -2,13 +2,14 @@
   "id": 169544243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.084408,37.783791,29.084408,37.783791",
     "geom:latitude":37.783791,
     "geom:longitude":29.084408,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Enver Pasa Cad 24",
     "sg:city":"Denizli",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169544243,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466313215,
     "wof:name":"T?kiye Garanti, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.084408,37.783791,29.084408,37.783791],
+  "bbox": [
+    29.084408,
+    37.783791,
+    29.084408,
+    37.783791
+],
   "geometry": {"coordinates":[29.084408,37.783791],"type":"Point"}
 }

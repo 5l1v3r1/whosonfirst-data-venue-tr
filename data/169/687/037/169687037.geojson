@@ -2,13 +2,14 @@
   "id": 169687037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.80006,41.040546,28.80006,41.040546",
     "geom:latitude":41.040546,
     "geom:longitude":28.80006,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahmutbey Cd. No:123 Halkali",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169687037,
-    "wof:lastmodified":1449033611,
+    "wof:lastmodified":1466313408,
     "wof:name":"?zgin Dikis Makinalari San. Tic. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.80006,41.040546,28.80006,41.040546],
+  "bbox": [
+    28.80006,
+    41.040546,
+    28.80006,
+    41.040546
+],
   "geometry": {"coordinates":[28.80006,41.040546],"type":"Point"}
 }

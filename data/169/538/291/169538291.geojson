@@ -2,13 +2,14 @@
   "id": 169538291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.640209,41.047874,28.640209,41.047874",
     "geom:latitude":41.047874,
     "geom:longitude":28.640209,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziya Gkalp Cad 64, 06600 Kurtulus, Istanbul",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169538291,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466313429,
     "wof:name":"Ordu Yardimlasma Kurumu (oyak)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.640209,41.047874,28.640209,41.047874],
+  "bbox": [
+    28.640209,
+    41.047874,
+    28.640209,
+    41.047874
+],
   "geometry": {"coordinates":[28.640209,41.047874],"type":"Point"}
 }

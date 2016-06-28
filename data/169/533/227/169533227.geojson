@@ -2,13 +2,14 @@
   "id": 169533227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.173492,36.589737,36.173492,36.589737",
     "geom:latitude":36.589737,
     "geom:longitude":36.173492,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bes Temmuz Caddesi 10",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169533227,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466313412,
     "wof:name":"Esbank Eskisehir, Bankasi Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.173492,36.589737,36.173492,36.589737],
+  "bbox": [
+    36.173492,
+    36.589737,
+    36.173492,
+    36.589737
+],
   "geometry": {"coordinates":[36.173492,36.589737],"type":"Point"}
 }

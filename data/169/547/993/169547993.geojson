@@ -2,13 +2,14 @@
   "id": 169547993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
     "geom:latitude":37.062946,
     "geom:longitude":37.376102,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ornek Sanayi Sitesi 2.cad. No:16",
     "sg:city":"44200",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169547993,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313247,
     "wof:name":"Anlar Akumulator Sanayi Ve Ticaret A.s.",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "bbox": [
+    37.376102,
+    37.062946,
+    37.376102,
+    37.062946
+],
   "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
 }

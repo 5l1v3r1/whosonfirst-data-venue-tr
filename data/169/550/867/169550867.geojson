@@ -2,13 +2,14 @@
   "id": 169550867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.100618,40.960087,29.100618,40.960087",
     "geom:latitude":40.960087,
     "geom:longitude":29.100618,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Prof. Dr. Ali N. Tarlan Cd. No:69/2 Bostanci",
     "sg:city":"Sisli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550867,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1466313255,
     "wof:name":"Pald?ksan Kuaf?r Gere?. San. Tic. A.s.",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.100618,40.960087,29.100618,40.960087],
+  "bbox": [
+    29.100618,
+    40.960087,
+    29.100618,
+    40.960087
+],
   "geometry": {"coordinates":[29.100618,40.960087],"type":"Point"}
 }

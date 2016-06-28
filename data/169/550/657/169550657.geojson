@@ -2,13 +2,14 @@
   "id": 169550657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.979382,41.063271,28.979382,41.063271",
     "geom:latitude":41.063271,
     "geom:longitude":28.979382,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Mayis Cad. Balci Apt. 10/b Fulya - Sisli",
     "sg:city":"Nisantasi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550657,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466313242,
     "wof:name":"Invivo G?zellik Ve Astroloji Merkezi",
     "wof:parent_id":85929423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.979382,41.063271,28.979382,41.063271],
+  "bbox": [
+    28.979382,
+    41.063271,
+    28.979382,
+    41.063271
+],
   "geometry": {"coordinates":[28.979382,41.063271],"type":"Point"}
 }

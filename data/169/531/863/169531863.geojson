@@ -2,13 +2,14 @@
   "id": 169531863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.632542,36.7999,34.632542,36.7999",
     "geom:latitude":36.7999,
     "geom:longitude":34.632542,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahmut Pasha Street",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169531863,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466313202,
     "wof:name":"Cyprus Turkish Coop., Central Bank Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.632542,36.7999,34.632542,36.7999],
+  "bbox": [
+    34.632542,
+    36.7999,
+    34.632542,
+    36.7999
+],
   "geometry": {"coordinates":[34.632542,36.7999],"type":"Point"}
 }

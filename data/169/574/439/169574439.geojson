@@ -2,13 +2,14 @@
   "id": 169574439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.036772,41.158318,29.036772,41.158318",
     "geom:latitude":41.158318,
     "geom:longitude":29.036772,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cayirbasi Cad. No:147/2",
     "sg:city":"Buyukdere",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169574439,
-    "wof:lastmodified":1449032662,
+    "wof:lastmodified":1466313297,
     "wof:name":"Acenta 44 Denizciler Turizm Ve Gemi Hizmetleri Ltd.sti.",
     "wof:parent_id":85930143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [29.036772,41.158318,29.036772,41.158318],
+  "bbox": [
+    29.036772,
+    41.158318,
+    29.036772,
+    41.158318
+],
   "geometry": {"coordinates":[29.036772,41.158318],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169562813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.402338,38.677666,29.402338,38.677666",
     "geom:latitude":38.677666,
     "geom:longitude":29.402338,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurtulus Mah. Cimcim Cad. No:27/a",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169562813,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466313270,
     "wof:name":"?agda Temizlik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.402338,38.677666,29.402338,38.677666],
+  "bbox": [
+    29.402338,
+    38.677666,
+    29.402338,
+    38.677666
+],
   "geometry": {"coordinates":[29.402338,38.677666],"type":"Point"}
 }

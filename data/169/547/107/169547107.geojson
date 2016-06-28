@@ -2,13 +2,14 @@
   "id": 169547107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.992258,41.08004,28.992258,41.08004",
     "geom:latitude":41.08004,
     "geom:longitude":28.992258,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Caddesi 14, Sisli, 80220 Istanbul",
     "sg:city":"Kayseri",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169547107,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313211,
     "wof:name":"Uluslararasi Yatirim Holding As",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.992258,41.08004,28.992258,41.08004],
+  "bbox": [
+    28.992258,
+    41.08004,
+    28.992258,
+    41.08004
+],
   "geometry": {"coordinates":[28.992258,41.08004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169546441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.56348,37.76305,30.56348,37.76305",
     "geom:latitude":37.76305,
     "geom:longitude":30.56348,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Piri Mehmet Mah",
     "sg:city":"Isparta",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169546441,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466313222,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.56348,37.76305,30.56348,37.76305],
+  "bbox": [
+    30.56348,
+    37.76305,
+    30.56348,
+    37.76305
+],
   "geometry": {"coordinates":[30.56348,37.76305],"type":"Point"}
 }

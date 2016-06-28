@@ -2,13 +2,14 @@
   "id": 169551925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.808413,41.073933,28.808413,41.073933",
     "geom:latitude":41.073933,
     "geom:longitude":28.808413,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Birlik Sanayi Sitesi 4.cad.no:48",
     "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169551925,
-    "wof:lastmodified":1449033352,
+    "wof:lastmodified":1466313250,
     "wof:name":"Universal Metal Pres Sanayi Veticaret",
     "wof:parent_id":85929961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.808413,41.073933,28.808413,41.073933],
+  "bbox": [
+    28.808413,
+    41.073933,
+    28.808413,
+    41.073933
+],
   "geometry": {"coordinates":[28.808413,41.073933],"type":"Point"}
 }

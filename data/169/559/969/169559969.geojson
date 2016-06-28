@@ -2,13 +2,14 @@
   "id": 169559969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.142963,38.440197,27.142963,38.440197",
     "geom:latitude":38.440197,
     "geom:longitude":27.142963,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Bulvari No:284/c Alsancak",
     "sg:city":"\u00c7ankaya",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559969,
-    "wof:lastmodified":1449035236,
+    "wof:lastmodified":1466313258,
     "wof:name":"Ege-pak Ltd.sti.",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.142963,38.440197,27.142963,38.440197],
+  "bbox": [
+    27.142963,
+    38.440197,
+    27.142963,
+    38.440197
+],
   "geometry": {"coordinates":[27.142963,38.440197],"type":"Point"}
 }

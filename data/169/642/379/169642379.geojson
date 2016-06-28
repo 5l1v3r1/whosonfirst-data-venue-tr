@@ -2,13 +2,14 @@
   "id": 169642379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856327,39.918034,32.856327,39.918034",
     "geom:latitude":39.918034,
     "geom:longitude":32.856327,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Konur Sk. No:3 Kizilay",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169642379,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1466313374,
     "wof:name":"Imge Kitabevi Ltd. Sti.",
     "wof:parent_id":85929551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.856327,39.918034,32.856327,39.918034],
+  "bbox": [
+    32.856327,
+    39.918034,
+    32.856327,
+    39.918034
+],
   "geometry": {"coordinates":[32.856327,39.918034],"type":"Point"}
 }

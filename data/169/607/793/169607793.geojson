@@ -2,13 +2,14 @@
   "id": 169607793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.97871,41.082996,28.97871,41.082996",
     "geom:latitude":41.082996,
     "geom:longitude":28.97871,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?aglayan Kagithane Cd. Kanarya Sk. No:3/a Kagithane",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169607793,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466313358,
     "wof:name":"Sevda Giyim San. Tic. Ltd. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [28.97871,41.082996,28.97871,41.082996],
+  "bbox": [
+    28.97871,
+    41.082996,
+    28.97871,
+    41.082996
+],
   "geometry": {"coordinates":[28.97871,41.082996],"type":"Point"}
 }

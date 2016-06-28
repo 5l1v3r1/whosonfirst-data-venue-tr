@@ -2,13 +2,14 @@
   "id": 169569777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.71479,36.898281,30.71479,36.898281",
     "geom:latitude":36.898281,
     "geom:longitude":30.71479,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Etiler Mah. Kizilirmak Cad.no: 5/b",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569777,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313302,
     "wof:name":"Security Company S.a.",
     "wof:parent_id":85929789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [30.71479,36.898281,30.71479,36.898281],
+  "bbox": [
+    30.71479,
+    36.898281,
+    30.71479,
+    36.898281
+],
   "geometry": {"coordinates":[30.71479,36.898281],"type":"Point"}
 }

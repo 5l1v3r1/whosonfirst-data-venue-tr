@@ -2,13 +2,14 @@
   "id": 169551163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.336407,41.268936,36.336407,41.268936",
     "geom:latitude":41.268936,
     "geom:longitude":36.336407,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Samsun Yolu No:40 Siteler",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551163,
-    "wof:lastmodified":1449033354,
+    "wof:lastmodified":1466313214,
     "wof:name":"Belginer Dis Tic.paz.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [36.336407,41.268936,36.336407,41.268936],
+  "bbox": [
+    36.336407,
+    41.268936,
+    36.336407,
+    41.268936
+],
   "geometry": {"coordinates":[36.336407,41.268936],"type":"Point"}
 }

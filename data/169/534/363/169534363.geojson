@@ -2,13 +2,14 @@
   "id": 169534363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"41.830524,41.180996,41.830524,41.180996",
     "geom:latitude":41.180996,
     "geom:longitude":41.830524,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fevzi Cakmak Cad. 25",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534363,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466313416,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [41.830524,41.180996,41.830524,41.180996],
+  "bbox": [
+    41.830524,
+    41.180996,
+    41.830524,
+    41.180996
+],
   "geometry": {"coordinates":[41.830524,41.180996],"type":"Point"}
 }

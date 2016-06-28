@@ -2,13 +2,14 @@
   "id": 169643461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.123732,40.976738,29.123732,40.976738",
     "geom:latitude":40.976738,
     "geom:longitude":29.123732,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kayisdagi Cd. No:106/a Kadik?",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169643461,
-    "wof:lastmodified":1449035521,
+    "wof:lastmodified":1466313376,
     "wof:name":"Kardesler Fotokopi-kirtasiye",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.123732,40.976738,29.123732,40.976738],
+  "bbox": [
+    29.123732,
+    40.976738,
+    29.123732,
+    40.976738
+],
   "geometry": {"coordinates":[29.123732,40.976738],"type":"Point"}
 }

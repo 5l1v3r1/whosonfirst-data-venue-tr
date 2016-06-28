@@ -2,13 +2,14 @@
   "id": 169564553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.985458,41.045704,28.985458,41.045704",
     "geom:latitude":41.045704,
     "geom:longitude":28.985458,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad.olcek Sok. No. 172 Harbiye",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169564553,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1466313265,
     "wof:name":"A.c.e.grup Guvenlik Ve Temizlik Sosyal Hizm.san.tic.ltd.sti.",
     "wof:parent_id":85906559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.985458,41.045704,28.985458,41.045704],
+  "bbox": [
+    28.985458,
+    41.045704,
+    28.985458,
+    41.045704
+],
   "geometry": {"coordinates":[28.985458,41.045704],"type":"Point"}
 }

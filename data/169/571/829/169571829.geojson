@@ -2,13 +2,14 @@
   "id": 169571829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.506546,40.977863,27.506546,40.977863",
     "geom:latitude":40.977863,
     "geom:longitude":27.506546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rihtim Cd.zihni H.28/30 K.2",
     "sg:city":"Tophane",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169571829,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466313307,
     "wof:name":"Anadolu Denizcilik Ve Tic.a.s. .",
     "wof:parent_id":85934645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [27.506546,40.977863,27.506546,40.977863],
+  "bbox": [
+    27.506546,
+    40.977863,
+    27.506546,
+    40.977863
+],
   "geometry": {"coordinates":[27.506546,40.977863],"type":"Point"}
 }

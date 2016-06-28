@@ -2,13 +2,14 @@
   "id": 169565915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.016119,41.073013,29.016119,41.073013",
     "geom:latitude":41.073013,
     "geom:longitude":29.016119,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nispetiye Cd. No:6/a Levent",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169565915,
-    "wof:lastmodified":1449035668,
+    "wof:lastmodified":1466313274,
     "wof:name":"Bina Guvenlik Otomasyon Sistemleri",
     "wof:parent_id":85929391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.016119,41.073013,29.016119,41.073013],
+  "bbox": [
+    29.016119,
+    41.073013,
+    29.016119,
+    41.073013
+],
   "geometry": {"coordinates":[29.016119,41.073013],"type":"Point"}
 }

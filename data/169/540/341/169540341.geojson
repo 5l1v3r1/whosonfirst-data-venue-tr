@@ -2,13 +2,14 @@
   "id": 169540341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.570576,41.021675,39.570576,41.021675",
     "geom:latitude":41.021675,
     "geom:longitude":39.570576,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Akcaabat",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169540341,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466313435,
     "wof:name":"Tc Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [39.570576,41.021675,39.570576,41.021675],
+  "bbox": [
+    39.570576,
+    41.021675,
+    39.570576,
+    41.021675
+],
   "geometry": {"coordinates":[39.570576,41.021675],"type":"Point"}
 }

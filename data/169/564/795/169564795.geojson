@@ -2,13 +2,14 @@
   "id": 169564795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.984884,41.061108,28.984884,41.061108",
     "geom:latitude":41.061108,
     "geom:longitude":28.984884,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Haracci K.mehmet Mah.fukarababasi Sok. Ozer Han Kat:2 No:1 Fatih",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169564795,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466313270,
     "wof:name":"Akay Guvenlik",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.984884,41.061108,28.984884,41.061108],
+  "bbox": [
+    28.984884,
+    41.061108,
+    28.984884,
+    41.061108
+],
   "geometry": {"coordinates":[28.984884,41.061108],"type":"Point"}
 }

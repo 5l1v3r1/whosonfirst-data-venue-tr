@@ -2,13 +2,14 @@
   "id": 169548439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.965914,41.092869,28.965914,41.092869",
     "geom:latitude":41.092869,
     "geom:longitude":28.965914,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kemerburgaz Cad.no:142 Kagithane",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548439,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1466313224,
     "wof:name":"Kas Ticaret Kollektif Sirketi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [28.965914,41.092869,28.965914,41.092869],
+  "bbox": [
+    28.965914,
+    41.092869,
+    28.965914,
+    41.092869
+],
   "geometry": {"coordinates":[28.965914,41.092869],"type":"Point"}
 }

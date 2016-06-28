@@ -2,13 +2,14 @@
   "id": 169637659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.078619,40.193592,29.078619,40.193592",
     "geom:latitude":40.193592,
     "geom:longitude":29.078619,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zafer Mah.istasyon Sok. No:13 Osmangazi",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169637659,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466313376,
     "wof:name":"Bursa Kartela Klasor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.078619,40.193592,29.078619,40.193592],
+  "bbox": [
+    29.078619,
+    40.193592,
+    29.078619,
+    40.193592
+],
   "geometry": {"coordinates":[29.078619,40.193592],"type":"Point"}
 }

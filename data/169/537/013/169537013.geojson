@@ -2,13 +2,14 @@
   "id": 169537013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.790318,39.95557,32.790318,39.95557",
     "geom:latitude":39.95557,
     "geom:longitude":32.790318,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara Cad Cinardibi",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169537013,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank As",
     "wof:parent_id":85904093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.790318,39.95557,32.790318,39.95557],
+  "bbox": [
+    32.790318,
+    39.95557,
+    32.790318,
+    39.95557
+],
   "geometry": {"coordinates":[32.790318,39.95557],"type":"Point"}
 }

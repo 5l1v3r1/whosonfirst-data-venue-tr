@@ -2,13 +2,14 @@
   "id": 169539915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"41.278999,39.917286,41.278999,39.917286",
     "geom:latitude":39.917286,
     "geom:longitude":41.278999,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kongre Cad 88",
     "sg:city":"Erzurum",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169539915,
-    "wof:lastmodified":1449036040,
+    "wof:lastmodified":1466313434,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [41.278999,39.917286,41.278999,39.917286],
+  "bbox": [
+    41.278999,
+    39.917286,
+    41.278999,
+    39.917286
+],
   "geometry": {"coordinates":[41.278999,39.917286],"type":"Point"}
 }

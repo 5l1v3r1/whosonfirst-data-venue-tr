@@ -2,13 +2,14 @@
   "id": 169582641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.49696,37.892059,32.49696,37.892059",
     "geom:latitude":37.892059,
     "geom:longitude":32.49696,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mer:kunduracilar San. Taskale Sok.no:35 Sub: Aykent Ayakkabicliar Sitesi 16.sok No:8",
     "sg:city":"Sel?klu",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169582641,
-    "wof:lastmodified":1449034467,
+    "wof:lastmodified":1466313327,
     "wof:name":"Sel-mest Mest&kundura San.tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.49696,37.892059,32.49696,37.892059],
+  "bbox": [
+    32.49696,
+    37.892059,
+    32.49696,
+    37.892059
+],
   "geometry": {"coordinates":[32.49696,37.892059],"type":"Point"}
 }

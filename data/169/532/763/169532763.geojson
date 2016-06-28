@@ -2,13 +2,14 @@
   "id": 169532763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.188206,40.920761,29.188206,40.920761",
     "geom:latitude":40.920761,
     "geom:longitude":29.188206,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Caddesi 106, Esentepe, 80280 Istanbul",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169532763,
-    "wof:lastmodified":1449033798,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.188206,40.920761,29.188206,40.920761],
+  "bbox": [
+    29.188206,
+    40.920761,
+    29.188206,
+    40.920761
+],
   "geometry": {"coordinates":[29.188206,40.920761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169567735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.232004,40.879421,29.232004,40.879421",
     "geom:latitude":40.879421,
     "geom:longitude":29.232004,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cavitpasa Sok.no: 8/8 Pendik",
     "sg:city":"21100",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169567735,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466313272,
     "wof:name":"Emd Elektrik -elektronik Muhendislik San.tic.ltd.sti.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.232004,40.879421,29.232004,40.879421],
+  "bbox": [
+    29.232004,
+    40.879421,
+    29.232004,
+    40.879421
+],
   "geometry": {"coordinates":[29.232004,40.879421],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169538037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.411758,37.050354,37.411758,37.050354",
     "geom:latitude":37.050354,
     "geom:longitude":37.411758,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismetpasa Cad 16/2",
     "sg:city":"Antalya",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169538037,
-    "wof:lastmodified":1449033101,
+    "wof:lastmodified":1466313428,
     "wof:name":"Milli Aydin, Bankasi Tas - Tarisbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.411758,37.050354,37.411758,37.050354],
+  "bbox": [
+    37.411758,
+    37.050354,
+    37.411758,
+    37.050354
+],
   "geometry": {"coordinates":[37.411758,37.050354],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.790483,40.97604,28.790483,40.97604",
     "geom:latitude":40.97604,
     "geom:longitude":28.790483,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Senlik K? Konakli Cd.no10",
     "sg:city":"Florya",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169573837,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466313320,
     "wof:name":"Sen Denizcilik A.s.",
     "wof:parent_id":85929793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.790483,40.97604,28.790483,40.97604],
+  "bbox": [
+    28.790483,
+    40.97604,
+    28.790483,
+    40.97604
+],
   "geometry": {"coordinates":[28.790483,40.97604],"type":"Point"}
 }

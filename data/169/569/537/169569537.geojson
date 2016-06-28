@@ -2,13 +2,14 @@
   "id": 169569537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.046307,38.497963,27.046307,38.497963",
     "geom:latitude":38.497963,
     "geom:longitude":27.046307,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mithatpasa Cad. No:203/a Karatas",
     "sg:city":"?igli",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169569537,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466313290,
     "wof:name":"Politeknik Elektronik San. Ve Tic. Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [27.046307,38.497963,27.046307,38.497963],
+  "bbox": [
+    27.046307,
+    38.497963,
+    27.046307,
+    38.497963
+],
   "geometry": {"coordinates":[27.046307,38.497963],"type":"Point"}
 }

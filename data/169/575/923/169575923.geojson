@@ -2,13 +2,14 @@
   "id": 169575923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.301834,41.280762,36.301834,41.280762",
     "geom:latitude":41.280762,
     "geom:longitude":36.301834,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Liman I? No:16-17 Rihtim",
     "sg:city":"Sirinevler",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169575923,
-    "wof:lastmodified":1449033642,
+    "wof:lastmodified":1466313321,
     "wof:name":"Denizcilik Acenteligi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [36.301834,41.280762,36.301834,41.280762],
+  "bbox": [
+    36.301834,
+    41.280762,
+    36.301834,
+    41.280762
+],
   "geometry": {"coordinates":[36.301834,41.280762],"type":"Point"}
 }

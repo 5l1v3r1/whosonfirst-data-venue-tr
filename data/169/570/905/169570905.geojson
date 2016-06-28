@@ -2,13 +2,14 @@
   "id": 169570905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.740738,39.977226,32.740738,39.977226",
     "geom:latitude":39.977226,
     "geom:longitude":32.740738,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"47.sokak No:56",
     "sg:city":"Yenimahalle",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169570905,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466313307,
     "wof:name":"B?sra Metal Ltd Sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "iron"
     ]
 },
-  "bbox": [32.740738,39.977226,32.740738,39.977226],
+  "bbox": [
+    32.740738,
+    39.977226,
+    32.740738,
+    39.977226
+],
   "geometry": {"coordinates":[32.740738,39.977226],"type":"Point"}
 }

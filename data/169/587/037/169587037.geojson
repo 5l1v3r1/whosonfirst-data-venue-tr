@@ -2,13 +2,14 @@
   "id": 169587037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.527466,38.727798,35.527466,38.727798",
     "geom:latitude":38.727798,
     "geom:longitude":35.527466,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Osman Kavuncu Cad.beyazsaray Apt.no:215/d",
     "sg:city":"Melikgazi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169587037,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466313445,
     "wof:name":"Deniz Isi Sanayi Tic.ltd.sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [35.527466,38.727798,35.527466,38.727798],
+  "bbox": [
+    35.527466,
+    38.727798,
+    35.527466,
+    38.727798
+],
   "geometry": {"coordinates":[35.527466,38.727798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.150606,38.431221,27.150606,38.431221",
     "geom:latitude":38.431221,
     "geom:longitude":27.150606,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 Sok.no:18/3 Kahramanlar",
     "sg:city":"Gaziosmanpasa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561619,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466313260,
     "wof:name":"Naturel Temizlik Ltd.sti",
     "wof:parent_id":85929637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.150606,38.431221,27.150606,38.431221],
+  "bbox": [
+    27.150606,
+    38.431221,
+    27.150606,
+    38.431221
+],
   "geometry": {"coordinates":[27.150606,38.431221],"type":"Point"}
 }

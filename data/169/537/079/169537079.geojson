@@ -2,13 +2,14 @@
   "id": 169537079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.062317,40.190025,29.062317,40.190025",
     "geom:latitude":40.190025,
     "geom:longitude":29.062317,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dogan Bey Mahallesi",
     "sg:city":"Bursa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169537079,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank As",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.062317,40.190025,29.062317,40.190025],
+  "bbox": [
+    29.062317,
+    40.190025,
+    29.062317,
+    40.190025
+],
   "geometry": {"coordinates":[29.062317,40.190025],"type":"Point"}
 }

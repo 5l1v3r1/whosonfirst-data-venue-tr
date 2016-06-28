@@ -2,13 +2,14 @@
   "id": 169567861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.857971,41.011074,28.857971,41.011074",
     "geom:latitude":41.011074,
     "geom:longitude":28.857971,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Birlik Sk. No:26/4 Levent",
     "sg:city":"Bah\u00e7elievler",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169567861,
-    "wof:lastmodified":1449035998,
+    "wof:lastmodified":1466313281,
     "wof:name":"Erve G?venlik Sistem. San. Tic. Ltd. Sti.",
     "wof:parent_id":85929785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.857971,41.011074,28.857971,41.011074],
+  "bbox": [
+    28.857971,
+    41.011074,
+    28.857971,
+    41.011074
+],
   "geometry": {"coordinates":[28.857971,41.011074],"type":"Point"}
 }

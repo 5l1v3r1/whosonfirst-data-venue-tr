@@ -2,13 +2,14 @@
   "id": 169653067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.898272,41.068253,28.898272,41.068253",
     "geom:latitude":41.068253,
     "geom:longitude":28.898272,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Evler Cd. No:27/b K.k?",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169653067,
-    "wof:lastmodified":1449032915,
+    "wof:lastmodified":1466313382,
     "wof:name":"Yildirim Kirtasiye Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.898272,41.068253,28.898272,41.068253],
+  "bbox": [
+    28.898272,
+    41.068253,
+    28.898272,
+    41.068253
+],
   "geometry": {"coordinates":[28.898272,41.068253],"type":"Point"}
 }

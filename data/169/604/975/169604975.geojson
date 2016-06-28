@@ -2,13 +2,14 @@
   "id": 169604975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.992159,41.072021,28.992159,41.072021",
     "geom:latitude":41.072021,
     "geom:longitude":28.992159,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Veli Efen. Cd. 75/1 Sk. No:7 Zeytinburnu",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169604975,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466313360,
     "wof:name":"Eroglu Filiz Spor Magazasi",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [28.992159,41.072021,28.992159,41.072021],
+  "bbox": [
+    28.992159,
+    41.072021,
+    28.992159,
+    41.072021
+],
   "geometry": {"coordinates":[28.992159,41.072021],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169577895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.037264,41.003334,29.037264,41.003334",
     "geom:latitude":41.003334,
     "geom:longitude":29.037264,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cad.oncu Sok. Buyukhanli Sitesi B1 Blok No: 8/22-23 .",
     "sg:city":"Acibadem",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169577895,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466313320,
     "wof:name":"Normed Shipping Transportation & Trading Co Inc.",
     "wof:parent_id":85929353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.037264,41.003334,29.037264,41.003334],
+  "bbox": [
+    29.037264,
+    41.003334,
+    29.037264,
+    41.003334
+],
   "geometry": {"coordinates":[29.037264,41.003334],"type":"Point"}
 }

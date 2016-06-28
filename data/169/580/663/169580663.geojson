@@ -2,13 +2,14 @@
   "id": 169580663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.794397,41.023136,28.794397,41.023136",
     "geom:latitude":41.023136,
     "geom:longitude":28.794397,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Emrullah Efendi Sk.no.24 Sefak?",
     "sg:city":"Acipayam",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169580663,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466313337,
     "wof:name":"Erdal Kundura San.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.794397,41.023136,28.794397,41.023136],
+  "bbox": [
+    28.794397,
+    41.023136,
+    28.794397,
+    41.023136
+],
   "geometry": {"coordinates":[28.794397,41.023136],"type":"Point"}
 }

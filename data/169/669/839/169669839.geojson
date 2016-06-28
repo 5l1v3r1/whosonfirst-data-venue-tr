@@ -2,13 +2,14 @@
   "id": 169669839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.095444,40.969147,29.095444,40.969147",
     "geom:latitude":40.969147,
     "geom:longitude":29.095444,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayar Cd.no72/5",
     "sg:city":"Kozyatagi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169669839,
-    "wof:lastmodified":1449033059,
+    "wof:lastmodified":1466313404,
     "wof:name":"Ist.m?hendis Ve Deniz San.ltd.sti.",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stevedores-tally"
     ]
 },
-  "bbox": [29.095444,40.969147,29.095444,40.969147],
+  "bbox": [
+    29.095444,
+    40.969147,
+    29.095444,
+    40.969147
+],
   "geometry": {"coordinates":[29.095444,40.969147],"type":"Point"}
 }

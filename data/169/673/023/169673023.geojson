@@ -2,13 +2,14 @@
   "id": 169673023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.033417,41.009602,29.033417,41.009602",
     "geom:latitude":41.009602,
     "geom:longitude":29.033417,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baskan Sok. Ozlem Sitesi E-8 Barbaros Mah. Uskudar",
     "sg:city":"Altunizade",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169673023,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466313448,
     "wof:name":"Topaz Denizcilik Ekspertiz Ve Danismanlik Ltd.sti.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [29.033417,41.009602,29.033417,41.009602],
+  "bbox": [
+    29.033417,
+    41.009602,
+    29.033417,
+    41.009602
+],
   "geometry": {"coordinates":[29.033417,41.009602],"type":"Point"}
 }

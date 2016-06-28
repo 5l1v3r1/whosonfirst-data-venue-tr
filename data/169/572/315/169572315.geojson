@@ -2,13 +2,14 @@
   "id": 169572315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.807032,41.067394,28.807032,41.067394",
     "geom:latitude":41.067394,
     "geom:longitude":28.807032,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Demirciler Sitesi 6.yol No.47",
     "sg:city":"Zeytinburnu",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169572315,
-    "wof:lastmodified":1449034708,
+    "wof:lastmodified":1466313289,
     "wof:name":"Burak Denizcilik A.s. .",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.807032,41.067394,28.807032,41.067394],
+  "bbox": [
+    28.807032,
+    41.067394,
+    28.807032,
+    41.067394
+],
   "geometry": {"coordinates":[28.807032,41.067394],"type":"Point"}
 }

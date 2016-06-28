@@ -2,13 +2,14 @@
   "id": 169528027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.285473,40.649315,29.285473,40.649315",
     "geom:latitude":40.649315,
     "geom:longitude":29.285473,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kazim Karabekir Mah. Kandemir Sok. No:3",
     "sg:city":"Yildirim",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528027,
-    "wof:lastmodified":1449033565,
+    "wof:lastmodified":1466313184,
     "wof:name":"Unal Konfeksiyon San.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.285473,40.649315,29.285473,40.649315],
+  "bbox": [
+    29.285473,
+    40.649315,
+    29.285473,
+    40.649315
+],
   "geometry": {"coordinates":[29.285473,40.649315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169541807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.932411,37.575851,36.932411,37.575851",
     "geom:latitude":37.575851,
     "geom:longitude":36.932411,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Trabzon Cad 56",
     "sg:city":"Kahramanmaras",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169541807,
-    "wof:lastmodified":1449033043,
+    "wof:lastmodified":1466313441,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.932411,37.575851,36.932411,37.575851],
+  "bbox": [
+    36.932411,
+    37.575851,
+    36.932411,
+    37.575851
+],
   "geometry": {"coordinates":[36.932411,37.575851],"type":"Point"}
 }

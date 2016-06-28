@@ -2,13 +2,14 @@
   "id": 169579669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.863306,41.056545,28.863306,41.056545",
     "geom:latitude":41.056545,
     "geom:longitude":28.863306,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Turgut Reis Mah. Cengiz Topel Cad.no:30",
     "sg:city":"Atesalani / Esenler",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169579669,
-    "wof:lastmodified":1449033739,
+    "wof:lastmodified":1466313319,
     "wof:name":"Serhat Tekstil",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "necktie"
     ]
 },
-  "bbox": [28.863306,41.056545,28.863306,41.056545],
+  "bbox": [
+    28.863306,
+    41.056545,
+    28.863306,
+    41.056545
+],
   "geometry": {"coordinates":[28.863306,41.056545],"type":"Point"}
 }

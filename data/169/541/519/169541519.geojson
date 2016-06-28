@@ -2,13 +2,14 @@
   "id": 169541519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.746426,41.064552,28.746426,41.064552",
     "geom:latitude":41.064552,
     "geom:longitude":28.746426,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad 1",
     "sg:city":"Antakya",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169541519,
-    "wof:lastmodified":1449033044,
+    "wof:lastmodified":1466313440,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.746426,41.064552,28.746426,41.064552],
+  "bbox": [
+    28.746426,
+    41.064552,
+    28.746426,
+    41.064552
+],
   "geometry": {"coordinates":[28.746426,41.064552],"type":"Point"}
 }

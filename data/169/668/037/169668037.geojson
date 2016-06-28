@@ -2,13 +2,14 @@
   "id": 169668037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.051668,41.010372,29.051668,41.010372",
     "geom:latitude":41.010372,
     "geom:longitude":29.051668,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Acibadem Cd. No:145",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169668037,
-    "wof:lastmodified":1449034992,
+    "wof:lastmodified":1466313448,
     "wof:name":"?akmak Yapi Malz. Dis Tic. A.s.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [29.051668,41.010372,29.051668,41.010372],
+  "bbox": [
+    29.051668,
+    41.010372,
+    29.051668,
+    41.010372
+],
   "geometry": {"coordinates":[29.051668,41.010372],"type":"Point"}
 }

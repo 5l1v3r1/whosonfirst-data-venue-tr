@@ -2,13 +2,14 @@
   "id": 169686681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987904,41.058693,28.987904,41.058693",
     "geom:latitude":41.058693,
     "geom:longitude":28.987904,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kodaman Sk. No:98/4 Seref Apt. Osmanbey",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686681,
-    "wof:lastmodified":1449035157,
+    "wof:lastmodified":1466313457,
     "wof:name":"G?zde Kumas Tic. San. A.s.",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.987904,41.058693,28.987904,41.058693],
+  "bbox": [
+    28.987904,
+    41.058693,
+    28.987904,
+    41.058693
+],
   "geometry": {"coordinates":[28.987904,41.058693],"type":"Point"}
 }

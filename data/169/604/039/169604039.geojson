@@ -2,13 +2,14 @@
   "id": 169604039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.820398,41.057652,28.820398,41.057652",
     "geom:latitude":41.057652,
     "geom:longitude":28.820398,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istoc Z Blok 141 Mahmutbey",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169604039,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466313446,
     "wof:name":"Berke Spor Malzemeleri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "material"
     ]
 },
-  "bbox": [28.820398,41.057652,28.820398,41.057652],
+  "bbox": [
+    28.820398,
+    41.057652,
+    28.820398,
+    41.057652
+],
   "geometry": {"coordinates":[28.820398,41.057652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.976879,41.04847,28.976879,41.04847",
     "geom:latitude":41.04847,
     "geom:longitude":28.976879,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baskin Sokulluoglu 33/1 Evrenoszade Sok.",
     "sg:city":"Ferikoy",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169685341,
-    "wof:lastmodified":1449035890,
+    "wof:lastmodified":1466313453,
     "wof:name":"Sodena Sokullu Deniz Araclari Taah.ve Tic.a.s.",
     "wof:parent_id":85929499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "working"
     ]
 },
-  "bbox": [28.976879,41.04847,28.976879,41.04847],
+  "bbox": [
+    28.976879,
+    41.04847,
+    28.976879,
+    41.04847
+],
   "geometry": {"coordinates":[28.976879,41.04847],"type":"Point"}
 }

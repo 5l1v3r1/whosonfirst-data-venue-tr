@@ -2,13 +2,14 @@
   "id": 169568945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.026739,41.048363,29.026739,41.048363",
     "geom:latitude":41.048363,
     "geom:longitude":29.026739,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mecidiye Cad.halk Sok. No:40",
     "sg:city":"Lara",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568945,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466313307,
     "wof:name":"Meric Ltd.co.",
     "wof:parent_id":85904149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.026739,41.048363,29.026739,41.048363],
+  "bbox": [
+    29.026739,
+    41.048363,
+    29.026739,
+    41.048363
+],
   "geometry": {"coordinates":[29.026739,41.048363],"type":"Point"}
 }

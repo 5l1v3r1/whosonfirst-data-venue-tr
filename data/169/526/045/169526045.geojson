@@ -2,13 +2,14 @@
   "id": 169526045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.991837,41.059353,28.991837,41.059353",
     "geom:latitude":41.059353,
     "geom:longitude":28.991837,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Mayis Cad. No:19",
     "sg:city":"Pendik",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169526045,
-    "wof:lastmodified":1449033703,
+    "wof:lastmodified":1466313184,
     "wof:name":"Akik Tekstil",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.991837,41.059353,28.991837,41.059353],
+  "bbox": [
+    28.991837,
+    41.059353,
+    28.991837,
+    41.059353
+],
   "geometry": {"coordinates":[28.991837,41.059353],"type":"Point"}
 }

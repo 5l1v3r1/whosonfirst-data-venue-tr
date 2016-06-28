@@ -2,13 +2,14 @@
   "id": 169649767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.698029,36.889046,30.698029,36.889046",
     "geom:latitude":36.889046,
     "geom:longitude":30.698029,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Anafartalar Cad. 35.sok. No:2/c-d",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169649767,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466313390,
     "wof:name":"Sonmez Kitabevi Yayin Dagitim Pazarlama",
     "wof:parent_id":85929847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.698029,36.889046,30.698029,36.889046],
+  "bbox": [
+    30.698029,
+    36.889046,
+    30.698029,
+    36.889046
+],
   "geometry": {"coordinates":[30.698029,36.889046],"type":"Point"}
 }

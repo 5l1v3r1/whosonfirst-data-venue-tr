@@ -2,13 +2,14 @@
   "id": 169559709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.859127,39.892895,32.859127,39.892895",
     "geom:latitude":39.892895,
     "geom:longitude":32.859127,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"And Sok. No:17/6 Cankaya",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559709,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466313254,
     "wof:name":"Detay Temizlik",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.859127,39.892895,32.859127,39.892895],
+  "bbox": [
+    32.859127,
+    39.892895,
+    32.859127,
+    39.892895
+],
   "geometry": {"coordinates":[32.859127,39.892895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169571447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.954052,41.008259,28.954052,41.008259",
     "geom:latitude":41.008259,
     "geom:longitude":28.954052,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mesihpasa Cad. No:90/2 Laleli",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169571447,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466313287,
     "wof:name":"Universal Dekorasyon (magaza Donatimi)",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [28.954052,41.008259,28.954052,41.008259],
+  "bbox": [
+    28.954052,
+    41.008259,
+    28.954052,
+    41.008259
+],
   "geometry": {"coordinates":[28.954052,41.008259],"type":"Point"}
 }

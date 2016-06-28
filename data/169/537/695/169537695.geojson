@@ -2,13 +2,14 @@
   "id": 169537695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.118963,38.456394,27.118963,38.456394",
     "geom:latitude":38.456394,
     "geom:longitude":27.118963,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1690 Sokak No.48/a",
     "sg:city":"Fethiye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169537695,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466313427,
     "wof:name":"Milli Aydin Bankasi Tas, Tarisbank",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.118963,38.456394,27.118963,38.456394],
+  "bbox": [
+    27.118963,
+    38.456394,
+    27.118963,
+    38.456394
+],
   "geometry": {"coordinates":[27.118963,38.456394],"type":"Point"}
 }

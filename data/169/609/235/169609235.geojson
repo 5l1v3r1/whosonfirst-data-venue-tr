@@ -2,13 +2,14 @@
   "id": 169609235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.907211,41.015591,28.907211,41.015591",
     "geom:latitude":41.015591,
     "geom:longitude":28.907211,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Davutpasa Cd. Yilanli Ayazma Sk. No:8 Topkapi",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169609235,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466313354,
     "wof:name":"?rme Is Teks. San. A.s.",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [28.907211,41.015591,28.907211,41.015591],
+  "bbox": [
+    28.907211,
+    41.015591,
+    28.907211,
+    41.015591
+],
   "geometry": {"coordinates":[28.907211,41.015591],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169686721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.003042,41.045395,29.003042,41.045395",
     "geom:latitude":41.045395,
     "geom:longitude":29.003042,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ihlamur Dere Cd. No:73/b Besiktas",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169686721,
-    "wof:lastmodified":1449035158,
+    "wof:lastmodified":1466313458,
     "wof:name":"Kaptanoglu Mefrusat San. Tic. Ltd. Sti.",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholstering"
     ]
 },
-  "bbox": [29.003042,41.045395,29.003042,41.045395],
+  "bbox": [
+    29.003042,
+    41.045395,
+    29.003042,
+    41.045395
+],
   "geometry": {"coordinates":[29.003042,41.045395],"type":"Point"}
 }

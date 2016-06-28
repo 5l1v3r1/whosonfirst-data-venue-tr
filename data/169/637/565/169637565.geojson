@@ -2,13 +2,14 @@
   "id": 169637565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.441214,40.797688,29.441214,40.797688",
     "geom:latitude":40.797688,
     "geom:longitude":29.441214,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hukumet Cad. No:113 Gebze",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169637565,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466313374,
     "wof:name":"Buro Uysal Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.441214,40.797688,29.441214,40.797688],
+  "bbox": [
+    29.441214,
+    40.797688,
+    29.441214,
+    40.797688
+],
   "geometry": {"coordinates":[29.441214,40.797688],"type":"Point"}
 }

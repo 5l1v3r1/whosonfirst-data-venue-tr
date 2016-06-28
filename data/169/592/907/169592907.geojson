@@ -2,13 +2,14 @@
   "id": 169592907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.5797,39.964199,32.5797,39.964199",
     "geom:latitude":39.964199,
     "geom:longitude":32.5797,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1.organize Sanayi B?gesi G?t?k Cad. No:11 Sincan",
     "sg:city":"16020",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169592907,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1466313345,
     "wof:name":"Musan Gida San.ve Tic.a.s.(food Ind Tra.co.)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "spice"
     ]
 },
-  "bbox": [32.5797,39.964199,32.5797,39.964199],
+  "bbox": [
+    32.5797,
+    39.964199,
+    32.5797,
+    39.964199
+],
   "geometry": {"coordinates":[32.5797,39.964199],"type":"Point"}
 }

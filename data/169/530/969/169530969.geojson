@@ -2,13 +2,14 @@
   "id": 169530969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.822836,41.031651,28.822836,41.031651",
     "geom:latitude":41.031651,
     "geom:longitude":28.822836,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kocman Caddesi 25",
     "sg:city":"G?esli",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169530969,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466313207,
     "wof:name":"Bank Ekspres As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.822836,41.031651,28.822836,41.031651],
+  "bbox": [
+    28.822836,
+    41.031651,
+    28.822836,
+    41.031651
+],
   "geometry": {"coordinates":[28.822836,41.031651],"type":"Point"}
 }

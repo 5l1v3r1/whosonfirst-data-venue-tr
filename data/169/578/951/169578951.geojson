@@ -2,13 +2,14 @@
   "id": 169578951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"41.82,41.181599,41.82,41.181599",
     "geom:latitude":41.181599,
     "geom:longitude":41.82,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortahopa Cd. No: 42",
     "sg:city":"Hopa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169578951,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466313328,
     "wof:name":"Tekin Denizcilik Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [41.82,41.181599,41.82,41.181599],
+  "bbox": [
+    41.82,
+    41.181599,
+    41.82,
+    41.181599
+],
   "geometry": {"coordinates":[41.82,41.181599],"type":"Point"}
 }

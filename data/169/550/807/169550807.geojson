@@ -2,13 +2,14 @@
   "id": 169550807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.821762,39.924984,32.821762,39.924984",
     "geom:latitude":39.924984,
     "geom:longitude":32.821762,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"60.sok. No:157 Emek",
     "sg:city":"Sisli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550807,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466313250,
     "wof:name":"Meral Guzellik Ve Zayiflama Merkezi",
     "wof:parent_id":85929585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.821762,39.924984,32.821762,39.924984],
+  "bbox": [
+    32.821762,
+    39.924984,
+    32.821762,
+    39.924984
+],
   "geometry": {"coordinates":[32.821762,39.924984],"type":"Point"}
 }

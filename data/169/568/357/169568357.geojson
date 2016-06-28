@@ -2,13 +2,14 @@
   "id": 169568357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.997461,41.066395,28.997461,41.066395",
     "geom:latitude":41.066395,
     "geom:longitude":28.997461,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Akinci Bayiri Sok. 10/2 Mecidiyek? 80300",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568357,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466313280,
     "wof:name":"Icts Global Security Ltd.",
     "wof:parent_id":85929365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.997461,41.066395,28.997461,41.066395],
+  "bbox": [
+    28.997461,
+    41.066395,
+    28.997461,
+    41.066395
+],
   "geometry": {"coordinates":[28.997461,41.066395],"type":"Point"}
 }

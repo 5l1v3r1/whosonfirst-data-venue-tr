@@ -2,13 +2,14 @@
   "id": 169527657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.992664,41.036251,28.992664,41.036251",
     "geom:latitude":41.036251,
     "geom:longitude":28.992664,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tarak?cafer Sk. No:6",
     "sg:city":"Yesildirek",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527657,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466313193,
     "wof:name":"Sanbebe",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.992664,41.036251,28.992664,41.036251],
+  "bbox": [
+    28.992664,
+    41.036251,
+    28.992664,
+    41.036251
+],
   "geometry": {"coordinates":[28.992664,41.036251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169684959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.886757,39.629631,27.886757,39.629631",
     "geom:latitude":39.629631,
     "geom:longitude":27.886757,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kultur Cad. No:17/b",
     "sg:city":"Sindirgi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169684959,
-    "wof:lastmodified":1449033511,
+    "wof:lastmodified":1466313451,
     "wof:name":"Ismail Erkan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [27.886757,39.629631,27.886757,39.629631],
+  "bbox": [
+    27.886757,
+    39.629631,
+    27.886757,
+    39.629631
+],
   "geometry": {"coordinates":[27.886757,39.629631],"type":"Point"}
 }

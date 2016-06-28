@@ -2,13 +2,14 @@
   "id": 169535081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.397966,40.777775,30.397966,40.777775",
     "geom:latitude":40.777775,
     "geom:longitude":30.397966,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Cark Caddesi",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169535081,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466313418,
     "wof:name":"Faysal Islamic Bank Of Bahrain Ec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.397966,40.777775,30.397966,40.777775],
+  "bbox": [
+    30.397966,
+    40.777775,
+    30.397966,
+    40.777775
+],
   "geometry": {"coordinates":[30.397966,40.777775],"type":"Point"}
 }

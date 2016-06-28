@@ -2,13 +2,14 @@
   "id": 169540535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.694698,39.9212,40.694698,39.9212",
     "geom:latitude":39.9212,
     "geom:longitude":40.694698,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Askule",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169540535,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466313436,
     "wof:name":"Tc Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [40.694698,39.9212,40.694698,39.9212],
+  "bbox": [
+    40.694698,
+    39.9212,
+    40.694698,
+    39.9212
+],
   "geometry": {"coordinates":[40.694698,39.9212],"type":"Point"}
 }

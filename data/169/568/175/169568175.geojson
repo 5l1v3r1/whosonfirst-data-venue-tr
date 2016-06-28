@@ -2,13 +2,14 @@
   "id": 169568175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.084019,41.024406,29.084019,41.024406",
     "geom:latitude":41.024406,
     "geom:longitude":29.084019,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemdag Cad.no: 418 K:4 Umraniye",
     "sg:city":"Alsancak",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568175,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466313271,
     "wof:name":"Get-genel Elektronik Telekominikasyon San.tic.ltd.sti.",
     "wof:parent_id":85930133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.084019,41.024406,29.084019,41.024406],
+  "bbox": [
+    29.084019,
+    41.024406,
+    29.084019,
+    41.024406
+],
   "geometry": {"coordinates":[29.084019,41.024406],"type":"Point"}
 }

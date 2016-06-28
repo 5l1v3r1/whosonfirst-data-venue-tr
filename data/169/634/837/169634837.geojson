@@ -2,13 +2,14 @@
   "id": 169634837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.703135,36.887505,30.703135,36.887505",
     "geom:latitude":36.887505,
     "geom:longitude":30.703135,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Varlik Mah.teomanpasa Cad. Oba Apt. No.88/c",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169634837,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466313375,
     "wof:name":"Apsis Ticaret Ltd.sti.",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.703135,36.887505,30.703135,36.887505],
+  "bbox": [
+    30.703135,
+    36.887505,
+    30.703135,
+    36.887505
+],
   "geometry": {"coordinates":[30.703135,36.887505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169533539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.76889,40.986919,39.76889,40.986919",
     "geom:latitude":40.986919,
     "geom:longitude":39.76889,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Milli K??hane Cad.14",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169533539,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466313413,
     "wof:name":"Esbank Eskisehir, Bankasi Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [39.76889,40.986919,39.76889,40.986919],
+  "bbox": [
+    39.76889,
+    40.986919,
+    39.76889,
+    40.986919
+],
   "geometry": {"coordinates":[39.76889,40.986919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169645253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.91267,41.020466,28.91267,41.020466",
     "geom:latitude":41.020466,
     "geom:longitude":28.91267,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. Nevzatbey Ismerk. No:120/39 Maltepe",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169645253,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466313379,
     "wof:name":"Memos Kitap Kirtasiye Oyuncak",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.91267,41.020466,28.91267,41.020466],
+  "bbox": [
+    28.91267,
+    41.020466,
+    28.91267,
+    41.020466
+],
   "geometry": {"coordinates":[28.91267,41.020466],"type":"Point"}
 }

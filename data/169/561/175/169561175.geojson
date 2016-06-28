@@ -2,13 +2,14 @@
   "id": 169561175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.989939,41.08326,28.989939,41.08326",
     "geom:latitude":41.08326,
     "geom:longitude":28.989939,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vatan Sanayi Kek?nar Sok.no:1",
     "sg:city":"Beykoz",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169561175,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466313251,
     "wof:name":"Lutuf Hali Yikama Fabrikasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.989939,41.08326,28.989939,41.08326],
+  "bbox": [
+    28.989939,
+    41.08326,
+    28.989939,
+    41.08326
+],
   "geometry": {"coordinates":[28.989939,41.08326],"type":"Point"}
 }

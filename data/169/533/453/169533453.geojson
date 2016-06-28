@@ -2,13 +2,14 @@
   "id": 169533453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.385029,37.057178,37.385029,37.057178",
     "geom:latitude":37.057178,
     "geom:longitude":37.385029,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismetpasa Mahallesi 5-6",
     "sg:city":"Kahramanmaras",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169533453,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466313413,
     "wof:name":"Esbank Eskisehir, Bankasi Tas",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.385029,37.057178,37.385029,37.057178],
+  "bbox": [
+    37.385029,
+    37.057178,
+    37.385029,
+    37.057178
+],
   "geometry": {"coordinates":[37.385029,37.057178],"type":"Point"}
 }

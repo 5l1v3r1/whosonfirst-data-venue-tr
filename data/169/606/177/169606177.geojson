@@ -2,13 +2,14 @@
   "id": 169606177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
     "geom:latitude":39.770081,
     "geom:longitude":30.517546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Organize San. Bolgesi 4.cad.",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169606177,
-    "wof:lastmodified":1449033204,
+    "wof:lastmodified":1466313350,
     "wof:name":"Jimsa Spor Malzemeleri San.ltd.sti.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "bbox": [
+    30.517546,
+    39.770081,
+    30.517546,
+    39.770081
+],
   "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
 }

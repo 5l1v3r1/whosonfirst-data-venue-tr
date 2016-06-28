@@ -2,13 +2,14 @@
   "id": 169568651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.054897,41.210091,29.054897,41.210091",
     "geom:latitude":41.210091,
     "geom:longitude":29.054897,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Perpa Tic.merkezi Kat.7-8 No:939 Okmeydani",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169568651,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466313292,
     "wof:name":"Kaya Yapi San.tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.054897,41.210091,29.054897,41.210091],
+  "bbox": [
+    29.054897,
+    41.210091,
+    29.054897,
+    41.210091
+],
   "geometry": {"coordinates":[29.054897,41.210091],"type":"Point"}
 }

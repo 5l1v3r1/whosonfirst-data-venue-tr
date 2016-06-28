@@ -2,13 +2,14 @@
   "id": 169644421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.968231,41.004631,28.968231,41.004631",
     "geom:latitude":41.004631,
     "geom:longitude":28.968231,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kadirga Liman Cd. No:75 Kadirga",
     "sg:city":"Okmeydani/beyoglu",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169644421,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466313379,
     "wof:name":"Kosucular Kirtasiye San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.968231,41.004631,28.968231,41.004631],
+  "bbox": [
+    28.968231,
+    41.004631,
+    28.968231,
+    41.004631
+],
   "geometry": {"coordinates":[28.968231,41.004631],"type":"Point"}
 }

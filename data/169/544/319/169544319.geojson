@@ -2,13 +2,14 @@
   "id": 169544319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.7719,41.372299,33.7719,41.372299",
     "geom:latitude":41.372299,
     "geom:longitude":33.7719,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abana",
     "sg:city":"Denizli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169544319,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466313217,
     "wof:name":"T?kiye Halk Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [33.7719,41.372299,33.7719,41.372299],
+  "bbox": [
+    33.7719,
+    41.372299,
+    33.7719,
+    41.372299
+],
   "geometry": {"coordinates":[33.7719,41.372299],"type":"Point"}
 }

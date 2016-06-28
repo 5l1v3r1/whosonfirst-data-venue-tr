@@ -2,13 +2,14 @@
   "id": 169579351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.841454,39.893456,32.841454,39.893456",
     "geom:latitude":39.893456,
     "geom:longitude":32.841454,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dikmen Cad.no:119/2",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169579351,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1466313304,
     "wof:name":"Vibra Tek Eng Co Ltd.",
     "wof:parent_id":85929503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [32.841454,39.893456,32.841454,39.893456],
+  "bbox": [
+    32.841454,
+    39.893456,
+    32.841454,
+    39.893456
+],
   "geometry": {"coordinates":[32.841454,39.893456],"type":"Point"}
 }

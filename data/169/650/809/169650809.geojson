@@ -2,13 +2,14 @@
   "id": 169650809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.967911,41.01704,28.967911,41.01704",
     "geom:latitude":41.01704,
     "geom:longitude":28.967911,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tahtakale Cad No:90",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169650809,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466313389,
     "wof:name":"Toka? Defter Sanayii",
     "wof:parent_id":85904101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.967911,41.01704,28.967911,41.01704],
+  "bbox": [
+    28.967911,
+    41.01704,
+    28.967911,
+    41.01704
+],
   "geometry": {"coordinates":[28.967911,41.01704],"type":"Point"}
 }

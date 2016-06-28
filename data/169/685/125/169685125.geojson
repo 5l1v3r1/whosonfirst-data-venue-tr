@@ -2,13 +2,14 @@
   "id": 169685125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.852757,39.903629,32.852757,39.903629",
     "geom:latitude":39.903629,
     "geom:longitude":32.852757,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Guvenlik Cad. No:26/1",
     "sg:city":"A.ayranci",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169685125,
-    "wof:lastmodified":1449035890,
+    "wof:lastmodified":1466313409,
     "wof:name":"S.tarkan Ozcetin",
     "wof:parent_id":85929503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [32.852757,39.903629,32.852757,39.903629],
+  "bbox": [
+    32.852757,
+    39.903629,
+    32.852757,
+    39.903629
+],
   "geometry": {"coordinates":[32.852757,39.903629],"type":"Point"}
 }

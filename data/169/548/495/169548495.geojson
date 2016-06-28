@@ -2,13 +2,14 @@
   "id": 169548495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.492992,38.720226,35.492992,38.720226",
     "geom:latitude":38.720226,
     "geom:longitude":35.492992,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gavremoglu Mah. Zenneci Sok. No: 20/7 38030",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548495,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313225,
     "wof:name":"Mankay Otomotiv-tekstil-plastik-gida Sanayi Ticaret A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [35.492992,38.720226,35.492992,38.720226],
+  "bbox": [
+    35.492992,
+    38.720226,
+    35.492992,
+    38.720226
+],
   "geometry": {"coordinates":[35.492992,38.720226],"type":"Point"}
 }

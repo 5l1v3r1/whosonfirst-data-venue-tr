@@ -2,13 +2,14 @@
   "id": 169645105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.970457,41.012005,28.970457,41.012005",
     "geom:latitude":41.012005,
     "geom:longitude":28.970457,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tahtakale Tomruk Sk. Cikmazi Santral Han. No: 56/01 Eminonu",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169645105,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466313377,
     "wof:name":"Master Kirtasiye Ve Hediyelik Esya San. Tic. Ltd. Sti.",
     "wof:parent_id":85906487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.970457,41.012005,28.970457,41.012005],
+  "bbox": [
+    28.970457,
+    41.012005,
+    28.970457,
+    41.012005
+],
   "geometry": {"coordinates":[28.970457,41.012005],"type":"Point"}
 }

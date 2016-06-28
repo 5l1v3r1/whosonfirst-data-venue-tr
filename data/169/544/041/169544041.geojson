@@ -2,13 +2,14 @@
   "id": 169544041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.026196,38.371422,34.026196,38.371422",
     "geom:latitude":38.371422,
     "geom:longitude":34.026196,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Turizm Cad.no.1",
     "sg:city":"Aksaray",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169544041,
-    "wof:lastmodified":1449035962,
+    "wof:lastmodified":1466313207,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.026196,38.371422,34.026196,38.371422],
+  "bbox": [
+    34.026196,
+    38.371422,
+    34.026196,
+    38.371422
+],
   "geometry": {"coordinates":[34.026196,38.371422],"type":"Point"}
 }

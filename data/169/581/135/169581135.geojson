@@ -2,13 +2,14 @@
   "id": 169581135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.7925,41.451401,31.7925,41.451401",
     "geom:latitude":41.451401,
     "geom:longitude":31.7925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Carsi Deftedar Sok. No:8",
     "sg:city":"Isikkent",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169581135,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466313314,
     "wof:name":"Kar Ticaret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [31.7925,41.451401,31.7925,41.451401],
+  "bbox": [
+    31.7925,
+    41.451401,
+    31.7925,
+    41.451401
+],
   "geometry": {"coordinates":[31.7925,41.451401],"type":"Point"}
 }

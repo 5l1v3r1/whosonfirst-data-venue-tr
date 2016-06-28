@@ -2,13 +2,14 @@
   "id": 169562251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.972754,41.031975,28.972754,41.031975",
     "geom:latitude":41.031975,
     "geom:longitude":28.972754,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mesrutiyet Cd. No:103 Tepebasi",
     "sg:city":"Kahramanlar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562251,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466313254,
     "wof:name":"Saruhan I? Dis Tic. A.s.",
     "wof:parent_id":85906541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.972754,41.031975,28.972754,41.031975],
+  "bbox": [
+    28.972754,
+    41.031975,
+    28.972754,
+    41.031975
+],
   "geometry": {"coordinates":[28.972754,41.031975],"type":"Point"}
 }

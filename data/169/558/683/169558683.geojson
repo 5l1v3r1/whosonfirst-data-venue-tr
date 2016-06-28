@@ -2,13 +2,14 @@
   "id": 169558683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.859386,39.908295,32.859386,39.908295",
     "geom:latitude":39.908295,
     "geom:longitude":32.859386,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bestekar Sk. No:70/3 Kavaklidere",
     "sg:city":"Kartal",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558683,
-    "wof:lastmodified":1449033581,
+    "wof:lastmodified":1466313259,
     "wof:name":"Arit Temiz. Ila?lama Dekor. Taahh?t Tic. Ltd. Sti.",
     "wof:parent_id":85904129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.859386,39.908295,32.859386,39.908295],
+  "bbox": [
+    32.859386,
+    39.908295,
+    32.859386,
+    39.908295
+],
   "geometry": {"coordinates":[32.859386,39.908295],"type":"Point"}
 }

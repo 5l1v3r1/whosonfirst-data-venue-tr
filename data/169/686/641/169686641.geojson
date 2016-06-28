@@ -2,13 +2,14 @@
   "id": 169686641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.0784,41.000294,29.0784,41.000294",
     "geom:latitude":41.000294,
     "geom:longitude":29.0784,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahmet Yasevi Cad.no: 102/b",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686641,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313456,
     "wof:name":"Evim Ev Aletleri Tic.",
     "wof:parent_id":85930223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [29.0784,41.000294,29.0784,41.000294],
+  "bbox": [
+    29.0784,
+    41.000294,
+    29.0784,
+    41.000294
+],
   "geometry": {"coordinates":[29.0784,41.000294],"type":"Point"}
 }

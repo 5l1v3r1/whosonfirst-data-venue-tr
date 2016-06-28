@@ -2,13 +2,14 @@
   "id": 169567773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.821487,39.931755,32.821487,39.931755",
     "geom:latitude":39.931755,
     "geom:longitude":32.821487,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cetin Emec Bulvari 78.sok. No:5 Ovecler",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169567773,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466313274,
     "wof:name":"Emt Electronics",
     "wof:parent_id":85929605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.821487,39.931755,32.821487,39.931755],
+  "bbox": [
+    32.821487,
+    39.931755,
+    32.821487,
+    39.931755
+],
   "geometry": {"coordinates":[32.821487,39.931755],"type":"Point"}
 }

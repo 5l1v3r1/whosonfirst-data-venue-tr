@@ -2,13 +2,14 @@
   "id": 169587285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.164001,39.147999,34.164001,39.147999",
     "geom:latitude":39.147999,
     "geom:longitude":34.164001,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cecba 2.carsi Kemal Hocaogullari Apt. Alti",
     "sg:city":"Aksaray",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169587285,
-    "wof:lastmodified":1449033820,
+    "wof:lastmodified":1466313329,
     "wof:name":"Eraslan Gunes Enerjisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "solar"
     ]
 },
-  "bbox": [34.164001,39.147999,34.164001,39.147999],
+  "bbox": [
+    34.164001,
+    39.147999,
+    34.164001,
+    39.147999
+],
   "geometry": {"coordinates":[34.164001,39.147999],"type":"Point"}
 }

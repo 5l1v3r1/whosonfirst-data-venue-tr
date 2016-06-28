@@ -2,13 +2,14 @@
   "id": 169546209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.887993,39.647594,27.887993,39.647594",
     "geom:latitude":39.647594,
     "geom:longitude":27.887993,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Meydani",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169546209,
-    "wof:lastmodified":1449032681,
+    "wof:lastmodified":1466313213,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.887993,39.647594,27.887993,39.647594],
+  "bbox": [
+    27.887993,
+    39.647594,
+    27.887993,
+    39.647594
+],
   "geometry": {"coordinates":[27.887993,39.647594],"type":"Point"}
 }

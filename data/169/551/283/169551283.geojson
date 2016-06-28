@@ -2,13 +2,14 @@
   "id": 169551283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.868069,39.893005,32.868069,39.893005",
     "geom:latitude":39.893005,
     "geom:longitude":32.868069,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?ankaya Cd. No:17/5",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551283,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313220,
     "wof:name":"Ergo Yataklari",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [32.868069,39.893005,32.868069,39.893005],
+  "bbox": [
+    32.868069,
+    39.893005,
+    32.868069,
+    39.893005
+],
   "geometry": {"coordinates":[32.868069,39.893005],"type":"Point"}
 }

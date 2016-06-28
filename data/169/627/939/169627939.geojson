@@ -2,13 +2,14 @@
   "id": 169627939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.971111,37.898335,36.971111,37.898335",
     "geom:latitude":37.898335,
     "geom:longitude":36.971111,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kahramanmaras",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169627939,
-    "wof:lastmodified":1449036042,
+    "wof:lastmodified":1466313367,
     "wof:name":"Ssk Hastanesi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [36.971111,37.898335,36.971111,37.898335],
+  "bbox": [
+    36.971111,
+    37.898335,
+    36.971111,
+    37.898335
+],
   "geometry": {"coordinates":[36.971111,37.898335],"type":"Point"}
 }

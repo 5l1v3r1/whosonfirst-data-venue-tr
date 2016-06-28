@@ -2,13 +2,14 @@
   "id": 169579549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.329586,41.303669,36.329586,41.303669",
     "geom:latitude":41.303669,
     "geom:longitude":36.329586,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Liman Mah.ozan Sok.no:23/2",
     "sg:city":"Kumkapi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169579549,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466313312,
     "wof:name":"Yelken Denizcilik Ve Tic.ltd:",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [36.329586,41.303669,36.329586,41.303669],
+  "bbox": [
+    36.329586,
+    41.303669,
+    36.329586,
+    41.303669
+],
   "geometry": {"coordinates":[36.329586,41.303669],"type":"Point"}
 }

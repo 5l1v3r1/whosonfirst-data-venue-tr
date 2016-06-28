@@ -2,13 +2,14 @@
   "id": 169586201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.323715,36.984169,35.323715,36.984169",
     "geom:latitude":36.984169,
     "geom:longitude":35.323715,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Obalar Cad.no:110",
     "sg:city":"K??yali",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169586201,
-    "wof:lastmodified":1449035575,
+    "wof:lastmodified":1466313330,
     "wof:name":"Aysu Gunes Enerjisi Kollektorleri Ltd.sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [35.323715,36.984169,35.323715,36.984169],
+  "bbox": [
+    35.323715,
+    36.984169,
+    35.323715,
+    36.984169
+],
   "geometry": {"coordinates":[35.323715,36.984169],"type":"Point"}
 }

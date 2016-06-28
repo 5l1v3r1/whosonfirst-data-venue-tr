@@ -2,13 +2,14 @@
   "id": 169535017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.706112,37.368332,35.706112,37.368332",
     "geom:latitude":37.368332,
     "geom:longitude":35.706112,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Adana, Adana",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169535017,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466313418,
     "wof:name":"Exsa Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.706112,37.368332,35.706112,37.368332],
+  "bbox": [
+    35.706112,
+    37.368332,
+    35.706112,
+    37.368332
+],
   "geometry": {"coordinates":[35.706112,37.368332],"type":"Point"}
 }

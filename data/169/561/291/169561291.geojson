@@ -2,13 +2,14 @@
   "id": 169561291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.892387,40.140457,32.892387,40.140457",
     "geom:latitude":40.140457,
     "geom:longitude":32.892387,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkez San.sit.546.sok.no:25 Karsiyaka",
     "sg:city":"Sisli / Okmeydani",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169561291,
-    "wof:lastmodified":1449035018,
+    "wof:lastmodified":1466313252,
     "wof:name":"Marti Camasir Yikama Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.892387,40.140457,32.892387,40.140457],
+  "bbox": [
+    32.892387,
+    40.140457,
+    32.892387,
+    40.140457
+],
   "geometry": {"coordinates":[32.892387,40.140457],"type":"Point"}
 }

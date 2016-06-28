@@ -2,13 +2,14 @@
   "id": 169547591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.988213,39.890236,32.988213,39.890236",
     "geom:latitude":39.890236,
     "geom:longitude":32.988213,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kibris Meydani 6/a",
     "sg:city":"Kahramanmaras",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169547591,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313229,
     "wof:name":"Yapi Ve Kredi, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.988213,39.890236,32.988213,39.890236],
+  "bbox": [
+    32.988213,
+    39.890236,
+    32.988213,
+    39.890236
+],
   "geometry": {"coordinates":[32.988213,39.890236],"type":"Point"}
 }

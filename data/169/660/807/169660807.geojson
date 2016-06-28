@@ -2,13 +2,14 @@
   "id": 169660807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.489136,38.722576,35.489136,38.722576",
     "geom:latitude":38.722576,
     "geom:longitude":35.489136,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?evreyolu 5 Km. Konaklar K??hanicik Mev.",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169660807,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1466313398,
     "wof:name":"Em-sa Madeni Esya San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "utensil"
     ]
 },
-  "bbox": [35.489136,38.722576,35.489136,38.722576],
+  "bbox": [
+    35.489136,
+    38.722576,
+    35.489136,
+    38.722576
+],
   "geometry": {"coordinates":[35.489136,38.722576],"type":"Point"}
 }

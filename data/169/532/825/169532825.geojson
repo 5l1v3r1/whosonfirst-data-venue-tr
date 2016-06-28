@@ -2,13 +2,14 @@
   "id": 169532825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.354923,37.05027,37.354923,37.05027",
     "geom:latitude":37.05027,
     "geom:longitude":37.354923,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hurriyet Caddesi 12a",
     "sg:city":"Gaziantep",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169532825,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.354923,37.05027,37.354923,37.05027],
+  "bbox": [
+    37.354923,
+    37.05027,
+    37.354923,
+    37.05027
+],
   "geometry": {"coordinates":[37.354923,37.05027],"type":"Point"}
 }

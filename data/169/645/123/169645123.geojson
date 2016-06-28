@@ -2,13 +2,14 @@
   "id": 169645123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.09063,40.965164,29.09063,40.965164",
     "geom:latitude":40.965164,
     "geom:longitude":29.09063,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Semsettin Gunaltay Cad. Kaya Sultan Sk. No: 37/4 Suadiye",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169645123,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466313378,
     "wof:name":"Me & Ce Kirtasiye Ve Ofis Malzemeleri",
     "wof:parent_id":85930005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.09063,40.965164,29.09063,40.965164],
+  "bbox": [
+    29.09063,
+    40.965164,
+    29.09063,
+    40.965164
+],
   "geometry": {"coordinates":[29.09063,40.965164],"type":"Point"}
 }

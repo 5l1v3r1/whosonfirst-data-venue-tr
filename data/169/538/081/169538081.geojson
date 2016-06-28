@@ -2,13 +2,14 @@
   "id": 169538081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.997051,41.051441,28.997051,41.051441",
     "geom:latitude":41.051441,
     "geom:longitude":28.997051,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tesvikiye 47-54, Nisantasi, Istanbul",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169538081,
-    "wof:lastmodified":1449033100,
+    "wof:lastmodified":1466313428,
     "wof:name":"Milli Reas?ans Tas",
     "wof:parent_id":85929397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.997051,41.051441,28.997051,41.051441],
+  "bbox": [
+    28.997051,
+    41.051441,
+    28.997051,
+    41.051441
+],
   "geometry": {"coordinates":[28.997051,41.051441],"type":"Point"}
 }

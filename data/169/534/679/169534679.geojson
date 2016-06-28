@@ -2,13 +2,14 @@
   "id": 169534679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.166882,36.225815,36.166882,36.225815",
     "geom:latitude":36.225815,
     "geom:longitude":36.166882,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"K?r?asi Cad 6/a",
     "sg:city":"Eskisehir",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169534679,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466313417,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.166882,36.225815,36.166882,36.225815],
+  "bbox": [
+    36.166882,
+    36.225815,
+    36.166882,
+    36.225815
+],
   "geometry": {"coordinates":[36.166882,36.225815],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169658935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.972954,41.010231,28.972954,41.010231",
     "geom:latitude":41.010231,
     "geom:longitude":28.972954,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mercan Ismetiye Cd. No:14/b S?eymaniye",
     "sg:city":"Bah\u00e7elievler",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169658935,
-    "wof:lastmodified":1449032616,
+    "wof:lastmodified":1466313399,
     "wof:name":"Bambi Madeni Esya San. Tic. Ltd. Sti.",
     "wof:parent_id":85906475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "utensil"
     ]
 },
-  "bbox": [28.972954,41.010231,28.972954,41.010231],
+  "bbox": [
+    28.972954,
+    41.010231,
+    28.972954,
+    41.010231
+],
   "geometry": {"coordinates":[28.972954,41.010231],"type":"Point"}
 }

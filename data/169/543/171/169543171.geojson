@@ -2,13 +2,14 @@
   "id": 169543171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.673267,36.824162,34.673267,36.824162",
     "geom:latitude":36.824162,
     "geom:longitude":34.673267,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Serbest Bolge",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169543171,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466313439,
     "wof:name":"T?kiye Cumhuriyeti, Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.673267,36.824162,34.673267,36.824162],
+  "bbox": [
+    34.673267,
+    36.824162,
+    34.673267,
+    36.824162
+],
   "geometry": {"coordinates":[34.673267,36.824162],"type":"Point"}
 }

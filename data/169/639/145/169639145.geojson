@@ -2,13 +2,14 @@
   "id": 169639145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.313736,37.000717,35.313736,37.000717",
     "geom:latitude":37.000717,
     "geom:longitude":35.313736,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cemal Gursel Cad. 14.sok. No:2 Kat:1 Tuna-kendirci Ishani Kat:1 Seyhan",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169639145,
-    "wof:lastmodified":1449035950,
+    "wof:lastmodified":1466313370,
     "wof:name":"Emko Say Egitim Gerecleri Ltd.sti.",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.313736,37.000717,35.313736,37.000717],
+  "bbox": [
+    35.313736,
+    37.000717,
+    35.313736,
+    37.000717
+],
   "geometry": {"coordinates":[35.313736,37.000717],"type":"Point"}
 }

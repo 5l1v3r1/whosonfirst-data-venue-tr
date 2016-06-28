@@ -2,13 +2,14 @@
   "id": 169579249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.045265,41.11702,29.045265,41.11702",
     "geom:latitude":41.11702,
     "geom:longitude":29.045265,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istinye Cd.mahmut ?avus Sk.no5",
     "sg:city":"Istinye",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169579249,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466313298,
     "wof:name":"Unimar Denizcilik A.s.",
     "wof:parent_id":85929871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.045265,41.11702,29.045265,41.11702],
+  "bbox": [
+    29.045265,
+    41.11702,
+    29.045265,
+    41.11702
+],
   "geometry": {"coordinates":[29.045265,41.11702],"type":"Point"}
 }

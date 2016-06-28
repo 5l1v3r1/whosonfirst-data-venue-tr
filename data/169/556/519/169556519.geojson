@@ -2,13 +2,14 @@
   "id": 169556519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.115889,40.937237,29.115889,40.937237",
     "geom:latitude":40.937237,
     "geom:longitude":29.115889,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Adalar Sk. No. 7 Idealtepe",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169556519,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466313261,
     "wof:name":"Bogazi?i San. Tic. Ltd. Sti.",
     "wof:parent_id":85929997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.115889,40.937237,29.115889,40.937237],
+  "bbox": [
+    29.115889,
+    40.937237,
+    29.115889,
+    40.937237
+],
   "geometry": {"coordinates":[29.115889,40.937237],"type":"Point"}
 }

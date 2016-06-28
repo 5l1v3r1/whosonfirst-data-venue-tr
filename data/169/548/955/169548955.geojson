@@ -2,13 +2,14 @@
   "id": 169548955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
     "geom:latitude":39.943874,
     "geom:longitude":32.856033,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.sanayi Tesviyeci Cad.no:4/b Iskitler",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548955,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313247,
     "wof:name":"Batu Rulman Pazarlama Tic. Ltd.sti.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ball"
     ]
 },
-  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "bbox": [
+    32.856033,
+    39.943874,
+    32.856033,
+    39.943874
+],
   "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
 }

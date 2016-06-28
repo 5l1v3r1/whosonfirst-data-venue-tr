@@ -2,13 +2,14 @@
   "id": 169527045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.98876,41.062069,28.98876,41.062069",
     "geom:latitude":41.062069,
     "geom:longitude":28.98876,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Halaskargazi Cad. 245/251 G? Apt. K:3/a",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527045,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466313185,
     "wof:name":"La Mod San. Tic. Ltd. Sti.",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.98876,41.062069,28.98876,41.062069],
+  "bbox": [
+    28.98876,
+    41.062069,
+    28.98876,
+    41.062069
+],
   "geometry": {"coordinates":[28.98876,41.062069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169642055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.960854,41.035915,28.960854,41.035915",
     "geom:latitude":41.035915,
     "geom:longitude":28.960854,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Prof. Cemil B. Cd. No:23 Emin?? Istanbul",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169642055,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1466313370,
     "wof:name":"Hilal Kirtasiye Matbaa Imal. Satisi",
     "wof:parent_id":85906535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.960854,41.035915,28.960854,41.035915],
+  "bbox": [
+    28.960854,
+    41.035915,
+    28.960854,
+    41.035915
+],
   "geometry": {"coordinates":[28.960854,41.035915],"type":"Point"}
 }

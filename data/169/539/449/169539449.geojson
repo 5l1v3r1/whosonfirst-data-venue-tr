@@ -2,13 +2,14 @@
   "id": 169539449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.402348,37.857162,32.402348,37.857162",
     "geom:latitude":37.857162,
     "geom:longitude":32.402348,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Cad 129",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169539449,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466313432,
     "wof:name":"Sinai Yatirim, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.402348,37.857162,32.402348,37.857162],
+  "bbox": [
+    32.402348,
+    37.857162,
+    32.402348,
+    37.857162
+],
   "geometry": {"coordinates":[32.402348,37.857162],"type":"Point"}
 }

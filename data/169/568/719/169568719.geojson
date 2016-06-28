@@ -2,13 +2,14 @@
   "id": 169568719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.127367,40.922428,29.127367,40.922428",
     "geom:latitude":40.922428,
     "geom:longitude":29.127367,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rihtim Cad. No:2 Kadikoy",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169568719,
-    "wof:lastmodified":1449032609,
+    "wof:lastmodified":1466313296,
     "wof:name":"Kotter Guvenlik A.s.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.127367,40.922428,29.127367,40.922428],
+  "bbox": [
+    29.127367,
+    40.922428,
+    29.127367,
+    40.922428
+],
   "geometry": {"coordinates":[29.127367,40.922428],"type":"Point"}
 }

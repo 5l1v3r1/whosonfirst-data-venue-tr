@@ -2,13 +2,14 @@
   "id": 169581131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.986916,41.057098,28.986916,41.057098",
     "geom:latitude":41.057098,
     "geom:longitude":28.986916,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Halaskargazi Cad. No:289 Sisli",
     "sg:city":"Isikkent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169581131,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466313313,
     "wof:name":"Kemal Tanca",
     "wof:parent_id":85929423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.986916,41.057098,28.986916,41.057098],
+  "bbox": [
+    28.986916,
+    41.057098,
+    28.986916,
+    41.057098
+],
   "geometry": {"coordinates":[28.986916,41.057098],"type":"Point"}
 }

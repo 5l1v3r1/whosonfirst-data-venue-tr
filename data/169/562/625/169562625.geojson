@@ -2,13 +2,14 @@
   "id": 169562625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.000353,41.048286,29.000353,41.048286",
     "geom:latitude":41.048286,
     "geom:longitude":29.000353,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nushetiye Cd. No:39 Besiktas",
     "sg:city":"07100",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562625,
-    "wof:lastmodified":1449034439,
+    "wof:lastmodified":1466313264,
     "wof:name":"Temsas Temizleme San. Tic. Turizm A.s.",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.000353,41.048286,29.000353,41.048286],
+  "bbox": [
+    29.000353,
+    41.048286,
+    29.000353,
+    41.048286
+],
   "geometry": {"coordinates":[29.000353,41.048286],"type":"Point"}
 }

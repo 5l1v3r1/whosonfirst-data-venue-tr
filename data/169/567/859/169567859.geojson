@@ -2,13 +2,14 @@
   "id": 169567859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.994406,41.076439,28.994406,41.076439",
     "geom:latitude":41.076439,
     "geom:longitude":28.994406,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sakir Kesebir Sok. Balmumcu Plaza 3 No:34/7 Balmumcu",
     "sg:city":"Bah\u00e7elievler",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169567859,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466313280,
     "wof:name":"Eryatek M?hendislik Iletisim Ve G?venlik Sistemleri Ltd.sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.994406,41.076439,28.994406,41.076439],
+  "bbox": [
+    28.994406,
+    41.076439,
+    28.994406,
+    41.076439
+],
   "geometry": {"coordinates":[28.994406,41.076439],"type":"Point"}
 }

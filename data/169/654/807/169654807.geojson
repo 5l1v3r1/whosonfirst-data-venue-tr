@@ -2,13 +2,14 @@
   "id": 169654807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.073767,40.985809,29.073767,40.985809",
     "geom:latitude":40.985809,
     "geom:longitude":29.073767,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sair Arsi Caddesi No:62 Merdivenk?y",
     "sg:city":"G?ztepe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169654807,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466313391,
     "wof:name":"Dilaver ?elik Para Kasalari Ve ?elik San.tic.ltd.",
     "wof:parent_id":85930223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cupboard"
     ]
 },
-  "bbox": [29.073767,40.985809,29.073767,40.985809],
+  "bbox": [
+    29.073767,
+    40.985809,
+    29.073767,
+    40.985809
+],
   "geometry": {"coordinates":[29.073767,40.985809],"type":"Point"}
 }

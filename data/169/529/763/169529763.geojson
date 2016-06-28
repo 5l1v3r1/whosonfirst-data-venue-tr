@@ -2,13 +2,14 @@
   "id": 169529763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.1791,38.296501,31.1791,38.296501",
     "geom:latitude":38.296501,
     "geom:longitude":31.1791,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tabakhaneler No:32 Yalvac",
     "sg:city":"Emin?? 34450",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169529763,
-    "wof:lastmodified":1449034117,
+    "wof:lastmodified":1466313196,
     "wof:name":"Ulku Deri San.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [31.1791,38.296501,31.1791,38.296501],
+  "bbox": [
+    31.1791,
+    38.296501,
+    31.1791,
+    38.296501
+],
   "geometry": {"coordinates":[31.1791,38.296501],"type":"Point"}
 }

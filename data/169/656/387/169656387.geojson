@@ -2,13 +2,14 @@
   "id": 169656387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.377415,40.765121,30.377415,40.765121",
     "geom:latitude":40.765121,
     "geom:longitude":30.377415,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"E-5 Karayolu ?zeri No:169 Ernler",
     "sg:city":"Erenler",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169656387,
-    "wof:lastmodified":1449034838,
+    "wof:lastmodified":1466313389,
     "wof:name":"Sarica ?elik Kapi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "door"
     ]
 },
-  "bbox": [30.377415,40.765121,30.377415,40.765121],
+  "bbox": [
+    30.377415,
+    40.765121,
+    30.377415,
+    40.765121
+],
   "geometry": {"coordinates":[30.377415,40.765121],"type":"Point"}
 }

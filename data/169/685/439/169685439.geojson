@@ -2,13 +2,14 @@
   "id": 169685439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.109339,40.953201,29.109339,40.953201",
     "geom:latitude":40.953201,
     "geom:longitude":29.109339,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Altintepe Mah.galipbey Cad.akasya Sok. No: 49/1",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169685439,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1466313454,
     "wof:name":"Arsalanoglu Tekstil",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [29.109339,40.953201,29.109339,40.953201],
+  "bbox": [
+    29.109339,
+    40.953201,
+    29.109339,
+    40.953201
+],
   "geometry": {"coordinates":[29.109339,40.953201],"type":"Point"}
 }

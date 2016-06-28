@@ -2,13 +2,14 @@
   "id": 169668455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.524437,39.772739,30.524437,39.772739",
     "geom:latitude":39.772739,
     "geom:longitude":30.524437,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yunusemre Cd. No:98",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169668455,
-    "wof:lastmodified":1449034990,
+    "wof:lastmodified":1466313399,
     "wof:name":"?esan ?elik Ahsap M?ble San. Tic. Ltd. Sti.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "utensil"
     ]
 },
-  "bbox": [30.524437,39.772739,30.524437,39.772739],
+  "bbox": [
+    30.524437,
+    39.772739,
+    30.524437,
+    39.772739
+],
   "geometry": {"coordinates":[30.524437,39.772739],"type":"Point"}
 }

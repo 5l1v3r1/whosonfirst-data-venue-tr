@@ -2,13 +2,14 @@
   "id": 169574045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.127392,40.922367,29.127392,40.922367",
     "geom:latitude":40.922367,
     "geom:longitude":29.127392,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rihtim Cd.",
     "sg:city":"Karak\u00f6y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169574045,
-    "wof:lastmodified":1449032667,
+    "wof:lastmodified":1466313277,
     "wof:name":"Turkiye Den.islm.a.s.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.127392,40.922367,29.127392,40.922367],
+  "bbox": [
+    29.127392,
+    40.922367,
+    29.127392,
+    40.922367
+],
   "geometry": {"coordinates":[29.127392,40.922367],"type":"Point"}
 }

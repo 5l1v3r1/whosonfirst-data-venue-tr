@@ -2,13 +2,14 @@
   "id": 169637005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.855206,39.899792,32.855206,39.899792",
     "geom:latitude":39.899792,
     "geom:longitude":32.855206,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Guvenlik Cad.esenlik Sok. No:13/a A.ayranci",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169637005,
-    "wof:lastmodified":1449032690,
+    "wof:lastmodified":1466313447,
     "wof:name":"Boyut Kirtasiye Bilgi.insaat.turz.ic Ve Dis.tic. Ltd. Sti.",
     "wof:parent_id":85929503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.855206,39.899792,32.855206,39.899792],
+  "bbox": [
+    32.855206,
+    39.899792,
+    32.855206,
+    39.899792
+],
   "geometry": {"coordinates":[32.855206,39.899792],"type":"Point"}
 }

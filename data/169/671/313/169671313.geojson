@@ -2,13 +2,14 @@
   "id": 169671313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.50415,37.896709,32.50415,37.896709",
     "geom:latitude":37.896709,
     "geom:longitude":32.50415,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Musalla Baglari Gulyurdu Sk. No.10",
     "sg:city":"Cankaya",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169671313,
-    "wof:lastmodified":1449033450,
+    "wof:lastmodified":1466313400,
     "wof:name":"Kevser Sekerleme Gida San.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sugar"
     ]
 },
-  "bbox": [32.50415,37.896709,32.50415,37.896709],
+  "bbox": [
+    32.50415,
+    37.896709,
+    32.50415,
+    37.896709
+],
   "geometry": {"coordinates":[32.50415,37.896709],"type":"Point"}
 }

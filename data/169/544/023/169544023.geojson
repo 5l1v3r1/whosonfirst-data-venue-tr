@@ -2,13 +2,14 @@
   "id": 169544023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.522335,39.821259,33.522335,39.821259",
     "geom:latitude":39.821259,
     "geom:longitude":33.522335,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"S??l?cesme Cad.no.11",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169544023,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466313207,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [33.522335,39.821259,33.522335,39.821259],
+  "bbox": [
+    33.522335,
+    39.821259,
+    33.522335,
+    39.821259
+],
   "geometry": {"coordinates":[33.522335,39.821259],"type":"Point"}
 }

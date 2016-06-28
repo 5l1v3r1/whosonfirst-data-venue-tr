@@ -2,13 +2,14 @@
   "id": 169659841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.887043,41.078102,28.887043,41.078102",
     "geom:latitude":41.078102,
     "geom:longitude":28.887043,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"G??suyu Cd. Fatih Sehit. Sk. No:29/2",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169659841,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466313399,
     "wof:name":"B?rodekor ?elik Esya San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "utensil"
     ]
 },
-  "bbox": [28.887043,41.078102,28.887043,41.078102],
+  "bbox": [
+    28.887043,
+    41.078102,
+    28.887043,
+    41.078102
+],
   "geometry": {"coordinates":[28.887043,41.078102],"type":"Point"}
 }

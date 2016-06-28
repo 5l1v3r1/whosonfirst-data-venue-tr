@@ -2,13 +2,14 @@
   "id": 169564477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.10787,38.460598,27.10787,38.460598",
     "geom:latitude":38.460598,
     "geom:longitude":27.10787,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Girne Bulvari No.102/b Karsiyaka",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169564477,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1466313263,
     "wof:name":"2 Bilisim Ve Guvenlik Sistemleri",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [27.10787,38.460598,27.10787,38.460598],
+  "bbox": [
+    27.10787,
+    38.460598,
+    27.10787,
+    38.460598
+],
   "geometry": {"coordinates":[27.10787,38.460598],"type":"Point"}
 }

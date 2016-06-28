@@ -2,13 +2,14 @@
   "id": 169538021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.8927,35.718201,35.8927,35.718201",
     "geom:latitude":35.718201,
     "geom:longitude":35.8927,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??caddesi 1",
     "sg:city":"Ayvalik",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169538021,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466313428,
     "wof:name":"Milli Aydin, Bankasi Tas - Tarisbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.8927,35.718201,35.8927,35.718201],
+  "bbox": [
+    35.8927,
+    35.718201,
+    35.8927,
+    35.718201
+],
   "geometry": {"coordinates":[35.8927,35.718201],"type":"Point"}
 }

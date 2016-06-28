@@ -2,13 +2,14 @@
   "id": 169539005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.006016,39.728168,37.006016,39.728168",
     "geom:latitude":39.728168,
     "geom:longitude":37.006016,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Keresteciler Sitesi, Fatih",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169539005,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466313431,
     "wof:name":"Pamukbank Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.006016,39.728168,37.006016,39.728168],
+  "bbox": [
+    37.006016,
+    39.728168,
+    37.006016,
+    39.728168
+],
   "geometry": {"coordinates":[37.006016,39.728168],"type":"Point"}
 }

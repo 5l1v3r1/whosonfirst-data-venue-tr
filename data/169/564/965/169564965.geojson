@@ -2,13 +2,14 @@
   "id": 169564965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.986195,41.035854,28.986195,41.035854",
     "geom:latitude":41.035854,
     "geom:longitude":28.986195,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Muhtar Kamil Sok. 5/3 Taksim",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -58,16 +59,22 @@
         }
     ],
     "wof:id":169564965,
-    "wof:lastmodified":1449035765,
+    "wof:lastmodified":1466313273,
     "wof:name":"Alsis Elektronik Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.986195,41.035854,28.986195,41.035854],
+  "bbox": [
+    28.986195,
+    41.035854,
+    28.986195,
+    41.035854
+],
   "geometry": {"coordinates":[28.986195,41.035854],"type":"Point"}
 }

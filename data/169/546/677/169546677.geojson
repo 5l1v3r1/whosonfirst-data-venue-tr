@@ -2,13 +2,14 @@
   "id": 169546677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.40427,40.779053,30.40427,40.779053",
     "geom:latitude":40.779053,
     "geom:longitude":30.40427,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara Cad 35",
     "sg:city":"Adapazari",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169546677,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466313232,
     "wof:name":"T?kiye Vakiflar, Bankasi Tao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.40427,40.779053,30.40427,40.779053],
+  "bbox": [
+    30.40427,
+    40.779053,
+    30.40427,
+    40.779053
+],
   "geometry": {"coordinates":[30.40427,40.779053],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987904,41.058693,28.987904,41.058693",
     "geom:latitude":41.058693,
     "geom:longitude":28.987904,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Izzetpasa Mah. Yeni Yol Sok. Ikizdere Is Hani No:4 Kat:5 D:5 Sisli",
     "sg:city":"Bakirk?y",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169569271,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313278,
     "wof:name":"Omega Guvenlik Sistemleri",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.987904,41.058693,28.987904,41.058693],
+  "bbox": [
+    28.987904,
+    41.058693,
+    28.987904,
+    41.058693
+],
   "geometry": {"coordinates":[28.987904,41.058693],"type":"Point"}
 }

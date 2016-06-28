@@ -2,13 +2,14 @@
   "id": 169647679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.982054,41.035202,28.982054,41.035202",
     "geom:latitude":41.035202,
     "geom:longitude":28.982054,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??parmakkapi Sok.no:3 Beyoglu",
     "sg:city":"Kizilay",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169647679,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466313387,
     "wof:name":"Pandora Bookstore",
     "wof:parent_id":85906573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.982054,41.035202,28.982054,41.035202],
+  "bbox": [
+    28.982054,
+    41.035202,
+    28.982054,
+    41.035202
+],
   "geometry": {"coordinates":[28.982054,41.035202],"type":"Point"}
 }

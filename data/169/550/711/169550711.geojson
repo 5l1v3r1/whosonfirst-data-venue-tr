@@ -2,13 +2,14 @@
   "id": 169550711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.909054,41.039951,28.909054,41.039951",
     "geom:latitude":41.039951,
     "geom:longitude":28.909054,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??cd. Vardar Apt. No:14 K:2 D:35 Maltepe",
     "sg:city":"Nisantasi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169550711,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466313245,
     "wof:name":"La Belle Vie G?zellik Merk.",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.909054,41.039951,28.909054,41.039951],
+  "bbox": [
+    28.909054,
+    41.039951,
+    28.909054,
+    41.039951
+],
   "geometry": {"coordinates":[28.909054,41.039951],"type":"Point"}
 }

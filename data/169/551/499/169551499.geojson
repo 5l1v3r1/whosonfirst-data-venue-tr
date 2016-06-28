@@ -2,13 +2,14 @@
   "id": 169551499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.487701,38.735733,35.487701,38.735733",
     "geom:latitude":38.735733,
     "geom:longitude":35.487701,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"O.s.b.22.cd.no:12",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169551499,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313230,
     "wof:name":"Mondi Yat-yor. Kanepe San.tic.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bed"
     ]
 },
-  "bbox": [35.487701,38.735733,35.487701,38.735733],
+  "bbox": [
+    35.487701,
+    38.735733,
+    35.487701,
+    38.735733
+],
   "geometry": {"coordinates":[35.487701,38.735733],"type":"Point"}
 }

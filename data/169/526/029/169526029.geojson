@@ -2,13 +2,14 @@
   "id": 169526029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
     "geom:latitude":37.062946,
     "geom:longitude":37.376102,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Fuat Cebesoy Bul. Atilim Is Mrk. K:5/25",
     "sg:city":"27090",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169526029,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466313184,
     "wof:name":"Acem Internationaltextile",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "bbox": [
+    37.376102,
+    37.062946,
+    37.376102,
+    37.062946
+],
   "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
 }

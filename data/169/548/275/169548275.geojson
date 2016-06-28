@@ -2,13 +2,14 @@
   "id": 169548275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.387913,37.059399,37.387913,37.059399",
     "geom:latitude":37.059399,
     "geom:longitude":37.387913,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismetpasa Mah. Inonu Cad. No:198/aa Sahinbey",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548275,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466313218,
     "wof:name":"Gecit Akaryakit Oto. Bil San.tic. Ltd.sti.",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [37.387913,37.059399,37.387913,37.059399],
+  "bbox": [
+    37.387913,
+    37.059399,
+    37.387913,
+    37.059399
+],
   "geometry": {"coordinates":[37.387913,37.059399],"type":"Point"}
 }

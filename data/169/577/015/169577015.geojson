@@ -2,13 +2,14 @@
   "id": 169577015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.337841,41.289719,36.337841,41.289719",
     "geom:latitude":41.289719,
     "geom:longitude":36.337841,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bankalar Cad. Kurdoglu Is Hani D: 18",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577015,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466313445,
     "wof:name":"Kalkavan Denizcilik Tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [36.337841,41.289719,36.337841,41.289719],
+  "bbox": [
+    36.337841,
+    41.289719,
+    36.337841,
+    41.289719
+],
   "geometry": {"coordinates":[36.337841,41.289719],"type":"Point"}
 }

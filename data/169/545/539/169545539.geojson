@@ -2,13 +2,14 @@
   "id": 169545539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.399578,40.774288,30.399578,40.774288",
     "geom:latitude":40.774288,
     "geom:longitude":30.399578,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Milli Egemenlik Cad 11",
     "sg:city":"Afyon",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169545539,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466313225,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.399578,40.774288,30.399578,40.774288],
+  "bbox": [
+    30.399578,
+    40.774288,
+    30.399578,
+    40.774288
+],
   "geometry": {"coordinates":[30.399578,40.774288],"type":"Point"}
 }

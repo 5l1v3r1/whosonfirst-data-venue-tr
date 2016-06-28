@@ -2,13 +2,14 @@
   "id": 169586621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.313236,38.345364,38.313236,38.345364",
     "geom:latitude":38.345364,
     "geom:longitude":38.313236,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zafer Mah Milli Egemenlik Cad. No:134/b",
     "sg:city":"Beypazari",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169586621,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466313334,
     "wof:name":"Bey Isi G?nes Enerji Sistemleri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [38.313236,38.345364,38.313236,38.345364],
+  "bbox": [
+    38.313236,
+    38.345364,
+    38.313236,
+    38.345364
+],
   "geometry": {"coordinates":[38.313236,38.345364],"type":"Point"}
 }

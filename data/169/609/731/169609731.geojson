@@ -2,13 +2,14 @@
   "id": 169609731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.906319,38.629444,34.906319,38.629444",
     "geom:latitude":38.629444,
     "geom:longitude":34.906319,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad. No:38",
     "sg:city":"?rg?",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169609731,
-    "wof:lastmodified":1449033922,
+    "wof:lastmodified":1466313356,
     "wof:name":"Asia Monor Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spring"
     ]
 },
-  "bbox": [34.906319,38.629444,34.906319,38.629444],
+  "bbox": [
+    34.906319,
+    38.629444,
+    34.906319,
+    38.629444
+],
   "geometry": {"coordinates":[34.906319,38.629444],"type":"Point"}
 }

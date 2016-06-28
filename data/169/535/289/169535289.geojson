@@ -2,13 +2,14 @@
   "id": 169535289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.055494,40.973808,29.055494,40.973808",
     "geom:latitude":40.973808,
     "geom:longitude":29.055494,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Caddesi 231/3",
     "sg:city":"Ciftehavuzlar",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169535289,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466313419,
     "wof:name":"Finansbank As",
     "wof:parent_id":85929463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.055494,40.973808,29.055494,40.973808],
+  "bbox": [
+    29.055494,
+    40.973808,
+    29.055494,
+    40.973808
+],
   "geometry": {"coordinates":[29.055494,40.973808],"type":"Point"}
 }

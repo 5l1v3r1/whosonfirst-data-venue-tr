@@ -2,13 +2,14 @@
   "id": 169576385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.036753,41.040199,29.036753,41.040199",
     "geom:latitude":41.040199,
     "geom:longitude":29.036753,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eski Yildiz Yolu Deniz Han No20/3",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169576385,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466313295,
     "wof:name":"Gemko Denizcilik A.s.",
     "wof:parent_id":85929419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.036753,41.040199,29.036753,41.040199],
+  "bbox": [
+    29.036753,
+    41.040199,
+    29.036753,
+    41.040199
+],
   "geometry": {"coordinates":[29.036753,41.040199],"type":"Point"}
 }

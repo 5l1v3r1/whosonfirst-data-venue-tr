@@ -2,13 +2,14 @@
   "id": 169546993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.170338,36.587067,36.170338,36.587067",
     "geom:latitude":36.587067,
     "geom:longitude":36.170338,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sehit Pamir Cad",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169546993,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466313246,
     "wof:name":"T?kiye Vakiflar, Bankasi Tao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.170338,36.587067,36.170338,36.587067],
+  "bbox": [
+    36.170338,
+    36.587067,
+    36.170338,
+    36.587067
+],
   "geometry": {"coordinates":[36.170338,36.587067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.89452,41.031387,28.89452,41.031387",
     "geom:latitude":41.031387,
     "geom:longitude":28.89452,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Menderes Mah. 39. Sk. No:9 Esenler-",
     "sg:city":"D?tyol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169599531,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466313351,
     "wof:name":"Modex Jeans San. Tic.",
     "wof:parent_id":85929891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.89452,41.031387,28.89452,41.031387],
+  "bbox": [
+    28.89452,
+    41.031387,
+    28.89452,
+    41.031387
+],
   "geometry": {"coordinates":[28.89452,41.031387],"type":"Point"}
 }

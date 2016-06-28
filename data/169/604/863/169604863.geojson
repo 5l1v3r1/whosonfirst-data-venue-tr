@@ -2,13 +2,14 @@
   "id": 169604863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.913034,41.028908,28.913034,41.028908",
     "geom:latitude":41.028908,
     "geom:longitude":28.913034,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Maltepe Fatih Sehityeri Sk. No:3 Topkapi",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169604863,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466313358,
     "wof:name":"Erak Giyim San. Tic. Ltd. Sti.",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [28.913034,41.028908,28.913034,41.028908],
+  "bbox": [
+    28.913034,
+    41.028908,
+    28.913034,
+    41.028908
+],
   "geometry": {"coordinates":[28.913034,41.028908],"type":"Point"}
 }

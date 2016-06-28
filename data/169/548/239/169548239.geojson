@@ -2,13 +2,14 @@
   "id": 169548239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.265198,41.116718,37.265198,41.116718",
     "geom:latitude":41.116718,
     "geom:longitude":37.265198,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Niksar Cad.no:60/a Unye",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169548239,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1466313217,
     "wof:name":"Europe Batteries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "batery"
     ]
 },
-  "bbox": [37.265198,41.116718,37.265198,41.116718],
+  "bbox": [
+    37.265198,
+    41.116718,
+    37.265198,
+    41.116718
+],
   "geometry": {"coordinates":[37.265198,41.116718],"type":"Point"}
 }

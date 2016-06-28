@@ -2,13 +2,14 @@
   "id": 169573355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.750156,41.075329,28.750156,41.075329",
     "geom:latitude":41.075329,
     "geom:longitude":28.750156,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cd.no.9",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169573355,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466313293,
     "wof:name":"Karsan Karadeniz A.s. .",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.750156,41.075329,28.750156,41.075329],
+  "bbox": [
+    28.750156,
+    41.075329,
+    28.750156,
+    41.075329
+],
   "geometry": {"coordinates":[28.750156,41.075329],"type":"Point"}
 }

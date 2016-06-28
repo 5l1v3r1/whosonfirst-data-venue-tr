@@ -2,13 +2,14 @@
   "id": 169547321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.887157,39.921623,32.887157,39.921623",
     "geom:latitude":39.921623,
     "geom:longitude":32.887157,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Anafartaler Cad 47",
     "sg:city":"Antalya",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169547321,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466313220,
     "wof:name":"Yapi Ve Kredi, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.887157,39.921623,32.887157,39.921623],
+  "bbox": [
+    32.887157,
+    39.921623,
+    32.887157,
+    39.921623
+],
   "geometry": {"coordinates":[32.887157,39.921623],"type":"Point"}
 }

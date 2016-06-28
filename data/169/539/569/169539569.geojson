@@ -2,13 +2,14 @@
   "id": 169539569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.331436,36.986195,35.331436,36.986195",
     "geom:latitude":36.986195,
     "geom:longitude":35.331436,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abidinpasa Cad 33",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169539569,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466313433,
     "wof:name":"S?erbank As",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.331436,36.986195,35.331436,36.986195],
+  "bbox": [
+    35.331436,
+    36.986195,
+    35.331436,
+    36.986195
+],
   "geometry": {"coordinates":[35.331436,36.986195],"type":"Point"}
 }

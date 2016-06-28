@@ -2,13 +2,14 @@
   "id": 169679627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.749115,39.980999,32.749115,39.980999",
     "geom:latitude":39.980999,
     "geom:longitude":32.749115,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"57. Sk. No:105 Ostim",
     "sg:city":"Mecidiyekoy",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169679627,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466313403,
     "wof:name":"?zt?rk Cam Oto Ayna San. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glassware"
     ]
 },
-  "bbox": [32.749115,39.980999,32.749115,39.980999],
+  "bbox": [
+    32.749115,
+    39.980999,
+    32.749115,
+    39.980999
+],
   "geometry": {"coordinates":[32.749115,39.980999],"type":"Point"}
 }

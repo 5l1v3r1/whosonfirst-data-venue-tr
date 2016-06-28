@@ -2,13 +2,14 @@
   "id": 169676107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.989977,41.033096,28.989977,41.033096",
     "geom:latitude":41.033096,
     "geom:longitude":28.989977,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Birlik San. Sit. 1. Cd. No:44 B.?ekmece",
     "sg:city":"Kabatas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169676107,
-    "wof:lastmodified":1449034804,
+    "wof:lastmodified":1466313401,
     "wof:name":"Boral Makina San. Tic. Ltd. Sti.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "industry"
     ]
 },
-  "bbox": [28.989977,41.033096,28.989977,41.033096],
+  "bbox": [
+    28.989977,
+    41.033096,
+    28.989977,
+    41.033096
+],
   "geometry": {"coordinates":[28.989977,41.033096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.166471,40.913818,29.166471,40.913818",
     "geom:latitude":40.913818,
     "geom:longitude":29.166471,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ataturk Cad. No:2 Biga",
     "sg:city":"Levent - Besiktas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169643903,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466313382,
     "wof:name":"Kilkis Yayin Pazarlama Tic.ltd.sti.",
     "wof:parent_id":85929905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.166471,40.913818,29.166471,40.913818],
+  "bbox": [
+    29.166471,
+    40.913818,
+    29.166471,
+    40.913818
+],
   "geometry": {"coordinates":[29.166471,40.913818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169567817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.075804,41.041897,29.075804,41.041897",
     "geom:latitude":41.041897,
     "geom:longitude":29.075804,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Turan Gunes Bulvari 50. Sk. 2/19 Yildiz Cankaya",
     "sg:city":"Bah\u00e7elievler",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169567817,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466313277,
     "wof:name":"Era Telecommunications & Security Inc.",
     "wof:parent_id":85929805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.075804,41.041897,29.075804,41.041897],
+  "bbox": [
+    29.075804,
+    41.041897,
+    29.075804,
+    41.041897
+],
   "geometry": {"coordinates":[29.075804,41.041897],"type":"Point"}
 }

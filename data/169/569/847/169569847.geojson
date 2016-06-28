@@ -2,13 +2,14 @@
   "id": 169569847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.995623,41.065502,28.995623,41.065502",
     "geom:latitude":41.065502,
     "geom:longitude":28.995623,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortaklar Cad.?e Apt.no:22 D:1",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569847,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313306,
     "wof:name":"Set Elektronik G?enlik Sistemleri Ltd.sti.",
     "wof:parent_id":85929365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.995623,41.065502,28.995623,41.065502],
+  "bbox": [
+    28.995623,
+    41.065502,
+    28.995623,
+    41.065502
+],
   "geometry": {"coordinates":[28.995623,41.065502],"type":"Point"}
 }

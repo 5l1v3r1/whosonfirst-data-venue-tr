@@ -2,13 +2,14 @@
   "id": 169557283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.301125,40.849102,29.301125,40.849102",
     "geom:latitude":40.849102,
     "geom:longitude":29.301125,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Icmeler Mah.aydinli Yolu Karanfil Sok. No.4 Tuzla",
     "sg:city":"Besy?evler",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169557283,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466313256,
     "wof:name":"Pimak Plastik Insaat Mak.san.ve Gida Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.301125,40.849102,29.301125,40.849102],
+  "bbox": [
+    29.301125,
+    40.849102,
+    29.301125,
+    40.849102
+],
   "geometry": {"coordinates":[29.301125,40.849102],"type":"Point"}
 }

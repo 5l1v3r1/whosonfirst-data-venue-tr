@@ -2,13 +2,14 @@
   "id": 169532693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.242086,40.876415,29.242086,40.876415",
     "geom:latitude":40.876415,
     "geom:longitude":29.242086,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara Cad 215",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169532693,
-    "wof:lastmodified":1449033793,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":85930121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.242086,40.876415,29.242086,40.876415],
+  "bbox": [
+    29.242086,
+    40.876415,
+    29.242086,
+    40.876415
+],
   "geometry": {"coordinates":[29.242086,40.876415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169686683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.98107,41.075401,28.98107,41.075401",
     "geom:latitude":41.075401,
     "geom:longitude":28.98107,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vatan Cd. No:55 ?aglayan",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686683,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313457,
     "wof:name":"G?roglu Mefrusat San. Tic. Ltd. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.98107,41.075401,28.98107,41.075401],
+  "bbox": [
+    28.98107,
+    41.075401,
+    28.98107,
+    41.075401
+],
   "geometry": {"coordinates":[28.98107,41.075401],"type":"Point"}
 }

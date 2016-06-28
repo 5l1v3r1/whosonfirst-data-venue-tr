@@ -2,13 +2,14 @@
   "id": 169593141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.212683,38.438992,27.212683,38.438992",
     "geom:latitude":38.438992,
     "geom:longitude":27.212683,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"153.sok.no.3/d Isikkent-bornova",
     "sg:city":"Sariyer",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169593141,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466313338,
     "wof:name":"Rubin Temizlik Ve Kimyevi Mad.san.tic.ltd.sti.",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "spice"
     ]
 },
-  "bbox": [27.212683,38.438992,27.212683,38.438992],
+  "bbox": [
+    27.212683,
+    38.438992,
+    27.212683,
+    38.438992
+],
   "geometry": {"coordinates":[27.212683,38.438992],"type":"Point"}
 }

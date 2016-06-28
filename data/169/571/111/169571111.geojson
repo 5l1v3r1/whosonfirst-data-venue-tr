@@ -2,13 +2,14 @@
   "id": 169571111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.7925,41.451401,31.7925,41.451401",
     "geom:latitude":41.451401,
     "geom:longitude":31.7925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ugur Mumcu Cad Meftun Is Merkezi Kat4/406",
     "sg:city":"Kdz Eregli",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169571111,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466313274,
     "wof:name":"Vesile Metal San A.s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "iron"
     ]
 },
-  "bbox": [31.7925,41.451401,31.7925,41.451401],
+  "bbox": [
+    31.7925,
+    41.451401,
+    31.7925,
+    41.451401
+],
   "geometry": {"coordinates":[31.7925,41.451401],"type":"Point"}
 }

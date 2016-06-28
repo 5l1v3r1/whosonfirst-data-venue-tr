@@ -2,13 +2,14 @@
   "id": 169686541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.929493,41.004215,28.929493,41.004215",
     "geom:latitude":41.004215,
     "geom:longitude":28.929493,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"K. Mustafapasa Cd. Sebzeci Sk. No:5/1 Kocamustafapasa",
     "sg:city":"Caglayan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686541,
-    "wof:lastmodified":1449035153,
+    "wof:lastmodified":1466313415,
     "wof:name":"Deniz Mefrusat San. Tic. Ltd. Sti.",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.929493,41.004215,28.929493,41.004215],
+  "bbox": [
+    28.929493,
+    41.004215,
+    28.929493,
+    41.004215
+],
   "geometry": {"coordinates":[28.929493,41.004215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.989296,41.032139,28.989296,41.032139",
     "geom:latitude":41.032139,
     "geom:longitude":28.989296,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Meclis-i Mebusan 145/6, Findikli, 80040 Istanbul",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169540747,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466313436,
     "wof:name":"Teb Sigorta As",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.989296,41.032139,28.989296,41.032139],
+  "bbox": [
+    28.989296,
+    41.032139,
+    28.989296,
+    41.032139
+],
   "geometry": {"coordinates":[28.989296,41.032139],"type":"Point"}
 }

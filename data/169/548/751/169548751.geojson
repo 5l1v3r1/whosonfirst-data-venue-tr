@@ -2,13 +2,14 @@
   "id": 169548751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.217308,40.912392,29.217308,40.912392",
     "geom:latitude":40.912392,
     "geom:longitude":29.217308,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Mah. Kartal Cd. No:59/yakacik",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169548751,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1466313236,
     "wof:name":"Atak Yapi ?r?leri Pazarlama San. Ve Tic. Ltd. Sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accessory"
     ]
 },
-  "bbox": [29.217308,40.912392,29.217308,40.912392],
+  "bbox": [
+    29.217308,
+    40.912392,
+    29.217308,
+    40.912392
+],
   "geometry": {"coordinates":[29.217308,40.912392],"type":"Point"}
 }

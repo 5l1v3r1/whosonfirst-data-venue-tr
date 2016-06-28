@@ -2,13 +2,14 @@
   "id": 169576697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.978338,41.024685,28.978338,41.024685",
     "geom:latitude":41.024685,
     "geom:longitude":28.978338,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Necatibey Cad. Bas Cerrah Sk. No:6/41",
     "sg:city":"Karak\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169576697,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466313313,
     "wof:name":"Hedef Denizcilik Tic.ltd.sti.",
     "wof:parent_id":85906583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [28.978338,41.024685,28.978338,41.024685],
+  "bbox": [
+    28.978338,
+    41.024685,
+    28.978338,
+    41.024685
+],
   "geometry": {"coordinates":[28.978338,41.024685],"type":"Point"}
 }

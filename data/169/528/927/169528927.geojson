@@ -2,13 +2,14 @@
   "id": 169528927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.472603,38.758537,35.472603,38.758537",
     "geom:latitude":38.758537,
     "geom:longitude":35.472603,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mustafa Kemal Pasa Bulv.nato Cad.no:45",
     "sg:city":"38010",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169528927,
-    "wof:lastmodified":1449033571,
+    "wof:lastmodified":1466313192,
     "wof:name":"G?nes ?anta Sanayi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [35.472603,38.758537,35.472603,38.758537],
+  "bbox": [
+    35.472603,
+    38.758537,
+    35.472603,
+    38.758537
+],
   "geometry": {"coordinates":[35.472603,38.758537],"type":"Point"}
 }

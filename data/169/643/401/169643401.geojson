@@ -2,13 +2,14 @@
   "id": 169643401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.296953,40.852352,29.296953,40.852352",
     "geom:latitude":40.852352,
     "geom:longitude":29.296953,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aydintepe Mh. Vural Sk. No:26 Tuzla",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169643401,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466313376,
     "wof:name":"Kahraman Kirtasiye San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.296953,40.852352,29.296953,40.852352],
+  "bbox": [
+    29.296953,
+    40.852352,
+    29.296953,
+    40.852352
+],
   "geometry": {"coordinates":[29.296953,40.852352],"type":"Point"}
 }

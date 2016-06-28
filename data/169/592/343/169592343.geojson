@@ -2,13 +2,14 @@
   "id": 169592343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.168934,36.197437,36.168934,36.197437",
     "geom:latitude":36.197437,
     "geom:longitude":36.168934,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Sok. No: 1/b Hatay",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169592343,
-    "wof:lastmodified":1449034584,
+    "wof:lastmodified":1466313339,
     "wof:name":"Kartal Baharat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "spice"
     ]
 },
-  "bbox": [36.168934,36.197437,36.168934,36.197437],
+  "bbox": [
+    36.168934,
+    36.197437,
+    36.168934,
+    36.197437
+],
   "geometry": {"coordinates":[36.168934,36.197437],"type":"Point"}
 }

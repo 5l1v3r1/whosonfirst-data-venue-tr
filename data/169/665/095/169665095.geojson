@@ -2,13 +2,14 @@
   "id": 169665095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
     "geom:latitude":39.943874,
     "geom:longitude":32.856033,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istanbul Yolu 36. Km.kazan",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169665095,
-    "wof:lastmodified":1449033696,
+    "wof:lastmodified":1466313392,
     "wof:name":"Nurol Celik Imalat Montaj San.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "utensil"
     ]
 },
-  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "bbox": [
+    32.856033,
+    39.943874,
+    32.856033,
+    39.943874
+],
   "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
 }

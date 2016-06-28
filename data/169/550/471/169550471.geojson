@@ -2,13 +2,14 @@
   "id": 169550471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.986069,41.032108,28.986069,41.032108",
     "geom:latitude":41.032108,
     "geom:longitude":28.986069,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kazanci Yokusu No:48 Cihangir",
     "sg:city":"Ikitelli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550471,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466313232,
     "wof:name":"Cengiz Kuaf?r Kaynak Salonu",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.986069,41.032108,28.986069,41.032108],
+  "bbox": [
+    28.986069,
+    41.032108,
+    28.986069,
+    41.032108
+],
   "geometry": {"coordinates":[28.986069,41.032108],"type":"Point"}
 }

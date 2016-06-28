@@ -2,13 +2,14 @@
   "id": 169542175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.490765,38.893833,40.490765,38.893833",
     "geom:latitude":38.893833,
     "geom:longitude":40.490765,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vali Konagi Cad 7",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169542175,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1466313439,
     "wof:name":"Turkish Bank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [40.490765,38.893833,40.490765,38.893833],
+  "bbox": [
+    40.490765,
+    38.893833,
+    40.490765,
+    38.893833
+],
   "geometry": {"coordinates":[40.490765,38.893833],"type":"Point"}
 }

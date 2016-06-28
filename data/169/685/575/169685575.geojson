@@ -2,13 +2,14 @@
   "id": 169685575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.900732,41.066338,28.900732,41.066338",
     "geom:latitude":41.066338,
     "geom:longitude":28.900732,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hurriyet Mah. Akdeniz Cad. No. 75/a",
     "sg:city":"K??koy",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169685575,
-    "wof:lastmodified":1449035883,
+    "wof:lastmodified":1466313456,
     "wof:name":"Bellezza Tekstil Insaat Dayanikli Tuketim Mal. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.900732,41.066338,28.900732,41.066338],
+  "bbox": [
+    28.900732,
+    41.066338,
+    28.900732,
+    41.066338
+],
   "geometry": {"coordinates":[28.900732,41.066338],"type":"Point"}
 }

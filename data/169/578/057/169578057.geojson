@@ -2,13 +2,14 @@
   "id": 169578057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.349812,36.401848,36.349812,36.401848",
     "geom:latitude":36.401848,
     "geom:longitude":36.349812,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cay Mah.sahil Cad. No: 16 Ocal Apt.d:1",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169578057,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466313284,
     "wof:name":"Onur Shipping & Trading Agency Co.ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [36.349812,36.401848,36.349812,36.401848],
+  "bbox": [
+    36.349812,
+    36.401848,
+    36.349812,
+    36.401848
+],
   "geometry": {"coordinates":[36.349812,36.401848],"type":"Point"}
 }

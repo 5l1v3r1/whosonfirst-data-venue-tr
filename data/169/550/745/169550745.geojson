@@ -2,13 +2,14 @@
   "id": 169550745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.996576,41.051407,28.996576,41.051407",
     "geom:latitude":41.051407,
     "geom:longitude":28.996576,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumeli Cad. No:18/3 Nisantasi",
     "sg:city":"Sisli",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550745,
-    "wof:lastmodified":1449034478,
+    "wof:lastmodified":1466313247,
     "wof:name":"Leyla Inanir Spa.ltd.sti.",
     "wof:parent_id":85929397,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.996576,41.051407,28.996576,41.051407],
+  "bbox": [
+    28.996576,
+    41.051407,
+    28.996576,
+    41.051407
+],
   "geometry": {"coordinates":[28.996576,41.051407],"type":"Point"}
 }

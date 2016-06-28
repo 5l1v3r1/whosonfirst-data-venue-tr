@@ -2,13 +2,14 @@
   "id": 169569001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.104675,40.966396,29.104675,40.966396",
     "geom:latitude":40.966396,
     "geom:longitude":29.104675,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Nihat Tarlan Cad. Kartal Sok. No.13 K:4 Icerenkoy",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569001,
-    "wof:lastmodified":1449035828,
+    "wof:lastmodified":1466313444,
     "wof:name":"Mettek Teknolojik Sistemler Ic Ve Dis Tic.a.s.",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.104675,40.966396,29.104675,40.966396],
+  "bbox": [
+    29.104675,
+    40.966396,
+    29.104675,
+    40.966396
+],
   "geometry": {"coordinates":[29.104675,40.966396],"type":"Point"}
 }

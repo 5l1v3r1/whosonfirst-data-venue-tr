@@ -2,13 +2,14 @@
   "id": 169534843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.221813,38.679878,39.221813,38.679878",
     "geom:latitude":38.679878,
     "geom:longitude":39.221813,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tahir ?n Cad 57",
     "sg:city":"Akhisar",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534843,
-    "wof:lastmodified":1449033547,
+    "wof:lastmodified":1466313417,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [39.221813,38.679878,39.221813,38.679878],
+  "bbox": [
+    39.221813,
+    38.679878,
+    39.221813,
+    38.679878
+],
   "geometry": {"coordinates":[39.221813,38.679878],"type":"Point"}
 }

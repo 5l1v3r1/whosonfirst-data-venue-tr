@@ -2,13 +2,14 @@
   "id": 169565325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.116947,38.4072,27.116947,38.4072",
     "geom:latitude":38.4072,
     "geom:longitude":27.116947,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"280. Sok.no:27/a",
     "sg:city":"Hatay-ucyol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169565325,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466313262,
     "wof:name":"Aslan Elektronik",
     "wof:parent_id":85929647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [27.116947,38.4072,27.116947,38.4072],
+  "bbox": [
+    27.116947,
+    38.4072,
+    27.116947,
+    38.4072
+],
   "geometry": {"coordinates":[27.116947,38.4072],"type":"Point"}
 }

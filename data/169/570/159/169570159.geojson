@@ -2,13 +2,14 @@
   "id": 169570159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.853027,39.923428,32.853027,39.923428",
     "geom:latitude":39.923428,
     "geom:longitude":32.853027,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Menekse 1. Sk. No:5/13 Kizilay",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570159,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466313273,
     "wof:name":"Temag G?venlik Sistem.tic. Ltd. Sti.",
     "wof:parent_id":85929551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.853027,39.923428,32.853027,39.923428],
+  "bbox": [
+    32.853027,
+    39.923428,
+    32.853027,
+    39.923428
+],
   "geometry": {"coordinates":[32.853027,39.923428],"type":"Point"}
 }

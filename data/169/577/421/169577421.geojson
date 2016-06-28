@@ -2,13 +2,14 @@
   "id": 169577421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.293318,40.817265,29.293318,40.817265",
     "geom:latitude":40.817265,
     "geom:longitude":29.293318,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rauf Orbay Cd.yasemin Sk No6",
     "sg:city":"Tuzla",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169577421,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466313296,
     "wof:name":"Mariner Ltd.sti.",
     "wof:parent_id":85930147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.293318,40.817265,29.293318,40.817265],
+  "bbox": [
+    29.293318,
+    40.817265,
+    29.293318,
+    40.817265
+],
   "geometry": {"coordinates":[29.293318,40.817265],"type":"Point"}
 }

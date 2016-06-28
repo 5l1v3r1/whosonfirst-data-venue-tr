@@ -2,13 +2,14 @@
   "id": 169655627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.102942,40.961559,29.102942,40.961559",
     "geom:latitude":40.961559,
     "geom:longitude":29.102942,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Nihat Tarhan Cad.",
     "sg:city":"Bostanci",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169655627,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466313388,
     "wof:name":"Burak ?elik Kapi",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "door"
     ]
 },
-  "bbox": [29.102942,40.961559,29.102942,40.961559],
+  "bbox": [
+    29.102942,
+    40.961559,
+    29.102942,
+    40.961559
+],
   "geometry": {"coordinates":[29.102942,40.961559],"type":"Point"}
 }

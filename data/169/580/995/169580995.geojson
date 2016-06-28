@@ -2,13 +2,14 @@
   "id": 169580995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.97871,41.03532,28.97871,41.03532",
     "geom:latitude":41.03532,
     "geom:longitude":28.97871,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Buyukbayram Sok. No:7 Beyoglu",
     "sg:city":"Isikkent",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169580995,
-    "wof:lastmodified":1449034917,
+    "wof:lastmodified":1466313354,
     "wof:name":"Kar Kundura",
     "wof:parent_id":85906549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.97871,41.03532,28.97871,41.03532],
+  "bbox": [
+    28.97871,
+    41.03532,
+    28.97871,
+    41.03532
+],
   "geometry": {"coordinates":[28.97871,41.03532],"type":"Point"}
 }

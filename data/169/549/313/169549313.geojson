@@ -2,13 +2,14 @@
   "id": 169549313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.984667,41.039875,28.984667,41.039875",
     "geom:latitude":41.039875,
     "geom:longitude":28.984667,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Lamartin Cad. No.21 Taksim",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169549313,
-    "wof:lastmodified":1449033591,
+    "wof:lastmodified":1466313221,
     "wof:name":"Endas A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ball"
     ]
 },
-  "bbox": [28.984667,41.039875,28.984667,41.039875],
+  "bbox": [
+    28.984667,
+    41.039875,
+    28.984667,
+    41.039875
+],
   "geometry": {"coordinates":[28.984667,41.039875],"type":"Point"}
 }

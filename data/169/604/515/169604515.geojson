@@ -2,13 +2,14 @@
   "id": 169604515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.901155,41.05162,28.901155,41.05162",
     "geom:latitude":41.05162,
     "geom:longitude":28.901155,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Terazidere Mh. G?es Cd. Fatih Han No:37/5 Bayrampasa",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169604515,
-    "wof:lastmodified":1449035569,
+    "wof:lastmodified":1466313354,
     "wof:name":"Elit Spor Malz. San. Tic. Ltd. Sti.",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [28.901155,41.05162,28.901155,41.05162],
+  "bbox": [
+    28.901155,
+    41.05162,
+    28.901155,
+    41.05162
+],
   "geometry": {"coordinates":[28.901155,41.05162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169555623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.018856,41.076176,29.018856,41.076176",
     "geom:latitude":41.076176,
     "geom:longitude":29.018856,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"4.levent",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169555623,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466313237,
     "wof:name":"Tunaltas Foreign Trade Company",
     "wof:parent_id":85929391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [29.018856,41.076176,29.018856,41.076176],
+  "bbox": [
+    29.018856,
+    41.076176,
+    29.018856,
+    41.076176
+],
   "geometry": {"coordinates":[29.018856,41.076176],"type":"Point"}
 }

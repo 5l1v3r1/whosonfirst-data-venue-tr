@@ -2,13 +2,14 @@
   "id": 169576937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.130568,40.920261,29.130568,40.920261",
     "geom:latitude":40.920261,
     "geom:longitude":29.130568,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yali Mah.fevzi Cakmak Cad.no:10/ A",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169576937,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466313325,
     "wof:name":"Kafkametler Denizcilik Ve Tic.a.s.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [29.130568,40.920261,29.130568,40.920261],
+  "bbox": [
+    29.130568,
+    40.920261,
+    29.130568,
+    40.920261
+],
   "geometry": {"coordinates":[29.130568,40.920261],"type":"Point"}
 }

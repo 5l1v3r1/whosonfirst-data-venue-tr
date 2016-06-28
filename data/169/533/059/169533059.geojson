@@ -2,13 +2,14 @@
   "id": 169533059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.509541,38.88538,40.509541,38.88538",
     "geom:latitude":38.88538,
     "geom:longitude":40.509541,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Oguzhan Cad 4",
     "sg:city":"Denizli",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169533059,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466313411,
     "wof:name":"Esbank Eskiesehir, Bankasi Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [40.509541,38.88538,40.509541,38.88538],
+  "bbox": [
+    40.509541,
+    38.88538,
+    40.509541,
+    38.88538
+],
   "geometry": {"coordinates":[40.509541,38.88538],"type":"Point"}
 }

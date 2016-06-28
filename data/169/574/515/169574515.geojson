@@ -2,13 +2,14 @@
   "id": 169574515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.128763,41.014278,29.128763,41.014278",
     "geom:latitude":41.014278,
     "geom:longitude":29.128763,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":".barbaros Bul.manolya Apt.20/3",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169574515,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466313301,
     "wof:name":"Ahu Trans Den.ltd.sti",
     "wof:parent_id":85929833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [29.128763,41.014278,29.128763,41.014278],
+  "bbox": [
+    29.128763,
+    41.014278,
+    29.128763,
+    41.014278
+],
   "geometry": {"coordinates":[29.128763,41.014278],"type":"Point"}
 }

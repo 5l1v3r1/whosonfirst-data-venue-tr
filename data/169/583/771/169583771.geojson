@@ -2,13 +2,14 @@
   "id": 169583771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Haci Kadin Bostan Sk. Aydin Okay Ishani No:58/25",
     "sg:city":"K??pazar",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169583771,
-    "wof:lastmodified":1449035267,
+    "wof:lastmodified":1466313333,
     "wof:name":"?zak Vatka",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "padding"
     ]
 },
-  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "bbox": [
+    28.975925,
+    41.012379,
+    28.975925,
+    41.012379
+],
   "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
 }

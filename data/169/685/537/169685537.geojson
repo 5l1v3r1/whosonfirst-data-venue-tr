@@ -2,13 +2,14 @@
   "id": 169685537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.450729,37.884281,32.450729,37.884281",
     "geom:latitude":37.884281,
     "geom:longitude":32.450729,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"M-akif.mah. Ugurlu Sok. No: 29",
     "sg:city":"Ikitelli-k???kmece",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169685537,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466313455,
     "wof:name":"Aycem Textil San.tic.ltd.sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [32.450729,37.884281,32.450729,37.884281],
+  "bbox": [
+    32.450729,
+    37.884281,
+    32.450729,
+    37.884281
+],
   "geometry": {"coordinates":[32.450729,37.884281],"type":"Point"}
 }

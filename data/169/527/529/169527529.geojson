@@ -2,13 +2,14 @@
   "id": 169527529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.038721,41.072758,29.038721,41.072758",
     "geom:latitude":41.072758,
     "geom:longitude":29.038721,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"M??dar Emin Pasa Sk. Dogan Han No:15",
     "sg:city":"Beyazit",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527529,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466313187,
     "wof:name":"Pinokyo Konf. Teks. Ltd. Sti.",
     "wof:parent_id":85929459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.038721,41.072758,29.038721,41.072758],
+  "bbox": [
+    29.038721,
+    41.072758,
+    29.038721,
+    41.072758
+],
   "geometry": {"coordinates":[29.038721,41.072758],"type":"Point"}
 }

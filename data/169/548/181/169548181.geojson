@@ -2,13 +2,14 @@
   "id": 169548181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987904,41.058693,28.987904,41.058693",
     "geom:latitude":41.058693,
     "geom:longitude":28.987904,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abide-i Hurriyet Cad. Palazoglu Sok. Kose Apt. No:26728 Sisli",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169548181,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466313215,
     "wof:name":"Enerji 2000 A.s.",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "batery"
     ]
 },
-  "bbox": [28.987904,41.058693,28.987904,41.058693],
+  "bbox": [
+    28.987904,
+    41.058693,
+    28.987904,
+    41.058693
+],
   "geometry": {"coordinates":[28.987904,41.058693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169529925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.006296,41.089058,29.006296,41.089058",
     "geom:latitude":41.089058,
     "geom:longitude":29.006296,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Buyukdere Cad. No:193 34394 Levent Istanbul",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169529925,
-    "wof:lastmodified":1449034113,
+    "wof:lastmodified":1466313198,
     "wof:name":"Eczacibasi Yapi Gerecleri San Ve Tic As Artema Armatur Grubu",
     "wof:parent_id":85929845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "institution"
     ]
 },
-  "bbox": [29.006296,41.089058,29.006296,41.089058],
+  "bbox": [
+    29.006296,
+    41.089058,
+    29.006296,
+    41.089058
+],
   "geometry": {"coordinates":[29.006296,41.089058],"type":"Point"}
 }

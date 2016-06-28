@@ -2,13 +2,14 @@
   "id": 169547043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.489052,38.719635,35.489052,38.719635",
     "geom:latitude":38.719635,
     "geom:longitude":35.489052,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vatan Cad 1",
     "sg:city":"Kayseri",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169547043,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313208,
     "wof:name":"T?kiye Vakiflar, Bankasi Tao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.489052,38.719635,35.489052,38.719635],
+  "bbox": [
+    35.489052,
+    38.719635,
+    35.489052,
+    38.719635
+],
   "geometry": {"coordinates":[35.489052,38.719635],"type":"Point"}
 }

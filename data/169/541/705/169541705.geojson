@@ -2,13 +2,14 @@
   "id": 169541705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.488274,38.717842,35.488274,38.717842",
     "geom:latitude":38.717842,
     "geom:longitude":35.488274,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Millet Cad 39/a",
     "sg:city":"Kayseri",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169541705,
-    "wof:lastmodified":1449033044,
+    "wof:lastmodified":1466313441,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.488274,38.717842,35.488274,38.717842],
+  "bbox": [
+    35.488274,
+    38.717842,
+    35.488274,
+    38.717842
+],
   "geometry": {"coordinates":[35.488274,38.717842],"type":"Point"}
 }

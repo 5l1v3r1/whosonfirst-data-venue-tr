@@ -2,13 +2,14 @@
   "id": 169563779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.086117,40.135223,33.086117,40.135223",
     "geom:latitude":40.135223,
     "geom:longitude":33.086117,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cankiri Devlet Yolu 4.km. Akyurt",
     "sg:city":"Sultan?ftligi-gaziosmanpasa",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169563779,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1466313269,
     "wof:name":"Ikoor Mobilya A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [33.086117,40.135223,33.086117,40.135223],
+  "bbox": [
+    33.086117,
+    40.135223,
+    33.086117,
+    40.135223
+],
   "geometry": {"coordinates":[33.086117,40.135223],"type":"Point"}
 }

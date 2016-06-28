@@ -2,13 +2,14 @@
   "id": 169546037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.412918,38.615395,27.412918,38.615395",
     "geom:latitude":38.615395,
     "geom:longitude":27.412918,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkez Efendi Mah",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169546037,
-    "wof:lastmodified":1449032683,
+    "wof:lastmodified":1466313207,
     "wof:name":"T?kiye T??c?er, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.412918,38.615395,27.412918,38.615395],
+  "bbox": [
+    27.412918,
+    38.615395,
+    27.412918,
+    38.615395
+],
   "geometry": {"coordinates":[27.412918,38.615395],"type":"Point"}
 }

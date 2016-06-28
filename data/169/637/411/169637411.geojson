@@ -2,13 +2,14 @@
   "id": 169637411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.156242,38.431389,27.156242,38.431389",
     "geom:latitude":38.431389,
     "geom:longitude":27.156242,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Isciler Cad. No:147/a Alsancak",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169637411,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466313372,
     "wof:name":"Can Fotokopi-kirtasiye Ltd.sti.",
     "wof:parent_id":85929637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.156242,38.431389,27.156242,38.431389],
+  "bbox": [
+    27.156242,
+    38.431389,
+    27.156242,
+    38.431389
+],
   "geometry": {"coordinates":[27.156242,38.431389],"type":"Point"}
 }

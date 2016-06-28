@@ -2,13 +2,14 @@
   "id": 169648909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.000601,41.042908,29.000601,41.042908",
     "geom:latitude":41.042908,
     "geom:longitude":29.000601,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Top? Cd. No:5/b Taksim",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169648909,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466313390,
     "wof:name":"San B?ro Kirtasiye",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.000601,41.042908,29.000601,41.042908],
+  "bbox": [
+    29.000601,
+    41.042908,
+    29.000601,
+    41.042908
+],
   "geometry": {"coordinates":[29.000601,41.042908],"type":"Point"}
 }

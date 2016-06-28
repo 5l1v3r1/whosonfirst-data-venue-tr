@@ -2,13 +2,14 @@
   "id": 169572821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
     "geom:latitude":41.021832,
     "geom:longitude":29.015442,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fahrettin Kerim G?ay Cd.no.22 Denizciler Ismek.",
     "sg:city":"\u00dcsk\u00fcdar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169572821,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466313312,
     "wof:name":"Goksular Denizcilik A.s. .",
     "wof:parent_id":85906599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.015442,41.021832,29.015442,41.021832],
+  "bbox": [
+    29.015442,
+    41.021832,
+    29.015442,
+    41.021832
+],
   "geometry": {"coordinates":[29.015442,41.021832],"type":"Point"}
 }

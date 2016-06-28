@@ -2,13 +2,14 @@
   "id": 169548877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.745781,39.9743,32.745781,39.9743",
     "geom:latitude":39.9743,
     "geom:longitude":32.745781,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"100.yil Bulvari No:106/a Ostim",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169548877,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313243,
     "wof:name":"Ankara Oto Rulman San.tic. Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [32.745781,39.9743,32.745781,39.9743],
+  "bbox": [
+    32.745781,
+    39.9743,
+    32.745781,
+    39.9743
+],
   "geometry": {"coordinates":[32.745781,39.9743],"type":"Point"}
 }

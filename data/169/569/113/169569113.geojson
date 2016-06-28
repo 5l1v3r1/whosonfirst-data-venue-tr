@@ -2,13 +2,14 @@
   "id": 169569113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981241,41.076466,28.981241,41.076466",
     "geom:latitude":41.076466,
     "geom:longitude":28.981241,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahar Sok.no:2 1.levent",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569113,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313270,
     "wof:name":"Nart Telekom & Hirsiz Alarm Sistemleri",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.981241,41.076466,28.981241,41.076466],
+  "bbox": [
+    28.981241,
+    41.076466,
+    28.981241,
+    41.076466
+],
   "geometry": {"coordinates":[28.981241,41.076466],"type":"Point"}
 }

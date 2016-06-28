@@ -2,13 +2,14 @@
   "id": 169581383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.107931,40.946945,29.107931,40.946945",
     "geom:latitude":40.946945,
     "geom:longitude":29.107931,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cad.no:128",
     "sg:city":"K???kyali",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169581383,
-    "wof:lastmodified":1449033381,
+    "wof:lastmodified":1466313322,
     "wof:name":"Mali",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.107931,40.946945,29.107931,40.946945],
+  "bbox": [
+    29.107931,
+    40.946945,
+    29.107931,
+    40.946945
+],
   "geometry": {"coordinates":[29.107931,40.946945],"type":"Point"}
 }

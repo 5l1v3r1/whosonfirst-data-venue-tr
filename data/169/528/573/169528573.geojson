@@ -2,13 +2,14 @@
   "id": 169528573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.964764,41.006176,28.964764,41.006176",
     "geom:latitude":41.006176,
     "geom:longitude":28.964764,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tiyatro Cad. Sarac Ishak Sok.no:10/a Beyazit",
     "sg:city":"Yenibosna",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528573,
-    "wof:lastmodified":1449033570,
+    "wof:lastmodified":1466313191,
     "wof:name":"Derimak Dis Tic. Ltd.",
     "wof:parent_id":85906495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [28.964764,41.006176,28.964764,41.006176],
+  "bbox": [
+    28.964764,
+    41.006176,
+    28.964764,
+    41.006176
+],
   "geometry": {"coordinates":[28.964764,41.006176],"type":"Point"}
 }

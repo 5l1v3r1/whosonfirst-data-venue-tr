@@ -2,13 +2,14 @@
   "id": 169643743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981276,41.054539,28.981276,41.054539",
     "geom:latitude":41.054539,
     "geom:longitude":28.981276,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ergenekon Cd. No:104/5 Sisli",
     "sg:city":"Levent - Besiktas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169643743,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466313380,
     "wof:name":"Kavsak Kirtasiye",
     "wof:parent_id":85929423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.981276,41.054539,28.981276,41.054539],
+  "bbox": [
+    28.981276,
+    41.054539,
+    28.981276,
+    41.054539
+],
   "geometry": {"coordinates":[28.981276,41.054539],"type":"Point"}
 }

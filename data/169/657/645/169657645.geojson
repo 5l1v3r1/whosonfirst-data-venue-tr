@@ -2,13 +2,14 @@
   "id": 169657645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.160032,40.917732,29.160032,40.917732",
     "geom:latitude":40.917732,
     "geom:longitude":29.160032,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tugay Yolu No:73 Maltepe",
     "sg:city":"Nil?fer",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169657645,
-    "wof:lastmodified":1449033047,
+    "wof:lastmodified":1466313395,
     "wof:name":"Algaz Radyan Gaz Alet. San. Tic. Ltd. Sti.",
     "wof:parent_id":85929905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [29.160032,40.917732,29.160032,40.917732],
+  "bbox": [
+    29.160032,
+    40.917732,
+    29.160032,
+    40.917732
+],
   "geometry": {"coordinates":[29.160032,40.917732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169660015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.097462,40.978874,29.097462,40.978874",
     "geom:latitude":40.978874,
     "geom:longitude":29.097462,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kayisdagi Cd. No:265 G?tepe",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169660015,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1466313448,
     "wof:name":"Dilaver Antep Para Kasalari",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [29.097462,40.978874,29.097462,40.978874],
+  "bbox": [
+    29.097462,
+    40.978874,
+    29.097462,
+    40.978874
+],
   "geometry": {"coordinates":[29.097462,40.978874],"type":"Point"}
 }

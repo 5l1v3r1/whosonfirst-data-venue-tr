@@ -2,13 +2,14 @@
   "id": 169667395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.861988,41.039211,28.861988,41.039211",
     "geom:latitude":41.039211,
     "geom:longitude":28.861988,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cinar Mah.6/8 Sok.no: 5 Bagcilar",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169667395,
-    "wof:lastmodified":1449034845,
+    "wof:lastmodified":1466313396,
     "wof:name":"Tesco Ndt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "utensil"
     ]
 },
-  "bbox": [28.861988,41.039211,28.861988,41.039211],
+  "bbox": [
+    28.861988,
+    41.039211,
+    28.861988,
+    41.039211
+],
   "geometry": {"coordinates":[28.861988,41.039211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169574025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.030718,41.084877,29.030718,41.084877",
     "geom:latitude":41.084877,
     "geom:longitude":29.030718,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Toros Binasi",
     "sg:city":"Akatlar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169574025,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466313275,
     "wof:name":"Toros Deniz A.s.",
     "wof:parent_id":85929757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.030718,41.084877,29.030718,41.084877],
+  "bbox": [
+    29.030718,
+    41.084877,
+    29.030718,
+    41.084877
+],
   "geometry": {"coordinates":[29.030718,41.084877],"type":"Point"}
 }

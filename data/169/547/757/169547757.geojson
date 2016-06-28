@@ -2,13 +2,14 @@
   "id": 169547757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.013842,41.089298,29.013842,41.089298",
     "geom:latitude":41.089298,
     "geom:longitude":29.013842,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eskib??dere Cad, No 225, 80650 Levent, Istanbul",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169547757,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466313236,
     "wof:name":"Ziraat Card Transactions Inc",
     "wof:parent_id":85929845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.013842,41.089298,29.013842,41.089298],
+  "bbox": [
+    29.013842,
+    41.089298,
+    29.013842,
+    41.089298
+],
   "geometry": {"coordinates":[29.013842,41.089298],"type":"Point"}
 }

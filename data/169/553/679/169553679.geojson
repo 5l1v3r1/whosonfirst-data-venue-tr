@@ -2,13 +2,14 @@
   "id": 169553679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.5418,38.755798,30.5418,38.755798",
     "geom:latitude":38.755798,
     "geom:longitude":30.5418,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Organize Sanayi Bolgesi 101.sok.",
     "sg:city":"Sincan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169553679,
-    "wof:lastmodified":1449032709,
+    "wof:lastmodified":1466313234,
     "wof:name":"Dostlar Sekerleme Gida San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [30.5418,38.755798,30.5418,38.755798],
+  "bbox": [
+    30.5418,
+    38.755798,
+    30.5418,
+    38.755798
+],
   "geometry": {"coordinates":[30.5418,38.755798],"type":"Point"}
 }

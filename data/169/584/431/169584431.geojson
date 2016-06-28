@@ -2,13 +2,14 @@
   "id": 169584431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.404552,37.05455,37.404552,37.05455",
     "geom:latitude":37.05455,
     "geom:longitude":37.404552,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kenan Evren Bulvari Kocaoglan Mah. No:189",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169584431,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1466313331,
     "wof:name":"Bogazici Mesrubatlari San Ve Tic.a.s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [37.404552,37.05455,37.404552,37.05455],
+  "bbox": [
+    37.404552,
+    37.05455,
+    37.404552,
+    37.05455
+],
   "geometry": {"coordinates":[37.404552,37.05455],"type":"Point"}
 }

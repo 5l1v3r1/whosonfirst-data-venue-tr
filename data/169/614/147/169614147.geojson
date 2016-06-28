@@ -2,13 +2,14 @@
   "id": 169614147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.122778,38.749443,28.122778,38.749443",
     "geom:latitude":38.749443,
     "geom:longitude":28.122778,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Manisa",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169614147,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1466313357,
     "wof:name":"Celal Bayar ?ni. Moris Sinasi Egit. Ve Uyg. Has.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [28.122778,38.749443,28.122778,38.749443],
+  "bbox": [
+    28.122778,
+    38.749443,
+    28.122778,
+    38.749443
+],
   "geometry": {"coordinates":[28.122778,38.749443],"type":"Point"}
 }

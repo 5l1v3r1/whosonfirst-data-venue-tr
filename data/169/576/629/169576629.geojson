@@ -2,13 +2,14 @@
   "id": 169576629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.293064,40.842873,29.293064,40.842873",
     "geom:latitude":40.842873,
     "geom:longitude":29.293064,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rauf Orbay Cad. 11/c Icmeler-",
     "sg:city":"Tuzla",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169576629,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466313308,
     "wof:name":"Gs (general Store) Denizcilik Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [29.293064,40.842873,29.293064,40.842873],
+  "bbox": [
+    29.293064,
+    40.842873,
+    29.293064,
+    40.842873
+],
   "geometry": {"coordinates":[29.293064,40.842873],"type":"Point"}
 }

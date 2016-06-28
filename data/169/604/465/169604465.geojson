@@ -2,13 +2,14 @@
   "id": 169604465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.868843,40.989952,28.868843,40.989952",
     "geom:latitude":40.989952,
     "geom:longitude":28.868843,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Incirli Cd. Mektep Sk. No:1 Bakirk?",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169604465,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466313353,
     "wof:name":"Ekin Spor Saglik Turizm Ltd. Sti.",
     "wof:parent_id":85929899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [28.868843,40.989952,28.868843,40.989952],
+  "bbox": [
+    28.868843,
+    40.989952,
+    28.868843,
+    40.989952
+],
   "geometry": {"coordinates":[28.868843,40.989952],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169654823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.167215,40.902351,29.167215,40.902351",
     "geom:latitude":40.902351,
     "geom:longitude":29.167215,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ayyildiz Sok. No:9 Rahmanlar",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169654823,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1466313391,
     "wof:name":"Hitek Elektronik",
     "wof:parent_id":85930215,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cupboard"
     ]
 },
-  "bbox": [29.167215,40.902351,29.167215,40.902351],
+  "bbox": [
+    29.167215,
+    40.902351,
+    29.167215,
+    40.902351
+],
   "geometry": {"coordinates":[29.167215,40.902351],"type":"Point"}
 }

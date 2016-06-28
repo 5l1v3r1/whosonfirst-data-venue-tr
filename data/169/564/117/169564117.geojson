@@ -2,13 +2,14 @@
   "id": 169564117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.048958,41.034756,29.048958,41.034756",
     "geom:latitude":41.034756,
     "geom:longitude":29.048958,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Altunizade Mah.kisikli Cad. Kus Bakisi Sok. No:4 Uskudar",
     "sg:city":"Tasdelen-umraniye",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169564117,
-    "wof:lastmodified":1449035764,
+    "wof:lastmodified":1466313255,
     "wof:name":"S?rat Egitim Araclari & Buro Mobilya San.a.s.",
     "wof:parent_id":85929419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [29.048958,41.034756,29.048958,41.034756],
+  "bbox": [
+    29.048958,
+    41.034756,
+    29.048958,
+    41.034756
+],
   "geometry": {"coordinates":[29.048958,41.034756],"type":"Point"}
 }

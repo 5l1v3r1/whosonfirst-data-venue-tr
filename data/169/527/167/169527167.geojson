@@ -2,13 +2,14 @@
   "id": 169527167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.281115,40.885235,29.281115,40.885235",
     "geom:latitude":40.885235,
     "geom:longitude":29.281115,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Samanyolu Sok. Engin Han. No:4/20",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169527167,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466313186,
     "wof:name":"L?ks Dogan ?ocuk Giyim Sanayi Ve Ticaret Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.281115,40.885235,29.281115,40.885235],
+  "bbox": [
+    29.281115,
+    40.885235,
+    29.281115,
+    40.885235
+],
   "geometry": {"coordinates":[29.281115,40.885235],"type":"Point"}
 }

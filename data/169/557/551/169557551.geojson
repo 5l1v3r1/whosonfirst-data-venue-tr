@@ -2,13 +2,14 @@
   "id": 169557551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.720249,36.887157,30.720249,36.887157",
     "geom:latitude":36.887157,
     "geom:longitude":30.720249,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Burhanettin Onat Cad.no:102 D:9",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169557551,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1466313267,
     "wof:name":"Sistem Havuz",
     "wof:parent_id":85929965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [30.720249,36.887157,30.720249,36.887157],
+  "bbox": [
+    30.720249,
+    36.887157,
+    30.720249,
+    36.887157
+],
   "geometry": {"coordinates":[30.720249,36.887157],"type":"Point"}
 }

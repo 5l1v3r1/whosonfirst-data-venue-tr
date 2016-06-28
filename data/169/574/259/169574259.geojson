@@ -2,13 +2,14 @@
   "id": 169574259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.019806,41.122284,29.019806,41.122284",
     "geom:latitude":41.122284,
     "geom:longitude":29.019806,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Beybigiz Plaza K.3 D.8",
     "sg:city":"Maslak",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169574259,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466313288,
     "wof:name":"Yilmar Denizcilik Ltd.sti.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.019806,41.122284,29.019806,41.122284],
+  "bbox": [
+    29.019806,
+    41.122284,
+    29.019806,
+    41.122284
+],
   "geometry": {"coordinates":[29.019806,41.122284],"type":"Point"}
 }

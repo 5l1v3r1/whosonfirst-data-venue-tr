@@ -2,13 +2,14 @@
   "id": 169561821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.499027,37.871536,32.499027,37.871536",
     "geom:latitude":37.871536,
     "geom:longitude":32.499027,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Medrese Mah. Tibbiyeliler Sit. 17/b",
     "sg:city":"Merkez",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561821,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466313266,
     "wof:name":"Par-tem Parlayan Temizlik Ltd.sti.",
     "wof:parent_id":85934711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.499027,37.871536,32.499027,37.871536],
+  "bbox": [
+    32.499027,
+    37.871536,
+    32.499027,
+    37.871536
+],
   "geometry": {"coordinates":[32.499027,37.871536],"type":"Point"}
 }

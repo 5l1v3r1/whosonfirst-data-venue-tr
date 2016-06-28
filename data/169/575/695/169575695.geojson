@@ -2,13 +2,14 @@
   "id": 169575695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cifte Havuzlar Bagdat Cd.no200/6 Apt.billur",
     "sg:city":"G?tepe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169575695,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466313311,
     "wof:name":"Cye Petrol Ltd.sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "bbox": [
+    28.975925,
+    41.012379,
+    28.975925,
+    41.012379
+],
   "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
 }

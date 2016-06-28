@@ -2,13 +2,14 @@
   "id": 169575261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.507751,40.966351,27.507751,40.966351",
     "geom:latitude":40.966351,
     "geom:longitude":27.507751,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Atat?rk Bulvari 28/3",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169575261,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466313288,
     "wof:name":"Bayraktar Gemi Acenteligi Ltd Sti",
     "wof:parent_id":85934645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [27.507751,40.966351,27.507751,40.966351],
+  "bbox": [
+    27.507751,
+    40.966351,
+    27.507751,
+    40.966351
+],
   "geometry": {"coordinates":[27.507751,40.966351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169549447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.041595,41.138779,29.041595,41.138779",
     "geom:latitude":41.138779,
     "geom:longitude":29.041595,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alt Sanayi Sitesi Tepecik Bul.no:30",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169549447,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466313226,
     "wof:name":"Ertan Rulman",
     "wof:parent_id":85930117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "ball"
     ]
 },
-  "bbox": [29.041595,41.138779,29.041595,41.138779],
+  "bbox": [
+    29.041595,
+    41.138779,
+    29.041595,
+    41.138779
+],
   "geometry": {"coordinates":[29.041595,41.138779],"type":"Point"}
 }

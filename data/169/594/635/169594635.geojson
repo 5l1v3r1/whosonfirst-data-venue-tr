@@ -2,13 +2,14 @@
   "id": 169594635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.868074,41.012993,28.868074,41.012993",
     "geom:latitude":41.012993,
     "geom:longitude":28.868074,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagcilar Cad.capa Sok. No:13/c Haznedar",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169594635,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466313345,
     "wof:name":"Dosan S?nger Kumas Ltd.sti.",
     "wof:parent_id":85929785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sponge"
     ]
 },
-  "bbox": [28.868074,41.012993,28.868074,41.012993],
+  "bbox": [
+    28.868074,
+    41.012993,
+    28.868074,
+    41.012993
+],
   "geometry": {"coordinates":[28.868074,41.012993],"type":"Point"}
 }

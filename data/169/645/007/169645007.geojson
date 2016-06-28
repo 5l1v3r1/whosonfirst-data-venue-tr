@@ -2,13 +2,14 @@
   "id": 169645007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856972,39.915581,32.856972,39.915581",
     "geom:latitude":39.915581,
     "geom:longitude":32.856972,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Konur Sk. No:28/b Kizilay",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169645007,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313447,
     "wof:name":"Mar?an San. Tic. Ltd. Sti.",
     "wof:parent_id":85904129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.856972,39.915581,32.856972,39.915581],
+  "bbox": [
+    32.856972,
+    39.915581,
+    32.856972,
+    39.915581
+],
   "geometry": {"coordinates":[32.856972,39.915581],"type":"Point"}
 }

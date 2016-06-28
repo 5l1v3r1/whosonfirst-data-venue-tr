@@ -2,13 +2,14 @@
   "id": 169588909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.98601,41.076023,28.98601,41.076023",
     "geom:latitude":41.076023,
     "geom:longitude":28.98601,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tasocagi Sk. No:26/28",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169588909,
-    "wof:lastmodified":1449035310,
+    "wof:lastmodified":1466313338,
     "wof:name":"Prosen Profilo Enerji Sistem. San. A.s.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [28.98601,41.076023,28.98601,41.076023],
+  "bbox": [
+    28.98601,
+    41.076023,
+    28.98601,
+    41.076023
+],
   "geometry": {"coordinates":[28.98601,41.076023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.128956,38.418598,27.128956,38.418598",
     "geom:latitude":38.418598,
     "geom:longitude":27.128956,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Bul 3",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169531295,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466313200,
     "wof:name":"Banque Entrale De La, R?ublique De Turquie Sa",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.128956,38.418598,27.128956,38.418598],
+  "bbox": [
+    27.128956,
+    38.418598,
+    27.128956,
+    38.418598
+],
   "geometry": {"coordinates":[27.128956,38.418598],"type":"Point"}
 }

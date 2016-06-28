@@ -2,13 +2,14 @@
   "id": 169574939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.557814,41.016258,28.557814,41.016258",
     "geom:latitude":41.016258,
     "geom:longitude":28.557814,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ataturk Mah.soydan Sok. Hakan Apt. No:4/3",
     "sg:city":"B.cekmece",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169574939,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466313322,
     "wof:name":"Ares Denizcilik Tas.ic.ve Dis Tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [28.557814,41.016258,28.557814,41.016258],
+  "bbox": [
+    28.557814,
+    41.016258,
+    28.557814,
+    41.016258
+],
   "geometry": {"coordinates":[28.557814,41.016258],"type":"Point"}
 }

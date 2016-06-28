@@ -2,13 +2,14 @@
   "id": 169536589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.719101,41.0061,39.719101,41.0061",
     "geom:latitude":41.0061,
     "geom:longitude":39.719101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Trabzon",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536589,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466313424,
     "wof:name":"Karadeniz Su Urunlen San As",
     "wof:parent_id":85934735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [39.719101,41.0061,39.719101,41.0061],
+  "bbox": [
+    39.719101,
+    41.0061,
+    39.719101,
+    41.0061
+],
   "geometry": {"coordinates":[39.719101,41.0061],"type":"Point"}
 }

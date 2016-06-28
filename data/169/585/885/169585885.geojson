@@ -2,13 +2,14 @@
   "id": 169585885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.011042,41.024315,29.011042,41.024315",
     "geom:latitude":41.024315,
     "geom:longitude":29.011042,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esref Saat Sk.no.4",
     "sg:city":"\u00dcsk\u00fcdar",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169585885,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466313338,
     "wof:name":"?ardak Gida San.ltd.sti.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [29.011042,41.024315,29.011042,41.024315],
+  "bbox": [
+    29.011042,
+    41.024315,
+    29.011042,
+    41.024315
+],
   "geometry": {"coordinates":[29.011042,41.024315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
     "geom:latitude":39.943874,
     "geom:longitude":32.856033,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Atat?k Bul 70/3 Kizilay",
     "sg:city":"Gayrettepe",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169540153,
-    "wof:lastmodified":1449033976,
+    "wof:lastmodified":1466313435,
     "wof:name":"S?erbank Holding As",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "bbox": [
+    32.856033,
+    39.943874,
+    32.856033,
+    39.943874
+],
   "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
 }

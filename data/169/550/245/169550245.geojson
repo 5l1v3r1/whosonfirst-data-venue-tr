@@ -2,13 +2,14 @@
   "id": 169550245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.290581,41.293278,36.290581,41.293278",
     "geom:latitude":41.293278,
     "geom:longitude":36.290581,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kazim Karabekir C. No:72/30",
     "sg:city":"Ulus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169550245,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466313218,
     "wof:name":"Togay Rulman Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [36.290581,41.293278,36.290581,41.293278],
+  "bbox": [
+    36.290581,
+    41.293278,
+    36.290581,
+    41.293278
+],
   "geometry": {"coordinates":[36.290581,41.293278],"type":"Point"}
 }

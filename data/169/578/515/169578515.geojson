@@ -2,13 +2,14 @@
   "id": 169578515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.085613,40.968372,29.085613,40.968372",
     "geom:latitude":40.968372,
     "geom:longitude":29.085613,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Semsettin Gunaltay Cad. No:152/8",
     "sg:city":"Kazasker",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169578515,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466313308,
     "wof:name":"Sea Freight Intl Transport Co.",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [29.085613,40.968372,29.085613,40.968372],
+  "bbox": [
+    29.085613,
+    40.968372,
+    29.085613,
+    40.968372
+],
   "geometry": {"coordinates":[29.085613,40.968372],"type":"Point"}
 }

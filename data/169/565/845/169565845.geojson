@@ -2,13 +2,14 @@
   "id": 169565845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.044863,40.995781,29.044863,40.995781",
     "geom:latitude":40.995781,
     "geom:longitude":29.044863,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Uzuncayir Cad. No: 19/2 Hasanpasa/ Kadikoy",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169565845,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466313273,
     "wof:name":"Bilgi Elektronik A.s",
     "wof:parent_id":85929427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.044863,40.995781,29.044863,40.995781],
+  "bbox": [
+    29.044863,
+    40.995781,
+    29.044863,
+    40.995781
+],
   "geometry": {"coordinates":[29.044863,40.995781],"type":"Point"}
 }

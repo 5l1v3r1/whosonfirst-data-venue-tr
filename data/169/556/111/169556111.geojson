@@ -2,13 +2,14 @@
   "id": 169556111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.928299,37.589401,36.928299,37.589401",
     "geom:latitude":37.589401,
     "geom:longitude":36.928299,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Sanayi Sitesi 30.carsi No:78",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169556111,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466313242,
     "wof:name":"Bessat Uydu Anten Imalati",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "system"
     ]
 },
-  "bbox": [36.928299,37.589401,36.928299,37.589401],
+  "bbox": [
+    36.928299,
+    37.589401,
+    36.928299,
+    37.589401
+],
   "geometry": {"coordinates":[36.928299,37.589401],"type":"Point"}
 }

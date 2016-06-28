@@ -2,13 +2,14 @@
   "id": 169530523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.036711,41.128304,29.036711,41.128304",
     "geom:latitude":41.128304,
     "geom:longitude":29.036711,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Cad 43 Maslak",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169530523,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466313205,
     "wof:name":"Anadolou Bankasi As",
     "wof:parent_id":85930201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.036711,41.128304,29.036711,41.128304],
+  "bbox": [
+    29.036711,
+    41.128304,
+    29.036711,
+    41.128304
+],
   "geometry": {"coordinates":[29.036711,41.128304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169546517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.92947,37.574478,36.92947,37.574478",
     "geom:latitude":37.574478,
     "geom:longitude":36.92947,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yenisehir Mah",
     "sg:city":"Sefak?",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169546517,
-    "wof:lastmodified":1449032680,
+    "wof:lastmodified":1466313225,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.92947,37.574478,36.92947,37.574478],
+  "bbox": [
+    36.92947,
+    37.574478,
+    36.92947,
+    37.574478
+],
   "geometry": {"coordinates":[36.92947,37.574478],"type":"Point"}
 }

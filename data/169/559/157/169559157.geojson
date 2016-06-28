@@ -2,13 +2,14 @@
   "id": 169559157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.824242,39.923958,32.824242,39.923958",
     "geom:latitude":39.923958,
     "geom:longitude":32.824242,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B?l? Sk. No:36/5 Kavaklidere",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559157,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466313247,
     "wof:name":"Biltem Temizlik Pazarlama San. Tic. Ltd. Sti.",
     "wof:parent_id":85929585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.824242,39.923958,32.824242,39.923958],
+  "bbox": [
+    32.824242,
+    39.923958,
+    32.824242,
+    39.923958
+],
   "geometry": {"coordinates":[32.824242,39.923958],"type":"Point"}
 }

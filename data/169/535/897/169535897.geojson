@@ -2,13 +2,14 @@
   "id": 169535897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.220804,36.798054,28.220804,36.798054",
     "geom:latitude":36.798054,
     "geom:longitude":28.220804,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbaros Cad.no.11",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169535897,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466313421,
     "wof:name":"Iktisat Bankasi, T?k As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.220804,36.798054,28.220804,36.798054],
+  "bbox": [
+    28.220804,
+    36.798054,
+    28.220804,
+    36.798054
+],
   "geometry": {"coordinates":[28.220804,36.798054],"type":"Point"}
 }

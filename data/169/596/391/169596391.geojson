@@ -2,13 +2,14 @@
   "id": 169596391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.2285,41.737801,27.2285,41.737801",
     "geom:latitude":41.737801,
     "geom:longitude":27.2285,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bederli Cad. No: 4",
     "sg:city":"Babaeski",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169596391,
-    "wof:lastmodified":1449034374,
+    "wof:lastmodified":1466313342,
     "wof:name":"Bederteks Konfeksiyon San. Tic. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [27.2285,41.737801,27.2285,41.737801],
+  "bbox": [
+    27.2285,
+    41.737801,
+    27.2285,
+    41.737801
+],
   "geometry": {"coordinates":[27.2285,41.737801],"type":"Point"}
 }

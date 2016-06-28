@@ -2,13 +2,14 @@
   "id": 169547367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.364082,37.051964,37.364082,37.051964",
     "geom:latitude":37.051964,
     "geom:longitude":37.364082,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad 12 D 9/11",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169547367,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466313222,
     "wof:name":"Yapi Ve Kredi, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.364082,37.051964,37.364082,37.051964],
+  "bbox": [
+    37.364082,
+    37.051964,
+    37.364082,
+    37.051964
+],
   "geometry": {"coordinates":[37.364082,37.051964],"type":"Point"}
 }

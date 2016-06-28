@@ -2,13 +2,14 @@
   "id": 169535199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.141411,38.432465,27.141411,38.432465",
     "geom:latitude":38.432465,
     "geom:longitude":27.141411,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 Sokak No.16/a",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169535199,
-    "wof:lastmodified":1449033284,
+    "wof:lastmodified":1466313419,
     "wof:name":"Finansbank As",
     "wof:parent_id":85929653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.141411,38.432465,27.141411,38.432465],
+  "bbox": [
+    27.141411,
+    38.432465,
+    27.141411,
+    38.432465
+],
   "geometry": {"coordinates":[27.141411,38.432465],"type":"Point"}
 }

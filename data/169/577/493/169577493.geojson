@@ -2,13 +2,14 @@
   "id": 169577493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.072733,41.085743,29.072733,41.085743",
     "geom:latitude":41.085743,
     "geom:longitude":29.072733,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mihrabat Cad.no:238 Marti Plaza",
     "sg:city":"Kavacik",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169577493,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466313300,
     "wof:name":"Marti Konteyneri Hizmetleri",
     "wof:parent_id":85929801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.072733,41.085743,29.072733,41.085743],
+  "bbox": [
+    29.072733,
+    41.085743,
+    29.072733,
+    41.085743
+],
   "geometry": {"coordinates":[29.072733,41.085743],"type":"Point"}
 }

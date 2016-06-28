@@ -2,13 +2,14 @@
   "id": 169686285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.988667,41.053253,28.988667,41.053253",
     "geom:latitude":41.053253,
     "geom:longitude":28.988667,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumeli Cad. 64/1",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169686285,
-    "wof:lastmodified":1449035154,
+    "wof:lastmodified":1466313412,
     "wof:name":"Zeki Triko A.s.",
     "wof:parent_id":85929491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.988667,41.053253,28.988667,41.053253],
+  "bbox": [
+    28.988667,
+    41.053253,
+    28.988667,
+    41.053253
+],
   "geometry": {"coordinates":[28.988667,41.053253],"type":"Point"}
 }

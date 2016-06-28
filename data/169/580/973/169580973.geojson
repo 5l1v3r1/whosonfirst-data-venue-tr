@@ -2,13 +2,14 @@
   "id": 169580973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.378605,40.913799,38.378605,40.913799",
     "geom:latitude":40.913799,
     "geom:longitude":38.378605,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hacisiyam Mah. Fatih Cad. No:99",
     "sg:city":"Isikkent",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169580973,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466313354,
     "wof:name":"Ihvan Ayakkabi San.tic. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [38.378605,40.913799,38.378605,40.913799],
+  "bbox": [
+    38.378605,
+    40.913799,
+    38.378605,
+    40.913799
+],
   "geometry": {"coordinates":[38.378605,40.913799],"type":"Point"}
 }

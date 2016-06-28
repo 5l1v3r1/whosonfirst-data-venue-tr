@@ -2,13 +2,14 @@
   "id": 169547469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.893324,41.065708,28.893324,41.065708",
     "geom:latitude":41.065708,
     "geom:longitude":28.893324,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"H?riyet Cad 83",
     "sg:city":"Izmit",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169547469,
-    "wof:lastmodified":1449033010,
+    "wof:lastmodified":1466313225,
     "wof:name":"Yapi Ve Kredi, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.893324,41.065708,28.893324,41.065708],
+  "bbox": [
+    28.893324,
+    41.065708,
+    28.893324,
+    41.065708
+],
   "geometry": {"coordinates":[28.893324,41.065708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169568481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.899759,40.984241,28.899759,40.984241",
     "geom:latitude":40.984241,
     "geom:longitude":28.899759,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Olgunlar Sk. No:11 Osmaniye Yolu Bakirk?",
     "sg:city":"Okmeydani/sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568481,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466313286,
     "wof:name":"Is G?ven. Merk.",
     "wof:parent_id":85906615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.899759,40.984241,28.899759,40.984241],
+  "bbox": [
+    28.899759,
+    40.984241,
+    28.899759,
+    40.984241
+],
   "geometry": {"coordinates":[28.899759,40.984241],"type":"Point"}
 }

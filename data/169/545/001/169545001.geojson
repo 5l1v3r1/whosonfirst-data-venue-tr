@@ -2,13 +2,14 @@
   "id": 169545001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.494617,37.872509,32.494617,37.872509",
     "geom:latitude":37.872509,
     "geom:longitude":32.494617,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mevlana Cad 5",
     "sg:city":"Konya",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169545001,
-    "wof:lastmodified":1449033483,
+    "wof:lastmodified":1466313444,
     "wof:name":"T?kiye Halk, Bankasi As",
     "wof:parent_id":85934705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.494617,37.872509,32.494617,37.872509],
+  "bbox": [
+    32.494617,
+    37.872509,
+    32.494617,
+    37.872509
+],
   "geometry": {"coordinates":[32.494617,37.872509],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169644931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.885521,39.918877,32.885521,39.918877",
     "geom:latitude":39.918877,
     "geom:longitude":32.885521,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Strazburg Cd. No:16/32 Sihhiye",
     "sg:city":"Okmeydani/beyoglu",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169644931,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1466313385,
     "wof:name":"Ko?yigit Kirtasiye Pazarlama San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.885521,39.918877,32.885521,39.918877],
+  "bbox": [
+    32.885521,
+    39.918877,
+    32.885521,
+    39.918877
+],
   "geometry": {"coordinates":[32.885521,39.918877],"type":"Point"}
 }

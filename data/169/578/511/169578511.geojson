@@ -2,13 +2,14 @@
   "id": 169578511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.977694,41.012562,28.977694,41.012562",
     "geom:latitude":41.012562,
     "geom:longitude":28.977694,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ibni Kemal Cad. No:17 K:3-4",
     "sg:city":"Sirkeci",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169578511,
-    "wof:lastmodified":1449033521,
+    "wof:lastmodified":1466313307,
     "wof:name":"Selay Tasimacilik Turizm & Lojistik Kargo Hizmetleri Tic.ltd.sti.",
     "wof:parent_id":85904153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [28.977694,41.012562,28.977694,41.012562],
+  "bbox": [
+    28.977694,
+    41.012562,
+    28.977694,
+    41.012562
+],
   "geometry": {"coordinates":[28.977694,41.012562],"type":"Point"}
 }

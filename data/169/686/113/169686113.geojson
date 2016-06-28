@@ -2,13 +2,14 @@
   "id": 169686113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.937761,41.010685,28.937761,41.010685",
     "geom:latitude":41.010685,
     "geom:longitude":28.937761,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sair Mehmet Emin Sok. No:19/21 D:6",
     "sg:city":"Findikzade",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169686113,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466313409,
     "wof:name":"Sekeroglu San.tic. Ltd.sti.",
     "wof:parent_id":85906519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.937761,41.010685,28.937761,41.010685],
+  "bbox": [
+    28.937761,
+    41.010685,
+    28.937761,
+    41.010685
+],
   "geometry": {"coordinates":[28.937761,41.010685],"type":"Point"}
 }

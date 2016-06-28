@@ -2,13 +2,14 @@
   "id": 169645345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975025,41.012794,28.975025,41.012794",
     "geom:latitude":41.012794,
     "geom:longitude":28.975025,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Catalcesme Sok.no: 23 Cagaloglu/istanbul",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169645345,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313379,
     "wof:name":"Meram Yayincilik",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.975025,41.012794,28.975025,41.012794],
+  "bbox": [
+    28.975025,
+    41.012794,
+    28.975025,
+    41.012794
+],
   "geometry": {"coordinates":[28.975025,41.012794],"type":"Point"}
 }

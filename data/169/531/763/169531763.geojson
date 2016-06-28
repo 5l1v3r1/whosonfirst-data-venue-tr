@@ -2,13 +2,14 @@
   "id": 169531763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.32753,41.260147,36.32753,41.260147",
     "geom:latitude":41.260147,
     "geom:longitude":36.32753,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Set?t?haktan",
     "sg:city":"Levent",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169531763,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466313202,
     "wof:name":"Credit Lyonnais Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.32753,41.260147,36.32753,41.260147],
+  "bbox": [
+    36.32753,
+    41.260147,
+    36.32753,
+    41.260147
+],
   "geometry": {"coordinates":[36.32753,41.260147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169561229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"62.112301,32.375401,62.112301,32.375401",
     "geom:latitude":32.375401,
     "geom:longitude":62.112301,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Farah Mah.ferah Cad.",
     "sg:city":"?sk?dar",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169561229,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466313251,
     "wof:name":"M.anwey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [62.112301,32.375401,62.112301,32.375401],
+  "bbox": [
+    62.112301,
+    32.375401,
+    62.112301,
+    32.375401
+],
   "geometry": {"coordinates":[62.112301,32.375401],"type":"Point"}
 }

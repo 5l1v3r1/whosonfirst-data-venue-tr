@@ -2,13 +2,14 @@
   "id": 169531237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.604582,40.989456,28.604582,40.989456",
     "geom:latitude":40.989456,
     "geom:longitude":28.604582,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad 10, Ulus, 06100 Ankara",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169531237,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466313200,
     "wof:name":"Banque Centrale De La R?ublique De Turquie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.604582,40.989456,28.604582,40.989456],
+  "bbox": [
+    28.604582,
+    40.989456,
+    28.604582,
+    40.989456
+],
   "geometry": {"coordinates":[28.604582,40.989456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.514694,38.742714,35.514694,38.742714",
     "geom:latitude":38.742714,
     "geom:longitude":35.514694,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad 1",
     "sg:city":"K?ahya",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169534111,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466313415,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.514694,38.742714,35.514694,38.742714],
+  "bbox": [
+    35.514694,
+    38.742714,
+    35.514694,
+    38.742714
+],
   "geometry": {"coordinates":[35.514694,38.742714],"type":"Point"}
 }

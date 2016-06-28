@@ -2,13 +2,14 @@
   "id": 169551953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.11824,41.021812,29.11824,41.021812",
     "geom:latitude":41.021812,
     "geom:longitude":29.11824,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Birlik Sanayi Sitesi 2.cad. No:108",
     "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169551953,
-    "wof:lastmodified":1449033354,
+    "wof:lastmodified":1466313251,
     "wof:name":"?zg?r Kimya Sanayi Ve Tic.ltd.sti",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.11824,41.021812,29.11824,41.021812],
+  "bbox": [
+    29.11824,
+    41.021812,
+    29.11824,
+    41.021812
+],
   "geometry": {"coordinates":[29.11824,41.021812],"type":"Point"}
 }

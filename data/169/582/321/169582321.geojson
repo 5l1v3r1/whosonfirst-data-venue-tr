@@ -2,13 +2,14 @@
   "id": 169582321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.969004,41.007408,28.969004,41.007408",
     "geom:latitude":41.007408,
     "geom:longitude":28.969004,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"G.pasa Cami Sk. No.39 Beyazit",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169582321,
-    "wof:lastmodified":1449034462,
+    "wof:lastmodified":1466313319,
     "wof:name":"Sastas Ayakk. San. A.s.",
     "wof:parent_id":85906497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.969004,41.007408,28.969004,41.007408],
+  "bbox": [
+    28.969004,
+    41.007408,
+    28.969004,
+    41.007408
+],
   "geometry": {"coordinates":[28.969004,41.007408],"type":"Point"}
 }

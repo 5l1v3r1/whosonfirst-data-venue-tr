@@ -2,13 +2,14 @@
   "id": 169530359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.027914,41.028084,29.027914,41.028084",
     "geom:latitude":41.028084,
     "geom:longitude":29.027914,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Caddesi 26, Istanbul",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169530359,
-    "wof:lastmodified":1449034441,
+    "wof:lastmodified":1466313204,
     "wof:name":"Alternatif Menkul Kiymetler As (invest A)",
     "wof:parent_id":85929383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.027914,41.028084,29.027914,41.028084],
+  "bbox": [
+    29.027914,
+    41.028084,
+    29.027914,
+    41.028084
+],
   "geometry": {"coordinates":[29.027914,41.028084],"type":"Point"}
 }

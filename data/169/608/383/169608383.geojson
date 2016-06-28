@@ -2,13 +2,14 @@
   "id": 169608383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.00738,41.044666,29.00738,41.044666",
     "geom:latitude":41.044666,
     "geom:longitude":29.00738,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbaros Bulv. No:64/4 Besiktas",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169608383,
-    "wof:lastmodified":1449034084,
+    "wof:lastmodified":1466313355,
     "wof:name":"Tayca Spor Sahalari",
     "wof:parent_id":85906569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [29.00738,41.044666,29.00738,41.044666],
+  "bbox": [
+    29.00738,
+    41.044666,
+    29.00738,
+    41.044666
+],
   "geometry": {"coordinates":[29.00738,41.044666],"type":"Point"}
 }

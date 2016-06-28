@@ -2,13 +2,14 @@
   "id": 169640425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.871597,39.972832,32.871597,39.972832",
     "geom:latitude":39.972832,
     "geom:longitude":32.871597,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kusadasi Sok. 12/10 K.subayevleri",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169640425,
-    "wof:lastmodified":1449034103,
+    "wof:lastmodified":1466313375,
     "wof:name":"Gencel Tebesir",
     "wof:parent_id":85904117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.871597,39.972832,32.871597,39.972832],
+  "bbox": [
+    32.871597,
+    39.972832,
+    32.871597,
+    39.972832
+],
   "geometry": {"coordinates":[32.871597,39.972832],"type":"Point"}
 }

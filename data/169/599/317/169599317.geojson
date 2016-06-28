@@ -2,13 +2,14 @@
   "id": 169599317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.967424,41.013241,28.967424,41.013241",
     "geom:latitude":41.013241,
     "geom:longitude":28.967424,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mercan Semaver Sk. No: 11 A",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169599317,
-    "wof:lastmodified":1449034206,
+    "wof:lastmodified":1466313347,
     "wof:name":"Lion Clothing Industry & Trading Ltd. Co.",
     "wof:parent_id":85906465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.967424,41.013241,28.967424,41.013241],
+  "bbox": [
+    28.967424,
+    41.013241,
+    28.967424,
+    41.013241
+],
   "geometry": {"coordinates":[28.967424,41.013241],"type":"Point"}
 }

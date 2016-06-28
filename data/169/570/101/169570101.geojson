@@ -2,13 +2,14 @@
   "id": 169570101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.802141,41.00679,28.802141,41.00679",
     "geom:latitude":41.00679,
     "geom:longitude":28.802141,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?iragan Cd. No:41/1 Besiktas",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570101,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466313270,
     "wof:name":"Teknom M?hendis. Elektronik Iletisim San. Tic. Ltd. Sti.",
     "wof:parent_id":85929917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.802141,41.00679,28.802141,41.00679],
+  "bbox": [
+    28.802141,
+    41.00679,
+    28.802141,
+    41.00679
+],
   "geometry": {"coordinates":[28.802141,41.00679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169552635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.991205,41.054134,28.991205,41.054134",
     "geom:latitude":41.054134,
     "geom:longitude":28.991205,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kodaman S. No: 72/2 Osmanbey",
     "sg:city":"Eminonu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169552635,
-    "wof:lastmodified":1449034053,
+    "wof:lastmodified":1466313238,
     "wof:name":"Kristal Bijuteri",
     "wof:parent_id":85929491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.991205,41.054134,28.991205,41.054134],
+  "bbox": [
+    28.991205,
+    41.054134,
+    28.991205,
+    41.054134
+],
   "geometry": {"coordinates":[28.991205,41.054134],"type":"Point"}
 }

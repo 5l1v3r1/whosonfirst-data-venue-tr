@@ -2,13 +2,14 @@
   "id": 169573197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.007875,41.062359,29.007875,41.062359",
     "geom:latitude":41.062359,
     "geom:longitude":29.007875,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yasemin Sok. No:40/11/",
     "sg:city":"Gayrettepe",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169573197,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466313285,
     "wof:name":"Kampet Denizcilik Ve Akaryakit Ltd.sti.",
     "wof:parent_id":85929407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.007875,41.062359,29.007875,41.062359],
+  "bbox": [
+    29.007875,
+    41.062359,
+    29.007875,
+    41.062359
+],
   "geometry": {"coordinates":[29.007875,41.062359],"type":"Point"}
 }

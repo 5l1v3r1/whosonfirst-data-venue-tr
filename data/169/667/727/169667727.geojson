@@ -2,13 +2,14 @@
   "id": 169667727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.745106,39.98056,32.745106,39.98056",
     "geom:latitude":39.98056,
     "geom:longitude":32.745106,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"58. Sk. No:67 Ostim",
     "sg:city":"\u00dcmraniye",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169667727,
-    "wof:lastmodified":1449034843,
+    "wof:lastmodified":1466313399,
     "wof:name":"Ugur Mutfak San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "utensil"
     ]
 },
-  "bbox": [32.745106,39.98056,32.745106,39.98056],
+  "bbox": [
+    32.745106,
+    39.98056,
+    32.745106,
+    39.98056
+],
   "geometry": {"coordinates":[32.745106,39.98056],"type":"Point"}
 }

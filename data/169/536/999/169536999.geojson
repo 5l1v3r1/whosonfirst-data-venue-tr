@@ -2,13 +2,14 @@
   "id": 169536999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.089121,41.02499,29.089121,41.02499",
     "geom:latitude":41.02499,
     "geom:longitude":29.089121,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemdag Cad 60/2",
     "sg:city":"\u00dcmraniye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536999,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank As",
     "wof:parent_id":85930133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.089121,41.02499,29.089121,41.02499],
+  "bbox": [
+    29.089121,
+    41.02499,
+    29.089121,
+    41.02499
+],
   "geometry": {"coordinates":[29.089121,41.02499],"type":"Point"}
 }

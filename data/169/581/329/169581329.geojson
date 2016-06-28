@@ -2,13 +2,14 @@
   "id": 169581329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.913784,41.000423,28.913784,41.000423",
     "geom:latitude":41.000423,
     "geom:longitude":28.913784,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"V.efendi Mh. 75.sk. No.2 Zeytinburnu",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169581329,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466313320,
     "wof:name":"M.a.s. Ayakkabi Ltd.sti.",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.913784,41.000423,28.913784,41.000423],
+  "bbox": [
+    28.913784,
+    41.000423,
+    28.913784,
+    41.000423
+],
   "geometry": {"coordinates":[28.913784,41.000423],"type":"Point"}
 }

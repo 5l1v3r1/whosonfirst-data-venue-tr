@@ -2,13 +2,14 @@
   "id": 169686673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.313736,37.000717,35.313736,37.000717",
     "geom:latitude":37.000717,
     "geom:longitude":35.313736,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurtulus Mah. Sinasi Efendi Cad. Ramazanoglu Apt. B.blk. Zemin Kat.",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169686673,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313457,
     "wof:name":"Gunes Jaluzi Im. Ins. San. Ve Tic. Ltd. Sti.",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholstering"
     ]
 },
-  "bbox": [35.313736,37.000717,35.313736,37.000717],
+  "bbox": [
+    35.313736,
+    37.000717,
+    35.313736,
+    37.000717
+],
   "geometry": {"coordinates":[35.313736,37.000717],"type":"Point"}
 }

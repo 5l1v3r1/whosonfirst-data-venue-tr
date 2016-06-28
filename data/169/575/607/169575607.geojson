@@ -2,13 +2,14 @@
   "id": 169575607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.337799,41.636398,32.337799,41.636398",
     "geom:latitude":41.636398,
     "geom:longitude":32.337799,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sepetcioglu Sk. Annem Apt. K.1",
     "sg:city":"Karak\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169575607,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466313306,
     "wof:name":"Cakrazlilar Nak. Tic.koll.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [32.337799,41.636398,32.337799,41.636398],
+  "bbox": [
+    32.337799,
+    41.636398,
+    32.337799,
+    41.636398
+],
   "geometry": {"coordinates":[32.337799,41.636398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169545667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.826771,41.034302,28.826771,41.034302",
     "geom:latitude":41.034302,
     "geom:longitude":28.826771,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"T?en Cad.no. 1",
     "sg:city":"Anamur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169545667,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466313229,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.826771,41.034302,28.826771,41.034302],
+  "bbox": [
+    28.826771,
+    41.034302,
+    28.826771,
+    41.034302
+],
   "geometry": {"coordinates":[28.826771,41.034302],"type":"Point"}
 }

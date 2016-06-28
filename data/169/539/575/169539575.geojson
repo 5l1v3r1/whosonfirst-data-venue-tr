@@ -2,13 +2,14 @@
   "id": 169539575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.091702,41.025257,29.091702,41.025257",
     "geom:latitude":41.025257,
     "geom:longitude":29.091702,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alemdag Caddesi No. 94",
     "sg:city":"Dudullu",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169539575,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466313433,
     "wof:name":"S?erbank As",
     "wof:parent_id":85930133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.091702,41.025257,29.091702,41.025257],
+  "bbox": [
+    29.091702,
+    41.025257,
+    29.091702,
+    41.025257
+],
   "geometry": {"coordinates":[29.091702,41.025257],"type":"Point"}
 }

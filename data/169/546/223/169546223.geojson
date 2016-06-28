@@ -2,13 +2,14 @@
   "id": 169546223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.534706,38.755547,30.534706,38.755547",
     "geom:latitude":38.755547,
     "geom:longitude":30.534706,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dag Mah Barboros",
     "sg:city":"Kusadasi",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169546223,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466313214,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.534706,38.755547,30.534706,38.755547],
+  "bbox": [
+    30.534706,
+    38.755547,
+    30.534706,
+    38.755547
+],
   "geometry": {"coordinates":[30.534706,38.755547],"type":"Point"}
 }

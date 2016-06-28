@@ -2,13 +2,14 @@
   "id": 169542557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.139328,38.426022,27.139328,38.426022",
     "geom:latitude":38.426022,
     "geom:longitude":27.139328,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sair Esref Bul 23",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169542557,
-    "wof:lastmodified":1449035223,
+    "wof:lastmodified":1466313441,
     "wof:name":"T?k Dis Ticaret, Bankasi As",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.139328,38.426022,27.139328,38.426022],
+  "bbox": [
+    27.139328,
+    38.426022,
+    27.139328,
+    38.426022
+],
   "geometry": {"coordinates":[27.139328,38.426022],"type":"Point"}
 }

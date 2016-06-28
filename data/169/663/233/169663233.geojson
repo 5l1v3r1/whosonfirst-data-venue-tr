@@ -2,13 +2,14 @@
   "id": 169663233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.376102,37.062946,37.376102,37.062946",
     "geom:latitude":37.062946,
     "geom:longitude":37.376102,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kss 20 Nolu Cadde 8 Ada 4 Tip No: 10 G?l?e",
     "sg:city":"Harbiye",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169663233,
-    "wof:lastmodified":1449035107,
+    "wof:lastmodified":1466313394,
     "wof:name":"Kiratli Elektronik Kilit Ve Celik Kasa San.ltd.",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "utensil"
     ]
 },
-  "bbox": [37.376102,37.062946,37.376102,37.062946],
+  "bbox": [
+    37.376102,
+    37.062946,
+    37.376102,
+    37.062946
+],
   "geometry": {"coordinates":[37.376102,37.062946],"type":"Point"}
 }

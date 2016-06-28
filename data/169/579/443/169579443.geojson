@@ -2,13 +2,14 @@
   "id": 169579443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.838055,41.028065,28.838055,41.028065",
     "geom:latitude":41.028065,
     "geom:longitude":28.838055,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbaros Bulvari, Uzay Apt. No.51 K.5 D.13",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169579443,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466313307,
     "wof:name":"Uzunoglu Gozetme Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [28.838055,41.028065,28.838055,41.028065],
+  "bbox": [
+    28.838055,
+    41.028065,
+    28.838055,
+    41.028065
+],
   "geometry": {"coordinates":[28.838055,41.028065],"type":"Point"}
 }

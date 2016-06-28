@@ -2,13 +2,14 @@
   "id": 169552799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.025663,40.987583,29.025663,40.987583",
     "geom:latitude":40.987583,
     "geom:longitude":29.025663,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Serasker Cad. Sakiz Sok. No:40/4 D:11",
     "sg:city":"Kadikoy",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169552799,
-    "wof:lastmodified":1449034057,
+    "wof:lastmodified":1466313248,
     "wof:name":"Aben International",
     "wof:parent_id":85929481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [29.025663,40.987583,29.025663,40.987583],
+  "bbox": [
+    29.025663,
+    40.987583,
+    29.025663,
+    40.987583
+],
   "geometry": {"coordinates":[29.025663,40.987583],"type":"Point"}
 }

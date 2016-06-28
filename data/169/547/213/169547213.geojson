@@ -2,13 +2,14 @@
   "id": 169547213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.34066,40.786377,29.34066,40.786377",
     "geom:latitude":40.786377,
     "geom:longitude":29.34066,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yapi Kredi Plaza",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169547213,
-    "wof:lastmodified":1449033005,
+    "wof:lastmodified":1466313216,
     "wof:name":"Yapi Ve Kredi Bankasi A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.34066,40.786377,29.34066,40.786377],
+  "bbox": [
+    29.34066,
+    40.786377,
+    29.34066,
+    40.786377
+],
   "geometry": {"coordinates":[29.34066,40.786377],"type":"Point"}
 }

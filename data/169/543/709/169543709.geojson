@@ -2,13 +2,14 @@
   "id": 169543709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.864006,39.90905,32.864006,39.90905",
     "geom:latitude":39.90905,
     "geom:longitude":32.864006,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esat Cad. No.85/21",
     "sg:city":"K??esat",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169543709,
-    "wof:lastmodified":1449033335,
+    "wof:lastmodified":1466313443,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":85929547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.864006,39.90905,32.864006,39.90905],
+  "bbox": [
+    32.864006,
+    39.90905,
+    32.864006,
+    39.90905
+],
   "geometry": {"coordinates":[32.864006,39.90905],"type":"Point"}
 }

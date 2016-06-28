@@ -2,13 +2,14 @@
   "id": 169607725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.012461,41.062237,29.012461,41.062237",
     "geom:latitude":41.062237,
     "geom:longitude":29.012461,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sakir Kesebir Sok. No:38/14 Balmumcu-besiktas/istanbul",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169607725,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466313357,
     "wof:name":"Sarayli Tur.ve Spor.tes.ins.a.s.",
     "wof:parent_id":85929407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [29.012461,41.062237,29.012461,41.062237],
+  "bbox": [
+    29.012461,
+    41.062237,
+    29.012461,
+    41.062237
+],
   "geometry": {"coordinates":[29.012461,41.062237],"type":"Point"}
 }

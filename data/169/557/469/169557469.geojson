@@ -2,13 +2,14 @@
   "id": 169557469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.969868,41.05109,28.969868,41.05109",
     "geom:latitude":41.05109,
     "geom:longitude":28.969868,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Siracevizler Cad. No. 14 / 16 Sisli",
     "sg:city":"Besy?evler",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169557469,
-    "wof:lastmodified":1449035038,
+    "wof:lastmodified":1466313264,
     "wof:name":"Santem End. Konut San. Tic. A.s.",
     "wof:parent_id":85929423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [28.969868,41.05109,28.969868,41.05109],
+  "bbox": [
+    28.969868,
+    41.05109,
+    28.969868,
+    41.05109
+],
   "geometry": {"coordinates":[28.969868,41.05109],"type":"Point"}
 }

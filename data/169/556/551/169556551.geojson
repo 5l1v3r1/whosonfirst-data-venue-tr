@@ -2,13 +2,14 @@
   "id": 169556551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.858013,41.026459,28.858013,41.026459",
     "geom:latitude":41.026459,
     "geom:longitude":28.858013,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zuhuratbaba Cad. No. 18 / 2 Bakirk?",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169556551,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466313262,
     "wof:name":"Burak Ins. Ve Tesisat San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [28.858013,41.026459,28.858013,41.026459],
+  "bbox": [
+    28.858013,
+    41.026459,
+    28.858013,
+    41.026459
+],
   "geometry": {"coordinates":[28.858013,41.026459],"type":"Point"}
 }

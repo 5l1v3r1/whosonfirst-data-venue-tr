@@ -2,13 +2,14 @@
   "id": 169604237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.820696,40.981956,28.820696,40.981956",
     "geom:latitude":40.981956,
     "geom:longitude":28.820696,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kasimpasa Iplik? Firin Sk. No:18 Ist.",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169604237,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1466313350,
     "wof:name":"Brandi Eksport Konf. San. Tic. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "material"
     ]
 },
-  "bbox": [28.820696,40.981956,28.820696,40.981956],
+  "bbox": [
+    28.820696,
+    40.981956,
+    28.820696,
+    40.981956
+],
   "geometry": {"coordinates":[28.820696,40.981956],"type":"Point"}
 }

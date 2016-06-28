@@ -2,13 +2,14 @@
   "id": 169612315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.291389,37.743332,29.291389,37.743332",
     "geom:latitude":37.743332,
     "geom:longitude":29.291389,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Denizli",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169612315,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466313356,
     "wof:name":"Askeri Hastane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [29.291389,37.743332,29.291389,37.743332],
+  "bbox": [
+    29.291389,
+    37.743332,
+    29.291389,
+    37.743332
+],
   "geometry": {"coordinates":[29.291389,37.743332],"type":"Point"}
 }

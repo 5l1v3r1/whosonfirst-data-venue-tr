@@ -2,13 +2,14 @@
   "id": 169673397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.798912,40.980923,28.798912,40.980923",
     "geom:latitude":40.980923,
     "geom:longitude":28.798912,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baglari? Cad. No:26 Avcilar",
     "sg:city":"Levet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169673397,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466313405,
     "wof:name":"Art Gida Paz.san.ltd.",
     "wof:parent_id":85929917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sweet"
     ]
 },
-  "bbox": [28.798912,40.980923,28.798912,40.980923],
+  "bbox": [
+    28.798912,
+    40.980923,
+    28.798912,
+    40.980923
+],
   "geometry": {"coordinates":[28.798912,40.980923],"type":"Point"}
 }

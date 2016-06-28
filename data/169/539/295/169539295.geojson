@@ -2,13 +2,14 @@
   "id": 169539295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.87886,36.916996,34.87886,36.916996",
     "geom:latitude":36.916996,
     "geom:longitude":34.87886,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zafer Cad 91",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169539295,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466313432,
     "wof:name":"Sekerbank Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.87886,36.916996,34.87886,36.916996],
+  "bbox": [
+    34.87886,
+    36.916996,
+    34.87886,
+    36.916996
+],
   "geometry": {"coordinates":[34.87886,36.916996],"type":"Point"}
 }

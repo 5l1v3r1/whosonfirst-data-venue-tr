@@ -2,13 +2,14 @@
   "id": 169672789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.019806,41.122284,29.019806,41.122284",
     "geom:latitude":41.122284,
     "geom:longitude":29.019806,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dereboyu Cad. Meydan Sk. No.28 Beybi Giz Plaza K.19",
     "sg:city":"Maslak",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169672789,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466313449,
     "wof:name":"Sgs Supervise Gozetme Etud Kontrol Servisleri A.s.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [29.019806,41.122284,29.019806,41.122284],
+  "bbox": [
+    29.019806,
+    41.122284,
+    29.019806,
+    41.122284
+],
   "geometry": {"coordinates":[29.019806,41.122284],"type":"Point"}
 }

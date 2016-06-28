@@ -2,13 +2,14 @@
   "id": 169639643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.195625,40.901619,29.195625,40.901619",
     "geom:latitude":40.901619,
     "geom:longitude":29.195625,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Isiklar Cd. No:22/1-2 Ulus",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169639643,
-    "wof:lastmodified":1449035954,
+    "wof:lastmodified":1466313377,
     "wof:name":"Er-al Kirtasiye B?ro Malzeme. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.195625,40.901619,29.195625,40.901619],
+  "bbox": [
+    29.195625,
+    40.901619,
+    29.195625,
+    40.901619
+],
   "geometry": {"coordinates":[29.195625,40.901619],"type":"Point"}
 }

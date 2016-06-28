@@ -2,13 +2,14 @@
   "id": 169572539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.211624,40.891857,29.211624,40.891857",
     "geom:latitude":40.891857,
     "geom:longitude":29.211624,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cd. Platin Apt. No:43/1",
     "sg:city":"Taksim",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169572539,
-    "wof:lastmodified":1449034709,
+    "wof:lastmodified":1466313298,
     "wof:name":"Denmar Denizcilik.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.211624,40.891857,29.211624,40.891857],
+  "bbox": [
+    29.211624,
+    40.891857,
+    29.211624,
+    40.891857
+],
   "geometry": {"coordinates":[29.211624,40.891857],"type":"Point"}
 }

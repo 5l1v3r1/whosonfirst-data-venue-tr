@@ -2,13 +2,14 @@
   "id": 169560473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.858028,39.956917,32.858028,39.956917",
     "geom:latitude":39.956917,
     "geom:longitude":32.858028,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Y.ziraat Mah. 11.sok. No:1/26 Diskapi",
     "sg:city":"Fatih",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560473,
-    "wof:lastmodified":1449035180,
+    "wof:lastmodified":1466313255,
     "wof:name":"Goksu Temizlik San.tic.ltd.sti.",
     "wof:parent_id":85904081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.858028,39.956917,32.858028,39.956917],
+  "bbox": [
+    32.858028,
+    39.956917,
+    32.858028,
+    39.956917
+],
   "geometry": {"coordinates":[32.858028,39.956917],"type":"Point"}
 }

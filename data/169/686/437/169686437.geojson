@@ -2,13 +2,14 @@
   "id": 169686437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.955627,41.008801,28.955627,41.008801",
     "geom:latitude":41.008801,
     "geom:longitude":28.955627,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mesihpasa Mh. Sair Hasmet Sk. No:51 Laleli",
     "sg:city":"Gebze",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169686437,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313454,
     "wof:name":"Ankara Tekstil Pazarlama Tic. A.s.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.955627,41.008801,28.955627,41.008801],
+  "bbox": [
+    28.955627,
+    41.008801,
+    28.955627,
+    41.008801
+],
   "geometry": {"coordinates":[28.955627,41.008801],"type":"Point"}
 }

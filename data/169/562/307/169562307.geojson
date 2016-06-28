@@ -2,13 +2,14 @@
   "id": 169562307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.097996,40.951847,29.097996,40.951847",
     "geom:latitude":40.951847,
     "geom:longitude":29.097996,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. No:5/1 Maltepe",
     "sg:city":"Kahramanlar",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562307,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466313256,
     "wof:name":"Sil-ay Genel Temiz. Hali Yikama Dekor. Taahh?t Ltd. Sti.",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.097996,40.951847,29.097996,40.951847],
+  "bbox": [
+    29.097996,
+    40.951847,
+    29.097996,
+    40.951847
+],
   "geometry": {"coordinates":[29.097996,40.951847],"type":"Point"}
 }

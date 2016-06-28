@@ -2,13 +2,14 @@
   "id": 169665629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.423813,38.743778,35.423813,38.743778",
     "geom:latitude":38.743778,
     "geom:longitude":35.423813,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni San. Zuhal Cd. 2. Sk. No:3",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169665629,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466313397,
     "wof:name":"Olgun ?elik Esya San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "utensil"
     ]
 },
-  "bbox": [35.423813,38.743778,35.423813,38.743778],
+  "bbox": [
+    35.423813,
+    38.743778,
+    35.423813,
+    38.743778
+],
   "geometry": {"coordinates":[35.423813,38.743778],"type":"Point"}
 }

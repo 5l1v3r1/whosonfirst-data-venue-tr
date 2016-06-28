@@ -2,13 +2,14 @@
   "id": 169539127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.323603,40.667789,29.323603,40.667789",
     "geom:latitude":40.667789,
     "geom:longitude":29.323603,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yakut Sok. 10",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169539127,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466313431,
     "wof:name":"Pamukbank Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.323603,40.667789,29.323603,40.667789],
+  "bbox": [
+    29.323603,
+    40.667789,
+    29.323603,
+    40.667789
+],
   "geometry": {"coordinates":[29.323603,40.667789],"type":"Point"}
 }

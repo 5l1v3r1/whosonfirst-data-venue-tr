@@ -2,13 +2,14 @@
   "id": 169569109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.167759,38.425938,27.167759,38.425938",
     "geom:latitude":38.425938,
     "geom:longitude":27.167759,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1145/10 Sok.no:21 Yenisehir",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169569109,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466313269,
     "wof:name":"Nam Ic Ve Dis Ticaret A.s",
     "wof:parent_id":85904105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [27.167759,38.425938,27.167759,38.425938],
+  "bbox": [
+    27.167759,
+    38.425938,
+    27.167759,
+    38.425938
+],
   "geometry": {"coordinates":[27.167759,38.425938],"type":"Point"}
 }

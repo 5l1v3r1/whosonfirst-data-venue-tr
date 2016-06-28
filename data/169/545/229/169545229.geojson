@@ -2,13 +2,14 @@
   "id": 169545229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.055231,40.181606,29.055231,40.181606",
     "geom:latitude":40.181606,
     "geom:longitude":29.055231,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayramyeri Meydani",
     "sg:city":"Denizli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169545229,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466313215,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.055231,40.181606,29.055231,40.181606],
+  "bbox": [
+    29.055231,
+    40.181606,
+    29.055231,
+    40.181606
+],
   "geometry": {"coordinates":[29.055231,40.181606],"type":"Point"}
 }

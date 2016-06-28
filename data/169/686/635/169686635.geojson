@@ -2,13 +2,14 @@
   "id": 169686635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.91267,41.020466,28.91267,41.020466",
     "geom:latitude":41.020466,
     "geom:longitude":28.91267,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Z?r?evler Mah.handeg? Sok. No:61 Maltepe",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169686635,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313456,
     "wof:name":"Erol Perde Ve Mekanizma Sistemleri Ith.ihr A.s",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.91267,41.020466,28.91267,41.020466],
+  "bbox": [
+    28.91267,
+    41.020466,
+    28.91267,
+    41.020466
+],
   "geometry": {"coordinates":[28.91267,41.020466],"type":"Point"}
 }

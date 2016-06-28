@@ -2,13 +2,14 @@
   "id": 169581311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.048174,41.093338,29.048174,41.093338",
     "geom:latitude":41.093338,
     "geom:longitude":29.048174,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gedikpasa Haman Cad. Neviye Sok. Tan. Is Hani No:41/a Beyazit",
     "sg:city":"Beyazit",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169581311,
-    "wof:lastmodified":1449033379,
+    "wof:lastmodified":1466313319,
     "wof:name":"K?se Ayakkabi Tekstil Bilgisayar San.tic.ltd.sti.",
     "wof:parent_id":85930219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.048174,41.093338,29.048174,41.093338],
+  "bbox": [
+    29.048174,
+    41.093338,
+    29.048174,
+    41.093338
+],
   "geometry": {"coordinates":[29.048174,41.093338],"type":"Point"}
 }

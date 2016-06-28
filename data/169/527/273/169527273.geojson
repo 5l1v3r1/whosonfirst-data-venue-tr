@@ -2,13 +2,14 @@
   "id": 169527273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.325428,36.986286,35.325428,36.986286",
     "geom:latitude":36.986286,
     "geom:longitude":35.325428,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Emek Mah.5. Sok. No:2/a",
     "sg:city":"Seyhan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169527273,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466313186,
     "wof:name":"Monateks Giyim San.tic.a.s.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [35.325428,36.986286,35.325428,36.986286],
+  "bbox": [
+    35.325428,
+    36.986286,
+    35.325428,
+    36.986286
+],
   "geometry": {"coordinates":[35.325428,36.986286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169541149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.809486,39.922398,32.809486,39.922398",
     "geom:latitude":39.922398,
     "geom:longitude":32.809486,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Askabat Cad 10/7",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169541149,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466313438,
     "wof:name":"Toprakbank As",
     "wof:parent_id":85929583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.809486,39.922398,32.809486,39.922398],
+  "bbox": [
+    32.809486,
+    39.922398,
+    32.809486,
+    39.922398
+],
   "geometry": {"coordinates":[32.809486,39.922398],"type":"Point"}
 }

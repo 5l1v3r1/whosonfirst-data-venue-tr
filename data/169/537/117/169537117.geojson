@@ -2,13 +2,14 @@
   "id": 169537117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.441868,36.786957,31.441868,36.786957",
     "geom:latitude":36.786957,
     "geom:longitude":31.441868,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hisar Mah Antalya",
     "sg:city":"Manavgat",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169537117,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank As",
     "wof:parent_id":85934649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [31.441868,36.786957,31.441868,36.786957],
+  "bbox": [
+    31.441868,
+    36.786957,
+    31.441868,
+    36.786957
+],
   "geometry": {"coordinates":[31.441868,36.786957],"type":"Point"}
 }

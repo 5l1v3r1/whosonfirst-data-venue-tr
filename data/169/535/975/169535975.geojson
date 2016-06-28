@@ -2,13 +2,14 @@
   "id": 169535975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.386757,40.769615,30.386757,40.769615",
     "geom:latitude":40.769615,
     "geom:longitude":30.386757,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Maliye Cad 15",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169535975,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466313421,
     "wof:name":"Iktisat Bankasi, T?k As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.386757,40.769615,30.386757,40.769615],
+  "bbox": [
+    30.386757,
+    40.769615,
+    30.386757,
+    40.769615
+],
   "geometry": {"coordinates":[30.386757,40.769615],"type":"Point"}
 }

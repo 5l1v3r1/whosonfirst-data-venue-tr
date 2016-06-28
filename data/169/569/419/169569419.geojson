@@ -2,13 +2,14 @@
   "id": 169569419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.090769,40.971233,29.090769,40.971233",
     "geom:latitude":40.971233,
     "geom:longitude":29.090769,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hilmi Pasa Cad. No:27 Kozyatagi",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569419,
-    "wof:lastmodified":1449035833,
+    "wof:lastmodified":1466313286,
     "wof:name":"Perpo Cevre G?venlik Teknolojileri San.tic.ltd.",
     "wof:parent_id":85930005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.090769,40.971233,29.090769,40.971233],
+  "bbox": [
+    29.090769,
+    40.971233,
+    29.090769,
+    40.971233
+],
   "geometry": {"coordinates":[29.090769,40.971233],"type":"Point"}
 }

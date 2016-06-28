@@ -2,13 +2,14 @@
   "id": 169529973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.880524,39.88768,32.880524,39.88768",
     "geom:latitude":39.88768,
     "geom:longitude":32.880524,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B?l? Sok. No:2/15 06660 Kavaklidere Ankara",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169529973,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466313198,
     "wof:name":"Dogan?z Sigorta Aracilik Hiz Ltd Sti",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "insurance"
     ]
 },
-  "bbox": [32.880524,39.88768,32.880524,39.88768],
+  "bbox": [
+    32.880524,
+    39.88768,
+    32.880524,
+    39.88768
+],
   "geometry": {"coordinates":[32.880524,39.88768],"type":"Point"}
 }

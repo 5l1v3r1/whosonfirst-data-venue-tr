@@ -2,13 +2,14 @@
   "id": 169568669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.718206,36.888721,30.718206,36.888721",
     "geom:latitude":36.888721,
     "geom:longitude":30.718206,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Cetinkaya Cad.no:121",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568669,
-    "wof:lastmodified":1449032610,
+    "wof:lastmodified":1466313293,
     "wof:name":"Kiratli Celik Kasa San.ve Tic. Ltd. Sti.",
     "wof:parent_id":85929965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [30.718206,36.888721,30.718206,36.888721],
+  "bbox": [
+    30.718206,
+    36.888721,
+    30.718206,
+    36.888721
+],
   "geometry": {"coordinates":[30.718206,36.888721],"type":"Point"}
 }

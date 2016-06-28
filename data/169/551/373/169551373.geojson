@@ -2,13 +2,14 @@
   "id": 169551373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.337841,41.289719,36.337841,41.289719",
     "geom:latitude":41.289719,
     "geom:longitude":36.337841,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Organize San. Bolg. M.erdogan Cebeci Bulv. No:17",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551373,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313224,
     "wof:name":"Halisa Ltd.sti (yumos)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [36.337841,41.289719,36.337841,41.289719],
+  "bbox": [
+    36.337841,
+    41.289719,
+    36.337841,
+    41.289719
+],
   "geometry": {"coordinates":[36.337841,41.289719],"type":"Point"}
 }

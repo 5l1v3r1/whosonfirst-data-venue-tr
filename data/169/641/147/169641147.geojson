@@ -2,13 +2,14 @@
   "id": 169641147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.974573,41.014412,28.974573,41.014412",
     "geom:latitude":41.014412,
     "geom:longitude":28.974573,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B?? Postane Cd. No:8 Sirkeci",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169641147,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466313372,
     "wof:name":"G?zen Kirtasiye",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.974573,41.014412,28.974573,41.014412],
+  "bbox": [
+    28.974573,
+    41.014412,
+    28.974573,
+    41.014412
+],
   "geometry": {"coordinates":[28.974573,41.014412],"type":"Point"}
 }

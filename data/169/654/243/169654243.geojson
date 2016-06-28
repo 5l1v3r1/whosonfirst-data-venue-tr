@@ -2,13 +2,14 @@
   "id": 169654243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.747787,39.97121,32.747787,39.97121",
     "geom:latitude":39.97121,
     "geom:longitude":32.747787,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alinteri Bulvari No:88 Ostim",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169654243,
-    "wof:lastmodified":1449033791,
+    "wof:lastmodified":1466313384,
     "wof:name":"?nder Plastik San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.747787,39.97121,32.747787,39.97121],
+  "bbox": [
+    32.747787,
+    39.97121,
+    32.747787,
+    39.97121
+],
   "geometry": {"coordinates":[32.747787,39.97121],"type":"Point"}
 }

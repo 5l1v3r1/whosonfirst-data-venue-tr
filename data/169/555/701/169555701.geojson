@@ -2,13 +2,14 @@
   "id": 169555701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.883926,41.035839,28.883926,41.035839",
     "geom:latitude":41.035839,
     "geom:longitude":28.883926,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Davutpasa Cd. No.30",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169555701,
-    "wof:lastmodified":1449035497,
+    "wof:lastmodified":1466313239,
     "wof:name":"Ufuk A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [28.883926,41.035839,28.883926,41.035839],
+  "bbox": [
+    28.883926,
+    41.035839,
+    28.883926,
+    41.035839
+],
   "geometry": {"coordinates":[28.883926,41.035839],"type":"Point"}
 }

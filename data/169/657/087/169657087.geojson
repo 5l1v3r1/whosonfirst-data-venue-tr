@@ -2,13 +2,14 @@
   "id": 169657087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.083336,41.093033,29.083336,41.093033",
     "geom:latitude":41.093033,
     "geom:longitude":29.083336,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Havuzbasi Cad. 21/1 Kavacik/istanbul.",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169657087,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466313388,
     "wof:name":"Afit Dis Ticaret Ltd.sti.",
     "wof:parent_id":85930211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [29.083336,41.093033,29.083336,41.093033],
+  "bbox": [
+    29.083336,
+    41.093033,
+    29.083336,
+    41.093033
+],
   "geometry": {"coordinates":[29.083336,41.093033],"type":"Point"}
 }

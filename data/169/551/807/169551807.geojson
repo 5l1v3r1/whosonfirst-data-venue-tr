@@ -2,13 +2,14 @@
   "id": 169551807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987553,41.075844,28.987553,41.075844",
     "geom:latitude":41.075844,
     "geom:longitude":28.987553,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Cd. 62/1 Mecidiyek?",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169551807,
-    "wof:lastmodified":1449033352,
+    "wof:lastmodified":1466313244,
     "wof:name":"Yatas Yatak Ve Yorgan San. Tic. A.s.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [28.987553,41.075844,28.987553,41.075844],
+  "bbox": [
+    28.987553,
+    41.075844,
+    28.987553,
+    41.075844
+],
   "geometry": {"coordinates":[28.987553,41.075844],"type":"Point"}
 }

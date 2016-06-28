@@ -2,13 +2,14 @@
   "id": 169686601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.905993,41.036102,28.905993,41.036102",
     "geom:latitude":41.036102,
     "geom:longitude":28.905993,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Terazidere Mah. Tuna Sok. No:20 Bayrampasa",
     "sg:city":"Sultanhamam",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169686601,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466313456,
     "wof:name":"Erkan Ticaret",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.905993,41.036102,28.905993,41.036102],
+  "bbox": [
+    28.905993,
+    41.036102,
+    28.905993,
+    41.036102
+],
   "geometry": {"coordinates":[28.905993,41.036102],"type":"Point"}
 }

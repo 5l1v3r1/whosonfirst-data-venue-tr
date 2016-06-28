@@ -2,13 +2,14 @@
   "id": 169579903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.887289,41.011784,28.887289,41.011784",
     "geom:latitude":41.011784,
     "geom:longitude":28.887289,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Selvi Sk. No.9 Merter",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169579903,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466313328,
     "wof:name":"Alaca Kundura San. A.s.",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.887289,41.011784,28.887289,41.011784],
+  "bbox": [
+    28.887289,
+    41.011784,
+    28.887289,
+    41.011784
+],
   "geometry": {"coordinates":[28.887289,41.011784],"type":"Point"}
 }

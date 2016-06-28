@@ -2,13 +2,14 @@
   "id": 169605719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.007883,41.077511,29.007883,41.077511",
     "geom:latitude":41.077511,
     "geom:longitude":29.007883,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Safak Sk. No:7 Nisantasi",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169605719,
-    "wof:lastmodified":1449034287,
+    "wof:lastmodified":1466313356,
     "wof:name":"Han Spor Malz. Ltd. Sti.",
     "wof:parent_id":85929845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [29.007883,41.077511,29.007883,41.077511],
+  "bbox": [
+    29.007883,
+    41.077511,
+    29.007883,
+    41.077511
+],
   "geometry": {"coordinates":[29.007883,41.077511],"type":"Point"}
 }

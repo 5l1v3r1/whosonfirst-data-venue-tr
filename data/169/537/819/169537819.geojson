@@ -2,13 +2,14 @@
   "id": 169537819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.980848,40.204781,28.980848,40.204781",
     "geom:latitude":40.204781,
     "geom:longitude":28.980848,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Konak Mahallesi",
     "sg:city":"S?e",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169537819,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313427,
     "wof:name":"Milli Aydin Bankasi Tas, Tarisbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.980848,40.204781,28.980848,40.204781],
+  "bbox": [
+    28.980848,
+    40.204781,
+    28.980848,
+    40.204781
+],
   "geometry": {"coordinates":[28.980848,40.204781],"type":"Point"}
 }

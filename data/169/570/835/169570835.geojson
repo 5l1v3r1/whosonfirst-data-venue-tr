@@ -2,13 +2,14 @@
   "id": 169570835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.798496,41.088402,28.798496,41.088402",
     "geom:latitude":41.088402,
     "geom:longitude":28.798496,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Organize San.b?gesi Metel Is San.sit.12.blok No:14",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169570835,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466313304,
     "wof:name":"Erdin? Metal Ve Sac Ticareti",
     "wof:parent_id":85929961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "iron"
     ]
 },
-  "bbox": [28.798496,41.088402,28.798496,41.088402],
+  "bbox": [
+    28.798496,
+    41.088402,
+    28.798496,
+    41.088402
+],
   "geometry": {"coordinates":[28.798496,41.088402],"type":"Point"}
 }

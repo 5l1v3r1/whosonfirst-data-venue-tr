@@ -2,13 +2,14 @@
   "id": 169573411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.011803,41.054176,29.011803,41.054176",
     "geom:latitude":41.054176,
     "geom:longitude":29.011803,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Murbasan Sk.koza Ismek.c/blok K.5",
     "sg:city":"Balmumcu",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169573411,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466313296,
     "wof:name":"Mariner Gemicilik A. S.",
     "wof:parent_id":85904169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.011803,41.054176,29.011803,41.054176],
+  "bbox": [
+    29.011803,
+    41.054176,
+    29.011803,
+    41.054176
+],
   "geometry": {"coordinates":[29.011803,41.054176],"type":"Point"}
 }

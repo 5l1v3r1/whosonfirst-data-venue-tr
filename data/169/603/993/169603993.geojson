@@ -2,13 +2,14 @@
   "id": 169603993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.966915,41.010914,28.966915,41.010914",
     "geom:latitude":41.010914,
     "geom:longitude":28.966915,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?arsikapi Pertev Pasa Sk. Derby Han No:213 Beyazit",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169603993,
-    "wof:lastmodified":1449035453,
+    "wof:lastmodified":1466313355,
     "wof:name":"Canel Teks. Ith. Ihr. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "material"
     ]
 },
-  "bbox": [28.966915,41.010914,28.966915,41.010914],
+  "bbox": [
+    28.966915,
+    41.010914,
+    28.966915,
+    41.010914
+],
   "geometry": {"coordinates":[28.966915,41.010914],"type":"Point"}
 }

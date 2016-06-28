@@ -2,13 +2,14 @@
   "id": 169537197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.953983,40.765331,29.953983,40.765331",
     "geom:latitude":40.765331,
     "geom:longitude":29.953983,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Karabas Mah, Demiryolu Cad",
     "sg:city":"Kocaeli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169537197,
-    "wof:lastmodified":1449033500,
+    "wof:lastmodified":1466313426,
     "wof:name":"Kocbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.953983,40.765331,29.953983,40.765331],
+  "bbox": [
+    29.953983,
+    40.765331,
+    29.953983,
+    40.765331
+],
   "geometry": {"coordinates":[29.953983,40.765331],"type":"Point"}
 }

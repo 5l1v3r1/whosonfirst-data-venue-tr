@@ -2,13 +2,14 @@
   "id": 169579957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.978012,41.039505,28.978012,41.039505",
     "geom:latitude":41.039505,
     "geom:longitude":28.978012,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaskaval Sok.no.8/3 Yenisehir Beyoglu",
     "sg:city":"Osmangazi",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169579957,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1466313331,
     "wof:name":"Andante Shoes",
     "wof:parent_id":85906561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.978012,41.039505,28.978012,41.039505],
+  "bbox": [
+    28.978012,
+    41.039505,
+    28.978012,
+    41.039505
+],
   "geometry": {"coordinates":[28.978012,41.039505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169553813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.576166,41.019596,28.576166,41.019596",
     "geom:latitude":41.019596,
     "geom:longitude":28.576166,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Londra Asf.no:15",
     "sg:city":"Sirinevler",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169553813,
-    "wof:lastmodified":1449032707,
+    "wof:lastmodified":1466313239,
     "wof:name":"Ender Cikolata Sek. A.s",
     "wof:parent_id":85929861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [28.576166,41.019596,28.576166,41.019596],
+  "bbox": [
+    28.576166,
+    41.019596,
+    28.576166,
+    41.019596
+],
   "geometry": {"coordinates":[28.576166,41.019596],"type":"Point"}
 }

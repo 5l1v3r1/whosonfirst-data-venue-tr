@@ -2,13 +2,14 @@
   "id": 169542883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.507996,39.771358,30.507996,39.771358",
     "geom:latitude":39.771358,
     "geom:longitude":30.507996,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"M??dar Cad. No.28",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169542883,
-    "wof:lastmodified":1449035222,
+    "wof:lastmodified":1466313212,
     "wof:name":"T?k Ticaret Bankasi As",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.507996,39.771358,30.507996,39.771358],
+  "bbox": [
+    30.507996,
+    39.771358,
+    30.507996,
+    39.771358
+],
   "geometry": {"coordinates":[30.507996,39.771358],"type":"Point"}
 }

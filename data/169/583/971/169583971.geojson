@@ -2,13 +2,14 @@
   "id": 169583971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.483162,37.915512,32.483162,37.915512",
     "geom:latitude":37.915512,
     "geom:longitude":32.483162,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkez: Tahran Cad. No:19/4",
     "sg:city":"Kavaklidere",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169583971,
-    "wof:lastmodified":1449035266,
+    "wof:lastmodified":1466313337,
     "wof:name":"Asya Meyve Suyu Ve Gida San. A.s.",
     "wof:parent_id":85934715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "soft"
     ]
 },
-  "bbox": [32.483162,37.915512,32.483162,37.915512],
+  "bbox": [
+    32.483162,
+    37.915512,
+    32.483162,
+    37.915512
+],
   "geometry": {"coordinates":[32.483162,37.915512],"type":"Point"}
 }

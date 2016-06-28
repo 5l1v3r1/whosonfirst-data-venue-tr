@@ -2,13 +2,14 @@
   "id": 169580235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.913443,41.048496,28.913443,41.048496",
     "geom:latitude":41.048496,
     "geom:longitude":28.913443,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abdi Ipekci Cad. Uluyol Caner Sok. No:2/3 Bayrampasa /",
     "sg:city":"Osmangazi",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169580235,
-    "wof:lastmodified":1449034911,
+    "wof:lastmodified":1466313319,
     "wof:name":"Biokid Ayakkabicilik Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.913443,41.048496,28.913443,41.048496],
+  "bbox": [
+    28.913443,
+    41.048496,
+    28.913443,
+    41.048496
+],
   "geometry": {"coordinates":[28.913443,41.048496],"type":"Point"}
 }

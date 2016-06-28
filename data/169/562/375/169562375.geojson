@@ -2,13 +2,14 @@
   "id": 169562375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"S. Mecit Sk. No:29/2 Ortak?",
     "sg:city":"Kahramanlar",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169562375,
-    "wof:lastmodified":1449034433,
+    "wof:lastmodified":1466313257,
     "wof:name":"Sinteks Merkezi Temiz. Sistem. Ith. Pazar. Ltd. Sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "bbox": [
+    28.975925,
+    41.012379,
+    28.975925,
+    41.012379
+],
   "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
 }

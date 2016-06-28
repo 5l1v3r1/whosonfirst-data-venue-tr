@@ -2,13 +2,14 @@
   "id": 169550321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.951889,41.008236,28.951889,41.008236",
     "geom:latitude":41.008236,
     "geom:longitude":28.951889,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Inkilap Cd. No:22 Aksaray",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169550321,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466313223,
     "wof:name":"?esit Rulman",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ball"
     ]
 },
-  "bbox": [28.951889,41.008236,28.951889,41.008236],
+  "bbox": [
+    28.951889,
+    41.008236,
+    28.951889,
+    41.008236
+],
   "geometry": {"coordinates":[28.951889,41.008236],"type":"Point"}
 }

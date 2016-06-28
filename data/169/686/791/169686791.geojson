@@ -2,13 +2,14 @@
   "id": 169686791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.90683,39.953804,32.90683,39.953804",
     "geom:latitude":39.953804,
     "geom:longitude":32.90683,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Demirhendek Cd. No:143/2 Siteler",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686791,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313419,
     "wof:name":"Muratsan Koltuk San. Tic.",
     "wof:parent_id":85904155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [32.90683,39.953804,32.90683,39.953804],
+  "bbox": [
+    32.90683,
+    39.953804,
+    32.90683,
+    39.953804
+],
   "geometry": {"coordinates":[32.90683,39.953804],"type":"Point"}
 }

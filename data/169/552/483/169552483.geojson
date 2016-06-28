@@ -2,13 +2,14 @@
   "id": 169552483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.856997,41.076599,28.856997,41.076599",
     "geom:latitude":41.076599,
     "geom:longitude":28.856997,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Niehatun Mah. Ayazma Cad.36.sok. No:6 Esenler",
     "sg:city":"\u00dcmraniye",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169552483,
-    "wof:lastmodified":1449034057,
+    "wof:lastmodified":1466313230,
     "wof:name":"Ekin Isleme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.856997,41.076599,28.856997,41.076599],
+  "bbox": [
+    28.856997,
+    41.076599,
+    28.856997,
+    41.076599
+],
   "geometry": {"coordinates":[28.856997,41.076599],"type":"Point"}
 }

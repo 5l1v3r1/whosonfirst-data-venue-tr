@@ -2,13 +2,14 @@
   "id": 169578309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.719101,41.0061,39.719101,41.0061",
     "geom:latitude":41.0061,
     "geom:longitude":39.719101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Iskenderpasa Mah. Duzenli Guneysu Is Merkezim No: 7/30",
     "sg:city":"Avcilar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169578309,
-    "wof:lastmodified":1449033518,
+    "wof:lastmodified":1466313296,
     "wof:name":"Poyraz Denizcilik Turizm Nak.tic.ltd.sti.",
     "wof:parent_id":85934735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [39.719101,41.0061,39.719101,41.0061],
+  "bbox": [
+    39.719101,
+    41.0061,
+    39.719101,
+    41.0061
+],
   "geometry": {"coordinates":[39.719101,41.0061],"type":"Point"}
 }

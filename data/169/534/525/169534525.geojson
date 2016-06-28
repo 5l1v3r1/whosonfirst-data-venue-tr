@@ -2,13 +2,14 @@
   "id": 169534525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.349152,41.485672,-87.349152,41.485672",
     "geom:latitude":41.485672,
     "geom:longitude":-87.349152,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??cad.73",
     "sg:city":"Bandirma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169534525,
-    "wof:lastmodified":1449033550,
+    "wof:lastmodified":1466313416,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.349152,41.485672,-87.349152,41.485672],
+  "bbox": [
+    -87.349152,
+    41.485672,
+    -87.349152,
+    41.485672
+],
   "geometry": {"coordinates":[-87.349152,41.485672],"type":"Point"}
 }

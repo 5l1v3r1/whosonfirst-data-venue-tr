@@ -2,13 +2,14 @@
   "id": 169536187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.017595,41.074306,29.017595,41.074306",
     "geom:latitude":41.074306,
     "geom:longitude":29.017595,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aytar Cad 40",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536187,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466313422,
     "wof:name":"Interbank As",
     "wof:parent_id":85929391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.017595,41.074306,29.017595,41.074306],
+  "bbox": [
+    29.017595,
+    41.074306,
+    29.017595,
+    41.074306
+],
   "geometry": {"coordinates":[29.017595,41.074306],"type":"Point"}
 }

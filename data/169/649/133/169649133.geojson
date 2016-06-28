@@ -2,13 +2,14 @@
   "id": 169649133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987579,41.059254,28.987579,41.059254",
     "geom:latitude":41.059254,
     "geom:longitude":28.987579,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dr. Sevket Bey Sk. No:2 Osmanbey",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169649133,
-    "wof:lastmodified":1449034944,
+    "wof:lastmodified":1466313382,
     "wof:name":"Seker Kirtasiye",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.987579,41.059254,28.987579,41.059254],
+  "bbox": [
+    28.987579,
+    41.059254,
+    28.987579,
+    41.059254
+],
   "geometry": {"coordinates":[28.987579,41.059254],"type":"Point"}
 }

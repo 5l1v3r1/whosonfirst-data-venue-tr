@@ -2,13 +2,14 @@
   "id": 169540615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.5418,38.755798,30.5418,38.755798",
     "geom:latitude":38.755798,
     "geom:longitude":30.5418,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bankalar Cad 16 Merkez",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169540615,
-    "wof:lastmodified":1449033975,
+    "wof:lastmodified":1466313436,
     "wof:name":"Tc Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.5418,38.755798,30.5418,38.755798],
+  "bbox": [
+    30.5418,
+    38.755798,
+    30.5418,
+    38.755798
+],
   "geometry": {"coordinates":[30.5418,38.755798],"type":"Point"}
 }

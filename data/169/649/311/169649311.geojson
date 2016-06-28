@@ -2,13 +2,14 @@
   "id": 169649311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.817825,39.90324,32.817825,39.90324",
     "geom:latitude":39.90324,
     "geom:longitude":32.817825,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baris Manco Cad. 23/a Balgat",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169649311,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466313385,
     "wof:name":"Sevgican Kirtasiye Bilgisayar Oyuncak",
     "wof:parent_id":85929601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.817825,39.90324,32.817825,39.90324],
+  "bbox": [
+    32.817825,
+    39.90324,
+    32.817825,
+    39.90324
+],
   "geometry": {"coordinates":[32.817825,39.90324],"type":"Point"}
 }

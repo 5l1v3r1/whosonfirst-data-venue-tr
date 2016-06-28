@@ -2,13 +2,14 @@
   "id": 169603251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.887934,41.012028,28.887934,41.012028",
     "geom:latitude":41.012028,
     "geom:longitude":28.887934,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fatih Cd. Selvi Sk. No:3 Merter",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169603251,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1466313348,
     "wof:name":"Ayteks Moda Teks. San. Tic. Ltd. Sti.",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [28.887934,41.012028,28.887934,41.012028],
+  "bbox": [
+    28.887934,
+    41.012028,
+    28.887934,
+    41.012028
+],
   "geometry": {"coordinates":[28.887934,41.012028],"type":"Point"}
 }

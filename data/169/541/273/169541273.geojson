@@ -2,13 +2,14 @@
   "id": 169541273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.89426,41.027977,28.89426,41.027977",
     "geom:latitude":41.027977,
     "geom:longitude":28.89426,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Davutpasa Cad. 230-231-352",
     "sg:city":"Zeytinburnu",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169541273,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466313438,
     "wof:name":"Toprakbank As",
     "wof:parent_id":85929891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.89426,41.027977,28.89426,41.027977],
+  "bbox": [
+    28.89426,
+    41.027977,
+    28.89426,
+    41.027977
+],
   "geometry": {"coordinates":[28.89426,41.027977],"type":"Point"}
 }

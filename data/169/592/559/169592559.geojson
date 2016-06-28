@@ -2,13 +2,14 @@
   "id": 169592559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
     "geom:latitude":39.943874,
     "geom:longitude":32.856033,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ozankara Toptancilar Sitesi 5.blok No:181 Macunkoy-gimat",
     "sg:city":"16020",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169592559,
-    "wof:lastmodified":1449034585,
+    "wof:lastmodified":1466313342,
     "wof:name":"Nokta Baharat Pazarlama Ltd.sti.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "spice"
     ]
 },
-  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "bbox": [
+    32.856033,
+    39.943874,
+    32.856033,
+    39.943874
+],
   "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
 }

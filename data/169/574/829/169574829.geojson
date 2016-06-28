@@ -2,13 +2,14 @@
   "id": 169574829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.042355,41.016853,29.042355,41.016853",
     "geom:latitude":41.016853,
     "geom:longitude":29.042355,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"F.kerim G?ay Cd.no22 Den.ismerk.",
     "sg:city":"Altunizade",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169574829,
-    "wof:lastmodified":1449032666,
+    "wof:lastmodified":1466313317,
     "wof:name":"Arena Denizcilik Ltd.sti.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.042355,41.016853,29.042355,41.016853],
+  "bbox": [
+    29.042355,
+    41.016853,
+    29.042355,
+    41.016853
+],
   "geometry": {"coordinates":[29.042355,41.016853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169554815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.312208,40.832623,29.312208,40.832623",
     "geom:latitude":40.832623,
     "geom:longitude":29.312208,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gaziosmanpasa Caddesi No:2",
     "sg:city":"Alibeyk?y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169554815,
-    "wof:lastmodified":1449033370,
+    "wof:lastmodified":1466313237,
     "wof:name":"Meshur Balkan Tulumba Ve Dondurma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [29.312208,40.832623,29.312208,40.832623],
+  "bbox": [
+    29.312208,
+    40.832623,
+    29.312208,
+    40.832623
+],
   "geometry": {"coordinates":[29.312208,40.832623],"type":"Point"}
 }

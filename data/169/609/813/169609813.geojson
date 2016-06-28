@@ -2,13 +2,14 @@
   "id": 169609813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.1206,37.910599,29.1206,37.910599",
     "geom:latitude":37.910599,
     "geom:longitude":29.1206,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Karahayit K?? Pamukkale",
     "sg:city":"?rg?",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169609813,
-    "wof:lastmodified":1449033919,
+    "wof:lastmodified":1466313357,
     "wof:name":"Colossae Hotel Thermal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spring"
     ]
 },
-  "bbox": [29.1206,37.910599,29.1206,37.910599],
+  "bbox": [
+    29.1206,
+    37.910599,
+    29.1206,
+    37.910599
+],
   "geometry": {"coordinates":[29.1206,37.910599],"type":"Point"}
 }

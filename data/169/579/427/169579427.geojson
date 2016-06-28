@@ -2,13 +2,14 @@
   "id": 169579427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.870386,41.046196,28.870386,41.046196",
     "geom:latitude":41.046196,
     "geom:longitude":28.870386,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"P.k.1041",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169579427,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466313306,
     "wof:name":"Uzman Deniz Tasim.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [28.870386,41.046196,28.870386,41.046196],
+  "bbox": [
+    28.870386,
+    41.046196,
+    28.870386,
+    41.046196
+],
   "geometry": {"coordinates":[28.870386,41.046196],"type":"Point"}
 }

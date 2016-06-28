@@ -2,13 +2,14 @@
   "id": 169539603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.292591,40.907864,29.292591,40.907864",
     "geom:latitude":40.907864,
     "geom:longitude":29.292591,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara Cad 88",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169539603,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466313433,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.292591,40.907864,29.292591,40.907864],
+  "bbox": [
+    29.292591,
+    40.907864,
+    29.292591,
+    40.907864
+],
   "geometry": {"coordinates":[29.292591,40.907864],"type":"Point"}
 }

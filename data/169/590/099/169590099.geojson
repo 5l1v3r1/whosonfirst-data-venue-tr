@@ -2,13 +2,14 @@
   "id": 169590099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.009386,41.074135,29.009386,41.074135",
     "geom:latitude":41.074135,
     "geom:longitude":29.009386,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kaya Aldogan Sok.no:11/9 Zincirlikuyu",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":169590099,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466313332,
     "wof:name":"Astas Dis Ticaret Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "spice"
     ]
 },
-  "bbox": [29.009386,41.074135,29.009386,41.074135],
+  "bbox": [
+    29.009386,
+    41.074135,
+    29.009386,
+    41.074135
+],
   "geometry": {"coordinates":[29.009386,41.074135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.825455,39.928799,32.825455,39.928799",
     "geom:latitude":39.928799,
     "geom:longitude":32.825455,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Askaabat Cad. No:44/b Bahcelievler",
     "sg:city":"Kavacik",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569609,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313294,
     "wof:name":"Renko Ltd.sti.",
     "wof:parent_id":85929605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.825455,39.928799,32.825455,39.928799],
+  "bbox": [
+    32.825455,
+    39.928799,
+    32.825455,
+    39.928799
+],
   "geometry": {"coordinates":[32.825455,39.928799],"type":"Point"}
 }

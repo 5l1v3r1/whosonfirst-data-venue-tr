@@ -2,13 +2,14 @@
   "id": 169604161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.15333,38.438389,27.15333,38.438389",
     "geom:latitude":38.438389,
     "geom:longitude":27.15333,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Sk. No:59 ?inarli",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169604161,
-    "wof:lastmodified":1449035569,
+    "wof:lastmodified":1466313349,
     "wof:name":"Cicikom Koll. Sti.",
     "wof:parent_id":85904105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [27.15333,38.438389,27.15333,38.438389],
+  "bbox": [
+    27.15333,
+    38.438389,
+    27.15333,
+    38.438389
+],
   "geometry": {"coordinates":[27.15333,38.438389],"type":"Point"}
 }

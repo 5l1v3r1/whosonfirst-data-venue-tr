@@ -2,13 +2,14 @@
   "id": 169569707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.881521,40.853271,29.881521,40.853271",
     "geom:latitude":40.853271,
     "geom:longitude":29.881521,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Dogan Sumer Karakolu Karsisi E-5 Karayolu Ustu No: 62",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169569707,
-    "wof:lastmodified":1449035830,
+    "wof:lastmodified":1466313298,
     "wof:name":"Real Group . Ozel Guvenlik Sosyoloji Hizm.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.881521,40.853271,29.881521,40.853271],
+  "bbox": [
+    29.881521,
+    40.853271,
+    29.881521,
+    40.853271
+],
   "geometry": {"coordinates":[29.881521,40.853271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169548175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.194141,40.906025,29.194141,40.906025",
     "geom:latitude":40.906025,
     "geom:longitude":29.194141,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gazeteciler Sitesi Saglam Fikir Sok. No:3 Esentepe",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548175,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313215,
     "wof:name":"Elkotek Elektrik Ve Elektronik Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [29.194141,40.906025,29.194141,40.906025],
+  "bbox": [
+    29.194141,
+    40.906025,
+    29.194141,
+    40.906025
+],
   "geometry": {"coordinates":[29.194141,40.906025],"type":"Point"}
 }

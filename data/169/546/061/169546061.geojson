@@ -2,13 +2,14 @@
   "id": 169546061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.15,38.400002,27.15,38.400002",
     "geom:latitude":38.400002,
     "geom:longitude":27.15,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"290/a Esrefpasa",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169546061,
-    "wof:lastmodified":1449032679,
+    "wof:lastmodified":1466313208,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":85904097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.15,38.400002,27.15,38.400002],
+  "bbox": [
+    27.15,
+    38.400002,
+    27.15,
+    38.400002
+],
   "geometry": {"coordinates":[27.15,38.400002],"type":"Point"}
 }

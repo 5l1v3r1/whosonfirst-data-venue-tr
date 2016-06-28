@@ -2,13 +2,14 @@
   "id": 169532251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.059177,40.188328,29.059177,40.188328",
     "geom:latitude":40.188328,
     "geom:longitude":29.059177,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ahmet Hamdi Tanpinar Cad",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169532251,
-    "wof:lastmodified":1449033793,
+    "wof:lastmodified":1466313408,
     "wof:name":"Denizcilik Bankasi Tas",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.059177,40.188328,29.059177,40.188328],
+  "bbox": [
+    29.059177,
+    40.188328,
+    29.059177,
+    40.188328
+],
   "geometry": {"coordinates":[29.059177,40.188328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169544729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.695724,36.889267,30.695724,36.889267",
     "geom:latitude":36.889267,
     "geom:longitude":30.695724,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Anafartalar Caddesi 39/a",
     "sg:city":"Ulus",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169544729,
-    "wof:lastmodified":1449035964,
+    "wof:lastmodified":1466313230,
     "wof:name":"T?kiye Halk, Bankasi As",
     "wof:parent_id":85930187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.695724,36.889267,30.695724,36.889267],
+  "bbox": [
+    30.695724,
+    36.889267,
+    30.695724,
+    36.889267
+],
   "geometry": {"coordinates":[30.695724,36.889267],"type":"Point"}
 }

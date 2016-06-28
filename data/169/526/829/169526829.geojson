@@ -2,13 +2,14 @@
   "id": 169526829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.045301,40.206188,29.045301,40.206188",
     "geom:latitude":40.206188,
     "geom:longitude":29.045301,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Soganli Mah. Yildirim Sok. No:18/a",
     "sg:city":"Adapazari",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169526829,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466313197,
     "wof:name":"Haknur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.045301,40.206188,29.045301,40.206188],
+  "bbox": [
+    29.045301,
+    40.206188,
+    29.045301,
+    40.206188
+],
   "geometry": {"coordinates":[29.045301,40.206188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.847908,39.941967,32.847908,39.941967",
     "geom:latitude":39.941967,
     "geom:longitude":32.847908,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istanbul Cad 20",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169540923,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466313437,
     "wof:name":"Tekstilbank",
     "wof:parent_id":85929577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.847908,39.941967,32.847908,39.941967],
+  "bbox": [
+    32.847908,
+    39.941967,
+    32.847908,
+    39.941967
+],
   "geometry": {"coordinates":[32.847908,39.941967],"type":"Point"}
 }

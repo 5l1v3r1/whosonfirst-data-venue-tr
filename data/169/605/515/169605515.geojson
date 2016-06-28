@@ -2,13 +2,14 @@
   "id": 169605515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
     "geom:latitude":39.770081,
     "geom:longitude":30.517546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sanayi Carsisi Dokumculer Sok. No:36",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169605515,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466313354,
     "wof:name":"Grup Makina San. Tic.ltd.sti.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "bbox": [
+    30.517546,
+    39.770081,
+    30.517546,
+    39.770081
+],
   "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
 }

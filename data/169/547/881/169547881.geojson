@@ -2,13 +2,14 @@
   "id": 169547881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856033,39.943874,32.856033,39.943874",
     "geom:latitude":39.943874,
     "geom:longitude":32.856033,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara B?gesi M????? Ankara",
     "sg:city":"Senirkent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169547881,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466313243,
     "wof:name":"Aksa Jenerat?r San. A.s.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "batery"
     ]
 },
-  "bbox": [32.856033,39.943874,32.856033,39.943874],
+  "bbox": [
+    32.856033,
+    39.943874,
+    32.856033,
+    39.943874
+],
   "geometry": {"coordinates":[32.856033,39.943874],"type":"Point"}
 }

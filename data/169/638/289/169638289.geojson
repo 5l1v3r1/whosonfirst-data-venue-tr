@@ -2,13 +2,14 @@
   "id": 169638289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.858593,39.911636,32.858593,39.911636",
     "geom:latitude":39.911636,
     "geom:longitude":32.858593,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esat Cd. Bilezik Sk. No:6 Kavaklidere",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169638289,
-    "wof:lastmodified":1449032867,
+    "wof:lastmodified":1466313372,
     "wof:name":"Dinamik Kirtasiye San. Tic. Ltd. Sti.",
     "wof:parent_id":85904129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.858593,39.911636,32.858593,39.911636],
+  "bbox": [
+    32.858593,
+    39.911636,
+    32.858593,
+    39.911636
+],
   "geometry": {"coordinates":[32.858593,39.911636],"type":"Point"}
 }

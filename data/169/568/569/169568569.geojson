@@ -2,13 +2,14 @@
   "id": 169568569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.314301,38.3475,38.314301,38.3475",
     "geom:latitude":38.3475,
     "geom:longitude":38.314301,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismetiye Mah.ismetiye Sok. Yasar Kardesler Is Merkezi Kat:2 No:25",
     "sg:city":"Okmeydani/sisli",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169568569,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466313289,
     "wof:name":"Iris Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [38.314301,38.3475,38.314301,38.3475],
+  "bbox": [
+    38.314301,
+    38.3475,
+    38.314301,
+    38.3475
+],
   "geometry": {"coordinates":[38.314301,38.3475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.114964,36.913624,31.114964,36.913624",
     "geom:latitude":36.913624,
     "geom:longitude":31.114964,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??bulvari 88 (33100)",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169536971,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [31.114964,36.913624,31.114964,36.913624],
+  "bbox": [
+    31.114964,
+    36.913624,
+    31.114964,
+    36.913624
+],
   "geometry": {"coordinates":[31.114964,36.913624],"type":"Point"}
 }

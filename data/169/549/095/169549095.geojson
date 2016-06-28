@@ -2,13 +2,14 @@
   "id": 169549095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.972513,41.025505,28.972513,41.025505",
     "geom:latitude":41.025505,
     "geom:longitude":28.972513,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tersane Cd. No:27 Karak?",
     "sg:city":"Beyoglu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169549095,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466313211,
     "wof:name":"Can Rulman",
     "wof:parent_id":85906585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "ball"
     ]
 },
-  "bbox": [28.972513,41.025505,28.972513,41.025505],
+  "bbox": [
+    28.972513,
+    41.025505,
+    28.972513,
+    41.025505
+],
   "geometry": {"coordinates":[28.972513,41.025505],"type":"Point"}
 }

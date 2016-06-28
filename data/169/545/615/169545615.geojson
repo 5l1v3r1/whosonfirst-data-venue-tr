@@ -2,13 +2,14 @@
   "id": 169545615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.480686,37.88327,32.480686,37.88327",
     "geom:latitude":37.88327,
     "geom:longitude":32.480686,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Selcuk Mah In?? Aksehir",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169545615,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466313227,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.480686,37.88327,32.480686,37.88327],
+  "bbox": [
+    32.480686,
+    37.88327,
+    32.480686,
+    37.88327
+],
   "geometry": {"coordinates":[32.480686,37.88327],"type":"Point"}
 }

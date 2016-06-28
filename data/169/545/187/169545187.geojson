@@ -2,13 +2,14 @@
   "id": 169545187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.438101,40.800201,29.438101,40.800201",
     "geom:latitude":40.800201,
     "geom:longitude":29.438101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Atat?k Cad 2",
     "sg:city":"Adapazari",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169545187,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466313214,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.438101,40.800201,29.438101,40.800201],
+  "bbox": [
+    29.438101,
+    40.800201,
+    29.438101,
+    40.800201
+],
   "geometry": {"coordinates":[29.438101,40.800201],"type":"Point"}
 }

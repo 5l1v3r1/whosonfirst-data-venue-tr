@@ -2,13 +2,14 @@
   "id": 169570435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.884048,39.661324,27.884048,39.661324",
     "geom:latitude":39.661324,
     "geom:longitude":27.884048,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Maltepe Mah. Orhangazi Cad. No:6/a",
     "sg:city":"Adapazari",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570435,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466313285,
     "wof:name":"Ulusoy G?venlik Sistemleri Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [27.884048,39.661324,27.884048,39.661324],
+  "bbox": [
+    27.884048,
+    39.661324,
+    27.884048,
+    39.661324
+],
   "geometry": {"coordinates":[27.884048,39.661324],"type":"Point"}
 }

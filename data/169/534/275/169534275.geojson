@@ -2,13 +2,14 @@
   "id": 169534275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.790516,37.150978,38.790516,37.150978",
     "geom:latitude":37.150978,
     "geom:longitude":38.790516,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Divanyolu Caddesi 29",
     "sg:city":"Cemberlitas",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169534275,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466313415,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [38.790516,37.150978,38.790516,37.150978],
+  "bbox": [
+    38.790516,
+    37.150978,
+    38.790516,
+    37.150978
+],
   "geometry": {"coordinates":[38.790516,37.150978],"type":"Point"}
 }

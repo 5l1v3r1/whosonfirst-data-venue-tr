@@ -2,13 +2,14 @@
   "id": 169668725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.869968,40.995575,28.869968,40.995575",
     "geom:latitude":40.995575,
     "geom:longitude":28.869968,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Incirli Cd. No:104/a Bakirk?",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169668725,
-    "wof:lastmodified":1449034987,
+    "wof:lastmodified":1466313402,
     "wof:name":"?zsahin ?elik Kapi San. Tic. Ltd. Sti.",
     "wof:parent_id":85929899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [28.869968,40.995575,28.869968,40.995575],
+  "bbox": [
+    28.869968,
+    40.995575,
+    28.869968,
+    40.995575
+],
   "geometry": {"coordinates":[28.869968,40.995575],"type":"Point"}
 }

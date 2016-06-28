@@ -2,13 +2,14 @@
   "id": 169541247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"38.277431,38.358139,38.277431,38.358139",
     "geom:latitude":38.358139,
     "geom:longitude":38.277431,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad. 15-16",
     "sg:city":"Van",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169541247,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466313438,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [38.277431,38.358139,38.277431,38.358139],
+  "bbox": [
+    38.277431,
+    38.358139,
+    38.277431,
+    38.358139
+],
   "geometry": {"coordinates":[38.277431,38.358139],"type":"Point"}
 }

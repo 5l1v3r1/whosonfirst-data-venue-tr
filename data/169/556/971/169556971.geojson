@@ -2,13 +2,14 @@
   "id": 169556971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.079876,40.963688,29.079876,40.963688",
     "geom:latitude":40.963688,
     "geom:longitude":29.079876,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"?olak Ismail Sk. No. 31 / 1 Suadiye",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169556971,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466313277,
     "wof:name":"Kr?lland Y?zme Havuzlari Ve Ekipmanlari",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.079876,40.963688,29.079876,40.963688],
+  "bbox": [
+    29.079876,
+    40.963688,
+    29.079876,
+    40.963688
+],
   "geometry": {"coordinates":[29.079876,40.963688],"type":"Point"}
 }

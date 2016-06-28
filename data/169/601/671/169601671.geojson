@@ -2,13 +2,14 @@
   "id": 169601671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.303698,40.953613,29.303698,40.953613",
     "geom:latitude":40.953613,
     "geom:longitude":29.303698,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mecidiye Cad: No:27/a",
     "sg:city":"M.koy",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169601671,
-    "wof:lastmodified":1449034146,
+    "wof:lastmodified":1466313354,
     "wof:name":"Sss Spor Giyim Ve Ayakkabi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.303698,40.953613,29.303698,40.953613],
+  "bbox": [
+    29.303698,
+    40.953613,
+    29.303698,
+    40.953613
+],
   "geometry": {"coordinates":[29.303698,40.953613],"type":"Point"}
 }

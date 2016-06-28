@@ -2,13 +2,14 @@
   "id": 169534135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.125181,41.090363,29.125181,41.090363",
     "geom:latitude":41.090363,
     "geom:longitude":29.125181,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad. 112",
     "sg:city":"Tatvan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534135,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466313415,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.125181,41.090363,29.125181,41.090363],
+  "bbox": [
+    29.125181,
+    41.090363,
+    29.125181,
+    41.090363
+],
   "geometry": {"coordinates":[29.125181,41.090363],"type":"Point"}
 }

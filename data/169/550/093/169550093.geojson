@@ -2,13 +2,14 @@
   "id": 169550093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.822306,41.018517,28.822306,41.018517",
     "geom:latitude":41.018517,
     "geom:longitude":28.822306,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Arifaga Sk. No:14/2 Y.bosna",
     "sg:city":"Karak?y",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169550093,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466313211,
     "wof:name":"Rultas Rulman San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "ball"
     ]
 },
-  "bbox": [28.822306,41.018517,28.822306,41.018517],
+  "bbox": [
+    28.822306,
+    41.018517,
+    28.822306,
+    41.018517
+],
   "geometry": {"coordinates":[28.822306,41.018517],"type":"Point"}
 }

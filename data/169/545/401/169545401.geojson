@@ -2,13 +2,14 @@
   "id": 169545401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.3874,41.182098,31.3874,41.182098",
     "geom:latitude":41.182098,
     "geom:longitude":31.3874,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"H??et Cad.no.29",
     "sg:city":"Aydin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169545401,
-    "wof:lastmodified":1449033487,
+    "wof:lastmodified":1466313221,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [31.3874,41.182098,31.3874,41.182098],
+  "bbox": [
+    31.3874,
+    41.182098,
+    31.3874,
+    41.182098
+],
   "geometry": {"coordinates":[31.3874,41.182098],"type":"Point"}
 }

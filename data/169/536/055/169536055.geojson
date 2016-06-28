@@ -2,13 +2,14 @@
   "id": 169536055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.665375,36.898399,30.665375,36.898399",
     "geom:latitude":36.898399,
     "geom:longitude":30.665375,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dumpupinar Bulvari",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169536055,
-    "wof:lastmodified":1449034657,
+    "wof:lastmodified":1466313422,
     "wof:name":"Iller Bankasi",
     "wof:parent_id":85929913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.665375,36.898399,30.665375,36.898399],
+  "bbox": [
+    30.665375,
+    36.898399,
+    30.665375,
+    36.898399
+],
   "geometry": {"coordinates":[30.665375,36.898399],"type":"Point"}
 }

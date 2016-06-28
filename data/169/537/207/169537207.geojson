@@ -2,13 +2,14 @@
   "id": 169537207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"31.590467,38.320854,31.590467,38.320854",
     "geom:latitude":38.320854,
     "geom:longitude":31.590467,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Musallabaglari Mah",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169537207,
-    "wof:lastmodified":1449033498,
+    "wof:lastmodified":1466313426,
     "wof:name":"Kocbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [31.590467,38.320854,31.590467,38.320854],
+  "bbox": [
+    31.590467,
+    38.320854,
+    31.590467,
+    38.320854
+],
   "geometry": {"coordinates":[31.590467,38.320854],"type":"Point"}
 }

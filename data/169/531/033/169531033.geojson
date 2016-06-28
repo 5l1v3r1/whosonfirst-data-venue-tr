@@ -2,13 +2,14 @@
   "id": 169531033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.328541,36.987812,35.328541,36.987812",
     "geom:latitude":36.987812,
     "geom:longitude":35.328541,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bey Mah",
     "sg:city":"Gaziantep",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169531033,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466313198,
     "wof:name":"Bank Kapital Tas",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.328541,36.987812,35.328541,36.987812],
+  "bbox": [
+    35.328541,
+    36.987812,
+    35.328541,
+    36.987812
+],
   "geometry": {"coordinates":[35.328541,36.987812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169550027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.1595,40.911201,29.1595,40.911201",
     "geom:latitude":40.911201,
     "geom:longitude":29.1595,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Oto San. Sit. B8 Blok No:23 Kartal",
     "sg:city":"Karak?y",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169550027,
-    "wof:lastmodified":1449034476,
+    "wof:lastmodified":1466313208,
     "wof:name":"Rulman San. Tic. Ltd. Sti.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [29.1595,40.911201,29.1595,40.911201],
+  "bbox": [
+    29.1595,
+    40.911201,
+    29.1595,
+    40.911201
+],
   "geometry": {"coordinates":[29.1595,40.911201],"type":"Point"}
 }

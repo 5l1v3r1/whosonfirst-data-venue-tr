@@ -2,13 +2,14 @@
   "id": 169553923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.331585,36.985077,35.331585,36.985077",
     "geom:latitude":36.985077,
     "geom:longitude":35.331585,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ulucami Mah. Kizilay Cad. No:90",
     "sg:city":"1.levent",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169553923,
-    "wof:lastmodified":1449032709,
+    "wof:lastmodified":1466313244,
     "wof:name":"Evgin Sekerleme Sanayi Tic.ltd.sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [35.331585,36.985077,35.331585,36.985077],
+  "bbox": [
+    35.331585,
+    36.985077,
+    35.331585,
+    36.985077
+],
   "geometry": {"coordinates":[35.331585,36.985077],"type":"Point"}
 }

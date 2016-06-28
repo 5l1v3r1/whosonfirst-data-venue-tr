@@ -2,13 +2,14 @@
   "id": 169549295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.781136,39.988632,32.781136,39.988632",
     "geom:latitude":39.988632,
     "geom:longitude":32.781136,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1. Cd. No:98 Ostim",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169549295,
-    "wof:lastmodified":1449033591,
+    "wof:lastmodified":1466313220,
     "wof:name":"Emiroglu Mak. San.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "ball"
     ]
 },
-  "bbox": [32.781136,39.988632,32.781136,39.988632],
+  "bbox": [
+    32.781136,
+    39.988632,
+    32.781136,
+    39.988632
+],
   "geometry": {"coordinates":[32.781136,39.988632],"type":"Point"}
 }

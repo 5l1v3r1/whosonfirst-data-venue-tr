@@ -2,13 +2,14 @@
   "id": 169532709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.627834,36.798592,34.627834,36.798592",
     "geom:latitude":36.798592,
     "geom:longitude":34.627834,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Atat?k Bul 177/25",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169532709,
-    "wof:lastmodified":1449033795,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.627834,36.798592,34.627834,36.798592],
+  "bbox": [
+    34.627834,
+    36.798592,
+    34.627834,
+    36.798592
+],
   "geometry": {"coordinates":[34.627834,36.798592],"type":"Point"}
 }

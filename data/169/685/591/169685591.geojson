@@ -2,13 +2,14 @@
   "id": 169685591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.84399,41.00145,28.84399,41.00145",
     "geom:latitude":41.00145,
     "geom:longitude":28.84399,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Senevler Mah. G9 Sok. No:16",
     "sg:city":"Cubuklu",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169685591,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466313456,
     "wof:name":"Dikmen Tekstil",
     "wof:parent_id":85929987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.84399,41.00145,28.84399,41.00145],
+  "bbox": [
+    28.84399,
+    41.00145,
+    28.84399,
+    41.00145
+],
   "geometry": {"coordinates":[28.84399,41.00145],"type":"Point"}
 }

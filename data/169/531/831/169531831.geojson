@@ -2,13 +2,14 @@
   "id": 169531831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.774178,41.379295,33.774178,41.379295",
     "geom:latitude":41.379295,
     "geom:longitude":33.774178,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ecevit Bul 6a",
     "sg:city":"Girne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169531831,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466313202,
     "wof:name":"Cyprus Altinbas, Bank Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [33.774178,41.379295,33.774178,41.379295],
+  "bbox": [
+    33.774178,
+    41.379295,
+    33.774178,
+    41.379295
+],
   "geometry": {"coordinates":[33.774178,41.379295],"type":"Point"}
 }

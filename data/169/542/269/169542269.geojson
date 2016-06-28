@@ -2,13 +2,14 @@
   "id": 169542269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.718206,36.888721,30.718206,36.888721",
     "geom:latitude":36.888721,
     "geom:longitude":30.718206,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Cetinkaya Cad 7",
     "sg:city":"Antalya",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169542269,
-    "wof:lastmodified":1449035223,
+    "wof:lastmodified":1466313202,
     "wof:name":"T?k Dis Ticaret, Bankasi As",
     "wof:parent_id":85929965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.718206,36.888721,30.718206,36.888721],
+  "bbox": [
+    30.718206,
+    36.888721,
+    30.718206,
+    36.888721
+],
   "geometry": {"coordinates":[30.718206,36.888721],"type":"Point"}
 }

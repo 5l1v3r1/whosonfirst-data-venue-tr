@@ -2,13 +2,14 @@
   "id": 169686759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.078909,40.977261,29.078909,40.977261",
     "geom:latitude":40.977261,
     "geom:longitude":29.078909,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Semsettin G. Cd. No:175/32 Erenk?",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169686759,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1466313458,
     "wof:name":"K?rk??oglu Tekstil San. Tic. Ltd. Sti.",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "upholstering"
     ]
 },
-  "bbox": [29.078909,40.977261,29.078909,40.977261],
+  "bbox": [
+    29.078909,
+    40.977261,
+    29.078909,
+    40.977261
+],
   "geometry": {"coordinates":[29.078909,40.977261],"type":"Point"}
 }

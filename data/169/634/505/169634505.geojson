@@ -2,13 +2,14 @@
   "id": 169634505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.098284,37.765244,29.098284,37.765244",
     "geom:latitude":37.765244,
     "geom:longitude":29.098284,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad No 150",
     "sg:city":"20020",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169634505,
-    "wof:lastmodified":1449034258,
+    "wof:lastmodified":1466313371,
     "wof:name":"Alfabe Kirtasiye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.098284,37.765244,29.098284,37.765244],
+  "bbox": [
+    29.098284,
+    37.765244,
+    29.098284,
+    37.765244
+],
   "geometry": {"coordinates":[29.098284,37.765244],"type":"Point"}
 }

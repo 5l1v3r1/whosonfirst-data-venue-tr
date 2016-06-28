@@ -2,13 +2,14 @@
   "id": 169636393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.050095,41.112389,29.050095,41.112389",
     "geom:latitude":41.112389,
     "geom:longitude":29.050095,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Koru Mah. Koru Cad. No:12 Istinye",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169636393,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466313373,
     "wof:name":"Bickes Mobilya",
     "wof:parent_id":85929871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.050095,41.112389,29.050095,41.112389],
+  "bbox": [
+    29.050095,
+    41.112389,
+    29.050095,
+    41.112389
+],
   "geometry": {"coordinates":[29.050095,41.112389],"type":"Point"}
 }

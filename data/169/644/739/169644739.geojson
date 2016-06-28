@@ -2,13 +2,14 @@
   "id": 169644739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.000639,41.084232,29.000639,41.084232",
     "geom:latitude":41.084232,
     "geom:longitude":29.000639,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkez Mah. ?inar Sok. 14/a Kagithane",
     "sg:city":"?atalca",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169644739,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466313383,
     "wof:name":"Lider Dosya San.tic. A.s.",
     "wof:parent_id":85929431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.000639,41.084232,29.000639,41.084232],
+  "bbox": [
+    29.000639,
+    41.084232,
+    29.000639,
+    41.084232
+],
   "geometry": {"coordinates":[29.000639,41.084232],"type":"Point"}
 }

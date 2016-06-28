@@ -2,13 +2,14 @@
   "id": 169539973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"26.694546,39.321316,26.694546,39.321316",
     "geom:latitude":39.321316,
     "geom:longitude":26.694546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Marasal Cakmak Cad 5",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169539973,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466313434,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [26.694546,39.321316,26.694546,39.321316],
+  "bbox": [
+    26.694546,
+    39.321316,
+    26.694546,
+    39.321316
+],
   "geometry": {"coordinates":[26.694546,39.321316],"type":"Point"}
 }

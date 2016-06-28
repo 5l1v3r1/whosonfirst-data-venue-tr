@@ -2,13 +2,14 @@
   "id": 169558823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.875168,39.89999,32.875168,39.89999",
     "geom:latitude":39.89999,
     "geom:longitude":32.875168,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Baglar Cad. 226/3-4 G.o.p.",
     "sg:city":"Kartal",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169558823,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466313262,
     "wof:name":"Aygar Oto Ins. Elk. Gida Ur. Teks. Ur. Temiz.hiz. Ilac San.ltd.sti.",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.875168,39.89999,32.875168,39.89999],
+  "bbox": [
+    32.875168,
+    39.89999,
+    32.875168,
+    39.89999
+],
   "geometry": {"coordinates":[32.875168,39.89999],"type":"Point"}
 }

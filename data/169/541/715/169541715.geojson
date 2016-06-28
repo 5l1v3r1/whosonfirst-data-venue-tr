@@ -2,13 +2,14 @@
   "id": 169541715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.493103,37.885826,32.493103,37.885826",
     "geom:latitude":37.885826,
     "geom:longitude":32.493103,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nalcaci Cad Konak",
     "sg:city":"Konya",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169541715,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466313441,
     "wof:name":"Toprakbank As",
     "wof:parent_id":85904143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.493103,37.885826,32.493103,37.885826],
+  "bbox": [
+    32.493103,
+    37.885826,
+    32.493103,
+    37.885826
+],
   "geometry": {"coordinates":[32.493103,37.885826],"type":"Point"}
 }

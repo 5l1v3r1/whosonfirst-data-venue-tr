@@ -2,13 +2,14 @@
   "id": 169584497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.313736,37.000717,35.313736,37.000717",
     "geom:latitude":37.000717,
     "geom:longitude":35.313736,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Karatas Yolu ?zeri 10.km. Havutlu Mevki",
     "sg:city":"Merter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169584497,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466313333,
     "wof:name":"Fruko Tamek Meyva Sulari San.as.",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [35.313736,37.000717,35.313736,37.000717],
+  "bbox": [
+    35.313736,
+    37.000717,
+    35.313736,
+    37.000717
+],
   "geometry": {"coordinates":[35.313736,37.000717],"type":"Point"}
 }

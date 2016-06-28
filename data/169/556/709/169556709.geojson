@@ -2,13 +2,14 @@
   "id": 169556709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.559368,39.989708,32.559368,39.989708",
     "geom:latitude":39.989708,
     "geom:longitude":32.559368,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"415. Sk. No.6 Pinarbasi",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169556709,
-    "wof:lastmodified":1449033507,
+    "wof:lastmodified":1466313268,
     "wof:name":"Fiberplast Plastik San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [32.559368,39.989708,32.559368,39.989708],
+  "bbox": [
+    32.559368,
+    39.989708,
+    32.559368,
+    39.989708
+],
   "geometry": {"coordinates":[32.559368,39.989708],"type":"Point"}
 }

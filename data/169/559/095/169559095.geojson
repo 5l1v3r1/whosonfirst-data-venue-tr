@@ -2,13 +2,14 @@
   "id": 169559095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.968147,41.081184,28.968147,41.081184",
     "geom:latitude":41.081184,
     "geom:longitude":28.968147,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Perpa Tic. Merk. B Blok Kirmizi Ring K:11 No:1595 Okmeydani",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559095,
-    "wof:lastmodified":1449035238,
+    "wof:lastmodified":1466313246,
     "wof:name":"Bilgili Temiz. Malz. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.968147,41.081184,28.968147,41.081184],
+  "bbox": [
+    28.968147,
+    41.081184,
+    28.968147,
+    41.081184
+],
   "geometry": {"coordinates":[28.968147,41.081184],"type":"Point"}
 }

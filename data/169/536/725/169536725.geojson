@@ -2,13 +2,14 @@
   "id": 169536725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.007483,41.045982,29.007483,41.045982",
     "geom:latitude":41.045982,
     "geom:longitude":29.007483,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cihannuma Mah, Barbaros Bul",
     "sg:city":"Malatya",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169536725,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466313424,
     "wof:name":"Kentbank As",
     "wof:parent_id":85906569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.007483,41.045982,29.007483,41.045982],
+  "bbox": [
+    29.007483,
+    41.045982,
+    29.007483,
+    41.045982
+],
   "geometry": {"coordinates":[29.007483,41.045982],"type":"Point"}
 }

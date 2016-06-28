@@ -2,13 +2,14 @@
   "id": 169580749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.89839,41.079079,28.89839,41.079079",
     "geom:latitude":41.079079,
     "geom:longitude":28.89839,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Mah.542.sok.no:19/2 Kucukkoy",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169580749,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1466313342,
     "wof:name":"Gabay Ayakkabi San.a.s",
     "wof:parent_id":85930271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.89839,41.079079,28.89839,41.079079],
+  "bbox": [
+    28.89839,
+    41.079079,
+    28.89839,
+    41.079079
+],
   "geometry": {"coordinates":[28.89839,41.079079],"type":"Point"}
 }

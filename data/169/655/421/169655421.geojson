@@ -2,13 +2,14 @@
   "id": 169655421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
     "geom:latitude":38.418697,
     "geom:longitude":27.129686,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kazim Dirik Mahallesi Atat?k Cd. 95/b",
     "sg:city":"Aliaga",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169655421,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466313386,
     "wof:name":"Remko Insaat Ltd.sti",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "bbox": [
+    27.129686,
+    38.418697,
+    27.129686,
+    38.418697
+],
   "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
 }

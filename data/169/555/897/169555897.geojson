@@ -2,13 +2,14 @@
   "id": 169555897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.922289,41.019638,28.922289,41.019638",
     "geom:latitude":41.019638,
     "geom:longitude":28.922289,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Davutpasa Cad. No:10 34015 Topkapi Istanbul",
     "sg:city":"Atasehir",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169555897,
-    "wof:lastmodified":1449035496,
+    "wof:lastmodified":1466313249,
     "wof:name":"Ulker Gida San. Ve Tic. A.s.",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bread"
     ]
 },
-  "bbox": [28.922289,41.019638,28.922289,41.019638],
+  "bbox": [
+    28.922289,
+    41.019638,
+    28.922289,
+    41.019638
+],
   "geometry": {"coordinates":[28.922289,41.019638],"type":"Point"}
 }

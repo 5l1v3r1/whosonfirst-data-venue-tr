@@ -2,13 +2,14 @@
   "id": 169674767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.9443,41.038956,28.9443,41.038956",
     "geom:latitude":41.038956,
     "geom:longitude":28.9443,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ayvansaray Cad. Cember Sok. No:2",
     "sg:city":"Fatih",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169674767,
-    "wof:lastmodified":1449035136,
+    "wof:lastmodified":1466313407,
     "wof:name":"Pas-mar(messter) Gida San.tic.paz.ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sweet"
     ]
 },
-  "bbox": [28.9443,41.038956,28.9443,41.038956],
+  "bbox": [
+    28.9443,
+    41.038956,
+    28.9443,
+    41.038956
+],
   "geometry": {"coordinates":[28.9443,41.038956],"type":"Point"}
 }

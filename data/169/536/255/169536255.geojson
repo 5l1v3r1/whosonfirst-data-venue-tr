@@ -2,13 +2,14 @@
   "id": 169536255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.219631,38.464611,27.219631,38.464611",
     "geom:latitude":38.464611,
     "geom:longitude":27.219631,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Erzene Mah 85",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536255,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466313422,
     "wof:name":"Interbank As",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.219631,38.464611,27.219631,38.464611],
+  "bbox": [
+    27.219631,
+    38.464611,
+    27.219631,
+    38.464611
+],
   "geometry": {"coordinates":[27.219631,38.464611],"type":"Point"}
 }

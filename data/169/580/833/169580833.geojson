@@ -2,13 +2,14 @@
   "id": 169580833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.959146,41.048676,28.959146,41.048676",
     "geom:latitude":41.048676,
     "geom:longitude":28.959146,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Guven?sok. No:13 80260 Sisli",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169580833,
-    "wof:lastmodified":1449034911,
+    "wof:lastmodified":1466313346,
     "wof:name":"Guven-is Ayakkabi Yan Sanayi A.s.",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.959146,41.048676,28.959146,41.048676],
+  "bbox": [
+    28.959146,
+    41.048676,
+    28.959146,
+    41.048676
+],
   "geometry": {"coordinates":[28.959146,41.048676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169563959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.231802,41.018322,29.231802,41.018322",
     "geom:latitude":41.018322,
     "geom:longitude":29.231802,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aydinlar Mah. Adnan Kahveci Cad. Kardesler Sok. No:1",
     "sg:city":"Tasdelen-umraniye",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169563959,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1466313274,
     "wof:name":"Met Okul Mobilyalari San Ve Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [29.231802,41.018322,29.231802,41.018322],
+  "bbox": [
+    29.231802,
+    41.018322,
+    29.231802,
+    41.018322
+],
   "geometry": {"coordinates":[29.231802,41.018322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169569735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.049599,41.044659,29.049599,41.044659",
     "geom:latitude":41.044659,
     "geom:longitude":29.049599,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yaliboyu Cad. ?avusoglu Apt.no:63 Daire:2 Beylerbeyi",
     "sg:city":"\u00dcsk\u00fcdar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169569735,
-    "wof:lastmodified":1449035833,
+    "wof:lastmodified":1466313300,
     "wof:name":"Sebasis G?venlik Ve Bina Otomasyon San.tic.a.s.",
     "wof:parent_id":85929419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.049599,41.044659,29.049599,41.044659],
+  "bbox": [
+    29.049599,
+    41.044659,
+    29.049599,
+    41.044659
+],
   "geometry": {"coordinates":[29.049599,41.044659],"type":"Point"}
 }

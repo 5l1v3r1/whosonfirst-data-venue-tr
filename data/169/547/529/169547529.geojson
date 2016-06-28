@@ -2,13 +2,14 @@
   "id": 169547529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.42837,38.612118,27.42837,38.612118",
     "geom:latitude":38.612118,
     "geom:longitude":27.42837,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Izmir Cad 21",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169547529,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466313227,
     "wof:name":"Yapi Ve Kredi, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.42837,38.612118,27.42837,38.612118],
+  "bbox": [
+    27.42837,
+    38.612118,
+    27.42837,
+    38.612118
+],
   "geometry": {"coordinates":[27.42837,38.612118],"type":"Point"}
 }

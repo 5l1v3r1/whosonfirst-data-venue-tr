@@ -2,13 +2,14 @@
   "id": 169601701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.126101,38.323299,27.126101,38.323299",
     "geom:latitude":38.323299,
     "geom:longitude":27.126101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ak?y Cad.no:144 Gaziemir",
     "sg:city":"M.koy",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169601701,
-    "wof:lastmodified":1449034149,
+    "wof:lastmodified":1466313354,
     "wof:name":"Sts S?zer Tekstil Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [27.126101,38.323299,27.126101,38.323299],
+  "bbox": [
+    27.126101,
+    38.323299,
+    27.126101,
+    38.323299
+],
   "geometry": {"coordinates":[27.126101,38.323299],"type":"Point"}
 }

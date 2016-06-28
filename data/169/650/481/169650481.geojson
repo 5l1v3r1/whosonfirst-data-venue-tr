@@ -2,13 +2,14 @@
   "id": 169650481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981241,41.076466,28.981241,41.076466",
     "geom:latitude":41.076466,
     "geom:longitude":28.981241,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Balmumcu Bahar Sk. No:21/1 Besiktas",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169650481,
-    "wof:lastmodified":1449034701,
+    "wof:lastmodified":1466313385,
     "wof:name":"Tekiner Kirtasiye Malz. Paz. San. Tic. Ltd. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.981241,41.076466,28.981241,41.076466],
+  "bbox": [
+    28.981241,
+    41.076466,
+    28.981241,
+    41.076466
+],
   "geometry": {"coordinates":[28.981241,41.076466],"type":"Point"}
 }

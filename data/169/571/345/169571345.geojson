@@ -2,13 +2,14 @@
   "id": 169571345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.011587,41.024227,29.011587,41.024227",
     "geom:latitude":41.024227,
     "geom:longitude":29.011587,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istanbul",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169571345,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466313284,
     "wof:name":"Marketsan Raf Tic.a.s.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [29.011587,41.024227,29.011587,41.024227],
+  "bbox": [
+    29.011587,
+    41.024227,
+    29.011587,
+    41.024227
+],
   "geometry": {"coordinates":[29.011587,41.024227],"type":"Point"}
 }

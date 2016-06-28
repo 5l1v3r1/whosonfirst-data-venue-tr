@@ -2,13 +2,14 @@
   "id": 169535065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.086491,37.773525,29.086491,37.773525",
     "geom:latitude":37.773525,
     "geom:longitude":29.086491,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ticari Yol No. 54/a",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169535065,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466313418,
     "wof:name":"Faysal Islamic Bank Of Bahrain Ec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.086491,37.773525,29.086491,37.773525],
+  "bbox": [
+    29.086491,
+    37.773525,
+    29.086491,
+    37.773525
+],
   "geometry": {"coordinates":[29.086491,37.773525],"type":"Point"}
 }

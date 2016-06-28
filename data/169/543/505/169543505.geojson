@@ -2,13 +2,14 @@
   "id": 169543505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.827778,39.891239,32.827778,39.891239",
     "geom:latitude":39.891239,
     "geom:longitude":32.827778,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Asagi Mah Ankara",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169543505,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1466313442,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.827778,39.891239,32.827778,39.891239],
+  "bbox": [
+    32.827778,
+    39.891239,
+    32.827778,
+    39.891239
+],
   "geometry": {"coordinates":[32.827778,39.891239],"type":"Point"}
 }

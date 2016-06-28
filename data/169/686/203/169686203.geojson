@@ -2,13 +2,14 @@
   "id": 169686203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.992041,40.244114,28.992041,40.244114",
     "geom:latitude":40.244114,
     "geom:longitude":28.992041,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad. Hisartepe Mah. No:98/a",
     "sg:city":"Gemlik",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169686203,
-    "wof:lastmodified":1449035157,
+    "wof:lastmodified":1466313452,
     "wof:name":"Sude Tekstil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.992041,40.244114,28.992041,40.244114],
+  "bbox": [
+    28.992041,
+    40.244114,
+    28.992041,
+    40.244114
+],
   "geometry": {"coordinates":[28.992041,40.244114],"type":"Point"}
 }

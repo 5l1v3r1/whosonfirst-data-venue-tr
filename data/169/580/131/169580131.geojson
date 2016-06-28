@@ -2,13 +2,14 @@
   "id": 169580131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.787218,41.075935,28.787218,41.075935",
     "geom:latitude":41.075935,
     "geom:longitude":28.787218,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ikitelli",
     "sg:city":"Osmangazi",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169580131,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466313315,
     "wof:name":"Bilkim Kurumsal A.s.",
     "wof:parent_id":85929961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.787218,41.075935,28.787218,41.075935],
+  "bbox": [
+    28.787218,
+    41.075935,
+    28.787218,
+    41.075935
+],
   "geometry": {"coordinates":[28.787218,41.075935],"type":"Point"}
 }

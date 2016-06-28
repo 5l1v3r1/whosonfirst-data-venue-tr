@@ -2,13 +2,14 @@
   "id": 169607343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.027365,41.048702,29.027365,41.048702",
     "geom:latitude":41.048702,
     "geom:longitude":29.027365,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Muallim Naci Cad. No:18 Ortakoy",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169607343,
-    "wof:lastmodified":1449033125,
+    "wof:lastmodified":1466313353,
     "wof:name":"Progame Spor Malzemeleri",
     "wof:parent_id":85904149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [29.027365,41.048702,29.027365,41.048702],
+  "bbox": [
+    29.027365,
+    41.048702,
+    29.027365,
+    41.048702
+],
   "geometry": {"coordinates":[29.027365,41.048702],"type":"Point"}
 }

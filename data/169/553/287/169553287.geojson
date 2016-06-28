@@ -2,13 +2,14 @@
   "id": 169553287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.840185,41.006779,28.840185,41.006779",
     "geom:latitude":41.006779,
     "geom:longitude":28.840185,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hurriyet Mah. Caglar Sok. 1/4",
     "sg:city":"Yenibosna",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169553287,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466313218,
     "wof:name":"Beyzade Ticaret Gida Dagitim Ve Pazarlama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [28.840185,41.006779,28.840185,41.006779],
+  "bbox": [
+    28.840185,
+    41.006779,
+    28.840185,
+    41.006779
+],
   "geometry": {"coordinates":[28.840185,41.006779],"type":"Point"}
 }

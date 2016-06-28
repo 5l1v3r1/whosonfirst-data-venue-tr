@@ -2,13 +2,14 @@
   "id": 169536247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.777802,41.379711,33.777802,41.379711",
     "geom:latitude":41.379711,
     "geom:longitude":33.777802,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad 20",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536247,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466313422,
     "wof:name":"Interbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [33.777802,41.379711,33.777802,41.379711],
+  "bbox": [
+    33.777802,
+    41.379711,
+    33.777802,
+    41.379711
+],
   "geometry": {"coordinates":[33.777802,41.379711],"type":"Point"}
 }

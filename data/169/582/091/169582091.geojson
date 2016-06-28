@@ -2,13 +2,14 @@
   "id": 169582091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.983784,41.036766,28.983784,41.036766",
     "geom:latitude":41.036766,
     "geom:longitude":28.983784,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tarlabasi Taksim",
     "sg:city":"Osman Gazi",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169582091,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466313315,
     "wof:name":"Potin Kundura (dans Ayakkabisi)",
     "wof:parent_id":85904159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.983784,41.036766,28.983784,41.036766],
+  "bbox": [
+    28.983784,
+    41.036766,
+    28.983784,
+    41.036766
+],
   "geometry": {"coordinates":[28.983784,41.036766],"type":"Point"}
 }

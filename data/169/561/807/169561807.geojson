@@ -2,13 +2,14 @@
   "id": 169561807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.857197,39.894928,32.857197,39.894928",
     "geom:latitude":39.894928,
     "geom:longitude":32.857197,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cinnah Cd. No:37/1 ?ankaya",
     "sg:city":"Merkez",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561807,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466313266,
     "wof:name":"Pakyildiz Temizlik Tic. Ltd. Sti.",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.857197,39.894928,32.857197,39.894928],
+  "bbox": [
+    32.857197,
+    39.894928,
+    32.857197,
+    39.894928
+],
   "geometry": {"coordinates":[32.857197,39.894928],"type":"Point"}
 }

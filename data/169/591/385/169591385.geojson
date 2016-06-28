@@ -2,13 +2,14 @@
   "id": 169591385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.000637,41.090157,29.000637,41.090157",
     "geom:latitude":41.090157,
     "geom:longitude":29.000637,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbaros Bulvari, No.133-9 Koc Apt. K.5 Balmumcu",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169591385,
-    "wof:lastmodified":1449034450,
+    "wof:lastmodified":1466313339,
     "wof:name":"Ihlamur Gida Ltd.",
     "wof:parent_id":85929845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "spice"
     ]
 },
-  "bbox": [29.000637,41.090157,29.000637,41.090157],
+  "bbox": [
+    29.000637,
+    41.090157,
+    29.000637,
+    41.090157
+],
   "geometry": {"coordinates":[29.000637,41.090157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169584037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.850452,41.052567,28.850452,41.052567",
     "geom:latitude":41.052567,
     "geom:longitude":28.850452,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esenler C. 6.sk.no.4",
     "sg:city":"Bagcilar",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169584037,
-    "wof:lastmodified":1449033039,
+    "wof:lastmodified":1466313321,
     "wof:name":"Ayko Gida Dis Tic.ltd.sti.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "soft"
     ]
 },
-  "bbox": [28.850452,41.052567,28.850452,41.052567],
+  "bbox": [
+    28.850452,
+    41.052567,
+    28.850452,
+    41.052567
+],
   "geometry": {"coordinates":[28.850452,41.052567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169534343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.864738,39.908436,32.864738,39.908436",
     "geom:latitude":39.908436,
     "geom:longitude":32.864738,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esat Cad. 113/c",
     "sg:city":"K??esat",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534343,
-    "wof:lastmodified":1449033549,
+    "wof:lastmodified":1466313416,
     "wof:name":"Etibank Bao",
     "wof:parent_id":85929547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.864738,39.908436,32.864738,39.908436],
+  "bbox": [
+    32.864738,
+    39.908436,
+    32.864738,
+    39.908436
+],
   "geometry": {"coordinates":[32.864738,39.908436],"type":"Point"}
 }

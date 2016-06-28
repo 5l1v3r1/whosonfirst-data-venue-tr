@@ -2,13 +2,14 @@
   "id": 169563395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.973331,41.074291,28.973331,41.074291",
     "geom:latitude":41.074291,
     "geom:longitude":28.973331,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kagithane Cd. No:2 Kagithane",
     "sg:city":"Sultan?ftligi-gosmanpasa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169563395,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466313261,
     "wof:name":"Demeter Dekor.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [28.973331,41.074291,28.973331,41.074291],
+  "bbox": [
+    28.973331,
+    41.074291,
+    28.973331,
+    41.074291
+],
   "geometry": {"coordinates":[28.973331,41.074291],"type":"Point"}
 }

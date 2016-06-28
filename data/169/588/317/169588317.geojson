@@ -2,13 +2,14 @@
   "id": 169588317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981224,41.042233,28.981224,41.042233",
     "geom:latitude":41.042233,
     "geom:longitude":28.981224,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dolapdere Cd. No:155",
     "sg:city":"Pangalti",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169588317,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466313332,
     "wof:name":"Man Enerji Sistem Ltd.",
     "wof:parent_id":85906559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [28.981224,41.042233,28.981224,41.042233],
+  "bbox": [
+    28.981224,
+    41.042233,
+    28.981224,
+    41.042233
+],
   "geometry": {"coordinates":[28.981224,41.042233],"type":"Point"}
 }

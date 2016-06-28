@@ -2,13 +2,14 @@
   "id": 169561919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981974,41.076973,28.981974,41.076973",
     "geom:latitude":41.076973,
     "geom:longitude":28.981974,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vatan Cd. Avrasya Is Mrk 6/11 ?aglayan",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169561919,
-    "wof:lastmodified":1449035020,
+    "wof:lastmodified":1466313268,
     "wof:name":"Piripak End.tem.org.paz.san.ve Tic.a.s.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.981974,41.076973,28.981974,41.076973],
+  "bbox": [
+    28.981974,
+    41.076973,
+    28.981974,
+    41.076973
+],
   "geometry": {"coordinates":[28.981974,41.076973],"type":"Point"}
 }

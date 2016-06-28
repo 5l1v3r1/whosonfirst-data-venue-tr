@@ -2,13 +2,14 @@
   "id": 169533075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.967318,41.043106,28.967318,41.043106",
     "geom:latitude":41.043106,
     "geom:longitude":28.967318,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Head Quaters Bldg.mesrutiyt",
     "sg:city":"Denizli",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169533075,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466313411,
     "wof:name":"Esbank Eskisehir Bankasi Tas, (commercial Bank)",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.967318,41.043106,28.967318,41.043106],
+  "bbox": [
+    28.967318,
+    41.043106,
+    28.967318,
+    41.043106
+],
   "geometry": {"coordinates":[28.967318,41.043106],"type":"Point"}
 }

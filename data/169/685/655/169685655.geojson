@@ -2,13 +2,14 @@
   "id": 169685655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.915249,41.022778,28.915249,41.022778",
     "geom:latitude":41.022778,
     "geom:longitude":28.915249,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fazilpasa Cad.no.2",
     "sg:city":"Topkapi",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169685655,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466313457,
     "wof:name":"Eros ?amasirlari A.s.",
     "wof:parent_id":85904123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [28.915249,41.022778,28.915249,41.022778],
+  "bbox": [
+    28.915249,
+    41.022778,
+    28.915249,
+    41.022778
+],
   "geometry": {"coordinates":[28.915249,41.022778],"type":"Point"}
 }

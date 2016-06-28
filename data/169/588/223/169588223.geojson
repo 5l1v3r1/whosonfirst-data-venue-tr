@@ -2,13 +2,14 @@
   "id": 169588223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.123938,40.935417,29.123938,40.935417",
     "geom:latitude":40.935417,
     "geom:longitude":29.123938,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. No:281",
     "sg:city":"G?tepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169588223,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1466313331,
     "wof:name":"Makyal Enerji Sistem. San. A.s.",
     "wof:parent_id":85929997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "solar"
     ]
 },
-  "bbox": [29.123938,40.935417,29.123938,40.935417],
+  "bbox": [
+    29.123938,
+    40.935417,
+    29.123938,
+    40.935417
+],
   "geometry": {"coordinates":[29.123938,40.935417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169532681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.87059,41.017696,28.87059,41.017696",
     "geom:latitude":41.017696,
     "geom:longitude":28.87059,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abdi Ipekci Cad 44",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169532681,
-    "wof:lastmodified":1449033796,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":85929785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.87059,41.017696,28.87059,41.017696],
+  "bbox": [
+    28.87059,
+    41.017696,
+    28.87059,
+    41.017696
+],
   "geometry": {"coordinates":[28.87059,41.017696],"type":"Point"}
 }

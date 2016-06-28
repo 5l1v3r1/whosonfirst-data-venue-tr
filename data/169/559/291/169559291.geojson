@@ -2,13 +2,14 @@
   "id": 169559291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.03896,38.391312,27.03896,38.391312",
     "geom:latitude":38.391312,
     "geom:longitude":27.03896,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kestane Sok. No:12/b Balcova",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169559291,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466313249,
     "wof:name":"Calina Tem. Hizmetleri Turizm Cim. Imt. Sti.",
     "wof:parent_id":85929631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.03896,38.391312,27.03896,38.391312],
+  "bbox": [
+    27.03896,
+    38.391312,
+    27.03896,
+    38.391312
+],
   "geometry": {"coordinates":[27.03896,38.391312],"type":"Point"}
 }

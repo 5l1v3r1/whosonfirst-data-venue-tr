@@ -2,13 +2,14 @@
   "id": 169536709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.066401,37.805405,29.066401,37.805405",
     "geom:latitude":37.805405,
     "geom:longitude":29.066401,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Belediye Meydani",
     "sg:city":"Malatya",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169536709,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466313424,
     "wof:name":"Kentbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.066401,37.805405,29.066401,37.805405],
+  "bbox": [
+    29.066401,
+    37.805405,
+    29.066401,
+    37.805405
+],
   "geometry": {"coordinates":[29.066401,37.805405],"type":"Point"}
 }

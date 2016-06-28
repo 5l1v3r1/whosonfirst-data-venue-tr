@@ -2,13 +2,14 @@
   "id": 169588631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.549753,41.015068,28.549753,41.015068",
     "geom:latitude":41.015068,
     "geom:longitude":28.549753,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"8754.sok. No:5/a",
     "sg:city":"Cigli",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169588631,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466313334,
     "wof:name":"Mas Aluminyum Ve Asansor Sanayi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [28.549753,41.015068,28.549753,41.015068],
+  "bbox": [
+    28.549753,
+    41.015068,
+    28.549753,
+    41.015068
+],
   "geometry": {"coordinates":[28.549753,41.015068],"type":"Point"}
 }

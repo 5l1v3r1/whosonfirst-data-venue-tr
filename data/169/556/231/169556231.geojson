@@ -2,13 +2,14 @@
   "id": 169556231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.438101,40.800201,29.438101,40.800201",
     "geom:latitude":40.800201,
     "geom:longitude":29.438101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Osman Yilmaz Mah. Sehitnumandede Cad. No: 71/c Gebze",
     "sg:city":"Ke??en",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169556231,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466313246,
     "wof:name":"Hikura Elektronik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "system"
     ]
 },
-  "bbox": [29.438101,40.800201,29.438101,40.800201],
+  "bbox": [
+    29.438101,
+    40.800201,
+    29.438101,
+    40.800201
+],
   "geometry": {"coordinates":[29.438101,40.800201],"type":"Point"}
 }

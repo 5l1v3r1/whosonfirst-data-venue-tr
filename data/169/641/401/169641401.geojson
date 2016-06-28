@@ -2,13 +2,14 @@
   "id": 169641401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.976213,41.01556,28.976213,41.01556",
     "geom:latitude":41.01556,
     "geom:longitude":28.976213,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ankara Cd. No:60/3 Sirkeci",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169641401,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466313373,
     "wof:name":"G?n Kirtasiye",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.976213,41.01556,28.976213,41.01556],
+  "bbox": [
+    28.976213,
+    41.01556,
+    28.976213,
+    41.01556
+],
   "geometry": {"coordinates":[28.976213,41.01556],"type":"Point"}
 }

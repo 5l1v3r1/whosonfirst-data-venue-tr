@@ -2,13 +2,14 @@
   "id": 169657225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.807032,41.067394,28.807032,41.067394",
     "geom:latitude":41.067394,
     "geom:longitude":28.807032,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Demirciler Sitesi 4.cad.no:41",
     "sg:city":"Zeytinburnu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169657225,
-    "wof:lastmodified":1449033047,
+    "wof:lastmodified":1466313390,
     "wof:name":"Kur-al Paslanmaz Dis Tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pipe"
     ]
 },
-  "bbox": [28.807032,41.067394,28.807032,41.067394],
+  "bbox": [
+    28.807032,
+    41.067394,
+    28.807032,
+    41.067394
+],
   "geometry": {"coordinates":[28.807032,41.067394],"type":"Point"}
 }

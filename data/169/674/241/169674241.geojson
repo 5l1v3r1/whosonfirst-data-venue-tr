@@ -2,13 +2,14 @@
   "id": 169674241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.542089,41.021683,28.542089,41.021683",
     "geom:latitude":41.021683,
     "geom:longitude":28.542089,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad. No :127",
     "sg:city":"Beyoglu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169674241,
-    "wof:lastmodified":1449035140,
+    "wof:lastmodified":1466313402,
     "wof:name":"Haci Bekir Lokum Ve Sekerli Mamuller Sanayii A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sweet"
     ]
 },
-  "bbox": [28.542089,41.021683,28.542089,41.021683],
+  "bbox": [
+    28.542089,
+    41.021683,
+    28.542089,
+    41.021683
+],
   "geometry": {"coordinates":[28.542089,41.021683],"type":"Point"}
 }

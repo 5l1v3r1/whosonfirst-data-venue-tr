@@ -2,13 +2,14 @@
   "id": 169589103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.365801,37.219601,28.365801,37.219601",
     "geom:latitude":37.219601,
     "geom:longitude":28.365801,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dat? Yolu Eski Devlet Hast. Kars. 72 Sok. C/26",
     "sg:city":"Marmaris",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169589103,
-    "wof:lastmodified":1449034447,
+    "wof:lastmodified":1466313332,
     "wof:name":"Paksu G?nes Enerjisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "solar"
     ]
 },
-  "bbox": [28.365801,37.219601,28.365801,37.219601],
+  "bbox": [
+    28.365801,
+    37.219601,
+    28.365801,
+    37.219601
+],
   "geometry": {"coordinates":[28.365801,37.219601],"type":"Point"}
 }

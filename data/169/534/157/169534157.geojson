@@ -2,13 +2,14 @@
   "id": 169534157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.549271,39.105923,39.549271,39.105923",
     "geom:latitude":39.105923,
     "geom:longitude":39.549271,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad. 40",
     "sg:city":"Tunceli",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169534157,
-    "wof:lastmodified":1449033551,
+    "wof:lastmodified":1466313415,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [39.549271,39.105923,39.549271,39.105923],
+  "bbox": [
+    39.549271,
+    39.105923,
+    39.549271,
+    39.105923
+],
   "geometry": {"coordinates":[39.549271,39.105923],"type":"Point"}
 }

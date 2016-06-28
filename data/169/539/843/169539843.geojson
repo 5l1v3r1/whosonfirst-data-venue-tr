@@ -2,13 +2,14 @@
   "id": 169539843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.707102,36.887955,30.707102,36.887955",
     "geom:latitude":36.887955,
     "geom:longitude":30.707102,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ismetpasa Cad 4b",
     "sg:city":"Antalya",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169539843,
-    "wof:lastmodified":1449036036,
+    "wof:lastmodified":1466313434,
     "wof:name":"S?erbank As",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.707102,36.887955,30.707102,36.887955],
+  "bbox": [
+    30.707102,
+    36.887955,
+    30.707102,
+    36.887955
+],
   "geometry": {"coordinates":[30.707102,36.887955],"type":"Point"}
 }

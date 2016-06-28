@@ -2,13 +2,14 @@
   "id": 169596685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.07259,40.213295,29.07259,40.213295",
     "geom:latitude":40.213295,
     "geom:longitude":29.07259,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"K.balikli Mah. Sanli Cad. No. 91",
     "sg:city":"Mercan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169596685,
-    "wof:lastmodified":1449034375,
+    "wof:lastmodified":1466313345,
     "wof:name":"Cayhan Sportswear Ltd. Sti.",
     "wof:parent_id":85929763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.07259,40.213295,29.07259,40.213295],
+  "bbox": [
+    29.07259,
+    40.213295,
+    29.07259,
+    40.213295
+],
   "geometry": {"coordinates":[29.07259,40.213295],"type":"Point"}
 }

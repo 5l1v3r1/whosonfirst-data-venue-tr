@@ -2,13 +2,14 @@
   "id": 169685699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.112804,40.978958,29.112804,40.978958",
     "geom:latitude":40.978958,
     "geom:longitude":29.112804,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kayisdagi Cad. No:65/1",
     "sg:city":"Kucukbakkalkoy",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169685699,
-    "wof:lastmodified":1449035885,
+    "wof:lastmodified":1466313457,
     "wof:name":"Geo Tekstil San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [29.112804,40.978958,29.112804,40.978958],
+  "bbox": [
+    29.112804,
+    40.978958,
+    29.112804,
+    40.978958
+],
   "geometry": {"coordinates":[29.112804,40.978958],"type":"Point"}
 }

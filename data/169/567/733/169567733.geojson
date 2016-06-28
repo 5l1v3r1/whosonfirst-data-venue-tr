@@ -2,13 +2,14 @@
   "id": 169567733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.967318,41.043106,28.967318,41.043106",
     "geom:latitude":41.043106,
     "geom:longitude":28.967318,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nergis Sok. Tunel Is Hani No: 6 Beyoglu",
     "sg:city":"21100",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169567733,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466313272,
     "wof:name":"Elsan Guvenlik Sistemleri",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.967318,41.043106,28.967318,41.043106],
+  "bbox": [
+    28.967318,
+    41.043106,
+    28.967318,
+    41.043106
+],
   "geometry": {"coordinates":[28.967318,41.043106],"type":"Point"}
 }

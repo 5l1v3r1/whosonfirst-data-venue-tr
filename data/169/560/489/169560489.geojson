@@ -2,13 +2,14 @@
   "id": 169560489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.856007,39.919014,32.856007,39.919014",
     "geom:latitude":39.919014,
     "geom:longitude":32.856007,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Konur Sk. No:19/17 Ankara",
     "sg:city":"Fatih",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560489,
-    "wof:lastmodified":1449035181,
+    "wof:lastmodified":1466313255,
     "wof:name":"Gut Temizlik Hizmet. San. Tic. Ltd. Sti.",
     "wof:parent_id":85929551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.856007,39.919014,32.856007,39.919014],
+  "bbox": [
+    32.856007,
+    39.919014,
+    32.856007,
+    39.919014
+],
   "geometry": {"coordinates":[32.856007,39.919014],"type":"Point"}
 }

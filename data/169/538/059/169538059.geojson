@@ -2,13 +2,14 @@
   "id": 169538059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.056326,40.190121,29.056326,40.190121",
     "geom:latitude":40.190121,
     "geom:longitude":29.056326,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tahir ?n Cad 47",
     "sg:city":"Akhisar",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169538059,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466313428,
     "wof:name":"Milli Aydin, Bankasi Tas - Tarisbank",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.056326,40.190121,29.056326,40.190121],
+  "bbox": [
+    29.056326,
+    40.190121,
+    29.056326,
+    40.190121
+],
   "geometry": {"coordinates":[29.056326,40.190121],"type":"Point"}
 }

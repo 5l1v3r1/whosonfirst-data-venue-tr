@@ -2,13 +2,14 @@
   "id": 169599751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.861458,41.052631,28.861458,41.052631",
     "geom:latitude":41.052631,
     "geom:longitude":28.861458,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Karabayir Mh. Mahmutbey Cd. No: 35",
     "sg:city":"Esenler",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169599751,
-    "wof:lastmodified":1449034205,
+    "wof:lastmodified":1466313352,
     "wof:name":"Omat Konf. San. Tic. Ltd. Sti.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.861458,41.052631,28.861458,41.052631],
+  "bbox": [
+    28.861458,
+    41.052631,
+    28.861458,
+    41.052631
+],
   "geometry": {"coordinates":[28.861458,41.052631],"type":"Point"}
 }

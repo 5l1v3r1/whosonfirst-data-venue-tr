@@ -2,13 +2,14 @@
   "id": 169686569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.904455,40.999287,28.904455,40.999287",
     "geom:latitude":40.999287,
     "geom:longitude":28.904455,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"S?er Mh. Prof. Turan G. Cd. No:118/a Zeytinburnu",
     "sg:city":"Caglayan",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169686569,
-    "wof:lastmodified":1449035160,
+    "wof:lastmodified":1466313456,
     "wof:name":"Desen Perde Ev Tekstili San. Tic. Ltd. Sti.",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.904455,40.999287,28.904455,40.999287],
+  "bbox": [
+    28.904455,
+    40.999287,
+    28.904455,
+    40.999287
+],
   "geometry": {"coordinates":[28.904455,40.999287],"type":"Point"}
 }

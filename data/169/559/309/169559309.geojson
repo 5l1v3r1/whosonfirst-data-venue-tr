@@ -2,13 +2,14 @@
   "id": 169559309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.025766,41.081856,29.025766,41.081856",
     "geom:latitude":41.081856,
     "geom:longitude":29.025766,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Akatlar Zeytinoglu Cd. Yaren Sok. No:6 Etiler -besiktas",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169559309,
-    "wof:lastmodified":1449035237,
+    "wof:lastmodified":1466313249,
     "wof:name":"Cam-pak Temizlik Ve Guvenlik Hizmetleri Tur.insaat San.a.s.",
     "wof:parent_id":85930001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.025766,41.081856,29.025766,41.081856],
+  "bbox": [
+    29.025766,
+    41.081856,
+    29.025766,
+    41.081856
+],
   "geometry": {"coordinates":[29.025766,41.081856],"type":"Point"}
 }

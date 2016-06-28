@@ -2,13 +2,14 @@
   "id": 169554831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.486397,37.811703,28.486397,37.811703",
     "geom:latitude":37.811703,
     "geom:longitude":28.486397,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Eyl? Mah. 5 Sk. No: 9",
     "sg:city":"Alibeyk?y",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169554831,
-    "wof:lastmodified":1449033370,
+    "wof:lastmodified":1466313237,
     "wof:name":"Mesir Gida San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [28.486397,37.811703,28.486397,37.811703],
+  "bbox": [
+    28.486397,
+    37.811703,
+    28.486397,
+    37.811703
+],
   "geometry": {"coordinates":[28.486397,37.811703],"type":"Point"}
 }

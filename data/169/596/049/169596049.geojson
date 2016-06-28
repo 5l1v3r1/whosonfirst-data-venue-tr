@@ -2,13 +2,14 @@
   "id": 169596049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.125826,40.180595,29.125826,40.180595",
     "geom:latitude":40.180595,
     "geom:longitude":29.125826,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esenevler Mah.eylul Sok.no:1",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169596049,
-    "wof:lastmodified":1449034371,
+    "wof:lastmodified":1466313446,
     "wof:name":"Areteks Tekstil Konf.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.125826,40.180595,29.125826,40.180595],
+  "bbox": [
+    29.125826,
+    40.180595,
+    29.125826,
+    40.180595
+],
   "geometry": {"coordinates":[29.125826,40.180595],"type":"Point"}
 }

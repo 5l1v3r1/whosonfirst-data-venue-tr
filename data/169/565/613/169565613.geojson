@@ -2,13 +2,14 @@
   "id": 169565613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.051014,40.996273,29.051014,40.996273",
     "geom:latitude":40.996273,
     "geom:longitude":29.051014,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ataturk Cad. No.83/2 D:6",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169565613,
-    "wof:lastmodified":1449035664,
+    "wof:lastmodified":1466313269,
     "wof:name":"Barkodes Bilgisayar Sist.bilgi Iletim Ve Yazilim Tic.ltd.sti.",
     "wof:parent_id":85929427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.051014,40.996273,29.051014,40.996273],
+  "bbox": [
+    29.051014,
+    40.996273,
+    29.051014,
+    40.996273
+],
   "geometry": {"coordinates":[29.051014,40.996273],"type":"Point"}
 }

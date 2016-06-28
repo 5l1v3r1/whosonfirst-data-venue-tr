@@ -2,13 +2,14 @@
   "id": 169611145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.937222,37.728333,27.937222,37.728333",
     "geom:latitude":37.728333,
     "geom:longitude":27.937222,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aydin",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169611145,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1466313355,
     "wof:name":"Adnan Menderes ?ni. Tip. Fak.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [27.937222,37.728333,27.937222,37.728333],
+  "bbox": [
+    27.937222,
+    37.728333,
+    27.937222,
+    37.728333
+],
   "geometry": {"coordinates":[27.937222,37.728333],"type":"Point"}
 }

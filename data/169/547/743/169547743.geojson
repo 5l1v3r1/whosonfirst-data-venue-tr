@@ -2,13 +2,14 @@
   "id": 169547743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.154064,36.201237,36.154064,36.201237",
     "geom:latitude":36.201237,
     "geom:longitude":36.154064,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad 16",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169547743,
-    "wof:lastmodified":1449033010,
+    "wof:lastmodified":1466313235,
     "wof:name":"Yurt Ticaret, Ve Kredi Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.154064,36.201237,36.154064,36.201237],
+  "bbox": [
+    36.154064,
+    36.201237,
+    36.154064,
+    36.201237
+],
   "geometry": {"coordinates":[36.154064,36.201237],"type":"Point"}
 }

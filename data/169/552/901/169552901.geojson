@@ -2,13 +2,14 @@
   "id": 169552901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.499027,37.871536,32.499027,37.871536",
     "geom:latitude":37.871536,
     "geom:longitude":32.499027,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Sekerciler Sitesi 9 Nolu Sok. No:1",
     "sg:city":"Sincan",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169552901,
-    "wof:lastmodified":1449034053,
+    "wof:lastmodified":1466313252,
     "wof:name":"Aksu Sekerleme",
     "wof:parent_id":85934711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [32.499027,37.871536,32.499027,37.871536],
+  "bbox": [
+    32.499027,
+    37.871536,
+    32.499027,
+    37.871536
+],
   "geometry": {"coordinates":[32.499027,37.871536],"type":"Point"}
 }

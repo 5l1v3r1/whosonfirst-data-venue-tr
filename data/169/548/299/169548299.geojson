@@ -2,13 +2,14 @@
   "id": 169548299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.740742,39.971226,32.740742,39.971226",
     "geom:latitude":39.971226,
     "geom:longitude":32.740742,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"30.sok.no:32 Ostim",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548299,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466313220,
     "wof:name":"Guclu Aku San.a.s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [32.740742,39.971226,32.740742,39.971226],
+  "bbox": [
+    32.740742,
+    39.971226,
+    32.740742,
+    39.971226
+],
   "geometry": {"coordinates":[32.740742,39.971226],"type":"Point"}
 }

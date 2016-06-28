@@ -2,13 +2,14 @@
   "id": 169541493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.308846,40.821331,29.308846,40.821331",
     "geom:latitude":40.821331,
     "geom:longitude":29.308846,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istasyon Caddesi 100",
     "sg:city":"G?zepe",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169541493,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466313440,
     "wof:name":"Toprakbank As",
     "wof:parent_id":85930147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.308846,40.821331,29.308846,40.821331],
+  "bbox": [
+    29.308846,
+    40.821331,
+    29.308846,
+    40.821331
+],
   "geometry": {"coordinates":[29.308846,40.821331],"type":"Point"}
 }

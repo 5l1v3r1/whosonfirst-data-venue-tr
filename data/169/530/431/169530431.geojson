@@ -2,13 +2,14 @@
   "id": 169530431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.065571,40.187973,29.065571,40.187973",
     "geom:latitude":40.187973,
     "geom:longitude":29.065571,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasim Iscan Cad",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169530431,
-    "wof:lastmodified":1449034443,
+    "wof:lastmodified":1466313204,
     "wof:name":"Alternatifbank As",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.065571,40.187973,29.065571,40.187973],
+  "bbox": [
+    29.065571,
+    40.187973,
+    29.065571,
+    40.187973
+],
   "geometry": {"coordinates":[29.065571,40.187973],"type":"Point"}
 }

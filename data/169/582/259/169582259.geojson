@@ -2,13 +2,14 @@
   "id": 169582259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.869381,40.994217,28.869381,40.994217",
     "geom:latitude":40.994217,
     "geom:longitude":28.869381,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nar Sk. No.14/2 Merter",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169582259,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466313318,
     "wof:name":"Saluro Ayakkabi San. A.s.",
     "wof:parent_id":85929899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.869381,40.994217,28.869381,40.994217],
+  "bbox": [
+    28.869381,
+    40.994217,
+    28.869381,
+    40.994217
+],
   "geometry": {"coordinates":[28.869381,40.994217],"type":"Point"}
 }

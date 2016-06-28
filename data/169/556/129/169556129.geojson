@@ -2,13 +2,14 @@
   "id": 169556129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.881521,40.853271,29.881521,40.853271",
     "geom:latitude":40.853271,
     "geom:longitude":29.881521,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abdi Ipekci Mah.ethem Pasa Cad.",
     "sg:city":"Gebze",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169556129,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466313243,
     "wof:name":"Digital Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "system"
     ]
 },
-  "bbox": [29.881521,40.853271,29.881521,40.853271],
+  "bbox": [
+    29.881521,
+    40.853271,
+    29.881521,
+    40.853271
+],
   "geometry": {"coordinates":[29.881521,40.853271],"type":"Point"}
 }

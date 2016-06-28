@@ -2,13 +2,14 @@
   "id": 169633569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.026974,41.082134,29.026974,41.082134",
     "geom:latitude":41.082134,
     "geom:longitude":29.026974,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zeytinoglu Cd. Yaren Sk. No:1/2 Akatlar",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169633569,
-    "wof:lastmodified":1449035941,
+    "wof:lastmodified":1466313371,
     "wof:name":"Akatlar Meydan Kirtasiye",
     "wof:parent_id":85930001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.026974,41.082134,29.026974,41.082134],
+  "bbox": [
+    29.026974,
+    41.082134,
+    29.026974,
+    41.082134
+],
   "geometry": {"coordinates":[29.026974,41.082134],"type":"Point"}
 }

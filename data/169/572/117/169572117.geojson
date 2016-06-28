@@ -2,13 +2,14 @@
   "id": 169572117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.011425,41.061371,29.011425,41.061371",
     "geom:latitude":41.061371,
     "geom:longitude":29.011425,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Balmumcu Barbaros Bulvari No.48/2-3",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169572117,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466313280,
     "wof:name":"Bigtas Ihr. A.s. .",
     "wof:parent_id":85929407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.011425,41.061371,29.011425,41.061371],
+  "bbox": [
+    29.011425,
+    41.061371,
+    29.011425,
+    41.061371
+],
   "geometry": {"coordinates":[29.011425,41.061371],"type":"Point"}
 }

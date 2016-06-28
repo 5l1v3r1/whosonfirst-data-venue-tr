@@ -2,13 +2,14 @@
   "id": 169584051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"41.947128,37.925163,41.947128,37.925163",
     "geom:latitude":37.925163,
     "geom:longitude":41.947128,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Necatipasa Mah. 3.sok. No:5",
     "sg:city":"Hendek",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169584051,
-    "wof:lastmodified":1449033038,
+    "wof:lastmodified":1466313322,
     "wof:name":"Akyudum Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [41.947128,37.925163,41.947128,37.925163],
+  "bbox": [
+    41.947128,
+    37.925163,
+    41.947128,
+    37.925163
+],
   "geometry": {"coordinates":[41.947128,37.925163],"type":"Point"}
 }

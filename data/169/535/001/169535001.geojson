@@ -2,13 +2,14 @@
   "id": 169535001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.892071,36.906425,34.892071,36.906425",
     "geom:latitude":36.906425,
     "geom:longitude":34.892071,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"H?riyet Bul",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169535001,
-    "wof:lastmodified":1449033285,
+    "wof:lastmodified":1466313418,
     "wof:name":"Everest Bank Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.892071,36.906425,34.892071,36.906425],
+  "bbox": [
+    34.892071,
+    36.906425,
+    34.892071,
+    36.906425
+],
   "geometry": {"coordinates":[34.892071,36.906425],"type":"Point"}
 }

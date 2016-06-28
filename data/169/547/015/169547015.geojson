@@ -2,13 +2,14 @@
   "id": 169547015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.63261,36.799995,34.63261,36.799995",
     "geom:latitude":36.799995,
     "geom:longitude":34.63261,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Uray Cad 13",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169547015,
-    "wof:lastmodified":1449033007,
+    "wof:lastmodified":1466313207,
     "wof:name":"T?kiye Vakiflar, Bankasi Tao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.63261,36.799995,34.63261,36.799995],
+  "bbox": [
+    34.63261,
+    36.799995,
+    34.63261,
+    36.799995
+],
   "geometry": {"coordinates":[34.63261,36.799995],"type":"Point"}
 }

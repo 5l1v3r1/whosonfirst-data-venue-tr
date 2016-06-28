@@ -2,13 +2,14 @@
   "id": 169642193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.067972,40.966881,29.067972,40.966881",
     "geom:latitude":40.966881,
     "geom:longitude":29.067972,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. Iskele Yolu No:8 Caddebostan",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169642193,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466313372,
     "wof:name":"Idil Kirtasiyeci. San. Tic. Ltd. Sti.",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.067972,40.966881,29.067972,40.966881],
+  "bbox": [
+    29.067972,
+    40.966881,
+    29.067972,
+    40.966881
+],
   "geometry": {"coordinates":[29.067972,40.966881],"type":"Point"}
 }

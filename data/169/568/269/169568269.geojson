@@ -2,13 +2,14 @@
   "id": 169568269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.097591,40.952122,29.097591,40.952122",
     "geom:latitude":40.952122,
     "geom:longitude":29.097591,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. No:19/11 Fener Yolu",
     "sg:city":"Mecdiyek?",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568269,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466313276,
     "wof:name":"Guard G?venlik Sistem. A.s.",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.097591,40.952122,29.097591,40.952122],
+  "bbox": [
+    29.097591,
+    40.952122,
+    29.097591,
+    40.952122
+],
   "geometry": {"coordinates":[29.097591,40.952122],"type":"Point"}
 }

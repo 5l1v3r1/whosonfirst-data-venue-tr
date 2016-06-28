@@ -2,13 +2,14 @@
   "id": 169549373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.747787,39.97121,32.747787,39.97121",
     "geom:latitude":39.97121,
     "geom:longitude":32.747787,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Alinteri Bulv. No:112 Ostim",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169549373,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466313222,
     "wof:name":"Er Mak. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [32.747787,39.97121,32.747787,39.97121],
+  "bbox": [
+    32.747787,
+    39.97121,
+    32.747787,
+    39.97121
+],
   "geometry": {"coordinates":[32.747787,39.97121],"type":"Point"}
 }

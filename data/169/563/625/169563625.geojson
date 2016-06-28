@@ -2,13 +2,14 @@
   "id": 169563625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.987904,41.058693,28.987904,41.058693",
     "geom:latitude":41.058693,
     "geom:longitude":28.987904,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"H?riyyet Mh. Dr. Cemil B. Cd. Fistik Sk. No:1/2 Sisli",
     "sg:city":"Sultan?ftligi-gaziosmanpasa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169563625,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466313267,
     "wof:name":"Evren Mobilya",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [28.987904,41.058693,28.987904,41.058693],
+  "bbox": [
+    28.987904,
+    41.058693,
+    28.987904,
+    41.058693
+],
   "geometry": {"coordinates":[28.987904,41.058693],"type":"Point"}
 }

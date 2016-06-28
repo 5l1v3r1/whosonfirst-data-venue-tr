@@ -2,13 +2,14 @@
   "id": 169553337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.2229,38.675499,39.2229,38.675499",
     "geom:latitude":38.675499,
     "geom:longitude":39.2229,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Mah. B?ge Sok. No:19/b",
     "sg:city":"Sirinevler",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169553337,
-    "wof:lastmodified":1449032708,
+    "wof:lastmodified":1466313220,
     "wof:name":"Bizim Pazar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [39.2229,38.675499,39.2229,38.675499],
+  "bbox": [
+    39.2229,
+    38.675499,
+    39.2229,
+    38.675499
+],
   "geometry": {"coordinates":[39.2229,38.675499],"type":"Point"}
 }

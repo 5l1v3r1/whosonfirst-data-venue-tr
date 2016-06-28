@@ -2,13 +2,14 @@
   "id": 169573171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.966282,41.051079,28.966282,41.051079",
     "geom:latitude":41.051079,
     "geom:longitude":28.966282,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Buyukdere Cad. Simsek Apt.no:3 D:3",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169573171,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466313283,
     "wof:name":"Kalyon Denizcilik Ve Tic.a.s.",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.966282,41.051079,28.966282,41.051079],
+  "bbox": [
+    28.966282,
+    41.051079,
+    28.966282,
+    41.051079
+],
   "geometry": {"coordinates":[28.966282,41.051079],"type":"Point"}
 }

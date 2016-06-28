@@ -2,13 +2,14 @@
   "id": 169588853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.90983,41.003815,28.90983,41.003815",
     "geom:latitude":41.003815,
     "geom:longitude":28.90983,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Calislar Cad.genc Apt. No: 3",
     "sg:city":"Bahcelievler",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169588853,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1466313337,
     "wof:name":"Prizma Gunes Enerji Sistemleri Ltd.sti.",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "solar"
     ]
 },
-  "bbox": [28.90983,41.003815,28.90983,41.003815],
+  "bbox": [
+    28.90983,
+    41.003815,
+    28.90983,
+    41.003815
+],
   "geometry": {"coordinates":[28.90983,41.003815],"type":"Point"}
 }

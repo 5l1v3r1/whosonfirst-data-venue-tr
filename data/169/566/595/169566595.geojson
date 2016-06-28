@@ -2,13 +2,14 @@
   "id": 169566595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.869968,40.995575,28.869968,40.995575",
     "geom:latitude":40.995575,
     "geom:longitude":28.869968,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Incirli Cad. 104/3-8 Bakirkoy",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169566595,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466313267,
     "wof:name":"Csu Elit Guvenlik Sistemleri",
     "wof:parent_id":85929899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.869968,40.995575,28.869968,40.995575],
+  "bbox": [
+    28.869968,
+    40.995575,
+    28.869968,
+    40.995575
+],
   "geometry": {"coordinates":[28.869968,40.995575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169528231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.800772,41.00906,28.800772,41.00906",
     "geom:latitude":41.00906,
     "geom:longitude":28.800772,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Muammer Aksoy Cad.no:18/2",
     "sg:city":"Zeytinburnu",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528231,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466313188,
     "wof:name":"Altro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [28.800772,41.00906,28.800772,41.00906],
+  "bbox": [
+    28.800772,
+    41.00906,
+    28.800772,
+    41.00906
+],
   "geometry": {"coordinates":[28.800772,41.00906],"type":"Point"}
 }

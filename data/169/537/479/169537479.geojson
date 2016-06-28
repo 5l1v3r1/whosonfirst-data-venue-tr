@@ -2,13 +2,14 @@
   "id": 169537479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.874334,41.020355,28.874334,41.020355",
     "geom:latitude":41.020355,
     "geom:longitude":28.874334,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Apt. No.2 Balkan Sok",
     "sg:city":"Bostanci",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169537479,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313427,
     "wof:name":"K?fezbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.874334,41.020355,28.874334,41.020355],
+  "bbox": [
+    28.874334,
+    41.020355,
+    28.874334,
+    41.020355
+],
   "geometry": {"coordinates":[28.874334,41.020355],"type":"Point"}
 }

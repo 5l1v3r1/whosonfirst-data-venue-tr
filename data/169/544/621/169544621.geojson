@@ -2,13 +2,14 @@
   "id": 169544621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.329739,36.985085,35.329739,36.985085",
     "geom:latitude":36.985085,
     "geom:longitude":35.329739,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kizilay Cad 37",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169544621,
-    "wof:lastmodified":1449035965,
+    "wof:lastmodified":1466313226,
     "wof:name":"T?kiye Halk Bankasi As",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [35.329739,36.985085,35.329739,36.985085],
+  "bbox": [
+    35.329739,
+    36.985085,
+    35.329739,
+    36.985085
+],
   "geometry": {"coordinates":[35.329739,36.985085],"type":"Point"}
 }

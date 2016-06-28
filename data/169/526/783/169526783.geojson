@@ -2,13 +2,14 @@
   "id": 169526783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.491287,37.901039,32.491287,37.901039",
     "geom:latitude":37.901039,
     "geom:longitude":32.491287,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bahtiyar Han No.30",
     "sg:city":"Yesildirek",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169526783,
-    "wof:lastmodified":1449033697,
+    "wof:lastmodified":1466313197,
     "wof:name":"G?ven ?ocuk Giyim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [32.491287,37.901039,32.491287,37.901039],
+  "bbox": [
+    32.491287,
+    37.901039,
+    32.491287,
+    37.901039
+],
   "geometry": {"coordinates":[32.491287,37.901039],"type":"Point"}
 }

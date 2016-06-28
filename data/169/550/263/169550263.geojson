@@ -2,13 +2,14 @@
   "id": 169550263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mumhane Cad.no:7 Katli Otopark Girisi Karsisi Karakoy",
     "sg:city":"Ulus",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169550263,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466313220,
     "wof:name":"Uygun Rulman Tic.san.a.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "bbox": [
+    28.975925,
+    41.012379,
+    28.975925,
+    41.012379
+],
   "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
 }

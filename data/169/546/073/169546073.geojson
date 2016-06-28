@@ -2,13 +2,14 @@
   "id": 169546073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.405855,40.761669,30.405855,40.761669",
     "geom:latitude":40.761669,
     "geom:longitude":30.405855,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Akincilar Mah 92",
     "sg:city":"?demiz",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169546073,
-    "wof:lastmodified":1449032677,
+    "wof:lastmodified":1466313209,
     "wof:name":"T?kiye T??c?er, Bankasi Yasarbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.405855,40.761669,30.405855,40.761669],
+  "bbox": [
+    30.405855,
+    40.761669,
+    30.405855,
+    40.761669
+],
   "geometry": {"coordinates":[30.405855,40.761669],"type":"Point"}
 }

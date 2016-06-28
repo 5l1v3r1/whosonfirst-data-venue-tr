@@ -2,13 +2,14 @@
   "id": 169671539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.996155,41.049095,28.996155,41.049095",
     "geom:latitude":41.049095,
     "geom:longitude":28.996155,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sakayik Sok.no:37/9",
     "sg:city":"Kadikoy",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169671539,
-    "wof:lastmodified":1449033454,
+    "wof:lastmodified":1466313402,
     "wof:name":"Avrasya Gozetme Kontrol Ve Laboratuvar Servisleri Ltd.sti.",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [28.996155,41.049095,28.996155,41.049095],
+  "bbox": [
+    28.996155,
+    41.049095,
+    28.996155,
+    41.049095
+],
   "geometry": {"coordinates":[28.996155,41.049095],"type":"Point"}
 }

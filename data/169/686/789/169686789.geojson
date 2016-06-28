@@ -2,13 +2,14 @@
   "id": 169686789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.940359,41.012802,28.940359,41.012802",
     "geom:latitude":41.012802,
     "geom:longitude":28.940359,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kizilelma Cd. No:45/a Findikzade",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169686789,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466313459,
     "wof:name":"Modern Tekstil San. Tic. Ltd. Sti.",
     "wof:parent_id":85906519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "upholstering"
     ]
 },
-  "bbox": [28.940359,41.012802,28.940359,41.012802],
+  "bbox": [
+    28.940359,
+    41.012802,
+    28.940359,
+    41.012802
+],
   "geometry": {"coordinates":[28.940359,41.012802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169647337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.894339,40.984306,28.894339,40.984306",
     "geom:latitude":40.984306,
     "geom:longitude":28.894339,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Savas Cd. No:4/6 Merter",
     "sg:city":"Kizilay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169647337,
-    "wof:lastmodified":1449034239,
+    "wof:lastmodified":1466313382,
     "wof:name":"Opel Kirtasiye",
     "wof:parent_id":85930077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.894339,40.984306,28.894339,40.984306],
+  "bbox": [
+    28.894339,
+    40.984306,
+    28.894339,
+    40.984306
+],
   "geometry": {"coordinates":[28.894339,40.984306],"type":"Point"}
 }

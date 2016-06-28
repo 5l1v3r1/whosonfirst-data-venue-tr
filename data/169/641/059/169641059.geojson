@@ -2,13 +2,14 @@
   "id": 169641059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.001011,41.044224,29.001011,41.044224",
     "geom:latitude":41.044224,
     "geom:longitude":29.001011,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sair Nedim Cd. No:120/b Besiktas",
     "sg:city":"?aglayan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169641059,
-    "wof:lastmodified":1449035168,
+    "wof:lastmodified":1466313370,
     "wof:name":"G?ktun? Kirtasiye",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.001011,41.044224,29.001011,41.044224],
+  "bbox": [
+    29.001011,
+    41.044224,
+    29.001011,
+    41.044224
+],
   "geometry": {"coordinates":[29.001011,41.044224],"type":"Point"}
 }

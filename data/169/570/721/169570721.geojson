@@ -2,13 +2,14 @@
   "id": 169570721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.099709,40.974583,29.099709,40.974583",
     "geom:latitude":40.974583,
     "geom:longitude":29.099709,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Doguskent Cad. No:6 Yanyol",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169570721,
-    "wof:lastmodified":1449034648,
+    "wof:lastmodified":1466313298,
     "wof:name":"Acar Metal Ticaret As.",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "iron"
     ]
 },
-  "bbox": [29.099709,40.974583,29.099709,40.974583],
+  "bbox": [
+    29.099709,
+    40.974583,
+    29.099709,
+    40.974583
+],
   "geometry": {"coordinates":[29.099709,40.974583],"type":"Point"}
 }

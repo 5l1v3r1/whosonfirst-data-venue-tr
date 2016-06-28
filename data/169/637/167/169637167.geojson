@@ -2,13 +2,14 @@
   "id": 169637167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.893364,41.063393,28.893364,41.063393",
     "geom:latitude":41.063393,
     "geom:longitude":28.893364,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aksemseddin Cd. No:55/3 Fatih",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169637167,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466313370,
     "wof:name":"Birlik Kirtasiye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.893364,41.063393,28.893364,41.063393],
+  "bbox": [
+    28.893364,
+    41.063393,
+    28.893364,
+    41.063393
+],
   "geometry": {"coordinates":[28.893364,41.063393],"type":"Point"}
 }

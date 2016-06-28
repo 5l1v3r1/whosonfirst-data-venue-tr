@@ -2,13 +2,14 @@
   "id": 169576069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.049982,40.995487,29.049982,40.995487",
     "geom:latitude":40.995487,
     "geom:longitude":29.049982,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hatboyu 9/9 G?tepe",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169576069,
-    "wof:lastmodified":1449035198,
+    "wof:lastmodified":1466313280,
     "wof:name":"Elit Logistics Services Transport Foreign Trade",
     "wof:parent_id":85929427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [29.049982,40.995487,29.049982,40.995487],
+  "bbox": [
+    29.049982,
+    40.995487,
+    29.049982,
+    40.995487
+],
   "geometry": {"coordinates":[29.049982,40.995487],"type":"Point"}
 }

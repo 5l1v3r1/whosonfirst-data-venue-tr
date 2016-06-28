@@ -2,13 +2,14 @@
   "id": 169595283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.217041,40.912071,29.217041,40.912071",
     "geom:latitude":40.912071,
     "geom:longitude":29.217041,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kartal Cd. No:55 Yakacik",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169595283,
-    "wof:lastmodified":1449035636,
+    "wof:lastmodified":1466313342,
     "wof:name":"Goya S?nger San. Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sponge"
     ]
 },
-  "bbox": [29.217041,40.912071,29.217041,40.912071],
+  "bbox": [
+    29.217041,
+    40.912071,
+    29.217041,
+    40.912071
+],
   "geometry": {"coordinates":[29.217041,40.912071],"type":"Point"}
 }

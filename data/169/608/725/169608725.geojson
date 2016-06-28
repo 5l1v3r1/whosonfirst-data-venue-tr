@@ -2,13 +2,14 @@
   "id": 169608725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.019678,41.075993,29.019678,41.075993",
     "geom:latitude":41.075993,
     "geom:longitude":29.019678,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nispetiye Cd. No:30 Levent",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169608725,
-    "wof:lastmodified":1449034082,
+    "wof:lastmodified":1466313359,
     "wof:name":"Veges Fitness Center",
     "wof:parent_id":85929391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [29.019678,41.075993,29.019678,41.075993],
+  "bbox": [
+    29.019678,
+    41.075993,
+    29.019678,
+    41.075993
+],
   "geometry": {"coordinates":[29.019678,41.075993],"type":"Point"}
 }

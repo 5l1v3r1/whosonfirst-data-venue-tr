@@ -2,13 +2,14 @@
   "id": 169571081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.474342,38.721169,35.474342,38.721169",
     "geom:latitude":38.721169,
     "geom:longitude":35.474342,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"K?? Mustafa Mah.?rnek Sok.no:2",
     "sg:city":"Melikgazi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169571081,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466313273,
     "wof:name":"Ufuk Profil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "iron"
     ]
 },
-  "bbox": [35.474342,38.721169,35.474342,38.721169],
+  "bbox": [
+    35.474342,
+    38.721169,
+    35.474342,
+    38.721169
+],
   "geometry": {"coordinates":[35.474342,38.721169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.991585,41.096428,28.991585,41.096428",
     "geom:latitude":41.096428,
     "geom:longitude":28.991585,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eski Besiktas Yolu Nurta?cad.no:31",
     "sg:city":"Kagithane",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169599647,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466313351,
     "wof:name":"Muko Tekstil Ltd.",
     "wof:parent_id":85930237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.991585,41.096428,28.991585,41.096428],
+  "bbox": [
+    28.991585,
+    41.096428,
+    28.991585,
+    41.096428
+],
   "geometry": {"coordinates":[28.991585,41.096428],"type":"Point"}
 }

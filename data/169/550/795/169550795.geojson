@@ -2,13 +2,14 @@
   "id": 169550795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.009842,40.202923,29.009842,40.202923",
     "geom:latitude":40.202923,
     "geom:longitude":29.009842,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dikkaldirim Cad. Meltem Sok. No:1 D:1",
     "sg:city":"Sisli",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169550795,
-    "wof:lastmodified":1449034477,
+    "wof:lastmodified":1466313250,
     "wof:name":"Melike Guzellik Salonu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.009842,40.202923,29.009842,40.202923],
+  "bbox": [
+    29.009842,
+    40.202923,
+    29.009842,
+    40.202923
+],
   "geometry": {"coordinates":[29.009842,40.202923],"type":"Point"}
 }

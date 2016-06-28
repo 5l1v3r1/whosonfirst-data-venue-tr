@@ -2,13 +2,14 @@
   "id": 169565773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"43.372955,38.501118,43.372955,38.501118",
     "geom:latitude":38.501118,
     "geom:longitude":43.372955,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cad.ozen Is Merkezi Kat:2 /21",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169565773,
-    "wof:lastmodified":1449035663,
+    "wof:lastmodified":1466313270,
     "wof:name":"Beril Elek. G?venlik Sistemleri Tic.san.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [43.372955,38.501118,43.372955,38.501118],
+  "bbox": [
+    43.372955,
+    38.501118,
+    43.372955,
+    38.501118
+],
   "geometry": {"coordinates":[43.372955,38.501118],"type":"Point"}
 }

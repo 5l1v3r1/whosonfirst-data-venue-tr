@@ -2,13 +2,14 @@
   "id": 169551587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.885977,41.016563,28.885977,41.016563",
     "geom:latitude":41.016563,
     "geom:longitude":28.885977,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Akasya Sk. 8merter",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551587,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313234,
     "wof:name":"Sabah Yatak San. Tic. A.s.",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [28.885977,41.016563,28.885977,41.016563],
+  "bbox": [
+    28.885977,
+    41.016563,
+    28.885977,
+    41.016563
+],
   "geometry": {"coordinates":[28.885977,41.016563],"type":"Point"}
 }

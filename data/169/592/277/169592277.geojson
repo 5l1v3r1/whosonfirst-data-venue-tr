@@ -2,13 +2,14 @@
   "id": 169592277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.90443,41.083729,28.90443,41.083729",
     "geom:latitude":41.083729,
     "geom:longitude":28.90443,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Esentepe Mah. G.o.pasa Kucuk San. Sit. 2960.sok. 16.blok Kucukkoy",
     "sg:city":"G.o.pasa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169592277,
-    "wof:lastmodified":1449034581,
+    "wof:lastmodified":1466313338,
     "wof:name":"Kutluer Gida Katki Maddeleri Ith. Pazarlama",
     "wof:parent_id":85929781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "spice"
     ]
 },
-  "bbox": [28.90443,41.083729,28.90443,41.083729],
+  "bbox": [
+    28.90443,
+    41.083729,
+    28.90443,
+    41.083729
+],
   "geometry": {"coordinates":[28.90443,41.083729],"type":"Point"}
 }

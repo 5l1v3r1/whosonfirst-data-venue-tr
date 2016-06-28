@@ -2,13 +2,14 @@
   "id": 169583143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.232475,38.467449,27.232475,38.467449",
     "geom:latitude":38.467449,
     "geom:longitude":27.232475,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Sok. No.13/4",
     "sg:city":"Isikkent",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169583143,
-    "wof:lastmodified":1449035269,
+    "wof:lastmodified":1466313317,
     "wof:name":"Two Brother S Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.232475,38.467449,27.232475,38.467449],
+  "bbox": [
+    27.232475,
+    38.467449,
+    27.232475,
+    38.467449
+],
   "geometry": {"coordinates":[27.232475,38.467449],"type":"Point"}
 }

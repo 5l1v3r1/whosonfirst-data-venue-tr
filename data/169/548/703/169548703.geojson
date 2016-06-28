@@ -2,13 +2,14 @@
   "id": 169548703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.744122,39.97929,32.744122,39.97929",
     "geom:latitude":39.97929,
     "geom:longitude":32.744122,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"100. Yil Bulvari 57.sk. No:91 Ostim",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548703,
-    "wof:lastmodified":1449034972,
+    "wof:lastmodified":1466313235,
     "wof:name":"Yal?in Ak?m?lat?r San. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [32.744122,39.97929,32.744122,39.97929],
+  "bbox": [
+    32.744122,
+    39.97929,
+    32.744122,
+    39.97929
+],
   "geometry": {"coordinates":[32.744122,39.97929],"type":"Point"}
 }

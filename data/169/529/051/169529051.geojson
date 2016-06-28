@@ -2,13 +2,14 @@
   "id": 169529051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.704971,36.88879,30.704971,36.88879",
     "geom:latitude":36.88879,
     "geom:longitude":30.704971,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Balbey Mah.410.sok. No:3/c",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169529051,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466313189,
     "wof:name":"Kavas Canta",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [30.704971,36.88879,30.704971,36.88879],
+  "bbox": [
+    30.704971,
+    36.88879,
+    30.704971,
+    36.88879
+],
   "geometry": {"coordinates":[30.704971,36.88879],"type":"Point"}
 }

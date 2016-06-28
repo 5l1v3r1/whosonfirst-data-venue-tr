@@ -2,13 +2,14 @@
   "id": 169568403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.995251,41.067268,28.995251,41.067268",
     "geom:latitude":41.067268,
     "geom:longitude":28.995251,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eski Osmanli Sk. 3/3 Mecidiyek?",
     "sg:city":"Okmeydani/sisli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169568403,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466313281,
     "wof:name":"Imaj Bilgisayar Ve Guvenlik Sistemleri",
     "wof:parent_id":85929455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.995251,41.067268,28.995251,41.067268],
+  "bbox": [
+    28.995251,
+    41.067268,
+    28.995251,
+    41.067268
+],
   "geometry": {"coordinates":[28.995251,41.067268],"type":"Point"}
 }

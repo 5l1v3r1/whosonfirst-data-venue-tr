@@ -2,13 +2,14 @@
   "id": 169585447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.719349,41.008007,39.719349,41.008007",
     "geom:latitude":41.008007,
     "geom:longitude":39.719349,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Pazarkapi Mahallesi Kalkanoglu Caddesi No:64 Trabzon",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169585447,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466313331,
     "wof:name":"Sahra Gida Tic.paz.ltd.sti.",
     "wof:parent_id":85934735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "soft"
     ]
 },
-  "bbox": [39.719349,41.008007,39.719349,41.008007],
+  "bbox": [
+    39.719349,
+    41.008007,
+    39.719349,
+    41.008007
+],
   "geometry": {"coordinates":[39.719349,41.008007],"type":"Point"}
 }

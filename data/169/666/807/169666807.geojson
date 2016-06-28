@@ -2,13 +2,14 @@
   "id": 169666807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.842522,39.930981,32.842522,39.930981",
     "geom:latitude":39.930981,
     "geom:longitude":32.842522,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bitistiren Sk. No:5 Anittepe",
     "sg:city":"Ikitelli",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169666807,
-    "wof:lastmodified":1449033896,
+    "wof:lastmodified":1466313397,
     "wof:name":"Termotek Isi Sistem. Imal. Tic. Ltd. Sti.",
     "wof:parent_id":85904083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [32.842522,39.930981,32.842522,39.930981],
+  "bbox": [
+    32.842522,
+    39.930981,
+    32.842522,
+    39.930981
+],
   "geometry": {"coordinates":[32.842522,39.930981],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169539989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.024347,40.982658,29.024347,40.982658",
     "geom:latitude":40.982658,
     "geom:longitude":29.024347,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Moda",
     "sg:city":"Bahcekapi",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169539989,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466313434,
     "wof:name":"S?erbank As",
     "wof:parent_id":85904147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.024347,40.982658,29.024347,40.982658],
+  "bbox": [
+    29.024347,
+    40.982658,
+    29.024347,
+    40.982658
+],
   "geometry": {"coordinates":[29.024347,40.982658],"type":"Point"}
 }

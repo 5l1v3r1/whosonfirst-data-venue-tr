@@ -2,13 +2,14 @@
   "id": 169625321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.825279,37.775135,-96.825279,37.775135",
     "geom:latitude":37.775135,
     "geom:longitude":-96.825279,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"I?el",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169625321,
-    "wof:lastmodified":1449036020,
+    "wof:lastmodified":1466313365,
     "wof:name":"Silifke Devlet Hastanesi",
     "wof:parent_id":85851529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "state"
     ]
 },
-  "bbox": [-96.825279,37.775135,-96.825279,37.775135],
-  "geometry": {"coordinates":[-96.825279,37.775135],"type":"Point"}
+  "bbox": [
+    -96.825279,
+    37.775135,
+    -96.825279,
+    37.775135
+],
+  "geometry": {"coordinates":[-96.82527899999999,37.775135],"type":"Point"}
 }

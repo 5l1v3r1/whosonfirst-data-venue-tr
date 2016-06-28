@@ -2,13 +2,14 @@
   "id": 169569347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.861618,39.903965,32.861618,39.903965",
     "geom:latitude":39.903965,
     "geom:longitude":32.861618,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Guniz Sok. 16/4 Kavaklidere",
     "sg:city":"Bakirk?y",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169569347,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466313282,
     "wof:name":"Osm Otomasyon Kontrol Sistemleri Ve Yonetim Hiz. Ltd.sti.",
     "wof:parent_id":85929547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.861618,39.903965,32.861618,39.903965],
+  "bbox": [
+    32.861618,
+    39.903965,
+    32.861618,
+    39.903965
+],
   "geometry": {"coordinates":[32.861618,39.903965],"type":"Point"}
 }

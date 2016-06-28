@@ -2,13 +2,14 @@
   "id": 169527017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.355015,37.077015,37.355015,37.077015",
     "geom:latitude":37.077015,
     "geom:longitude":37.355015,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fevzi Cakmak Bulvari No:91",
     "sg:city":"Cagaloglu",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169527017,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466313184,
     "wof:name":"Koner Tekstil Konfeksiyon A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [37.355015,37.077015,37.355015,37.077015],
+  "bbox": [
+    37.355015,
+    37.077015,
+    37.355015,
+    37.077015
+],
   "geometry": {"coordinates":[37.355015,37.077015],"type":"Point"}
 }

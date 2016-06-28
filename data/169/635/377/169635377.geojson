@@ -2,13 +2,14 @@
   "id": 169635377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.3522,37.427101,29.3522,37.427101",
     "geom:latitude":37.427101,
     "geom:longitude":29.3522,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fettahlar Sk. No:7 Acipayam",
     "sg:city":"Bah?elievler",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169635377,
-    "wof:lastmodified":1449034099,
+    "wof:lastmodified":1466313371,
     "wof:name":"Arman Kirtasiye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.3522,37.427101,29.3522,37.427101],
+  "bbox": [
+    29.3522,
+    37.427101,
+    29.3522,
+    37.427101
+],
   "geometry": {"coordinates":[29.3522,37.427101],"type":"Point"}
 }

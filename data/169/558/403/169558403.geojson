@@ -2,13 +2,14 @@
   "id": 169558403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.026339,40.994236,29.026339,40.994236",
     "geom:latitude":40.994236,
     "geom:longitude":29.026339,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nizami Cedit Sk. No:6/1 Kadik?",
     "sg:city":"Okmeydani",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169558403,
-    "wof:lastmodified":1449033583,
+    "wof:lastmodified":1466313254,
     "wof:name":"Akkent Hasere Ila?lama Servisi",
     "wof:parent_id":85929485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.026339,40.994236,29.026339,40.994236],
+  "bbox": [
+    29.026339,
+    40.994236,
+    29.026339,
+    40.994236
+],
   "geometry": {"coordinates":[29.026339,40.994236],"type":"Point"}
 }

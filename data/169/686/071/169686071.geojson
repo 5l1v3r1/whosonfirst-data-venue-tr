@@ -2,13 +2,14 @@
   "id": 169686071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.3577,40.837563,29.3577,40.837563",
     "geom:latitude":40.837563,
     "geom:longitude":29.3577,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Orhanli Orta Mah. Omur Cad. No:2",
     "sg:city":"Tuzla",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169686071,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466313450,
     "wof:name":"Pars Tekstil San. Ve Tic. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [29.3577,40.837563,29.3577,40.837563],
+  "bbox": [
+    29.3577,
+    40.837563,
+    29.3577,
+    40.837563
+],
   "geometry": {"coordinates":[29.3577,40.837563],"type":"Point"}
 }

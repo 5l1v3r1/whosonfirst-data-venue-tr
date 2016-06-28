@@ -2,13 +2,14 @@
   "id": 169604481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.013508,41.061218,29.013508,41.061218",
     "geom:latitude":41.061218,
     "geom:longitude":29.013508,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Barbaros Bulvari Bulvar Ap. No:40/3 Balmumcu",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169604481,
-    "wof:lastmodified":1449035571,
+    "wof:lastmodified":1466313354,
     "wof:name":"Eks Dis Ticaret Kondisyon Chazlari Ltd. Sti.",
     "wof:parent_id":85929407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [29.013508,41.061218,29.013508,41.061218],
+  "bbox": [
+    29.013508,
+    41.061218,
+    29.013508,
+    41.061218
+],
   "geometry": {"coordinates":[29.013508,41.061218],"type":"Point"}
 }

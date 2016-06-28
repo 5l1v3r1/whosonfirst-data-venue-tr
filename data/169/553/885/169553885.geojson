@@ -2,13 +2,14 @@
   "id": 169553885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.519379,39.774986,30.519379,39.774986",
     "geom:latitude":39.774986,
     "geom:longitude":30.519379,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Koprubasi Cad. No:72",
     "sg:city":"Baspinar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169553885,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466313242,
     "wof:name":"Ermey Meyve Urunleri Gida San. Ve Tic. A.s.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [30.519379,39.774986,30.519379,39.774986],
+  "bbox": [
+    30.519379,
+    39.774986,
+    30.519379,
+    39.774986
+],
   "geometry": {"coordinates":[30.519379,39.774986],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.555901,40.306301,36.555901,40.306301",
     "geom:latitude":40.306301,
     "geom:longitude":36.555901,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Carsi Ici",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169540663,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466313436,
     "wof:name":"Tc Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.555901,40.306301,36.555901,40.306301],
+  "bbox": [
+    36.555901,
+    40.306301,
+    36.555901,
+    40.306301
+],
   "geometry": {"coordinates":[36.555901,40.306301],"type":"Point"}
 }

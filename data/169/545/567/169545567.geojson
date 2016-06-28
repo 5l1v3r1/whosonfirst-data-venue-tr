@@ -2,13 +2,14 @@
   "id": 169545567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"26.559574,41.673576,26.559574,41.673576",
     "geom:latitude":41.673576,
     "geom:longitude":26.559574,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sabuni Mah",
     "sg:city":"Edirne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169545567,
-    "wof:lastmodified":1449033489,
+    "wof:lastmodified":1466313226,
     "wof:name":"T?kiye Is Bankasi As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [26.559574,41.673576,26.559574,41.673576],
+  "bbox": [
+    26.559574,
+    41.673576,
+    26.559574,
+    41.673576
+],
   "geometry": {"coordinates":[26.559574,41.673576],"type":"Point"}
 }

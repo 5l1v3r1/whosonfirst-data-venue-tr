@@ -2,13 +2,14 @@
   "id": 169540039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"26.553551,41.673298,26.553551,41.673298",
     "geom:latitude":41.673298,
     "geom:longitude":26.553551,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Saraclar Cad 187",
     "sg:city":"Edirne",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169540039,
-    "wof:lastmodified":1449033978,
+    "wof:lastmodified":1466313434,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [26.553551,41.673298,26.553551,41.673298],
+  "bbox": [
+    26.553551,
+    41.673298,
+    26.553551,
+    41.673298
+],
   "geometry": {"coordinates":[26.553551,41.673298],"type":"Point"}
 }

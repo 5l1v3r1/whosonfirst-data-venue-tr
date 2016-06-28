@@ -2,13 +2,14 @@
   "id": 169582877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.869146,41.0144,28.869146,41.0144",
     "geom:latitude":41.0144,
     "geom:longitude":28.869146,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Merkez Mah.kehribar Cad.onur Sokak No:20 Gaziosmanpasa",
     "sg:city":"G?ng?ren",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169582877,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466313332,
     "wof:name":"Tugrul Plastik Taban Terlik San.tic.ltd.",
     "wof:parent_id":85929785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.869146,41.0144,28.869146,41.0144],
+  "bbox": [
+    28.869146,
+    41.0144,
+    28.869146,
+    41.0144
+],
   "geometry": {"coordinates":[28.869146,41.0144],"type":"Point"}
 }

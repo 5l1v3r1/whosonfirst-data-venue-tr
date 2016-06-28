@@ -2,13 +2,14 @@
   "id": 169551307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.524738,37.883324,32.524738,37.883324",
     "geom:latitude":37.883324,
     "geom:longitude":32.524738,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fevzi ?akmak Mah Mesut Sok. No:11",
     "sg:city":"Karatay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169551307,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313221,
     "wof:name":"Ferman Yatak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bed"
     ]
 },
-  "bbox": [32.524738,37.883324,32.524738,37.883324],
+  "bbox": [
+    32.524738,
+    37.883324,
+    32.524738,
+    37.883324
+],
   "geometry": {"coordinates":[32.524738,37.883324],"type":"Point"}
 }

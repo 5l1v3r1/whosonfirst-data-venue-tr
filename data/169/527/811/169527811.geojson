@@ -2,13 +2,14 @@
   "id": 169527811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.98913,41.050903,28.98913,41.050903",
     "geom:latitude":41.050903,
     "geom:longitude":28.98913,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumeli Cad. Zafer Sok. No: 48",
     "sg:city":"Nisantasi",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169527811,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466313194,
     "wof:name":"Si-mu Tekstil Cocuk Giyim",
     "wof:parent_id":85929491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [28.98913,41.050903,28.98913,41.050903],
+  "bbox": [
+    28.98913,
+    41.050903,
+    28.98913,
+    41.050903
+],
   "geometry": {"coordinates":[28.98913,41.050903],"type":"Point"}
 }

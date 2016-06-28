@@ -2,13 +2,14 @@
   "id": 169659245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.846571,40.999107,28.846571,40.999107",
     "geom:latitude":40.999107,
     "geom:longitude":28.846571,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Talimhane Cd. Bilge Ismerk. No:45/126 Top?lar",
     "sg:city":"Bah\u00e7elievler",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169659245,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1466313394,
     "wof:name":"Bilge ?elik San. Tic. Ltd. Sti.",
     "wof:parent_id":85929987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "utensil"
     ]
 },
-  "bbox": [28.846571,40.999107,28.846571,40.999107],
+  "bbox": [
+    28.846571,
+    40.999107,
+    28.846571,
+    40.999107
+],
   "geometry": {"coordinates":[28.846571,40.999107],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.829903,40.957787,28.829903,40.957787",
     "geom:latitude":40.957787,
     "geom:longitude":28.829903,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Londra Asf. No.38 Sirinevler",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169579733,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466313322,
     "wof:name":"Adela Ayakkabicilik San.tic. A.s.",
     "wof:parent_id":85929771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.829903,40.957787,28.829903,40.957787],
+  "bbox": [
+    28.829903,
+    40.957787,
+    28.829903,
+    40.957787
+],
   "geometry": {"coordinates":[28.829903,40.957787],"type":"Point"}
 }

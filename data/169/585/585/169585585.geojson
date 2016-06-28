@@ -2,13 +2,14 @@
   "id": 169585585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.082355,40.960983,29.082355,40.960983",
     "geom:latitude":40.960983,
     "geom:longitude":29.082355,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Emin Ali Pasa Cad. Veda Sitesi No:21 A Blok",
     "sg:city":"Suadiye",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169585585,
-    "wof:lastmodified":1449034888,
+    "wof:lastmodified":1466313334,
     "wof:name":"Soe Gida Urunleri San.tic.ltd.sti.",
     "wof:parent_id":85930005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "soft"
     ]
 },
-  "bbox": [29.082355,40.960983,29.082355,40.960983],
+  "bbox": [
+    29.082355,
+    40.960983,
+    29.082355,
+    40.960983
+],
   "geometry": {"coordinates":[29.082355,40.960983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169541407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.896769,41.063946,28.896769,41.063946",
     "geom:latitude":41.063946,
     "geom:longitude":28.896769,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"H?riyet Cad 39",
     "sg:city":"Izmit",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169541407,
-    "wof:lastmodified":1449033043,
+    "wof:lastmodified":1466313201,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.896769,41.063946,28.896769,41.063946],
+  "bbox": [
+    28.896769,
+    41.063946,
+    28.896769,
+    41.063946
+],
   "geometry": {"coordinates":[28.896769,41.063946],"type":"Point"}
 }

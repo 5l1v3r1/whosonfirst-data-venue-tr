@@ -2,13 +2,14 @@
   "id": 169600337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.816994,36.937225,30.816994,36.937225",
     "geom:latitude":36.937225,
     "geom:longitude":30.816994,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Serik Cad. No:533 Pinarli",
     "sg:city":"07100",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169600337,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466313348,
     "wof:name":"Muba Tekstil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [30.816994,36.937225,30.816994,36.937225],
+  "bbox": [
+    30.816994,
+    36.937225,
+    30.816994,
+    36.937225
+],
   "geometry": {"coordinates":[30.816994,36.937225],"type":"Point"}
 }

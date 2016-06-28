@@ -2,13 +2,14 @@
   "id": 169560331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.193951,40.892097,29.193951,40.892097",
     "geom:latitude":40.892097,
     "geom:longitude":29.193951,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yakacik Yolu No:35/d Kartal",
     "sg:city":"Fatih",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169560331,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466313252,
     "wof:name":"Etc Arda Ith. Ihr. Turizm Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.193951,40.892097,29.193951,40.892097],
+  "bbox": [
+    29.193951,
+    40.892097,
+    29.193951,
+    40.892097
+],
   "geometry": {"coordinates":[29.193951,40.892097],"type":"Point"}
 }

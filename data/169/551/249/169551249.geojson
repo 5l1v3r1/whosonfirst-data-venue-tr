@@ -2,13 +2,14 @@
   "id": 169551249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.533587,39.814693,30.533587,39.814693",
     "geom:latitude":39.814693,
     "geom:longitude":30.533587,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Eylul Cad. Bakim Sok. No:4",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551249,
-    "wof:lastmodified":1449033352,
+    "wof:lastmodified":1466313219,
     "wof:name":"Dinc Kimya Sanayi Ve Ticaret A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [30.533587,39.814693,30.533587,39.814693],
+  "bbox": [
+    30.533587,
+    39.814693,
+    30.533587,
+    39.814693
+],
   "geometry": {"coordinates":[30.533587,39.814693],"type":"Point"}
 }

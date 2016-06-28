@@ -2,13 +2,14 @@
   "id": 169579023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.984156,41.045677,28.984156,41.045677",
     "geom:latitude":41.045677,
     "geom:longitude":28.984156,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Caddesi ?ftade Sokak No:6/3 Elmadag",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169579023,
-    "wof:lastmodified":1449033741,
+    "wof:lastmodified":1466313288,
     "wof:name":"Travellers Tourism & Meeting Management",
     "wof:parent_id":85906559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [28.984156,41.045677,28.984156,41.045677],
+  "bbox": [
+    28.984156,
+    41.045677,
+    28.984156,
+    41.045677
+],
   "geometry": {"coordinates":[28.984156,41.045677],"type":"Point"}
 }

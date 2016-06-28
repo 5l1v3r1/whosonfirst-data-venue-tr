@@ -2,13 +2,14 @@
   "id": 169539365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.419769,37.854847,32.419769,37.854847",
     "geom:latitude":37.854847,
     "geom:longitude":32.419769,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B??dere Cad 36/a",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169539365,
-    "wof:lastmodified":1449036036,
+    "wof:lastmodified":1466313432,
     "wof:name":"Sekerbank T?k, Anonim Sirketi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.419769,37.854847,32.419769,37.854847],
+  "bbox": [
+    32.419769,
+    37.854847,
+    32.419769,
+    37.854847
+],
   "geometry": {"coordinates":[32.419769,37.854847],"type":"Point"}
 }

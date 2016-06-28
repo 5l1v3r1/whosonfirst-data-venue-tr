@@ -2,13 +2,14 @@
   "id": 169610113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.996778,41.044182,28.996778,41.044182",
     "geom:latitude":41.044182,
     "geom:longitude":28.996778,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayildim Cad. No:2 Macka",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169610113,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466313446,
     "wof:name":"Swissotel The Bosphorus",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spring"
     ]
 },
-  "bbox": [28.996778,41.044182,28.996778,41.044182],
+  "bbox": [
+    28.996778,
+    41.044182,
+    28.996778,
+    41.044182
+],
   "geometry": {"coordinates":[28.996778,41.044182],"type":"Point"}
 }

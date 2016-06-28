@@ -2,13 +2,14 @@
   "id": 169588491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"39.245754,38.672215,39.245754,38.672215",
     "geom:latitude":38.672215,
     "geom:longitude":39.245754,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gazi Mah.1320.sok. No:14",
     "sg:city":"Mersin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169588491,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1466313333,
     "wof:name":"Kuzey Enerji Sanayi Ve Tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "solar"
     ]
 },
-  "bbox": [39.245754,38.672215,39.245754,38.672215],
+  "bbox": [
+    39.245754,
+    38.672215,
+    39.245754,
+    38.672215
+],
   "geometry": {"coordinates":[39.245754,38.672215],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169673925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.828384,40.993038,28.828384,40.993038",
     "geom:latitude":40.993038,
     "geom:longitude":28.828384,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sanayi Cad.no:24 Cobancesme-",
     "sg:city":"Yenibosna",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169673925,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466313450,
     "wof:name":"Kamel Biskuvi A.s",
     "wof:parent_id":85930129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sweet"
     ]
 },
-  "bbox": [28.828384,40.993038,28.828384,40.993038],
+  "bbox": [
+    28.828384,
+    40.993038,
+    28.828384,
+    40.993038
+],
   "geometry": {"coordinates":[28.828384,40.993038],"type":"Point"}
 }

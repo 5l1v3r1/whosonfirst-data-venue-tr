@@ -2,13 +2,14 @@
   "id": 169557185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.309153,40.859035,29.309153,40.859035",
     "geom:latitude":40.859035,
     "geom:longitude":29.309153,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Seyrantepe Cihat Sk. No. 3 4.levent",
     "sg:city":"Atasehir",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169557185,
-    "wof:lastmodified":1449035034,
+    "wof:lastmodified":1466313253,
     "wof:name":"Olimpik Y?zme Havuz End. Tes. Taah. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.309153,40.859035,29.309153,40.859035],
+  "bbox": [
+    29.309153,
+    40.859035,
+    29.309153,
+    40.859035
+],
   "geometry": {"coordinates":[29.309153,40.859035],"type":"Point"}
 }

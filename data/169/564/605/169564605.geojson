@@ -2,13 +2,14 @@
   "id": 169564605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.856039,41.01104,28.856039,41.01104",
     "geom:latitude":41.01104,
     "geom:longitude":28.856039,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Izzettin ?alislar Cad. No:60/9",
     "sg:city":"Bah?elievler",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169564605,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1466313267,
     "wof:name":"Aa-entegre Elektronik G?venlik Sistemleri Ltd.sti.",
     "wof:parent_id":85929785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [28.856039,41.01104,28.856039,41.01104],
+  "bbox": [
+    28.856039,
+    41.01104,
+    28.856039,
+    41.01104
+],
   "geometry": {"coordinates":[28.856039,41.01104],"type":"Point"}
 }

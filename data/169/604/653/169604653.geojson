@@ -2,13 +2,14 @@
   "id": 169604653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.025354,41.048775,29.025354,41.048775",
     "geom:latitude":41.048775,
     "geom:longitude":29.025354,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Muvvakkit Sk. No:6 Ortak?",
     "sg:city":"07230",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169604653,
-    "wof:lastmodified":1449035568,
+    "wof:lastmodified":1466313356,
     "wof:name":"Emre Spor",
     "wof:parent_id":85904149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "material"
     ]
 },
-  "bbox": [29.025354,41.048775,29.025354,41.048775],
+  "bbox": [
+    29.025354,
+    41.048775,
+    29.025354,
+    41.048775
+],
   "geometry": {"coordinates":[29.025354,41.048775],"type":"Point"}
 }

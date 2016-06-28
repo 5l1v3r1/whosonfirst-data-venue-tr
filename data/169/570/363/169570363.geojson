@@ -2,13 +2,14 @@
   "id": 169570363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.092739,40.954441,29.092739,40.954441",
     "geom:latitude":40.954441,
     "geom:longitude":29.092739,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cad.no:132/5 Feneryolu",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570363,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466313281,
     "wof:name":"Universal Guvenlik Elektronik",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.092739,40.954441,29.092739,40.954441],
+  "bbox": [
+    29.092739,
+    40.954441,
+    29.092739,
+    40.954441
+],
   "geometry": {"coordinates":[29.092739,40.954441],"type":"Point"}
 }

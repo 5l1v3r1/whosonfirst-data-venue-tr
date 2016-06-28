@@ -2,13 +2,14 @@
   "id": 169587155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.107883,40.950558,29.107883,40.950558",
     "geom:latitude":40.950558,
     "geom:longitude":29.107883,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Cd. Ak? Apt. No:418",
     "sg:city":"Suadiye",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169587155,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466313328,
     "wof:name":"Ets Enerji Tasarruf Sistem. San. Tic. Ltd. Sti.",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "solar"
     ]
 },
-  "bbox": [29.107883,40.950558,29.107883,40.950558],
+  "bbox": [
+    29.107883,
+    40.950558,
+    29.107883,
+    40.950558
+],
   "geometry": {"coordinates":[29.107883,40.950558],"type":"Point"}
 }

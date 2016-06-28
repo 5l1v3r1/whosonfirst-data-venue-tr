@@ -2,13 +2,14 @@
   "id": 169571953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.03772,41.00285,29.03772,41.00285",
     "geom:latitude":41.00285,
     "geom:longitude":29.03772,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Acibadem Koftuncu Sk.no.1",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169571953,
-    "wof:lastmodified":1449034946,
+    "wof:lastmodified":1466313312,
     "wof:name":"Atabay Denizcilik Ve Yatcilik Ltd.sti..",
     "wof:parent_id":85929353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [29.03772,41.00285,29.03772,41.00285],
+  "bbox": [
+    29.03772,
+    41.00285,
+    29.03772,
+    41.00285
+],
   "geometry": {"coordinates":[29.03772,41.00285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169552691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.966692,41.040459,28.966692,41.040459",
     "geom:latitude":41.040459,
     "geom:longitude":28.966692,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Abdi Ipek? C. 1 Emintas San. Sit. No: 158/244 Bayrampasa",
     "sg:city":"Beyazit",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169552691,
-    "wof:lastmodified":1449034053,
+    "wof:lastmodified":1466313241,
     "wof:name":"Prenses Bijuteri Ltd. Sti.",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.966692,41.040459,28.966692,41.040459],
+  "bbox": [
+    28.966692,
+    41.040459,
+    28.966692,
+    41.040459
+],
   "geometry": {"coordinates":[28.966692,41.040459],"type":"Point"}
 }

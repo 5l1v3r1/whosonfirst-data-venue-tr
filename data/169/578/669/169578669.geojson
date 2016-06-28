@@ -2,13 +2,14 @@
   "id": 169578669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.082228,38.499607,27.082228,38.499607",
     "geom:latitude":38.499607,
     "geom:longitude":27.082228,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"1453 Sk. No:14 Cagdas Apt. K.3 D.7",
     "sg:city":"Alsancak",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169578669,
-    "wof:lastmodified":1449033519,
+    "wof:lastmodified":1466313313,
     "wof:name":"Simirna Denizcilik Nak. Trzm. Ve San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [27.082228,38.499607,27.082228,38.499607],
+  "bbox": [
+    27.082228,
+    38.499607,
+    27.082228,
+    38.499607
+],
   "geometry": {"coordinates":[27.082228,38.499607],"type":"Point"}
 }

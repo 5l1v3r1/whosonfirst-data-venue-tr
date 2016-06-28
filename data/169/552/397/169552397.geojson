@@ -2,13 +2,14 @@
   "id": 169552397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.950296,41.074993,28.950296,41.074993",
     "geom:latitude":41.074993,
     "geom:longitude":28.950296,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Maresal Fevzi Cakmak Cad. No:80 Alibeykoy",
     "sg:city":"\u00dcmraniye",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169552397,
-    "wof:lastmodified":1449034054,
+    "wof:lastmodified":1466313225,
     "wof:name":"Yildiz Bisiklet San.tic. Ltd.sti.",
     "wof:parent_id":85930103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motorcycle"
     ]
 },
-  "bbox": [28.950296,41.074993,28.950296,41.074993],
+  "bbox": [
+    28.950296,
+    41.074993,
+    28.950296,
+    41.074993
+],
   "geometry": {"coordinates":[28.950296,41.074993],"type":"Point"}
 }

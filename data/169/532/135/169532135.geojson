@@ -2,13 +2,14 @@
   "id": 169532135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.49184,38.880863,40.49184,38.880863",
     "geom:latitude":38.880863,
     "geom:longitude":40.49184,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Marasal Cakmak Cad 41",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169532135,
-    "wof:lastmodified":1449033796,
+    "wof:lastmodified":1466313407,
     "wof:name":"Demirbank Tas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [40.49184,38.880863,40.49184,38.880863],
+  "bbox": [
+    40.49184,
+    38.880863,
+    40.49184,
+    38.880863
+],
   "geometry": {"coordinates":[40.49184,38.880863],"type":"Point"}
 }

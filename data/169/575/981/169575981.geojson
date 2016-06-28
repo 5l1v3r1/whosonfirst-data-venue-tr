@@ -2,13 +2,14 @@
   "id": 169575981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.011675,41.043156,29.011675,41.043156",
     "geom:latitude":41.043156,
     "geom:longitude":29.011675,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ciragan Cad. No:63",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169575981,
-    "wof:lastmodified":1449033643,
+    "wof:lastmodified":1466313324,
     "wof:name":"Ecem Transport",
     "wof:parent_id":85906567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [29.011675,41.043156,29.011675,41.043156],
+  "bbox": [
+    29.011675,
+    41.043156,
+    29.011675,
+    41.043156
+],
   "geometry": {"coordinates":[29.011675,41.043156],"type":"Point"}
 }

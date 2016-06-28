@@ -2,13 +2,14 @@
   "id": 169570285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.851185,39.92894,32.851185,39.92894",
     "geom:latitude":39.92894,
     "geom:longitude":32.851185,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Toros Sk. No:15/21 Sihhiye",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570285,
-    "wof:lastmodified":1449034644,
+    "wof:lastmodified":1466313278,
     "wof:name":"Tuna Elektronik G?venlik Sistem. San. Tic. Ltd. Sti.",
     "wof:parent_id":85934683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.851185,39.92894,32.851185,39.92894],
+  "bbox": [
+    32.851185,
+    39.92894,
+    32.851185,
+    39.92894
+],
   "geometry": {"coordinates":[32.851185,39.92894],"type":"Point"}
 }

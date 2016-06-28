@@ -2,13 +2,14 @@
   "id": 169551175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.895912,39.961815,32.895912,39.961815",
     "geom:latitude":39.961815,
     "geom:longitude":32.895912,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Dalboyu Sk. No:31/b Siteler",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169551175,
-    "wof:lastmodified":1449033354,
+    "wof:lastmodified":1466313215,
     "wof:name":"Benan Tekstil",
     "wof:parent_id":85904155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [32.895912,39.961815,32.895912,39.961815],
+  "bbox": [
+    32.895912,
+    39.961815,
+    32.895912,
+    39.961815
+],
   "geometry": {"coordinates":[32.895912,39.961815],"type":"Point"}
 }

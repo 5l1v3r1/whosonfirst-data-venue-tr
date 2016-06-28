@@ -2,13 +2,14 @@
   "id": 169571993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.985113,41.05484,28.985113,41.05484",
     "geom:latitude":41.05484,
     "geom:longitude":28.985113,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hurriyet Cd. No.13",
     "sg:city":"Kagithane",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169571993,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466313315,
     "wof:name":"Atlas Ul.denizcilik Ve Tic.a.s..",
     "wof:parent_id":85929423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shipowner"
     ]
 },
-  "bbox": [28.985113,41.05484,28.985113,41.05484],
+  "bbox": [
+    28.985113,
+    41.05484,
+    28.985113,
+    41.05484
+],
   "geometry": {"coordinates":[28.985113,41.05484],"type":"Point"}
 }

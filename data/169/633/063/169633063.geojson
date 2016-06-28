@@ -2,13 +2,14 @@
   "id": 169633063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.839306,39.922295,32.839306,39.922295",
     "geom:latitude":39.922295,
     "geom:longitude":32.839306,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ata?sk. No:5/a Kizilay",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169633063,
-    "wof:lastmodified":1449035936,
+    "wof:lastmodified":1466313447,
     "wof:name":"71 Kirtasiye Ltd. Sti.",
     "wof:parent_id":85929609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.839306,39.922295,32.839306,39.922295],
+  "bbox": [
+    32.839306,
+    39.922295,
+    32.839306,
+    39.922295
+],
   "geometry": {"coordinates":[32.839306,39.922295],"type":"Point"}
 }

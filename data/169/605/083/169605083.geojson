@@ -2,13 +2,14 @@
   "id": 169605083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.992159,41.072021,28.992159,41.072021",
     "geom:latitude":41.072021,
     "geom:longitude":28.992159,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B?? Besiktas ?ars. No:80 Besiktas",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169605083,
-    "wof:lastmodified":1449034289,
+    "wof:lastmodified":1466313348,
     "wof:name":"Ertan ?zkar Saat Bilardo Malz.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [28.992159,41.072021,28.992159,41.072021],
+  "bbox": [
+    28.992159,
+    41.072021,
+    28.992159,
+    41.072021
+],
   "geometry": {"coordinates":[28.992159,41.072021],"type":"Point"}
 }

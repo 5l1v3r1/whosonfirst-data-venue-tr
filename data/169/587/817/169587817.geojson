@@ -2,13 +2,14 @@
   "id": 169587817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.0172,39.751499,37.0172,39.751499",
     "geom:latitude":39.751499,
     "geom:longitude":37.0172,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Eylul San.sitesi 31.blok 7.cad.no:23",
     "sg:city":"Yenisehir",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169587817,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466313335,
     "wof:name":"Gunebakan Gunes Enerjisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "solar"
     ]
 },
-  "bbox": [37.0172,39.751499,37.0172,39.751499],
+  "bbox": [
+    37.0172,
+    39.751499,
+    37.0172,
+    39.751499
+],
   "geometry": {"coordinates":[37.0172,39.751499],"type":"Point"}
 }

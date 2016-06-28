@@ -2,13 +2,14 @@
   "id": 169655177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.194298,40.900539,29.194298,40.900539",
     "geom:latitude":40.900539,
     "geom:longitude":29.194298,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Karliktepe Mah. Fahri Korut?k Sok. No: 10",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169655177,
-    "wof:lastmodified":1449034589,
+    "wof:lastmodified":1466313383,
     "wof:name":"Alu?lar Mak. Ve Ins. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [29.194298,40.900539,29.194298,40.900539],
+  "bbox": [
+    29.194298,
+    40.900539,
+    29.194298,
+    40.900539
+],
   "geometry": {"coordinates":[29.194298,40.900539],"type":"Point"}
 }

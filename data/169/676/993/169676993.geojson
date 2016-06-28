@@ -2,13 +2,14 @@
   "id": 169676993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.086491,37.773525,29.086491,37.773525",
     "geom:latitude":37.773525,
     "geom:longitude":29.086491,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"3. San. Sit. S?erbank Fabr. Alti",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169676993,
-    "wof:lastmodified":1449034804,
+    "wof:lastmodified":1466313406,
     "wof:name":"Seref Is Makina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "industry"
     ]
 },
-  "bbox": [29.086491,37.773525,29.086491,37.773525],
+  "bbox": [
+    29.086491,
+    37.773525,
+    29.086491,
+    37.773525
+],
   "geometry": {"coordinates":[29.086491,37.773525],"type":"Point"}
 }

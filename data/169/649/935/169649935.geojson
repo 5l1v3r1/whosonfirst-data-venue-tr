@@ -2,13 +2,14 @@
   "id": 169649935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.832388,37.854408,27.832388,37.854408",
     "geom:latitude":37.854408,
     "geom:longitude":27.832388,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mesudiye Mah. Gazi Bulvari No:170/b",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169649935,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1466313391,
     "wof:name":"Simsek Kitapevi Dagitim Pazarlama Tic.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [27.832388,37.854408,27.832388,37.854408],
+  "bbox": [
+    27.832388,
+    37.854408,
+    27.832388,
+    37.854408
+],
   "geometry": {"coordinates":[27.832388,37.854408],"type":"Point"}
 }

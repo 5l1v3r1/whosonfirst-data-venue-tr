@@ -2,13 +2,14 @@
   "id": 169532773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.532234,39.767071,30.532234,39.767071",
     "geom:latitude":39.767071,
     "geom:longitude":30.532234,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Bul 67",
     "sg:city":"Izmir",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169532773,
-    "wof:lastmodified":1449033794,
+    "wof:lastmodified":1466313410,
     "wof:name":"Egebank As",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.532234,39.767071,30.532234,39.767071],
+  "bbox": [
+    30.532234,
+    39.767071,
+    30.532234,
+    39.767071
+],
   "geometry": {"coordinates":[30.532234,39.767071],"type":"Point"}
 }

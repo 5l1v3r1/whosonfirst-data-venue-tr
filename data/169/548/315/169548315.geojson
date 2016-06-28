@@ -2,13 +2,14 @@
   "id": 169548315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.486397,37.811703,28.486397,37.811703",
     "geom:latitude":37.811703,
     "geom:longitude":28.486397,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Sanayi Sitesi C/7 Blok No:14 Nazilli",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169548315,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313220,
     "wof:name":"Hakan Otomotiv San.tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "batery"
     ]
 },
-  "bbox": [28.486397,37.811703,28.486397,37.811703],
+  "bbox": [
+    28.486397,
+    37.811703,
+    28.486397,
+    37.811703
+],
   "geometry": {"coordinates":[28.486397,37.811703],"type":"Point"}
 }

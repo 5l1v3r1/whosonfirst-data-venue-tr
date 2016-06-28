@@ -2,13 +2,14 @@
   "id": 169636285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.996777,41.073715,28.996777,41.073715",
     "geom:latitude":41.073715,
     "geom:longitude":28.996777,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurtulus Cd. No:98 Kurtulus",
     "sg:city":"Mahmutbey",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169636285,
-    "wof:lastmodified":1449033985,
+    "wof:lastmodified":1466313370,
     "wof:name":"Besgen Kirtasiye Ve Oyuncak",
     "wof:parent_id":85929455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.996777,41.073715,28.996777,41.073715],
+  "bbox": [
+    28.996777,
+    41.073715,
+    28.996777,
+    41.073715
+],
   "geometry": {"coordinates":[28.996777,41.073715],"type":"Point"}
 }

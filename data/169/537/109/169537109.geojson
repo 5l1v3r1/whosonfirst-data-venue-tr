@@ -2,13 +2,14 @@
   "id": 169537109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.70912,36.88171,30.70912,36.88171",
     "geom:latitude":36.88171,
     "geom:longitude":30.70912,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hasim Iscan Mah",
     "sg:city":"Antalya",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169537109,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313425,
     "wof:name":"Kocbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.70912,36.88171,30.70912,36.88171],
+  "bbox": [
+    30.70912,
+    36.88171,
+    30.70912,
+    36.88171
+],
   "geometry": {"coordinates":[30.70912,36.88171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169538725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.141516,40.190941,29.141516,40.190941",
     "geom:latitude":40.190941,
     "geom:longitude":29.141516,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"G?enevler Mah Gunes Sok",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169538725,
-    "wof:lastmodified":1449033098,
+    "wof:lastmodified":1466313430,
     "wof:name":"Oyak Bank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.141516,40.190941,29.141516,40.190941],
+  "bbox": [
+    29.141516,
+    40.190941,
+    29.141516,
+    40.190941
+],
   "geometry": {"coordinates":[29.141516,40.190941],"type":"Point"}
 }

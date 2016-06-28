@@ -2,13 +2,14 @@
   "id": 169561965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"36.337841,41.289719,36.337841,41.289719",
     "geom:latitude":41.289719,
     "geom:longitude":36.337841,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Meydanimecit Turan Is Merkezi No:17",
     "sg:city":"Kagithane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169561965,
-    "wof:lastmodified":1449035021,
+    "wof:lastmodified":1466313269,
     "wof:name":"Pirpak Tem. Is. San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [36.337841,41.289719,36.337841,41.289719],
+  "bbox": [
+    36.337841,
+    41.289719,
+    36.337841,
+    41.289719
+],
   "geometry": {"coordinates":[36.337841,41.289719],"type":"Point"}
 }

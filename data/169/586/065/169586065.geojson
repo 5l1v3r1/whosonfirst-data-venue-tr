@@ -2,13 +2,14 @@
   "id": 169586065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.29174,37.022194,35.29174,37.022194",
     "geom:latitude":37.022194,
     "geom:longitude":35.29174,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Toptancilar Sitesi 6. Blok No:188",
     "sg:city":"Seyhan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169586065,
-    "wof:lastmodified":1449035578,
+    "wof:lastmodified":1466313328,
     "wof:name":"?agdas Gida San.ve Tic.ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [35.29174,37.022194,35.29174,37.022194],
+  "bbox": [
+    35.29174,
+    37.022194,
+    35.29174,
+    37.022194
+],
   "geometry": {"coordinates":[35.29174,37.022194],"type":"Point"}
 }

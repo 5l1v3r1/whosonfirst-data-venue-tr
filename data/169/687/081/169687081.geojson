@@ -2,13 +2,14 @@
   "id": 169687081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.327419,36.998287,35.327419,36.998287",
     "geom:latitude":36.998287,
     "geom:longitude":35.327419,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vali Yolu 21. Sok. Yildiz Has Apt.",
     "sg:city":"Seyhan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169687081,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466313410,
     "wof:name":"B.t Perdahci",
     "wof:parent_id":85930275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "upholstery"
     ]
 },
-  "bbox": [35.327419,36.998287,35.327419,36.998287],
+  "bbox": [
+    35.327419,
+    36.998287,
+    35.327419,
+    36.998287
+],
   "geometry": {"coordinates":[35.327419,36.998287],"type":"Point"}
 }

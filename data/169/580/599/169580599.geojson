@@ -2,13 +2,14 @@
   "id": 169580599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.100395,40.95644,29.100395,40.95644",
     "geom:latitude":40.95644,
     "geom:longitude":29.100395,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bostanci",
     "sg:city":"Acipayam",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169580599,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466313333,
     "wof:name":"Erdem Kimya",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.100395,40.95644,29.100395,40.95644],
+  "bbox": [
+    29.100395,
+    40.95644,
+    29.100395,
+    40.95644
+],
   "geometry": {"coordinates":[29.100395,40.95644],"type":"Point"}
 }

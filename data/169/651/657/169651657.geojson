@@ -2,13 +2,14 @@
   "id": 169651657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.025431,40.994003,29.025431,40.994003",
     "geom:latitude":40.994003,
     "geom:longitude":29.025431,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rasimpasa Mah.recaizade Sok. No. 36/2 Kadikoy",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169651657,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1466313388,
     "wof:name":"Ugur Kagit Kirtasiye Ve Bilgisayar Sarf Malz.paz.",
     "wof:parent_id":85929485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.025431,40.994003,29.025431,40.994003],
+  "bbox": [
+    29.025431,
+    40.994003,
+    29.025431,
+    40.994003
+],
   "geometry": {"coordinates":[29.025431,40.994003],"type":"Point"}
 }

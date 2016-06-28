@@ -2,13 +2,14 @@
   "id": 169582255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.965797,41.006996,28.965797,41.006996",
     "geom:latitude":41.006996,
     "geom:longitude":28.965797,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"M.kemalettin C. No.3/1 Sirkeci",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169582255,
-    "wof:lastmodified":1449034464,
+    "wof:lastmodified":1466313318,
     "wof:name":"Saka Korkmaz Paz. A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.965797,41.006996,28.965797,41.006996],
+  "bbox": [
+    28.965797,
+    41.006996,
+    28.965797,
+    41.006996
+],
   "geometry": {"coordinates":[28.965797,41.006996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169540869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.10323,40.950809,29.10323,40.950809",
     "geom:latitude":40.950809,
     "geom:longitude":29.10323,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagdat Caddesi 85",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169540869,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466313437,
     "wof:name":"Tekstilbank",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.10323,40.950809,29.10323,40.950809],
+  "bbox": [
+    29.10323,
+    40.950809,
+    29.10323,
+    40.950809
+],
   "geometry": {"coordinates":[29.10323,40.950809],"type":"Point"}
 }

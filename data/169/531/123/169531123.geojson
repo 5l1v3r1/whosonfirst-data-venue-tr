@@ -2,13 +2,14 @@
   "id": 169531123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.96176,41.003998,28.96176,41.003998",
     "geom:latitude":41.003998,
     "geom:longitude":28.96176,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ziya G?alp Cad 12",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169531123,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466313199,
     "wof:name":"Bank Mellat",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.96176,41.003998,28.96176,41.003998],
+  "bbox": [
+    28.96176,
+    41.003998,
+    28.96176,
+    41.003998
+],
   "geometry": {"coordinates":[28.96176,41.003998],"type":"Point"}
 }

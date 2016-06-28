@@ -2,13 +2,14 @@
   "id": 169548469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.982849,41.082939,28.982849,41.082939",
     "geom:latitude":41.082939,
     "geom:longitude":28.982849,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ayazma Yolu No:13 Kagithane",
     "sg:city":"Iskenderun",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169548469,
-    "wof:lastmodified":1449034978,
+    "wof:lastmodified":1466313225,
     "wof:name":"Kocabay Aku San.tic. Kool. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "batery"
     ]
 },
-  "bbox": [28.982849,41.082939,28.982849,41.082939],
+  "bbox": [
+    28.982849,
+    41.082939,
+    28.982849,
+    41.082939
+],
   "geometry": {"coordinates":[28.982849,41.082939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169579473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.959414,41.00576,28.959414,41.00576",
     "geom:latitude":41.00576,
     "geom:longitude":28.959414,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sehsuver Mh.capariz Sk.no20 K1",
     "sg:city":"Kumkapi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169579473,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466313308,
     "wof:name":"Yavuz Deniz Act.ltd.sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [28.959414,41.00576,28.959414,41.00576],
+  "bbox": [
+    28.959414,
+    41.00576,
+    28.959414,
+    41.00576
+],
   "geometry": {"coordinates":[28.959414,41.00576],"type":"Point"}
 }

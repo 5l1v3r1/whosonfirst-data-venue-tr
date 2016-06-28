@@ -2,13 +2,14 @@
   "id": 169534087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.97991,40.15691,29.97991,40.15691",
     "geom:latitude":40.15691,
     "geom:longitude":29.97991,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Alani 8",
     "sg:city":"Ayvalik",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534087,
-    "wof:lastmodified":1449033549,
+    "wof:lastmodified":1466313415,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.97991,40.15691,29.97991,40.15691],
+  "bbox": [
+    29.97991,
+    40.15691,
+    29.97991,
+    40.15691
+],
   "geometry": {"coordinates":[29.97991,40.15691],"type":"Point"}
 }

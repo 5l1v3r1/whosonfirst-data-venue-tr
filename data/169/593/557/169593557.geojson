@@ -2,13 +2,14 @@
   "id": 169593557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.068697,40.216003,29.068697,40.216003",
     "geom:latitude":40.216003,
     "geom:longitude":29.068697,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kalkan Sok.no:26",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169593557,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466313342,
     "wof:name":"Tetra Kimya San.ve Tic.ltd.sti.",
     "wof:parent_id":85929763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "spice"
     ]
 },
-  "bbox": [29.068697,40.216003,29.068697,40.216003],
+  "bbox": [
+    29.068697,
+    40.216003,
+    29.068697,
+    40.216003
+],
   "geometry": {"coordinates":[29.068697,40.216003],"type":"Point"}
 }

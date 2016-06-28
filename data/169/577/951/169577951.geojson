@@ -2,13 +2,14 @@
   "id": 169577951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.12261,40.933197,29.12261,40.933197",
     "geom:latitude":40.933197,
     "geom:longitude":29.12261,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Celik Sok. No: 32/4",
     "sg:city":"4.levent",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577951,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466313324,
     "wof:name":"Onurbey Yatcilik Ltd.sti.",
     "wof:parent_id":85930197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [29.12261,40.933197,29.12261,40.933197],
+  "bbox": [
+    29.12261,
+    40.933197,
+    29.12261,
+    40.933197
+],
   "geometry": {"coordinates":[29.12261,40.933197],"type":"Point"}
 }

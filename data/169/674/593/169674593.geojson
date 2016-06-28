@@ -2,13 +2,14 @@
   "id": 169674593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.889065,41.004997,28.889065,41.004997",
     "geom:latitude":41.004997,
     "geom:longitude":28.889065,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kinalitepe Sok. No:80/3",
     "sg:city":"Merter",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169674593,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466313449,
     "wof:name":"Merhaba Pastaneleri",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sweet"
     ]
 },
-  "bbox": [28.889065,41.004997,28.889065,41.004997],
+  "bbox": [
+    28.889065,
+    41.004997,
+    28.889065,
+    41.004997
+],
   "geometry": {"coordinates":[28.889065,41.004997],"type":"Point"}
 }

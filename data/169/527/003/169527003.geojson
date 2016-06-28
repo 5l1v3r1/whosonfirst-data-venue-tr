@@ -2,13 +2,14 @@
   "id": 169527003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.273825,40.990456,29.273825,40.990456",
     "geom:latitude":40.990456,
     "geom:longitude":29.273825,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferdi G??y Sk. No.7/b",
     "sg:city":"Cagaloglu",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169527003,
-    "wof:lastmodified":1449035280,
+    "wof:lastmodified":1466313184,
     "wof:name":"Kivircik Bebe Triko Koll.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.273825,40.990456,29.273825,40.990456],
+  "bbox": [
+    29.273825,
+    40.990456,
+    29.273825,
+    40.990456
+],
   "geometry": {"coordinates":[29.273825,40.990456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169673299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.982885,41.029396,28.982885,41.029396",
     "geom:latitude":41.029396,
     "geom:longitude":28.982885,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bilezik Sok. No:2",
     "sg:city":"Findikli",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169673299,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1466313403,
     "wof:name":"Vitsan Mumessilik Ve Ticaret A.s.",
     "wof:parent_id":85906607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [28.982885,41.029396,28.982885,41.029396],
+  "bbox": [
+    28.982885,
+    41.029396,
+    28.982885,
+    41.029396
+],
   "geometry": {"coordinates":[28.982885,41.029396],"type":"Point"}
 }

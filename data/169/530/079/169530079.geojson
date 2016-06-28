@@ -2,13 +2,14 @@
   "id": 169530079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.875896,36.933247,34.875896,36.933247",
     "geom:latitude":36.933247,
     "geom:longitude":34.875896,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??bul Kasim",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169530079,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466313192,
     "wof:name":"Adabank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.875896,36.933247,34.875896,36.933247],
+  "bbox": [
+    34.875896,
+    36.933247,
+    34.875896,
+    36.933247
+],
   "geometry": {"coordinates":[34.875896,36.933247],"type":"Point"}
 }

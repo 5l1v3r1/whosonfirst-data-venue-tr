@@ -2,13 +2,14 @@
   "id": 169585693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.169167,40.909973,29.169167,40.909973",
     "geom:latitude":40.909973,
     "geom:longitude":29.169167,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Saraylar Cad,goksu Sok. No:5 Cevizli-",
     "sg:city":"Kartal",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169585693,
-    "wof:lastmodified":1449034884,
+    "wof:lastmodified":1466313336,
     "wof:name":"Tansu Mesrubat San.tic.ltd.sti.",
     "wof:parent_id":85929905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "soft"
     ]
 },
-  "bbox": [29.169167,40.909973,29.169167,40.909973],
+  "bbox": [
+    29.169167,
+    40.909973,
+    29.169167,
+    40.909973
+],
   "geometry": {"coordinates":[29.169167,40.909973],"type":"Point"}
 }

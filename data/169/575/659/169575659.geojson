@@ -2,13 +2,14 @@
   "id": 169575659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.118683,40.944557,29.118683,40.944557",
     "geom:latitude":40.944557,
     "geom:longitude":29.118683,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cinar Mah. Cinar Sok.no: 14",
     "sg:city":"K.yali",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169575659,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466313308,
     "wof:name":"Cev-kor Gemi Ikmal Hizm.ltd.sti.",
     "wof:parent_id":85929997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [29.118683,40.944557,29.118683,40.944557],
+  "bbox": [
+    29.118683,
+    40.944557,
+    29.118683,
+    40.944557
+],
   "geometry": {"coordinates":[29.118683,40.944557],"type":"Point"}
 }

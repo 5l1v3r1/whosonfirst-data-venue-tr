@@ -2,13 +2,14 @@
   "id": 169577133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.907339,39.641483,27.907339,39.641483",
     "geom:latitude":39.641483,
     "geom:longitude":27.907339,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hukumet Meydani Eren Ish.k3",
     "sg:city":"Aliaga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577133,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466313283,
     "wof:name":"Karsan Denizcilik Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [27.907339,39.641483,27.907339,39.641483],
+  "bbox": [
+    27.907339,
+    39.641483,
+    27.907339,
+    39.641483
+],
   "geometry": {"coordinates":[27.907339,39.641483],"type":"Point"}
 }

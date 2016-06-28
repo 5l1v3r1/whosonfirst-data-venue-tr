@@ -2,13 +2,14 @@
   "id": 169539707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.873449,40.977135,28.873449,40.977135",
     "geom:latitude":40.977135,
     "geom:longitude":28.873449,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ebuzziya Cad 14",
     "sg:city":"Bak\u0131rk\u00f6y",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169539707,
-    "wof:lastmodified":1449036039,
+    "wof:lastmodified":1466313433,
     "wof:name":"S?erbank As",
     "wof:parent_id":85930077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.873449,40.977135,28.873449,40.977135],
+  "bbox": [
+    28.873449,
+    40.977135,
+    28.873449,
+    40.977135
+],
   "geometry": {"coordinates":[28.873449,40.977135],"type":"Point"}
 }

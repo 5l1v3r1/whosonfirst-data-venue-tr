@@ -2,13 +2,14 @@
   "id": 169569835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.042156,41.089153,29.042156,41.089153",
     "geom:latitude":41.089153,
     "geom:longitude":29.042156,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cengiz Topel Cad. Bebek Yolu Sok. No:7 Etiler",
     "sg:city":"63100",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169569835,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466313306,
     "wof:name":"Sensormatic Guvenlik Sistemleri A.s",
     "wof:parent_id":85929757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.042156,41.089153,29.042156,41.089153],
+  "bbox": [
+    29.042156,
+    41.089153,
+    29.042156,
+    41.089153
+],
   "geometry": {"coordinates":[29.042156,41.089153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169594531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ikitelli Org.san.bol.turgut Ozal Cad. Cevre San. Sit.7. Blok No:34-36",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169594531,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466313343,
     "wof:name":"Arslan Ticaret",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sponge"
     ]
 },
-  "bbox": [28.975925,41.012379,28.975925,41.012379],
+  "bbox": [
+    28.975925,
+    41.012379,
+    28.975925,
+    41.012379
+],
   "geometry": {"coordinates":[28.975925,41.012379],"type":"Point"}
 }

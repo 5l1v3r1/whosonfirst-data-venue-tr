@@ -2,13 +2,14 @@
   "id": 169570033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.851837,39.926559,32.851837,39.926559",
     "geom:latitude":39.926559,
     "geom:longitude":32.851837,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cihan Sk. No:19/3",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169570033,
-    "wof:lastmodified":1449034645,
+    "wof:lastmodified":1466313266,
     "wof:name":"Tastepe Insaat Ltd. Sti.",
     "wof:parent_id":85929593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.851837,39.926559,32.851837,39.926559],
+  "bbox": [
+    32.851837,
+    39.926559,
+    32.851837,
+    39.926559
+],
   "geometry": {"coordinates":[32.851837,39.926559],"type":"Point"}
 }

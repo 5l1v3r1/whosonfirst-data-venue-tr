@@ -2,13 +2,14 @@
   "id": 169562873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.995672,41.065414,28.995672,41.065414",
     "geom:latitude":41.065414,
     "geom:longitude":28.995672,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ortaklar Cd. No:45/2 Mecidiyek?",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169562873,
-    "wof:lastmodified":1449034434,
+    "wof:lastmodified":1466313271,
     "wof:name":"?ek-sil Hali Yikama Sos. Hizmet. Tic. Ltd. Sti.",
     "wof:parent_id":85929365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.995672,41.065414,28.995672,41.065414],
+  "bbox": [
+    28.995672,
+    41.065414,
+    28.995672,
+    41.065414
+],
   "geometry": {"coordinates":[28.995672,41.065414],"type":"Point"}
 }

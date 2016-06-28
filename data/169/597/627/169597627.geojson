@@ -2,13 +2,14 @@
   "id": 169597627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.03875,38.476139,27.03875,38.476139",
     "geom:latitude":38.476139,
     "geom:longitude":27.03875,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aosb 10006 Sok. No:51",
     "sg:city":"?igli",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169597627,
-    "wof:lastmodified":1449035927,
+    "wof:lastmodified":1466313345,
     "wof:name":"Dunya Tekstil Uretim A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [27.03875,38.476139,27.03875,38.476139],
+  "bbox": [
+    27.03875,
+    38.476139,
+    27.03875,
+    38.476139
+],
   "geometry": {"coordinates":[27.03875,38.476139],"type":"Point"}
 }

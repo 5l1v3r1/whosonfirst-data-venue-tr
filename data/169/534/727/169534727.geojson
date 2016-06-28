@@ -2,13 +2,14 @@
   "id": 169534727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"37.981647,40.976357,37.981647,40.976357",
     "geom:latitude":40.976357,
     "geom:longitude":37.981647,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Mustafa Kemal",
     "sg:city":"Amasya",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534727,
-    "wof:lastmodified":1449033546,
+    "wof:lastmodified":1466313417,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [37.981647,40.976357,37.981647,40.976357],
+  "bbox": [
+    37.981647,
+    40.976357,
+    37.981647,
+    40.976357
+],
   "geometry": {"coordinates":[37.981647,40.976357],"type":"Point"}
 }

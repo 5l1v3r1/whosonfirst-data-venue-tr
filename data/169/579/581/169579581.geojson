@@ -2,13 +2,14 @@
   "id": 169579581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.970146,41.011391,28.970146,41.011391",
     "geom:latitude":41.011391,
     "geom:longitude":28.970146,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Defterdar Yokusu No47 K2 D2",
     "sg:city":"Tophane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169579581,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466313314,
     "wof:name":"?alisanlar Denizcilik A.s.",
     "wof:parent_id":85906487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [28.970146,41.011391,28.970146,41.011391],
+  "bbox": [
+    28.970146,
+    41.011391,
+    28.970146,
+    41.011391
+],
   "geometry": {"coordinates":[28.970146,41.011391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.124691,40.999672,29.124691,40.999672",
     "geom:latitude":40.999672,
     "geom:longitude":29.124691,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cakmak Mah.ikbal Cad. Cihan Sok. No:29",
     "sg:city":"\u00dcmraniye",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169685669,
-    "wof:lastmodified":1449035883,
+    "wof:lastmodified":1466313457,
     "wof:name":"Etem Triko Konfeksiyon364 12 15",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "underwear"
     ]
 },
-  "bbox": [29.124691,40.999672,29.124691,40.999672],
+  "bbox": [
+    29.124691,
+    40.999672,
+    29.124691,
+    40.999672
+],
   "geometry": {"coordinates":[29.124691,40.999672],"type":"Point"}
 }

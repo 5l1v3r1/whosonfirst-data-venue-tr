@@ -2,13 +2,14 @@
   "id": 169534501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"34.975529,40.532417,34.975529,40.532417",
     "geom:latitude":40.532417,
     "geom:longitude":34.975529,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??cad 33/c",
     "sg:city":"Corum",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169534501,
-    "wof:lastmodified":1449033552,
+    "wof:lastmodified":1466313416,
     "wof:name":"Etibank Bao",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [34.975529,40.532417,34.975529,40.532417],
+  "bbox": [
+    34.975529,
+    40.532417,
+    34.975529,
+    40.532417
+],
   "geometry": {"coordinates":[34.975529,40.532417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.271921,40.991192,29.271921,40.991192",
     "geom:latitude":40.991192,
     "geom:longitude":29.271921,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Y. Beyazit Cd. No:74 Y.bosna",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169650473,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1466313385,
     "wof:name":"Sule Kirtasiye San. Tic. Ltd. Sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.271921,40.991192,29.271921,40.991192],
+  "bbox": [
+    29.271921,
+    40.991192,
+    29.271921,
+    40.991192
+],
   "geometry": {"coordinates":[29.271921,40.991192],"type":"Point"}
 }

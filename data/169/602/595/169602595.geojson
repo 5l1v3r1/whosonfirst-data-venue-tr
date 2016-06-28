@@ -2,13 +2,14 @@
   "id": 169602595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.881828,39.90041,32.881828,39.90041",
     "geom:latitude":39.90041,
     "geom:longitude":32.881828,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bagcilar Mahallesi 5.sokak No:13/1",
     "sg:city":"Gaziosmanpasa",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169602595,
-    "wof:lastmodified":1449034230,
+    "wof:lastmodified":1466313351,
     "wof:name":"Ser Turizm Insaat Ve Pazarlama Limited Sirketi",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sport-fitness"
     ]
 },
-  "bbox": [32.881828,39.90041,32.881828,39.90041],
+  "bbox": [
+    32.881828,
+    39.90041,
+    32.881828,
+    39.90041
+],
   "geometry": {"coordinates":[32.881828,39.90041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169553089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.517546,39.770081,30.517546,39.770081",
     "geom:latitude":39.770081,
     "geom:longitude":30.517546,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Organize San.bol.9.cad.",
     "sg:city":"Samandra",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169553089,
-    "wof:lastmodified":1449032707,
+    "wof:lastmodified":1466313210,
     "wof:name":"Aslan Susam Ve Tahin Gida Mad.san.tic.ltd.sti.",
     "wof:parent_id":85934767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [30.517546,39.770081,30.517546,39.770081],
+  "bbox": [
+    30.517546,
+    39.770081,
+    30.517546,
+    39.770081
+],
   "geometry": {"coordinates":[30.517546,39.770081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169606943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"26.887762,38.366547,26.887762,38.366547",
     "geom:latitude":38.366547,
     "geom:longitude":26.887762,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"In??cd. No:417/a",
     "sg:city":"Kad\u0131k\u00f6y",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169606943,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466313359,
     "wof:name":"Metex International Ith. Ihr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [26.887762,38.366547,26.887762,38.366547],
+  "bbox": [
+    26.887762,
+    38.366547,
+    26.887762,
+    38.366547
+],
   "geometry": {"coordinates":[26.887762,38.366547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169526477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.211756,38.463444,27.211756,38.463444",
     "geom:latitude":38.463444,
     "geom:longitude":27.211756,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"481.sok. No:4 Camdibi",
     "sg:city":"Bornova",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169526477,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466313192,
     "wof:name":"Centeks Tekstil San.tic.ltd.sti.",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [27.211756,38.463444,27.211756,38.463444],
+  "bbox": [
+    27.211756,
+    38.463444,
+    27.211756,
+    38.463444
+],
   "geometry": {"coordinates":[27.211756,38.463444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.976055,41.010601,28.976055,41.010601",
     "geom:latitude":41.010601,
     "geom:longitude":28.976055,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cagaloglu Yokusu No:11 Sirkeci",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169650349,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466313383,
     "wof:name":"Tanriverdi Kirtasiye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.976055,41.010601,28.976055,41.010601],
+  "bbox": [
+    28.976055,
+    41.010601,
+    28.976055,
+    41.010601
+],
   "geometry": {"coordinates":[28.976055,41.010601],"type":"Point"}
 }

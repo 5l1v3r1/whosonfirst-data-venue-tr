@@ -2,13 +2,14 @@
   "id": 169540325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.535101,37.6483,30.535101,37.6483",
     "geom:latitude":37.6483,
     "geom:longitude":30.535101,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aglasun",
     "sg:city":"Istanbul",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169540325,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466313435,
     "wof:name":"Tc Ziraat Bankasi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.535101,37.6483,30.535101,37.6483],
+  "bbox": [
+    30.535101,
+    37.6483,
+    30.535101,
+    37.6483
+],
   "geometry": {"coordinates":[30.535101,37.6483],"type":"Point"}
 }

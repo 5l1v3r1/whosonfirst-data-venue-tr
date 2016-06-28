@@ -2,13 +2,14 @@
   "id": 169558565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.868645,41.030033,28.868645,41.030033",
     "geom:latitude":41.030033,
     "geom:longitude":28.868645,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istiklal Cad. Baris Sok.no:2/1 Maltepe",
     "sg:city":"Maltepe",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169558565,
-    "wof:lastmodified":1449033582,
+    "wof:lastmodified":1466313257,
     "wof:name":"Alo Ilaclama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.868645,41.030033,28.868645,41.030033],
+  "bbox": [
+    28.868645,
+    41.030033,
+    28.868645,
+    41.030033
+],
   "geometry": {"coordinates":[28.868645,41.030033],"type":"Point"}
 }

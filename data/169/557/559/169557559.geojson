@@ -2,13 +2,14 @@
   "id": 169557559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.049629,41.00758,29.049629,41.00758",
     "geom:latitude":41.00758,
     "geom:longitude":29.049629,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sivritas Sk. Elbir Ishani No.18 Mecidiyek?",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169557559,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466313268,
     "wof:name":"Solar Sauna Havuz Ins. Tic.ltd.sti.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pool"
     ]
 },
-  "bbox": [29.049629,41.00758,29.049629,41.00758],
+  "bbox": [
+    29.049629,
+    41.00758,
+    29.049629,
+    41.00758
+],
   "geometry": {"coordinates":[29.049629,41.00758],"type":"Point"}
 }

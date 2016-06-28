@@ -2,13 +2,14 @@
   "id": 169586061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"35.337109,36.97525,35.337109,36.97525",
     "geom:latitude":36.97525,
     "geom:longitude":35.337109,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kocavezir Mh. 31 Sk. No:4/a",
     "sg:city":"Seyhan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169586061,
-    "wof:lastmodified":1449035575,
+    "wof:lastmodified":1466313327,
     "wof:name":"Zaman Mesrubat Sanayi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "soft"
     ]
 },
-  "bbox": [35.337109,36.97525,35.337109,36.97525],
+  "bbox": [
+    35.337109,
+    36.97525,
+    35.337109,
+    36.97525
+],
   "geometry": {"coordinates":[35.337109,36.97525],"type":"Point"}
 }

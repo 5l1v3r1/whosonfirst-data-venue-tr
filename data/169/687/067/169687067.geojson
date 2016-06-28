@@ -2,13 +2,14 @@
   "id": 169687067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.981544,41.092316,28.981544,41.092316",
     "geom:latitude":41.092316,
     "geom:longitude":28.981544,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rumeli Cd. No:69/2",
     "sg:city":"Nisantasi",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169687067,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466313451,
     "wof:name":"Aktuel Ltd. Sti.",
     "wof:parent_id":85930237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "upholstery"
     ]
 },
-  "bbox": [28.981544,41.092316,28.981544,41.092316],
+  "bbox": [
+    28.981544,
+    41.092316,
+    28.981544,
+    41.092316
+],
   "geometry": {"coordinates":[28.981544,41.092316],"type":"Point"}
 }

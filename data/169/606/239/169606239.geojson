@@ -2,13 +2,14 @@
   "id": 169606239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.001045,41.046078,29.001045,41.046078",
     "geom:latitude":41.046078,
     "geom:longitude":29.001045,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Misirlibahce Sok. No:92",
     "sg:city":"Mecidiyek\u00f6y",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169606239,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466313350,
     "wof:name":"Kanyon Doga Spor Malz.ltd.",
     "wof:parent_id":85929495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "material"
     ]
 },
-  "bbox": [29.001045,41.046078,29.001045,41.046078],
+  "bbox": [
+    29.001045,
+    41.046078,
+    29.001045,
+    41.046078
+],
   "geometry": {"coordinates":[29.001045,41.046078],"type":"Point"}
 }

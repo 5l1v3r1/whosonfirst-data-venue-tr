@@ -2,13 +2,14 @@
   "id": 169537425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.22047,41.004765,29.22047,41.004765",
     "geom:latitude":41.004765,
     "geom:longitude":29.22047,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Fatih Cad 17",
     "sg:city":"Ankara",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169537425,
-    "wof:lastmodified":1449033499,
+    "wof:lastmodified":1466313426,
     "wof:name":"Kuwait Turkish, Evkaf Finance House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.22047,41.004765,29.22047,41.004765],
+  "bbox": [
+    29.22047,
+    41.004765,
+    29.22047,
+    41.004765
+],
   "geometry": {"coordinates":[29.22047,41.004765],"type":"Point"}
 }

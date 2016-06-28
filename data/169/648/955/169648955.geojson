@@ -2,13 +2,14 @@
   "id": 169648955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.849804,39.904205,32.849804,39.904205",
     "geom:latitude":39.904205,
     "geom:longitude":32.849804,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hosdere Cd. No:194-7 Y.ayranci",
     "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169648955,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466313391,
     "wof:name":"Sanat Kirtasiye Ve Reklam Ltd. Sti.",
     "wof:parent_id":85929503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [32.849804,39.904205,32.849804,39.904205],
+  "bbox": [
+    32.849804,
+    39.904205,
+    32.849804,
+    39.904205
+],
   "geometry": {"coordinates":[32.849804,39.904205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169651389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"33.7719,41.372299,33.7719,41.372299",
     "geom:latitude":41.372299,
     "geom:longitude":33.7719,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Aktekke Mah. Egitim Fak.araligi No:26",
     "sg:city":"Emin\u00f6n\u00fc/Ca\u011falo\u011flu",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169651389,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466313384,
     "wof:name":"Tore Kirtasiye-fotokopi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [33.7719,41.372299,33.7719,41.372299],
+  "bbox": [
+    33.7719,
+    41.372299,
+    33.7719,
+    41.372299
+],
   "geometry": {"coordinates":[33.7719,41.372299],"type":"Point"}
 }

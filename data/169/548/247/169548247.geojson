@@ -2,13 +2,14 @@
   "id": 169548247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.819313,39.909187,32.819313,39.909187",
     "geom:latitude":39.909187,
     "geom:longitude":32.819313,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"100.yil Omorfo Meydani No:171/6 Balgat",
     "sg:city":"Eminonu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169548247,
-    "wof:lastmodified":1449034974,
+    "wof:lastmodified":1466313218,
     "wof:name":"Firat Aku San.a.s",
     "wof:parent_id":85929585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "batery"
     ]
 },
-  "bbox": [32.819313,39.909187,32.819313,39.909187],
+  "bbox": [
+    32.819313,
+    39.909187,
+    32.819313,
+    39.909187
+],
   "geometry": {"coordinates":[32.819313,39.909187],"type":"Point"}
 }

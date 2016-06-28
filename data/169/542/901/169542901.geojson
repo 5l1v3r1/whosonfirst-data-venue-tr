@@ -2,13 +2,14 @@
   "id": 169542901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.023861,40.988056,29.023861,40.988056",
     "geom:latitude":40.988056,
     "geom:longitude":29.023861,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ali Munir Cad 28",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169542901,
-    "wof:lastmodified":1449035219,
+    "wof:lastmodified":1466313213,
     "wof:name":"T?k Ticaret, Bankasi As",
     "wof:parent_id":85929481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.023861,40.988056,29.023861,40.988056],
+  "bbox": [
+    29.023861,
+    40.988056,
+    29.023861,
+    40.988056
+],
   "geometry": {"coordinates":[29.023861,40.988056],"type":"Point"}
 }

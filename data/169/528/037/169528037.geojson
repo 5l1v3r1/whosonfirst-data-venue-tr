@@ -2,13 +2,14 @@
   "id": 169528037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.080988,41.001934,29.080988,41.001934",
     "geom:latitude":41.001934,
     "geom:longitude":29.080988,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"K??bahcedere Sok. No:19/3",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169528037,
-    "wof:lastmodified":1449033572,
+    "wof:lastmodified":1466313185,
     "wof:name":"Yhg Hazir Giyim San.a.s. (best Kids)",
     "wof:parent_id":85930223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"
     ]
 },
-  "bbox": [29.080988,41.001934,29.080988,41.001934],
+  "bbox": [
+    29.080988,
+    41.001934,
+    29.080988,
+    41.001934
+],
   "geometry": {"coordinates":[29.080988,41.001934],"type":"Point"}
 }

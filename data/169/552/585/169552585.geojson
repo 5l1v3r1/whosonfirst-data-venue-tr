@@ -2,13 +2,14 @@
   "id": 169552585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.899313,41.040234,28.899313,41.040234",
     "geom:latitude":41.040234,
     "geom:longitude":28.899313,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Altintepsi Mah. Poyraz Sok. No: 42 Bayrampasa",
     "sg:city":"Eminonu",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169552585,
-    "wof:lastmodified":1449034055,
+    "wof:lastmodified":1466313235,
     "wof:name":"Guler Bijuteri & Aksesuarlari",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.899313,41.040234,28.899313,41.040234],
+  "bbox": [
+    28.899313,
+    41.040234,
+    28.899313,
+    41.040234
+],
   "geometry": {"coordinates":[28.899313,41.040234],"type":"Point"}
 }

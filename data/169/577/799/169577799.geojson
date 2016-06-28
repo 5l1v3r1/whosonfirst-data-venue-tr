@@ -2,13 +2,14 @@
   "id": 169577799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.143938,38.441933,27.143938,38.441933",
     "geom:latitude":38.441933,
     "geom:longitude":27.143938,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Bulvari No302 K4/401",
     "sg:city":"Alsancak",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169577799,
-    "wof:lastmodified":1449036071,
+    "wof:lastmodified":1466313316,
     "wof:name":"Mts Denizcilik Ltd.sti.",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [27.143938,38.441933,27.143938,38.441933],
+  "bbox": [
+    27.143938,
+    38.441933,
+    27.143938,
+    38.441933
+],
   "geometry": {"coordinates":[27.143938,38.441933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169671243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.16765,38.434101,27.16765,38.434101",
     "geom:latitude":38.434101,
     "geom:longitude":27.16765,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gaziler Cad., No.353.k.7 D.701 -702 Celal Ismerkezi",
     "sg:city":"Yenisehir",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169671243,
-    "wof:lastmodified":1449033452,
+    "wof:lastmodified":1466313400,
     "wof:name":"9at Ileri Teknoloji ?r?nleri Ltd.sti.",
     "wof:parent_id":85904105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgical"
     ]
 },
-  "bbox": [27.16765,38.434101,27.16765,38.434101],
+  "bbox": [
+    27.16765,
+    38.434101,
+    27.16765,
+    38.434101
+],
   "geometry": {"coordinates":[27.16765,38.434101],"type":"Point"}
 }

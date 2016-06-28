@@ -2,13 +2,14 @@
   "id": 169537287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.273632,36.853386,28.273632,36.853386",
     "geom:latitude":36.853386,
     "geom:longitude":28.273632,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tepe Mah 38",
     "sg:city":"Eskisehir",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169537287,
-    "wof:lastmodified":1449033496,
+    "wof:lastmodified":1466313426,
     "wof:name":"Kocbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.273632,36.853386,28.273632,36.853386],
+  "bbox": [
+    28.273632,
+    36.853386,
+    28.273632,
+    36.853386
+],
   "geometry": {"coordinates":[28.273632,36.853386],"type":"Point"}
 }

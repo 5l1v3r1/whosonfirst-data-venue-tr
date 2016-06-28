@@ -2,13 +2,14 @@
   "id": 169655205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.107077,40.951256,29.107077,40.951256",
     "geom:latitude":40.951256,
     "geom:longitude":29.107077,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Haramidere Sanayi Sitesi M Blok 2.yol No:110",
     "sg:city":"Avcilar",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169655205,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466313384,
     "wof:name":"Enermak M?h. Makina Kons.ins.ve San.ltd.sti",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [29.107077,40.951256,29.107077,40.951256],
+  "bbox": [
+    29.107077,
+    40.951256,
+    29.107077,
+    40.951256
+],
   "geometry": {"coordinates":[29.107077,40.951256],"type":"Point"}
 }

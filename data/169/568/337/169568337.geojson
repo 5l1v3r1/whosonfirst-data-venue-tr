@@ -2,13 +2,14 @@
   "id": 169568337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.184084,41.014622,29.184084,41.014622",
     "geom:latitude":41.014622,
     "geom:longitude":29.184084,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Eski Osmanli Sok. Osmanli Apt. No:15 / 7",
     "sg:city":"Mecdiyek?",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169568337,
-    "wof:lastmodified":1449032612,
+    "wof:lastmodified":1466313279,
     "wof:name":"Grup Atilim Teknoloji Sist. Ith.ihr.tic.ltd.sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [29.184084,41.014622,29.184084,41.014622],
+  "bbox": [
+    29.184084,
+    41.014622,
+    29.184084,
+    41.014622
+],
   "geometry": {"coordinates":[29.184084,41.014622],"type":"Point"}
 }

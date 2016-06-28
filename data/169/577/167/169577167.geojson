@@ -2,13 +2,14 @@
   "id": 169577167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"40.5214,41.0224,40.5214,41.0224",
     "geom:latitude":41.0224,
     "geom:longitude":40.5214,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Liman Karsisi",
     "sg:city":"Aliaga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169577167,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466313286,
     "wof:name":"Kartal Shipping Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [40.5214,41.0224,40.5214,41.0224],
+  "bbox": [
+    40.5214,
+    41.0224,
+    40.5214,
+    41.0224
+],
   "geometry": {"coordinates":[40.5214,41.0224],"type":"Point"}
 }

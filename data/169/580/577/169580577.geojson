@@ -2,13 +2,14 @@
   "id": 169580577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"30.279917,37.721687,30.279917,37.721687",
     "geom:latitude":37.721687,
     "geom:longitude":30.279917,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Yeni Tabakhaneler No: 29",
     "sg:city":"Kizilay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169580577,
-    "wof:lastmodified":1449034916,
+    "wof:lastmodified":1466313333,
     "wof:name":"Ekinciler Deri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [30.279917,37.721687,30.279917,37.721687],
+  "bbox": [
+    30.279917,
+    37.721687,
+    30.279917,
+    37.721687
+],
   "geometry": {"coordinates":[30.279917,37.721687],"type":"Point"}
 }

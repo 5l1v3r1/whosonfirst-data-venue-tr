@@ -2,13 +2,14 @@
   "id": 169563719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.248699,41.0742,28.248699,41.0742",
     "geom:latitude":41.0742,
     "geom:longitude":28.248699,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kinalik?r?mev. Silivri",
     "sg:city":"Sultan?ftligi-gaziosmanpasa",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169563719,
-    "wof:lastmodified":1449032730,
+    "wof:lastmodified":1466313268,
     "wof:name":"Hamle Aga? Mamul. Tic.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "school"
     ]
 },
-  "bbox": [28.248699,41.0742,28.248699,41.0742],
+  "bbox": [
+    28.248699,
+    41.0742,
+    28.248699,
+    41.0742
+],
   "geometry": {"coordinates":[28.248699,41.0742],"type":"Point"}
 }

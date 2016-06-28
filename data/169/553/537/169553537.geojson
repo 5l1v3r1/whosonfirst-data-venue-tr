@@ -2,13 +2,14 @@
   "id": 169553537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.13913,40.214031,29.13913,40.214031",
     "geom:latitude":40.214031,
     "geom:longitude":29.13913,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Vakif Mah. Vakif Cad. No:69",
     "sg:city":"Yildirim",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169553537,
-    "wof:lastmodified":1449032706,
+    "wof:lastmodified":1466313228,
     "wof:name":"Citoglu Sekerleme San.tic. Ltd.sti.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "biscuit-chocolate-candy"
     ]
 },
-  "bbox": [29.13913,40.214031,29.13913,40.214031],
+  "bbox": [
+    29.13913,
+    40.214031,
+    29.13913,
+    40.214031
+],
   "geometry": {"coordinates":[29.13913,40.214031],"type":"Point"}
 }

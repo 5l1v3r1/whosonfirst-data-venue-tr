@@ -2,13 +2,14 @@
   "id": 169551797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.388338,40.812656,29.388338,40.812656",
     "geom:latitude":40.812656,
     "geom:longitude":29.388338,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"B?l? Sk. 30/c-d K.dere",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169551797,
-    "wof:lastmodified":1449033354,
+    "wof:lastmodified":1466313243,
     "wof:name":"Yatas Puff Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bed"
     ]
 },
-  "bbox": [29.388338,40.812656,29.388338,40.812656],
+  "bbox": [
+    29.388338,
+    40.812656,
+    29.388338,
+    40.812656
+],
   "geometry": {"coordinates":[29.388338,40.812656],"type":"Point"}
 }

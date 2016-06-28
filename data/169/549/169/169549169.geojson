@@ -2,13 +2,14 @@
   "id": 169549169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.219601,38.466202,27.219601,38.466202",
     "geom:latitude":38.466202,
     "geom:longitude":27.219601,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"2. San. Sit. 302. Sk. No:25 Bornova",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169549169,
-    "wof:lastmodified":1449033593,
+    "wof:lastmodified":1466313215,
     "wof:name":"Disli San. Tic. Ltd. Sti.",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [27.219601,38.466202,27.219601,38.466202],
+  "bbox": [
+    27.219601,
+    38.466202,
+    27.219601,
+    38.466202
+],
   "geometry": {"coordinates":[27.219601,38.466202],"type":"Point"}
 }

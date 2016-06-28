@@ -2,13 +2,14 @@
   "id": 169551095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.076782,40.959007,29.076782,40.959007",
     "geom:latitude":40.959007,
     "geom:longitude":29.076782,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bostanci-maltepe Sahil Yolu No:106",
     "sg:city":"Maltepe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169551095,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466313211,
     "wof:name":"Altin Yatak",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [29.076782,40.959007,29.076782,40.959007],
+  "bbox": [
+    29.076782,
+    40.959007,
+    29.076782,
+    40.959007
+],
   "geometry": {"coordinates":[29.076782,40.959007],"type":"Point"}
 }

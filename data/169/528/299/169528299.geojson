@@ -2,13 +2,14 @@
   "id": 169528299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.966928,41.006443,28.966928,41.006443",
     "geom:latitude":41.006443,
     "geom:longitude":28.966928,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gedikpasa Cad. No:88/1 Beyazit",
     "sg:city":"Hacilar",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169528299,
-    "wof:lastmodified":1449033569,
+    "wof:lastmodified":1466313189,
     "wof:name":"Aslantas Ltd.sti.",
     "wof:parent_id":85906609,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bag-belt-accessories"
     ]
 },
-  "bbox": [28.966928,41.006443,28.966928,41.006443],
+  "bbox": [
+    28.966928,
+    41.006443,
+    28.966928,
+    41.006443
+],
   "geometry": {"coordinates":[28.966928,41.006443],"type":"Point"}
 }

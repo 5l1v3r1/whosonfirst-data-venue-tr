@@ -2,13 +2,14 @@
   "id": 169549161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"27.129686,38.418697,27.129686,38.418697",
     "geom:latitude":38.418697,
     "geom:longitude":27.129686,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 Sk. No:15 1.san. Sit.",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169549161,
-    "wof:lastmodified":1449033591,
+    "wof:lastmodified":1466313215,
     "wof:name":"Disil Mak. Yapim San. Tic. Ltd. Sti.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ball"
     ]
 },
-  "bbox": [27.129686,38.418697,27.129686,38.418697],
+  "bbox": [
+    27.129686,
+    38.418697,
+    27.129686,
+    38.418697
+],
   "geometry": {"coordinates":[27.129686,38.418697],"type":"Point"}
 }

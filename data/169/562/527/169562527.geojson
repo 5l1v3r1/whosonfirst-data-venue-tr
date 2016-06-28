@@ -2,13 +2,14 @@
   "id": 169562527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.020702,41.023018,29.020702,41.023018",
     "geom:latitude":41.023018,
     "geom:longitude":29.020702,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"G??suyu Kutlu Sk. No:4/3 Taksim",
     "sg:city":"07100",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169562527,
-    "wof:lastmodified":1449034437,
+    "wof:lastmodified":1466313262,
     "wof:name":"Temaks End?stri Temizlik Hizmet. Ltd. Sti.",
     "wof:parent_id":85906599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.020702,41.023018,29.020702,41.023018],
+  "bbox": [
+    29.020702,
+    41.023018,
+    29.020702,
+    41.023018
+],
   "geometry": {"coordinates":[29.020702,41.023018],"type":"Point"}
 }

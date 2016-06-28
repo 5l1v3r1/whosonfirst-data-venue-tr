@@ -2,13 +2,14 @@
   "id": 169582439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"28.961792,41.006672,28.961792,41.006672",
     "geom:latitude":41.006672,
     "geom:longitude":28.961792,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamam C. No.19 Beyazit",
     "sg:city":"Sehitkamil",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169582439,
-    "wof:lastmodified":1449034465,
+    "wof:lastmodified":1466313322,
     "wof:name":"Sedef Ayakk. San. A.s.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [28.961792,41.006672,28.961792,41.006672],
+  "bbox": [
+    28.961792,
+    41.006672,
+    28.961792,
+    41.006672
+],
   "geometry": {"coordinates":[28.961792,41.006672],"type":"Point"}
 }

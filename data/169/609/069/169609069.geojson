@@ -2,13 +2,14 @@
   "id": 169609069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.229815,40.878235,29.229815,40.878235",
     "geom:latitude":40.878235,
     "geom:longitude":29.229815,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ihlamur Sk. No:27/2 Pendik",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169609069,
-    "wof:lastmodified":1449033919,
+    "wof:lastmodified":1466313352,
     "wof:name":"?orba Spor Malz.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [29.229815,40.878235,29.229815,40.878235],
+  "bbox": [
+    29.229815,
+    40.878235,
+    29.229815,
+    40.878235
+],
   "geometry": {"coordinates":[29.229815,40.878235],"type":"Point"}
 }

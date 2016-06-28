@@ -2,13 +2,14 @@
   "id": 169566621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"32.854084,39.891464,32.854084,39.891464",
     "geom:latitude":39.891464,
     "geom:longitude":32.854084,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kirkpinar Sok. 10/14 Cinnah Cd. Cankaya",
     "sg:city":"Sisli",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169566621,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466313268,
     "wof:name":"Dak Guvenlik Sistemleri Ltd.sti.",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [32.854084,39.891464,32.854084,39.891464],
+  "bbox": [
+    32.854084,
+    39.891464,
+    32.854084,
+    39.891464
+],
   "geometry": {"coordinates":[32.854084,39.891464],"type":"Point"}
 }

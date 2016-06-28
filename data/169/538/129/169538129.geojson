@@ -2,13 +2,14 @@
   "id": 169538129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.183697,40.906166,29.183697,40.906166",
     "geom:latitude":40.906166,
     "geom:longitude":29.183697,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumhuriyet Cadessi No 139, Elmadag, 80230 Istanbul",
     "sg:city":"Adana",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169538129,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466313428,
     "wof:name":"Mng Bank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.183697,40.906166,29.183697,40.906166],
+  "bbox": [
+    29.183697,
+    40.906166,
+    29.183697,
+    40.906166
+],
   "geometry": {"coordinates":[29.183697,40.906166],"type":"Point"}
 }

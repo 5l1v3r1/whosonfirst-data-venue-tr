@@ -2,13 +2,14 @@
   "id": 169678709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"29.069214,41.050583,29.069214,41.050583",
     "geom:latitude":41.050583,
     "geom:longitude":29.069214,
     "iso:country":"TR",
+    "mz:hierarchy_label":1,
     "sg:address":"Istanbul Evleri Cayir Sk. No: 11 Bahcelievler",
     "sg:city":"Merkez",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169678709,
-    "wof:lastmodified":1449034274,
+    "wof:lastmodified":1466313404,
     "wof:name":"Step Reklam Ve Tanitim Hizmetleri San. Ve Tic. Ltd. Sti.",
     "wof:parent_id":85929501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [29.069214,41.050583,29.069214,41.050583],
+  "bbox": [
+    29.069214,
+    41.050583,
+    29.069214,
+    41.050583
+],
   "geometry": {"coordinates":[29.069214,41.050583],"type":"Point"}
 }
