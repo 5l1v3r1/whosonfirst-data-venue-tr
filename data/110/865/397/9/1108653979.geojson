@@ -1,0 +1,73 @@
+{
+  "id": 1108653979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0806789398,41.0054016113,29.0806789398,41.0054016113",
+    "geom:latitude":41.005402,
+    "geom:longitude":29.080679,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdag Cd. No:364/3 ?mraniye",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 335 3913",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xOhKZq4mFFhoystq68vaX_41.005402_29.080679@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068017,
+    "wof:geomhash":"ba0806df70181e4479d93d2a58ce72a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108653979
+        }
+    ],
+    "wof:id":1108653979,
+    "wof:lastmodified":1474068017,
+    "wof:name":"Teknik Metal Al?minyum San.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0806789398,
+    41.0054016113,
+    29.0806789398,
+    41.0054016113
+],
+  "geometry": {"coordinates":[29.0806789398,41.0054016113],"type":"Point"}
+}

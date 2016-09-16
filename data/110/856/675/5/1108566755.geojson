@@ -1,0 +1,71 @@
+{
+  "id": 1108566755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9066238403,41.0281181335,28.9066238403,41.0281181335",
+    "geom:latitude":41.028118,
+    "geom:longitude":28.906624,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Davutpasa Kisla Cd. Firin Yolu Sk. No:1 Topkapi",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 0270",
+    "sg:postcode":"34873",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906455,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wkp2mFaHAc0VFJKrfmRyZ_41.028118_28.906624@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064317,
+    "wof:geomhash":"c0917a778ca48d8fce5a445b26202932",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906455,
+            "region_id":85679237,
+            "venue_id":1108566755
+        }
+    ],
+    "wof:id":1108566755,
+    "wof:lastmodified":1474064317,
+    "wof:name":"Camis Makina Kalip San. A.s.",
+    "wof:parent_id":85906455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9066238403,
+    41.0281181335,
+    28.9066238403,
+    41.0281181335
+],
+  "geometry": {"coordinates":[28.9066238403,41.0281181335],"type":"Point"}
+}

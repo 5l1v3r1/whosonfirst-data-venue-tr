@@ -1,0 +1,69 @@
+{
+  "id": 1108588453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9759254456,41.0123786926,28.9759254456,41.0123786926",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akdeniz Cad. H?revpasa Sk. No:5",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 524 5582",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k5VnzL87HHCstQV9ue2TI_41.012379_28.975925@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065215,
+    "wof:geomhash":"743596832af60dedce9b7c7fac0e2363",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108588453
+        }
+    ],
+    "wof:id":1108588453,
+    "wof:lastmodified":1474065215,
+    "wof:name":"G?rler Giyim",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9759254456,
+    41.0123786926,
+    28.9759254456,
+    41.0123786926
+],
+  "geometry": {"coordinates":[28.9759254456,41.0123786926],"type":"Point"}
+}

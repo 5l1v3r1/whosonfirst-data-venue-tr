@@ -1,0 +1,72 @@
+{
+  "id": 1108669631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0551166534,41.1244010925,29.0551166534,41.1244010925",
+    "geom:latitude":41.124401,
+    "geom:longitude":29.055117,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Mithat Efendi Cad Dogu Apt 6/1",
+    "sg:city":"Kalamis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 449 0125",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        102191569,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zSwoLKav6GwAEvN67TI3t_41.124401_29.055117@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068631,
+    "wof:geomhash":"39f6d506e09cc0bf5a3aba61b3813e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":1108669631
+        }
+    ],
+    "wof:id":1108669631,
+    "wof:lastmodified":1474068631,
+    "wof:name":"Senexpo Fuar Ve Sergi Hizmetleri A.s",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    29.0551166534,
+    41.1244010925,
+    29.0551166534,
+    41.1244010925
+],
+  "geometry": {"coordinates":[29.0551166534,41.1244010925],"type":"Point"}
+}

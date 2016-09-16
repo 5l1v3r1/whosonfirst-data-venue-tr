@@ -1,0 +1,68 @@
+{
+  "id": 1108573689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.859539032,39.9122085571,32.859539032,39.9122085571",
+    "geom:latitude":39.912209,
+    "geom:longitude":32.859539,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esat Cd. No:37/8",
+    "sg:city":"K??esat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 1001",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0orJ7qNgodyhDxVvZoB0Tk_39.912209_32.859539@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064612,
+    "wof:geomhash":"dee0fdb77110ab05cd72f4f866c35bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108573689
+        }
+    ],
+    "wof:id":1108573689,
+    "wof:lastmodified":1474064612,
+    "wof:name":"Forte Cam End?stri Ith. Ihr. Tic. Ltd. Sti.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    32.859539032,
+    39.9122085571,
+    32.859539032,
+    39.9122085571
+],
+  "geometry": {"coordinates":[32.859539032,39.9122085571],"type":"Point"}
+}

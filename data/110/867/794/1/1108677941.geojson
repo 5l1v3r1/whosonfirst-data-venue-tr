@@ -1,0 +1,72 @@
+{
+  "id": 1108677941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0550556183,40.9739837646,29.0550556183,40.9739837646",
+    "geom:latitude":40.973984,
+    "geom:longitude":29.055056,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:225 D:6 Kadik?",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 355 1173",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u6Iyn51rWBEXy9jj36xWW_40.973984_29.055056@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068958,
+    "wof:geomhash":"69ab0c00a24894052ff89a3812b1f1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108677941
+        }
+    ],
+    "wof:id":1108677941,
+    "wof:lastmodified":1474068958,
+    "wof:name":"Pathfinder Vakfi Irtibat Buro.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0550556183,
+    40.9739837646,
+    29.0550556183,
+    40.9739837646
+],
+  "geometry": {"coordinates":[29.0550556183,40.9739837646],"type":"Point"}
+}

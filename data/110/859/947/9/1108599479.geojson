@@ -1,0 +1,75 @@
+{
+  "id": 1108599479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7236747742,41.0062522888,39.7236747742,41.0062522888",
+    "geom:latitude":41.006252,
+    "geom:longitude":39.723675,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Y.s.s 34.carsi No:64",
+    "sg:city":"Sorgun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 344 236 2300",
+    "sg:postcode":"66700",
+    "sg:province":"Kahramanmaras",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CGKb2dbdEIRcYRHEidvtI_41.006252_39.723675@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065612,
+    "wof:geomhash":"cd08475379eb261eff2cc9e18dae94ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108599479
+        }
+    ],
+    "wof:id":1108599479,
+    "wof:lastmodified":1474065612,
+    "wof:name":"Fountain Gaz Sistemleri",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    39.7236747742,
+    41.0062522888,
+    39.7236747742,
+    41.0062522888
+],
+  "geometry": {"coordinates":[39.7236747742,41.0062522888],"type":"Point"}
+}

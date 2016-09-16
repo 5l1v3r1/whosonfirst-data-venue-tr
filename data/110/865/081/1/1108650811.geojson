@@ -1,0 +1,68 @@
+{
+  "id": 1108650811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1450805664,38.438419342,27.1450805664,38.438419342",
+    "geom:latitude":38.438419,
+    "geom:longitude":27.145081,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akdeniz Cad. No:1 Reyent Ish. No:704 Alsancak",
+    "sg:city":"58010",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 484 2785",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zyY3ObHQskzpWltDKGFwX_38.438419_27.145081@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067874,
+    "wof:geomhash":"0538f7814ddddeedd7d1b9dd67713ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108650811
+        }
+    ],
+    "wof:id":1108650811,
+    "wof:lastmodified":1474067874,
+    "wof:name":"Belmar Dis Tic. A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1450805664,
+    38.438419342,
+    27.1450805664,
+    38.438419342
+],
+  "geometry": {"coordinates":[27.1450805664,38.438419342],"type":"Point"}
+}

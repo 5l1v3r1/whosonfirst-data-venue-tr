@@ -1,0 +1,75 @@
+{
+  "id": 1108602925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9826793671,41.0357131958,28.9826793671,41.0357131958",
+    "geom:latitude":41.035713,
+    "geom:longitude":28.982679,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Caddesi 69/71",
+    "sg:city":"Harbiye",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 5050",
+    "sg:postcode":"31080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pdqefmMVsFfe0X5fbbqEf_41.035713_28.982679@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065752,
+    "wof:geomhash":"285b7acb5c3f061674272dd926b2ca9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":1108602925
+        }
+    ],
+    "wof:id":1108602925,
+    "wof:lastmodified":1474065752,
+    "wof:name":"Emirates Airlines",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9826793671,
+    41.0357131958,
+    28.9826793671,
+    41.0357131958
+],
+  "geometry": {"coordinates":[28.9826793671,41.0357131958],"type":"Point"}
+}

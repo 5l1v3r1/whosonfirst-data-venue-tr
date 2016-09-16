@@ -1,0 +1,68 @@
+{
+  "id": 1108676687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8942298889,39.9579582214,32.8942298889,39.9579582214",
+    "geom:latitude":39.957958,
+    "geom:longitude":32.89423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirhendek Cd. No:40/42 Siteler",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 9829",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p5t4Z9Jh45QDp7mWyvU1w_39.957958_32.894230@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068915,
+    "wof:geomhash":"f5f2386ccb8eb27879ffb3ff37e681b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676687
+        }
+    ],
+    "wof:id":1108676687,
+    "wof:lastmodified":1474068915,
+    "wof:name":"G?z?b?y?k Orman ?r?n. Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8942298889,
+    39.9579582214,
+    32.8942298889,
+    39.9579582214
+],
+  "geometry": {"coordinates":[32.8942298889,39.9579582214],"type":"Point"}
+}

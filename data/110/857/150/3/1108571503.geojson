@@ -1,0 +1,68 @@
+{
+  "id": 1108571503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9011554718,41.0516204834,28.9011554718,41.0516204834",
+    "geom:latitude":41.05162,
+    "geom:longitude":28.901155,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maltepe Yolu Onur Emintas San. Sit. No:66 Bayrampasa",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 501 8902",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fZEfhbK9FyTUBVJwPY2D2_41.051620_28.901155@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064515,
+    "wof:geomhash":"b4a43a9e6100609267ffb6f9095e7993",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108571503
+        }
+    ],
+    "wof:id":1108571503,
+    "wof:lastmodified":1474064515,
+    "wof:name":"Karaca Plastik San.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9011554718,
+    41.0516204834,
+    28.9011554718,
+    41.0516204834
+],
+  "geometry": {"coordinates":[28.9011554718,41.0516204834],"type":"Point"}
+}

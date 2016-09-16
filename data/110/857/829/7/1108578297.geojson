@@ -1,0 +1,69 @@
+{
+  "id": 1108578297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8703384399,39.9718856812,32.8703384399,39.9718856812",
+    "geom:latitude":39.971886,
+    "geom:longitude":32.870338,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ayvalik Cd. No: 157/b Etlik",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 326 9545",
+    "sg:postcode":"41000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929613,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lu2KOHV79CdR5hcGsGFt6_39.971886_32.870338@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064883,
+    "wof:geomhash":"6d049098a588cc72fa26dcbd87b02b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929613,
+            "region_id":85679409,
+            "venue_id":1108578297
+        }
+    ],
+    "wof:id":1108578297,
+    "wof:lastmodified":1474064883,
+    "wof:name":"Kaymakoglu Ltd.",
+    "wof:parent_id":85929613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    32.8703384399,
+    39.9718856812,
+    32.8703384399,
+    39.9718856812
+],
+  "geometry": {"coordinates":[32.8703384399,39.9718856812],"type":"Point"}
+}

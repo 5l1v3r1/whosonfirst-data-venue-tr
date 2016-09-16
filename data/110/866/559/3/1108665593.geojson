@@ -1,0 +1,71 @@
+{
+  "id": 1108665593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.3715019226,40.8925857544,29.3715019226,40.8925857544",
+    "geom:latitude":40.892586,
+    "geom:longitude":29.371502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Asfalti Yan Yol No:23 Pendik",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 396 3264",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929819,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iC0BsyPgOcGZma2uZccFl_40.892586_29.371502@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068471,
+    "wof:geomhash":"fa9d0e9bf781ad0dfe3046f5332de2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929819,
+            "region_id":85679241,
+            "venue_id":1108665593
+        }
+    ],
+    "wof:id":1108665593,
+    "wof:lastmodified":1474068471,
+    "wof:name":"Barlas Makine End?st. Tic. A.s.",
+    "wof:parent_id":85929819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    29.3715019226,
+    40.8925857544,
+    29.3715019226,
+    40.8925857544
+],
+  "geometry": {"coordinates":[29.3715019226,40.8925857544],"type":"Point"}
+}

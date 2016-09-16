@@ -1,0 +1,74 @@
+{
+  "id": 1108605297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1316184998,40.9320793152,29.1316184998,40.9320793152",
+    "geom:latitude":40.932079,
+    "geom:longitude":29.131618,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kiraz Sk. No.3",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 2587",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929949,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27HvSJjPbtKG9hN0Pwam6h_40.932079_29.131618@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065856,
+    "wof:geomhash":"7ab8f907230da222495e4e566f6ca129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929949,
+            "region_id":85679237,
+            "venue_id":1108605297
+        }
+    ],
+    "wof:id":1108605297,
+    "wof:lastmodified":1474065856,
+    "wof:name":"Delta Moda Tekstil A.s.",
+    "wof:parent_id":85929949,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1316184998,
+    40.9320793152,
+    29.1316184998,
+    40.9320793152
+],
+  "geometry": {"coordinates":[29.1316184998,40.9320793152],"type":"Point"}
+}

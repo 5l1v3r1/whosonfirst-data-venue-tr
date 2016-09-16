@@ -1,0 +1,68 @@
+{
+  "id": 1108663181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8568954468,39.9191665649,32.8568954468,39.9191665649",
+    "geom:latitude":39.919167,
+    "geom:longitude":32.856895,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Cd. No:27/b Kizilay",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 1756",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U2sVAE0bI7TTGiXHpOYvI_39.919167_32.856895@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068372,
+    "wof:geomhash":"2952317a50f1c838585ddd3ea08737c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108663181
+        }
+    ],
+    "wof:id":1108663181,
+    "wof:lastmodified":1474068372,
+    "wof:name":"Firat Color",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    32.8568954468,
+    39.9191665649,
+    32.8568954468,
+    39.9191665649
+],
+  "geometry": {"coordinates":[32.8568954468,39.9191665649],"type":"Point"}
+}

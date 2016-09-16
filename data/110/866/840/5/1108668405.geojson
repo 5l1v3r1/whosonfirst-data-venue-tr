@@ -1,0 +1,74 @@
+{
+  "id": 1108668405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0907649994,40.9824028015,29.0907649994,40.9824028015",
+    "geom:latitude":40.982403,
+    "geom:longitude":29.090765,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad. Cebesoy Sk. 65/1 Sahrayicedit",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67iPbnmOFcpRtQfsUSIq2y_40.982403_29.090765@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068584,
+    "wof:geomhash":"619e92569d0e72755667f542d080ded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":1108668405
+        }
+    ],
+    "wof:id":1108668405,
+    "wof:lastmodified":1474068584,
+    "wof:name":"Teknoset Ltd.",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.0907649994,
+    40.9824028015,
+    29.0907649994,
+    40.9824028015
+],
+  "geometry": {"coordinates":[29.0907649994,40.9824028015],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108588191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9697971344,41.0111541748,28.9697971344,41.0111541748",
+    "geom:latitude":41.011154,
+    "geom:longitude":28.969797,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?akmakcilar Yokusu No:19/a",
+    "sg:city":"Mercan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212527994352",
+    "sg:postcode":"12600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yv7q92DbHmsbFXcfHOzcP_41.011154_28.969797@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065209,
+    "wof:geomhash":"aae02f801735174c06cd01ca2e61330f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108588191
+        }
+    ],
+    "wof:id":1108588191,
+    "wof:lastmodified":1474065209,
+    "wof:name":"Cross Esarp",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9697971344,
+    41.0111541748,
+    28.9697971344,
+    41.0111541748
+],
+  "geometry": {"coordinates":[28.9697971344,41.0111541748],"type":"Point"}
+}

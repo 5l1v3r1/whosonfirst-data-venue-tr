@@ -1,0 +1,75 @@
+{
+  "id": 1108588081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9913024902,41.0543441772,28.9913024902,41.0543441772",
+    "geom:latitude":41.054344,
+    "geom:longitude":28.991302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rumeli Cad. Baytar Ahmet Sk. No:38/1",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 5961",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPVmVeNEaRDLzcZpEijCk_41.054344_28.991302@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065207,
+    "wof:geomhash":"8bbd0ea093f3c4ccded2c612d260e533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108588081
+        }
+    ],
+    "wof:id":1108588081,
+    "wof:lastmodified":1474065207,
+    "wof:name":"Baranok Creation",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9913024902,
+    41.0543441772,
+    28.9913024902,
+    41.0543441772
+],
+  "geometry": {"coordinates":[28.9913024902,41.0543441772],"type":"Point"}
+}

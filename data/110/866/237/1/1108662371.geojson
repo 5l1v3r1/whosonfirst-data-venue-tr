@@ -1,0 +1,68 @@
+{
+  "id": 1108662371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9998893738,41.0834999084,28.9998893738,41.0834999084",
+    "geom:latitude":41.0835,
+    "geom:longitude":28.999889,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahmut Sevketpasa Cd. No:1 Celiktepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 4400",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EiTzcGV2h45IUCsxQtubF_41.083500_28.999889@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068340,
+    "wof:geomhash":"fb78c62e74322019f93cce567d6a941d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108662371
+        }
+    ],
+    "wof:id":1108662371,
+    "wof:lastmodified":1474068340,
+    "wof:name":"Celiktepe Petrol",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9998893738,
+    41.0834999084,
+    28.9998893738,
+    41.0834999084
+],
+  "geometry": {"coordinates":[28.9998893738,41.0834999084],"type":"Point"}
+}

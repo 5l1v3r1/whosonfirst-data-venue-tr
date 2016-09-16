@@ -1,0 +1,72 @@
+{
+  "id": 1108621273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8532714844,39.929309845,32.8532714844,39.929309845",
+    "geom:latitude":39.92931,
+    "geom:longitude":32.853271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari 149",
+    "sg:city":"Ankara",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 7700",
+    "sg:postcode":"63570",
+    "sg:province":"Tr-06640",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "sg:website":"www.tobb.org.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SJ6IxJlQ5VbbKenxkuS8f_39.929310_32.853271@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066520,
+    "wof:geomhash":"4d45afe5f69f59f5d3975b551dadad9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108621273
+        }
+    ],
+    "wof:id":1108621273,
+    "wof:lastmodified":1474066520,
+    "wof:name":"Turkey, Union Of Chambers Of Commerce, Industry, Maritime Trade And Commodity Exchange",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    32.8532714844,
+    39.929309845,
+    32.8532714844,
+    39.929309845
+],
+  "geometry": {"coordinates":[32.8532714844,39.929309845],"type":"Point"}
+}

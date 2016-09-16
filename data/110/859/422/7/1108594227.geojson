@@ -1,0 +1,71 @@
+{
+  "id": 1108594227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8634529114,39.9018287659,32.8634529114,39.9018287659",
+    "geom:latitude":39.901829,
+    "geom:longitude":32.863453,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tahran Cad. No:9/2 Kavaklidere",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 8210",
+    "sg:postcode":"16220",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m5g4q2Of0Zfm3kXMcCfGe_39.901829_32.863453@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065392,
+    "wof:geomhash":"307684f7d72ec244859719c14aa3901c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108594227
+        }
+    ],
+    "wof:id":1108594227,
+    "wof:lastmodified":1474065392,
+    "wof:name":"Best Elekt. Analitik Ltd. Sti.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8634529114,
+    39.9018287659,
+    32.8634529114,
+    39.9018287659
+],
+  "geometry": {"coordinates":[32.8634529114,39.9018287659],"type":"Point"}
+}

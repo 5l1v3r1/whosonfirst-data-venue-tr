@@ -1,0 +1,71 @@
+{
+  "id": 1108603993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8894958496,39.9653701782,32.8894958496,39.9653701782",
+    "geom:latitude":39.96537,
+    "geom:longitude":32.889496,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hurma Sok.no:2/b-1 Siteler",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 353 3492",
+    "sg:postcode":"41400",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "aluminium",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zsO7hzZC84IUavR58vWDy_39.965370_32.889496@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065794,
+    "wof:geomhash":"6818ebab0cd44e9e045ee74cc142734f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108603993
+        }
+    ],
+    "wof:id":1108603993,
+    "wof:lastmodified":1474065794,
+    "wof:name":"Alter Alumy.san.tic.ltd.sti.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8894958496,
+    39.9653701782,
+    32.8894958496,
+    39.9653701782
+],
+  "geometry": {"coordinates":[32.8894958496,39.9653701782],"type":"Point"}
+}

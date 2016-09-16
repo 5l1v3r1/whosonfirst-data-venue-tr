@@ -1,0 +1,68 @@
+{
+  "id": 1108675921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8684310913,39.8968734741,32.8684310913,39.8968734741",
+    "geom:latitude":39.896873,
+    "geom:longitude":32.868431,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nenehatun Cd.no.83 G.o.p.",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 1180",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Q4DxYYZCn2wykilsHMKy_39.896873_32.868431@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068889,
+    "wof:geomhash":"2d6ceff903b4dcf406f100dee9f05d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108675921
+        }
+    ],
+    "wof:id":1108675921,
+    "wof:lastmodified":1474068889,
+    "wof:name":"Avustralya B?y?kel?iligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8684310913,
+    39.8968734741,
+    32.8684310913,
+    39.8968734741
+],
+  "geometry": {"coordinates":[32.8684310913,39.8968734741],"type":"Point"}
+}

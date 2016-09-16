@@ -1,0 +1,68 @@
+{
+  "id": 1108663143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3194313049,37.0025215149,35.3194313049,37.0025215149",
+    "geom:latitude":37.002522,
+    "geom:longitude":35.319431,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziyapasa Bulvari 38/2",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 453 4349",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jUdigp9FXvKkfALWtr80U_37.002522_35.319431@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068371,
+    "wof:geomhash":"ef303577c88408f853467a11cd9ff8e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108663143
+        }
+    ],
+    "wof:id":1108663143,
+    "wof:lastmodified":1474068371,
+    "wof:name":"Color 82",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    35.3194313049,
+    37.0025215149,
+    35.3194313049,
+    37.0025215149
+],
+  "geometry": {"coordinates":[35.3194313049,37.0025215149],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108577829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1448841095,40.9156837463,29.1448841095,40.9156837463",
+    "geom:latitude":40.915684,
+    "geom:longitude":29.144884,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eksioglu Plaza Maltepe",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 457 8872",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AqFydv41RP8RrMm4Kz6bt_40.915684_29.144884@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064844,
+    "wof:geomhash":"db04bce70a777dbd705ac917f3c0ff96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108577829
+        }
+    ],
+    "wof:id":1108577829,
+    "wof:lastmodified":1474064844,
+    "wof:name":"Ofis D?nyasi Kirtasiye Malz. Mobilya Ve Dek. San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.1448841095,
+    40.9156837463,
+    29.1448841095,
+    40.9156837463
+],
+  "geometry": {"coordinates":[29.1448841095,40.9156837463],"type":"Point"}
+}

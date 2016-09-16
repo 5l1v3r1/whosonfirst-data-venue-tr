@@ -1,0 +1,73 @@
+{
+  "id": 1108573377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0714302063,41.0473861694,29.0714302063,41.0473861694",
+    "geom:latitude":41.047386,
+    "geom:longitude":29.07143,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cengiz Topel Sk. No:14",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 377 0099",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929501,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPtJsl6zfhZrot29TJD63_41.047386_29.071430@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064594,
+    "wof:geomhash":"c17696e7264e68de40b16eece5cfdd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237,
+            "venue_id":1108573377
+        }
+    ],
+    "wof:id":1108573377,
+    "wof:lastmodified":1474064594,
+    "wof:name":"Anadolu Cam San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0714302063,
+    41.0473861694,
+    29.0714302063,
+    41.0473861694
+],
+  "geometry": {"coordinates":[29.0714302063,41.0473861694],"type":"Point"}
+}

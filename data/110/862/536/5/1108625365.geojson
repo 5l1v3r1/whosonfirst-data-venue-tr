@@ -1,0 +1,68 @@
+{
+  "id": 1108625365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1313705444,38.4215011597,27.1313705444,38.4215011597",
+    "geom:latitude":38.421501,
+    "geom:longitude":27.131371,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sehit Fethi Bey Cad.no:86",
+    "sg:city":"F.altay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 1538",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cigarette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RZD3MQQIJ4Ju3iPZCsS87_38.421501_27.131371@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066673,
+    "wof:geomhash":"84e9416cb6fedb18c8105ba7991b32c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108625365
+        }
+    ],
+    "wof:id":1108625365,
+    "wof:lastmodified":1474066673,
+    "wof:name":"Austro T?rk Tutun A.s",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette"
+    ]
+},
+  "bbox": [
+    27.1313705444,
+    38.4215011597,
+    27.1313705444,
+    38.4215011597
+],
+  "geometry": {"coordinates":[27.1313705444,38.4215011597],"type":"Point"}
+}

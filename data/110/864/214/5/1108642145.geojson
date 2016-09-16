@@ -1,0 +1,66 @@
+{
+  "id": 1108642145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.950674057,41.0074806213,28.950674057,41.0074806213",
+    "geom:latitude":41.007481,
+    "geom:longitude":28.950674,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tiryaki Hasanpasa Cad.no:55 Aksaray",
+    "sg:city":"Nil?fer",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 632 1639",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TLN8FBneM4HzI6KS8Ibpr_41.007481_28.950674@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067499,
+    "wof:geomhash":"e49a45489e919a72e92d33647904fc7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108642145
+        }
+    ],
+    "wof:id":1108642145,
+    "wof:lastmodified":1474067499,
+    "wof:name":"Balkan Otomotiv A.s.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    28.950674057,
+    41.0074806213,
+    28.950674057,
+    41.0074806213
+],
+  "geometry": {"coordinates":[28.950674057,41.0074806213],"type":"Point"}
+}

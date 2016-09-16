@@ -1,0 +1,71 @@
+{
+  "id": 1108602377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9464225769,41.0337715149,28.9464225769,41.0337715149",
+    "geom:latitude":41.033772,
+    "geom:longitude":28.946423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Leblebiciler Sk. No:22",
+    "sg:city":"Balat",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 524 7212",
+    "sg:postcode":"09270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906523,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NzNsmtNAiejhmnCUujEub_41.033772_28.946423@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065731,
+    "wof:geomhash":"169c969f3453c49c1ed144339f7c1673",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906523,
+            "region_id":85679237,
+            "venue_id":1108602377
+        }
+    ],
+    "wof:id":1108602377,
+    "wof:lastmodified":1474065731,
+    "wof:name":"Meltem Havalandirma Isi.",
+    "wof:parent_id":85906523,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9464225769,
+    41.0337715149,
+    28.9464225769,
+    41.0337715149
+],
+  "geometry": {"coordinates":[28.9464225769,41.0337715149],"type":"Point"}
+}

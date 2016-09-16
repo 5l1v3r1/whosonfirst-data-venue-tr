@@ -1,0 +1,73 @@
+{
+  "id": 1108582657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9952659607,41.067855835,28.9952659607,41.067855835",
+    "geom:latitude":41.067856,
+    "geom:longitude":28.995266,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"E. Osmanli Sk. No:15/7 Mecidiyek?",
+    "sg:city":"Antakya",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 3174",
+    "sg:postcode":"31000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nSQ4fjLFqHPNW5WdhIRN_41.067856_28.995266@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065077,
+    "wof:geomhash":"cdbb3840eec3887a392944ccb6ef3721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108582657
+        }
+    ],
+    "wof:id":1108582657,
+    "wof:lastmodified":1474065077,
+    "wof:name":"Saber ?zel Egitim Hizm. Ltd. Sti.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    28.9952659607,
+    41.067855835,
+    28.9952659607,
+    41.067855835
+],
+  "geometry": {"coordinates":[28.9952659607,41.067855835],"type":"Point"}
+}

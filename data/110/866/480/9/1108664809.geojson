@@ -1,0 +1,64 @@
+{
+  "id": 1108664809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1032886505,38.4652633667,27.1032886505,38.4652633667",
+    "geom:latitude":38.465263,
+    "geom:longitude":27.103289,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"6007 Sokak No:40/a Karsiyaka 35560",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 323 2784",
+    "sg:postcode":"06640",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GJ5THr3G4YbIf0emckkLC_38.465263_27.103289@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068436,
+    "wof:geomhash":"113d5946bd0a4ed71ee11cd395bad24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108664809
+        }
+    ],
+    "wof:id":1108664809,
+    "wof:lastmodified":1474068436,
+    "wof:name":"Ramo Insaat Tesisat San",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1032886505,
+    38.4652633667,
+    27.1032886505,
+    38.4652633667
+],
+  "geometry": {"coordinates":[27.1032886505,38.4652633667],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108573087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.497127533,37.8698692322,32.497127533,37.8698692322",
+    "geom:latitude":37.869869,
+    "geom:longitude":32.497128,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mevlana Cad. Altin Carsi P/61",
+    "sg:city":"Bodrum",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 351 1113",
+    "sg:postcode":"48400",
+    "sg:province":"Konya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27vet95r4q9ttUkImrg2hz_37.869869_32.497128@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064584,
+    "wof:geomhash":"db2950db9b2eb1153e6debc829af6c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108573087
+        }
+    ],
+    "wof:id":1108573087,
+    "wof:lastmodified":1474064584,
+    "wof:name":"Kontursan Turistik Esya",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.497127533,
+    37.8698692322,
+    32.497127533,
+    37.8698692322
+],
+  "geometry": {"coordinates":[32.497127533,37.8698692322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108580473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0498027802,41.0229682922,29.0498027802,41.0229682922",
+    "geom:latitude":41.022968,
+    "geom:longitude":29.049803,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kisikli Cad.no:113 Altunizade-uskudar",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 422 3038",
+    "sg:postcode":"16370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906613,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sqzA1XzhAm74i9eoJifKL_41.022968_29.049803@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065017,
+    "wof:geomhash":"4b9f5c8a83ad08d1c9e094e8836ba9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906613,
+            "region_id":85679237,
+            "venue_id":1108580473
+        }
+    ],
+    "wof:id":1108580473,
+    "wof:lastmodified":1474065017,
+    "wof:name":"Hyundai Ucar Plaza",
+    "wof:parent_id":85906613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0498027802,
+    41.0229682922,
+    29.0498027802,
+    41.0229682922
+],
+  "geometry": {"coordinates":[29.0498027802,41.0229682922],"type":"Point"}
+}

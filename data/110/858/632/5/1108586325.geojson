@@ -1,0 +1,68 @@
+{
+  "id": 1108586325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9602775574,41.0163879395,28.9602775574,41.0163879395",
+    "geom:latitude":41.016388,
+    "geom:longitude":28.960278,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vefa",
+    "sg:city":"K.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 4963",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906513,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nti5SwegzIqPW0leEJiaw_41.016388_28.960278@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065165,
+    "wof:geomhash":"3a63f984dba378694549674d62bc909c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906513,
+            "region_id":85679237,
+            "venue_id":1108586325
+        }
+    ],
+    "wof:id":1108586325,
+    "wof:lastmodified":1474065165,
+    "wof:name":"Efeli Textil",
+    "wof:parent_id":85906513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    28.9602775574,
+    41.0163879395,
+    28.9602775574,
+    41.0163879395
+],
+  "geometry": {"coordinates":[28.9602775574,41.0163879395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108575705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0169487,41.0574035645,29.0169487,41.0574035645",
+    "geom:latitude":41.057404,
+    "geom:longitude":29.016949,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bestekar Sevki Bey Sk. 38",
+    "sg:city":"Balmumcu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 9196",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929393,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54uHDuD9iU0WBJrD3ZJVdJ_41.057404_29.016949@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064689,
+    "wof:geomhash":"bb4150c9a1ad5ba496acb64824c170ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929393,
+            "region_id":85679237,
+            "venue_id":1108575705
+        }
+    ],
+    "wof:id":1108575705,
+    "wof:lastmodified":1474064689,
+    "wof:name":"Pirat Yat?lik A.s.",
+    "wof:parent_id":85929393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.0169487,
+    41.0574035645,
+    29.0169487,
+    41.0574035645
+],
+  "geometry": {"coordinates":[29.0169487,41.0574035645],"type":"Point"}
+}

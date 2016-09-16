@@ -1,0 +1,63 @@
+{
+  "id": 1108614379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8874492645,41.0075950623,28.8874492645,41.0075950623",
+    "geom:latitude":41.007595,
+    "geom:longitude":28.887449,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Kutsi Tecer Caddesi No:39 - G?g?en",
+    "sg:city":"16010",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 554 2214",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xY0Uqszh7IfKhbIq60y6z_41.007595_28.887449@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066248,
+    "wof:geomhash":"2636f4147700c1f8da89d644f1c7ed5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108614379
+        }
+    ],
+    "wof:id":1108614379,
+    "wof:lastmodified":1474066248,
+    "wof:name":"Merter Teshis Klinigi",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8874492645,
+    41.0075950623,
+    28.8874492645,
+    41.0075950623
+],
+  "geometry": {"coordinates":[28.8874492645,41.0075950623],"type":"Point"}
+}

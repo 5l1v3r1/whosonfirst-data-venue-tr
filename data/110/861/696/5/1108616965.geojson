@@ -1,0 +1,64 @@
+{
+  "id": 1108616965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3250198364,36.9854202271,35.3250198364,36.9854202271",
+    "geom:latitude":36.98542,
+    "geom:longitude":35.32502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtulus Mh. 304 Sk. No:35",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 338 6353",
+    "sg:postcode":"16220",
+    "sg:province":"Adana",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J8rgQyk53neTdMQtlWIqY_36.985420_35.325020@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066342,
+    "wof:geomhash":"ed6f0322023b157fe4e81754f2fcd080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108616965
+        }
+    ],
+    "wof:id":1108616965,
+    "wof:lastmodified":1474066342,
+    "wof:name":"Cukurova Cer. Ve Dog. Klin.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3250198364,
+    36.9854202271,
+    35.3250198364,
+    36.9854202271
+],
+  "geometry": {"coordinates":[35.3250198364,36.9854202271],"type":"Point"}
+}

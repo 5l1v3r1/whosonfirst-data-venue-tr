@@ -1,0 +1,68 @@
+{
+  "id": 1108665291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1497802734,38.4229354858,27.1497802734,38.4229354858",
+    "geom:latitude":38.422935,
+    "geom:longitude":27.14978,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gaziler Cad. 1251.sok. No.50",
+    "sg:city":"Kapilar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 1708",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MnrphNV1T0B08Bok04O0t_38.422935_27.149780@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068456,
+    "wof:geomhash":"64f8842e6b2e9d33b61f782724458785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108665291
+        }
+    ],
+    "wof:id":1108665291,
+    "wof:lastmodified":1474068456,
+    "wof:name":"Bedir Tavukculuk Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    27.1497802734,
+    38.4229354858,
+    27.1497802734,
+    38.4229354858
+],
+  "geometry": {"coordinates":[27.1497802734,38.4229354858],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108661087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.205373764,38.4562530518,27.205373764,38.4562530518",
+    "geom:latitude":38.456253,
+    "geom:longitude":27.205374,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Unuversite Cad. No:92 Bornova",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 435 6750",
+    "sg:postcode":"80260",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l4lxg3d4P0HtE5CTaF0Zw_38.456253_27.205374@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068292,
+    "wof:geomhash":"a193fc902e9563cf16304e67d71821e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108661087
+        }
+    ],
+    "wof:id":1108661087,
+    "wof:lastmodified":1474068292,
+    "wof:name":"Yilpar Ambalaj San.tic.a.s.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.205373764,
+    38.4562530518,
+    27.205373764,
+    38.4562530518
+],
+  "geometry": {"coordinates":[27.205373764,38.4562530518],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108601747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3327140808,36.9978294373,35.3327140808,36.9978294373",
+    "geom:latitude":36.997829,
+    "geom:longitude":35.332714,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fuzuli Cad. No:55/d",
+    "sg:city":"K??yali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 457 8212",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930275,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CuKc1SKUAEjsMYWKBtntW_36.997829_35.332714@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065708,
+    "wof:geomhash":"c2d1554a0253bc2619fd4afd4c8f5eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930275,
+            "region_id":85679443,
+            "venue_id":1108601747
+        }
+    ],
+    "wof:id":1108601747,
+    "wof:lastmodified":1474065708,
+    "wof:name":"Asroyal Iceberg A.s.",
+    "wof:parent_id":85930275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    35.3327140808,
+    36.9978294373,
+    35.3327140808,
+    36.9978294373
+],
+  "geometry": {"coordinates":[35.3327140808,36.9978294373],"type":"Point"}
+}

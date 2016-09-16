@@ -1,0 +1,75 @@
+{
+  "id": 1108595005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0220317841,40.9876708984,29.0220317841,40.9876708984",
+    "geom:latitude":40.987671,
+    "geom:longitude":29.022032,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kadikoy",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 8982",
+    "sg:postcode":"34430",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MrWr1a9QNfDQvvMZ0m19n_40.987671_29.022032@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065420,
+    "wof:geomhash":"72787b995da622f4d85eb04bee5dd42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":85679237,
+            "venue_id":1108595005
+        }
+    ],
+    "wof:id":1108595005,
+    "wof:lastmodified":1474065420,
+    "wof:name":"British English",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "language"
+    ]
+},
+  "bbox": [
+    29.0220317841,
+    40.9876708984,
+    29.0220317841,
+    40.9876708984
+],
+  "geometry": {"coordinates":[29.0220317841,40.9876708984],"type":"Point"}
+}

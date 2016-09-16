@@ -1,0 +1,68 @@
+{
+  "id": 1108671441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8617362976,39.9034843445,32.8617362976,39.9034843445",
+    "geom:latitude":39.903484,
+    "geom:longitude":32.861736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guniz Sk. No: 36/2 Kavaklidere",
+    "sg:city":"Ba?esehir",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 6764",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T9Xorb90bumLnThZkePQb_39.903484_32.861736@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068698,
+    "wof:geomhash":"86c4be82dd956411b40c21de506943de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108671441
+        }
+    ],
+    "wof:id":1108671441,
+    "wof:lastmodified":1474068698,
+    "wof:name":"Denge Patent Ofisi Danismanlik Ltd.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    32.8617362976,
+    39.9034843445,
+    32.8617362976,
+    39.9034843445
+],
+  "geometry": {"coordinates":[32.8617362976,39.9034843445],"type":"Point"}
+}

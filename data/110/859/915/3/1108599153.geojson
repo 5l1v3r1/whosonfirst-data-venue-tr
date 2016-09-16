@@ -1,0 +1,74 @@
+{
+  "id": 1108599153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9730491638,41.0264587402,28.9730491638,41.0264587402",
+    "geom:latitude":41.026459,
+    "geom:longitude":28.973049,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Ziya Pasa Cd. No:10",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 9259",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6avNeGUfbL0SO2LjLsERlO_41.026459_28.973049@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065595,
+    "wof:geomhash":"8e89426a5fcfc202c20ae700acf4705c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108599153
+        }
+    ],
+    "wof:id":1108599153,
+    "wof:lastmodified":1474065595,
+    "wof:name":"Olsas Aydinlatma Mam?l. Imal. Tic. Ltd. Sti.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9730491638,
+    41.0264587402,
+    28.9730491638,
+    41.0264587402
+],
+  "geometry": {"coordinates":[28.9730491638,41.0264587402],"type":"Point"}
+}

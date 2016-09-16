@@ -1,0 +1,71 @@
+{
+  "id": 1108660811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9120197296,41.0231323242,28.9120197296,41.0231323242",
+    "geom:latitude":41.023132,
+    "geom:longitude":28.91202,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fazilpasa Cd. No:9 Topkapi",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 7610",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B8TdxJr2u5hJfIEAEN5By_41.023132_28.912020@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068283,
+    "wof:geomhash":"f896c80828aa2fd78c1a84afa82f0829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108660811
+        }
+    ],
+    "wof:id":1108660811,
+    "wof:lastmodified":1474068283,
+    "wof:name":"Pri-pack Ambalaj San. Tic. A.s.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9120197296,
+    41.0231323242,
+    28.9120197296,
+    41.0231323242
+],
+  "geometry": {"coordinates":[28.9120197296,41.0231323242],"type":"Point"}
+}

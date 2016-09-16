@@ -1,0 +1,71 @@
+{
+  "id": 1108594519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8585090637,39.9264717102,32.8585090637,39.9264717102",
+    "geom:latitude":39.926472,
+    "geom:longitude":32.858509,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cad. Balikcioglu Ish. No:4/120 Sihhiye",
+    "sg:city":"Sihhiye",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 5377",
+    "sg:postcode":"06410",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23pEOkoTlioHXzdWNCnIVS_39.926472_32.858509@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065403,
+    "wof:geomhash":"787f38b61cde04e642504897682a7aa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108594519
+        }
+    ],
+    "wof:id":1108594519,
+    "wof:lastmodified":1474065403,
+    "wof:name":"Proses Tibbi Urn. San. Ltd. Sti.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8585090637,
+    39.9264717102,
+    32.8585090637,
+    39.9264717102
+],
+  "geometry": {"coordinates":[32.8585090637,39.9264717102],"type":"Point"}
+}

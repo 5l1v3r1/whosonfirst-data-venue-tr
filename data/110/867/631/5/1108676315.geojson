@@ -1,0 +1,69 @@
+{
+  "id": 1108676315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0823497772,38.3920249939,27.0823497772,38.3920249939",
+    "geom:latitude":38.392025,
+    "geom:longitude":27.08235,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"10010 Sokak No:5 ?igli",
+    "sg:city":"Sirinyer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 376 8170",
+    "sg:postcode":"35140",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B5dPKR7G8x3S3fP0H7awJ_38.392025_27.082350@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068903,
+    "wof:geomhash":"97ee14a739cfdc353f8205c0d0cf516b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108676315
+        }
+    ],
+    "wof:id":1108676315,
+    "wof:lastmodified":1474068903,
+    "wof:name":"Altinok Orman Urunleri Ltd.sti.",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    27.0823497772,
+    38.3920249939,
+    27.0823497772,
+    38.3920249939
+],
+  "geometry": {"coordinates":[27.0823497772,38.3920249939],"type":"Point"}
+}

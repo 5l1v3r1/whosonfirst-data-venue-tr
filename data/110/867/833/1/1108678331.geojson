@@ -1,0 +1,64 @@
+{
+  "id": 1108678331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1421928406,38.4345817566,27.1421928406,38.4345817566",
+    "geom:latitude":38.434582,
+    "geom:longitude":27.142193,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali Cetinkaya Bulvari No:53/5",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 7553",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AcMMffPFMh9SvOs8iw0Ry_38.434582_27.142193@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068976,
+    "wof:geomhash":"7b9410594f6751c18c9f3587c4d1b49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108678331
+        }
+    ],
+    "wof:id":1108678331,
+    "wof:lastmodified":1474068976,
+    "wof:name":"Acs Uluslararasi Tasimacilik Ve Tic.ltd.sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1421928406,
+    38.4345817566,
+    27.1421928406,
+    38.4345817566
+],
+  "geometry": {"coordinates":[27.1421928406,38.4345817566],"type":"Point"}
+}

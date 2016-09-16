@@ -1,0 +1,64 @@
+{
+  "id": 1108662405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8634338379,39.8992881775,32.8634338379,39.8992881775",
+    "geom:latitude":39.899288,
+    "geom:longitude":32.863434,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arjantin Cd. No:8/2 G.o.pasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 6808",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23VR64EpZ6PNjz5nmEdy5O_39.899288_32.863434@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068341,
+    "wof:geomhash":"08140c6d9ab8a8fc023bd53b6d7ee55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108662405
+        }
+    ],
+    "wof:id":1108662405,
+    "wof:lastmodified":1474068341,
+    "wof:name":"End?stri Teknik Ltd. Sti.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8634338379,
+    39.8992881775,
+    32.8634338379,
+    39.8992881775
+],
+  "geometry": {"coordinates":[32.8634338379,39.8992881775],"type":"Point"}
+}

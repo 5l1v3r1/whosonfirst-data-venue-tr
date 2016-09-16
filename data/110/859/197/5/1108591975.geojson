@@ -1,0 +1,69 @@
+{
+  "id": 1108591975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8459186554,41.0482940674,28.8459186554,41.0482940674",
+    "geom:latitude":41.048294,
+    "geom:longitude":28.845919,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yalcin Kores Cad. Fidan Sok. No:7",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21251574504745",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930169,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WcPEp3boAhnJ9HscbfsY2_41.048294_28.845919@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065309,
+    "wof:geomhash":"bd5dc3e23b8557223751144245980514",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930169,
+            "region_id":85679237,
+            "venue_id":1108591975
+        }
+    ],
+    "wof:id":1108591975,
+    "wof:lastmodified":1474065309,
+    "wof:name":"Erenteks Orme",
+    "wof:parent_id":85930169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8459186554,
+    41.0482940674,
+    28.8459186554,
+    41.0482940674
+],
+  "geometry": {"coordinates":[28.8459186554,41.0482940674],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108591545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.910369873,41.0230178833,28.910369873,41.0230178833",
+    "geom:latitude":41.023018,
+    "geom:longitude":28.91037,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumussuyu Cd. No:3 Topkapi",
+    "sg:city":"Yakutiye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 482 4220",
+    "sg:postcode":"25200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xIl47lOW0xUsvYU0BEwm2_41.023018_28.910370@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065292,
+    "wof:geomhash":"41bd080e1558e3a85dee10c580bf21d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108591545
+        }
+    ],
+    "wof:id":1108591545,
+    "wof:lastmodified":1474065292,
+    "wof:name":"Dalgic Necipmetaller San.tic.a.s.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.910369873,
+    41.0230178833,
+    28.910369873,
+    41.0230178833
+],
+  "geometry": {"coordinates":[28.910369873,41.0230178833],"type":"Point"}
+}

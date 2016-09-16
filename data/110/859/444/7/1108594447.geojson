@@ -1,0 +1,71 @@
+{
+  "id": 1108594447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4990272522,37.8715362549,32.4990272522,37.8715362549",
+    "geom:latitude":37.871536,
+    "geom:longitude":32.499027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Cad. Osmanbey Ish.",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 350 8616",
+    "sg:postcode":"34349",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RkheEmenSWvjj2xipDWcL_37.871536_32.499027@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065400,
+    "wof:geomhash":"6a13cb02e1898ae6323e9760394bae70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108594447
+        }
+    ],
+    "wof:id":1108594447,
+    "wof:lastmodified":1474065400,
+    "wof:name":"M.e.t. Medikal San. Ltd. Sti.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.4990272522,
+    37.8715362549,
+    32.4990272522,
+    37.8715362549
+],
+  "geometry": {"coordinates":[32.4990272522,37.8715362549],"type":"Point"}
+}

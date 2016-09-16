@@ -1,0 +1,73 @@
+{
+  "id": 1108570693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.985244751,41.0567512512,28.985244751,41.0567512512",
+    "geom:latitude":41.056751,
+    "geom:longitude":28.985245,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Silahsor Cad.no:47/10 Sisli",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 5066",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TRg5En4tz97JZzpp4kcUZ_41.056751_28.985245@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064485,
+    "wof:geomhash":"80358351ea923487bab97045f25dbb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108570693
+        }
+    ],
+    "wof:id":1108570693,
+    "wof:lastmodified":1474064485,
+    "wof:name":"Bm Plastik Ltd.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.985244751,
+    41.0567512512,
+    28.985244751,
+    41.0567512512
+],
+  "geometry": {"coordinates":[28.985244751,41.0567512512],"type":"Point"}
+}

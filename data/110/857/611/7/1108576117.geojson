@@ -1,0 +1,67 @@
+{
+  "id": 1108576117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1568450928,40.9183998108,29.1568450928,40.9183998108",
+    "geom:latitude":40.9184,
+    "geom:longitude":29.156845,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oya Sok. Yonca Apt. No:13/3",
+    "sg:city":"Mecidiyekoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 8384",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPhnsVEZeRfPGxthSEwV7_40.918400_29.156845@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064705,
+    "wof:geomhash":"30e56694835629352b6c3c5da6b959d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108576117
+        }
+    ],
+    "wof:id":1108576117,
+    "wof:lastmodified":1474064705,
+    "wof:name":"Elitemop",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    29.1568450928,
+    40.9183998108,
+    29.1568450928,
+    40.9183998108
+],
+  "geometry": {"coordinates":[29.1568450928,40.9183998108],"type":"Point"}
+}

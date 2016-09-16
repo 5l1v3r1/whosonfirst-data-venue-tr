@@ -1,0 +1,73 @@
+{
+  "id": 1108570629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0717945099,40.9627189636,29.0717945099,40.9627189636",
+    "geom:latitude":40.962719,
+    "geom:longitude":29.071795,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizilhan Sk. No:11 Emin?? Istanbul",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 3240",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c59QgxloFL19ByckOUj35_40.962719_29.071795@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064482,
+    "wof:geomhash":"4b89d1b59d159fd20e82d2e8f81c6ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108570629
+        }
+    ],
+    "wof:id":1108570629,
+    "wof:lastmodified":1474064482,
+    "wof:name":"Bereket Plastik San. Tic. A.s.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0717945099,
+    40.9627189636,
+    29.0717945099,
+    40.9627189636
+],
+  "geometry": {"coordinates":[29.0717945099,40.9627189636],"type":"Point"}
+}

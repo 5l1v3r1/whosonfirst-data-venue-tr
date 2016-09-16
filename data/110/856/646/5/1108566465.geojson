@@ -1,0 +1,70 @@
+{
+  "id": 1108566465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0041599274,41.0906181335,29.0041599274,41.0906181335",
+    "geom:latitude":41.090618,
+    "geom:longitude":29.00416,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah. Sultan Selim Cad. No:36 4.levent",
+    "sg:city":"Yilmazk?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 1173",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HdbmKhxsF4bPuNWsFt6Xp_41.090618_29.004160@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064306,
+    "wof:geomhash":"ca7e30316525134568722217b50046f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108566465
+        }
+    ],
+    "wof:id":1108566465,
+    "wof:lastmodified":1474064306,
+    "wof:name":"Aysan Civata Demir ?ekme San. Ve Tic. A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0041599274,
+    41.0906181335,
+    29.0041599274,
+    41.0906181335
+],
+  "geometry": {"coordinates":[29.0041599274,41.0906181335],"type":"Point"}
+}

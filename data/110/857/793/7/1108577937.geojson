@@ -1,0 +1,69 @@
+{
+  "id": 1108577937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9707317352,41.0070075989,28.9707317352,41.0070075989",
+    "geom:latitude":41.007008,
+    "geom:longitude":28.970732,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prof. Cemil B. Cd. No:24/6 Emin?? Istanbul",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 3174",
+    "sg:postcode":"01111",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906497,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FUrm5DeHsLhwWRAt4OPQr_41.007008_28.970732@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064862,
+    "wof:geomhash":"b4054d770b9f543604e95203a8aee33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906497,
+            "region_id":85679237,
+            "venue_id":1108577937
+        }
+    ],
+    "wof:id":1108577937,
+    "wof:lastmodified":1474064862,
+    "wof:name":"Senel Madeni Esya A.s.",
+    "wof:parent_id":85906497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9707317352,
+    41.0070075989,
+    28.9707317352,
+    41.0070075989
+],
+  "geometry": {"coordinates":[28.9707317352,41.0070075989],"type":"Point"}
+}

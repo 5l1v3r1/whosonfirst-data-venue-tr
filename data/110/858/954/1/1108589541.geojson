@@ -1,0 +1,71 @@
+{
+  "id": 1108589541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9200267792,41.0585212708,28.9200267792,41.0585212708",
+    "geom:latitude":41.058521,
+    "geom:longitude":28.920027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Postane Arkasi",
+    "sg:city":"Hendek",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 264 614 8283",
+    "sg:postcode":"54300",
+    "sg:province":"Sakarya",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16j08QORTLvsf6zBZhjXpj_41.058521_28.920027@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065241,
+    "wof:geomhash":"d083f0479d012fb75e42e02160d82c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108589541
+        }
+    ],
+    "wof:id":1108589541,
+    "wof:lastmodified":1474065241,
+    "wof:name":"Nurpak Temizlik Guvenlik Ve Gida San.tic.a.s",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    28.9200267792,
+    41.0585212708,
+    28.9200267792,
+    41.0585212708
+],
+  "geometry": {"coordinates":[28.9200267792,41.0585212708],"type":"Point"}
+}

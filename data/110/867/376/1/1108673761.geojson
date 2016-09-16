@@ -1,0 +1,71 @@
+{
+  "id": 1108673761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8967170715,40.9888191223,28.8967170715,40.9888191223",
+    "geom:latitude":40.988819,
+    "geom:longitude":28.896717,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sumer Mah.27/1 Sok. No:15",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 415 1310",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_570ZxkxhVWh1J2BonoQDPL_40.988819_28.896717@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068793,
+    "wof:geomhash":"e347d7dabd0bd04951b8331acb0e1e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108673761
+        }
+    ],
+    "wof:id":1108673761,
+    "wof:lastmodified":1474068793,
+    "wof:name":"Paprika Spices",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    28.8967170715,
+    40.9888191223,
+    28.8967170715,
+    40.9888191223
+],
+  "geometry": {"coordinates":[28.8967170715,40.9888191223],"type":"Point"}
+}

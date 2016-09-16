@@ -1,0 +1,73 @@
+{
+  "id": 1108651769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0393447876,40.9825897217,29.0393447876,40.9825897217",
+    "geom:latitude":40.98259,
+    "geom:longitude":29.039345,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rustuye Sok. 46/a 81030 Kalamis",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 3337",
+    "sg:postcode":"26000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mNdayKemHjQnW2bA5J99y_40.982590_29.039345@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067913,
+    "wof:geomhash":"2bd3934a218f092fd51c2fa6e6d983d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108651769
+        }
+    ],
+    "wof:id":1108651769,
+    "wof:lastmodified":1474067913,
+    "wof:name":"Sbs Dis Ticaret A.s.",
+    "wof:parent_id":85904115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.0393447876,
+    40.9825897217,
+    29.0393447876,
+    40.9825897217
+],
+  "geometry": {"coordinates":[29.0393447876,40.9825897217],"type":"Point"}
+}

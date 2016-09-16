@@ -1,0 +1,75 @@
+{
+  "id": 1108594307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1179828644,40.942276001,29.1179828644,40.942276001",
+    "geom:latitude":40.942276,
+    "geom:longitude":29.117983,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Idealtepe Mah.b?b? Sok.no:10/4",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 518 9732",
+    "sg:postcode":"34841",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WJzwJ2DIDmZWr5ShujrQW_40.942276_29.117983@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065395,
+    "wof:geomhash":"3233baf3be8f4b70d446a360bf5ac6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":1108594307
+        }
+    ],
+    "wof:id":1108594307,
+    "wof:lastmodified":1474065395,
+    "wof:name":"Egemen Medikal San.tic.ltd.sti",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.1179828644,
+    40.942276001,
+    29.1179828644,
+    40.942276001
+],
+  "geometry": {"coordinates":[29.1179828644,40.942276001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108609655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.021654129,41.1187210083,29.021654129,41.1187210083",
+    "geom:latitude":41.118721,
+    "geom:longitude":29.021654,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teknik Oto San. Sit. No:32",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 7024",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929945,
+        102191569,
+        85632393,
+        101912651,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LEEqx8Gne1EBnAPjrWiT2_41.118721_29.021654@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066061,
+    "wof:geomhash":"2d49a4e06feb3c6cb1b09ce9c0a7f6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912651,
+            "neighbourhood_id":85929945,
+            "region_id":85679237,
+            "venue_id":1108609655
+        }
+    ],
+    "wof:id":1108609655,
+    "wof:lastmodified":1474066061,
+    "wof:name":"Yasar Nakliyat Tic. Turizm San.",
+    "wof:parent_id":85929945,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.021654129,
+    41.1187210083,
+    29.021654129,
+    41.1187210083
+],
+  "geometry": {"coordinates":[29.021654129,41.1187210083],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108589577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9951686859,41.0993309021,28.9951686859,41.0993309021",
+    "geom:latitude":41.099331,
+    "geom:longitude":28.995169,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe Mah. Ibrahim Karaoglanoglu Caddesi : No 89",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 268 6761",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VpejaKdBLOjyaON4S1jhy_41.099331_28.995169@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065242,
+    "wof:geomhash":"4aa28c42fcba9d8130e878ea5a90591e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108589577
+        }
+    ],
+    "wof:id":1108589577,
+    "wof:lastmodified":1474065242,
+    "wof:name":"Polcam Fiberglass San.tic",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    28.9951686859,
+    41.0993309021,
+    28.9951686859,
+    41.0993309021
+],
+  "geometry": {"coordinates":[28.9951686859,41.0993309021],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1108624601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0326271057,41.0188064575,29.0326271057,41.0188064575",
+    "geom:latitude":41.018806,
+    "geom:longitude":29.032627,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nuhkuyusu Cad.no.155",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 7222",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving",
+        "narrow",
+        "-",
+        "label"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929383,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DQiLwc3N3PPM0quNzdIYg_41.018806_29.032627@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066646,
+    "wof:geomhash":"51b487aeaccd504031dd70686ed8a6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929383,
+            "region_id":85679237,
+            "venue_id":1108624601
+        }
+    ],
+    "wof:id":1108624601,
+    "wof:lastmodified":1474066646,
+    "wof:name":"Atik&grd Sanyou Hologram Ltd.sti.",
+    "wof:parent_id":85929383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving",
+        "narrow",
+        "-",
+        "label"
+    ]
+},
+  "bbox": [
+    29.0326271057,
+    41.0188064575,
+    29.0326271057,
+    41.0188064575
+],
+  "geometry": {"coordinates":[29.0326271057,41.0188064575],"type":"Point"}
+}

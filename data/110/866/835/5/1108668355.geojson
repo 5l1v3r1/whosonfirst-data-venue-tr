@@ -1,0 +1,75 @@
+{
+  "id": 1108668355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0362644196,41.1288032532,29.0362644196,41.1288032532",
+    "geom:latitude":41.128803,
+    "geom:longitude":29.036264,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cd. No:65 Maslak",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 276 1354",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        102191569,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AvzfPxe5qHz98FsVj83Tl_41.128803_29.036264@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068582,
+    "wof:geomhash":"3c8c671d9d2f8916df17d7ecd33eeaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":1108668355
+        }
+    ],
+    "wof:id":1108668355,
+    "wof:lastmodified":1474068582,
+    "wof:name":"Rotopak Matbaa Ambalaj San. Tic. A.s.",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.0362644196,
+    41.1288032532,
+    29.0362644196,
+    41.1288032532
+],
+  "geometry": {"coordinates":[29.0362644196,41.1288032532],"type":"Point"}
+}

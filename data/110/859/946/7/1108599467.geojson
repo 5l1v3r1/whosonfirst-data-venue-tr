@@ -1,0 +1,75 @@
+{
+  "id": 1108599467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0498905182,41.0003204346,29.0498905182,41.0003204346",
+    "geom:latitude":41.00032,
+    "geom:longitude":29.049891,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avsar Sok. No. 33 Kozyatagi",
+    "sg:city":"Sorgun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 8100",
+    "sg:postcode":"66700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kM9xcaZgaHFubOSmIhvwt_41.000320_29.049891@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065612,
+    "wof:geomhash":"cbd8e5ea0e80339c3973e22462f36808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108599467
+        }
+    ],
+    "wof:id":1108599467,
+    "wof:lastmodified":1474065612,
+    "wof:name":"Ekol Muhendislik Tek.ser .hiz.ltd.sti.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    29.0498905182,
+    41.0003204346,
+    29.0498905182,
+    41.0003204346
+],
+  "geometry": {"coordinates":[29.0498905182,41.0003204346],"type":"Point"}
+}

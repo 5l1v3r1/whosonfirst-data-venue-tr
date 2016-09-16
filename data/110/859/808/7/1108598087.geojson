@@ -1,0 +1,73 @@
+{
+  "id": 1108598087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7895679474,40.9892120361,28.7895679474,40.9892120361",
+    "geom:latitude":40.989212,
+    "geom:longitude":28.789568,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sulun Sok. No:5/2",
+    "sg:city":"Kucukyali",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 573 8285",
+    "sg:postcode":"35280",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vGDIMp7JfO1uc6Tt7mDgD_40.989212_28.789568@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065551,
+    "wof:geomhash":"fb01e55834508c121a2558c51c2f18f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108598087
+        }
+    ],
+    "wof:id":1108598087,
+    "wof:lastmodified":1474065551,
+    "wof:name":"Ozhisar Asansor",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.7895679474,
+    40.9892120361,
+    28.7895679474,
+    40.9892120361
+],
+  "geometry": {"coordinates":[28.7895679474,40.9892120361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108588703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9700717926,41.0140190125,28.9700717926,41.0140190125",
+    "geom:latitude":41.014019,
+    "geom:longitude":28.970072,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahmutpasa Cad. No:225",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 0110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bBI4mOfwp1ZgeCbt8JmHr_41.014019_28.970072@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065221,
+    "wof:geomhash":"9720ae55efc8859292f9e1d3ad73a072",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108588703
+        }
+    ],
+    "wof:id":1108588703,
+    "wof:lastmodified":1474065221,
+    "wof:name":"Minelli (esarplari) Pazarlama",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9700717926,
+    41.0140190125,
+    28.9700717926,
+    41.0140190125
+],
+  "geometry": {"coordinates":[28.9700717926,41.0140190125],"type":"Point"}
+}

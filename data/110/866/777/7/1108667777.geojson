@@ -1,0 +1,76 @@
+{
+  "id": 1108667777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
+    "geom:latitude":41.040855,
+    "geom:longitude":28.986183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turkcell Plaza, Mesrutiyet Cad. No. 153",
+    "sg:city":"Tepebasi",
+    "sg:classifiers":[
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 313 1888",
+    "sg:postcode":"Istanbu",
+    "sg:province":"80050",
+    "sg:tags":[
+        "large",
+        "private"
+    ],
+    "sg:website":"www.turkcell.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74lZLCMUzzZ0QHTgNA6tiU_41.040855_28.986183@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068551,
+    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108667777
+        }
+    ],
+    "wof:id":1108667777,
+    "wof:lastmodified":1474068551,
+    "wof:name":"Turkcell Iletisim Hizmetleri A.s.",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "large",
+        "private"
+    ]
+},
+  "bbox": [
+    28.9861831665,
+    41.0408554077,
+    28.9861831665,
+    41.0408554077
+],
+  "geometry": {"coordinates":[28.9861831665,41.0408554077],"type":"Point"}
+}

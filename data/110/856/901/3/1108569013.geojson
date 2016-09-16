@@ -1,0 +1,71 @@
+{
+  "id": 1108569013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1602458954,38.4686088562,27.1602458954,38.4686088562",
+    "geom:latitude":38.468609,
+    "geom:longitude":27.160246,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1657 .sok. No:9/4 Bayrakli",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 341 1933",
+    "sg:postcode":"52750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929643,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rfxs3kU4TumC0TVg44ClW_38.468609_27.160246@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064416,
+    "wof:geomhash":"21ab7ece98deca99dc10753805d89a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929643,
+            "region_id":85679201,
+            "venue_id":1108569013
+        }
+    ],
+    "wof:id":1108569013,
+    "wof:lastmodified":1474064416,
+    "wof:name":"Safak Makina Model Sanayii",
+    "wof:parent_id":85929643,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1602458954,
+    38.4686088562,
+    27.1602458954,
+    38.4686088562
+],
+  "geometry": {"coordinates":[27.1602458954,38.4686088562],"type":"Point"}
+}

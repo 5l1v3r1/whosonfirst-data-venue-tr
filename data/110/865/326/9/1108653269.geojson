@@ -1,0 +1,69 @@
+{
+  "id": 1108653269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9203586578,41.0598678589,28.9203586578,41.0598678589",
+    "geom:latitude":41.059868,
+    "geom:longitude":28.920359,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esen Sk. No.6 G?suyu Maltepe",
+    "sg:city":"Y?egir",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 376 7566",
+    "sg:postcode":"01180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlYGeGKhz2UxxZWG8Ol06_41.059868_28.920359@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067994,
+    "wof:geomhash":"976a5865d802db82227475765adf0ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108653269
+        }
+    ],
+    "wof:id":1108653269,
+    "wof:lastmodified":1474067994,
+    "wof:name":"Dost Metal San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9203586578,
+    41.0598678589,
+    28.9203586578,
+    41.0598678589
+],
+  "geometry": {"coordinates":[28.9203586578,41.0598678589],"type":"Point"}
+}

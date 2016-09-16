@@ -1,0 +1,73 @@
+{
+  "id": 1108672745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9883823395,41.0605239868,28.9883823395,41.0605239868",
+    "geom:latitude":41.060524,
+    "geom:longitude":28.988382,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Teyyareci Cemal Sok. No: 32/2 A",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 8094",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qSxRX0BAY0cAdpggpnMd2_41.060524_28.988382@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068744,
+    "wof:geomhash":"27dc52e5ace6888ad06e0b96481b7938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108672745
+        }
+    ],
+    "wof:id":1108672745,
+    "wof:lastmodified":1474068744,
+    "wof:name":"Areka ?i?ek?ilik Ve Organizasyon",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9883823395,
+    41.0605239868,
+    28.9883823395,
+    41.0605239868
+],
+  "geometry": {"coordinates":[28.9883823395,41.0605239868],"type":"Point"}
+}

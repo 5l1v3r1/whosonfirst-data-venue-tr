@@ -1,0 +1,71 @@
+{
+  "id": 1108589829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0988101959,38.4009361267,27.0988101959,38.4009361267",
+    "geom:latitude":38.400936,
+    "geom:longitude":27.09881,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inonu Cad. N2/b-",
+    "sg:city":"Uckuyular",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 224 7725",
+    "sg:postcode":"35140",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0skAQrj7vEzouvgXOPxuG4_38.400936_27.098810@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065247,
+    "wof:geomhash":"f527f039b12c020f4649cd393c588c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108589829
+        }
+    ],
+    "wof:id":1108589829,
+    "wof:lastmodified":1474065247,
+    "wof:name":"Ceylan Elektrik Cilingir",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    27.0988101959,
+    38.4009361267,
+    27.0988101959,
+    38.4009361267
+],
+  "geometry": {"coordinates":[27.0988101959,38.4009361267],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108588521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1580276489,41.0081443787,29.1580276489,41.0081443787",
+    "geom:latitude":41.008144,
+    "geom:longitude":29.158028,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bahtiyar Han K:7 No:113",
+    "sg:city":"Yesildirek",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212526638452",
+    "sg:postcode":"63200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WeyyhCm2SAZk9L762Pxei_41.008144_29.158028@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065216,
+    "wof:geomhash":"d2214cb6fe4f3530b8725f96fea9d584",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108588521
+        }
+    ],
+    "wof:id":1108588521,
+    "wof:lastmodified":1474065216,
+    "wof:name":"Ipekel Elisi Esarp",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1580276489,
+    41.0081443787,
+    29.1580276489,
+    41.0081443787
+],
+  "geometry": {"coordinates":[29.1580276489,41.0081443787],"type":"Point"}
+}

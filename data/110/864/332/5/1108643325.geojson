@@ -1,0 +1,73 @@
+{
+  "id": 1108643325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9823665619,41.0392837524,28.9823665619,41.0392837524",
+    "geom:latitude":41.039284,
+    "geom:longitude":28.982367,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Feridiye Cad. No:63",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2389966",
+    "sg:postcode":"80080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jtazy2KnnBvatQiuhtSCs_41.039284_28.982367@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067538,
+    "wof:geomhash":"bc7824a6b370dbae946bd4a15efde4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108643325
+        }
+    ],
+    "wof:id":1108643325,
+    "wof:lastmodified":1474067538,
+    "wof:name":"Sarko Kollektif Sti.",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    28.9823665619,
+    41.0392837524,
+    28.9823665619,
+    41.0392837524
+],
+  "geometry": {"coordinates":[28.9823665619,41.0392837524],"type":"Point"}
+}

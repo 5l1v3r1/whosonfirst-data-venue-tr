@@ -1,0 +1,73 @@
+{
+  "id": 1108573609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5157756805,39.774017334,30.5157756805,39.774017334",
+    "geom:latitude":39.774017,
+    "geom:longitude":30.515776,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Mah. Esen Sok. No:24",
+    "sg:city":"Pasabahce",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 1790",
+    "sg:postcode":"34800",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XdS8PrCg7BCkpNcKfipIC_39.774017_30.515776@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064608,
+    "wof:geomhash":"350d2bba0349d4d107dab2e1753ceb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108573609
+        }
+    ],
+    "wof:id":1108573609,
+    "wof:lastmodified":1474064608,
+    "wof:name":"Dogan Cam Koll.sti.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.5157756805,
+    39.774017334,
+    30.5157756805,
+    39.774017334
+],
+  "geometry": {"coordinates":[30.5157756805,39.774017334],"type":"Point"}
+}

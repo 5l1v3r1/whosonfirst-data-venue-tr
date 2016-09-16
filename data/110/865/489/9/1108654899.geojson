@@ -1,0 +1,70 @@
+{
+  "id": 1108654899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9076728821,41.0008544922,28.9076728821,41.0008544922",
+    "geom:latitude":41.000854,
+    "geom:longitude":28.907673,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"101. Sk. No:70 Zeytinburnu",
+    "sg:city":"Esenler . Atisalani",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 547 2373",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EQIySrH3xT6M93hCB8Nkm_41.000854_28.907673@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068055,
+    "wof:geomhash":"b7f9bff7f41b5fa26a7f6926760c5acf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108654899
+        }
+    ],
+    "wof:id":1108654899,
+    "wof:lastmodified":1474068055,
+    "wof:name":"3 As Madencilik",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9076728821,
+    41.0008544922,
+    28.9076728821,
+    41.0008544922
+],
+  "geometry": {"coordinates":[28.9076728821,41.0008544922],"type":"Point"}
+}

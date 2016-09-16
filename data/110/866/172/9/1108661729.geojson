@@ -1,0 +1,73 @@
+{
+  "id": 1108661729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9774951935,41.0555267334,28.9774951935,41.0555267334",
+    "geom:latitude":41.055527,
+    "geom:longitude":28.977495,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izzet Pasa Mah Vefa Poyraz Cad No:26/2",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 2838",
+    "sg:postcode":"34200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30fO30biXpNPc3n6NZhQdF_41.055527_28.977495@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068315,
+    "wof:geomhash":"18f48ca37e8b91f62648e0b243e1556d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108661729
+        }
+    ],
+    "wof:id":1108661729,
+    "wof:lastmodified":1474068315,
+    "wof:name":"Koza Ticaret",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.9774951935,
+    41.0555267334,
+    28.9774951935,
+    41.0555267334
+],
+  "geometry": {"coordinates":[28.9774951935,41.0555267334],"type":"Point"}
+}

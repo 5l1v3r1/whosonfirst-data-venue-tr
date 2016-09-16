@@ -1,0 +1,73 @@
+{
+  "id": 1108670665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5104045868,39.7797317505,30.5104045868,39.7797317505",
+    "geom:latitude":39.779732,
+    "geom:longitude":30.510405,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istasyon Cd. No:22/21",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 221 8434",
+    "sg:postcode":"36100",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934771,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8KKC8zzPDSit4zM5ZfL6_39.779732_30.510405@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068670,
+    "wof:geomhash":"c08ecbd7197f88e3e4d11486b82e3c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255,
+            "venue_id":1108670665
+        }
+    ],
+    "wof:id":1108670665,
+    "wof:lastmodified":1474068670,
+    "wof:name":"Park Radyo A.s.",
+    "wof:parent_id":85934771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    30.5104045868,
+    39.7797317505,
+    30.5104045868,
+    39.7797317505
+],
+  "geometry": {"coordinates":[30.5104045868,39.7797317505],"type":"Point"}
+}

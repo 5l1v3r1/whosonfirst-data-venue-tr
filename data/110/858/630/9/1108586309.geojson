@@ -1,0 +1,66 @@
+{
+  "id": 1108586309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2870330811,40.8698158264,29.2870330811,40.8698158264",
+    "geom:latitude":40.869816,
+    "geom:longitude":29.287033,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cad. Zeytin Sok. No:4",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 5450",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13yVVKlLmXrC4I1pF0bp91_40.869816_29.287033@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065165,
+    "wof:geomhash":"0e2b66ed77be9a2f1928497d9a6e251d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108586309
+        }
+    ],
+    "wof:id":1108586309,
+    "wof:lastmodified":1474065165,
+    "wof:name":"Donesar Tekstil San.tic.ltd.sti.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.2870330811,
+    40.8698158264,
+    29.2870330811,
+    40.8698158264
+],
+  "geometry": {"coordinates":[29.2870330811,40.8698158264],"type":"Point"}
+}

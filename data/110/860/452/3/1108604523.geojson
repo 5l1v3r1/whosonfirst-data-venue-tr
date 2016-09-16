@@ -1,0 +1,73 @@
+{
+  "id": 1108604523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8362617493,40.992477417,28.8362617493,40.992477417",
+    "geom:latitude":40.992477,
+    "geom:longitude":28.836262,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenibosna",
+    "sg:city":"Eyup",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 573 5808",
+    "sg:postcode":"60700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7avG7Q026o2W0K8vlRLTgp_40.992477_28.836262@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065819,
+    "wof:geomhash":"bd06b23fc61a844fa59723452ffc89ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108604523
+        }
+    ],
+    "wof:id":1108604523,
+    "wof:lastmodified":1474065819,
+    "wof:name":"Karem Gida Pazarlama Ltd.sti.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.8362617493,
+    40.992477417,
+    28.8362617493,
+    40.992477417
+],
+  "geometry": {"coordinates":[28.8362617493,40.992477417],"type":"Point"}
+}

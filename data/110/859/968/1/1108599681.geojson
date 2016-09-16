@@ -1,0 +1,68 @@
+{
+  "id": 1108599681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3137359619,37.0007171631,35.3137359619,37.0007171631",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtulus Cad. Buyuknacar Is Hani No:23 Kat:2",
+    "sg:city":"K?rfez",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 432 0849",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0467jK7M2qiOlsrOvpFrHd_37.000717_35.313736@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065620,
+    "wof:geomhash":"be1dc0b309ae7cabc26bf816a8deeda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108599681
+        }
+    ],
+    "wof:id":1108599681,
+    "wof:lastmodified":1474065620,
+    "wof:name":"Nur Ilaclama Makinalari Pazarlama Ltd.sti.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    35.3137359619,
+    37.0007171631,
+    35.3137359619,
+    37.0007171631
+],
+  "geometry": {"coordinates":[35.3137359619,37.0007171631],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108658679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.103143692,38.4759864807,27.103143692,38.4759864807",
+    "geom:latitude":38.475986,
+    "geom:longitude":27.103144,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anadolu Cad.1595 Sok.no: 225/401",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 361 4457",
+    "sg:postcode":"35600",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bn17zvzqH4cKG225HOwRJ_38.475986_27.103144@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068200,
+    "wof:geomhash":"57721aec5526d86161a4859c457d3c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108658679
+        }
+    ],
+    "wof:id":1108658679,
+    "wof:lastmodified":1474068200,
+    "wof:name":"Norm Havuzculuk",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    27.103143692,
+    38.4759864807,
+    27.103143692,
+    38.4759864807
+],
+  "geometry": {"coordinates":[27.103143692,38.4759864807],"type":"Point"}
+}

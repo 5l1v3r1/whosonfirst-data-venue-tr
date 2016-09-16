@@ -1,0 +1,77 @@
+{
+  "id": 1108598593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0540447235,41.0126953125,29.0540447235,41.0126953125",
+    "geom:latitude":41.012695,
+    "geom:longitude":29.054045,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Doganci Sok. No:7",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 0420",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sound",
+        "light",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtMYqTSjc15tKqy5LOr2k_41.012695_29.054045@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065570,
+    "wof:geomhash":"ba581134b26b77ee02c585ac2037954d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108598593
+        }
+    ],
+    "wof:id":1108598593,
+    "wof:lastmodified":1474065570,
+    "wof:name":"Ultima Gorsel-isitsel Iletisim Hizm.san.tic.ltd.sti.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "light",
+        "system"
+    ]
+},
+  "bbox": [
+    29.0540447235,
+    41.0126953125,
+    29.0540447235,
+    41.0126953125
+],
+  "geometry": {"coordinates":[29.0540447235,41.0126953125],"type":"Point"}
+}

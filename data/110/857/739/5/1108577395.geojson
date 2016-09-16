@@ -1,0 +1,73 @@
+{
+  "id": 1108577395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9809093475,41.0582809448,28.9809093475,41.0582809448",
+    "geom:latitude":41.058281,
+    "geom:longitude":28.980909,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bomonti, Birahane Sk. No.17/1 Sisli",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 247 2068",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UZzqs6Kjyl8zkuKE6g35k_41.058281_28.980909@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064799,
+    "wof:geomhash":"571e55f0d20b05b20d0f5c7c7ddc4ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108577395
+        }
+    ],
+    "wof:id":1108577395,
+    "wof:lastmodified":1474064799,
+    "wof:name":"Buromob San. Tic. A.s.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9809093475,
+    41.0582809448,
+    28.9809093475,
+    41.0582809448
+],
+  "geometry": {"coordinates":[28.9809093475,41.0582809448],"type":"Point"}
+}

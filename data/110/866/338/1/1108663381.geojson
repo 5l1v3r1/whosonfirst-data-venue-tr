@@ -1,0 +1,71 @@
+{
+  "id": 1108663381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9124908447,41.0461883545,28.9124908447,41.0461883545",
+    "geom:latitude":41.046188,
+    "geom:longitude":28.912491,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdi Ipek? Cad. No: 164 Bayrampasa",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 9990",
+    "sg:postcode":"34780",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pipe",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3faYLyFw0vm37qJPjCbiFA_41.046188_28.912491@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068380,
+    "wof:geomhash":"934c8aa3a81d35abecfcebfa3cbdfed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108663381
+        }
+    ],
+    "wof:id":1108663381,
+    "wof:lastmodified":1474068380,
+    "wof:name":"Borsas Boru Ve Sac San. Tic. A.s.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9124908447,
+    41.0461883545,
+    28.9124908447,
+    41.0461883545
+],
+  "geometry": {"coordinates":[28.9124908447,41.0461883545],"type":"Point"}
+}

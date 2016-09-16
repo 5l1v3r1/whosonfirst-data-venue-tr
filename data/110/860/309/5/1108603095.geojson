@@ -1,0 +1,69 @@
+{
+  "id": 1108603095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.944858551,41.0068321228,28.944858551,41.0068321228",
+    "geom:latitude":41.006832,
+    "geom:longitude":28.944859,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?akiraga Mah.namik Kemal Cad.no:2/203 (ender Magazasi,iski Yani)",
+    "sg:city":"Fatih/aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 586 3849",
+    "sg:postcode":"34096",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58vKfEN5kDKqwEyed8kfV0_41.006832_28.944859@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065759,
+    "wof:geomhash":"cca1655647d476c4f42c479622ab1dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108603095
+        }
+    ],
+    "wof:id":1108603095,
+    "wof:lastmodified":1474065759,
+    "wof:name":"Tedbir Elektronik G?enlik Sistemleri",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    28.944858551,
+    41.0068321228,
+    28.944858551,
+    41.0068321228
+],
+  "geometry": {"coordinates":[28.944858551,41.0068321228],"type":"Point"}
+}

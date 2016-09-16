@@ -1,0 +1,68 @@
+{
+  "id": 1108597513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9045886993,40.9893226624,28.9045886993,40.9893226624",
+    "geom:latitude":40.989323,
+    "geom:longitude":28.904589,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenidogan Mah. 50.sok. 9/1",
+    "sg:city":"Z.burnu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 510 3953",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gaMR9WRoADm7o56Fw3fAy_40.989323_28.904589@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065529,
+    "wof:geomhash":"b051b3b522850616ad3ddaac58224657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108597513
+        }
+    ],
+    "wof:id":1108597513,
+    "wof:lastmodified":1474065529,
+    "wof:name":"Beta Asans?r",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.9045886993,
+    40.9893226624,
+    28.9045886993,
+    40.9893226624
+],
+  "geometry": {"coordinates":[28.9045886993,40.9893226624],"type":"Point"}
+}

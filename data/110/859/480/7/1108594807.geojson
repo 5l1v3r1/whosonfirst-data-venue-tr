@@ -1,0 +1,72 @@
+{
+  "id": 1108594807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9794178009,41.036239624,28.9794178009,41.036239624",
+    "geom:latitude":41.03624,
+    "geom:longitude":28.979418,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarlabasi Bulvari 191/6",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 5184",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906551,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d07548HYAfgvWtpreB0vr_41.036240_28.979418@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065413,
+    "wof:geomhash":"fb18bf7d8e0bb8b94832720fb76d3f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906551,
+            "region_id":85679237,
+            "venue_id":1108594807
+        }
+    ],
+    "wof:id":1108594807,
+    "wof:lastmodified":1474065413,
+    "wof:name":"Kumsal Peyzaj",
+    "wof:parent_id":85906551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    28.9794178009,
+    41.036239624,
+    28.9794178009,
+    41.036239624
+],
+  "geometry": {"coordinates":[28.9794178009,41.036239624],"type":"Point"}
+}

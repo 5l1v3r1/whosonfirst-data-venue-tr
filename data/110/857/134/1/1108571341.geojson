@@ -1,0 +1,79 @@
+{
+  "id": 1108571341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9704647064,41.0333786011,28.9704647064,41.0333786011",
+    "geom:latitude":41.033379,
+    "geom:longitude":28.970465,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bashane Sk. No:8 Kasimpasa",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 3086",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906537,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85904111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KCOUKgpkHn4SpEeevIzAb_41.033379_28.970465@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064509,
+    "wof:geomhash":"d4dbe2012aad81ce86011581f5b54411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906537,
+            "region_id":85679237,
+            "venue_id":1108571341
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904111,
+            "region_id":85679237,
+            "venue_id":1108571341
+        }
+    ],
+    "wof:id":1108571341,
+    "wof:lastmodified":1474064509,
+    "wof:name":"H?r Plastik San.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9704647064,
+    41.0333786011,
+    28.9704647064,
+    41.0333786011
+],
+  "geometry": {"coordinates":[28.9704647064,41.0333786011],"type":"Point"}
+}

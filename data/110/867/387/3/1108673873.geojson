@@ -1,0 +1,79 @@
+{
+  "id": 1108673873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0377597809,41.0084457397,29.0377597809,41.0084457397",
+    "geom:latitude":41.008446,
+    "geom:longitude":29.03776,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ismail Pasa Sok. No:70 Kosuyolu",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 4164",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45QbSnJbE8LMw74xLjLuPw_41.008446_29.037760@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068797,
+    "wof:geomhash":"a57105760c5ce7464de0bc78f5484e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108673873
+        }
+    ],
+    "wof:id":1108673873,
+    "wof:lastmodified":1474068797,
+    "wof:name":"Aret Et Sanayi Ithalat Ve Ihracat Ltd.sti",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    29.0377597809,
+    41.0084457397,
+    29.0377597809,
+    41.0084457397
+],
+  "geometry": {"coordinates":[29.0377597809,41.0084457397],"type":"Point"}
+}

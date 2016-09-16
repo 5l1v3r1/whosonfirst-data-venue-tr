@@ -1,0 +1,73 @@
+{
+  "id": 1108673075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0354785919,41.0363998413,29.0354785919,41.0363998413",
+    "geom:latitude":41.0364,
+    "geom:longitude":29.035479,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumusyolu Cad. Nakkastepe",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 1713",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7270shwBHnKtCSD5hMx2TH_41.036400_29.035479@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068764,
+    "wof:geomhash":"c2c5b634b5d27d4f6e863d7f23271ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":1108673075
+        }
+    ],
+    "wof:id":1108673075,
+    "wof:lastmodified":1474068764,
+    "wof:name":"Helin Cicek Ve Bitki Besinleri Ltd",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0354785919,
+    41.0363998413,
+    29.0354785919,
+    41.0363998413
+],
+  "geometry": {"coordinates":[29.0354785919,41.0363998413],"type":"Point"}
+}

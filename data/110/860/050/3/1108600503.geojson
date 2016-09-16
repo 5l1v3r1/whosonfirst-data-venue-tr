@@ -1,0 +1,71 @@
+{
+  "id": 1108600503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1318721771,38.4159164429,27.1318721771,38.4159164429",
+    "geom:latitude":38.415916,
+    "geom:longitude":27.131872,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"848. Sk. No.12",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2324456399329",
+    "sg:postcode":"01370",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dTE7p1X0haduEvGBSfRI5_38.415916_27.131872@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065656,
+    "wof:geomhash":"0375f96c3b97dcbc683fda657ca467ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108600503
+        }
+    ],
+    "wof:id":1108600503,
+    "wof:lastmodified":1474065656,
+    "wof:name":"Bahtiyar Ltd.sti.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1318721771,
+    38.4159164429,
+    27.1318721771,
+    38.4159164429
+],
+  "geometry": {"coordinates":[27.1318721771,38.4159164429],"type":"Point"}
+}

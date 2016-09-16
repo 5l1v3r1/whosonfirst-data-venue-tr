@@ -1,0 +1,70 @@
+{
+  "id": 1108574915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9722385406,41.0077323914,28.9722385406,41.0077323914",
+    "geom:latitude":41.007732,
+    "geom:longitude":28.972239,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boyaci Ahmet Sk.no:20 K.3",
+    "sg:city":"?emberlitas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 458 4234",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-",
+        "golg-silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906501,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EorS5y6REC5mWkzLK4jKU_41.007732_28.972239@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064659,
+    "wof:geomhash":"e5f78c57b7c02e639786d8eca71ad1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906501,
+            "region_id":85679237,
+            "venue_id":1108574915
+        }
+    ],
+    "wof:id":1108574915,
+    "wof:lastmodified":1474064659,
+    "wof:name":"Garis Kuyumculuk",
+    "wof:parent_id":85906501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "golg-silver"
+    ]
+},
+  "bbox": [
+    28.9722385406,
+    41.0077323914,
+    28.9722385406,
+    41.0077323914
+],
+  "geometry": {"coordinates":[28.9722385406,41.0077323914],"type":"Point"}
+}

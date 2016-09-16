@@ -1,0 +1,64 @@
+{
+  "id": 1108678453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1415729523,41.0179481506,29.1415729523,41.0179481506",
+    "geom:latitude":41.017948,
+    "geom:longitude":29.141573,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Set?t?no:81/1",
+    "sg:city":"Kabatas",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 3624",
+    "sg:postcode":"24600",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mHNL33SydejP0oLG8gsSu_41.017948_29.141573@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068980,
+    "wof:geomhash":"e89d832e38e0790e0efaefe0172ac459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108678453
+        }
+    ],
+    "wof:id":1108678453,
+    "wof:lastmodified":1474068980,
+    "wof:name":"Bursalioglu Sirketler Grubu",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1415729523,
+    41.0179481506,
+    29.1415729523,
+    41.0179481506
+],
+  "geometry": {"coordinates":[29.1415729523,41.0179481506],"type":"Point"}
+}

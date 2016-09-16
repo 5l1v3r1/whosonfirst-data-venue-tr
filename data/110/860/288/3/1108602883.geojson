@@ -1,0 +1,75 @@
+{
+  "id": 1108602883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0467185974,40.9827575684,29.0467185974,40.9827575684",
+    "geom:latitude":40.982758,
+    "geom:longitude":29.046719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemil Topuzlu Cad. Is Bankasi Bloklari A Blok D:5",
+    "sg:city":"Feneryolu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 0033",
+    "sg:postcode":"34724",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGxZpjYLiT4p4UiVbQ09F_40.982758_29.046719@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065750,
+    "wof:geomhash":"33555a6d0a3a97d2c11245e91c449256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":1108602883
+        }
+    ],
+    "wof:id":1108602883,
+    "wof:lastmodified":1474065750,
+    "wof:name":"?cgen Mekanik Taah. San. Ve Tic. A.s.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0467185974,
+    40.9827575684,
+    29.0467185974,
+    40.9827575684
+],
+  "geometry": {"coordinates":[29.0467185974,40.9827575684],"type":"Point"}
+}

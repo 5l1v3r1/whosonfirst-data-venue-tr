@@ -1,0 +1,75 @@
+{
+  "id": 1108605575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.9279155731,40.7663116455,29.9279155731,40.7663116455",
+    "geom:latitude":40.766312,
+    "geom:longitude":29.927916,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdag Cad. No:130 S.ciftligi",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 312 2330",
+    "sg:postcode":"03650",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934721,
+        102191569,
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4NWWUzLt9hqZHPXhUlqs_40.766312_29.927916@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065866,
+    "wof:geomhash":"b79feef8e00b8503b90c080b04d5e569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":85934721,
+            "region_id":85679241,
+            "venue_id":1108605575
+        }
+    ],
+    "wof:id":1108605575,
+    "wof:lastmodified":1474065866,
+    "wof:name":"Erteks Konfeksiyon Tekstil San. A.s.",
+    "wof:parent_id":85934721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.9279155731,
+    40.7663116455,
+    29.9279155731,
+    40.7663116455
+],
+  "geometry": {"coordinates":[29.9279155731,40.7663116455],"type":"Point"}
+}

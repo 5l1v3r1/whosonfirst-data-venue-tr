@@ -1,0 +1,73 @@
+{
+  "id": 1108643151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
+    "geom:latitude":41.040855,
+    "geom:longitude":28.986183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kucuk Langa Cad.valide Camii Sok. No.58 Aksaray",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 632 7543",
+    "sg:postcode":"41400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pbweKV09MUruUwiCcJ0Bv_41.040855_28.986183@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067532,
+    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108643151
+        }
+    ],
+    "wof:id":1108643151,
+    "wof:lastmodified":1474067532,
+    "wof:name":"Oto Kerem",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    28.9861831665,
+    41.0408554077,
+    28.9861831665,
+    41.0408554077
+],
+  "geometry": {"coordinates":[28.9861831665,41.0408554077],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108618073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9753646851,41.0035552979,28.9753646851,41.0035552979",
+    "geom:latitude":41.003555,
+    "geom:longitude":28.975365,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.ayasofya Cad. No:26",
+    "sg:city":"Sultanahmet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 2323",
+    "sg:postcode":"34122",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IO6hdPNbFaQZiqecRs7LA_41.003555_28.975365@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066393,
+    "wof:geomhash":"171ad38b529414d0b7ae07c0ae8da360",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906491,
+            "region_id":85679237,
+            "venue_id":1108618073
+        }
+    ],
+    "wof:id":1108618073,
+    "wof:lastmodified":1474066393,
+    "wof:name":"Hotel Sarnic",
+    "wof:parent_id":85906491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9753646851,
+    41.0035552979,
+    28.9753646851,
+    41.0035552979
+],
+  "geometry": {"coordinates":[28.9753646851,41.0035552979],"type":"Point"}
+}

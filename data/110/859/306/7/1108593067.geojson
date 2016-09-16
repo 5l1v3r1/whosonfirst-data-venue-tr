@@ -1,0 +1,73 @@
+{
+  "id": 1108593067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8008518219,40.9726104736,28.8008518219,40.9726104736",
+    "geom:latitude":40.97261,
+    "geom:longitude":28.800852,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eceler Cad. 16/1",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 9142",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YDD8k7i9foDNmr7ITmrVT_40.972610_28.800852@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065344,
+    "wof:geomhash":"97dfbd1f51149f3bac08f466546b4299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108593067
+        }
+    ],
+    "wof:id":1108593067,
+    "wof:lastmodified":1474065344,
+    "wof:name":"Istanbul Hayvan Hastanesi",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    28.8008518219,
+    40.9726104736,
+    28.8008518219,
+    40.9726104736
+],
+  "geometry": {"coordinates":[28.8008518219,40.9726104736],"type":"Point"}
+}

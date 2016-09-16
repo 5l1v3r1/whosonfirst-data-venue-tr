@@ -1,0 +1,71 @@
+{
+  "id": 1108604703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1482391357,38.3912773132,27.1482391357,38.3912773132",
+    "geom:latitude":38.391277,
+    "geom:longitude":27.148239,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sairesref Bulv. No.6/502",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 1902",
+    "sg:postcode":"46810",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RHEQ4eBeWLbH8tabMCVnL_38.391277_27.148239@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065833,
+    "wof:geomhash":"9220d7992b86119d18117c1900be0cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108604703
+        }
+    ],
+    "wof:id":1108604703,
+    "wof:lastmodified":1474065833,
+    "wof:name":"Aba Konfeksiyon A.s.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1482391357,
+    38.3912773132,
+    27.1482391357,
+    38.3912773132
+],
+  "geometry": {"coordinates":[27.1482391357,38.3912773132],"type":"Point"}
+}

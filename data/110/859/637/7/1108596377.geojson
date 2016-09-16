@@ -1,0 +1,71 @@
+{
+  "id": 1108596377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8861999512,39.8914642334,32.8861999512,39.8914642334",
+    "geom:latitude":39.891464,
+    "geom:longitude":32.8862,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.m.k. Bulvari 21/1",
+    "sg:city":"Acipayam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 230 2921",
+    "sg:postcode":"20873",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q47JQN6lCAuezXXDlMqB6_39.891464_32.886200@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065486,
+    "wof:geomhash":"e27f0e577c1f7f05131f28409dceb1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108596377
+        }
+    ],
+    "wof:id":1108596377,
+    "wof:lastmodified":1474065486,
+    "wof:name":"Ankara K?rk Evi& Deri",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    32.8861999512,
+    39.8914642334,
+    32.8861999512,
+    39.8914642334
+],
+  "geometry": {"coordinates":[32.8861999512,39.8914642334],"type":"Point"}
+}

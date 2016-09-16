@@ -1,0 +1,69 @@
+{
+  "id": 1108583097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9053649902,41.0542297363,28.9053649902,41.0542297363",
+    "geom:latitude":41.05423,
+    "geom:longitude":28.905365,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Safak Sok. Birlik Apt. No:9 D:2",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 387 8845",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cECnjtPYT3K0qJpKkWSr1_41.054230_28.905365@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065086,
+    "wof:geomhash":"748cd52a18bd6cb52744ea64f3ed4829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108583097
+        }
+    ],
+    "wof:id":1108583097,
+    "wof:lastmodified":1474065086,
+    "wof:name":"Paccero Gida San. Ve Dis Tic. Ltd.sti.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    28.9053649902,
+    41.0542297363,
+    28.9053649902,
+    41.0542297363
+],
+  "geometry": {"coordinates":[28.9053649902,41.0542297363],"type":"Point"}
+}

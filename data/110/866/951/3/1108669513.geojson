@@ -1,0 +1,69 @@
+{
+  "id": 1108669513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8575592041,39.9181442261,32.8575592041,39.9181442261",
+    "geom:latitude":39.918144,
+    "geom:longitude":32.857559,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Caddesi 26/2 Kizilay",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312",
+    "sg:postcode":"07040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4osXzH8VebZkkNPAmiJ3jn_39.918144_32.857559@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068627,
+    "wof:geomhash":"f2669d71005503c4b7fb16ccf8557c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108669513
+        }
+    ],
+    "wof:id":1108669513,
+    "wof:lastmodified":1474068627,
+    "wof:name":"Grafiker Fuarcilik Tanitim Limited Sirketi",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    32.8575592041,
+    39.9181442261,
+    32.8575592041,
+    39.9181442261
+],
+  "geometry": {"coordinates":[32.8575592041,39.9181442261],"type":"Point"}
+}

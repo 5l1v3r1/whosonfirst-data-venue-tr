@@ -1,0 +1,71 @@
+{
+  "id": 1108659999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.131193161,40.9772491455,29.131193161,40.9772491455",
+    "geom:latitude":40.977249,
+    "geom:longitude":29.131193,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inonu Mah.evren Cad.no:6/1 Icerenkoy",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 574 2738",
+    "sg:postcode":"34876",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LSKDF1H6CdsYL0yPNFGsO_40.977249_29.131193@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068255,
+    "wof:geomhash":"d660a5a3cca0a418f3d452cb1256d9b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108659999
+        }
+    ],
+    "wof:id":1108659999,
+    "wof:lastmodified":1474068255,
+    "wof:name":"Cok-oz Ambalaj San.tic.ltd.sti.",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.131193161,
+    40.9772491455,
+    29.131193161,
+    40.9772491455
+],
+  "geometry": {"coordinates":[29.131193161,40.9772491455],"type":"Point"}
+}

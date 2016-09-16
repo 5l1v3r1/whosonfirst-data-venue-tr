@@ -1,0 +1,63 @@
+{
+  "id": 1108650389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8596038818,39.9048233032,32.8596038818,39.9048233032",
+    "geom:latitude":39.904823,
+    "geom:longitude":32.859604,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunus Cad. No:95",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 7010",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ESwViksFY2S6vG8p2yW68_39.904823_32.859604@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067854,
+    "wof:geomhash":"1e8d6656a34ae975ac2afd7a455da4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108650389
+        }
+    ],
+    "wof:id":1108650389,
+    "wof:lastmodified":1474067854,
+    "wof:name":"Duzen Laboratuvarlar Grubu",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8596038818,
+    39.9048233032,
+    32.8596038818,
+    39.9048233032
+],
+  "geometry": {"coordinates":[32.8596038818,39.9048233032],"type":"Point"}
+}

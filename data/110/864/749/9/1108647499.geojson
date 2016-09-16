@@ -1,0 +1,73 @@
+{
+  "id": 1108647499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0700626373,41.0225219727,29.0700626373,41.0225219727",
+    "geom:latitude":41.022522,
+    "geom:longitude":29.070063,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdag Cd. No.55",
+    "sg:city":"Kisikli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 443 2480",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MOpH0Yz4f2EvLa3W9QEPk_41.022522_29.070063@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067713,
+    "wof:geomhash":"13f3b007410d98e9166bd5adbce7b903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108647499
+        }
+    ],
+    "wof:id":1108647499,
+    "wof:lastmodified":1474067713,
+    "wof:name":"Tamet Et Ve Et Mam. A.s.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.0700626373,
+    41.0225219727,
+    29.0700626373,
+    41.0225219727
+],
+  "geometry": {"coordinates":[29.0700626373,41.0225219727],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108616873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.04529953,40.9762115479,29.04529953,40.9762115479",
+    "geom:latitude":40.976212,
+    "geom:longitude":29.0453,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rustuye Sok. 46/a Kalamis",
+    "sg:city":"33050",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 418 3387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LMYKBXK6yjvJ2sEM8iwCn_40.976212_29.045300@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066339,
+    "wof:geomhash":"c2229f32732b6a59afdf2989c8e9a80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108616873
+        }
+    ],
+    "wof:id":1108616873,
+    "wof:lastmodified":1474066339,
+    "wof:name":"Sbs Foreign Trade Inc.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    29.04529953,
+    40.9762115479,
+    29.04529953,
+    40.9762115479
+],
+  "geometry": {"coordinates":[29.04529953,40.9762115479],"type":"Point"}
+}

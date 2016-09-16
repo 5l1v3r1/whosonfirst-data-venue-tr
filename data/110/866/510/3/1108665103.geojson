@@ -1,0 +1,69 @@
+{
+  "id": 1108665103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8614730835,39.9079017639,32.8614730835,39.9079017639",
+    "geom:latitude":39.907902,
+    "geom:longitude":32.861473,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunali Hilmi Cad. No:62/a",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 8989",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QqU4Cdh7L42pYlE4OtPWg_39.907902_32.861473@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068446,
+    "wof:geomhash":"bde94d5077ce597cbbe29c0cf4fa8c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108665103
+        }
+    ],
+    "wof:id":1108665103,
+    "wof:lastmodified":1474068446,
+    "wof:name":"Cc Iletisim Hizmetleri",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    32.8614730835,
+    39.9079017639,
+    32.8614730835,
+    39.9079017639
+],
+  "geometry": {"coordinates":[32.8614730835,39.9079017639],"type":"Point"}
+}

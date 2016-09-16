@@ -1,0 +1,71 @@
+{
+  "id": 1108663689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2941455841,40.8540077209,29.2941455841,40.8540077209",
+    "geom:latitude":40.854008,
+    "geom:longitude":29.294146,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aydintepe M. Emek S. No: 20 Tuzla",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 395 2550",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ujsy00WQsKOrKlPmYCWfd_40.854008_29.294146@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068392,
+    "wof:geomhash":"235502e3ad45b5cf9f6ce93935eb0ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108663689
+        }
+    ],
+    "wof:id":1108663689,
+    "wof:lastmodified":1474068392,
+    "wof:name":"Birdalpen Insaat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.2941455841,
+    40.8540077209,
+    29.2941455841,
+    40.8540077209
+],
+  "geometry": {"coordinates":[29.2941455841,40.8540077209],"type":"Point"}
+}

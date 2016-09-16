@@ -1,0 +1,73 @@
+{
+  "id": 1108676163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9974536896,41.0662231445,28.9974536896,41.0662231445",
+    "geom:latitude":41.066223,
+    "geom:longitude":28.997454,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akinci Bayiri Sok. 8, Mecidiyek? L",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 4396",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fztYse5AykwYmZUgJC3Tz_41.066223_28.997454@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068898,
+    "wof:geomhash":"cdac8e4086469ba777e8752ebeccd7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108676163
+        }
+    ],
+    "wof:id":1108676163,
+    "wof:lastmodified":1474068898,
+    "wof:name":"Suudi Arabistan",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9974536896,
+    41.0662231445,
+    28.9974536896,
+    41.0662231445
+],
+  "geometry": {"coordinates":[28.9974536896,41.0662231445],"type":"Point"}
+}

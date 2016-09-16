@@ -1,0 +1,71 @@
+{
+  "id": 1108672409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8652801514,39.9121246338,32.8652801514,39.9121246338",
+    "geom:latitude":39.912125,
+    "geom:longitude":32.86528,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bulbulderesi Cad. No:47/b",
+    "sg:city":"Kucukesat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 31233220214331",
+    "sg:postcode":"06660",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aylpJ0brvc9r0FVww1Msa_39.912125_32.865280@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068732,
+    "wof:geomhash":"bc63c99b077956635aac4136d26cccdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108672409
+        }
+    ],
+    "wof:id":1108672409,
+    "wof:lastmodified":1474068732,
+    "wof:name":"Atakul Parke",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    32.8652801514,
+    39.9121246338,
+    32.8652801514,
+    39.9121246338
+],
+  "geometry": {"coordinates":[32.8652801514,39.9121246338],"type":"Point"}
+}

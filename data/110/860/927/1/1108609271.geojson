@@ -1,0 +1,64 @@
+{
+  "id": 1108609271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9552345276,41.0505256653,28.9552345276,41.0505256653",
+    "geom:latitude":41.050526,
+    "geom:longitude":28.955235,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zafer Mah.yildirim Beyazit Cad.kurultay Sok.no:4 K:3 D:6",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 654 7385",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929477,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dbJeGn09JHrN73DEIb78D_41.050526_28.955235@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066046,
+    "wof:geomhash":"f279e80c9146e741a293e1bfceb08a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":1108609271
+        }
+    ],
+    "wof:id":1108609271,
+    "wof:lastmodified":1474066046,
+    "wof:name":"Nako Uluslararasi Nakliyatve Dis Ticaret Tic. Ltd.",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9552345276,
+    41.0505256653,
+    28.9552345276,
+    41.0505256653
+],
+  "geometry": {"coordinates":[28.9552345276,41.0505256653],"type":"Point"}
+}

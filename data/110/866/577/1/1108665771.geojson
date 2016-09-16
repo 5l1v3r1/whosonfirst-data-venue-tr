@@ -1,0 +1,71 @@
+{
+  "id": 1108665771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1732769012,38.3923149109,27.1732769012,38.3923149109",
+    "geom:latitude":38.392315,
+    "geom:longitude":27.173277,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"186 Sk 19/b",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3434782",
+    "sg:postcode":"3540",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sWhX7gfGiAbQ8TIceP3am_38.392315_27.173277@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068477,
+    "wof:geomhash":"350e31d3904567c7db7cff635f8c39b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108665771
+        }
+    ],
+    "wof:id":1108665771,
+    "wof:lastmodified":1474068477,
+    "wof:name":"Mjm Makina Ltd.sti",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    27.1732769012,
+    38.3923149109,
+    27.1732769012,
+    38.3923149109
+],
+  "geometry": {"coordinates":[27.1732769012,38.3923149109],"type":"Point"}
+}

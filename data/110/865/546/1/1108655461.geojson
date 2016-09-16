@@ -1,0 +1,75 @@
+{
+  "id": 1108655461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8274230957,40.9806747437,28.8274230957,40.9806747437",
+    "geom:latitude":40.980675,
+    "geom:longitude":28.827423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari Eren Apt. 3/8",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 326 613 2585",
+    "sg:postcode":"31200",
+    "sg:province":"Hatay",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OUvszAQo7yphMDoOxyuHF_40.980675_28.827423@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068078,
+    "wof:geomhash":"7c3a73e541a4348463527dcd3758daf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108655461
+        }
+    ],
+    "wof:id":1108655461,
+    "wof:lastmodified":1474068078,
+    "wof:name":"Kromtas Madencilik",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.8274230957,
+    40.9806747437,
+    28.8274230957,
+    40.9806747437
+],
+  "geometry": {"coordinates":[28.8274230957,40.9806747437],"type":"Point"}
+}

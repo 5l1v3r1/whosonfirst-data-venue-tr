@@ -1,0 +1,73 @@
+{
+  "id": 1108623299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0456466675,41.0219306946,29.0456466675,41.0219306946",
+    "geom:latitude":41.021931,
+    "geom:longitude":29.045647,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Perpa Tic. Merk. K:12 No:2256",
+    "sg:city":"Okmeydani",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 222 2160",
+    "sg:postcode":"43050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906613,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ohuOHCj9f9yjhmO0CHF3Y_41.021931_29.045647@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066600,
+    "wof:geomhash":"2946d04c87bf33cc9a47bba2b879bc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906613,
+            "region_id":85679237,
+            "venue_id":1108623299
+        }
+    ],
+    "wof:id":1108623299,
+    "wof:lastmodified":1474066600,
+    "wof:name":"Teknogaz Isi San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0456466675,
+    41.0219306946,
+    29.0456466675,
+    41.0219306946
+],
+  "geometry": {"coordinates":[29.0456466675,41.0219306946],"type":"Point"}
+}

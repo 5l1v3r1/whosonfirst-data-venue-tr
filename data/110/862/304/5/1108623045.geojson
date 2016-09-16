@@ -1,0 +1,73 @@
+{
+  "id": 1108623045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0309181213,41.0175132751,29.0309181213,41.0175132751",
+    "geom:latitude":41.017513,
+    "geom:longitude":29.030918,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nuhkuyusu Cd. No:109",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 334 9024",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HSMU2IwjJgK0j4YWG4PjQ_41.017513_29.030918@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066592,
+    "wof:geomhash":"2a7962bec3a54f9edfedf33d19c98b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108623045
+        }
+    ],
+    "wof:id":1108623045,
+    "wof:lastmodified":1474066592,
+    "wof:name":"Mega Emlak Ltd. Sti.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0309181213,
+    41.0175132751,
+    29.0309181213,
+    41.0175132751
+],
+  "geometry": {"coordinates":[29.0309181213,41.0175132751],"type":"Point"}
+}

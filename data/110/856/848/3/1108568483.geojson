@@ -1,0 +1,70 @@
+{
+  "id": 1108568483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2963600159,40.9005203247,29.2963600159,40.9005203247",
+    "geom:latitude":40.90052,
+    "geom:longitude":29.29636,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ramazanoglu Mah.sanayi Cad. Yildirim Sok.no: 9 Pendik",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 378 0769",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yhr0zwtfmLCgY13rKClTN_40.900520_29.296360@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064392,
+    "wof:geomhash":"c98d3e91d58e3f73df0f4769e00bcf20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108568483
+        }
+    ],
+    "wof:id":1108568483,
+    "wof:lastmodified":1474064392,
+    "wof:name":"Mektas Makina Elektrik Kimya Tic.san.a.s.",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2963600159,
+    40.9005203247,
+    29.2963600159,
+    40.9005203247
+],
+  "geometry": {"coordinates":[29.2963600159,40.9005203247],"type":"Point"}
+}

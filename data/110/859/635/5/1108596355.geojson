@@ -1,0 +1,71 @@
+{
+  "id": 1108596355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9113731384,40.9953689575,28.9113731384,40.9953689575",
+    "geom:latitude":40.995369,
+    "geom:longitude":28.911373,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Telsiz Mah. 69/2 Sok. No:15 Zeytinburnu",
+    "sg:city":"Acipayam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 665 2887",
+    "sg:postcode":"20873",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lvnKKsdLxmQ57t1DQdJqy_40.995369_28.911373@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065485,
+    "wof:geomhash":"8e82e07aec68697c2145303a3e6bf047",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108596355
+        }
+    ],
+    "wof:id":1108596355,
+    "wof:lastmodified":1474065485,
+    "wof:name":"Alson Deri San.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9113731384,
+    40.9953689575,
+    28.9113731384,
+    40.9953689575
+],
+  "geometry": {"coordinates":[28.9113731384,40.9953689575],"type":"Point"}
+}

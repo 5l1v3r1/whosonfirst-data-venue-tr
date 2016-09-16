@@ -1,0 +1,63 @@
+{
+  "id": 1108619021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.974439621,41.0313682556,28.974439621,41.0313682556",
+    "geom:latitude":41.031368,
+    "geom:longitude":28.97444,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad.no:217",
+    "sg:city":"Tepebasi",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 5449",
+    "sg:postcode":"46300",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906543,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ef66KvfN7pYFqebicsoz0_41.031368_28.974440@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066433,
+    "wof:geomhash":"ca255145a5a288e69d3be35a6355b293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906543,
+            "region_id":85679237,
+            "venue_id":1108619021
+        }
+    ],
+    "wof:id":1108619021,
+    "wof:lastmodified":1474066433,
+    "wof:name":"Velan Hotel",
+    "wof:parent_id":85906543,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.974439621,
+    41.0313682556,
+    28.974439621,
+    41.0313682556
+],
+  "geometry": {"coordinates":[28.974439621,41.0313682556],"type":"Point"}
+}

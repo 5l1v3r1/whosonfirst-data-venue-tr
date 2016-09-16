@@ -1,0 +1,71 @@
+{
+  "id": 1108599319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1566982269,38.4382820129,27.1566982269,38.4382820129",
+    "geom:latitude":38.438282,
+    "geom:longitude":27.156698,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1515 Sok. No:3 A",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 422 6530",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iQtzyqxEVhyJXm9DLVt31_38.438282_27.156698@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065607,
+    "wof:geomhash":"fd43a245bd24d13df22b0505367c9183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108599319
+        }
+    ],
+    "wof:id":1108599319,
+    "wof:lastmodified":1474065607,
+    "wof:name":"Veral Aydinlatma",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    27.1566982269,
+    38.4382820129,
+    27.1566982269,
+    38.4382820129
+],
+  "geometry": {"coordinates":[27.1566982269,38.4382820129],"type":"Point"}
+}

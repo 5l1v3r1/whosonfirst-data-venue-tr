@@ -1,0 +1,71 @@
+{
+  "id": 1108587499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8804321289,39.8879814148,32.8804321289,39.8879814148",
+    "geom:latitude":39.887981,
+    "geom:longitude":32.880432,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirkkonaklar Mah.22.cad. No:8/2",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 495 5792",
+    "sg:postcode":"06105",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "web",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GN1JWNih63gnvh5zx59aW_39.887981_32.880432@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065195,
+    "wof:geomhash":"d01e5ef540384c54d533e9f4ce45c351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108587499
+        }
+    ],
+    "wof:id":1108587499,
+    "wof:lastmodified":1474065195,
+    "wof:name":"Aslihan.net",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "design"
+    ]
+},
+  "bbox": [
+    32.8804321289,
+    39.8879814148,
+    32.8804321289,
+    39.8879814148
+],
+  "geometry": {"coordinates":[32.8804321289,39.8879814148],"type":"Point"}
+}

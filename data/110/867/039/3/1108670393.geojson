@@ -1,0 +1,75 @@
+{
+  "id": 1108670393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9876670837,41.063293457,28.9876670837,41.063293457",
+    "geom:latitude":41.063293,
+    "geom:longitude":28.987667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abide-i Hurriyet Cad. No:269/3",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 1713",
+    "sg:postcode":"35040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_411DwUqZaqV35JPH8Tba6s_41.063293_28.987667@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068656,
+    "wof:geomhash":"4a45a6eeca015d5bc0de0552c47375f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108670393
+        }
+    ],
+    "wof:id":1108670393,
+    "wof:lastmodified":1474068656,
+    "wof:name":"Helin Ltd.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    28.9876670837,
+    41.063293457,
+    28.9876670837,
+    41.063293457
+],
+  "geometry": {"coordinates":[28.9876670837,41.063293457],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108571255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3232002258,37.0114784241,35.3232002258,37.0114784241",
+    "geom:latitude":37.011478,
+    "geom:longitude":35.3232,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baraj Yolu No:151",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 351 3567",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ORn63LUowmX9XyQ7U3BDU_37.011478_35.323200@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064506,
+    "wof:geomhash":"0b368dff71a42b33f3e757bac36754b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108571255
+        }
+    ],
+    "wof:id":1108571255,
+    "wof:lastmodified":1474064506,
+    "wof:name":"G?ka Koll.sti.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    35.3232002258,
+    37.0114784241,
+    35.3232002258,
+    37.0114784241
+],
+  "geometry": {"coordinates":[35.3232002258,37.0114784241],"type":"Point"}
+}

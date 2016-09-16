@@ -1,0 +1,73 @@
+{
+  "id": 1108582967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5152359009,39.7729225159,30.5152359009,39.7729225159",
+    "geom:latitude":39.772923,
+    "geom:longitude":30.515236,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Mah. Resadiye Sok. No:14",
+    "sg:city":"Yazihan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 3345",
+    "sg:postcode":"44350",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E6dMHtsGMxE26wjUjUDtK_39.772923_30.515236@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065084,
+    "wof:geomhash":"33b1f5575acda2b041b18f5e40a75916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108582967
+        }
+    ],
+    "wof:id":1108582967,
+    "wof:lastmodified":1474065084,
+    "wof:name":"Gozde Gida Tic. Ve San. Ltd.sti.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    30.5152359009,
+    39.7729225159,
+    30.5152359009,
+    39.7729225159
+],
+  "geometry": {"coordinates":[30.5152359009,39.7729225159],"type":"Point"}
+}

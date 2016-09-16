@@ -1,0 +1,75 @@
+{
+  "id": 1108588827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0669937134,40.9733924866,29.0669937134,40.9733924866",
+    "geom:latitude":40.973392,
+    "geom:longitude":29.066994,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Nisan Cad. No.8 G?sel Mah.",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212210119394",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rH9miewtmrs1u8BNEm8VW_40.973392_29.066994@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065223,
+    "wof:geomhash":"09484efbc4af404284293d8a0ed6487e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108588827
+        }
+    ],
+    "wof:id":1108588827,
+    "wof:lastmodified":1474065223,
+    "wof:name":"Promise Tekstil",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0669937134,
+    40.9733924866,
+    29.0669937134,
+    40.9733924866
+],
+  "geometry": {"coordinates":[29.0669937134,40.9733924866],"type":"Point"}
+}

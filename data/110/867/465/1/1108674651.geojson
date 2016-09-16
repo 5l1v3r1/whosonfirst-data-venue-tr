@@ -1,0 +1,79 @@
+{
+  "id": 1108674651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.687122345,36.8911056519,30.687122345,36.8911056519",
+    "geom:latitude":36.891106,
+    "geom:longitude":30.687122,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"100.yil Bulv. 185.sok. No:5/b",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 244 4191",
+    "sg:postcode":"52750",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930111,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uVq1bZBLt4NtpA5bg1Fau_36.891106_30.687122@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068830,
+    "wof:geomhash":"7904ebdf43d679fb3d0283bc3eb0644e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930111,
+            "region_id":85679263,
+            "venue_id":1108674651
+        }
+    ],
+    "wof:id":1108674651,
+    "wof:lastmodified":1474068830,
+    "wof:name":"T?fek?i Taahh?t Ticaret",
+    "wof:parent_id":85930111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    30.687122345,
+    36.8911056519,
+    30.687122345,
+    36.8911056519
+],
+  "geometry": {"coordinates":[30.687122345,36.8911056519],"type":"Point"}
+}

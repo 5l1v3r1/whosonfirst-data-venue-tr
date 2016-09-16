@@ -1,0 +1,67 @@
+{
+  "id": 1108578075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2344322205,40.8781204224,29.2344322205,40.8781204224",
+    "geom:latitude":40.87812,
+    "geom:longitude":29.234432,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lale Sk. No:20 Pendik",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 390 2080",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58VQrMZaaeUZrHXJhYH724_40.878120_29.234432@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064869,
+    "wof:geomhash":"b8b064610e6415ebba82a805d23e3596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930115,
+            "venue_id":1108578075
+        }
+    ],
+    "wof:id":1108578075,
+    "wof:lastmodified":1474064869,
+    "wof:name":"Akcan B?ro Mak. Tic.",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    29.2344322205,
+    40.8781204224,
+    29.2344322205,
+    40.8781204224
+],
+  "geometry": {"coordinates":[29.2344322205,40.8781204224],"type":"Point"}
+}

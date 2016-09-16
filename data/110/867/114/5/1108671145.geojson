@@ -1,0 +1,83 @@
+{
+  "id": 1108671145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9866943359,41.0464324951,28.9866943359,41.0464324951",
+    "geom:latitude":41.046432,
+    "geom:longitude":28.986694,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad., No.255/2, Harbiye",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 7500",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85906559,
+        101913185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KQ9L0sZUL75MR1RQtPUgf_41.046432_28.986694@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068687,
+    "wof:geomhash":"72be1ba6de8565a400a1a573e4263c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108671145
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108671145
+        }
+    ],
+    "wof:id":1108671145,
+    "wof:lastmodified":1474068687,
+    "wof:name":"Istanbul Yatirim Menkul Kiymetler",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9866943359,
+    41.0464324951,
+    28.9866943359,
+    41.0464324951
+],
+  "geometry": {"coordinates":[28.9866943359,41.0464324951],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108642603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.061170578,40.2073783875,29.061170578,40.2073783875",
+    "geom:latitude":40.207378,
+    "geom:longitude":29.061171,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Yalova Yolu",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 254 6400",
+    "sg:postcode":"16220",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qb7UQ4o5FyvNEHmjh96LP_40.207378_29.061171@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067513,
+    "wof:geomhash":"2085c88a05fcfc6cf6f4537342d716cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108642603
+        }
+    ],
+    "wof:id":1108642603,
+    "wof:lastmodified":1474067513,
+    "wof:name":"Guleryuz Karoseri Sa. A.s",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.061170578,
+    40.2073783875,
+    29.061170578,
+    40.2073783875
+],
+  "geometry": {"coordinates":[29.061170578,40.2073783875],"type":"Point"}
+}

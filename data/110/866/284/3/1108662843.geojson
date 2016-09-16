@@ -1,0 +1,72 @@
+{
+  "id": 1108662843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0494594574,41.1206550598,29.0494594574,41.1206550598",
+    "geom:latitude":41.120655,
+    "geom:longitude":29.049459,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abc Yolu Abc Plaza Kat: 3 Istinye",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 277 3303",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KJTpKLwVldSQvxVbj1JTo_41.120655_29.049459@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068358,
+    "wof:geomhash":"53de28cffb20dcbfa54f988b00bd3462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108662843
+        }
+    ],
+    "wof:id":1108662843,
+    "wof:lastmodified":1474068358,
+    "wof:name":"Berk Ilac Ithalat Ihracat A.s.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    29.0494594574,
+    41.1206550598,
+    29.0494594574,
+    41.1206550598
+],
+  "geometry": {"coordinates":[29.0494594574,41.1206550598],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108678627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8560657501,41.0085105896,28.8560657501,41.0085105896",
+    "geom:latitude":41.008511,
+    "geom:longitude":28.856066,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Setustu No:35",
+    "sg:city":"Kabatas",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 6721",
+    "sg:postcode":"24600",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bvkpfRnilFZ31oxMRgcnQ_41.008511_28.856066@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068987,
+    "wof:geomhash":"73d62a8c6f11e97c6e43460b77f80b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108678627
+        }
+    ],
+    "wof:id":1108678627,
+    "wof:lastmodified":1474068987,
+    "wof:name":"Istanbul Maritime Ltd. Sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8560657501,
+    41.0085105896,
+    28.8560657501,
+    41.0085105896
+],
+  "geometry": {"coordinates":[28.8560657501,41.0085105896],"type":"Point"}
+}

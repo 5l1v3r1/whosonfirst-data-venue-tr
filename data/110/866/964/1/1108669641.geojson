@@ -1,0 +1,68 @@
+{
+  "id": 1108669641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1431694031,38.4329605103,27.1431694031,38.4329605103",
+    "geom:latitude":38.432961,
+    "geom:longitude":27.143169,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1390 Sokak No:6/2 Alsancak",
+    "sg:city":"Kalamis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MMl824Q7GFRkIhXQ8lxzo_38.432961_27.143169@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068632,
+    "wof:geomhash":"0e661ed4072c9f30f12848036be9e4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108669641
+        }
+    ],
+    "wof:id":1108669641,
+    "wof:lastmodified":1474068632,
+    "wof:name":"Tunajans Reklam Ve Fuar Hizmetleri",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    27.1431694031,
+    38.4329605103,
+    27.1431694031,
+    38.4329605103
+],
+  "geometry": {"coordinates":[27.1431694031,38.4329605103],"type":"Point"}
+}

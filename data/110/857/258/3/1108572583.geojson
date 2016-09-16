@@ -1,0 +1,73 @@
+{
+  "id": 1108572583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7191009521,41.0060997009,39.7191009521,41.0060997009",
+    "geom:latitude":41.0061,
+    "geom:longitude":39.719101,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Org.san.bol.arsim",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 711 1461",
+    "sg:postcode":"34470",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mhYozRc6XkISzh6Ks68x0_41.006100_39.719101@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064563,
+    "wof:geomhash":"c0ebfb51ff3f4cab0eb6cd19ca2f3656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108572583
+        }
+    ],
+    "wof:id":1108572583,
+    "wof:lastmodified":1474064563,
+    "wof:name":"Uzay Plastik A.s.",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    39.7191009521,
+    41.0060997009,
+    39.7191009521,
+    41.0060997009
+],
+  "geometry": {"coordinates":[39.7191009521,41.0060997009],"type":"Point"}
+}

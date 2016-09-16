@@ -1,0 +1,74 @@
+{
+  "id": 1108602613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6825942993,36.8898391724,30.6825942993,36.8898391724",
+    "geom:latitude":36.889839,
+    "geom:longitude":30.682594,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Varlik Mh. Pirrireis Cad. No:25",
+    "sg:city":"Findikzade",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 237 8150",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930071,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tq4RNcOJReCD9hkoJs3ZV_36.889839_30.682594@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065740,
+    "wof:geomhash":"ebef70b4b3015ee849d2f4ebb8bf8831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85930071,
+            "region_id":85679263,
+            "venue_id":1108602613
+        }
+    ],
+    "wof:id":1108602613,
+    "wof:lastmodified":1474065740,
+    "wof:name":"Tekma Ltd. Sti.",
+    "wof:parent_id":85930071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    30.6825942993,
+    36.8898391724,
+    30.6825942993,
+    36.8898391724
+],
+  "geometry": {"coordinates":[30.6825942993,36.8898391724],"type":"Point"}
+}

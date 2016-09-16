@@ -1,0 +1,64 @@
+{
+  "id": 1108611325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0619983673,40.1860237122,29.0619983673,40.1860237122",
+    "geom:latitude":40.186024,
+    "geom:longitude":29.061998,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad.no:69",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 221 3987",
+    "sg:postcode":"34100",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hkG7zhGwUA5Zp79voXBlt_40.186024_29.061998@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066135,
+    "wof:geomhash":"ec4d463716c85b61092de9814e035b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108611325
+        }
+    ],
+    "wof:id":1108611325,
+    "wof:lastmodified":1474066135,
+    "wof:name":"Necip Iz Sondaj",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0619983673,
+    40.1860237122,
+    29.0619983673,
+    40.1860237122
+],
+  "geometry": {"coordinates":[29.0619983673,40.1860237122],"type":"Point"}
+}

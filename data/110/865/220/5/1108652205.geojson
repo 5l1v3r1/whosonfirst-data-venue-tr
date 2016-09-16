@@ -1,0 +1,73 @@
+{
+  "id": 1108652205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0250549316,40.9855308533,29.0250549316,40.9855308533",
+    "geom:latitude":40.985531,
+    "geom:longitude":29.025055,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moda Cad. No:172 Kadik?",
+    "sg:city":"Sihhiye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 2460",
+    "sg:postcode":"06410",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0edkfbeffbwU7rQHHyXmY3_40.985531_29.025055@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067943,
+    "wof:geomhash":"49c91782aae22b2da34850991fc9b00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":85679237,
+            "venue_id":1108652205
+        }
+    ],
+    "wof:id":1108652205,
+    "wof:lastmodified":1474067943,
+    "wof:name":"Gundem Kimyevi Mad. Ith. Ihr. Ltd. Sti.",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine"
+    ]
+},
+  "bbox": [
+    29.0250549316,
+    40.9855308533,
+    29.0250549316,
+    40.9855308533
+],
+  "geometry": {"coordinates":[29.0250549316,40.9855308533],"type":"Point"}
+}

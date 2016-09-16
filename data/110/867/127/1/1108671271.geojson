@@ -1,0 +1,69 @@
+{
+  "id": 1108671271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9550514221,41.0102615356,28.9550514221,41.0102615356",
+    "geom:latitude":41.010262,
+    "geom:longitude":28.955051,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gencturk Cad. Mimarbasi Sok. No:12/a Laleli",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 7602",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6br6janOOX65NB5GWo8Bs2_41.010262_28.955051@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068692,
+    "wof:geomhash":"5fcc5c8c703ab77f85dc3b8f89f81194",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108671271
+        }
+    ],
+    "wof:id":1108671271,
+    "wof:lastmodified":1474068692,
+    "wof:name":"Sepicigil Dahili Ticaret",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9550514221,
+    41.0102615356,
+    28.9550514221,
+    41.0102615356
+],
+  "geometry": {"coordinates":[28.9550514221,41.0102615356],"type":"Point"}
+}

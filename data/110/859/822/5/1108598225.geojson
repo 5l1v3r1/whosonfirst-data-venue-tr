@@ -1,0 +1,73 @@
+{
+  "id": 1108598225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.86743927,41.0102157593,28.86743927,41.0102157593",
+    "geom:latitude":41.010216,
+    "geom:longitude":28.867439,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haznedar Mah.bagcilar Cad. No:80-",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 5012",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pTF6XjO781MX2b1pYtUGm_41.010216_28.867439@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065556,
+    "wof:geomhash":"e249f383bae4c1db1dfd9abeceafcf9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108598225
+        }
+    ],
+    "wof:id":1108598225,
+    "wof:lastmodified":1474065556,
+    "wof:name":"Teknik Asans? Ve Eletrik",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.86743927,
+    41.0102157593,
+    28.86743927,
+    41.0102157593
+],
+  "geometry": {"coordinates":[28.86743927,41.0102157593],"type":"Point"}
+}

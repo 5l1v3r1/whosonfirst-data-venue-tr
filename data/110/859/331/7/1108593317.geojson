@@ -1,0 +1,73 @@
+{
+  "id": 1108593317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.4896087646,39.7896957397,30.4896087646,39.7896957397",
+    "geom:latitude":39.789696,
+    "geom:longitude":30.489609,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Mah. Inonu Cad. No:83",
+    "sg:city":"Beylikova",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2225312737531",
+    "sg:postcode":"26750",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934751,
+        102191569,
+        85632393,
+        101912873,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YHh2JTH8l72oWobvmefTw_39.789696_30.489609@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065357,
+    "wof:geomhash":"0ba447f200e45d105d2e6991cd7e6498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912873,
+            "neighbourhood_id":85934751,
+            "region_id":85679255,
+            "venue_id":1108593317
+        }
+    ],
+    "wof:id":1108593317,
+    "wof:lastmodified":1474065357,
+    "wof:name":"Sevki Sunger",
+    "wof:parent_id":85934751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    30.4896087646,
+    39.7896957397,
+    30.4896087646,
+    39.7896957397
+],
+  "geometry": {"coordinates":[30.4896087646,39.7896957397],"type":"Point"}
+}

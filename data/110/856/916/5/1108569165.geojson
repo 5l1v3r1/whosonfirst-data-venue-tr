@@ -1,0 +1,71 @@
+{
+  "id": 1108569165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8967056274,39.9571075439,32.8967056274,39.9571075439",
+    "geom:latitude":39.957108,
+    "geom:longitude":32.896706,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirhendek Cad.no:73 Siteler",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 349 5193",
+    "sg:postcode":"34670",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MNHqffcPIMbvq4RyUJt9d_39.957108_32.896706@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064422,
+    "wof:geomhash":"58a4c97d7372058961351cfe21bf370f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108569165
+        }
+    ],
+    "wof:id":1108569165,
+    "wof:lastmodified":1474064422,
+    "wof:name":"Sezgin Makina San. Ltd.sti.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8967056274,
+    39.9571075439,
+    32.8967056274,
+    39.9571075439
+],
+  "geometry": {"coordinates":[32.8967056274,39.9571075439],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108661221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9019107819,41.0504302979,28.9019107819,41.0504302979",
+    "geom:latitude":41.05043,
+    "geom:longitude":28.901911,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kisla Cad Tikvesli Sok 3 Emintas San Sitesi 1/161",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212501395051",
+    "sg:postcode":"34040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ePwVmHIe8nD1LhsveoJB9_41.050430_28.901911@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068297,
+    "wof:geomhash":"96f816b2e60ee6b4e8df4898c986ba55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108661221
+        }
+    ],
+    "wof:id":1108661221,
+    "wof:lastmodified":1474068297,
+    "wof:name":"Plaster Ambalaj San Ltd Sti",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing"
+    ]
+},
+  "bbox": [
+    28.9019107819,
+    41.0504302979,
+    28.9019107819,
+    41.0504302979
+],
+  "geometry": {"coordinates":[28.9019107819,41.0504302979],"type":"Point"}
+}

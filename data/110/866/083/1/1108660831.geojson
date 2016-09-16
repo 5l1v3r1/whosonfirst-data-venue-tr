@@ -1,0 +1,71 @@
+{
+  "id": 1108660831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9044380188,41.0574836731,28.9044380188,41.0574836731",
+    "geom:latitude":41.057484,
+    "geom:longitude":28.904438,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe Mah.kardes Sok. No: 15/a Bayrampasa",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 417 7951",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ojsg8T996bqfeAiihP007_41.057484_28.904438@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068284,
+    "wof:geomhash":"9a0bfc94c480ba41a2789b100c7c91cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108660831
+        }
+    ],
+    "wof:id":1108660831,
+    "wof:lastmodified":1474068284,
+    "wof:name":"Repak Plastik Cicek Malzemeleri",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9044380188,
+    41.0574836731,
+    28.9044380188,
+    41.0574836731
+],
+  "geometry": {"coordinates":[28.9044380188,41.0574836731],"type":"Point"}
+}

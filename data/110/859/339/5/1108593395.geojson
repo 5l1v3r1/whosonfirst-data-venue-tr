@@ -1,0 +1,67 @@
+{
+  "id": 1108593395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.018037796,41.0083122253,29.018037796,41.0083122253",
+    "geom:latitude":41.008312,
+    "geom:longitude":29.018038,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cad. Arat Apt. No:58/1",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 428 5657",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jVj5b7QQyglF93CicG5XA_41.008312_29.018038@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065359,
+    "wof:geomhash":"778be6b2df6099b3a307c13cc859e01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906603,
+            "venue_id":1108593395
+        }
+    ],
+    "wof:id":1108593395,
+    "wof:lastmodified":1474065359,
+    "wof:name":"Vethouse Veteriner Klinigi",
+    "wof:parent_id":85906603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    29.018037796,
+    41.0083122253,
+    29.018037796,
+    41.0083122253
+],
+  "geometry": {"coordinates":[29.018037796,41.0083122253],"type":"Point"}
+}

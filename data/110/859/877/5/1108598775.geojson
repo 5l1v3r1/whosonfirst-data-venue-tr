@@ -1,0 +1,71 @@
+{
+  "id": 1108598775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1571006775,41.0069046021,29.1571006775,41.0069046021",
+    "geom:latitude":41.006905,
+    "geom:longitude":29.157101,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nazli Hanim Sk. Nazli Han 12/11",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 235 9090",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ln72Zpyc547jB1kVhn1vx_41.006905_29.157101@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065581,
+    "wof:geomhash":"9a6a9fec7a119f911d9873262cb0210b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108598775
+        }
+    ],
+    "wof:id":1108598775,
+    "wof:lastmodified":1474065581,
+    "wof:name":"Celik Is Kalip Aydinlatma San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.1571006775,
+    41.0069046021,
+    29.1571006775,
+    41.0069046021
+],
+  "geometry": {"coordinates":[29.1571006775,41.0069046021],"type":"Point"}
+}

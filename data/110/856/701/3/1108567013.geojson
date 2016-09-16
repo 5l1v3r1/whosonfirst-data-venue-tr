@@ -1,0 +1,70 @@
+{
+  "id": 1108567013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7986927032,40.9808769226,28.7986927032,40.9808769226",
+    "geom:latitude":40.980877,
+    "geom:longitude":28.798693,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Londra Asf. No:326 Avcilar",
+    "sg:city":"Beylikd?? 34905",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 3233",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vCPg0vsC7xDPVsuRY2oKT_40.980877_28.798693@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064328,
+    "wof:geomhash":"168b7733295e4041250818aa9ac4e8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108567013
+        }
+    ],
+    "wof:id":1108567013,
+    "wof:lastmodified":1474064328,
+    "wof:name":"Dokaksam Dokuma Makina Aksami San. Tic.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.7986927032,
+    40.9808769226,
+    28.7986927032,
+    40.9808769226
+],
+  "geometry": {"coordinates":[28.7986927032,40.9808769226],"type":"Point"}
+}

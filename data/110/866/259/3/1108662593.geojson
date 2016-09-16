@@ -1,0 +1,68 @@
+{
+  "id": 1108662593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7688388824,36.8524436951,30.7688388824,36.8524436951",
+    "geom:latitude":36.852444,
+    "geom:longitude":30.768839,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Caglayan Mah.2029.sok. No:14/6 Lara",
+    "sg:city":"K?rfez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 323 9064",
+    "sg:postcode":"41780",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930175,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tV720us0oQF4thJplFvLa_36.852444_30.768839@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068348,
+    "wof:geomhash":"22a0f07fc5e4dd120bc4ee50a864eb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930175,
+            "region_id":85679263,
+            "venue_id":1108662593
+        }
+    ],
+    "wof:id":1108662593,
+    "wof:lastmodified":1474068348,
+    "wof:name":"Ozka Petrol",
+    "wof:parent_id":85930175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7688388824,
+    36.8524436951,
+    30.7688388824,
+    36.8524436951
+],
+  "geometry": {"coordinates":[30.7688388824,36.8524436951],"type":"Point"}
+}

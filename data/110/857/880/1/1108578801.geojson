@@ -1,0 +1,72 @@
+{
+  "id": 1108578801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.106836319,40.9738082886,29.106836319,40.9738082886",
+    "geom:latitude":40.973808,
+    "geom:longitude":29.106836,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sogutlucesme Cad. No: 70/36 Kadikoy",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 5757",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v0B6gvO5Y1hDxj5Mck3ow_40.973808_29.106836@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064905,
+    "wof:geomhash":"2cd58d805a6a2a2735378bb649ec35e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108578801
+        }
+    ],
+    "wof:id":1108578801,
+    "wof:lastmodified":1474064905,
+    "wof:name":"Bulvar Optik Saglik Hizmetleri",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.106836319,
+    40.9738082886,
+    29.106836319,
+    40.9738082886
+],
+  "geometry": {"coordinates":[29.106836319,40.9738082886],"type":"Point"}
+}

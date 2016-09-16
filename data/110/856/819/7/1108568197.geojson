@@ -1,0 +1,70 @@
+{
+  "id": 1108568197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4922866821,37.8815193176,32.4922866821,37.8815193176",
+    "geom:latitude":37.881519,
+    "geom:longitude":32.492287,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sihhiye Sk. No: 4 Selcuklu",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 428 2360",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904143,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7zG2hFKaBV6OJNZCfahv_37.881519_32.492287@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064382,
+    "wof:geomhash":"6d7657ed0d8d761a6cc3a4a73ebf7024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904143,
+            "region_id":85679425,
+            "venue_id":1108568197
+        }
+    ],
+    "wof:id":1108568197,
+    "wof:lastmodified":1474064382,
+    "wof:name":"Koncelik A.s.",
+    "wof:parent_id":85904143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.4922866821,
+    37.8815193176,
+    32.4922866821,
+    37.8815193176
+],
+  "geometry": {"coordinates":[32.4922866821,37.8815193176],"type":"Point"}
+}

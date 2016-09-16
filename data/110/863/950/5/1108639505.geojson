@@ -1,0 +1,63 @@
+{
+  "id": 1108639505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2210998535,38.4696998596,27.2210998535,38.4696998596",
+    "geom:latitude":38.4697,
+    "geom:longitude":27.2211,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ege Univ. Bornova",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 373 2660",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rQkZ4qsNGwf8ddd6lx2ZG_38.469700_27.221100@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067404,
+    "wof:geomhash":"ed4f67802fba5f1a9a541a51d922ed33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108639505
+        }
+    ],
+    "wof:id":1108639505,
+    "wof:lastmodified":1474067404,
+    "wof:name":"Hava Kirlenmesi Arast. Denetimi Turk Milli Komitesi",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2210998535,
+    38.4696998596,
+    27.2210998535,
+    38.4696998596
+],
+  "geometry": {"coordinates":[27.2210998535,38.4696998596],"type":"Point"}
+}

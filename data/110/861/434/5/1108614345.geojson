@@ -1,0 +1,63 @@
+{
+  "id": 1108614345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.912109375,41.0438117981,28.912109375,41.0438117981",
+    "geom:latitude":41.043812,
+    "geom:longitude":28.912109,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenidogan Mah. Abdi Ipek? Cad.kizilay Sok. N.8 - Bayrampasa",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 674 2858",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yVRLapBTYXdBNfZhqiEUL_41.043812_28.912109@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066247,
+    "wof:geomhash":"7c879f5b07069df7662ea33d8bb7d496",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108614345
+        }
+    ],
+    "wof:id":1108614345,
+    "wof:lastmodified":1474066247,
+    "wof:name":"Kizilay Bayrampasa Subesi",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.912109375,
+    41.0438117981,
+    28.912109375,
+    41.0438117981
+],
+  "geometry": {"coordinates":[28.912109375,41.0438117981],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108661331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0457782745,41.0956573486,29.0457782745,41.0956573486",
+    "geom:latitude":41.095657,
+    "geom:longitude":29.045778,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hekim Suyu Cad. 16/b 34080 K?? K? Istanbul",
+    "sg:city":"Adalar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 618 8485",
+    "sg:postcode":"81340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cardboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930219,
+        102191569,
+        85632393,
+        101912659,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cZZot9r6p2E9daKJsxPbw_41.095657_29.045778@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068301,
+    "wof:geomhash":"f382ec1fc755b733b6f2f1c6ab546da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912659,
+            "neighbourhood_id":85930219,
+            "region_id":85679237,
+            "venue_id":1108661331
+        }
+    ],
+    "wof:id":1108661331,
+    "wof:lastmodified":1474068301,
+    "wof:name":"Yener Kirtasiye Zarf San As",
+    "wof:parent_id":85930219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardboard"
+    ]
+},
+  "bbox": [
+    29.0457782745,
+    41.0956573486,
+    29.0457782745,
+    41.0956573486
+],
+  "geometry": {"coordinates":[29.0457782745,41.0956573486],"type":"Point"}
+}

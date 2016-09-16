@@ -1,0 +1,75 @@
+{
+  "id": 1108605527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9834136963,41.0600013733,28.9834136963,41.0600013733",
+    "geom:latitude":41.060001,
+    "geom:longitude":28.983414,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Orbay Cad. No.96",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 1082",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G05ecO9EoPoasKpsN4fQt_41.060001_28.983414@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065865,
+    "wof:geomhash":"8779b50443323ad0ed324ef42067e9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108605527
+        }
+    ],
+    "wof:id":1108605527,
+    "wof:lastmodified":1474065865,
+    "wof:name":"Erdal Collection",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9834136963,
+    41.0600013733,
+    28.9834136963,
+    41.0600013733
+],
+  "geometry": {"coordinates":[28.9834136963,41.0600013733],"type":"Point"}
+}

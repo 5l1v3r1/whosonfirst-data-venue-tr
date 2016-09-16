@@ -1,0 +1,68 @@
+{
+  "id": 1108592303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8845024109,41.019077301,28.8845024109,41.019077301",
+    "geom:latitude":41.019077,
+    "geom:longitude":28.884502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mh.sansun Sk.no:21",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 504 4965",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929891,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UCgJbTcM1MXZXkBz7CMVF_41.019077_28.884502@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065319,
+    "wof:geomhash":"8960a533f061e2451e380f5afcfb3dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":1108592303
+        }
+    ],
+    "wof:id":1108592303,
+    "wof:lastmodified":1474065319,
+    "wof:name":"Sufi Tekstil San.a.s",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8845024109,
+    41.019077301,
+    28.8845024109,
+    41.019077301
+],
+  "geometry": {"coordinates":[28.8845024109,41.019077301],"type":"Point"}
+}

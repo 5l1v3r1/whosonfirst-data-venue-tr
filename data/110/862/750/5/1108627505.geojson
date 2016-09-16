@@ -1,0 +1,75 @@
+{
+  "id": 1108627505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0746898651,41.0635566711,29.0746898651,41.0635566711",
+    "geom:latitude":41.063557,
+    "geom:longitude":29.07469,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad. No: 14",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2529030",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929969,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25BOOolnWCtSuXjFJSdB2z_41.063557_29.074690@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066759,
+    "wof:geomhash":"0025a456c55b3877e48bb1f6faab5230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85929969,
+            "region_id":85679237,
+            "venue_id":1108627505
+        }
+    ],
+    "wof:id":1108627505,
+    "wof:lastmodified":1474066759,
+    "wof:name":"Milta Turizm",
+    "wof:parent_id":85929969,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0746898651,
+    41.0635566711,
+    29.0746898651,
+    41.0635566711
+],
+  "geometry": {"coordinates":[29.0746898651,41.0635566711],"type":"Point"}
+}

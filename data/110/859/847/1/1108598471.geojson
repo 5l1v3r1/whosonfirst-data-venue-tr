@@ -1,0 +1,73 @@
+{
+  "id": 1108598471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9479007721,41.0201454163,28.9479007721,41.0201454163",
+    "geom:latitude":41.020145,
+    "geom:longitude":28.947901,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2. F?e Carsisi No.8 Topkapi",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 0387",
+    "sg:postcode":"06640",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sound",
+        "light",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906529,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AQ8soQRM8LYh1fBrQCgiz_41.020145_28.947901@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065565,
+    "wof:geomhash":"bfa82f8c35f95e03ce030f719aca3cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906529,
+            "region_id":85679237,
+            "venue_id":1108598471
+        }
+    ],
+    "wof:id":1108598471,
+    "wof:lastmodified":1474065565,
+    "wof:name":"Koseler Elektronik",
+    "wof:parent_id":85906529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "light",
+        "system"
+    ]
+},
+  "bbox": [
+    28.9479007721,
+    41.0201454163,
+    28.9479007721,
+    41.0201454163
+],
+  "geometry": {"coordinates":[28.9479007721,41.0201454163],"type":"Point"}
+}

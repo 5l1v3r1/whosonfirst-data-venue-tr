@@ -1,0 +1,68 @@
+{
+  "id": 1108593347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8596343994,39.8808250427,32.8596343994,39.8808250427",
+    "geom:latitude":39.880825,
+    "geom:longitude":32.859634,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Simon Bolivar Cd.",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 5553",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XgAQz1diLCh5AOXvJj8bz_39.880825_32.859634@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065358,
+    "wof:geomhash":"e710413deb78fb067d4fff1a027b62e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108593347
+        }
+    ],
+    "wof:id":1108593347,
+    "wof:lastmodified":1474065358,
+    "wof:name":"Terapi Veteriner Klinigi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    32.8596343994,
+    39.8808250427,
+    32.8596343994,
+    39.8808250427
+],
+  "geometry": {"coordinates":[32.8596343994,39.8808250427],"type":"Point"}
+}

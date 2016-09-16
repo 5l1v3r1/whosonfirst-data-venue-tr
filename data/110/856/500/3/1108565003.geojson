@@ -1,0 +1,82 @@
+{
+  "id": 1108565003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9712944031,41.0341377258,28.9712944031,41.0341377258",
+    "geom:latitude":41.034138,
+    "geom:longitude":28.971294,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sevketpasa Mh. Piyale Bulv. No:5 Okmeydani",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 4280",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gasket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906547,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YvSZjhvQ1gBURwXHuBzKP_41.034138_28.971294@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064203,
+    "wof:geomhash":"bbc973d5a45562642ea6c9d13d3b3069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":1108565003
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906537,
+            "region_id":85679237,
+            "venue_id":1108565003
+        }
+    ],
+    "wof:id":1108565003,
+    "wof:lastmodified":1474064203,
+    "wof:name":"Comsan Conta Mam. M.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasket"
+    ]
+},
+  "bbox": [
+    28.9712944031,
+    41.0341377258,
+    28.9712944031,
+    41.0341377258
+],
+  "geometry": {"coordinates":[28.9712944031,41.0341377258],"type":"Point"}
+}

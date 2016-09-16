@@ -1,0 +1,75 @@
+{
+  "id": 1108602425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.025346756,40.986076355,29.025346756,40.986076355",
+    "geom:latitude":40.986076,
+    "geom:longitude":29.025347,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moda Cd. No:146",
+    "sg:city":"Moda",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 385 9457",
+    "sg:postcode":"30800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GzccAI5w0HbJWGYEJ1Ob3_40.986076_29.025347@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065732,
+    "wof:geomhash":"2cf8e1f91cb7f37f5ceaf1a1f2d7edb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":85679237,
+            "venue_id":1108602425
+        }
+    ],
+    "wof:id":1108602425,
+    "wof:lastmodified":1474065732,
+    "wof:name":"Nizam Isi Dogalgaz Isi Sistem.",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.025346756,
+    40.986076355,
+    29.025346756,
+    40.986076355
+],
+  "geometry": {"coordinates":[29.025346756,40.986076355],"type":"Point"}
+}

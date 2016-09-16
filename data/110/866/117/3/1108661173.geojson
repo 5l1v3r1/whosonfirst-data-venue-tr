@@ -1,0 +1,75 @@
+{
+  "id": 1108661173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9957962036,41.0822792053,28.9957962036,41.0822792053",
+    "geom:latitude":41.082279,
+    "geom:longitude":28.995796,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keresteciler Sit. Alaybey Sk. No:15 Merter",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 3400",
+    "sg:postcode":"34410",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40giGCXV7WmxyTpqtLOp3e_41.082279_28.995796@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068295,
+    "wof:geomhash":"0762d2d8588164af6d296332d2108012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108661173
+        }
+    ],
+    "wof:id":1108661173,
+    "wof:lastmodified":1474068295,
+    "wof:name":"?zt?kel Basim Ve Ambalaj San. A.s.",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9957962036,
+    41.0822792053,
+    28.9957962036,
+    41.0822792053
+],
+  "geometry": {"coordinates":[28.9957962036,41.0822792053],"type":"Point"}
+}

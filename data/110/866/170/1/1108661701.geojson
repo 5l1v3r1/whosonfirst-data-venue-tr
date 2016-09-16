@@ -1,0 +1,66 @@
+{
+  "id": 1108661701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9762134552,41.0155601501,28.9762134552,41.0155601501",
+    "geom:latitude":41.01556,
+    "geom:longitude":28.976213,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cd. No:98 Sirkeci",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 514 1747",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vIW6mktb92noJq3NhDlBK_41.015560_28.976213@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068315,
+    "wof:geomhash":"a568a3e98019863c62f307b7554c2911",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108661701
+        }
+    ],
+    "wof:id":1108661701,
+    "wof:lastmodified":1474068315,
+    "wof:name":"Keskin Color Kartpostalcilik San. Tic. A.s.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.9762134552,
+    41.0155601501,
+    28.9762134552,
+    41.0155601501
+],
+  "geometry": {"coordinates":[28.9762134552,41.0155601501],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108678695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1413936615,38.4306411743,27.1413936615,38.4306411743",
+    "geom:latitude":38.430641,
+    "geom:longitude":27.141394,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1381. Sk. No:5/12",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2324634605729",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75KFvCPvZtGONq2Mq8H7u4_38.430641_27.141394@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068995,
+    "wof:geomhash":"1f9f0a08b2826f445a1e5a5fb0f24783",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108678695
+        }
+    ],
+    "wof:id":1108678695,
+    "wof:lastmodified":1474068995,
+    "wof:name":"Latek Uluslararasi Tasimacilik Ve Tic.ltd.sti.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1413936615,
+    38.4306411743,
+    27.1413936615,
+    38.4306411743
+],
+  "geometry": {"coordinates":[27.1413936615,38.4306411743],"type":"Point"}
+}

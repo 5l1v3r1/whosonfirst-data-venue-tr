@@ -1,0 +1,74 @@
+{
+  "id": 1108635699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7092056274,36.8790512085,30.7092056274,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.709206,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Elmali Mah. 15. Sok.no:5/11",
+    "sg:city":"Esentepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 248 5780",
+    "sg:postcode":"03456",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MILeepuR1IL69HeDbW2MX_36.879051_30.709206@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067252,
+    "wof:geomhash":"de6e658ab3247c1a4422ee844fae3cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108635699
+        }
+    ],
+    "wof:id":1108635699,
+    "wof:lastmodified":1474067252,
+    "wof:name":"Ak-bim Bilgi Islem Ltd.",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [
+    30.7092056274,
+    36.8790512085,
+    30.7092056274,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7092056274,36.8790512085],"type":"Point"}
+}

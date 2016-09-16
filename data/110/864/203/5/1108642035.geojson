@@ -1,0 +1,72 @@
+{
+  "id": 1108642035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1014251709,40.954864502,29.1014251709,40.954864502",
+    "geom:latitude":40.954865,
+    "geom:longitude":29.101425,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"I?renk? Yolu No : 29",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 313 9504",
+    "sg:postcode":"42000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m0XtY782aOBZGzsl4lO4d_40.954865_29.101425@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067496,
+    "wof:geomhash":"875a54400146fce8aa3cf567951857fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108642035
+        }
+    ],
+    "wof:id":1108642035,
+    "wof:lastmodified":1474067496,
+    "wof:name":"Armas Arikan A.s.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.1014251709,
+    40.954864502,
+    29.1014251709,
+    40.954864502
+],
+  "geometry": {"coordinates":[29.1014251709,40.954864502],"type":"Point"}
+}

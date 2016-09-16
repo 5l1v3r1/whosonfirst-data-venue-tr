@@ -1,0 +1,63 @@
+{
+  "id": 1108648109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8510704041,39.9231300354,32.8510704041,39.9231300354",
+    "geom:latitude":39.92313,
+    "geom:longitude":32.85107,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Cad. 36/17 Kizilay",
+    "sg:city":"27020",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 1993",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qE9aFk1youpeHsKAF4Pt7_39.923130_32.851070@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067747,
+    "wof:geomhash":"03ea6d5ce50629b6b07b37e1cbebd73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108648109
+        }
+    ],
+    "wof:id":1108648109,
+    "wof:lastmodified":1474067747,
+    "wof:name":"Biofizik Medikal Tib. Mlz. San.",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8510704041,
+    39.9231300354,
+    32.8510704041,
+    39.9231300354
+],
+  "geometry": {"coordinates":[32.8510704041,39.9231300354],"type":"Point"}
+}

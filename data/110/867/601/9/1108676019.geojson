@@ -1,0 +1,73 @@
+{
+  "id": 1108676019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9865188599,41.0450286865,28.9865188599,41.0450286865",
+    "geom:latitude":41.045029,
+    "geom:longitude":28.986519,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad. 26, Harbiye",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 6025",
+    "sg:postcode":"01220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fwpILNe8Irt1UwqmqAbjo_41.045029_28.986519@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068892,
+    "wof:geomhash":"925e2bad85a3e30916ddf22abc2cb5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108676019
+        }
+    ],
+    "wof:id":1108676019,
+    "wof:lastmodified":1474068892,
+    "wof:name":"Irlanda",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9865188599,
+    41.0450286865,
+    28.9865188599,
+    41.0450286865
+],
+  "geometry": {"coordinates":[28.9865188599,41.0450286865],"type":"Point"}
+}

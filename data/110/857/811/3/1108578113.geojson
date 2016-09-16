@@ -1,0 +1,72 @@
+{
+  "id": 1108578113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7072544098,36.8837127686,30.7072544098,36.8837127686",
+    "geom:latitude":36.883713,
+    "geom:longitude":30.707254,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Mah. Cakirlar Cad. Cesme Apt. No: 7/2",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 346 3607",
+    "sg:postcode":"01000",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D8Wiis9cJw47KNrRksOMa_36.883713_30.707254@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064870,
+    "wof:geomhash":"8b4523ed3747c74b2c761b36a78a0f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108578113
+        }
+    ],
+    "wof:id":1108578113,
+    "wof:lastmodified":1474064870,
+    "wof:name":"Bimak Buro Makinalari",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    30.7072544098,
+    36.8837127686,
+    30.7072544098,
+    36.8837127686
+],
+  "geometry": {"coordinates":[30.7072544098,36.8837127686],"type":"Point"}
+}

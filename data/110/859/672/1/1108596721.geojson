@@ -1,0 +1,71 @@
+{
+  "id": 1108596721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9054012299,40.9989089966,28.9054012299,40.9989089966",
+    "geom:latitude":40.998909,
+    "geom:longitude":28.905401,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Dogan 42.sk. No.111-113 Zeytinburnu",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 5953",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TZrj3kMDuhJzNSlwGcsax_40.998909_28.905401@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065502,
+    "wof:geomhash":"336e05594788ec4b07ca0ed8a9d78ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108596721
+        }
+    ],
+    "wof:id":1108596721,
+    "wof:lastmodified":1474065502,
+    "wof:name":"Gamze Deri San. Ltd.sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9054012299,
+    40.9989089966,
+    28.9054012299,
+    40.9989089966
+],
+  "geometry": {"coordinates":[28.9054012299,40.9989089966],"type":"Point"}
+}

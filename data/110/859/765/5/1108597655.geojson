@@ -1,0 +1,66 @@
+{
+  "id": 1108597655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2329998016,40.879283905,29.2329998016,40.879283905",
+    "geom:latitude":40.879284,
+    "geom:longitude":29.233,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dogu Mah.ihlamur Sok. No:26/1-",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kZdO6iICaPRpaEsOu1Rhh_40.879284_29.233000@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065537,
+    "wof:geomhash":"4d2d38a3e4a593f18ae93759dd6e13dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930115,
+            "venue_id":1108597655
+        }
+    ],
+    "wof:id":1108597655,
+    "wof:lastmodified":1474065537,
+    "wof:name":"Edessa Asans? Sanayi",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.2329998016,
+    40.879283905,
+    29.2329998016,
+    40.879283905
+],
+  "geometry": {"coordinates":[29.2329998016,40.879283905],"type":"Point"}
+}

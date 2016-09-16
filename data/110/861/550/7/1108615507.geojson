@@ -1,0 +1,72 @@
+{
+  "id": 1108615507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8027992249,40.9730186462,28.8027992249,40.9730186462",
+    "geom:latitude":40.973019,
+    "geom:longitude":28.802799,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Cad.morsumbul Sok. No.16 Bakirkoy",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 2171",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LAmdIBVx2KjNDtekSpgk1_40.973019_28.802799@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066291,
+    "wof:geomhash":"bbcaa8e4122dc370d73ab8f15b4ad7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108615507
+        }
+    ],
+    "wof:id":1108615507,
+    "wof:lastmodified":1474066291,
+    "wof:name":"Hzm Mobilya",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.8027992249,
+    40.9730186462,
+    28.8027992249,
+    40.9730186462
+],
+  "geometry": {"coordinates":[28.8027992249,40.9730186462],"type":"Point"}
+}

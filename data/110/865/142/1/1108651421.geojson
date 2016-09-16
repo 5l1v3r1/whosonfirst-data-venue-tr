@@ -1,0 +1,72 @@
+{
+  "id": 1108651421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1073722839,40.9482955933,29.1073722839,40.9482955933",
+    "geom:latitude":40.948296,
+    "geom:longitude":29.107372,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. Hanimeli Sk. No:3/8 K.yali",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 388 9080",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z4bknM1920azSwwzMYkGb_40.948296_29.107372@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067900,
+    "wof:geomhash":"747c1b39d8a9aef32e8df53bdf1c9b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108651421
+        }
+    ],
+    "wof:id":1108651421,
+    "wof:lastmodified":1474067900,
+    "wof:name":"Mediker Tibbi Cih. Paz.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.1073722839,
+    40.9482955933,
+    29.1073722839,
+    40.9482955933
+],
+  "geometry": {"coordinates":[29.1073722839,40.9482955933],"type":"Point"}
+}

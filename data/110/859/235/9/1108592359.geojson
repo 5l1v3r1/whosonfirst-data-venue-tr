@@ -1,0 +1,68 @@
+{
+  "id": 1108592359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8942832947,41.0803031921,28.8942832947,41.0803031921",
+    "geom:latitude":41.080303,
+    "geom:longitude":28.894283,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad. No:111",
+    "sg:city":"K??k?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 535 9945",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mNHObeU5m9lZ4RqMTrF0T_41.080303_28.894283@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065321,
+    "wof:geomhash":"7ed3eac284290655848df095909595bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108592359
+        }
+    ],
+    "wof:id":1108592359,
+    "wof:lastmodified":1474065321,
+    "wof:name":"Ugur Tekstil Ltd.sti.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8942832947,
+    41.0803031921,
+    28.8942832947,
+    41.0803031921
+],
+  "geometry": {"coordinates":[28.8942832947,41.0803031921],"type":"Point"}
+}

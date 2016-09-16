@@ -1,0 +1,71 @@
+{
+  "id": 1108587587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8601760864,39.9180793762,32.8601760864,39.9180793762",
+    "geom:latitude":39.918079,
+    "geom:longitude":32.860176,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mithatpasa Cad 66/14 Kizilay",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 357 782 3690",
+    "sg:postcode":"06420",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "web",
+        "hosting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aliQQSiHNo4huSTA3a2S3_39.918079_32.860176@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065197,
+    "wof:geomhash":"1b769cbe8ed021866d7d9daf1b0b9b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108587587
+        }
+    ],
+    "wof:id":1108587587,
+    "wof:lastmodified":1474065197,
+    "wof:name":"Galaxy Design",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "hosting"
+    ]
+},
+  "bbox": [
+    32.8601760864,
+    39.9180793762,
+    32.8601760864,
+    39.9180793762
+],
+  "geometry": {"coordinates":[32.8601760864,39.9180793762],"type":"Point"}
+}

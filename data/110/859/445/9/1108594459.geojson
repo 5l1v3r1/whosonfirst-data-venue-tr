@@ -1,0 +1,68 @@
+{
+  "id": 1108594459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6940689087,36.8899536133,30.6940689087,36.8899536133",
+    "geom:latitude":36.889954,
+    "geom:longitude":30.694069,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anafartalar Cad. 146. Sk. No:2/4",
+    "sg:city":"(352) 222 29 24",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 248 6848",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MPixrSNKOF3BrGpDzedSL_36.889954_30.694069@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065401,
+    "wof:geomhash":"72d977581189418a7dcc98bde9ee71f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930187,
+            "venue_id":1108594459
+        }
+    ],
+    "wof:id":1108594459,
+    "wof:lastmodified":1474065401,
+    "wof:name":"Medimpeks Ltd. Sti.",
+    "wof:parent_id":85930187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    30.6940689087,
+    36.8899536133,
+    30.6940689087,
+    36.8899536133
+],
+  "geometry": {"coordinates":[30.6940689087,36.8899536133],"type":"Point"}
+}

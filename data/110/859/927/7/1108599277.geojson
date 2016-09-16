@@ -1,0 +1,71 @@
+{
+  "id": 1108599277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9550476074,41.0096282959,28.9550476074,41.0096282959",
+    "geom:latitude":41.009628,
+    "geom:longitude":28.955048,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kemalpasa Mh. Ordu Cad. No: 286 D:2",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 514 4717",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10YGS1MlEykkN9xUFN2aEP_41.009628_28.955048@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065599,
+    "wof:geomhash":"87916009097ad20349012a3c101b01ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108599277
+        }
+    ],
+    "wof:id":1108599277,
+    "wof:lastmodified":1474065599,
+    "wof:name":"Ten Aydinlatma Ve Yapi Malzemeleri San.tic.ltd.s.",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9550476074,
+    41.0096282959,
+    28.9550476074,
+    41.0096282959
+],
+  "geometry": {"coordinates":[28.9550476074,41.0096282959],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108678847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.046869278,40.9742355347,29.046869278,40.9742355347",
+    "geom:latitude":40.974236,
+    "geom:longitude":29.046869,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemil Topuzlu Cd. No:100/7",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 372 1830",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GA2PpoJbGMuAVmOyHK35Y_40.974236_29.046869@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069001,
+    "wof:geomhash":"d8dda7471407d02a82cfcd04dc9153c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108678847
+        }
+    ],
+    "wof:id":1108678847,
+    "wof:lastmodified":1474069001,
+    "wof:name":"S?nmez Denizcilik A.s.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.046869278,
+    40.9742355347,
+    29.046869278,
+    40.9742355347
+],
+  "geometry": {"coordinates":[29.046869278,40.9742355347],"type":"Point"}
+}

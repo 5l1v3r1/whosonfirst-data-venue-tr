@@ -1,0 +1,71 @@
+{
+  "id": 1108668865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1296863556,38.4186973572,27.1296863556,38.4186973572",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"10039 Sk. No:4 I.a.s.b. ?igli",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 376 7230",
+    "sg:postcode":"42000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36oK6cYeysoGRGXTt0GMvA_38.418697_27.129686@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068599,
+    "wof:geomhash":"3bf43c6415f50d7e68805afa2fa9a77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108668865
+        }
+    ],
+    "wof:id":1108668865,
+    "wof:lastmodified":1474068599,
+    "wof:name":"Teknik Pompa San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    27.1296863556,
+    38.4186973572,
+    27.1296863556,
+    38.4186973572
+],
+  "geometry": {"coordinates":[27.1296863556,38.4186973572],"type":"Point"}
+}

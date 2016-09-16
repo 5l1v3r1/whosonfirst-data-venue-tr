@@ -1,0 +1,68 @@
+{
+  "id": 1108594685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.849899292,39.886264801,32.849899292,39.886264801",
+    "geom:latitude":39.886265,
+    "geom:longitude":32.849899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Refik Belendir Sok. No: 46/6",
+    "sg:city":"Y.ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 0112",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DbfaCWiSoQmBcy1FAPtq8_39.886265_32.849899@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065408,
+    "wof:geomhash":"239f5af2bd77269e4004a06a9b8152db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108594685
+        }
+    ],
+    "wof:id":1108594685,
+    "wof:lastmodified":1474065408,
+    "wof:name":"Cinar Muhendislik Musavirlik Ve Proje Hizm.ltd.sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    32.849899292,
+    39.886264801,
+    32.849899292,
+    39.886264801
+],
+  "geometry": {"coordinates":[32.849899292,39.886264801],"type":"Point"}
+}

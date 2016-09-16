@@ -1,0 +1,63 @@
+{
+  "id": 1108639357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.868598938,39.9609985352,32.868598938,39.9609985352",
+    "geom:latitude":39.960999,
+    "geom:longitude":32.868599,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Feza G?sey Bil. Merk. Yani, Aydinlikevler",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 416 7100",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904081,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSd87gVi0qXJynlliZnLI_39.960999_32.868599@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067399,
+    "wof:geomhash":"73e087991ae83229c2e896027b8b668f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904081,
+            "region_id":85679409,
+            "venue_id":1108639357
+        }
+    ],
+    "wof:id":1108639357,
+    "wof:lastmodified":1474067399,
+    "wof:name":"Foto Muhabirleri Dernegi",
+    "wof:parent_id":85904081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.868598938,
+    39.9609985352,
+    32.868598938,
+    39.9609985352
+],
+  "geometry": {"coordinates":[32.868598938,39.9609985352],"type":"Point"}
+}

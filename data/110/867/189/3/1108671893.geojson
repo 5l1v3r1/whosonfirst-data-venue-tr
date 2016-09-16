@@ -1,0 +1,75 @@
+{
+  "id": 1108671893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8633003235,41.0006637573,28.8633003235,41.0006637573",
+    "geom:latitude":41.000664,
+    "geom:longitude":28.8633,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cad. Tahir Sok. No:9/a Bahcelievler",
+    "sg:city":"Ostim",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 641 6180",
+    "sg:postcode":"06374",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qTwxLe7AwZoynLprW0Lz4_41.000664_28.863300@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068714,
+    "wof:geomhash":"94eb995fddbbfc06cb42a066b1b8c93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108671893
+        }
+    ],
+    "wof:id":1108671893,
+    "wof:lastmodified":1474068714,
+    "wof:name":"Uzelsan Yangin Sondurme Cihazlari Ltd.sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    28.8633003235,
+    41.0006637573,
+    28.8633003235,
+    41.0006637573
+],
+  "geometry": {"coordinates":[28.8633003235,41.0006637573],"type":"Point"}
+}

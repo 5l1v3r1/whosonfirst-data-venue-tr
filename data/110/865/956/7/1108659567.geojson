@@ -1,0 +1,75 @@
+{
+  "id": 1108659567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0666637421,40.9701766968,29.0666637421,40.9701766968",
+    "geom:latitude":40.970177,
+    "geom:longitude":29.066664,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hamam Sk. No:16/37 Caddebostan",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 5293",
+    "sg:postcode":"77200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "record",
+        "casette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ESEQiMdrjJ5pznbDwXeJq_40.970177_29.066664@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068239,
+    "wof:geomhash":"67a68be562c8b244518496c142157f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108659567
+        }
+    ],
+    "wof:id":1108659567,
+    "wof:lastmodified":1474068239,
+    "wof:name":"Anten Video",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "casette"
+    ]
+},
+  "bbox": [
+    29.0666637421,
+    40.9701766968,
+    29.0666637421,
+    40.9701766968
+],
+  "geometry": {"coordinates":[29.0666637421,40.9701766968],"type":"Point"}
+}

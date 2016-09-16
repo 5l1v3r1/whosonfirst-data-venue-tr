@@ -1,0 +1,77 @@
+{
+  "id": 1108671671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0409469604,41.0940933228,29.0409469604,41.0940933228",
+    "geom:latitude":41.094093,
+    "geom:longitude":29.040947,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oto Sanayi Sitesi Celik Sokak No:39 80260 4.levent Istanbul",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 0777",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jb3xsOXhLoHFRX2r8WjbY_41.094093_29.040947@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068706,
+    "wof:geomhash":"6b774a36a3a38de9a17920172adbf031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":1108671671
+        }
+    ],
+    "wof:id":1108671671,
+    "wof:lastmodified":1474068706,
+    "wof:name":"Oygarsan Tappet Ve Supap Gaydlari San Tic Ltd Sti",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ]
+},
+  "bbox": [
+    29.0409469604,
+    41.0940933228,
+    29.0409469604,
+    41.0940933228
+],
+  "geometry": {"coordinates":[29.0409469604,41.0940933228],"type":"Point"}
+}

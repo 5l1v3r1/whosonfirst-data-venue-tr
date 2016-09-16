@@ -1,0 +1,73 @@
+{
+  "id": 1108622687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.123336792,40.9781646729,29.123336792,40.9781646729",
+    "geom:latitude":40.978165,
+    "geom:longitude":29.123337,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayisdagi Cd. No:133",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 5351",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TOuWpHLbzwEw3SBmcNnWF_40.978165_29.123337@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066579,
+    "wof:geomhash":"bb65b59a93438d06c104ed104efccf99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108622687
+        }
+    ],
+    "wof:id":1108622687,
+    "wof:lastmodified":1474066579,
+    "wof:name":"Bir-tes M?hendis. Mimar. Taahh?t Tic. Ltd. Sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.123336792,
+    40.9781646729,
+    29.123336792,
+    40.9781646729
+],
+  "geometry": {"coordinates":[29.123336792,40.9781646729],"type":"Point"}
+}

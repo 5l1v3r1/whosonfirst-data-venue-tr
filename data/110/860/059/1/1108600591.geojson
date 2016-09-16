@@ -1,0 +1,71 @@
+{
+  "id": 1108600591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8596229553,39.9219551086,32.8596229553,39.9219551086",
+    "geom:latitude":39.921955,
+    "geom:longitude":32.859623,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziya Gokalp Cad. 30/1-2",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 431 9158",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TiVvxKJpNUaXaefIddpT6_39.921955_32.859623@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065659,
+    "wof:geomhash":"960e4a254f6da4f6b30b73d876202742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108600591
+        }
+    ],
+    "wof:id":1108600591,
+    "wof:lastmodified":1474065659,
+    "wof:name":"Cilioglu Ltd.sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    32.8596229553,
+    39.9219551086,
+    32.8596229553,
+    39.9219551086
+],
+  "geometry": {"coordinates":[32.8596229553,39.9219551086],"type":"Point"}
+}

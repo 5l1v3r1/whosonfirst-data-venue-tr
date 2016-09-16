@@ -1,0 +1,72 @@
+{
+  "id": 1108586451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9422187805,41.0762672424,28.9422187805,41.0762672424",
+    "geom:latitude":41.076267,
+    "geom:longitude":28.942219,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Akif Cad. Simsir Sk. No.2/4",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 507 5050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qtDW1PwzLC9B9ScIyDYue_41.076267_28.942219@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065168,
+    "wof:geomhash":"16abe8d0e6053c3454b9ff17d59b96ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108586451
+        }
+    ],
+    "wof:id":1108586451,
+    "wof:lastmodified":1474065168,
+    "wof:name":"Genc Ugur Kumascilik",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    28.9422187805,
+    41.0762672424,
+    28.9422187805,
+    41.0762672424
+],
+  "geometry": {"coordinates":[28.9422187805,41.0762672424],"type":"Point"}
+}

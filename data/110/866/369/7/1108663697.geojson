@@ -1,0 +1,73 @@
+{
+  "id": 1108663697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8426818848,39.9528617859,32.8426818848,39.9528617859",
+    "geom:latitude":39.952862,
+    "geom:longitude":32.842682,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemal G?sel Cd. No:106/23 Cebeci",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 363 1345",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929513,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pSZcgavEkZCAyIT0yJ266_39.952862_32.842682@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068392,
+    "wof:geomhash":"b32cf9c961fab45c6652a13d5e4e2fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":1108663697
+        }
+    ],
+    "wof:id":1108663697,
+    "wof:lastmodified":1474068392,
+    "wof:name":"Botes Ltd. Sti.",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8426818848,
+    39.9528617859,
+    32.8426818848,
+    39.9528617859
+],
+  "geometry": {"coordinates":[32.8426818848,39.9528617859],"type":"Point"}
+}

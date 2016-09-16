@@ -1,0 +1,71 @@
+{
+  "id": 1108588265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9148464203,41.0324401855,28.9148464203,41.0324401855",
+    "geom:latitude":41.03244,
+    "geom:longitude":28.914846,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Orta Mah. Tun?sok. No: 13",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 493 4705",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tRukrOVYVVdsweCfenwYY_41.032440_28.914846@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065211,
+    "wof:geomhash":"7492c27cf123e9804bdbfb63a9a7b8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108588265
+        }
+    ],
+    "wof:id":1108588265,
+    "wof:lastmodified":1474065211,
+    "wof:name":"Egzotik Triko",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9148464203,
+    41.0324401855,
+    28.9148464203,
+    41.0324401855
+],
+  "geometry": {"coordinates":[28.9148464203,41.0324401855],"type":"Point"}
+}

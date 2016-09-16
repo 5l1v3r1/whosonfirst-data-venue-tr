@@ -1,0 +1,72 @@
+{
+  "id": 1108673363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.073890686,40.9721374512,29.073890686,40.9721374512",
+    "geom:latitude":40.972137,
+    "geom:longitude":29.073891,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ethem Efedi Cad. No:46",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 363 3916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14RP2LJxfKRZ1bMa4vVpGm_40.972137_29.073891@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068778,
+    "wof:geomhash":"3378efb53ab732a3c8cc8429f0dfb07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108673363
+        }
+    ],
+    "wof:id":1108673363,
+    "wof:lastmodified":1474068778,
+    "wof:name":"Salkim Cicekevi",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.073890686,
+    40.9721374512,
+    29.073890686,
+    40.9721374512
+],
+  "geometry": {"coordinates":[29.073890686,40.9721374512],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108604795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9704113007,41.0139541626,28.9704113007,41.0139541626",
+    "geom:latitude":41.013954,
+    "geom:longitude":28.970411,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haci Kucuk Sok. No:28",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 3730",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X1AdUJYRNuTHO24YNoEm2_41.013954_28.970411@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065836,
+    "wof:geomhash":"e47b88b626ee3dd66819d7b20439ddc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108604795
+        }
+    ],
+    "wof:id":1108604795,
+    "wof:lastmodified":1474065836,
+    "wof:name":"Aktas Akinci Tekstil A.s.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9704113007,
+    41.0139541626,
+    28.9704113007,
+    41.0139541626
+],
+  "geometry": {"coordinates":[28.9704113007,41.0139541626],"type":"Point"}
+}

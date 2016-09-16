@@ -1,0 +1,69 @@
+{
+  "id": 1108657173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8633003235,39.9366188049,32.8633003235,39.9366188049",
+    "geom:latitude":39.936619,
+    "geom:longitude":32.8633,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hilmi Karakas",
+    "sg:city":"Elmali",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 629 2019",
+    "sg:postcode":"07700",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929595,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bBajwmKM4U2xpt4Yca68a_39.936619_32.863300@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068143,
+    "wof:geomhash":"9e5b4c0bd652a3a62f6729b13a0d2c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929595,
+            "region_id":85679409,
+            "venue_id":1108657173
+        }
+    ],
+    "wof:id":1108657173,
+    "wof:lastmodified":1474068143,
+    "wof:name":"Ak?y Belediye Baskani",
+    "wof:parent_id":85929595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    32.8633003235,
+    39.9366188049,
+    32.8633003235,
+    39.9366188049
+],
+  "geometry": {"coordinates":[32.8633003235,39.9366188049],"type":"Point"}
+}

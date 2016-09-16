@@ -1,0 +1,75 @@
+{
+  "id": 1108654729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5215110779,39.770401001,30.5215110779,39.770401001",
+    "geom:latitude":39.770401,
+    "geom:longitude":30.521511,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Deliklitas Mah. Hamamyolu Cad. No:107",
+    "sg:city":"Sirinyer",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 231 8471",
+    "sg:postcode":"35380",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Zv8bgBAqFBuVBbWzrnFU_39.770401_30.521511@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068050,
+    "wof:geomhash":"b59dc971a07eb3e43974dd4879f164fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108654729
+        }
+    ],
+    "wof:id":1108654729,
+    "wof:lastmodified":1474068050,
+    "wof:name":"Petek Pasta Firini",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    30.5215110779,
+    39.770401001,
+    30.5215110779,
+    39.770401001
+],
+  "geometry": {"coordinates":[30.5215110779,39.770401001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108566877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4965705872,37.8637962341,32.4965705872,37.8637962341",
+    "geom:latitude":37.863796,
+    "geom:longitude":32.496571,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baruthane Cd. No:104/106 Kurtulus",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 234 5656",
+    "sg:postcode":"34852",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06uyFQcwV9p6RXa4xsu2ZY_37.863796_32.496571@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064322,
+    "wof:geomhash":"80603c6db3a88edc2c5e9da631821a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108566877
+        }
+    ],
+    "wof:id":1108566877,
+    "wof:lastmodified":1474064322,
+    "wof:name":"Deltamak Makina Imal. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.4965705872,
+    37.8637962341,
+    32.4965705872,
+    37.8637962341
+],
+  "geometry": {"coordinates":[32.4965705872,37.8637962341],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108654699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.818031311,39.9247360229,32.818031311,39.9247360229",
+    "geom:latitude":39.924736,
+    "geom:longitude":32.818031,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Biskek Cad. K?e Apt. No :217 / 10",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 542 421 8848",
+    "sg:postcode":"06510",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rU0rzO5rBQo1kB3vn54ht_39.924736_32.818031@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068049,
+    "wof:geomhash":"1227b65f024a2e22d1d4aa7ee87420a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108654699
+        }
+    ],
+    "wof:id":1108654699,
+    "wof:lastmodified":1474068049,
+    "wof:name":"Murat Ayg?n S? Mam?leri Danismanlik A.s.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    32.818031311,
+    39.9247360229,
+    32.818031311,
+    39.9247360229
+],
+  "geometry": {"coordinates":[32.818031311,39.9247360229],"type":"Point"}
+}

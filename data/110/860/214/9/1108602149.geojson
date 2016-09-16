@@ -1,0 +1,71 @@
+{
+  "id": 1108602149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9907188416,41.0965843201,28.9907188416,41.0965843201",
+    "geom:latitude":41.096584,
+    "geom:longitude":28.990719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muselles S. Kartal Apt. No: 5",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 2918",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uIWighVk9R5LBmvrwcZFd_41.096584_28.990719@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065722,
+    "wof:geomhash":"0547e280ce299e66217b25e5c828bac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108602149
+        }
+    ],
+    "wof:id":1108602149,
+    "wof:lastmodified":1474065722,
+    "wof:name":"Himerpa Havalandirma Izo. Mal. Tic. A.s.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9907188416,
+    41.0965843201,
+    28.9907188416,
+    41.0965843201
+],
+  "geometry": {"coordinates":[28.9907188416,41.0965843201],"type":"Point"}
+}

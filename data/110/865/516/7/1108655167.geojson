@@ -1,0 +1,71 @@
+{
+  "id": 1108655167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8609352112,39.8965950012,32.8609352112,39.8965950012",
+    "geom:latitude":39.896595,
+    "geom:longitude":32.860935,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farabi Sk. No:3/3 ?ankaya",
+    "sg:city":"Bucak",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 4841",
+    "sg:postcode":"15300",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_281XHpK1PqRvKnz54CiHPz_39.896595_32.860935@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068064,
+    "wof:geomhash":"7b0571d77fcb1175edc06a7ff8b6f9d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108655167
+        }
+    ],
+    "wof:id":1108655167,
+    "wof:lastmodified":1474068064,
+    "wof:name":"Cominco Madencilik San. A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8609352112,
+    39.8965950012,
+    32.8609352112,
+    39.8965950012
+],
+  "geometry": {"coordinates":[32.8609352112,39.8965950012],"type":"Point"}
+}

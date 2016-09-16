@@ -1,0 +1,68 @@
+{
+  "id": 1108592021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.090927124,37.782283783,29.090927124,37.782283783",
+    "geom:latitude":37.782284,
+    "geom:longitude":29.090927,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halk Cad. No.41",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 265 2666",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SHNRCDWL3ALYVGMePhIXn_37.782284_29.090927@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065311,
+    "wof:geomhash":"3a05784b0c54d234c2a1c87cde1d2ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108592021
+        }
+    ],
+    "wof:id":1108592021,
+    "wof:lastmodified":1474065311,
+    "wof:name":"G?zl?kaya Tekstil Ltd.sti.",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    29.090927124,
+    37.782283783,
+    29.090927124,
+    37.782283783
+],
+  "geometry": {"coordinates":[29.090927124,37.782283783],"type":"Point"}
+}

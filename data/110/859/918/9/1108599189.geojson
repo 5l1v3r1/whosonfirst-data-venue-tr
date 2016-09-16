@@ -1,0 +1,74 @@
+{
+  "id": 1108599189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9643783569,41.0435218811,28.9643783569,41.0435218811",
+    "geom:latitude":41.043522,
+    "geom:longitude":28.964378,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Porsuk Sk. No:11",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 255 1870",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ip0LzhXrRRpqSymWxEF4h_41.043522_28.964378@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065596,
+    "wof:geomhash":"438c3718dab9b768165e56fcf50ad9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108599189
+        }
+    ],
+    "wof:id":1108599189,
+    "wof:lastmodified":1474065596,
+    "wof:name":"Pelsan Aydinlatma San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9643783569,
+    41.0435218811,
+    28.9643783569,
+    41.0435218811
+],
+  "geometry": {"coordinates":[28.9643783569,41.0435218811],"type":"Point"}
+}

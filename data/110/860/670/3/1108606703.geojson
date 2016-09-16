@@ -1,0 +1,75 @@
+{
+  "id": 1108606703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9733314514,41.0742912292,28.9733314514,41.0742912292",
+    "geom:latitude":41.074291,
+    "geom:longitude":28.973331,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kagithane Cad.no:141/2",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 6421",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZwpH0tTjejXDXMdTCR3q8_41.074291_28.973331@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065921,
+    "wof:geomhash":"6277e8cf1a6a0d706c23b6c2ec65f82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108606703
+        }
+    ],
+    "wof:id":1108606703,
+    "wof:lastmodified":1474065921,
+    "wof:name":"Portre Collection",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9733314514,
+    41.0742912292,
+    28.9733314514,
+    41.0742912292
+],
+  "geometry": {"coordinates":[28.9733314514,41.0742912292],"type":"Point"}
+}

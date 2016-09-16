@@ -1,0 +1,73 @@
+{
+  "id": 1108669625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9989852905,41.0619049072,28.9989852905,41.0619049072",
+    "geom:latitude":41.061905,
+    "geom:longitude":28.998985,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akinci Bayir Sok. 25/4 Mecidiyekoy",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 212 4988",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZrUarKFBZ5hkBO7zxN5Na_41.061905_28.998985@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068631,
+    "wof:geomhash":"4f4cd45422a2d7b5eabb9e7b3052cda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108669625
+        }
+    ],
+    "wof:id":1108669625,
+    "wof:lastmodified":1474068631,
+    "wof:name":"Selten Fuarcilik",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    28.9989852905,
+    41.0619049072,
+    28.9989852905,
+    41.0619049072
+],
+  "geometry": {"coordinates":[28.9989852905,41.0619049072],"type":"Point"}
+}

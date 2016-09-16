@@ -1,0 +1,72 @@
+{
+  "id": 1108663967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8518295288,39.8827629089,32.8518295288,39.8827629089",
+    "geom:latitude":39.882763,
+    "geom:longitude":32.85183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A. Daver Sk. No:12/a-b ?ankaya",
+    "sg:city":"K???kyali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 277 1738",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ptaZmPZBHYQFg3Lhnlw7S_39.882763_32.851830@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068403,
+    "wof:geomhash":"33d922d40797369a515ca1a70fc1bd74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108663967
+        }
+    ],
+    "wof:id":1108663967,
+    "wof:lastmodified":1474068403,
+    "wof:name":"Mesa Toplu Konut Yatirim A.s.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8518295288,
+    39.8827629089,
+    32.8518295288,
+    39.8827629089
+],
+  "geometry": {"coordinates":[32.8518295288,39.8827629089],"type":"Point"}
+}

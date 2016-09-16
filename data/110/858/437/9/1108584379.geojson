@@ -1,0 +1,70 @@
+{
+  "id": 1108584379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4842987061,37.864238739,32.4842987061,37.864238739",
+    "geom:latitude":37.864239,
+    "geom:longitude":32.484299,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Larende Cd. No:s4/b",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 351 9331",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934705,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02PnSZMThm145xor5jHgUv_37.864239_32.484299@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065118,
+    "wof:geomhash":"b5aedcd6ddf125bc1b2310385baababe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":1108584379
+        }
+    ],
+    "wof:id":1108584379,
+    "wof:lastmodified":1474065118,
+    "wof:name":"Top?uoglu Demir Tic. Ltd. Sti.",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    32.4842987061,
+    37.864238739,
+    32.4842987061,
+    37.864238739
+],
+  "geometry": {"coordinates":[32.4842987061,37.864238739],"type":"Point"}
+}

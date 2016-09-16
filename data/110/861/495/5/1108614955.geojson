@@ -1,0 +1,69 @@
+{
+  "id": 1108614955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0586109161,40.1844291687,29.0586109161,40.1844291687",
+    "geom:latitude":40.184429,
+    "geom:longitude":29.058611,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni San.ertugrul Gazi Cad.no:58 Ineg?",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 712 2156",
+    "sg:postcode":"31200",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ft8jxdrnS2OC6itxTRKlu_40.184429_29.058611@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066273,
+    "wof:geomhash":"d32bc6dc27b5bca7566a03487808708c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108614955
+        }
+    ],
+    "wof:id":1108614955,
+    "wof:lastmodified":1474066273,
+    "wof:name":"Allegro Mibilya",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.0586109161,
+    40.1844291687,
+    29.0586109161,
+    40.1844291687
+],
+  "geometry": {"coordinates":[29.0586109161,40.1844291687],"type":"Point"}
+}

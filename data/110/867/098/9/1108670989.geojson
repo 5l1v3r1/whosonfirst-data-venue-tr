@@ -1,0 +1,72 @@
+{
+  "id": 1108670989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.995672226,41.0654144287,28.995672226,41.0654144287",
+    "geom:latitude":41.065414,
+    "geom:longitude":28.995672,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ortaklar Cad. No.5 K.2 Mecidiyek?",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 2582",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CF6oPShQ0GkxAunytLlh0_41.065414_28.995672@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068682,
+    "wof:geomhash":"1e44b3026573851d7a85f8eabbd8fdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108670989
+        }
+    ],
+    "wof:id":1108670989,
+    "wof:lastmodified":1474068682,
+    "wof:name":"Cagri Menkul Degerler",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.995672226,
+    41.0654144287,
+    28.995672226,
+    41.0654144287
+],
+  "geometry": {"coordinates":[28.995672226,41.0654144287],"type":"Point"}
+}

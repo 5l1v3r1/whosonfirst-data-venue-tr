@@ -1,0 +1,71 @@
+{
+  "id": 1108601341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2053756714,38.4448814392,27.2053756714,38.4448814392",
+    "geom:latitude":38.444881,
+    "geom:longitude":27.205376,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Dirik Cd. No.14",
+    "sg:city":"Torbali",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 854 6749",
+    "sg:postcode":"35860",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p3TxOdMOl3i48GQLY6kAi_38.444881_27.205376@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065693,
+    "wof:geomhash":"7267c7f5c06655bc0b4de6a1327fb73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108601341
+        }
+    ],
+    "wof:id":1108601341,
+    "wof:lastmodified":1474065693,
+    "wof:name":"?etineller Zirai Urn.san. A.s.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.2053756714,
+    38.4448814392,
+    27.2053756714,
+    38.4448814392
+],
+  "geometry": {"coordinates":[27.2053756714,38.4448814392],"type":"Point"}
+}

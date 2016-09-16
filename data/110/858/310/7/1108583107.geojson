@@ -1,0 +1,75 @@
+{
+  "id": 1108583107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0342540741,40.9951553345,29.0342540741,40.9951553345",
+    "geom:latitude":40.995155,
+    "geom:longitude":29.034254,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cad.no:2/12",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 428 6560",
+    "sg:postcode":"35040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_420PcwL1hDPIsTsQtZE7DK_40.995155_29.034254@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065086,
+    "wof:geomhash":"20fcda78c127e3c4d12f5b9c453e1abe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108583107
+        }
+    ],
+    "wof:id":1108583107,
+    "wof:lastmodified":1474065086,
+    "wof:name":"Pratek A.s.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.0342540741,
+    40.9951553345,
+    29.0342540741,
+    40.9951553345
+],
+  "geometry": {"coordinates":[29.0342540741,40.9951553345],"type":"Point"}
+}

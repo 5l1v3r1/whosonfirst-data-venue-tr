@@ -1,0 +1,75 @@
+{
+  "id": 1108672387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0230522156,41.0771865845,29.0230522156,41.0771865845",
+    "geom:latitude":41.077187,
+    "geom:longitude":29.023052,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cad. No.25/2",
+    "sg:city":"Levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 8278",
+    "sg:postcode":"01310",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fD0EOvyO8QySwW5JkQW9Y_41.077187_29.023052@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068731,
+    "wof:geomhash":"5739d5a159c9463b9a7efc282b20ce7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108672387
+        }
+    ],
+    "wof:id":1108672387,
+    "wof:lastmodified":1474068731,
+    "wof:name":"Albero Parke",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0230522156,
+    41.0771865845,
+    29.0230522156,
+    41.0771865845
+],
+  "geometry": {"coordinates":[29.0230522156,41.0771865845],"type":"Point"}
+}

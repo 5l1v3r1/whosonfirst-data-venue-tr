@@ -1,0 +1,78 @@
+{
+  "id": 1108606507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8569374084,39.9389228821,32.8569374084,39.9389228821",
+    "geom:latitude":39.938923,
+    "geom:longitude":32.856937,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Evliya ?elebi Mah. Dogan Sok No:9",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 446 2105",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409,
+        85929577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MiYT0RLer9NIq4cJb7hk_39.938923_32.856937@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065909,
+    "wof:geomhash":"5677e06c49fb46396a8900b0811db059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108606507
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108606507
+        }
+    ],
+    "wof:id":1108606507,
+    "wof:lastmodified":1474065909,
+    "wof:name":"Nural Sekman Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    32.8569374084,
+    39.9389228821,
+    32.8569374084,
+    39.9389228821
+],
+  "geometry": {"coordinates":[32.8569374084,39.9389228821],"type":"Point"}
+}

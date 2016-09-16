@@ -1,0 +1,69 @@
+{
+  "id": 1108675479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1573448181,38.3885688782,27.1573448181,38.3885688782",
+    "geom:latitude":38.388569,
+    "geom:longitude":27.157345,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Efeler Mah. Izmir Cad. 9. Sk. No:5",
+    "sg:city":"B.evler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 225 3305",
+    "sg:postcode":"03120",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30yfbrjbW9nGMlAtvYuXIN_38.388569_27.157345@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068870,
+    "wof:geomhash":"1021f262f9d8484bd08ae4f3d83a2ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108675479
+        }
+    ],
+    "wof:id":1108675479,
+    "wof:lastmodified":1474068870,
+    "wof:name":"Gun-sed Gida Ins Teks. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    27.1573448181,
+    38.3885688782,
+    27.1573448181,
+    38.3885688782
+],
+  "geometry": {"coordinates":[27.1573448181,38.3885688782],"type":"Point"}
+}

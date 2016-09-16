@@ -1,0 +1,71 @@
+{
+  "id": 1108672073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0534057617,41.1704826355,29.0534057617,41.1704826355",
+    "geom:latitude":41.170483,
+    "geom:longitude":29.053406,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sariyer Merkez - Sariyer",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 6788",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yd8TrNWArWmsvJkfaezR2_41.170483_29.053406@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068720,
+    "wof:geomhash":"5da1ab13f50b03562f6ee75eca0a5948",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929827,
+            "venue_id":1108672073
+        }
+    ],
+    "wof:id":1108672073,
+    "wof:lastmodified":1474068720,
+    "wof:name":"Sariyer Devlet Hastanesi",
+    "wof:parent_id":85929827,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    29.0534057617,
+    41.1704826355,
+    29.0534057617,
+    41.1704826355
+],
+  "geometry": {"coordinates":[29.0534057617,41.1704826355],"type":"Point"}
+}

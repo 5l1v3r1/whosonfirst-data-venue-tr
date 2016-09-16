@@ -1,0 +1,73 @@
+{
+  "id": 1108582619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0382804871,40.9945144653,29.0382804871,40.9945144653",
+    "geom:latitude":40.994514,
+    "geom:longitude":29.03828,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurbagalidere Cd. No:90 Kadik?",
+    "sg:city":"Antakya",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 414 8085",
+    "sg:postcode":"31000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hwSrNOInrXKwEI2p4GDDo_40.994514_29.038280@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065076,
+    "wof:geomhash":"0752ec4200d5fa1aab45dba1fe1cf846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108582619
+        }
+    ],
+    "wof:id":1108582619,
+    "wof:lastmodified":1474065076,
+    "wof:name":"Mehmet Atay Egitim ?gretim Yayin Ltd. Sti.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    29.0382804871,
+    40.9945144653,
+    29.0382804871,
+    40.9945144653
+],
+  "geometry": {"coordinates":[29.0382804871,40.9945144653],"type":"Point"}
+}

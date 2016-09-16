@@ -1,0 +1,68 @@
+{
+  "id": 1108573349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9030857086,40.991230011,28.9030857086,40.991230011",
+    "geom:latitude":40.99123,
+    "geom:longitude":28.903086,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siyavuspasa Cad.no:52 /12",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01980",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OpM2wY4VtHypwYfLobBiy_40.991230_28.903086@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064593,
+    "wof:geomhash":"d08a150f295775fe767cec7c9c41111a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108573349
+        }
+    ],
+    "wof:id":1108573349,
+    "wof:lastmodified":1474064593,
+    "wof:name":"Akgun Btb Cam Mozaik",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.9030857086,
+    40.991230011,
+    28.9030857086,
+    40.991230011
+],
+  "geometry": {"coordinates":[28.9030857086,40.991230011],"type":"Point"}
+}

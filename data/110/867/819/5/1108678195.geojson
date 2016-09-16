@@ -1,0 +1,80 @@
+{
+  "id": 1108678195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0174636841,41.0749511719,29.0174636841,41.0749511719",
+    "geom:latitude":41.074951,
+    "geom:longitude":29.017464,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cd. Nispetiye Apt. No:18 D:15 1. Levent",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 1144",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237,
+        85929845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AN17gUqfGtgknFFFLn3ZM_41.074951_29.017464@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068970,
+    "wof:geomhash":"0477cd7fe60571c4af35ebac3d6acca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108678195
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108678195
+        }
+    ],
+    "wof:id":1108678195,
+    "wof:lastmodified":1474068970,
+    "wof:name":"Turkiye Finans Yonetici. Vakfi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0174636841,
+    41.0749511719,
+    29.0174636841,
+    41.0749511719
+],
+  "geometry": {"coordinates":[29.0174636841,41.0749511719],"type":"Point"}
+}

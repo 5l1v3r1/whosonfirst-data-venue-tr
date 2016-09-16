@@ -1,0 +1,73 @@
+{
+  "id": 1108573711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8732013702,41.011013031,28.8732013702,41.011013031",
+    "geom:latitude":41.011013,
+    "geom:longitude":28.873201,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guven Mah.calislar Sok. No:8-",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 0972",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pm9TP2dUz5I4dHA7HDS0T_41.011013_28.873201@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064613,
+    "wof:geomhash":"cad81df17a43cc7538881d51e0609f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108573711
+        }
+    ],
+    "wof:id":1108573711,
+    "wof:lastmodified":1474064613,
+    "wof:name":"Gulen Cam",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.8732013702,
+    41.011013031,
+    28.8732013702,
+    41.011013031
+],
+  "geometry": {"coordinates":[28.8732013702,41.011013031],"type":"Point"}
+}

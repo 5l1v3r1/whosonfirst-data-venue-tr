@@ -1,0 +1,67 @@
+{
+  "id": 1108609537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7693328857,40.9972229004,28.7693328857,40.9972229004",
+    "geom:latitude":40.997223,
+    "geom:longitude":28.769333,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A Veysel Cd. No:64",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 5422",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929991,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLTXyVsSsCRvfhRswBqLe_40.997223_28.769333@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066057,
+    "wof:geomhash":"1926cf19379e112c2f8cb4151bf42f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929991,
+            "region_id":85679237,
+            "venue_id":1108609537
+        }
+    ],
+    "wof:id":1108609537,
+    "wof:lastmodified":1474066057,
+    "wof:name":"Trans Frigo Uluslararasi Nakliyat Tic. .",
+    "wof:parent_id":85929991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7693328857,
+    40.9972229004,
+    28.7693328857,
+    40.9972229004
+],
+  "geometry": {"coordinates":[28.7693328857,40.9972229004],"type":"Point"}
+}

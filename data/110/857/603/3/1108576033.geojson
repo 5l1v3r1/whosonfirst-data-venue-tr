@@ -1,0 +1,72 @@
+{
+  "id": 1108576033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1406898499,40.9376831055,29.1406898499,40.9376831055",
+    "geom:latitude":40.937683,
+    "geom:longitude":29.14069,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad. No.3/7 Cesme",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 2462",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2915OS2Ox8ivvgmusw8BVe_40.937683_29.140690@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064702,
+    "wof:geomhash":"20edc9361075b52f2e98be91e43e9c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":1108576033
+        }
+    ],
+    "wof:id":1108576033,
+    "wof:lastmodified":1474064702,
+    "wof:name":"Cees Textile Export-import Co.ltd.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    29.1406898499,
+    40.9376831055,
+    29.1406898499,
+    40.9376831055
+],
+  "geometry": {"coordinates":[29.1406898499,40.9376831055],"type":"Point"}
+}

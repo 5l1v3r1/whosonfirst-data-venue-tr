@@ -1,0 +1,71 @@
+{
+  "id": 1108656049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9950695038,41.1000099182,28.9950695038,41.1000099182",
+    "geom:latitude":41.10001,
+    "geom:longitude":28.99507,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ramikisla Cd. Pasmak? San. Sit. No:46 Rami",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 7680",
+    "sg:postcode":"34418",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59kPSEmbaiAP0YcXnL7DWr_41.100010_28.995070@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068099,
+    "wof:geomhash":"f70d9a877c99464c0448c694f2298dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108656049
+        }
+    ],
+    "wof:id":1108656049,
+    "wof:lastmodified":1474068099,
+    "wof:name":"Ak-is Kalip San.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    28.9950695038,
+    41.1000099182,
+    28.9950695038,
+    41.1000099182
+],
+  "geometry": {"coordinates":[28.9950695038,41.1000099182],"type":"Point"}
+}

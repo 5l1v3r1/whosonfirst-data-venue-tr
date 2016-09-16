@@ -1,0 +1,73 @@
+{
+  "id": 1108672231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0692214966,41.0471191406,29.0692214966,41.0471191406",
+    "geom:latitude":41.047119,
+    "geom:longitude":29.069221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hamam Sk.cemal Ozdes Apt.no:71/3",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 4913",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929501,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QRpZP0RmF713JyNQWUyWp_41.047119_29.069221@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068726,
+    "wof:geomhash":"d3c1c824ca1b7ba958e79b3b0b0e7514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237,
+            "venue_id":1108672231
+        }
+    ],
+    "wof:id":1108672231,
+    "wof:lastmodified":1474068726,
+    "wof:name":"Emsan Denizcilik A.s.",
+    "wof:parent_id":85929501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    29.0692214966,
+    41.0471191406,
+    29.0692214966,
+    41.0471191406
+],
+  "geometry": {"coordinates":[29.0692214966,41.0471191406],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108679969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.003631,41.043039,29.003631,41.043039",
+    "geom:latitude":41.043039,
+    "geom:longitude":29.003631,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sinanpasa Kopru Sokak Celik Is Merkezi 10/70 Besiktas",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34440",
+    "sg:tags":[
+        "bots",
+        "semantics",
+        "intelligent-agents"
+    ],
+    "sg:website":"http://www.botego.com/english.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wrCvQ1QLOfBxGKjpBnAaf_41.043039_29.003631@1308163240"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069043,
+    "wof:geomhash":"f4f08e410dc9096c6f44967eff29dfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108679969
+        }
+    ],
+    "wof:id":1108679969,
+    "wof:lastmodified":1474069043,
+    "wof:name":"Botego",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bots",
+        "semantics",
+        "intelligent-agents"
+    ]
+},
+  "bbox": [
+    29.003631,
+    41.043039,
+    29.003631,
+    41.043039
+],
+  "geometry": {"coordinates":[29.003631,41.043039],"type":"Point"}
+}

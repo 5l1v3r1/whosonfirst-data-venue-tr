@@ -1,0 +1,75 @@
+{
+  "id": 1108672643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0207023621,41.0230178833,29.0207023621,41.0230178833",
+    "geom:latitude":41.023018,
+    "geom:longitude":29.020702,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.k.pasa Mah. Mutlu Sok. No:11",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 423 3973",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BMZ2PyN2uE4hNBvhNaD8N_41.023018_29.020702@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068741,
+    "wof:geomhash":"251b95e4bbddd3e6b390497dff8778ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":1108672643
+        }
+    ],
+    "wof:id":1108672643,
+    "wof:lastmodified":1474068741,
+    "wof:name":"Trakya Parke",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0207023621,
+    41.0230178833,
+    29.0207023621,
+    41.0230178833
+],
+  "geometry": {"coordinates":[29.0207023621,41.0230178833],"type":"Point"}
+}

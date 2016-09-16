@@ -1,0 +1,69 @@
+{
+  "id": 1108577739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9147853851,41.0524787903,28.9147853851,41.0524787903",
+    "geom:latitude":41.052479,
+    "geom:longitude":28.914785,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Havuzbasi Mh. Kehribarci Sk. No:24 G.osmanpasa",
+    "sg:city":"Okmeydani/beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 578 0703",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WahHvLT89x5v6UhVauXh2_41.052479_28.914785@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064840,
+    "wof:geomhash":"8e221b3d8137f956922aba0f9bc8a540",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108577739
+        }
+    ],
+    "wof:id":1108577739,
+    "wof:lastmodified":1474064840,
+    "wof:name":"Kondor Buro Mob.",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9147853851,
+    41.0524787903,
+    28.9147853851,
+    41.0524787903
+],
+  "geometry": {"coordinates":[28.9147853851,41.0524787903],"type":"Point"}
+}

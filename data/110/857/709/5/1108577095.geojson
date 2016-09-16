@@ -1,0 +1,73 @@
+{
+  "id": 1108577095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9960269928,41.0817108154,28.9960269928,41.0817108154",
+    "geom:latitude":41.081711,
+    "geom:longitude":28.996027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Samanyolu Sk. Polat 2 Apt. No.20/1",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 3145",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "zipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qa0c8LdmcGLquovx8JRSY_41.081711_28.996027@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064764,
+    "wof:geomhash":"1dd6ddea7dbe80885953ebec227c8f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108577095
+        }
+    ],
+    "wof:id":1108577095,
+    "wof:lastmodified":1474064764,
+    "wof:name":"Seref Fermuar",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "zipper"
+    ]
+},
+  "bbox": [
+    28.9960269928,
+    41.0817108154,
+    28.9960269928,
+    41.0817108154
+],
+  "geometry": {"coordinates":[28.9960269928,41.0817108154],"type":"Point"}
+}

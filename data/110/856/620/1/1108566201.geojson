@@ -1,0 +1,70 @@
+{
+  "id": 1108566201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2414703369,40.8830528259,29.2414703369,40.8830528259",
+    "geom:latitude":40.883053,
+    "geom:longitude":29.24147,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolayoba Cad. Yan Yol No:3/e",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 379 1985",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "sg:website":"alperplastik.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09WFjzGnVgsOtCiESpPTRe_40.883053_29.241470@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064292,
+    "wof:geomhash":"cadbcde8bed2bbd69ef4276096315459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930121,
+            "venue_id":1108566201
+        }
+    ],
+    "wof:id":1108566201,
+    "wof:lastmodified":1474064292,
+    "wof:name":"Alper Plastik San.tic.ltd. Sti.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2414703369,
+    40.8830528259,
+    29.2414703369,
+    40.8830528259
+],
+  "geometry": {"coordinates":[29.2414703369,40.8830528259],"type":"Point"}
+}

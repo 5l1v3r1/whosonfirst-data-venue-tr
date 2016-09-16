@@ -1,0 +1,69 @@
+{
+  "id": 1108637049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.065870285,40.2450828552,29.065870285,40.2450828552",
+    "geom:latitude":40.245083,
+    "geom:longitude":29.06587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bursa",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 220 4894",
+    "sg:postcode":"34672",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929763,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GvfALqdidz4qXZHx12K1k_40.245083_29.065870@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067301,
+    "wof:geomhash":"b109e210306bf7ae9af5fa8600e339c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":1108637049
+        }
+    ],
+    "wof:id":1108637049,
+    "wof:lastmodified":1474067301,
+    "wof:name":"Ide Yapi Ltd. Sti.",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    29.065870285,
+    40.2450828552,
+    29.065870285,
+    40.2450828552
+],
+  "geometry": {"coordinates":[29.065870285,40.2450828552],"type":"Point"}
+}

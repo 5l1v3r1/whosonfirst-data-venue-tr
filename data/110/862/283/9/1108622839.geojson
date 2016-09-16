@@ -1,0 +1,72 @@
+{
+  "id": 1108622839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0850906372,41.0327720642,29.0850906372,41.0327720642",
+    "geom:latitude":41.032772,
+    "geom:longitude":29.085091,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cd. Cem Sultan Sk. No:2/3",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 8925",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pE1WuJ1aLXEOVIG6nFlko_41.032772_29.085091@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066584,
+    "wof:geomhash":"045c67aa371c77e682a1dc75d6e638f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108622839
+        }
+    ],
+    "wof:id":1108622839,
+    "wof:lastmodified":1474066584,
+    "wof:name":"Emsa Dogalgaz San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0850906372,
+    41.0327720642,
+    29.0850906372,
+    41.0327720642
+],
+  "geometry": {"coordinates":[29.0850906372,41.0327720642],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108654247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1157169342,40.9808158875,29.1157169342,40.9808158875",
+    "geom:latitude":40.980816,
+    "geom:longitude":29.115717,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adem Yavuz Mah. B. Hayrettin Sok. No:9/a",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 612 4347",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a2X66Kw9HNOtGvMjH4H4U_40.980816_29.115717@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068034,
+    "wof:geomhash":"17661298c358655077f97091cc45fe91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108654247
+        }
+    ],
+    "wof:id":1108654247,
+    "wof:lastmodified":1474068034,
+    "wof:name":"Yavuz Metal ?elik Esya Sanayi",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallic"
+    ]
+},
+  "bbox": [
+    29.1157169342,
+    40.9808158875,
+    29.1157169342,
+    40.9808158875
+],
+  "geometry": {"coordinates":[29.1157169342,40.9808158875],"type":"Point"}
+}

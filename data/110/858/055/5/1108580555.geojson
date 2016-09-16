@@ -1,0 +1,73 @@
+{
+  "id": 1108580555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.063375473,40.9758338928,29.063375473,40.9758338928",
+    "geom:latitude":40.975834,
+    "geom:longitude":29.063375,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Goztepe",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 389 2343",
+    "sg:postcode":"16370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LDMMKpOKq2EOLL3nHJRc3_40.975834_29.063375@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065020,
+    "wof:geomhash":"c4ab4437fce017388597b4180d6150a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108580555
+        }
+    ],
+    "wof:id":1108580555,
+    "wof:lastmodified":1474065020,
+    "wof:name":"Isik Otomotiv",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.063375473,
+    40.9758338928,
+    29.063375473,
+    40.9758338928
+],
+  "geometry": {"coordinates":[29.063375473,40.9758338928],"type":"Point"}
+}

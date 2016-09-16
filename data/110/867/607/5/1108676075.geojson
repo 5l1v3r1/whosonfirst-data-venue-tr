@@ -1,0 +1,69 @@
+{
+  "id": 1108676075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8447723389,39.8765602112,32.8447723389,39.8765602112",
+    "geom:latitude":39.87656,
+    "geom:longitude":32.844772,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cinnan Cd.no:60 ?ankaya",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 1110",
+    "sg:postcode":"07080",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UBUs4xWuecpqQayrSXPAQ_39.876560_32.844772@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068894,
+    "wof:geomhash":"7bb853573592840d79cd9b555c0f995f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108676075
+        }
+    ],
+    "wof:id":1108676075,
+    "wof:lastmodified":1474068894,
+    "wof:name":"Libya Cumh.b?y?kel?iligi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8447723389,
+    39.8765602112,
+    32.8447723389,
+    39.8765602112
+],
+  "geometry": {"coordinates":[32.8447723389,39.8765602112],"type":"Point"}
+}

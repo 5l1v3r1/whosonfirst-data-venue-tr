@@ -1,0 +1,71 @@
+{
+  "id": 1108567577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1654262543,38.4286193848,27.1654262543,38.4286193848",
+    "geom:latitude":38.428619,
+    "geom:longitude":27.165426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203.sok. 8/b Yenisehir",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 459 0054",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K9060fqBL4u7ZHMgMVJUu_38.428619_27.165426@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064359,
+    "wof:geomhash":"b438276d27bfd137693bc3c58320dea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108567577
+        }
+    ],
+    "wof:id":1108567577,
+    "wof:lastmodified":1474064359,
+    "wof:name":"Guralp Vinc & Makina Kons. San.tic. Ltd.sti.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1654262543,
+    38.4286193848,
+    27.1654262543,
+    38.4286193848
+],
+  "geometry": {"coordinates":[27.1654262543,38.4286193848],"type":"Point"}
+}

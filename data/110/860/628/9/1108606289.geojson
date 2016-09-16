@@ -1,0 +1,70 @@
+{
+  "id": 1108606289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8965091705,41.0402870178,28.8965091705,41.0402870178",
+    "geom:latitude":41.040287,
+    "geom:longitude":28.896509,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mezbaha Yolu No.24",
+    "sg:city":"Sefak?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 598 9880",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FWGDOA2YkBq5ZsbWFUmh4_41.040287_28.896509@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065898,
+    "wof:geomhash":"a6abb904cb921df4fab9b96eb7fdd55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108606289
+        }
+    ],
+    "wof:id":1108606289,
+    "wof:lastmodified":1474065898,
+    "wof:name":"Mayopen Tekstil A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8965091705,
+    41.0402870178,
+    28.8965091705,
+    41.0402870178
+],
+  "geometry": {"coordinates":[28.8965091705,41.0402870178],"type":"Point"}
+}

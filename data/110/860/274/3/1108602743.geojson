@@ -1,0 +1,74 @@
+{
+  "id": 1108602743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0979995728,40.9518852234,29.0979995728,40.9518852234",
+    "geom:latitude":40.951885,
+    "geom:longitude":29.098,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. Plajyolu Sk. No:4",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 441 9107",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZC54mqqjaIuC9gt7RIpK3_40.951885_29.098000@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065745,
+    "wof:geomhash":"bab90c5c4eb200ca2a041f9294fe8d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108602743
+        }
+    ],
+    "wof:id":1108602743,
+    "wof:lastmodified":1474065745,
+    "wof:name":"Va Tuna Isi Malz. San.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0979995728,
+    40.9518852234,
+    29.0979995728,
+    40.9518852234
+],
+  "geometry": {"coordinates":[29.0979995728,40.9518852234],"type":"Point"}
+}

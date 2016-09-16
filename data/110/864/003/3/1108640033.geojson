@@ -1,0 +1,64 @@
+{
+  "id": 1108640033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.099899292,38.4043502808,27.099899292,38.4043502808",
+    "geom:latitude":38.40435,
+    "geom:longitude":27.099899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cd. 149. Sk. Deniz Ish. No:21/8 D:8 Cankaya",
+    "sg:city":"Sirinyer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 231 5285",
+    "sg:postcode":"35140",
+    "sg:province":"I?el",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MwVHyIP4Tzs9WSfKTKfNX_38.404350_27.099899@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067425,
+    "wof:geomhash":"1b1d90c4978cfc7e8d2fe01d3fbdcbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108640033
+        }
+    ],
+    "wof:id":1108640033,
+    "wof:lastmodified":1474067425,
+    "wof:name":"Mersin Alman Kultur Dernegi",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.099899292,
+    38.4043502808,
+    27.099899292,
+    38.4043502808
+],
+  "geometry": {"coordinates":[27.099899292,38.4043502808],"type":"Point"}
+}

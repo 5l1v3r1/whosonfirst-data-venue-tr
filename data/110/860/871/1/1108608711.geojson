@@ -1,0 +1,67 @@
+{
+  "id": 1108608711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9715690613,41.027671814,28.9715690613,41.027671814",
+    "geom:latitude":41.027672,
+    "geom:longitude":28.971569,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yolcuzade Iskender Cd. No:58",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 255 4683",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3emnnXSOIsT45scxkWPm71_41.027672_28.971569@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066015,
+    "wof:geomhash":"eb90c3db266f954013ed392343d31ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108608711
+        }
+    ],
+    "wof:id":1108608711,
+    "wof:lastmodified":1474066015,
+    "wof:name":"Ataklar Dis Tic. Tasima. A.s.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9715690613,
+    41.027671814,
+    28.9715690613,
+    41.027671814
+],
+  "geometry": {"coordinates":[28.9715690613,41.027671814],"type":"Point"}
+}

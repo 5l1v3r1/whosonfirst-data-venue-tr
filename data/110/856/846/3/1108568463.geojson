@@ -1,0 +1,71 @@
+{
+  "id": 1108568463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2028846741,38.4502906799,27.2028846741,38.4502906799",
+    "geom:latitude":38.450291,
+    "geom:longitude":27.202885,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"367 Sk.no.1 Bornova 35100",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 435 3319",
+    "sg:postcode":"34160",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZBEmZc7qr4Cbi5hl6kHAY_38.450291_27.202885@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064391,
+    "wof:geomhash":"2010fd3730f5935b8d699cee0deb99ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108568463
+        }
+    ],
+    "wof:id":1108568463,
+    "wof:lastmodified":1474064391,
+    "wof:name":"Mege Makina Sanayi Ve Ticaret Limited Sirketi",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.2028846741,
+    38.4502906799,
+    27.2028846741,
+    38.4502906799
+],
+  "geometry": {"coordinates":[27.2028846741,38.4502906799],"type":"Point"}
+}

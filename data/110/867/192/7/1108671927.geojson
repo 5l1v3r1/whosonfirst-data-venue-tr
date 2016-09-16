@@ -1,0 +1,70 @@
+{
+  "id": 1108671927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9138641357,41.0008010864,28.9138641357,41.0008010864",
+    "geom:latitude":41.000801,
+    "geom:longitude":28.913864,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"94/1. Sk. No:1/a Zeytinburnu",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 510 0867",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f4SUDuAwa4BJ6mUTJwjXz_41.000801_28.913864@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068715,
+    "wof:geomhash":"eb8b32ef0eeb49f617cdd6cc1c32630c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108671927
+        }
+    ],
+    "wof:id":1108671927,
+    "wof:lastmodified":1474068715,
+    "wof:name":"?zg?l Yangin S?nd?rme Cihaz.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    28.9138641357,
+    41.0008010864,
+    28.9138641357,
+    41.0008010864
+],
+  "geometry": {"coordinates":[28.9138641357,41.0008010864],"type":"Point"}
+}

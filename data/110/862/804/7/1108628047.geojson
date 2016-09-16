@@ -1,0 +1,71 @@
+{
+  "id": 1108628047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8463592529,39.9202613831,32.8463592529,39.9202613831",
+    "geom:latitude":39.920261,
+    "geom:longitude":32.846359,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Caddesi No: 51",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 232 2560",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929609,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GZVqogP78BqocxebKE111_39.920261_32.846359@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066787,
+    "wof:geomhash":"f0f1156a091d8023460e7a48ea87c16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929609,
+            "region_id":85679409,
+            "venue_id":1108628047
+        }
+    ],
+    "wof:id":1108628047,
+    "wof:lastmodified":1474066787,
+    "wof:name":"S Oytur Oyak Turizm Ve Ticaret A..",
+    "wof:parent_id":85929609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    32.8463592529,
+    39.9202613831,
+    32.8463592529,
+    39.9202613831
+],
+  "geometry": {"coordinates":[32.8463592529,39.9202613831],"type":"Point"}
+}

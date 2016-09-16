@@ -1,0 +1,73 @@
+{
+  "id": 1108589155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9745502472,41.0779304504,28.9745502472,41.0779304504",
+    "geom:latitude":41.07793,
+    "geom:longitude":28.97455,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez Mah. Ugur Sokak No:64 80360 Kagithane Istanbul",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 295 0826",
+    "sg:postcode":"25000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hUimMf3yUSW15AoqkZrqE_41.077930_28.974550@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065231,
+    "wof:geomhash":"24c128fd7d8bf86de83a9c20c8e5e224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108589155
+        }
+    ],
+    "wof:id":1108589155,
+    "wof:lastmodified":1474065231,
+    "wof:name":"Erpa Orman Urunleri San Tic Ltd Sti",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood"
+    ]
+},
+  "bbox": [
+    28.9745502472,
+    41.0779304504,
+    28.9745502472,
+    41.0779304504
+],
+  "geometry": {"coordinates":[28.9745502472,41.0779304504],"type":"Point"}
+}

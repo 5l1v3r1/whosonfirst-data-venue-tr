@@ -1,0 +1,67 @@
+{
+  "id": 1108676847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1291503906,38.4133987427,27.1291503906,38.4133987427",
+    "geom:latitude":38.413399,
+    "geom:longitude":27.12915,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keresteciler Sit. 426. Sk. No:7",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 435 2168",
+    "sg:postcode":"81260",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bOCe3y6SClr1ND7Qk7s2c_38.413399_27.129150@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068920,
+    "wof:geomhash":"c134049e621039dfea069adaa303ac1c",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108676847
+        }
+    ],
+    "wof:id":1108676847,
+    "wof:lastmodified":1474068920,
+    "wof:name":"K?knar Kerestecilik A.s.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    27.1291503906,
+    38.4133987427,
+    27.1291503906,
+    38.4133987427
+],
+  "geometry": {"coordinates":[27.1291503906,38.4133987427],"type":"Point"}
+}

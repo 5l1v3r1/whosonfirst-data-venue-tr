@@ -1,0 +1,69 @@
+{
+  "id": 1108678181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8606719971,39.9189529419,32.8606719971,39.9189529419",
+    "geom:latitude":39.918953,
+    "geom:longitude":32.860672,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Mediha E. Sk. No:72 Kocatepe",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 1235",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IEKOD3XZJC649XW2rsrTm_39.918953_32.860672@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068970,
+    "wof:geomhash":"aa5847124182b713aca565f03aec54ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108678181
+        }
+    ],
+    "wof:id":1108678181,
+    "wof:lastmodified":1474068970,
+    "wof:name":"Turkiye Diyanet Vakfi",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8606719971,
+    39.9189529419,
+    32.8606719971,
+    39.9189529419
+],
+  "geometry": {"coordinates":[32.8606719971,39.9189529419],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108575787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9865016937,41.0421142578,28.9865016937,41.0421142578",
+    "geom:latitude":41.042114,
+    "geom:longitude":28.986502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Harbiye Mah.cumhuriyet Cad. 107",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21223030368",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUDv2qhAydbd1aPJzUDrp_41.042114_28.986502@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064692,
+    "wof:geomhash":"6609c47722bf7d143d2796e47653ea0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108575787
+        }
+    ],
+    "wof:id":1108575787,
+    "wof:lastmodified":1474064692,
+    "wof:name":"Tur-yat",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    28.9865016937,
+    41.0421142578,
+    28.9865016937,
+    41.0421142578
+],
+  "geometry": {"coordinates":[28.9865016937,41.0421142578],"type":"Point"}
+}

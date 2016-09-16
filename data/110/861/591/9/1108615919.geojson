@@ -1,0 +1,72 @@
+{
+  "id": 1108615919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9861793518,41.040851593,28.9861793518,41.040851593",
+    "geom:latitude":41.040852,
+    "geom:longitude":28.986179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasanpasa, Sinan Sk. No:1 Kadik?",
+    "sg:city":"Erenk?y",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 3986",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aqkssqVv11hiXHtxSGicE_41.040852_28.986179@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066306,
+    "wof:geomhash":"57ab6284aa5b5bfb784905ecd4a2c7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108615919
+        }
+    ],
+    "wof:id":1108615919,
+    "wof:lastmodified":1474066306,
+    "wof:name":"Saltikogullari",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9861793518,
+    41.040851593,
+    28.9861793518,
+    41.040851593
+],
+  "geometry": {"coordinates":[28.9861793518,41.040851593],"type":"Point"}
+}

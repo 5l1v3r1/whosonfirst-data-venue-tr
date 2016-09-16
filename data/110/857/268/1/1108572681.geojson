@@ -1,0 +1,69 @@
+{
+  "id": 1108572681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9259796143,41.0198974609,28.9259796143,41.0198974609",
+    "geom:latitude":41.019897,
+    "geom:longitude":28.92598,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?iftehavuzlar Cd. No:3 Topkapi",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 1278",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wp2XKMGHB4S4Ss7lF9Rx7_41.019897_28.925980@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064567,
+    "wof:geomhash":"59fb20a935fdb80f0ecb0a193ca701c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108572681
+        }
+    ],
+    "wof:id":1108572681,
+    "wof:lastmodified":1474064567,
+    "wof:name":"?inar Plastik Sise San.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9259796143,
+    41.0198974609,
+    28.9259796143,
+    41.0198974609
+],
+  "geometry": {"coordinates":[28.9259796143,41.0198974609],"type":"Point"}
+}

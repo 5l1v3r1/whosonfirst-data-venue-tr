@@ -1,0 +1,75 @@
+{
+  "id": 1108599349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0372638702,41.0033340454,29.0372638702,41.0033340454",
+    "geom:latitude":41.003334,
+    "geom:longitude":29.037264,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kekevi Sokak Kekevi Apt No:6 D.1",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 6664",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HG9v5A4Zmzek0XZxwWWIR_41.003334_29.037264@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065608,
+    "wof:geomhash":"e63a4762bfe7e7f85325b062cd7ba598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108599349
+        }
+    ],
+    "wof:id":1108599349,
+    "wof:lastmodified":1474065608,
+    "wof:name":"Zg Tasarim",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.0372638702,
+    41.0033340454,
+    29.0372638702,
+    41.0033340454
+],
+  "geometry": {"coordinates":[29.0372638702,41.0033340454],"type":"Point"}
+}

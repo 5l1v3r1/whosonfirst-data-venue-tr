@@ -1,0 +1,73 @@
+{
+  "id": 1108602825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1085987091,40.9485702515,29.1085987091,40.9485702515",
+    "geom:latitude":40.94857,
+    "geom:longitude":29.108599,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mektep Cd. No: 13/a",
+    "sg:city":"K??yali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 417 4474",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GAwLLQW1l9J2dwQ9CPtRR_40.948570_29.108599@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065748,
+    "wof:geomhash":"2b0ce6b32cdcb717298f4d0aa9a07845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108602825
+        }
+    ],
+    "wof:id":1108602825,
+    "wof:lastmodified":1474065748,
+    "wof:name":"?ebites Dogalgaz Isi San. Tic.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1085987091,
+    40.9485702515,
+    29.1085987091,
+    40.9485702515
+],
+  "geometry": {"coordinates":[29.1085987091,40.9485702515],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108593609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0649776459,40.2027130127,29.0649776459,40.2027130127",
+    "geom:latitude":40.202713,
+    "geom:longitude":29.064978,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bahar Mah.tun?sok.no 15",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 535 303 1617",
+    "sg:postcode":"16240",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZV18dDFcQQWudjj4Hvoj_40.202713_29.064978@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065367,
+    "wof:geomhash":"ea3b513acbfee2d5ba79cc6a9f665db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108593609
+        }
+    ],
+    "wof:id":1108593609,
+    "wof:lastmodified":1474065367,
+    "wof:name":"Kardesler Tahar",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    29.0649776459,
+    40.2027130127,
+    29.0649776459,
+    40.2027130127
+],
+  "geometry": {"coordinates":[29.0649776459,40.2027130127],"type":"Point"}
+}

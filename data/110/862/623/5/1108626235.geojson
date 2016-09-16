@@ -1,0 +1,71 @@
+{
+  "id": 1108626235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1625480652,41.002986908,29.1625480652,41.002986908",
+    "geom:latitude":41.002987,
+    "geom:longitude":29.162548,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad. No:107/6",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2964681",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LlPJRDSXDHiD8OOUxu6r6_41.002987_29.162548@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066709,
+    "wof:geomhash":"939d8241ad210a3e9e997aa8123fa41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108626235
+        }
+    ],
+    "wof:id":1108626235,
+    "wof:lastmodified":1474066709,
+    "wof:name":"Colorama Turizm",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.1625480652,
+    41.002986908,
+    29.1625480652,
+    41.002986908
+],
+  "geometry": {"coordinates":[29.1625480652,41.002986908],"type":"Point"}
+}

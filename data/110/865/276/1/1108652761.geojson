@@ -1,0 +1,71 @@
+{
+  "id": 1108652761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.152841568,41.0137825012,29.152841568,41.0137825012",
+    "geom:latitude":41.013783,
+    "geom:longitude":29.152842,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?? Han K:6 No:658/670",
+    "sg:city":"Yesildirek",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 9732",
+    "sg:postcode":"63200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D7H1I6OE3gMAmNdEZlCFs_41.013783_29.152842@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067969,
+    "wof:geomhash":"69a2cc3122c8a38e1dd57e206e2e69a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108652761
+        }
+    ],
+    "wof:id":1108652761,
+    "wof:lastmodified":1474067969,
+    "wof:name":"Y?re G?mlek",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.152841568,
+    41.0137825012,
+    29.152841568,
+    41.0137825012
+],
+  "geometry": {"coordinates":[29.152841568,41.0137825012],"type":"Point"}
+}

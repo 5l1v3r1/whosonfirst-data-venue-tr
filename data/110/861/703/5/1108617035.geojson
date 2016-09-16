@@ -1,0 +1,68 @@
+{
+  "id": 1108617035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5154705048,39.7782936096,30.5154705048,39.7782936096",
+    "geom:latitude":39.778294,
+    "geom:longitude":30.515471,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akademi. B?ye.",
+    "sg:city":"Ke?i?ren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 320 1385",
+    "sg:postcode":"06010",
+    "sg:province":"Eskisehir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934771,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KeeMkNwxQLn7BUXDAqRXr_39.778294_30.515471@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066345,
+    "wof:geomhash":"0dd8f842940b9e8a835c6867ed05be6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255,
+            "venue_id":1108617035
+        }
+    ],
+    "wof:id":1108617035,
+    "wof:lastmodified":1474066345,
+    "wof:name":"Mediko Sosyal Hastanesi",
+    "wof:parent_id":85934771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5154705048,
+    39.7782936096,
+    30.5154705048,
+    39.7782936096
+],
+  "geometry": {"coordinates":[30.5154705048,39.7782936096],"type":"Point"}
+}

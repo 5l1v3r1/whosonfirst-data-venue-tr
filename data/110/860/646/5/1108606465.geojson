@@ -1,0 +1,70 @@
+{
+  "id": 1108606465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0604934692,38.384563446,27.0604934692,38.384563446",
+    "geom:latitude":38.384563,
+    "geom:longitude":27.060493,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selvi Sk. No.6",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 539 8905",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929631,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E6qOLmdRhnbdsFU0Ref6o_38.384563_27.060493@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065906,
+    "wof:geomhash":"9996216761c77a3eba69ebfa48140e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":1108606465
+        }
+    ],
+    "wof:id":1108606465,
+    "wof:lastmodified":1474065906,
+    "wof:name":"Negis Tekstil A.s.",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.0604934692,
+    38.384563446,
+    27.0604934692,
+    38.384563446
+],
+  "geometry": {"coordinates":[27.0604934692,38.384563446],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108577483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1226291656,40.9303512573,29.1226291656,40.9303512573",
+    "geom:latitude":40.930351,
+    "geom:longitude":29.122629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. Oran Apt. No:130/4 K. Maltepe",
+    "sg:city":"Hadimk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 4402",
+    "sg:postcode":"34555",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bzJ3g4IBdrntuBHjSPylh_40.930351_29.122629@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064814,
+    "wof:geomhash":"3a7d2f7700aa6ef980803bdd9cb27566",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":1108577483
+        }
+    ],
+    "wof:id":1108577483,
+    "wof:lastmodified":1474064814,
+    "wof:name":"Dizayn Buro Mob.",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.1226291656,
+    40.9303512573,
+    29.1226291656,
+    40.9303512573
+],
+  "geometry": {"coordinates":[29.1226291656,40.9303512573],"type":"Point"}
+}

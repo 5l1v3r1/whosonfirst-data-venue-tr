@@ -1,0 +1,73 @@
+{
+  "id": 1108585531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0961704254,40.9594535828,29.0961704254,40.9594535828",
+    "geom:latitude":40.959454,
+    "geom:longitude":29.09617,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vukela Cad. Celayir Apt. 24/1 Bostanci",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 464 8746",
+    "sg:postcode":"34744",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BgVeLPdNmv49IY0o5rtTz_40.959454_29.096170@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065147,
+    "wof:geomhash":"7e29a9e231d75b01d423fbf2e866ca1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":1108585531
+        }
+    ],
+    "wof:id":1108585531,
+    "wof:lastmodified":1474065147,
+    "wof:name":"??el Turizm",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    29.0961704254,
+    40.9594535828,
+    29.0961704254,
+    40.9594535828
+],
+  "geometry": {"coordinates":[29.0961704254,40.9594535828],"type":"Point"}
+}

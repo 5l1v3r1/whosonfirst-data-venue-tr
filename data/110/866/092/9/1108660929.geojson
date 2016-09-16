@@ -1,0 +1,71 @@
+{
+  "id": 1108660929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1644477844,38.4340019226,27.1644477844,38.4340019226",
+    "geom:latitude":38.434002,
+    "geom:longitude":27.164448,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1558 Sok. No:12 Halkapinar",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 3633",
+    "sg:postcode":"34670",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OBpaapHmMb3Gyv2gZygYh_38.434002_27.164448@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068287,
+    "wof:geomhash":"41ea8a684fb25d469d80288d5f71a7c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108660929
+        }
+    ],
+    "wof:id":1108660929,
+    "wof:lastmodified":1474068287,
+    "wof:name":"Soncag Tarim Orman ?r?nleri",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1644477844,
+    38.4340019226,
+    27.1644477844,
+    38.4340019226
+],
+  "geometry": {"coordinates":[27.1644477844,38.4340019226],"type":"Point"}
+}

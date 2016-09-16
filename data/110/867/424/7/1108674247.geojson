@@ -1,0 +1,79 @@
+{
+  "id": 1108674247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0070018768,41.0492401123,29.0070018768,41.0492401123",
+    "geom:latitude":41.04924,
+    "geom:longitude":29.007002,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bomonti Firin Sok. No:39/41 Sisli",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 8352",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kKwma6xOxJ8RUI7QqT0cw_41.049240_29.007002@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068815,
+    "wof:geomhash":"2fbc3c6064378b9be2638b70929fec2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108674247
+        }
+    ],
+    "wof:id":1108674247,
+    "wof:lastmodified":1474068815,
+    "wof:name":"Internut Ulusl.gida Tic.ve San .",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    29.0070018768,
+    41.0492401123,
+    29.0070018768,
+    41.0492401123
+],
+  "geometry": {"coordinates":[29.0070018768,41.0492401123],"type":"Point"}
+}

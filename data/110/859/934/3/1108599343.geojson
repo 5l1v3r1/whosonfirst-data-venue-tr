@@ -1,0 +1,70 @@
+{
+  "id": 1108599343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8084468842,41.0328063965,28.8084468842,41.0328063965",
+    "geom:latitude":41.032806,
+    "geom:longitude":28.808447,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dereboyu Cd. Uder Sk. No:11",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 696 1456",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929887,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_605GKqb9SrHQlYMjUYHKuS_41.032806_28.808447@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065608,
+    "wof:geomhash":"abf88ff5bd5aedebe788d30f46db901c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":1108599343
+        }
+    ],
+    "wof:id":1108599343,
+    "wof:lastmodified":1474065608,
+    "wof:name":"Zenon Aydinlatma A.s.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.8084468842,
+    41.0328063965,
+    28.8084468842,
+    41.0328063965
+],
+  "geometry": {"coordinates":[28.8084468842,41.0328063965],"type":"Point"}
+}

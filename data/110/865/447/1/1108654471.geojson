@@ -1,0 +1,71 @@
+{
+  "id": 1108654471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8698768616,39.9333000183,32.8698768616,39.9333000183",
+    "geom:latitude":39.9333,
+    "geom:longitude":32.869877,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gundogdu Mah. Karacabey Sok.no.26 /3",
+    "sg:city":"Cebeci",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 362 5701",
+    "sg:postcode":"36780",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZBhpzshLadgNMfZPuq1nD_39.933300_32.869877@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068041,
+    "wof:geomhash":"3c530c66018918df463d24451fa48abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108654471
+        }
+    ],
+    "wof:id":1108654471,
+    "wof:lastmodified":1474068041,
+    "wof:name":"Aygunler Sut Mamulleri Uretimi Danismanlik A.s.",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    32.8698768616,
+    39.9333000183,
+    32.8698768616,
+    39.9333000183
+],
+  "geometry": {"coordinates":[32.8698768616,39.9333000183],"type":"Point"}
+}

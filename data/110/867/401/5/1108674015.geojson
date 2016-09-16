@@ -1,0 +1,79 @@
+{
+  "id": 1108674015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.79429245,39.8890724182,32.79429245,39.8890724182",
+    "geom:latitude":39.889072,
+    "geom:longitude":32.794292,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"24.cad. 27/25 Odtu Sitesi Karakursunlar",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 286 0186",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929671,
+        102191569,
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z04a73IDdkQxUe24jBZS6_39.889072_32.794292@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068802,
+    "wof:geomhash":"dcc0fe17cb89f00eac61c908bb44007d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":85929671,
+            "region_id":85679409,
+            "venue_id":1108674015
+        }
+    ],
+    "wof:id":1108674015,
+    "wof:lastmodified":1474068802,
+    "wof:name":"Cagnal",
+    "wof:parent_id":85929671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    32.79429245,
+    39.8890724182,
+    32.79429245,
+    39.8890724182
+],
+  "geometry": {"coordinates":[32.79429245,39.8890724182],"type":"Point"}
+}

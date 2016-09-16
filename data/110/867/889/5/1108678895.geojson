@@ -1,0 +1,68 @@
+{
+  "id": 1108678895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0986289978,41.0949745178,29.0986289978,41.0949745178",
+    "geom:latitude":41.094975,
+    "geom:longitude":29.098629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cd. No:43",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 2400",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FwVMRvvgTbA03FC6Zy9YI_41.094975_29.098629@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069003,
+    "wof:geomhash":"ab4d8e4a519ac66ff91f667ddc88d346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108678895
+        }
+    ],
+    "wof:id":1108678895,
+    "wof:lastmodified":1474069003,
+    "wof:name":"Unimar Denizcilik A.s.",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0986289978,
+    41.0949745178,
+    29.0986289978,
+    41.0949745178
+],
+  "geometry": {"coordinates":[29.0986289978,41.0949745178],"type":"Point"}
+}

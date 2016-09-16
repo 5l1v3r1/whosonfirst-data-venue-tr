@@ -1,0 +1,69 @@
+{
+  "id": 1108590223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2021389008,38.461101532,27.2021389008,38.461101532",
+    "geom:latitude":38.461102,
+    "geom:longitude":27.202139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Kemal Cad. No:126/d Bornova",
+    "sg:city":"Ineg?l",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 339 1698",
+    "sg:postcode":"16400",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60YOrrk1Xt6zbCTRFeLCfz_38.461102_27.202139@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065256,
+    "wof:geomhash":"6fc035fdfbeedc71aaddcd71c736014c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108590223
+        }
+    ],
+    "wof:id":1108590223,
+    "wof:lastmodified":1474065256,
+    "wof:name":"Bakislar Mutfak Banyo",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    27.2021389008,
+    38.461101532,
+    27.2021389008,
+    38.461101532
+],
+  "geometry": {"coordinates":[27.2021389008,38.461101532],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108659067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8323135376,39.9206428528,32.8323135376,39.9206428528",
+    "geom:latitude":39.920643,
+    "geom:longitude":32.832314,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ihsan G?",
+    "sg:city":"Kemer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 442 561 2019",
+    "sg:postcode":"07980",
+    "sg:province":"Erzurum",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929585,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ce0ENq0ZKhyXbao72Okdt_39.920643_32.832314@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068220,
+    "wof:geomhash":"31d3b411d9d1d0d37dd2e1af20d6548d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929585,
+            "region_id":85679409,
+            "venue_id":1108659067
+        }
+    ],
+    "wof:id":1108659067,
+    "wof:lastmodified":1474068220,
+    "wof:name":"Tekman Belediye Baskani",
+    "wof:parent_id":85929585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    32.8323135376,
+    39.9206428528,
+    32.8323135376,
+    39.9206428528
+],
+  "geometry": {"coordinates":[32.8323135376,39.9206428528],"type":"Point"}
+}

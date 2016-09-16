@@ -1,0 +1,71 @@
+{
+  "id": 1108602763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1143074036,41.0163192749,29.1143074036,41.0163192749",
+    "geom:latitude":41.016319,
+    "geom:longitude":29.114307,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Nisan Cd. No:60",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 390 0538",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m1OkW4h9il4igbwgi0WcO_41.016319_29.114307@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065745,
+    "wof:geomhash":"1a8aaa7f92215e4be60f92615d58158c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108602763
+        }
+    ],
+    "wof:id":1108602763,
+    "wof:lastmodified":1474065745,
+    "wof:name":"Volkan Isi Ltd.",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1143074036,
+    41.0163192749,
+    29.1143074036,
+    41.0163192749
+],
+  "geometry": {"coordinates":[29.1143074036,41.0163192749],"type":"Point"}
+}

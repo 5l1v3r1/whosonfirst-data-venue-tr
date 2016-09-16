@@ -1,0 +1,71 @@
+{
+  "id": 1108655257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1427402496,38.4396286011,27.1427402496,38.4396286011",
+    "geom:latitude":38.439629,
+    "geom:longitude":27.14274,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Bulvari No:278 D:1 Alsancak",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 465 2384",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lb8ebLHHGrCTOyNGmLxsX_38.439629_27.142740@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068070,
+    "wof:geomhash":"9379c61194eac3f0794633cf6aac740d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108655257
+        }
+    ],
+    "wof:id":1108655257,
+    "wof:lastmodified":1474068070,
+    "wof:name":"Ertan Madencilik",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.1427402496,
+    38.4396286011,
+    27.1427402496,
+    38.4396286011
+],
+  "geometry": {"coordinates":[27.1427402496,38.4396286011],"type":"Point"}
+}

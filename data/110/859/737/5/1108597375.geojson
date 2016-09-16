@@ -1,0 +1,73 @@
+{
+  "id": 1108597375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6974449158,36.8928146362,30.6974449158,36.8928146362",
+    "geom:latitude":36.892815,
+    "geom:longitude":30.697445,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizilsaray Mah. Dolaplidere Cad. No:10",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 4340",
+    "sg:postcode":"23050",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929847,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YffaN3kXe7UVb7ipqgHd9_36.892815_30.697445@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065525,
+    "wof:geomhash":"102809aeb1a5f269514827887b99fe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929847,
+            "region_id":85679263,
+            "venue_id":1108597375
+        }
+    ],
+    "wof:id":1108597375,
+    "wof:lastmodified":1474065525,
+    "wof:name":"Antalya Asansor",
+    "wof:parent_id":85929847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    30.6974449158,
+    36.8928146362,
+    30.6974449158,
+    36.8928146362
+],
+  "geometry": {"coordinates":[30.6974449158,36.8928146362],"type":"Point"}
+}

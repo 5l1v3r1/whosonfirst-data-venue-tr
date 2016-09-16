@@ -1,0 +1,72 @@
+{
+  "id": 1108657311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.5164794922,40.9796104431,27.5164794922,40.9796104431",
+    "geom:latitude":40.97961,
+    "geom:longitude":27.516479,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet T?ek?",
+    "sg:city":"Adilcevaz",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 266 312 1021",
+    "sg:postcode":"13500",
+    "sg:province":"Balikesir",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sTuqqiVltKuhYlAzRDbRV_40.979610_27.516479@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068148,
+    "wof:geomhash":"b7438070ce9389c959bcbf238eefad30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":1108657311
+        }
+    ],
+    "wof:id":1108657311,
+    "wof:lastmodified":1474068148,
+    "wof:name":"Ayvalik Belediye Baskani",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    27.5164794922,
+    40.9796104431,
+    27.5164794922,
+    40.9796104431
+],
+  "geometry": {"coordinates":[27.5164794922,40.9796104431],"type":"Point"}
+}

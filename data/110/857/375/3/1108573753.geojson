@@ -1,0 +1,68 @@
+{
+  "id": 1108573753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.770280838,40.9915390015,28.770280838,40.9915390015",
+    "geom:latitude":40.991539,
+    "geom:longitude":28.770281,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Mayis Cd. No:12/b",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 579 1499",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929775,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xAxkYYD3GmRSoHIj1d7xY_40.991539_28.770281@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064614,
+    "wof:geomhash":"d0e7cfef215633ae20db87be7b0707cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929775,
+            "region_id":85679237,
+            "venue_id":1108573753
+        }
+    ],
+    "wof:id":1108573753,
+    "wof:lastmodified":1474064614,
+    "wof:name":"G?ven Cam Tic. Ltd. Sti.",
+    "wof:parent_id":85929775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.770280838,
+    40.9915390015,
+    28.770280838,
+    40.9915390015
+],
+  "geometry": {"coordinates":[28.770280838,40.9915390015],"type":"Point"}
+}

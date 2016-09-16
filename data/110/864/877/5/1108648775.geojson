@@ -1,0 +1,63 @@
+{
+  "id": 1108648775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1306495667,38.4194717407,27.1306495667,38.4194717407",
+    "geom:latitude":38.419472,
+    "geom:longitude":27.13065,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"848. Sk. No:41 Konak",
+    "sg:city":"22/306",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 4556",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ioCExmXXQgoQFnbassMY_38.419472_27.130650@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067785,
+    "wof:geomhash":"c8fbba280d50615ebe8387c84a80614a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108648775
+        }
+    ],
+    "wof:id":1108648775,
+    "wof:lastmodified":1474067785,
+    "wof:name":"Guven Tip Tic.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1306495667,
+    38.4194717407,
+    27.1306495667,
+    38.4194717407
+],
+  "geometry": {"coordinates":[27.1306495667,38.4194717407],"type":"Point"}
+}

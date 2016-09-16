@@ -1,0 +1,71 @@
+{
+  "id": 1108605811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9345283508,41.0523605347,28.9345283508,41.0523605347",
+    "geom:latitude":41.052361,
+    "geom:longitude":28.934528,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bahariye Cad.no.29",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 337 3345",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929477,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHRdkGB4Er5A4LTetENaA_41.052361_28.934528@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065876,
+    "wof:geomhash":"d101a901837d496b437ceb26e03e7f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":1108605811
+        }
+    ],
+    "wof:id":1108605811,
+    "wof:lastmodified":1474065876,
+    "wof:name":"Gusto Giyim A.s.",
+    "wof:parent_id":85929477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9345283508,
+    41.0523605347,
+    28.9345283508,
+    41.0523605347
+],
+  "geometry": {"coordinates":[28.9345283508,41.0523605347],"type":"Point"}
+}

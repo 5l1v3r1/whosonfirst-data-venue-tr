@@ -1,0 +1,73 @@
+{
+  "id": 1108580731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0544548035,41.0124664307,29.0544548035,41.0124664307",
+    "geom:latitude":41.012466,
+    "geom:longitude":29.054455,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doganci Sok. Acibadem Cad. No:3 Acibadem /istanbul",
+    "sg:city":"Pinarbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 2914",
+    "sg:postcode":"07630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V6ZvbiaDoDBkWKtgV9EN4_41.012466_29.054455@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065029,
+    "wof:geomhash":"d3ae1cf50159deaccb961979646b0d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108580731
+        }
+    ],
+    "wof:id":1108580731,
+    "wof:lastmodified":1474065029,
+    "wof:name":"Koc Holding Otomoti A.s",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0544548035,
+    41.0124664307,
+    29.0544548035,
+    41.0124664307
+],
+  "geometry": {"coordinates":[29.0544548035,41.0124664307],"type":"Point"}
+}

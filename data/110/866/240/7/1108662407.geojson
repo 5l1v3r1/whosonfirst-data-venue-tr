@@ -1,0 +1,64 @@
+{
+  "id": 1108662407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1540355682,40.9996871948,29.1540355682,40.9996871948",
+    "geom:latitude":40.999687,
+    "geom:longitude":29.154036,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sehit Sok. No:49 Y.dudullu-umraniye",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 466 7496",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k9wg3kJhUR6b0oEDSUij0_40.999687_29.154036@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068341,
+    "wof:geomhash":"8d8a0ed57dc48b02fa9b724f8f3d06c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108662407
+        }
+    ],
+    "wof:id":1108662407,
+    "wof:lastmodified":1474068341,
+    "wof:name":"Enerji Fuarcilik Basili Yayincilik Mat.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1540355682,
+    40.9996871948,
+    29.1540355682,
+    40.9996871948
+],
+  "geometry": {"coordinates":[29.1540355682,40.9996871948],"type":"Point"}
+}

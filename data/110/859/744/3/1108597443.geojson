@@ -1,0 +1,69 @@
+{
+  "id": 1108597443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0994129181,38.388168335,27.0994129181,38.388168335",
+    "geom:latitude":38.388168,
+    "geom:longitude":27.099413,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1857/1 Sokak No:21/b",
+    "sg:city":"Uckuyular",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 485 5146",
+    "sg:postcode":"35140",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ikKDWbeLctUVAXBR4frSR_38.388168_27.099413@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065527,
+    "wof:geomhash":"47d8901749e83c419af88595cf183987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108597443
+        }
+    ],
+    "wof:id":1108597443,
+    "wof:lastmodified":1474065527,
+    "wof:name":"Asrin Asansorleri Imalat-ithalat-ihracat",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    27.0994129181,
+    38.388168335,
+    27.0994129181,
+    38.388168335
+],
+  "geometry": {"coordinates":[27.0994129181,38.388168335],"type":"Point"}
+}

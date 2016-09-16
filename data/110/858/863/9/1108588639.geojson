@@ -1,0 +1,70 @@
+{
+  "id": 1108588639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8893814087,41.005027771,28.8893814087,41.005027771",
+    "geom:latitude":41.005028,
+    "geom:longitude":28.889381,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A.kutsi Tecer Cad. No:51/2",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 4553",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05EpXI0dwXux3aCq9YrMAe_41.005028_28.889381@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065219,
+    "wof:geomhash":"2994e2d472d84093d0b830413065350a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108588639
+        }
+    ],
+    "wof:id":1108588639,
+    "wof:lastmodified":1474065219,
+    "wof:name":"Lila Tekstil",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8893814087,
+    41.005027771,
+    28.8893814087,
+    41.005027771
+],
+  "geometry": {"coordinates":[28.8893814087,41.005027771],"type":"Point"}
+}

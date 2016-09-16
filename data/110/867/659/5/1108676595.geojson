@@ -1,0 +1,68 @@
+{
+  "id": 1108676595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0194892883,41.0797538757,29.0194892883,41.0797538757",
+    "geom:latitude":41.079754,
+    "geom:longitude":29.019489,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Krizantem Sk. No:3 1.levent",
+    "sg:city":"24000",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 9051",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uyF7shGNrDLgnIvjzBifv_41.079754_29.019489@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068912,
+    "wof:geomhash":"3f75cfe64807efd197e4f3cf8956dd7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108676595
+        }
+    ],
+    "wof:id":1108676595,
+    "wof:lastmodified":1474068912,
+    "wof:name":"Elemek Ahsap San. Tic.ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    29.0194892883,
+    41.0797538757,
+    29.0194892883,
+    41.0797538757
+],
+  "geometry": {"coordinates":[29.0194892883,41.0797538757],"type":"Point"}
+}

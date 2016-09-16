@@ -1,0 +1,68 @@
+{
+  "id": 1108594483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.287858963,40.865146637,29.287858963,40.865146637",
+    "geom:latitude":40.865147,
+    "geom:longitude":29.287859,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kemalpasa Blv. Dural Sk. No:12",
+    "sg:city":"(352) 222 29 24",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 234 5859",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ifU0OXlfUg2zvHLn16sPQ_40.865147_29.287859@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065402,
+    "wof:geomhash":"cc99bb3bb2aa7497a51f1926b539be9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108594483
+        }
+    ],
+    "wof:id":1108594483,
+    "wof:lastmodified":1474065402,
+    "wof:name":"Mine A.s. M.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.287858963,
+    40.865146637,
+    29.287858963,
+    40.865146637
+],
+  "geometry": {"coordinates":[29.287858963,40.865146637],"type":"Point"}
+}

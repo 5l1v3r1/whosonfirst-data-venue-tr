@@ -1,0 +1,78 @@
+{
+  "id": 1108643861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
+    "geom:latitude":41.040855,
+    "geom:longitude":28.986183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?oban?sme Mah. Sanayi Cad. No:11",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 452 7292",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product",
+        "floury",
+        "macaroni"
+    ],
+    "sg:website":"baykur.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pb04qSYCNDA9oL4hQxZKg_41.040855_28.986183@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067557,
+    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108643861
+        }
+    ],
+    "wof:id":1108643861,
+    "wof:lastmodified":1474067557,
+    "wof:name":"Baykur Gida Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "floury",
+        "macaroni"
+    ]
+},
+  "bbox": [
+    28.9861831665,
+    41.0408554077,
+    28.9861831665,
+    41.0408554077
+],
+  "geometry": {"coordinates":[28.9861831665,41.0408554077],"type":"Point"}
+}

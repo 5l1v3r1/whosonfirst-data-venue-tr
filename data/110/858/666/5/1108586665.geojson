@@ -1,0 +1,69 @@
+{
+  "id": 1108586665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0932693481,37.7962875366,29.0932693481,37.7962875366",
+    "geom:latitude":37.796288,
+    "geom:longitude":29.093269,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayhan 3509 Sk. No.33",
+    "sg:city":"Gumusler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 266 0012",
+    "sg:postcode":"20085",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TAwO3LHkJXlLGyKwYAKBu_37.796288_29.093269@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065174,
+    "wof:geomhash":"ec48aebdb39f922702a32785fc8d0a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108586665
+        }
+    ],
+    "wof:id":1108586665,
+    "wof:lastmodified":1474065174,
+    "wof:name":"Kayteks Kadife Ltd.sti.",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.0932693481,
+    37.7962875366,
+    29.0932693481,
+    37.7962875366
+],
+  "geometry": {"coordinates":[29.0932693481,37.7962875366],"type":"Point"}
+}

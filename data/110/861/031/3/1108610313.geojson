@@ -1,0 +1,73 @@
+{
+  "id": 1108610313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.085187912,40.9582824707,29.085187912,40.9582824707",
+    "geom:latitude":40.958282,
+    "geom:longitude":29.085188,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:450",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 356 7434",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xDmAY8vzGzTqHprg8p2RR_40.958282_29.085188@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066090,
+    "wof:geomhash":"a83787b997301e7ca660fc40873e26ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":1108610313
+        }
+    ],
+    "wof:id":1108610313,
+    "wof:lastmodified":1474066090,
+    "wof:name":"Misirli Mobilya",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.085187912,
+    40.9582824707,
+    29.085187912,
+    40.9582824707
+],
+  "geometry": {"coordinates":[29.085187912,40.9582824707],"type":"Point"}
+}

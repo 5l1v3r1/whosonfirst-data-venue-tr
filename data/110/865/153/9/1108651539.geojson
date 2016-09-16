@@ -1,0 +1,67 @@
+{
+  "id": 1108651539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1300868988,38.4169311523,27.1300868988,38.4169311523",
+    "geom:latitude":38.416931,
+    "geom:longitude":27.130087,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847. Sk No:6/101 Konak",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 5457",
+    "sg:postcode":"35110",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EkHT4TNm5AsPsvaXD7ePP_38.416931_27.130087@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067905,
+    "wof:geomhash":"df3ba92ddf18bb3e0063e50fb220f3dd",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108651539
+        }
+    ],
+    "wof:id":1108651539,
+    "wof:lastmodified":1474067905,
+    "wof:name":"Nobel Medikal",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1300868988,
+    38.4169311523,
+    27.1300868988,
+    38.4169311523
+],
+  "geometry": {"coordinates":[27.1300868988,38.4169311523],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108601051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1367702484,38.4268722534,27.1367702484,38.4268722534",
+    "geom:latitude":38.426872,
+    "geom:longitude":27.13677,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sehitfethibey Cad. No:45/5",
+    "sg:city":"Pasaport",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 484 3651",
+    "sg:postcode":"35210",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VbEQ7DA0NX7ZLOmMhuYVc_38.426872_27.136770@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065683,
+    "wof:geomhash":"71e37a7927b8deb9f40c44782642da79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108601051
+        }
+    ],
+    "wof:id":1108601051,
+    "wof:lastmodified":1474065683,
+    "wof:name":"Ozsoy Tarim Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1367702484,
+    38.4268722534,
+    27.1367702484,
+    38.4268722534
+],
+  "geometry": {"coordinates":[27.1367702484,38.4268722534],"type":"Point"}
+}

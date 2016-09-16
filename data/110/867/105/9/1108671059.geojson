@@ -1,0 +1,72 @@
+{
+  "id": 1108671059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9837837219,41.0367660522,28.9837837219,41.0367660522",
+    "geom:latitude":41.036766,
+    "geom:longitude":28.983784,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cihangir Mah., Siraselviler Cad. No.53 Taksim",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 0606",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e0ufnhqlYYiNKEmwKAIgT_41.036766_28.983784@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068684,
+    "wof:geomhash":"9ef37e5136647c1ded1e78b1772a7f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108671059
+        }
+    ],
+    "wof:id":1108671059,
+    "wof:lastmodified":1474068684,
+    "wof:name":"Erciyes Menkul Degerler A.s.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9837837219,
+    41.0367660522,
+    28.9837837219,
+    41.0367660522
+],
+  "geometry": {"coordinates":[28.9837837219,41.0367660522],"type":"Point"}
+}

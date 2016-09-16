@@ -1,0 +1,71 @@
+{
+  "id": 1108601935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2117557526,38.4634437561,27.2117557526,38.4634437561",
+    "geom:latitude":38.463444,
+    "geom:longitude":27.211756,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"59/174 Hurdacilar San. Sitesi Doganlar-",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 479 8423",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QzzcYx8SUd4KytU51guN2_38.463444_27.211756@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065715,
+    "wof:geomhash":"6d46ee219638f2a4e5fdb655fd78111b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108601935
+        }
+    ],
+    "wof:id":1108601935,
+    "wof:lastmodified":1474065715,
+    "wof:name":"Ecebes Makine Ve Havalandirma San.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    27.2117557526,
+    38.4634437561,
+    27.2117557526,
+    38.4634437561
+],
+  "geometry": {"coordinates":[27.2117557526,38.4634437561],"type":"Point"}
+}

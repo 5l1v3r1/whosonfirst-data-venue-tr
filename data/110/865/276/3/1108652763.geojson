@@ -1,0 +1,74 @@
+{
+  "id": 1108652763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0864257812,41.0971984863,29.0864257812,41.0971984863",
+    "geom:latitude":41.097198,
+    "geom:longitude":29.086426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"T?kocagi Cad. No:37",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212522887551",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9yCzTT9jVHZiLToVKVbz_41.097198_29.086426@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067970,
+    "wof:geomhash":"99bf30e65bced68c31f1eded8a51e698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108652763
+        }
+    ],
+    "wof:id":1108652763,
+    "wof:lastmodified":1474067970,
+    "wof:name":"Y?ksel Giyim",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0864257812,
+    41.0971984863,
+    29.0864257812,
+    41.0971984863
+],
+  "geometry": {"coordinates":[29.0864257812,41.0971984863],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108676759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8988304138,39.9613418579,32.8988304138,39.9613418579",
+    "geom:latitude":39.961342,
+    "geom:longitude":32.89883,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yapit Sk. No:17 Siteler",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 0153",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvHFbZlx1vXiOc5GR9TNb_39.961342_32.898830@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068918,
+    "wof:geomhash":"6b1b43941921430821fffd6737e00071",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676759
+        }
+    ],
+    "wof:id":1108676759,
+    "wof:lastmodified":1474068918,
+    "wof:name":"Kahraman Tic. Orman ?r?n.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8988304138,
+    39.9613418579,
+    32.8988304138,
+    39.9613418579
+],
+  "geometry": {"coordinates":[32.8988304138,39.9613418579],"type":"Point"}
+}

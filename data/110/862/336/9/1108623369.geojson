@@ -1,0 +1,73 @@
+{
+  "id": 1108623369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1240291595,40.9779663086,29.1240291595,40.9779663086",
+    "geom:latitude":40.977966,
+    "geom:longitude":29.124029,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayisdagi Cd. No:96",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 2448",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NinuyKqvFUVrsIdkQZBSc_40.977966_29.124029@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066603,
+    "wof:geomhash":"520d39323e53ac37ef3b0538a6f3f39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108623369
+        }
+    ],
+    "wof:id":1108623369,
+    "wof:lastmodified":1474066603,
+    "wof:name":"Ulas Elektronik San. Tic. A.s.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.1240291595,
+    40.9779663086,
+    29.1240291595,
+    40.9779663086
+],
+  "geometry": {"coordinates":[29.1240291595,40.9779663086],"type":"Point"}
+}

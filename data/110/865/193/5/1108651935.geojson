@@ -1,0 +1,69 @@
+{
+  "id": 1108651935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8757476807,39.899433136,32.8757476807,39.899433136",
+    "geom:latitude":39.899433,
+    "geom:longitude":32.875748,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglar Cad. No:196/6 B.esat",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 447 1933",
+    "sg:postcode":"34306",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e4kVwQ1ciMa7dtdyq5eeY_39.899433_32.875748@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067919,
+    "wof:geomhash":"8654282b87ef2de1b5c4cdc3bc6609ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108651935
+        }
+    ],
+    "wof:id":1108651935,
+    "wof:lastmodified":1474067919,
+    "wof:name":"Tigris Mus. Dis Tic.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8757476807,
+    39.899433136,
+    32.8757476807,
+    39.899433136
+],
+  "geometry": {"coordinates":[32.8757476807,39.899433136],"type":"Point"}
+}

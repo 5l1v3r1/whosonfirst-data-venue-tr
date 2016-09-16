@@ -1,0 +1,69 @@
+{
+  "id": 1108574491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8388366699,39.89427948,32.8388366699,39.89427948",
+    "geom:latitude":39.894279,
+    "geom:longitude":32.838837,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Harbiye Mh. Nisan Sk. No:6/a Dikmen",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 4573",
+    "sg:postcode":"07600",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LFaKq0cQV9heF1kLH2UZD_39.894279_32.838837@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064643,
+    "wof:geomhash":"72ade74173bd7c04a850c69cf21ba92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108574491
+        }
+    ],
+    "wof:id":1108574491,
+    "wof:lastmodified":1474064643,
+    "wof:name":"Kig Yapi San. Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    32.8388366699,
+    39.89427948,
+    32.8388366699,
+    39.89427948
+],
+  "geometry": {"coordinates":[32.8388366699,39.89427948],"type":"Point"}
+}

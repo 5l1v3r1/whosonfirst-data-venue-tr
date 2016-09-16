@@ -1,0 +1,71 @@
+{
+  "id": 1108671871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9078865051,41.0042037964,28.9078865051,41.0042037964",
+    "geom:latitude":41.004204,
+    "geom:longitude":28.907887,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyit Nizam Cd. No:70 Zeytinburnu",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 664 6807",
+    "sg:postcode":"59100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nZft3KDVMOwXvuCUUEnuY_41.004204_28.907887@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068713,
+    "wof:geomhash":"2766b516e2c36a3afe5c32eca6100e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108671871
+        }
+    ],
+    "wof:id":1108671871,
+    "wof:lastmodified":1474068713,
+    "wof:name":"Sonpas Yangin S?nd?rme Cihaz.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    28.9078865051,
+    41.0042037964,
+    28.9078865051,
+    41.0042037964
+],
+  "geometry": {"coordinates":[28.9078865051,41.0042037964],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108618265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.954202652,41.0050010681,28.954202652,41.0050010681",
+    "geom:latitude":41.005001,
+    "geom:longitude":28.954203,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langahisari Sok. No:21",
+    "sg:city":"Yenikapi",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21263858505",
+    "sg:postcode":"23000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gCt4QX2tCCLwjjxRvVl3w_41.005001_28.954203@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066400,
+    "wof:geomhash":"f480698c28a428b3042fad2a4511d8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":1108618265
+        }
+    ],
+    "wof:id":1108618265,
+    "wof:lastmodified":1474066400,
+    "wof:name":"Kordon Hotel",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.954202652,
+    41.0050010681,
+    28.954202652,
+    41.0050010681
+],
+  "geometry": {"coordinates":[28.954202652,41.0050010681],"type":"Point"}
+}

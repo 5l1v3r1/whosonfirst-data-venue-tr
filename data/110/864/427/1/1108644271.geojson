@@ -1,0 +1,73 @@
+{
+  "id": 1108644271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9807262421,41.0424041748,28.9807262421,41.0424041748",
+    "geom:latitude":41.042404,
+    "geom:longitude":28.980726,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolapdere Cad. No:61",
+    "sg:city":"Pangalti",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 9205",
+    "sg:postcode":"34373",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "manikin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dlGR3sKsdJyhXLQb9YxIo_41.042404_28.980726@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067572,
+    "wof:geomhash":"265c57e77b1798e8f3096160bc44f32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108644271
+        }
+    ],
+    "wof:id":1108644271,
+    "wof:lastmodified":1474067572,
+    "wof:name":"Seda Manken Aks.",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manikin"
+    ]
+},
+  "bbox": [
+    28.9807262421,
+    41.0424041748,
+    28.9807262421,
+    41.0424041748
+],
+  "geometry": {"coordinates":[28.9807262421,41.0424041748],"type":"Point"}
+}

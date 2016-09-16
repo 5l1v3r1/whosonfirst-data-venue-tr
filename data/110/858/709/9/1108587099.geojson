@@ -1,0 +1,73 @@
+{
+  "id": 1108587099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1426334381,40.930229187,29.1426334381,40.930229187",
+    "geom:latitude":40.930229,
+    "geom:longitude":29.142633,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Feyzullah Cad. Nermin Sok. 3/11",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 394 1399",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B5K7KLEuFbDbtDbCN4lcj_40.930229_29.142633@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065187,
+    "wof:geomhash":"9eee1a7f648c8a1670bc5d19c9180d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":1108587099
+        }
+    ],
+    "wof:id":1108587099,
+    "wof:lastmodified":1474065187,
+    "wof:name":"Samanyolu Kumas A.s.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.1426334381,
+    40.930229187,
+    29.1426334381,
+    40.930229187
+],
+  "geometry": {"coordinates":[29.1426334381,40.930229187],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108626761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7179908752,36.8749656677,30.7179908752,36.8749656677",
+    "geom:latitude":36.874966,
+    "geom:longitude":30.717991,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Burhanettin Onat Caddesi No:55",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 312 6535",
+    "sg:postcode":"65710",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mPWbfekg2d97HJ7FApLmA_36.874966_30.717991@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066728,
+    "wof:geomhash":"4cf90f167359eea049d611eda753c9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930261,
+            "venue_id":1108626761
+        }
+    ],
+    "wof:id":1108626761,
+    "wof:lastmodified":1474066728,
+    "wof:name":"Grand Hakan Tur",
+    "wof:parent_id":85930261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    30.7179908752,
+    36.8749656677,
+    30.7179908752,
+    36.8749656677
+],
+  "geometry": {"coordinates":[30.7179908752,36.8749656677],"type":"Point"}
+}

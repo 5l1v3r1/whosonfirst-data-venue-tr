@@ -1,0 +1,70 @@
+{
+  "id": 1108622119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.5102882385,37.8747711182,32.5102882385,37.8747711182",
+    "geom:latitude":37.874771,
+    "geom:longitude":32.510288,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Cakmak Mah. Toptan Gidacilar Sitesi Manyas Sok. 12.blok No:16 Karatay",
+    "sg:city":"55020",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 342 2137",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "material",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w5IWytAonqtHrSxQgqXyi_37.874771_32.510288@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066559,
+    "wof:geomhash":"6735506bdf7ccd010e141a018f6cb11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108622119
+        }
+    ],
+    "wof:id":1108622119,
+    "wof:lastmodified":1474066559,
+    "wof:name":"Visicon Temizlik Urunleri",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    32.5102882385,
+    37.8747711182,
+    32.5102882385,
+    37.8747711182
+],
+  "geometry": {"coordinates":[32.5102882385,37.8747711182],"type":"Point"}
+}

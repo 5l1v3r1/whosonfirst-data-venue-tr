@@ -1,0 +1,64 @@
+{
+  "id": 1108572887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.3693275452,37.0652770996,37.3693275452,37.0652770996",
+    "geom:latitude":37.065277,
+    "geom:longitude":37.369328,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prof.muammer Aksoy Bulvari 14.sok.no:3/a",
+    "sg:city":"Nisantasi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 34221526425",
+    "sg:postcode":"80200",
+    "sg:province":"Gaziantep",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934731,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rSDFgZ6hwWxyNW8a6glR9_37.065277_37.369328@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064576,
+    "wof:geomhash":"351192c1fd513e9b26322773efee15ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":1108572887
+        }
+    ],
+    "wof:id":1108572887,
+    "wof:lastmodified":1474064576,
+    "wof:name":"Berkay Cakmak Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3693275452,
+    37.0652770996,
+    37.3693275452,
+    37.0652770996
+],
+  "geometry": {"coordinates":[37.3693275452,37.0652770996],"type":"Point"}
+}

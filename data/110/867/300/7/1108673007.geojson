@@ -1,0 +1,66 @@
+{
+  "id": 1108673007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1595001221,40.9112014771,29.1595001221,40.9112014771",
+    "geom:latitude":40.911201,
+    "geom:longitude":29.1595,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Spor Cd. Atat?k Bulv. No:16/1 Kartal",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 5756",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yzQ59Bo7GJtXoqQ98h9Ln_40.911201_29.159500@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068762,
+    "wof:geomhash":"7e4f4379830e6a88978a2429a3be6947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108673007
+        }
+    ],
+    "wof:id":1108673007,
+    "wof:lastmodified":1474068762,
+    "wof:name":"Gamze ?i?ek Evi",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1595001221,
+    40.9112014771,
+    29.1595001221,
+    40.9112014771
+],
+  "geometry": {"coordinates":[29.1595001221,40.9112014771],"type":"Point"}
+}

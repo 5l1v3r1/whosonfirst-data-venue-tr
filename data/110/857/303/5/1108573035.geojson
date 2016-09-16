@@ -1,0 +1,64 @@
+{
+  "id": 1108573035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8838653564,41.0243682861,28.8838653564,41.0243682861",
+    "geom:latitude":41.024368,
+    "geom:longitude":28.883865,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sancakli Cad. Ozan Sok. No:35/37 Gungoren",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 506 8111",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929891,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VtuFueUI4WwMX65YeH8Mx_41.024368_28.883865@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064582,
+    "wof:geomhash":"617087cf4f5ed03c3eafa248448c49c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":1108573035
+        }
+    ],
+    "wof:id":1108573035,
+    "wof:lastmodified":1474064582,
+    "wof:name":"Guner Eksport Hediyelik Esya Tic.ltd.sti.",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8838653564,
+    41.0243682861,
+    28.8838653564,
+    41.0243682861
+],
+  "geometry": {"coordinates":[28.8838653564,41.0243682861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108602065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9793987274,41.0375328064,28.9793987274,41.0375328064",
+    "geom:latitude":41.037533,
+    "geom:longitude":28.979399,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolapdere Bulbul Mah. Serdar Omer Pasa Cad. No:7-9",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 6060",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906551,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5915qWrLzNDIyM48EeUiuc_41.037533_28.979399@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065719,
+    "wof:geomhash":"9a34b3db2e1692e7d4871e400c339cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906551,
+            "region_id":85679237,
+            "venue_id":1108602065
+        }
+    ],
+    "wof:id":1108602065,
+    "wof:lastmodified":1474065719,
+    "wof:name":"Frigoven Sogutma San Ve Tic.ltd.sti.",
+    "wof:parent_id":85906551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9793987274,
+    41.0375328064,
+    28.9793987274,
+    41.0375328064
+],
+  "geometry": {"coordinates":[28.9793987274,41.0375328064],"type":"Point"}
+}

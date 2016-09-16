@@ -1,0 +1,66 @@
+{
+  "id": 1108658561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0873184204,41.1478919983,29.0873184204,41.1478919983",
+    "geom:latitude":41.147892,
+    "geom:longitude":29.087318,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aziz Yeniay",
+    "sg:city":"Y?egir",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 624 3115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rK6UUS4s2jFRRS62ZKpf1_41.147892_29.087318@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068191,
+    "wof:geomhash":"2f023ddbbd8cd33638fdee167825c3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930081,
+            "venue_id":1108658561
+        }
+    ],
+    "wof:id":1108658561,
+    "wof:lastmodified":1474068191,
+    "wof:name":"K???k ?ekmece Belediye Baskani",
+    "wof:parent_id":85930081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0873184204,
+    41.1478919983,
+    29.0873184204,
+    41.1478919983
+],
+  "geometry": {"coordinates":[29.0873184204,41.1478919983],"type":"Point"}
+}

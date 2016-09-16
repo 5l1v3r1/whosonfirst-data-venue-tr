@@ -1,0 +1,64 @@
+{
+  "id": 1108664747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.05991745,40.1943969727,29.05991745,40.1943969727",
+    "geom:latitude":40.194397,
+    "geom:longitude":29.059917,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"F.?akmak Cd. No:63",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 255 0521",
+    "sg:postcode":"34000",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fmt3CIxCzlLa6P9QAtsfD_40.194397_29.059917@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068434,
+    "wof:geomhash":"389b7b871eebf7d4cf5718c754b70ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108664747
+        }
+    ],
+    "wof:id":1108664747,
+    "wof:lastmodified":1474068434,
+    "wof:name":"Kuban Tesis. Tic. A.s.",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05991745,
+    40.1943969727,
+    29.05991745,
+    40.1943969727
+],
+  "geometry": {"coordinates":[29.05991745,40.1943969727],"type":"Point"}
+}

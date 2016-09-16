@@ -1,0 +1,71 @@
+{
+  "id": 1108594529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8394584656,39.9554519653,32.8394584656,39.9554519653",
+    "geom:latitude":39.955452,
+    "geom:longitude":32.839458,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"4. Cd. 5/14 Emek",
+    "sg:city":"Sihhiye",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 212 6560",
+    "sg:postcode":"06410",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929513,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DVwE9sh4pS5pCvukMcT0O_39.955452_32.839458@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065403,
+    "wof:geomhash":"00990832c176c3caba1d3dba1eb99361",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":1108594529
+        }
+    ],
+    "wof:id":1108594529,
+    "wof:lastmodified":1474065403,
+    "wof:name":"Sartorius Membran Filtre Sistemleri",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8394584656,
+    39.9554519653,
+    32.8394584656,
+    39.9554519653
+],
+  "geometry": {"coordinates":[32.8394584656,39.9554519653],"type":"Point"}
+}

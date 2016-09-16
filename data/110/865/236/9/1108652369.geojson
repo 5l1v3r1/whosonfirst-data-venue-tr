@@ -1,0 +1,85 @@
+{
+  "id": 1108652369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9877109528,41.0553321838,28.9877109528,41.0553321838",
+    "geom:latitude":41.055332,
+    "geom:longitude":28.987711,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Samanyolu Sok. No:86/2 Osmanbey",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 234 0181",
+    "sg:postcode":"80220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85929423,
+        101913185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19S1TC02GdhPxJgoClsC7U_41.055332_28.987711@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067954,
+    "wof:geomhash":"c1b56cefafe63d2ce60c41f64383a441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108652369
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108652369
+        }
+    ],
+    "wof:id":1108652369,
+    "wof:lastmodified":1474067954,
+    "wof:name":"Bediz Men Shirts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9877109528,
+    41.0553321838,
+    28.9877109528,
+    41.0553321838
+],
+  "geometry": {"coordinates":[28.9877109528,41.0553321838],"type":"Point"}
+}

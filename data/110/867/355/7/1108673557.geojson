@@ -1,0 +1,75 @@
+{
+  "id": 1108673557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0339202881,40.9950294495,29.0339202881,40.9950294495",
+    "geom:latitude":40.995029,
+    "geom:longitude":29.03392,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cd. No:160/16a",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 8820",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RuJyTx1KuWiDP2HlJSuIb_40.995029_29.033920@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068785,
+    "wof:geomhash":"c1339b620dc0cd85bf9baa809d1204b9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108673557
+        }
+    ],
+    "wof:id":1108673557,
+    "wof:lastmodified":1474068785,
+    "wof:name":"Zahide ?i?ek?ilik",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0339202881,
+    40.9950294495,
+    29.0339202881,
+    40.9950294495
+],
+  "geometry": {"coordinates":[29.0339202881,40.9950294495],"type":"Point"}
+}

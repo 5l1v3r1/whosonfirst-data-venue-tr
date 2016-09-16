@@ -1,0 +1,75 @@
+{
+  "id": 1108654349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9870662689,41.0371894836,28.9870662689,41.0371894836",
+    "geom:latitude":41.037189,
+    "geom:longitude":28.987066,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Y.dudullu Org.san.bol. 81260 Umraniye Istanbul",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 6933",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P7amOOEInnVjZyoETrCWS_41.037189_28.987066@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068037,
+    "wof:geomhash":"1eec029dd6e2ce4eb3b168fd082916d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108654349
+        }
+    ],
+    "wof:id":1108654349,
+    "wof:lastmodified":1474068037,
+    "wof:name":"Ima Celik Endustri Tesisleri Ins San Tic As",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    28.9870662689,
+    41.0371894836,
+    28.9870662689,
+    41.0371894836
+],
+  "geometry": {"coordinates":[28.9870662689,41.0371894836],"type":"Point"}
+}

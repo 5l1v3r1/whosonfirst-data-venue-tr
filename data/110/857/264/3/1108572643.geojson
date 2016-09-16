@@ -1,0 +1,69 @@
+{
+  "id": 1108572643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0079364777,41.0809059143,29.0079364777,41.0809059143",
+    "geom:latitude":41.080906,
+    "geom:longitude":29.007936,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oto Sanayi Yesilce Mah. Secilmis Sok. No: 20 4.levent",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122795066329",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GSK6FKnrZupIuiF9e4Eby_41.080906_29.007936@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064565,
+    "wof:geomhash":"5d811654c1d0132f39529d005ba4cf32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108572643
+        }
+    ],
+    "wof:id":1108572643,
+    "wof:lastmodified":1474064565,
+    "wof:name":"Yildiz Plastik San.tic. Ltd. Sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0079364777,
+    41.0809059143,
+    29.0079364777,
+    41.0809059143
+],
+  "geometry": {"coordinates":[29.0079364777,41.0809059143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108587531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1437149048,41.016418457,29.1437149048,41.016418457",
+    "geom:latitude":41.016418,
+    "geom:longitude":29.143715,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?mraniye",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 000 0000",
+    "sg:postcode":"81240",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "web",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28cRt4LJaxEkPjMximSOFP_41.016418_29.143715@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065196,
+    "wof:geomhash":"21383dd1c0160c807ae4824bc91a6533",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108587531
+        }
+    ],
+    "wof:id":1108587531,
+    "wof:lastmodified":1474065196,
+    "wof:name":"Maviportakal",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "design"
+    ]
+},
+  "bbox": [
+    29.1437149048,
+    41.016418457,
+    29.1437149048,
+    41.016418457
+],
+  "geometry": {"coordinates":[29.1437149048,41.016418457],"type":"Point"}
+}

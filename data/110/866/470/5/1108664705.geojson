@@ -1,0 +1,68 @@
+{
+  "id": 1108664705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9975395203,41.0707054138,28.9975395203,41.0707054138",
+    "geom:latitude":41.070705,
+    "geom:longitude":28.99754,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Perpa K: 8 No: 996 Okmeydani",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 210 0832",
+    "sg:postcode":"06640",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PUSaBzDfzHcLIFivGu4tS_41.070705_28.997540@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068432,
+    "wof:geomhash":"84122e52005a9c61474f87a033bd69aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108664705
+        }
+    ],
+    "wof:id":1108664705,
+    "wof:lastmodified":1474068432,
+    "wof:name":"Inter Teknik Ltd.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9975395203,
+    41.0707054138,
+    28.9975395203,
+    41.0707054138
+],
+  "geometry": {"coordinates":[28.9975395203,41.0707054138],"type":"Point"}
+}

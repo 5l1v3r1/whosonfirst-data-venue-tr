@@ -1,0 +1,83 @@
+{
+  "id": 1108636383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0146503448,41.0585708618,29.0146503448,41.0585708618",
+    "geom:latitude":41.058571,
+    "geom:longitude":29.01465,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bestekar Sevki Bey Sk.no:20 Balmumcu",
+    "sg:city":"?k?ar",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 3610",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929393,
+        102191569,
+        85632393,
+        101912663,
+        85679237,
+        85904169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ukN4BwmLxYbDRKmUZNv9Y_41.058571_29.014650@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067279,
+    "wof:geomhash":"ac5a0d86c6c3f37dbe121d58b3362bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929393,
+            "region_id":85679237,
+            "venue_id":1108636383
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108636383
+        }
+    ],
+    "wof:id":1108636383,
+    "wof:lastmodified":1474067279,
+    "wof:name":"Psi Otomasyon Ve Bilgi A .s .",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [
+    29.0146503448,
+    41.0585708618,
+    29.0146503448,
+    41.0585708618
+],
+  "geometry": {"coordinates":[29.0146503448,41.0585708618],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108676627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9913578033,41.0809173584,28.9913578033,41.0809173584",
+    "geom:latitude":41.080917,
+    "geom:longitude":28.991358,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mecidiye Cad. Cevher Apt. 3/6 80310 Mecidiyekoy",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 4600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eEsYSwVamhMXogWg6CKpq_41.080917_28.991358@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068913,
+    "wof:geomhash":"69fb9d2d57789a09dd4039c75ca88323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108676627
+        }
+    ],
+    "wof:id":1108676627,
+    "wof:lastmodified":1474068913,
+    "wof:name":"Eron A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    28.9913578033,
+    41.0809173584,
+    28.9913578033,
+    41.0809173584
+],
+  "geometry": {"coordinates":[28.9913578033,41.0809173584],"type":"Point"}
+}

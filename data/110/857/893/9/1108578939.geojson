@@ -1,0 +1,74 @@
+{
+  "id": 1108578939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0363636017,40.9936676025,29.0363636017,40.9936676025",
+    "geom:latitude":40.993668,
+    "geom:longitude":29.036364,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurbalidere Cad. No:61 Hasanpasa-kadikoy",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 3183",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CXFX6KFgTwUPJ7TivuxPq_40.993668_29.036364@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064912,
+    "wof:geomhash":"a60a46a89844c77e0d8396cf20217a40",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108578939
+        }
+    ],
+    "wof:id":1108578939,
+    "wof:lastmodified":1474064912,
+    "wof:name":"?etin Optik",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.0363636017,
+    40.9936676025,
+    29.0363636017,
+    40.9936676025
+],
+  "geometry": {"coordinates":[29.0363636017,40.9936676025],"type":"Point"}
+}

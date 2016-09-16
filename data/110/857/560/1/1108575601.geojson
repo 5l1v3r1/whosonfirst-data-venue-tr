@@ -1,0 +1,73 @@
+{
+  "id": 1108575601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.010187149,41.0606651306,29.010187149,41.0606651306",
+    "geom:latitude":41.060665,
+    "geom:longitude":29.010187,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Balmumcu Hossohbet Sok. No:3/1",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 2818",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DK2OFHE2tV5hVaR7zR11y_41.060665_29.010187@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064685,
+    "wof:geomhash":"fdb76c4729746e8f35814898a90b0f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108575601
+        }
+    ],
+    "wof:id":1108575601,
+    "wof:lastmodified":1474064685,
+    "wof:name":"Inter Yat Tourism",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.010187149,
+    41.0606651306,
+    29.010187149,
+    41.0606651306
+],
+  "geometry": {"coordinates":[29.010187149,41.0606651306],"type":"Point"}
+}

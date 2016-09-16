@@ -1,0 +1,67 @@
+{
+  "id": 1108604599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1372642517,40.9222717285,29.1372642517,40.9222717285",
+    "geom:latitude":40.922272,
+    "geom:longitude":29.137264,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zumrutevler Mah. Sumbul Sok. No:2",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 383 3850",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72g4UVS7PHE3yFeWxnWQbz_40.922272_29.137264@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065823,
+    "wof:geomhash":"b4a06388e42a438525a2fe310abafa72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108604599
+        }
+    ],
+    "wof:id":1108604599,
+    "wof:lastmodified":1474065823,
+    "wof:name":"Oztemel Gida Ltd.sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    29.1372642517,
+    40.9222717285,
+    29.1372642517,
+    40.9222717285
+],
+  "geometry": {"coordinates":[29.1372642517,40.9222717285],"type":"Point"}
+}

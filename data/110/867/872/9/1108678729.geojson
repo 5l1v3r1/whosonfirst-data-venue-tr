@@ -1,0 +1,68 @@
+{
+  "id": 1108678729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0459728241,40.9940910339,29.0459728241,40.9940910339",
+    "geom:latitude":40.994091,
+    "geom:longitude":29.045973,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ihsaniye Mah.alt.sok. 123/3 Uskudar-",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 342 2929",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_637Axb9b0nAXOREyMqAlZX_40.994091_29.045973@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068996,
+    "wof:geomhash":"f6bde292ee6fd37197a2c866f6a018cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108678729
+        }
+    ],
+    "wof:id":1108678729,
+    "wof:lastmodified":1474068996,
+    "wof:name":"Mb Deniz Ltd.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0459728241,
+    40.9940910339,
+    29.0459728241,
+    40.9940910339
+],
+  "geometry": {"coordinates":[29.0459728241,40.9940910339],"type":"Point"}
+}

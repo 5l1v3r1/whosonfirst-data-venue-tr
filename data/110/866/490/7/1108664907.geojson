@@ -1,0 +1,68 @@
+{
+  "id": 1108664907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0080471039,41.0685348511,29.0080471039,41.0685348511",
+    "geom:latitude":41.068535,
+    "geom:longitude":29.008047,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keskin Kalem Sk. No:6/9 Esentepe",
+    "sg:city":"B.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 4457",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tWaTsFb7GcODuN7oCf6xv_41.068535_29.008047@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068439,
+    "wof:geomhash":"8bf5bbda92809fde6d3dae6ef76e480f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108664907
+        }
+    ],
+    "wof:id":1108664907,
+    "wof:lastmodified":1474068439,
+    "wof:name":"Ulusoy Mekanik Tesisat Taahh?t Tic. A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0080471039,
+    41.0685348511,
+    29.0080471039,
+    41.0685348511
+],
+  "geometry": {"coordinates":[29.0080471039,41.0685348511],"type":"Point"}
+}

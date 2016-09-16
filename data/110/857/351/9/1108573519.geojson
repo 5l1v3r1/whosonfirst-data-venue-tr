@@ -1,0 +1,66 @@
+{
+  "id": 1108573519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9756755829,41.0150146484,28.9756755829,41.0150146484",
+    "geom:latitude":41.015015,
+    "geom:longitude":28.975676,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cd. No:4",
+    "sg:city":"?ifteler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 541 2594",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MQAgKLPeiLxdBYSCXkFVb_41.015015_28.975676@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064605,
+    "wof:geomhash":"77381af9fcb20cdc570e3004565e0bcd",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108573519
+        }
+    ],
+    "wof:id":1108573519,
+    "wof:lastmodified":1474064605,
+    "wof:name":"Camcilar Tic. Koll. Sti.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.9756755829,
+    41.0150146484,
+    28.9756755829,
+    41.0150146484
+],
+  "geometry": {"coordinates":[28.9756755829,41.0150146484],"type":"Point"}
+}

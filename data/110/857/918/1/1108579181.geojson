@@ -1,0 +1,68 @@
+{
+  "id": 1108579181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8772068024,40.9835205078,28.8772068024,40.9835205078",
+    "geom:latitude":40.983521,
+    "geom:longitude":28.877207,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe Mah. Gulbeseker Sok. No:35 Bakirkoy",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 583 7337",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M4EKTLAxs1c7z08il7q5q_40.983521_28.877207@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064925,
+    "wof:geomhash":"df751ecf57622d0cb4df1f09575c2e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108579181
+        }
+    ],
+    "wof:id":1108579181,
+    "wof:lastmodified":1474064925,
+    "wof:name":"P Organizasyon",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8772068024,
+    40.9835205078,
+    28.8772068024,
+    40.9835205078
+],
+  "geometry": {"coordinates":[28.8772068024,40.9835205078],"type":"Point"}
+}

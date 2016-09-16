@@ -1,0 +1,68 @@
+{
+  "id": 1108576979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8747291565,39.8907012939,32.8747291565,39.8907012939",
+    "geom:latitude":39.890701,
+    "geom:longitude":32.874729,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ugur Mumcu Cad. Kemer Sok.no:12/3",
+    "sg:city":"K.yali",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 2840",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "quality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45FIavMjZXKMMRPdrN9gM3_39.890701_32.874729@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064753,
+    "wof:geomhash":"0db6206e63885210457955ec7387b08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108576979
+        }
+    ],
+    "wof:id":1108576979,
+    "wof:lastmodified":1474064753,
+    "wof:name":"Deta Yonetim Danismanligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quality"
+    ]
+},
+  "bbox": [
+    32.8747291565,
+    39.8907012939,
+    32.8747291565,
+    39.8907012939
+],
+  "geometry": {"coordinates":[32.8747291565,39.8907012939],"type":"Point"}
+}

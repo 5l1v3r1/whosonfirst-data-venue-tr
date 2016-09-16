@@ -1,0 +1,73 @@
+{
+  "id": 1108577217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8620872498,39.9337654114,32.8620872498,39.9337654114",
+    "geom:latitude":39.933765,
+    "geom:longitude":32.862087,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Bulvari 113/33",
+    "sg:city":"Cebeci",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 312 6711",
+    "sg:postcode":"36780",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qn5obZB9MCe67lwyl5Phk_39.933765_32.862087@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064782,
+    "wof:geomhash":"ded670169223a1ff436783267729549c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108577217
+        }
+    ],
+    "wof:id":1108577217,
+    "wof:lastmodified":1474064782,
+    "wof:name":"Simge Insan Kaynaklari",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ]
+},
+  "bbox": [
+    32.8620872498,
+    39.9337654114,
+    32.8620872498,
+    39.9337654114
+],
+  "geometry": {"coordinates":[32.8620872498,39.9337654114],"type":"Point"}
+}

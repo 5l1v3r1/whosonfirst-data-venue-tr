@@ -1,0 +1,67 @@
+{
+  "id": 1108677215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1300392151,38.402305603,27.1300392151,38.402305603",
+    "geom:latitude":38.402306,
+    "geom:longitude":27.130039,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesillik Cd. No:4/9 Karabaglar",
+    "sg:city":"Sapanca",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 237 9532",
+    "sg:postcode":"54600",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RJ4rQoac71Ci7pY0EMiUi_38.402306_27.130039@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068933,
+    "wof:geomhash":"5602e6f5022ef178991ce758847aca94",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108677215
+        }
+    ],
+    "wof:id":1108677215,
+    "wof:lastmodified":1474068933,
+    "wof:name":"Vertas Veryeriler Orman ?r?n. A.s.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    27.1300392151,
+    38.402305603,
+    27.1300392151,
+    38.402305603
+],
+  "geometry": {"coordinates":[27.1300392151,38.402305603],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1108644601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0296726227,40.9949073792,29.0296726227,40.9949073792",
+    "geom:latitude":40.994907,
+    "geom:longitude":29.029673,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karakoy Mumhane Cad. 35",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 1009",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "stone",
+        "natural",
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T3OnYk1YarFjl2sRJIIl8_40.994907_29.029673@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067583,
+    "wof:geomhash":"b5c91ee47de2f54fcaab933fbb728797",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108644601
+        }
+    ],
+    "wof:id":1108644601,
+    "wof:lastmodified":1474067583,
+    "wof:name":"Elkay A.s.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "natural",
+        "marble"
+    ]
+},
+  "bbox": [
+    29.0296726227,
+    40.9949073792,
+    29.0296726227,
+    40.9949073792
+],
+  "geometry": {"coordinates":[29.0296726227,40.9949073792],"type":"Point"}
+}

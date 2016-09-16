@@ -1,0 +1,68 @@
+{
+  "id": 1108622575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8955497742,40.9995727539,28.8955497742,40.9995727539",
+    "geom:latitude":40.999573,
+    "geom:longitude":28.89555,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2.tasocagi Cad Oguz Sok.no.3 D:17",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 212 2634",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tbp0iIK2SedEfjLrwSzhg_40.999573_28.895550@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066575,
+    "wof:geomhash":"4ae3abb7877c9b18978d4c769832a6ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108622575
+        }
+    ],
+    "wof:id":1108622575,
+    "wof:lastmodified":1474066575,
+    "wof:name":"Ant Mekanik Tesisat Sistemleri Ltd.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    28.8955497742,
+    40.9995727539,
+    28.8955497742,
+    40.9995727539
+],
+  "geometry": {"coordinates":[28.8955497742,40.9995727539],"type":"Point"}
+}

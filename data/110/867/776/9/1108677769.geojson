@@ -1,0 +1,67 @@
+{
+  "id": 1108677769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9512786865,41.0100402832,28.9512786865,41.0100402832",
+    "geom:latitude":41.01004,
+    "geom:longitude":28.951279,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sekerci Sk. No:20 D:3 Aksaray",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 631 2241",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TuSQyDH9T97lG0QSnapxD_41.010040_28.951279@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068952,
+    "wof:geomhash":"ae2c007d7b2c35eaadcb3342cd7839b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108677769
+        }
+    ],
+    "wof:id":1108677769,
+    "wof:lastmodified":1474068952,
+    "wof:name":"Istanbul Cevre Koruma Vakfi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9512786865,
+    41.0100402832,
+    28.9512786865,
+    41.0100402832
+],
+  "geometry": {"coordinates":[28.9512786865,41.0100402832],"type":"Point"}
+}

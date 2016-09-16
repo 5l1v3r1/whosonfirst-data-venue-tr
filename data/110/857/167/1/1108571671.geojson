@@ -1,0 +1,73 @@
+{
+  "id": 1108571671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.817035675,39.9242477417,32.817035675,39.9242477417",
+    "geom:latitude":39.924248,
+    "geom:longitude":32.817036,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Konya Devlet Yolu No:76 Balgat",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 286 7228",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zZx2vak4mmrz4tpE6H33h_39.924248_32.817036@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064523,
+    "wof:geomhash":"b274098f2c88f282fa8423fbf9a9edf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108571671
+        }
+    ],
+    "wof:id":1108571671,
+    "wof:lastmodified":1474064523,
+    "wof:name":"Medikal San. Tic. A.s.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    32.817035675,
+    39.9242477417,
+    32.817035675,
+    39.9242477417
+],
+  "geometry": {"coordinates":[32.817035675,39.9242477417],"type":"Point"}
+}

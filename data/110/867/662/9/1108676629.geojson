@@ -1,0 +1,68 @@
+{
+  "id": 1108676629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9049110413,39.9601631165,32.9049110413,39.9601631165",
+    "geom:latitude":39.960163,
+    "geom:longitude":32.904911,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Altinay Cd. No:58 Siteler",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 348 8725",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lagJ0txB8VTdh8VJ65dBr_39.960163_32.904911@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068913,
+    "wof:geomhash":"08ba3767c31aca8d4f812043248f99c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676629
+        }
+    ],
+    "wof:id":1108676629,
+    "wof:lastmodified":1474068913,
+    "wof:name":"Erpa Orman ?r?n. Imal Paz. Ltd.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.9049110413,
+    39.9601631165,
+    32.9049110413,
+    39.9601631165
+],
+  "geometry": {"coordinates":[32.9049110413,39.9601631165],"type":"Point"}
+}

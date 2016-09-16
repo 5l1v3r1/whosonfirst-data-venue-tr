@@ -1,0 +1,75 @@
+{
+  "id": 1108605417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9576206207,41.0658721924,28.9576206207,41.0658721924",
+    "geom:latitude":41.065872,
+    "geom:longitude":28.957621,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imrahor Cad. No.23",
+    "sg:city":"Halicioglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 222 5822",
+    "sg:postcode":"34445",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14vuTEI8dIwSS6eyYJ157E_41.065872_28.957621@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065860,
+    "wof:geomhash":"a16c94633e743be9355c4c2cdf178888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108605417
+        }
+    ],
+    "wof:id":1108605417,
+    "wof:lastmodified":1474065860,
+    "wof:name":"Duru Hazir Giyim",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9576206207,
+    41.0658721924,
+    28.9576206207,
+    41.0658721924
+],
+  "geometry": {"coordinates":[28.9576206207,41.0658721924],"type":"Point"}
+}

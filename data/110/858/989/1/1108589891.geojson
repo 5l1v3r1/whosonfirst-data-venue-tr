@@ -1,0 +1,75 @@
+{
+  "id": 1108589891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7031345367,36.8875045776,30.7031345367,36.8875045776",
+    "geom:latitude":36.887505,
+    "geom:longitude":30.703135,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dutlu Bahce Mah. Fatih Cad. Bayir Apt No:20/1",
+    "sg:city":"Ostim",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 343 1645",
+    "sg:postcode":"06374",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VYiJ8u78j854LQecjZaEx_36.887505_30.703135@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065248,
+    "wof:geomhash":"6370929078113539c2f54d0d0868e069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":1108589891
+        }
+    ],
+    "wof:id":1108589891,
+    "wof:lastmodified":1474065248,
+    "wof:name":"Kaner Sirketler Grubu",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    30.7031345367,
+    36.8875045776,
+    30.7031345367,
+    36.8875045776
+],
+  "geometry": {"coordinates":[30.7031345367,36.8875045776],"type":"Point"}
+}

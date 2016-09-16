@@ -1,0 +1,79 @@
+{
+  "id": 1108577345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8723239899,40.9761009216,28.8723239899,40.9761009216",
+    "geom:latitude":40.976101,
+    "geom:longitude":28.872324,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. Ziyat Usakligil Cd. No:9 Bakirk?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 2281",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237,
+        85930019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WHOcxmQWRun5jPN0JoAPD_40.976101_28.872324@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064796,
+    "wof:geomhash":"76d05b682b39c9420d439d2b3b5917f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108577345
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930019,
+            "venue_id":1108577345
+        }
+    ],
+    "wof:id":1108577345,
+    "wof:lastmodified":1474064796,
+    "wof:name":"Benna Mob. Dekor.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.8723239899,
+    40.9761009216,
+    28.8723239899,
+    40.9761009216
+],
+  "geometry": {"coordinates":[28.8723239899,40.9761009216],"type":"Point"}
+}

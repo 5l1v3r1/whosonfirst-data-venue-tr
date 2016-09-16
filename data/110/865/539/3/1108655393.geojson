@@ -1,0 +1,75 @@
+{
+  "id": 1108655393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5175457001,39.7700805664,30.5175457001,39.7700805664",
+    "geom:latitude":39.770081,
+    "geom:longitude":30.517546,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baksan San. Sitesi No:75/9-10",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 320 6783",
+    "sg:postcode":"31200",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z35p1SPuOsdKyXAmt5G1c_39.770081_30.517546@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068075,
+    "wof:geomhash":"bc6ecdca94b0db41003597333d4970ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108655393
+        }
+    ],
+    "wof:id":1108655393,
+    "wof:lastmodified":1474068075,
+    "wof:name":"Isik Madencilik San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    30.5175457001,
+    39.7700805664,
+    30.5175457001,
+    39.7700805664
+],
+  "geometry": {"coordinates":[30.5175457001,39.7700805664],"type":"Point"}
+}

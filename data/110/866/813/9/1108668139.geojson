@@ -1,0 +1,71 @@
+{
+  "id": 1108668139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8550891876,41.0588569641,28.8550891876,41.0588569641",
+    "geom:latitude":41.058857,
+    "geom:longitude":28.855089,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"100.yil Mah. Bagcilar",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212629080840",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930169,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ifC1zd4oLRTqHhL3VNPVo_41.058857_28.855089@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068565,
+    "wof:geomhash":"7794d349aa5ac89c3290e3917031f693",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930169,
+            "region_id":85679237,
+            "venue_id":1108668139
+        }
+    ],
+    "wof:id":1108668139,
+    "wof:lastmodified":1474068565,
+    "wof:name":"Globus D?nya Basinevi",
+    "wof:parent_id":85930169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.8550891876,
+    41.0588569641,
+    28.8550891876,
+    41.0588569641
+],
+  "geometry": {"coordinates":[28.8550891876,41.0588569641],"type":"Point"}
+}

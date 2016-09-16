@@ -1,0 +1,71 @@
+{
+  "id": 1108627133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.3781585693,37.0629348755,37.3781585693,37.0629348755",
+    "geom:latitude":37.062935,
+    "geom:longitude":37.378159,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Allaben Mah. Kemal K?ker Cad. Mermerler Sitesi Alti C/blok No:9/a",
+    "sg:city":"Sehitkamil",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342220360203",
+    "sg:postcode":"27000",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934731,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GBv7FkTIwhBYxNZfl72EJ_37.062935_37.378159@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066741,
+    "wof:geomhash":"5e27779e8f1455dbdce22f62dcc5488a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":1108627133
+        }
+    ],
+    "wof:id":1108627133,
+    "wof:lastmodified":1474066741,
+    "wof:name":"Kantara Turizm (gaziantep Sb.)",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    37.3781585693,
+    37.0629348755,
+    37.3781585693,
+    37.0629348755
+],
+  "geometry": {"coordinates":[37.3781585693,37.0629348755],"type":"Point"}
+}

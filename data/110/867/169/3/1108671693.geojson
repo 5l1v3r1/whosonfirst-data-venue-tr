@@ -1,0 +1,71 @@
+{
+  "id": 1108671693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8590240479,39.9104232788,32.8590240479,39.9104232788",
+    "geom:latitude":39.910423,
+    "geom:longitude":32.859024,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beykoz Sok. 5/2 Kavaklidere",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 2255",
+    "sg:postcode":"34440",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5quf5stpZTQQFBjf8bzYWv_39.910423_32.859024@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068707,
+    "wof:geomhash":"8877af30d2ce7cf40ad798d9b9fc4bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108671693
+        }
+    ],
+    "wof:id":1108671693,
+    "wof:lastmodified":1474068707,
+    "wof:name":"Ae Teknolojik Sistemler San.tic. Ltd.sti.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    32.8590240479,
+    39.9104232788,
+    32.8590240479,
+    39.9104232788
+],
+  "geometry": {"coordinates":[32.8590240479,39.9104232788],"type":"Point"}
+}

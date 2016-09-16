@@ -1,0 +1,69 @@
+{
+  "id": 1108645701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1050853729,41.1258239746,29.1050853729,41.1258239746",
+    "geom:latitude":41.125824,
+    "geom:longitude":29.105085,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mandra Sk. No:27",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 4975",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "maritime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930027,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ogeBZ9CUyWsx2oGkChNR7_41.125824_29.105085@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067643,
+    "wof:geomhash":"964b0828fa05661fa45edf3887bf9a9f",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85930027,
+            "region_id":85679237,
+            "venue_id":1108645701
+        }
+    ],
+    "wof:id":1108645701,
+    "wof:lastmodified":1474067643,
+    "wof:name":"Donatim Makina. Malzeme. Tic. A.s.",
+    "wof:parent_id":85930027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "maritime"
+    ]
+},
+  "bbox": [
+    29.1050853729,
+    41.1258239746,
+    29.1050853729,
+    41.1258239746
+],
+  "geometry": {"coordinates":[29.1050853729,41.1258239746],"type":"Point"}
+}

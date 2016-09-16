@@ -1,0 +1,75 @@
+{
+  "id": 1108575947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8605155945,39.926197052,32.8605155945,39.926197052",
+    "geom:latitude":39.926197,
+    "geom:longitude":32.860516,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenimahalle Aksu Cad. No:9",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212583493031",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409,
+        85929555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aK5YadRVgB4OUIW2CpKIp_39.926197_32.860516@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064698,
+    "wof:geomhash":"0ed0faea6a879e8cd41fb3abd14b8433",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108575947
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929555,
+            "region_id":85679409,
+            "venue_id":1108575947
+        }
+    ],
+    "wof:id":1108575947,
+    "wof:lastmodified":1474064698,
+    "wof:name":"Bakirk?y Y?n Iplik San. Tic. Ltd. Sti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    32.8605155945,
+    39.926197052,
+    32.8605155945,
+    39.926197052
+],
+  "geometry": {"coordinates":[32.8605155945,39.926197052],"type":"Point"}
+}

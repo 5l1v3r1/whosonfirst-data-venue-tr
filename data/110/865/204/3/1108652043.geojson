@@ -1,0 +1,66 @@
+{
+  "id": 1108652043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9385890961,41.0060043335,28.9385890961,41.0060043335",
+    "geom:latitude":41.006004,
+    "geom:longitude":28.938589,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Mustafapasa Cad. No:86/1",
+    "sg:city":"K???k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 4555",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HmqnKGnZK3OcsO0ib4j6Q_41.006004_28.938589@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067928,
+    "wof:geomhash":"5e709fd12bf4561cca3a76827cc0ea06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108652043
+        }
+    ],
+    "wof:id":1108652043,
+    "wof:lastmodified":1474067928,
+    "wof:name":"Yagmur Medikal Tibbi Mlz. Dep.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9385890961,
+    41.0060043335,
+    28.9385890961,
+    41.0060043335
+],
+  "geometry": {"coordinates":[28.9385890961,41.0060043335],"type":"Point"}
+}

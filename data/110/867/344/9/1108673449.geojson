@@ -1,0 +1,66 @@
+{
+  "id": 1108673449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2866172791,40.8702926636,29.2866172791,40.8702926636",
+    "geom:latitude":40.870293,
+    "geom:longitude":29.286617,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B?b?dere Cad. 88-c",
+    "sg:city":"K??esat",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 4283",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03M35hX4KeLnIZZcFW4jrO_40.870293_29.286617@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068782,
+    "wof:geomhash":"2ea89a5685639331e3c27ed99d054b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108673449
+        }
+    ],
+    "wof:id":1108673449,
+    "wof:lastmodified":1474068782,
+    "wof:name":"Sude Cicekcilik",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.2866172791,
+    40.8702926636,
+    29.2866172791,
+    40.8702926636
+],
+  "geometry": {"coordinates":[29.2866172791,40.8702926636],"type":"Point"}
+}

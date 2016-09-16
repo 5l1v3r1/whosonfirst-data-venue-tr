@@ -1,0 +1,66 @@
+{
+  "id": 1108673161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1549606323,40.9185371399,29.1549606323,40.9185371399",
+    "geom:latitude":40.918537,
+    "geom:longitude":29.154961,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglarbasi Mh. K??k? Yolu No:74",
+    "sg:city":"G.osmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 563 3861",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SZImElrPDDSX6QQhjmqvJ_40.918537_29.154961@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068767,
+    "wof:geomhash":"1a780c2360872d87805752ac20126bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108673161
+        }
+    ],
+    "wof:id":1108673161,
+    "wof:lastmodified":1474068767,
+    "wof:name":"Leydi ?i?ek Evi",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1549606323,
+    40.9185371399,
+    29.1549606323,
+    40.9185371399
+],
+  "geometry": {"coordinates":[29.1549606323,40.9185371399],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108636321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8492851257,40.9891548157,28.8492851257,40.9891548157",
+    "geom:latitude":40.989155,
+    "geom:longitude":28.849285,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atakoy 9.kisim A 3-b Blok Daire 131",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 661 7096",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RLYgI56KXyEUjEUDUN7TB_40.989155_28.849285@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067276,
+    "wof:geomhash":"9eeb6d20f20ee67645f89dd271dcff9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108636321
+        }
+    ],
+    "wof:id":1108636321,
+    "wof:lastmodified":1474067276,
+    "wof:name":"Opus Yazilim Ltd .sti .",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [
+    28.8492851257,
+    40.9891548157,
+    28.8492851257,
+    40.9891548157
+],
+  "geometry": {"coordinates":[28.8492851257,40.9891548157],"type":"Point"}
+}

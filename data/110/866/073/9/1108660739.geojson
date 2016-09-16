@@ -1,0 +1,75 @@
+{
+  "id": 1108660739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9560241699,41.0762672424,28.9560241699,41.0762672424",
+    "geom:latitude":41.076267,
+    "geom:longitude":28.956024,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahmut Sevket Pasa Mah. Eren Sk. No.10 Kasimpasa",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 3036",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UJnBAJKBumUi7NDXvQd3c_41.076267_28.956024@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068281,
+    "wof:geomhash":"07ade2ef40ade0746715679e05ba6ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108660739
+        }
+    ],
+    "wof:id":1108660739,
+    "wof:lastmodified":1474068281,
+    "wof:name":"Pak-sam Makina San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9560241699,
+    41.0762672424,
+    28.9560241699,
+    41.0762672424
+],
+  "geometry": {"coordinates":[28.9560241699,41.0762672424],"type":"Point"}
+}

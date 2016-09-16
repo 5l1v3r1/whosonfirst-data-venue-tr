@@ -1,0 +1,75 @@
+{
+  "id": 1108588169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9817905426,41.0768280029,28.9817905426,41.0768280029",
+    "geom:latitude":41.076828,
+    "geom:longitude":28.981791,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Cad. 85",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 248 1336",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64c0dnJCMmOYDanZnhrYxA_41.076828_28.981791@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065209,
+    "wof:geomhash":"981ab338d73de7bfb923f4a332b2f613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108588169
+        }
+    ],
+    "wof:id":1108588169,
+    "wof:lastmodified":1474065209,
+    "wof:name":"Christine Senol",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9817905426,
+    41.0768280029,
+    28.9817905426,
+    41.0768280029
+],
+  "geometry": {"coordinates":[28.9817905426,41.0768280029],"type":"Point"}
+}

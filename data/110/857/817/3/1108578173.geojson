@@ -1,0 +1,69 @@
+{
+  "id": 1108578173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8584403992,39.919418335,32.8584403992,39.919418335",
+    "geom:latitude":39.919418,
+    "geom:longitude":32.85844,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunalihilmi Cd. No:51/2",
+    "sg:city":"Konak",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 4518",
+    "sg:postcode":"07110",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EpKVTUVoTYH7ZmblQYHh8_39.919418_32.858440@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064872,
+    "wof:geomhash":"8c96308f032d06c40af0d661c9d58f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108578173
+        }
+    ],
+    "wof:id":1108578173,
+    "wof:lastmodified":1474064872,
+    "wof:name":"Dataser Ofis Makina. A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    32.8584403992,
+    39.919418335,
+    32.8584403992,
+    39.919418335
+],
+  "geometry": {"coordinates":[32.8584403992,39.919418335],"type":"Point"}
+}

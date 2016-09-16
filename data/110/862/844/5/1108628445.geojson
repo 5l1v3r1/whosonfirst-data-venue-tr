@@ -1,0 +1,74 @@
+{
+  "id": 1108628445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0717334747,40.9836273193,29.0717334747,40.9836273193",
+    "geom:latitude":40.983627,
+    "geom:longitude":29.071733,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mavi ?arsi No:15",
+    "sg:city":"Bah?esehir",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 6696263",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRvNGMRLAguj1jM30mKKS_40.983627_29.071733@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066809,
+    "wof:geomhash":"c3b55b59a60b5c65ea9ab197bdc20144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108628445
+        }
+    ],
+    "wof:id":1108628445,
+    "wof:lastmodified":1474066809,
+    "wof:name":"Tatil Turizm(bah?sehir Sb.)",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0717334747,
+    40.9836273193,
+    29.0717334747,
+    40.9836273193
+],
+  "geometry": {"coordinates":[29.0717334747,40.9836273193],"type":"Point"}
+}

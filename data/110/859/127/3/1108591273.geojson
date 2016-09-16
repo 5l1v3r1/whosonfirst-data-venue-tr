@@ -1,0 +1,67 @@
+{
+  "id": 1108591273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9759254456,41.0123786926,28.9759254456,41.0123786926",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?ltepe Mah. Belli Sk. No:38",
+    "sg:city":"Sefak?y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 535491398",
+    "sg:postcode":"34630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ag7bysibBUGqw9HY7zoTJ_41.012379_28.975925@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065278,
+    "wof:geomhash":"743596832af60dedce9b7c7fac0e2363",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108591273
+        }
+    ],
+    "wof:id":1108591273,
+    "wof:lastmodified":1474065278,
+    "wof:name":"Tasarim Dekorasyon",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    28.9759254456,
+    41.0123786926,
+    28.9759254456,
+    41.0123786926
+],
+  "geometry": {"coordinates":[28.9759254456,41.0123786926],"type":"Point"}
+}

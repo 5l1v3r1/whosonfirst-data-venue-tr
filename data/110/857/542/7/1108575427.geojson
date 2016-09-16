@@ -1,0 +1,67 @@
+{
+  "id": 1108575427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9773006439,41.0097007751,28.9773006439,41.0097007751",
+    "geom:latitude":41.009701,
+    "geom:longitude":28.977301,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yerebatan Cd. Salkim S?? Sk. 20/6",
+    "sg:city":"?agaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906489,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UI9AEaGC3GNuBL7xvVoBG_41.009701_28.977301@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064678,
+    "wof:geomhash":"b9c275223e38b80b79df1db10be9968a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906489,
+            "region_id":85679237,
+            "venue_id":1108575427
+        }
+    ],
+    "wof:id":1108575427,
+    "wof:lastmodified":1474064678,
+    "wof:name":"Albatros Turizm",
+    "wof:parent_id":85906489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    28.9773006439,
+    41.0097007751,
+    28.9773006439,
+    41.0097007751
+],
+  "geometry": {"coordinates":[28.9773006439,41.0097007751],"type":"Point"}
+}

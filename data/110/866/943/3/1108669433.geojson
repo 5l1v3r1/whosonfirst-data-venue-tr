@@ -1,0 +1,73 @@
+{
+  "id": 1108669433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9771785736,41.0368995667,28.9771785736,41.0368995667",
+    "geom:latitude":41.0369,
+    "geom:longitude":28.977179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kutulu Sok. No:7/1 Taksim",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906547,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kHjfSDgs41xqIbIKBli7i_41.036900_28.977179@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068625,
+    "wof:geomhash":"6b1271b4a320dfbb7e86b8504208573e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":1108669433
+        }
+    ],
+    "wof:id":1108669433,
+    "wof:lastmodified":1474068625,
+    "wof:name":"Adim Fuarcilik Ltd.",
+    "wof:parent_id":85906547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    28.9771785736,
+    41.0368995667,
+    28.9771785736,
+    41.0368995667
+],
+  "geometry": {"coordinates":[28.9771785736,41.0368995667],"type":"Point"}
+}

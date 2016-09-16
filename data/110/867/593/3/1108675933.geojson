@@ -1,0 +1,68 @@
+{
+  "id": 1108675933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8399085999,39.8794441223,32.8399085999,39.8794441223",
+    "geom:latitude":39.879444,
+    "geom:longitude":32.839909,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cinan Cd.no.79/7-9 ?ankaya",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 439 2750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IrfDdmN4DjL9YUwEZdlF1_39.879444_32.839909@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068889,
+    "wof:geomhash":"ebc4d587890647921f7c2d5395d214bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108675933
+        }
+    ],
+    "wof:id":1108675933,
+    "wof:lastmodified":1474068889,
+    "wof:name":"Banglades B?y?kel?iligi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8399085999,
+    39.8794441223,
+    32.8399085999,
+    39.8794441223
+],
+  "geometry": {"coordinates":[32.8399085999,39.8794441223],"type":"Point"}
+}

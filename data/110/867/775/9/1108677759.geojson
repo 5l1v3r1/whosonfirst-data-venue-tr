@@ -1,0 +1,67 @@
+{
+  "id": 1108677759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9515151978,41.0155906677,28.9515151978,41.0155906677",
+    "geom:latitude":41.015591,
+    "geom:longitude":28.951515,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kamilpasa Sk. No:7 Fatih",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 523 5457",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lswcX65qYzg9LY2KJxiTO_41.015591_28.951515@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068952,
+    "wof:geomhash":"a443a4a6b7372754644e0a12d9fc9cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108677759
+        }
+    ],
+    "wof:id":1108677759,
+    "wof:lastmodified":1474068952,
+    "wof:name":"Islami Ilimler Arast. Vakfi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9515151978,
+    41.0155906677,
+    28.9515151978,
+    41.0155906677
+],
+  "geometry": {"coordinates":[28.9515151978,41.0155906677],"type":"Point"}
+}

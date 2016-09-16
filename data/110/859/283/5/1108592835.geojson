@@ -1,0 +1,67 @@
+{
+  "id": 1108592835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.010433197,41.0248146057,29.010433197,41.0248146057",
+    "geom:latitude":41.024815,
+    "geom:longitude":29.010433,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cicekci Bostan Sok. 13/7 Baglarbasi-",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 391 3331",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yK0ZxrQpyFKP6V9LKEJM9_41.024815_29.010433@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065337,
+    "wof:geomhash":"93649297c6b47093c56c695f3b6c1db6",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":1108592835
+        }
+    ],
+    "wof:id":1108592835,
+    "wof:lastmodified":1474065337,
+    "wof:name":"Altunizade Veteriner Klinigi",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    29.010433197,
+    41.0248146057,
+    29.010433197,
+    41.0248146057
+],
+  "geometry": {"coordinates":[29.010433197,41.0248146057],"type":"Point"}
+}

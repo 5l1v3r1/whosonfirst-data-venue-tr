@@ -1,0 +1,64 @@
+{
+  "id": 1108630067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0142345428,41.0827636719,29.0142345428,41.0827636719",
+    "geom:latitude":41.082764,
+    "geom:longitude":29.014235,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calikusu Sok. No: 16 1.levent",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 122 8340",
+    "sg:province":"34330",
+    "sg:website":"www.ulusoytravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wFgWcmcHgRuEPlpaLcOYc_41.082764_29.014235@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066919,
+    "wof:geomhash":"6bf72e7280060deea02b4454a682de1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108630067
+        }
+    ],
+    "wof:id":1108630067,
+    "wof:lastmodified":1474066919,
+    "wof:name":"Ulusoy Tourism Travel Co.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0142345428,
+    41.0827636719,
+    29.0142345428,
+    41.0827636719
+],
+  "geometry": {"coordinates":[29.0142345428,41.0827636719],"type":"Point"}
+}

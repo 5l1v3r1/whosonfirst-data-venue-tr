@@ -1,0 +1,71 @@
+{
+  "id": 1108672561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1431999207,38.4399528503,27.1431999207,38.4399528503",
+    "geom:latitude":38.439953,
+    "geom:longitude":27.1432,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1479. Sok. No:12/203",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 1795",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GYSSRC3CTLguBNnWzlHWA_38.439953_27.143200@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068738,
+    "wof:geomhash":"7ed6661b9bd33d2ad8d9348347e80ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108672561
+        }
+    ],
+    "wof:id":1108672561,
+    "wof:lastmodified":1474068738,
+    "wof:name":"Mensis Mod?ler B?lme Duvar",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    27.1431999207,
+    38.4399528503,
+    27.1431999207,
+    38.4399528503
+],
+  "geometry": {"coordinates":[27.1431999207,38.4399528503],"type":"Point"}
+}

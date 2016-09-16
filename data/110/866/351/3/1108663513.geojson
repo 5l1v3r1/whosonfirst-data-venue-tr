@@ -1,0 +1,75 @@
+{
+  "id": 1108663513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0534210205,40.9905776978,29.0534210205,40.9905776978",
+    "geom:latitude":40.990578,
+    "geom:longitude":29.053421,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hizirbey Cad. No:96/b Fikirtepe/kadikoy",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 9038",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pipe",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GlxB3jWwLDeDkEB7862ML_40.990578_29.053421@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068385,
+    "wof:geomhash":"f904bff4c3addc934c8a52a1fa8f096b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108663513
+        }
+    ],
+    "wof:id":1108663513,
+    "wof:lastmodified":1474068385,
+    "wof:name":"Teverler Yapi Malztiz Ve San. A.s.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0534210205,
+    40.9905776978,
+    29.0534210205,
+    40.9905776978
+],
+  "geometry": {"coordinates":[29.0534210205,40.9905776978],"type":"Point"}
+}

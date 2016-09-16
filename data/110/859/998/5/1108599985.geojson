@@ -1,0 +1,68 @@
+{
+  "id": 1108599985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0040225983,41.0773849487,29.0040225983,41.0773849487",
+    "geom:latitude":41.077385,
+    "geom:longitude":29.004023,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nisbetiye C. Aydin Sk. No.4",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 2667",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kEmW4hWutCN2oe4SLOREI_41.077385_29.004023@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065631,
+    "wof:geomhash":"1f1cd4824b5dfcb949550c977fe537d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108599985
+        }
+    ],
+    "wof:id":1108599985,
+    "wof:lastmodified":1474065631,
+    "wof:name":"Intermak Tarim Mak.san. A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    29.0040225983,
+    41.0773849487,
+    29.0040225983,
+    41.0773849487
+],
+  "geometry": {"coordinates":[29.0040225983,41.0773849487],"type":"Point"}
+}

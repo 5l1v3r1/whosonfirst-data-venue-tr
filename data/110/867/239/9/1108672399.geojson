@@ -1,0 +1,75 @@
+{
+  "id": 1108672399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0002975464,41.0454216003,29.0002975464,41.0454216003",
+    "geom:latitude":41.045422,
+    "geom:longitude":29.000298,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Nedim Cad. No: 133",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 6611",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MLRwT6ujuVxQI0xyXgti_41.045422_29.000298@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068732,
+    "wof:geomhash":"99e2da878ed067c476d9de25bd32113b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108672399
+        }
+    ],
+    "wof:id":1108672399,
+    "wof:lastmodified":1474068732,
+    "wof:name":"Arkadas Yer Dosemeleri Ltd.sti.",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0002975464,
+    41.0454216003,
+    29.0002975464,
+    41.0454216003
+],
+  "geometry": {"coordinates":[29.0002975464,41.0454216003],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108579189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0538101196,41.1305809021,29.0538101196,41.1305809021",
+    "geom:latitude":41.130581,
+    "geom:longitude":29.05381,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?su Evleri Yasemin Sok. A 62 A Kavacik",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 465 0293",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        102191569,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lOfAq1S8QCgVZ3HSI794s_41.130581_29.053810@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064925,
+    "wof:geomhash":"e354a27b237293ac3df4d7accd7ae074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":1108579189
+        }
+    ],
+    "wof:id":1108579189,
+    "wof:lastmodified":1474064925,
+    "wof:name":"Party Service Tanitim Organizasyon",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0538101196,
+    41.1305809021,
+    29.0538101196,
+    41.1305809021
+],
+  "geometry": {"coordinates":[29.0538101196,41.1305809021],"type":"Point"}
+}

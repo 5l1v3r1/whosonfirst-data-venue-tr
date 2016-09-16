@@ -1,0 +1,83 @@
+{
+  "id": 1108574569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0055770874,41.0542678833,29.0055770874,41.0542678833",
+    "geom:latitude":41.054268,
+    "geom:longitude":29.005577,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Monalya Sk. No:24/2 Sisli",
+    "sg:city":"Sarigazi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 2317",
+    "sg:postcode":"34785",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929473,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85904169,
+        101912663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cqltVI2BR2zJHA3IBn5NI_41.054268_29.005577@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064646,
+    "wof:geomhash":"1a7d24b9db6160ac22c6b81c8b0e3e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
+            "region_id":85679237,
+            "venue_id":1108574569
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108574569
+        }
+    ],
+    "wof:id":1108574569,
+    "wof:lastmodified":1474064646,
+    "wof:name":"Sertas Cam Tic. Koll. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    29.0055770874,
+    41.0542678833,
+    29.0055770874,
+    41.0542678833
+],
+  "geometry": {"coordinates":[29.0055770874,41.0542678833],"type":"Point"}
+}

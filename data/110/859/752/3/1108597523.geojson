@@ -1,0 +1,68 @@
+{
+  "id": 1108597523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1585731506,40.9971542358,29.1585731506,40.9971542358",
+    "geom:latitude":40.997154,
+    "geom:longitude":29.158573,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Savas Sok. No.34",
+    "sg:city":"Y.dudulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21649936535",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UAtPzOvwPr1CrtqHWZ7WO_40.997154_29.158573@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065530,
+    "wof:geomhash":"adfd327085b6dd0c776c2c298c872aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108597523
+        }
+    ],
+    "wof:id":1108597523,
+    "wof:lastmodified":1474065530,
+    "wof:name":"Bir Asansor Ltd.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.1585731506,
+    40.9971542358,
+    29.1585731506,
+    40.9971542358
+],
+  "geometry": {"coordinates":[29.1585731506,40.9971542358],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108573759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0654468536,40.2140197754,29.0654468536,40.2140197754",
+    "geom:latitude":40.21402,
+    "geom:longitude":29.065447,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenisehir Cad. No:29-",
+    "sg:city":"Inegol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 715 8257",
+    "sg:postcode":"16400",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929763,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T7Udy4HZnyTYcQBXDdjku_40.214020_29.065447@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064614,
+    "wof:geomhash":"0e7296238d1db26693052249fb748ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":1108573759
+        }
+    ],
+    "wof:id":1108573759,
+    "wof:lastmodified":1474064614,
+    "wof:name":"Hatipoglu Cam",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0654468536,
+    40.2140197754,
+    29.0654468536,
+    40.2140197754
+],
+  "geometry": {"coordinates":[29.0654468536,40.2140197754],"type":"Point"}
+}

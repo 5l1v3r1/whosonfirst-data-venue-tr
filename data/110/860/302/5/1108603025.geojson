@@ -1,0 +1,75 @@
+{
+  "id": 1108603025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7098236084,41.0047416687,39.7098236084,41.0047416687",
+    "geom:latitude":41.004742,
+    "geom:longitude":39.709824,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kemerkaya Mah. Meydan Park Karsisi No: 37/a",
+    "sg:city":"Dalaman",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 4623211680321",
+    "sg:postcode":"48770",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TP9bZLUsTdtRFg87mnFDU_41.004742_39.709824@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065756,
+    "wof:geomhash":"46ee61f8c583722204d0042497fc1583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108603025
+        }
+    ],
+    "wof:id":1108603025,
+    "wof:lastmodified":1474065756,
+    "wof:name":"Turkish Airlines (thy)",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    39.7098236084,
+    41.0047416687,
+    39.7098236084,
+    41.0047416687
+],
+  "geometry": {"coordinates":[39.7098236084,41.0047416687],"type":"Point"}
+}

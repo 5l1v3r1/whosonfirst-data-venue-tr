@@ -1,0 +1,68 @@
+{
+  "id": 1108662841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1375427246,38.4291038513,27.1375427246,38.4291038513",
+    "geom:latitude":38.429104,
+    "geom:longitude":27.137543,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1375. Sk. No:17/3 Alsancak",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 421 0718",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vu5JtygEDzgP3Enmj7Mnz_38.429104_27.137543@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068358,
+    "wof:geomhash":"80247d8ba805d9f6de97bde5c65e4a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108662841
+        }
+    ],
+    "wof:id":1108662841,
+    "wof:lastmodified":1474068358,
+    "wof:name":"Bayer Turk Kim. San.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    27.1375427246,
+    38.4291038513,
+    27.1375427246,
+    38.4291038513
+],
+  "geometry": {"coordinates":[27.1375427246,38.4291038513],"type":"Point"}
+}

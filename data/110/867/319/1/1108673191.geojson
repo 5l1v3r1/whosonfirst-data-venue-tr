@@ -1,0 +1,73 @@
+{
+  "id": 1108673191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9959602356,41.0701217651,28.9959602356,41.0701217651",
+    "geom:latitude":41.070122,
+    "geom:longitude":28.99596,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"E. Osmanli Sk. No:30/d",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 273 1979",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ya7pwjqRgTza79VZbijSq_41.070122_28.995960@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068768,
+    "wof:geomhash":"1092613344385984a34abd6b4db7bf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108673191
+        }
+    ],
+    "wof:id":1108673191,
+    "wof:lastmodified":1474068768,
+    "wof:name":"Melis ?i?ek?ilik",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9959602356,
+    41.0701217651,
+    28.9959602356,
+    41.0701217651
+],
+  "geometry": {"coordinates":[28.9959602356,41.0701217651],"type":"Point"}
+}

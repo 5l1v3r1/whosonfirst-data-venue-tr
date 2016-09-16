@@ -1,0 +1,71 @@
+{
+  "id": 1108621235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8614654541,39.986366272,32.8614654541,39.986366272",
+    "geom:latitude":39.986366,
+    "geom:longitude":32.861465,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad. 118 Tepebasi",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 2900",
+    "sg:province":"80050",
+    "sg:tags":[
+        "chamber",
+        "commerce"
+    ],
+    "sg:website":"www.iso.org.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904117,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUSoAkvp1S2DPd1k2zAtT_39.986366_32.861465@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066519,
+    "wof:geomhash":"a8c4aa3669540c65d6200239a2a6c282",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904117,
+            "region_id":85679409,
+            "venue_id":1108621235
+        }
+    ],
+    "wof:id":1108621235,
+    "wof:lastmodified":1474066519,
+    "wof:name":"Istanbul Chamber Of Industry",
+    "wof:parent_id":85904117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "commerce"
+    ]
+},
+  "bbox": [
+    32.8614654541,
+    39.986366272,
+    32.8614654541,
+    39.986366272
+],
+  "geometry": {"coordinates":[32.8614654541,39.986366272],"type":"Point"}
+}

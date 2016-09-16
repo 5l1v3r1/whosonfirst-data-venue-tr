@@ -1,0 +1,71 @@
+{
+  "id": 1108602367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8662071228,39.9042739868,32.8662071228,39.9042739868",
+    "geom:latitude":39.904274,
+    "geom:longitude":32.866207,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kenedi Cad. 106/3",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 9091",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UmO2mgHaTetzHOwXIZWCa_39.904274_32.866207@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065730,
+    "wof:geomhash":"d8720a72e832dc853a2c3815cb484cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108602367
+        }
+    ],
+    "wof:id":1108602367,
+    "wof:lastmodified":1474065730,
+    "wof:name":"Media Elektro Market M?messillik Ltd.sti.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    32.8662071228,
+    39.9042739868,
+    32.8662071228,
+    39.9042739868
+],
+  "geometry": {"coordinates":[32.8662071228,39.9042739868],"type":"Point"}
+}

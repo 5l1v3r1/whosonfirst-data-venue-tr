@@ -1,0 +1,69 @@
+{
+  "id": 1108637825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1482200623,40.9827156067,29.1482200623,40.9827156067",
+    "geom:latitude":40.982716,
+    "geom:longitude":29.14822,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul",
+    "sg:city":"Karabaglar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 881 0508",
+    "sg:postcode":"44210",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "army"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HeNkojrnSxw72Zna3uHwH_40.982716_29.148220@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067335,
+    "wof:geomhash":"7ccd28adf5bd4ec9612d725c9623973f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108637825
+        }
+    ],
+    "wof:id":1108637825,
+    "wof:lastmodified":1474067335,
+    "wof:name":"B.?ekmece Askerlik Subesi",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army"
+    ]
+},
+  "bbox": [
+    29.1482200623,
+    40.9827156067,
+    29.1482200623,
+    40.9827156067
+],
+  "geometry": {"coordinates":[29.1482200623,40.9827156067],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108590385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0895671844,41.1350669861,29.0895671844,41.1350669861",
+    "geom:latitude":41.135067,
+    "geom:longitude":29.089567,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Pasa Cad. No.26 Beykoz",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 323 5377",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JZ2ueGsi4hzdJ5IU2Oo0i_41.135067_29.089567@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065259,
+    "wof:geomhash":"f2061a85415792e7ce2803a9fd67e0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930081,
+            "venue_id":1108590385
+        }
+    ],
+    "wof:id":1108590385,
+    "wof:lastmodified":1474065259,
+    "wof:name":"Demirbas Mobilya Mutfak & Banyo",
+    "wof:parent_id":85930081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.0895671844,
+    41.1350669861,
+    29.0895671844,
+    41.1350669861
+],
+  "geometry": {"coordinates":[29.0895671844,41.1350669861],"type":"Point"}
+}

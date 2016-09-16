@@ -1,0 +1,69 @@
+{
+  "id": 1108643683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0689048767,40.1818237305,29.0689048767,40.1818237305",
+    "geom:latitude":40.181824,
+    "geom:longitude":29.068905,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sari Cad. No:6",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 243 1247",
+    "sg:postcode":"34306",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930161,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g8Gk4wOvz0P3i86CUgLwl_40.181824_29.068905@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067550,
+    "wof:geomhash":"96eecb660b1d0df035dacd56ac5d7801",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":1108643683
+        }
+    ],
+    "wof:id":1108643683,
+    "wof:lastmodified":1474067550,
+    "wof:name":"Yildiz Zincir San. A.s",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.0689048767,
+    40.1818237305,
+    29.0689048767,
+    40.1818237305
+],
+  "geometry": {"coordinates":[29.0689048767,40.1818237305],"type":"Point"}
+}

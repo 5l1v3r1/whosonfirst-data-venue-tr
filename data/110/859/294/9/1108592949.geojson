@@ -1,0 +1,69 @@
+{
+  "id": 1108592949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8688087463,39.9190597534,32.8688087463,39.9190597534",
+    "geom:latitude":39.91906,
+    "geom:longitude":32.868809,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Mah. Ergenekon Cad.no:72/b",
+    "sg:city":"Polatli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 622 1376",
+    "sg:postcode":"06900",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RkZUXFfGIAwK403OkUDbe_39.919060_32.868809@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065340,
+    "wof:geomhash":"0168c0151cc3078f20ffb30cff35ba73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108592949
+        }
+    ],
+    "wof:id":1108592949,
+    "wof:lastmodified":1474065340,
+    "wof:name":"Faik Ercan",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    32.8688087463,
+    39.9190597534,
+    32.8688087463,
+    39.9190597534
+],
+  "geometry": {"coordinates":[32.8688087463,39.9190597534],"type":"Point"}
+}

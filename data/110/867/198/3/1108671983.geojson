@@ -1,0 +1,72 @@
+{
+  "id": 1108671983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9362297058,41.0473632812,28.9362297058,41.0473632812",
+    "geom:latitude":41.047363,
+    "geom:longitude":28.93623,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez Mahallesi No:56 - Gaziosmanpasa",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 597 0830",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35E6yEKykgnBR2EYCNxZX4_41.047363_28.936230@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068717,
+    "wof:geomhash":"85de59114fd5b891a1470949d34d3cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108671983
+        }
+    ],
+    "wof:id":1108671983,
+    "wof:lastmodified":1474068717,
+    "wof:name":"G?en Saglik Hizmetleri",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.9362297058,
+    41.0473632812,
+    28.9362297058,
+    41.0473632812
+],
+  "geometry": {"coordinates":[28.9362297058,41.0473632812],"type":"Point"}
+}

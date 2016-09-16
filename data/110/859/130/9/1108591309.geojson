@@ -1,0 +1,73 @@
+{
+  "id": 1108591309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8443584442,40.9974937439,28.8443584442,40.9974937439",
+    "geom:latitude":40.997494,
+    "geom:longitude":28.844358,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.fevzi Cakmak Cad. 5.sok. No:15 Sirinevler",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 654 6744",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yw2xwjtvZk5besO8eA4G8_40.997494_28.844358@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065280,
+    "wof:geomhash":"e777e078821e020bf29d2ad45d883af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108591309
+        }
+    ],
+    "wof:id":1108591309,
+    "wof:lastmodified":1474065280,
+    "wof:name":"Trak Dis Tic.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    28.8443584442,
+    40.9974937439,
+    28.8443584442,
+    40.9974937439
+],
+  "geometry": {"coordinates":[28.8443584442,40.9974937439],"type":"Point"}
+}

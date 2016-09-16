@@ -1,0 +1,68 @@
+{
+  "id": 1108609645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1701393127,40.906047821,29.1701393127,40.906047821",
+    "geom:latitude":40.906048,
+    "geom:longitude":29.170139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halitpasa Cd. No:26",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 523 9195",
+    "sg:postcode":"34050",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930215,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yyk85hpr6avifp1ERISZm_40.906048_29.170139@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066061,
+    "wof:geomhash":"f41fdc0938420a47c2b9dba58c9926bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930215,
+            "region_id":85679237,
+            "venue_id":1108609645
+        }
+    ],
+    "wof:id":1108609645,
+    "wof:lastmodified":1474066061,
+    "wof:name":"Verdi Uluslararasi Nakliyat San. Tic.",
+    "wof:parent_id":85930215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1701393127,
+    40.906047821,
+    29.1701393127,
+    40.906047821
+],
+  "geometry": {"coordinates":[29.1701393127,40.906047821],"type":"Point"}
+}

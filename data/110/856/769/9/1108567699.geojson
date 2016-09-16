@@ -1,0 +1,74 @@
+{
+  "id": 1108567699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0995845795,40.9610900879,29.0995845795,40.9610900879",
+    "geom:latitude":40.96109,
+    "geom:longitude":29.099585,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Serif Ali Cd. Kuru Sk. No:12 Y.dudullu",
+    "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 365 0005",
+    "sg:postcode":"34905",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QYy3OwbDVVk7WvZlS2S51_40.961090_29.099585@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064363,
+    "wof:geomhash":"a40652d73c1b8740ca36c60b0ee04981",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108567699
+        }
+    ],
+    "wof:id":1108567699,
+    "wof:lastmodified":1474064363,
+    "wof:name":"H&p Hidrolik Pn?matik Eleman. A.s.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0995845795,
+    40.9610900879,
+    29.0995845795,
+    40.9610900879
+],
+  "geometry": {"coordinates":[29.0995845795,40.9610900879],"type":"Point"}
+}

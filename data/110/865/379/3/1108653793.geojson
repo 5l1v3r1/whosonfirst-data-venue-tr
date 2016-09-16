@@ -1,0 +1,69 @@
+{
+  "id": 1108653793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0752773285,40.1875839233,29.0752773285,40.1875839233",
+    "geom:latitude":40.187584,
+    "geom:longitude":29.075277,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Gemlik Yolu Zafer Sokak No:31",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 215 1990",
+    "sg:postcode":"16250",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930161,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E89tSUtXDHKFgVplp1F73_40.187584_29.075277@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068011,
+    "wof:geomhash":"b37d270013261bc79ce388abec4f3c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":1108653793
+        }
+    ],
+    "wof:id":1108653793,
+    "wof:lastmodified":1474068011,
+    "wof:name":"Polat Sanayi Ve Ticaret",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0752773285,
+    40.1875839233,
+    29.0752773285,
+    40.1875839233
+],
+  "geometry": {"coordinates":[29.0752773285,40.1875839233],"type":"Point"}
+}

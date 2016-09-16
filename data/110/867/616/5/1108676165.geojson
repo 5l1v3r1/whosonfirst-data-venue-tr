@@ -1,0 +1,69 @@
+{
+  "id": 1108676165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8560333252,39.9438743591,32.8560333252,39.9438743591",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?ankaya Cd.kader Sk.no:45/3 ?ankaya",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 3409",
+    "sg:postcode":"07010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txLCvYGZ8cYf9y1rvFGTM_39.943874_32.856033@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068898,
+    "wof:geomhash":"acc452a4bf01c493c015e989462ca853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108676165
+        }
+    ],
+    "wof:id":1108676165,
+    "wof:lastmodified":1474068898,
+    "wof:name":"Tayland B?y?kel?iligi",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8560333252,
+    39.9438743591,
+    32.8560333252,
+    39.9438743591
+],
+  "geometry": {"coordinates":[32.8560333252,39.9438743591],"type":"Point"}
+}

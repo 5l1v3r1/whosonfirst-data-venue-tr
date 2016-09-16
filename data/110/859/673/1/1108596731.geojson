@@ -1,0 +1,75 @@
+{
+  "id": 1108596731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0758037567,41.0418968201,29.0758037567,41.0418968201",
+    "geom:latitude":41.041897,
+    "geom:longitude":29.075804,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turan Gunes Bul.89.sok.no:2/c Yildiz Cankaya",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 4773",
+    "sg:postcode":"24300",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929805,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7STfssVc9PWxkPn59Ou9FO_41.041897_29.075804@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065502,
+    "wof:geomhash":"78e8c0dcd197452b413fba0d0170af9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929805,
+            "region_id":85679237,
+            "venue_id":1108596731
+        }
+    ],
+    "wof:id":1108596731,
+    "wof:lastmodified":1474065502,
+    "wof:name":"Gen-it Company",
+    "wof:parent_id":85929805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0758037567,
+    41.0418968201,
+    29.0758037567,
+    41.0418968201
+],
+  "geometry": {"coordinates":[29.0758037567,41.0418968201],"type":"Point"}
+}

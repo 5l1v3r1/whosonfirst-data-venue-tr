@@ -1,0 +1,72 @@
+{
+  "id": 1108669477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0489578247,41.0347557068,29.0489578247,41.0347557068",
+    "geom:latitude":41.034756,
+    "geom:longitude":29.048958,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uncular Cad.uncular Ishani No:44/108 Uskudar",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 495 8984",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z1bzEgSqZFpx1cu0OLt4B_41.034756_29.048958@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068626,
+    "wof:geomhash":"b3289ccee9d58e639d23be9e64e4c792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":1108669477
+        }
+    ],
+    "wof:id":1108669477,
+    "wof:lastmodified":1474068626,
+    "wof:name":"Dogus Fuarcilik",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    29.0489578247,
+    41.0347557068,
+    29.0489578247,
+    41.0347557068
+],
+  "geometry": {"coordinates":[29.0489578247,41.0347557068],"type":"Point"}
+}

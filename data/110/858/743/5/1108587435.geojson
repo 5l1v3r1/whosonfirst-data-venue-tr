@@ -1,0 +1,68 @@
+{
+  "id": 1108587435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0877094269,37.7886657715,29.0877094269,37.7886657715",
+    "geom:latitude":37.788666,
+    "geom:longitude":29.087709,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izmir Bulv. No. 88",
+    "sg:city":"Bila",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 268 4674",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z8En0UWPsKMK2njK923ji_37.788666_29.087709@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065194,
+    "wof:geomhash":"b024f1357389572260aacc07db0d3d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108587435
+        }
+    ],
+    "wof:id":1108587435,
+    "wof:lastmodified":1474065194,
+    "wof:name":"Yilmazturk Tekstil A.s.",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.0877094269,
+    37.7886657715,
+    29.0877094269,
+    37.7886657715
+],
+  "geometry": {"coordinates":[29.0877094269,37.7886657715],"type":"Point"}
+}

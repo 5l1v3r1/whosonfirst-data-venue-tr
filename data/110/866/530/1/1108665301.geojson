@@ -1,0 +1,73 @@
+{
+  "id": 1108665301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0764312744,41.0088539124,29.0764312744,41.0088539124",
+    "geom:latitude":41.008854,
+    "geom:longitude":29.076431,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Libadiye Cad. Z?r? Sok.no:3 Bulgurlu-",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 443 7778",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KOtLTq3CJzJTwqVFoutb7_41.008854_29.076431@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068456,
+    "wof:geomhash":"401817601799bb2efa0d11f06b69a313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108665301
+        }
+    ],
+    "wof:id":1108665301,
+    "wof:lastmodified":1474068456,
+    "wof:name":"Bolu Kalite Yemsan.tic.a.s.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    29.0764312744,
+    41.0088539124,
+    29.0764312744,
+    41.0088539124
+],
+  "geometry": {"coordinates":[29.0764312744,41.0088539124],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108605437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.059211731,38.3909416199,27.059211731,38.3909416199",
+    "geom:latitude":38.390942,
+    "geom:longitude":27.059212,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Bulv. No.14/4",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 3970",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929631,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67zY41GexQ1mQYFpzMLOd9_38.390942_27.059212@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065861,
+    "wof:geomhash":"1efe3495c55e9ef222867499de546e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":1108605437
+        }
+    ],
+    "wof:id":1108605437,
+    "wof:lastmodified":1474065861,
+    "wof:name":"Ege Spor Giyim A.s.",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.059211731,
+    38.3909416199,
+    27.059211731,
+    38.3909416199
+],
+  "geometry": {"coordinates":[27.059211731,38.3909416199],"type":"Point"}
+}

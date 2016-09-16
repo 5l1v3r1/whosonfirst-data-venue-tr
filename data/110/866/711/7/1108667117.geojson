@@ -1,0 +1,64 @@
+{
+  "id": 1108667117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8521308899,39.9256401062,32.8521308899,39.9256401062",
+    "geom:latitude":39.92564,
+    "geom:longitude":32.852131,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sezenler Sk. No:6 D:2 Sihhiye",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 5570",
+    "sg:postcode":"80840",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kmY8OVKiM84RYxqgK7nXZ_39.925640_32.852131@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068527,
+    "wof:geomhash":"ff85d06fd37a0d760fc7547c5a77eb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108667117
+        }
+    ],
+    "wof:id":1108667117,
+    "wof:lastmodified":1474068527,
+    "wof:name":"Ttb Ankara Tabip Odasi",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8521308899,
+    39.9256401062,
+    32.8521308899,
+    39.9256401062
+],
+  "geometry": {"coordinates":[32.8521308899,39.9256401062],"type":"Point"}
+}

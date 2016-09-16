@@ -1,0 +1,69 @@
+{
+  "id": 1108625763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1414718628,40.918838501,29.1414718628,40.918838501",
+    "geom:latitude":40.918839,
+    "geom:longitude":29.141472,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad.no:509",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 478 3226",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1knF7G5EtvLbgtfcBfGG2u_40.918839_29.141472@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066691,
+    "wof:geomhash":"e5e45eea92314e6cefee4c4cc54c10d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108625763
+        }
+    ],
+    "wof:id":1108625763,
+    "wof:lastmodified":1474066691,
+    "wof:name":"Artem Turizm",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.1414718628,
+    40.918838501,
+    29.1414718628,
+    40.918838501
+],
+  "geometry": {"coordinates":[29.1414718628,40.918838501],"type":"Point"}
+}

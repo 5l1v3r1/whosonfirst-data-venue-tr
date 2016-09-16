@@ -1,0 +1,73 @@
+{
+  "id": 1108657199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.4925231934,39.7704734802,30.4925231934,39.7704734802",
+    "geom:latitude":39.770473,
+    "geom:longitude":30.492523,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahim G?er",
+    "sg:city":"Mihalgazi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 623 5008",
+    "sg:postcode":"26880",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934759,
+        102191569,
+        85632393,
+        101912873,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eEbfjVGZXgDuKSavstq53_39.770473_30.492523@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068144,
+    "wof:geomhash":"71e9f30720222125918cc3cc7e568529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912873,
+            "neighbourhood_id":85934759,
+            "region_id":85679255,
+            "venue_id":1108657199
+        }
+    ],
+    "wof:id":1108657199,
+    "wof:lastmodified":1474068144,
+    "wof:name":"Alpagut Belediye Baskani",
+    "wof:parent_id":85934759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    30.4925231934,
+    39.7704734802,
+    30.4925231934,
+    39.7704734802
+],
+  "geometry": {"coordinates":[30.4925231934,39.7704734802],"type":"Point"}
+}

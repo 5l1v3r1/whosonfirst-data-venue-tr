@@ -1,0 +1,75 @@
+{
+  "id": 1108668265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9830474854,41.0351638794,28.9830474854,41.0351638794",
+    "geom:latitude":41.035164,
+    "geom:longitude":28.983047,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ipek Sk. No:9 Beyoglu",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 4519",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HNi43QHR6xYQWnKqtukr0_41.035164_28.983047@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068579,
+    "wof:geomhash":"0e76ff3e414af43ca95540f96d9da940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":1108668265
+        }
+    ],
+    "wof:id":1108668265,
+    "wof:lastmodified":1474068579,
+    "wof:name":"Metis Yayin Ltd. Sti.",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.9830474854,
+    41.0351638794,
+    28.9830474854,
+    41.0351638794
+],
+  "geometry": {"coordinates":[28.9830474854,41.0351638794],"type":"Point"}
+}

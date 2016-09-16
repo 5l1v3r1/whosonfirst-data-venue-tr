@@ -1,0 +1,72 @@
+{
+  "id": 1108678291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0164089203,41.0485992432,29.0164089203,41.0485992432",
+    "geom:latitude":41.048599,
+    "geom:longitude":29.016409,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Universite. Yildiz Besiktas",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 5533",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kh3K4iOEDDZqYF3wep0B4_41.048599_29.016409@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068974,
+    "wof:geomhash":"37cfd12dd55cc9ace3450aee6b55d9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108678291
+        }
+    ],
+    "wof:id":1108678291,
+    "wof:lastmodified":1474068974,
+    "wof:name":"Yildiz Univer. Vakfi",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0164089203,
+    41.0485992432,
+    29.0164089203,
+    41.0485992432
+],
+  "geometry": {"coordinates":[29.0164089203,41.0485992432],"type":"Point"}
+}

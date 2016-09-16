@@ -1,0 +1,72 @@
+{
+  "id": 1108663077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8711452484,41.0042915344,28.8711452484,41.0042915344",
+    "geom:latitude":41.004292,
+    "geom:longitude":28.871145,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calislar Cad.no:68/7 Bahcelievler",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 1359",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TLk2EzX6fMkIaTXqtPoZp_41.004292_28.871145@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068369,
+    "wof:geomhash":"9c35d2412274d9698d55985a89501c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108663077
+        }
+    ],
+    "wof:id":1108663077,
+    "wof:lastmodified":1474068369,
+    "wof:name":"Tib Tek Galenik Laboratuari",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    28.8711452484,
+    41.0042915344,
+    28.8711452484,
+    41.0042915344
+],
+  "geometry": {"coordinates":[28.8711452484,41.0042915344],"type":"Point"}
+}

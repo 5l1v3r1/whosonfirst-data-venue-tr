@@ -1,0 +1,77 @@
+{
+  "id": 1108671641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1044998169,41.0190544128,29.1044998169,41.0190544128",
+    "geom:latitude":41.019054,
+    "geom:longitude":29.1045,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Mayis Cad. No:2 Istiklal Mah. 81240 Umraniye Istanbul",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 335 1206",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40VCuGNM7J2OL5rLKLspqj_41.019054_29.104500@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068705,
+    "wof:geomhash":"23abbb19def313013dd211cca48c02cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108671641
+        }
+    ],
+    "wof:id":1108671641,
+    "wof:lastmodified":1474068705,
+    "wof:name":"Guc-san Plastik Ve Kalip San",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ]
+},
+  "bbox": [
+    29.1044998169,
+    41.0190544128,
+    29.1044998169,
+    41.0190544128
+],
+  "geometry": {"coordinates":[29.1044998169,41.0190544128],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108649653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1582202911,40.997756958,29.1582202911,40.997756958",
+    "geom:latitude":40.997757,
+    "geom:longitude":29.15822,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. No:310/4",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 368 1260",
+    "sg:postcode":"06700",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LCFeIKwtKHn3SXu3ZtOBl_40.997757_29.158220@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067829,
+    "wof:geomhash":"3fd7f8b77a17dc80dcc62fcdede969f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108649653
+        }
+    ],
+    "wof:id":1108649653,
+    "wof:lastmodified":1474067829,
+    "wof:name":"Pi Medikal Ltd. Sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1582202911,
+    40.997756958,
+    29.1582202911,
+    40.997756958
+],
+  "geometry": {"coordinates":[29.1582202911,40.997756958],"type":"Point"}
+}

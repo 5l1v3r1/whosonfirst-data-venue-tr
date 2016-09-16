@@ -1,0 +1,71 @@
+{
+  "id": 1108663423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4552001953,37.8522377014,32.4552001953,37.8522377014",
+    "geom:latitude":37.852238,
+    "geom:longitude":32.4552,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Erkan Sk. No:6",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 234 0961",
+    "sg:postcode":"34670",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "pipe",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904143,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32UH1TDafdMooHruvHQv94_37.852238_32.455200@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068381,
+    "wof:geomhash":"79603e7a60756197fd6a75342a97d7e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904143,
+            "region_id":85679425,
+            "venue_id":1108663423
+        }
+    ],
+    "wof:id":1108663423,
+    "wof:lastmodified":1474068381,
+    "wof:name":"Ens Boru Paftalar San.",
+    "wof:parent_id":85904143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.4552001953,
+    37.8522377014,
+    32.4552001953,
+    37.8522377014
+],
+  "geometry": {"coordinates":[32.4552001953,37.8522377014],"type":"Point"}
+}

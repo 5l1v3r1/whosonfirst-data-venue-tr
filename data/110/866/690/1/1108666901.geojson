@@ -1,0 +1,75 @@
+{
+  "id": 1108666901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0310993195,40.982170105,29.0310993195,40.982170105",
+    "geom:latitude":40.98217,
+    "geom:longitude":29.031099,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sifa Sokak.no:28 Moda",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 345 9000",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "education",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wv0gU302NlS3gUi1cpYsr_40.982170_29.031099@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068519,
+    "wof:geomhash":"bcf994f46d7781fd79424530ae1cc2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108666901
+        }
+    ],
+    "wof:id":1108666901,
+    "wof:lastmodified":1474068519,
+    "wof:name":"?zel Kadik? G?el Sanatlar Lisesi",
+    "wof:parent_id":85904115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "private"
+    ]
+},
+  "bbox": [
+    29.0310993195,
+    40.982170105,
+    29.0310993195,
+    40.982170105
+],
+  "geometry": {"coordinates":[29.0310993195,40.982170105],"type":"Point"}
+}

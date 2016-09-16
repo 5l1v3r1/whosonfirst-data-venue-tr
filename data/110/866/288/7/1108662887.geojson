@@ -1,0 +1,69 @@
+{
+  "id": 1108662887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1535320282,38.4238815308,27.1535320282,38.4238815308",
+    "geom:latitude":38.423882,
+    "geom:longitude":27.153532,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1420. Sk. D:2 Kahramanlar",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 244 0448",
+    "sg:postcode":"01120",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aULWpYilAGh1fbkAuOCLm_38.423882_27.153532@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068361,
+    "wof:geomhash":"a2cbc3fec6116265951ebb1c1bdea424",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108662887
+        }
+    ],
+    "wof:id":1108662887,
+    "wof:lastmodified":1474068361,
+    "wof:name":"Dr. I. Ethem Ulugay",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    27.1535320282,
+    38.4238815308,
+    27.1535320282,
+    38.4238815308
+],
+  "geometry": {"coordinates":[27.1535320282,38.4238815308],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108654379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0816307068,40.9867668152,29.0816307068,40.9867668152",
+    "geom:latitude":40.986767,
+    "geom:longitude":29.081631,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. No: 276 34728 G?tepe Istanbul",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 411 3561",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RFqFmKqvewMu1RP7aF3zM_40.986767_29.081631@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068038,
+    "wof:geomhash":"605fc7d9302f567676fdc2720e0b4afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108654379
+        }
+    ],
+    "wof:id":1108654379,
+    "wof:lastmodified":1474068038,
+    "wof:name":"?cel Hatdecilik San. Ve Tic. As",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    29.0816307068,
+    40.9867668152,
+    29.0816307068,
+    40.9867668152
+],
+  "geometry": {"coordinates":[29.0816307068,40.9867668152],"type":"Point"}
+}

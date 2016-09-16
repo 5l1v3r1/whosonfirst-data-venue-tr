@@ -1,0 +1,64 @@
+{
+  "id": 1108648945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8613586426,39.9217185974,32.8613586426,39.9217185974",
+    "geom:latitude":39.921719,
+    "geom:longitude":32.861359,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik 2 Sok. No:52/4 Kolej",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 4299",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O5FuZh4T7s4eT29Zz3oZ4_39.921719_32.861359@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067792,
+    "wof:geomhash":"b9b94b1aa1427f9a2bd6b4f4128480e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108648945
+        }
+    ],
+    "wof:id":1108648945,
+    "wof:lastmodified":1474067792,
+    "wof:name":"Izgin Elektronik",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8613586426,
+    39.9217185974,
+    32.8613586426,
+    39.9217185974
+],
+  "geometry": {"coordinates":[32.8613586426,39.9217185974],"type":"Point"}
+}

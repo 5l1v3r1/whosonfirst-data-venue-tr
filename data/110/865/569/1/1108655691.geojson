@@ -1,0 +1,75 @@
+{
+  "id": 1108655691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8272438049,39.9235267639,32.8272438049,39.9235267639",
+    "geom:latitude":39.923527,
+    "geom:longitude":32.827244,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"F.?akmak Sk. No:29/7 Maltepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 2857",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929585,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yoQqtbvXxAIhofgsRq66g_39.923527_32.827244@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068086,
+    "wof:geomhash":"7ec66b9b1c95f15fa5013acb0a66ed8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929585,
+            "region_id":85679409,
+            "venue_id":1108655691
+        }
+    ],
+    "wof:id":1108655691,
+    "wof:lastmodified":1474068086,
+    "wof:name":"Tuna Madencilik Ltd. Sti.",
+    "wof:parent_id":85929585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8272438049,
+    39.9235267639,
+    32.8272438049,
+    39.9235267639
+],
+  "geometry": {"coordinates":[32.8272438049,39.9235267639],"type":"Point"}
+}

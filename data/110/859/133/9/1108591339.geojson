@@ -1,0 +1,73 @@
+{
+  "id": 1108591339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0069160461,41.0547790527,29.0069160461,41.0547790527",
+    "geom:latitude":41.054779,
+    "geom:longitude":29.006916,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Kemal Pasa Mah.",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 690 6971",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929473,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q3CcqnwNwjKBDmoyC6Bqe_41.054779_29.006916@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065286,
+    "wof:geomhash":"1ea90f7472056528cbbe1ea37605e69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
+            "region_id":85679237,
+            "venue_id":1108591339
+        }
+    ],
+    "wof:id":1108591339,
+    "wof:lastmodified":1474065286,
+    "wof:name":"Uzay Mutfak&banyo",
+    "wof:parent_id":85929473,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.0069160461,
+    41.0547790527,
+    29.0069160461,
+    41.0547790527
+],
+  "geometry": {"coordinates":[29.0069160461,41.0547790527],"type":"Point"}
+}

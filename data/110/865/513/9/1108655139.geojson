@@ -1,0 +1,71 @@
+{
+  "id": 1108655139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8723144531,39.9078636169,32.8723144531,39.9078636169",
+    "geom:latitude":39.907864,
+    "geom:longitude":32.872314,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyran Sok.92/b K.esat",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312",
+    "sg:postcode":"01350",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tuLYdcnVRxbADzLOK2EqN_39.907864_32.872314@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068064,
+    "wof:geomhash":"277e988fee58eda21b9927f458f4ddea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108655139
+        }
+    ],
+    "wof:id":1108655139,
+    "wof:lastmodified":1474068064,
+    "wof:name":"Celikoglu Ltd.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8723144531,
+    39.9078636169,
+    32.8723144531,
+    39.9078636169
+],
+  "geometry": {"coordinates":[32.8723144531,39.9078636169],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108607029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8943767548,41.0869750977,28.8943767548,41.0869750977",
+    "geom:latitude":41.086975,
+    "geom:longitude":28.894377,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cad.50.yil Mah.no:8",
+    "sg:city":"Sultan?ftligi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 619 7780",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eEvIEZkekxUQ3mDjWIdTw_41.086975_28.894377@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065947,
+    "wof:geomhash":"a3e95fe55c5f24bb520ced1c499db24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108607029
+        }
+    ],
+    "wof:id":1108607029,
+    "wof:lastmodified":1474065947,
+    "wof:name":"Strom Jeans",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8943767548,
+    41.0869750977,
+    28.8943767548,
+    41.0869750977
+],
+  "geometry": {"coordinates":[28.8943767548,41.0869750977],"type":"Point"}
+}

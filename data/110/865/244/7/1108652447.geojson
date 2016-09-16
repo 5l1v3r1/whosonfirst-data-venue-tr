@@ -1,0 +1,71 @@
+{
+  "id": 1108652447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2138404846,38.4622612,27.2138404846,38.4622612",
+    "geom:latitude":38.462261,
+    "geom:longitude":27.21384,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Suvari Cad. 64",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 342 6379",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48YAP1KBVI1Rua5YbtKnlu_38.462261_27.213840@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067958,
+    "wof:geomhash":"7e9415adb16262580a7b94701454f2a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108652447
+        }
+    ],
+    "wof:id":1108652447,
+    "wof:lastmodified":1474067958,
+    "wof:name":"Ekonomik Giyim Market",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.2138404846,
+    38.4622612,
+    27.2138404846,
+    38.4622612
+],
+  "geometry": {"coordinates":[27.2138404846,38.4622612],"type":"Point"}
+}

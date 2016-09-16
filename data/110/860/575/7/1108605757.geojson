@@ -1,0 +1,70 @@
+{
+  "id": 1108605757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1581344604,41.006816864,29.1581344604,41.006816864",
+    "geom:latitude":41.006817,
+    "geom:longitude":29.158134,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sancak Sk Sancak Han 32/4",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 507 9569",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zi8MoyIIRvTG0YuC9JOL9_41.006817_29.158134@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065874,
+    "wof:geomhash":"01bed5456a934d9ea66ce200c731e0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108605757
+        }
+    ],
+    "wof:id":1108605757,
+    "wof:lastmodified":1474065874,
+    "wof:name":"Grena Tekstil Ltd.sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1581344604,
+    41.006816864,
+    29.1581344604,
+    41.006816864
+],
+  "geometry": {"coordinates":[29.1581344604,41.006816864],"type":"Point"}
+}

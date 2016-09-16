@@ -1,0 +1,73 @@
+{
+  "id": 1108591735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7222976685,40.9817886353,28.7222976685,40.9817886353",
+    "geom:latitude":40.981789,
+    "geom:longitude":28.722298,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":". Merkez Mh. Marmara Cd. No:15 Avcilar",
+    "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 6387",
+    "sg:postcode":"34905",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msifJbWX2CRt3PnjNPqWL_40.981789_28.722298@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065301,
+    "wof:geomhash":"fdebaf7a036921d9ddd23f5cbc3e28e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":1108591735
+        }
+    ],
+    "wof:id":1108591735,
+    "wof:lastmodified":1474065301,
+    "wof:name":"Seray Mutfak Banyo Ahsap Dekor. San",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.7222976685,
+    40.9817886353,
+    28.7222976685,
+    40.9817886353
+],
+  "geometry": {"coordinates":[28.7222976685,40.9817886353],"type":"Point"}
+}

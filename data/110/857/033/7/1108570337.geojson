@@ -1,0 +1,69 @@
+{
+  "id": 1108570337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9075145721,41.0430603027,28.9075145721,41.0430603027",
+    "geom:latitude":41.04306,
+    "geom:longitude":28.907515,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Mh. Karaca Sk. No:8 Bayrampasa",
+    "sg:city":"Yukari Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 9018",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zrL0iP5A0yPRcWM5dOd7i_41.043060_28.907515@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064471,
+    "wof:geomhash":"06d3c3730ed90fdb9350ff126fe37a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108570337
+        }
+    ],
+    "wof:id":1108570337,
+    "wof:lastmodified":1474064471,
+    "wof:name":"Aky?zler Plastik San.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9075145721,
+    41.0430603027,
+    28.9075145721,
+    41.0430603027
+],
+  "geometry": {"coordinates":[28.9075145721,41.0430603027],"type":"Point"}
+}

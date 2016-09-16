@@ -1,0 +1,67 @@
+{
+  "id": 1108675715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9759254456,41.0123786926,28.9759254456,41.0123786926",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kocatepe Mh.12.sk.c9 Blok No 75 Mega Center",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 437 3240",
+    "sg:postcode":"34150",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kE4qm2XMhdZGMlVZquflH_41.012379_28.975925@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068882,
+    "wof:geomhash":"743596832af60dedce9b7c7fac0e2363",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108675715
+        }
+    ],
+    "wof:id":1108675715,
+    "wof:lastmodified":1474068882,
+    "wof:name":"Pelikan Gida Ve Tar.?r.s?n",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    28.9759254456,
+    41.0123786926,
+    28.9759254456,
+    41.0123786926
+],
+  "geometry": {"coordinates":[28.9759254456,41.0123786926],"type":"Point"}
+}

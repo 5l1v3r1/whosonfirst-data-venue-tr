@@ -1,0 +1,82 @@
+{
+  "id": 1108571437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.059223175,40.9748878479,29.059223175,40.9748878479",
+    "geom:latitude":40.974888,
+    "geom:longitude":29.059223,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Libadiye Cd. Soyak Site. No:76 G?tepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 317 5051",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463,
+        85930279,
+        102191569,
+        101912641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EVBwZmzajbSbcRemgfKxL_40.974888_29.059223@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064513,
+    "wof:geomhash":"441f6e810ed71bffb5e3a611a803fcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108571437
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108571437
+        }
+    ],
+    "wof:id":1108571437,
+    "wof:lastmodified":1474064513,
+    "wof:name":"Isin Plastik Boru San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.059223175,
+    40.9748878479,
+    29.059223175,
+    40.9748878479
+],
+  "geometry": {"coordinates":[29.059223175,40.9748878479],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108668487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8502426147,40.9932518005,28.8502426147,40.9932518005",
+    "geom:latitude":40.993252,
+    "geom:longitude":28.850243,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tevfik Fikret Cad. No:2/8 Sirinevler",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 5540513",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K8SZiE3g3Qd2XamidTAQl_40.993252_28.850243@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068587,
+    "wof:geomhash":"90cc78c9dbcf28a38826f8d8d0acba6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108668487
+        }
+    ],
+    "wof:id":1108668487,
+    "wof:lastmodified":1474068587,
+    "wof:name":"Yoremiz Gazetesi",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.8502426147,
+    40.9932518005,
+    28.8502426147,
+    40.9932518005
+],
+  "geometry": {"coordinates":[28.8502426147,40.9932518005],"type":"Point"}
+}

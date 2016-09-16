@@ -1,0 +1,66 @@
+{
+  "id": 1108647319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2448406219,40.8836593628,29.2448406219,40.8836593628",
+    "geom:latitude":40.883659,
+    "geom:longitude":29.244841,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"In??c. No.169",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 553 0533",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZE6vFGWwZ9K7lTnVZPMUy_40.883659_29.244841@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067706,
+    "wof:geomhash":"9f903fc656ff23ec67c31f58ec9592d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930121,
+            "venue_id":1108647319
+        }
+    ],
+    "wof:id":1108647319,
+    "wof:lastmodified":1474067706,
+    "wof:name":"Baserler Et ?rnl. Ltd.sti.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.2448406219,
+    40.8836593628,
+    29.2448406219,
+    40.8836593628
+],
+  "geometry": {"coordinates":[29.2448406219,40.8836593628],"type":"Point"}
+}

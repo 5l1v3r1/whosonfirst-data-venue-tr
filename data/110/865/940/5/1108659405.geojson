@@ -1,0 +1,73 @@
+{
+  "id": 1108659405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5273895264,39.7627296448,30.5273895264,39.7627296448",
+    "geom:latitude":39.76273,
+    "geom:longitude":30.52739,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet G?tekin",
+    "sg:city":"Ispir",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 442 431 3045",
+    "sg:postcode":"25900",
+    "sg:province":"Erzurum",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TCAvAwxiW7Zq7rBpnIsoI_39.762730_30.527390@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068232,
+    "wof:geomhash":"a20492abdb44e945c3891527df07380e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108659405
+        }
+    ],
+    "wof:id":1108659405,
+    "wof:lastmodified":1474068232,
+    "wof:name":"?mlikaya Belediye Baskani",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    30.5273895264,
+    39.7627296448,
+    30.5273895264,
+    39.7627296448
+],
+  "geometry": {"coordinates":[30.5273895264,39.7627296448],"type":"Point"}
+}

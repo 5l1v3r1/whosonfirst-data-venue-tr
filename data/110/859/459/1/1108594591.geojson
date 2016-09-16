@@ -1,0 +1,75 @@
+{
+  "id": 1108594591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8479328156,40.9925193787,28.8479328156,40.9925193787",
+    "geom:latitude":40.992519,
+    "geom:longitude":28.847933,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Akif Cad. No:2 Sirinevler",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 9650",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kOpDbmPGR6u7hDeDl5Fuc_40.992519_28.847933@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065406,
+    "wof:geomhash":"5b7d383c7c8471f47420fcfd747126b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108594591
+        }
+    ],
+    "wof:id":1108594591,
+    "wof:lastmodified":1474065406,
+    "wof:name":"Yeni Y?ntem Kimya San. Tic. A.s.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    28.8479328156,
+    40.9925193787,
+    28.8479328156,
+    40.9925193787
+],
+  "geometry": {"coordinates":[28.8479328156,40.9925193787],"type":"Point"}
+}

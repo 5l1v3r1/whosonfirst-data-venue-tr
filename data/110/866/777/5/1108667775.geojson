@@ -1,0 +1,75 @@
+{
+  "id": 1108667775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0319194794,41.0332183838,29.0319194794,41.0332183838",
+    "geom:latitude":41.033218,
+    "geom:longitude":29.031919,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nakkastepe, Azizbey Sok. No. 1, Kuzguncuk",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 531 0000",
+    "sg:province":"81207",
+    "sg:tags":[
+        "large",
+        "private"
+    ],
+    "sg:website":"www.koc.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929419,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J7C42uZEzhPdqT3w47u5M_41.033218_29.031919@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068551,
+    "wof:geomhash":"7e83fea80b6814a556499597febbb0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929419,
+            "region_id":85679237,
+            "venue_id":1108667775
+        }
+    ],
+    "wof:id":1108667775,
+    "wof:lastmodified":1474068551,
+    "wof:name":"Ko?holding A.s.",
+    "wof:parent_id":85929419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "large",
+        "private"
+    ]
+},
+  "bbox": [
+    29.0319194794,
+    41.0332183838,
+    29.0319194794,
+    41.0332183838
+],
+  "geometry": {"coordinates":[29.0319194794,41.0332183838],"type":"Point"}
+}

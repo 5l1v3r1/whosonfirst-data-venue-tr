@@ -1,0 +1,71 @@
+{
+  "id": 1108667839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8576431274,39.9242172241,32.8576431274,39.9242172241",
+    "geom:latitude":39.924217,
+    "geom:longitude":32.857643,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tuna Cd. No:8 Kizilay",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 432 2852",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hR4mJjidijcms7OjtezjR_39.924217_32.857643@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068554,
+    "wof:geomhash":"98f75f2f3a00f063b5cdba572ec22f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108667839
+        }
+    ],
+    "wof:id":1108667839,
+    "wof:lastmodified":1474068554,
+    "wof:name":"Ak?ag Basin Yayin Pazarlama A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    32.8576431274,
+    39.9242172241,
+    32.8576431274,
+    39.9242172241
+],
+  "geometry": {"coordinates":[32.8576431274,39.9242172241],"type":"Point"}
+}

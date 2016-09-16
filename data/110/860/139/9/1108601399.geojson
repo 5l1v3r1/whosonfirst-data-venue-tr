@@ -1,0 +1,71 @@
+{
+  "id": 1108601399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0254211426,41.1671104431,29.0254211426,41.1671104431",
+    "geom:latitude":41.16711,
+    "geom:longitude":29.025421,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Caddesi 47/2",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 2003",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930143,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g2XmKJwZce6XIJ2bzRezj_41.167110_29.025421@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065695,
+    "wof:geomhash":"1240120af8732cafc1cbdc45e21e2fb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930143,
+            "region_id":85679237,
+            "venue_id":1108601399
+        }
+    ],
+    "wof:id":1108601399,
+    "wof:lastmodified":1474065695,
+    "wof:name":"American Airlines",
+    "wof:parent_id":85930143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0254211426,
+    41.1671104431,
+    29.0254211426,
+    41.1671104431
+],
+  "geometry": {"coordinates":[29.0254211426,41.1671104431],"type":"Point"}
+}

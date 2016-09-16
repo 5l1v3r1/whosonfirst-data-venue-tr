@@ -1,0 +1,68 @@
+{
+  "id": 1108575905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8849220276,40.991191864,28.8849220276,40.991191864",
+    "geom:latitude":40.991192,
+    "geom:longitude":28.884922,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Osmaniye Aksu Cd. No:11/2",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 6392",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ClYmPz8QfhbJHSNQ0CBcA_40.991192_28.884922@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064697,
+    "wof:geomhash":"a984dcd6d59e4b245322ecbde06dc0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108575905
+        }
+    ],
+    "wof:id":1108575905,
+    "wof:lastmodified":1474064697,
+    "wof:name":"Aris San. Tic. T.a.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.8849220276,
+    40.991191864,
+    28.8849220276,
+    40.991191864
+],
+  "geometry": {"coordinates":[28.8849220276,40.991191864],"type":"Point"}
+}

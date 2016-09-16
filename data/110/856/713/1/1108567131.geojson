@@ -1,0 +1,71 @@
+{
+  "id": 1108567131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9046916962,40.9882240295,28.9046916962,40.9882240295",
+    "geom:latitude":40.988224,
+    "geom:longitude":28.904692,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenidogan Mh. 50 Sk. No:28/a Zeytinburnu",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 546 8338",
+    "sg:postcode":"81610",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dljkPAq2OHXmwS1qYoyrz_40.988224_28.904692@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064334,
+    "wof:geomhash":"482ae726c1f740093fe14c73410276fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108567131
+        }
+    ],
+    "wof:id":1108567131,
+    "wof:lastmodified":1474064334,
+    "wof:name":"Elif Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9046916962,
+    40.9882240295,
+    28.9046916962,
+    40.9882240295
+],
+  "geometry": {"coordinates":[28.9046916962,40.9882240295],"type":"Point"}
+}

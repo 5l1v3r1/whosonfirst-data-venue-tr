@@ -1,0 +1,73 @@
+{
+  "id": 1108576789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8002166748,40.9725799561,28.8002166748,40.9725799561",
+    "geom:latitude":40.97258,
+    "geom:longitude":28.800217,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saruhan Sok. No:6/1",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 7129",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6voqKV2xNO7gZdFpEKzuEk_40.972580_28.800217@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064733,
+    "wof:geomhash":"5e493427101f8a5973721913d00e3e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108576789
+        }
+    ],
+    "wof:id":1108576789,
+    "wof:lastmodified":1474064733,
+    "wof:name":"Vortex Textile Ltd.",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.8002166748,
+    40.9725799561,
+    28.8002166748,
+    40.9725799561
+],
+  "geometry": {"coordinates":[28.8002166748,40.9725799561],"type":"Point"}
+}

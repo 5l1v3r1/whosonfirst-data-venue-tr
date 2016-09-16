@@ -1,0 +1,73 @@
+{
+  "id": 1108672045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9233379364,41.0079689026,28.9233379364,41.0079689026",
+    "geom:latitude":41.007969,
+    "geom:longitude":28.923338,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Etyemez Tekke Sokak No:19/3 - Fatih",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 585 6080",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zh382tdJrgpPwVfLNgmAc_41.007969_28.923338@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068719,
+    "wof:geomhash":"b1a585a72443395bb82be8eb73e0f934",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108672045
+        }
+    ],
+    "wof:id":1108672045,
+    "wof:lastmodified":1474068719,
+    "wof:name":"Merkez ?zel Ambulans Saglik Hizmetleri",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.9233379364,
+    41.0079689026,
+    28.9233379364,
+    41.0079689026
+],
+  "geometry": {"coordinates":[28.9233379364,41.0079689026],"type":"Point"}
+}

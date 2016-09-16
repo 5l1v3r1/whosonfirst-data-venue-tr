@@ -1,0 +1,73 @@
+{
+  "id": 1108593047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5297412872,39.7758598328,30.5297412872,39.7758598328",
+    "geom:latitude":39.77586,
+    "geom:longitude":30.529741,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Mah. Vatan Cad. No:136",
+    "sg:city":"Inegol",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2222201644233",
+    "sg:postcode":"16400",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wqmXdKCsNKti3iCEfMduf_39.775860_30.529741@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065343,
+    "wof:geomhash":"b640d6e4c15b4678d15386bcacdc8c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108593047
+        }
+    ],
+    "wof:id":1108593047,
+    "wof:lastmodified":1474065343,
+    "wof:name":"Inin Ecza Deposu",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    30.5297412872,
+    39.7758598328,
+    30.5297412872,
+    39.7758598328
+],
+  "geometry": {"coordinates":[30.5297412872,39.7758598328],"type":"Point"}
+}

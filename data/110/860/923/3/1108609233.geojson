@@ -1,0 +1,62 @@
+{
+  "id": 1108609233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9493236542,41.0119132996,28.9493236542,41.0119132996",
+    "geom:latitude":41.011913,
+    "geom:longitude":28.949324,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Simit? Sakir Sk. No:16",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 635 3575",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aUjWGcBbxeerHZHsr9jZT_41.011913_28.949324@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066045,
+    "wof:geomhash":"29f6c7ce66ca566fd9d03512f9d231e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108609233
+        }
+    ],
+    "wof:id":1108609233,
+    "wof:lastmodified":1474066045,
+    "wof:name":"Mersal Uluslararasi Nakliyat",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9493236542,
+    41.0119132996,
+    28.9493236542,
+    41.0119132996
+],
+  "geometry": {"coordinates":[28.9493236542,41.0119132996],"type":"Point"}
+}

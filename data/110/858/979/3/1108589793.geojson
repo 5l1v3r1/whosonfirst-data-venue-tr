@@ -1,0 +1,74 @@
+{
+  "id": 1108589793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7361392975,36.8685035706,30.7361392975,36.8685035706",
+    "geom:latitude":36.868504,
+    "geom:longitude":30.736139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sirinyali Mah Sinanoglu Cad. No:156-2-3",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 323 5231",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930113,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m4PoihQ8I3B1qLax5WN8N_36.868504_30.736139@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065246,
+    "wof:geomhash":"25d842d13628f1d495bb82a344000981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930113,
+            "region_id":85679263,
+            "venue_id":1108589793
+        }
+    ],
+    "wof:id":1108589793,
+    "wof:lastmodified":1474065246,
+    "wof:name":"Aydinlar Anahtar Hirdavat Elektrik Emlak Ltd.",
+    "wof:parent_id":85930113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    30.7361392975,
+    36.8685035706,
+    30.7361392975,
+    36.8685035706
+],
+  "geometry": {"coordinates":[30.7361392975,36.8685035706],"type":"Point"}
+}

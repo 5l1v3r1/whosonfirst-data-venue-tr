@@ -1,0 +1,68 @@
+{
+  "id": 1108678949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9920425415,41.0574607849,28.9920425415,41.0574607849",
+    "geom:latitude":41.057461,
+    "geom:longitude":28.992043,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S.pasa K?r??sk. No:12 K:3-4",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 5372",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hdEACmvEfLONBEkQsO2EN_41.057461_28.992043@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069005,
+    "wof:geomhash":"350eb00e14480c20467cc9b245b9edec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108678949
+        }
+    ],
+    "wof:id":1108678949,
+    "wof:lastmodified":1474069005,
+    "wof:name":"?ztrans Denizcilik Tic. A.s.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9920425415,
+    41.0574607849,
+    28.9920425415,
+    41.0574607849
+],
+  "geometry": {"coordinates":[28.9920425415,41.0574607849],"type":"Point"}
+}

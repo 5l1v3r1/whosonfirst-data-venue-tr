@@ -1,0 +1,73 @@
+{
+  "id": 1108671247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9837493896,41.0368347168,28.9837493896,41.0368347168",
+    "geom:latitude":41.036835,
+    "geom:longitude":28.983749,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mete Cad. No.14 K.3 Taksim",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 5694",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ST5DSNxY41Cle9G5IPDqi_41.036835_28.983749@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068691,
+    "wof:geomhash":"8758757da385a960d4e6801a662f08f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108671247
+        }
+    ],
+    "wof:id":1108671247,
+    "wof:lastmodified":1474068691,
+    "wof:name":"Polen Menkul Degerler",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9837493896,
+    41.0368347168,
+    28.9837493896,
+    41.0368347168
+],
+  "geometry": {"coordinates":[28.9837493896,41.0368347168],"type":"Point"}
+}

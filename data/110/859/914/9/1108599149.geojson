@@ -1,0 +1,74 @@
+{
+  "id": 1108599149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0458011627,40.978603363,29.0458011627,40.978603363",
+    "geom:latitude":40.978603,
+    "geom:longitude":29.045801,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:133",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 337 7035",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F0YZ21I9YycynaxZBOTqb_40.978603_29.045801@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065595,
+    "wof:geomhash":"90ef9c0b04ff3207e2c3ed33b1940a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108599149
+        }
+    ],
+    "wof:id":1108599149,
+    "wof:lastmodified":1474065595,
+    "wof:name":"Odin Aydinlatma Tic. San. A.s.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.0458011627,
+    40.978603363,
+    29.0458011627,
+    40.978603363
+],
+  "geometry": {"coordinates":[29.0458011627,40.978603363],"type":"Point"}
+}

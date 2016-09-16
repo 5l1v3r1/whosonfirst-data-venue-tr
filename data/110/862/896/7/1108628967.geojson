@@ -1,0 +1,71 @@
+{
+  "id": 1108628967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8604812622,39.9429283142,32.8604812622,39.9429283142",
+    "geom:latitude":39.942928,
+    "geom:longitude":32.860481,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dikmen Caddesi No:116/a",
+    "sg:city":"Dikmen",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3124818855481",
+    "sg:postcode":"07630",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IdU1HJVMAfOMptxYetV2l_39.942928_32.860481@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066854,
+    "wof:geomhash":"7b19c4363e0a6b996091b2e8d364c2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108628967
+        }
+    ],
+    "wof:id":1108628967,
+    "wof:lastmodified":1474066854,
+    "wof:name":"Zecar Turizm",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    32.8604812622,
+    39.9429283142,
+    32.8604812622,
+    39.9429283142
+],
+  "geometry": {"coordinates":[32.8604812622,39.9429283142],"type":"Point"}
+}

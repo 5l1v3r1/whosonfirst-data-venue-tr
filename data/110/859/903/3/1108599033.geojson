@@ -1,0 +1,71 @@
+{
+  "id": 1108599033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1782341003,38.3874359131,27.1782341003,38.3874359131",
+    "geom:latitude":38.387436,
+    "geom:longitude":27.178234,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yavuzselim Cd. No:40",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 435 7348",
+    "sg:postcode":"01950",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iPZQ7VzRixUXAOr1FuUW8_38.387436_27.178234@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065590,
+    "wof:geomhash":"356f412a921f6b76461a70a8d1df1b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108599033
+        }
+    ],
+    "wof:id":1108599033,
+    "wof:lastmodified":1474065590,
+    "wof:name":"Isiksan Aydinlatma San.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    27.1782341003,
+    38.3874359131,
+    27.1782341003,
+    38.3874359131
+],
+  "geometry": {"coordinates":[27.1782341003,38.3874359131],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108678857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0374393463,41.0110855103,29.0374393463,41.0110855103",
+    "geom:latitude":41.011086,
+    "geom:longitude":29.037439,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kosuyolu Mahmut Yesari Sok. No:10",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 1323",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jtDTapamtSObYW6orCdXl_41.011086_29.037439@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069001,
+    "wof:geomhash":"39f6ee4a7dd17c01423ea5e00000a7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108678857
+        }
+    ],
+    "wof:id":1108678857,
+    "wof:lastmodified":1474069001,
+    "wof:name":"Transakbas Shipping",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0374393463,
+    41.0110855103,
+    29.0374393463,
+    41.0110855103
+],
+  "geometry": {"coordinates":[29.0374393463,41.0110855103],"type":"Point"}
+}

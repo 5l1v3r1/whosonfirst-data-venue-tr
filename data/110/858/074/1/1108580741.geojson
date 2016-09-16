@@ -1,0 +1,73 @@
+{
+  "id": 1108580741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9866275787,41.0492858887,28.9866275787,41.0492858887",
+    "geom:latitude":41.049286,
+    "geom:longitude":28.986628,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaya A. Sk. No:3 Zincirlikuyu",
+    "sg:city":"Pinarbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 2543",
+    "sg:postcode":"07630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zgjTOxgraRI6keiEiEYSv_41.049286_28.986628@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065030,
+    "wof:geomhash":"f4b648bf5de70731ff3f8832a921c68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108580741
+        }
+    ],
+    "wof:id":1108580741,
+    "wof:lastmodified":1474065030,
+    "wof:name":"Komatsu Ltd. Sti.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    28.9866275787,
+    41.0492858887,
+    28.9866275787,
+    41.0492858887
+],
+  "geometry": {"coordinates":[28.9866275787,41.0492858887],"type":"Point"}
+}

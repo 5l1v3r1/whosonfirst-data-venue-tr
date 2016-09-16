@@ -1,0 +1,71 @@
+{
+  "id": 1108655239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8510932922,39.9252967834,32.8510932922,39.9252967834",
+    "geom:latitude":39.925297,
+    "geom:longitude":32.851093,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hanimeli Sk. No:26/14",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 0609",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3np362j65dRHcnhka5Itzc_39.925297_32.851093@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068069,
+    "wof:geomhash":"01a8a97ed324d6011b7368cfcb1b6ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108655239
+        }
+    ],
+    "wof:id":1108655239,
+    "wof:lastmodified":1474068069,
+    "wof:name":"Er Bakir Elektrolitik Bakir Mam?l. A.s.",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8510932922,
+    39.9252967834,
+    32.8510932922,
+    39.9252967834
+],
+  "geometry": {"coordinates":[32.8510932922,39.9252967834],"type":"Point"}
+}

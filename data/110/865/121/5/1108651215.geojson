@@ -1,0 +1,67 @@
+{
+  "id": 1108651215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1304893494,38.4168815613,27.1304893494,38.4168815613",
+    "geom:latitude":38.416882,
+    "geom:longitude":27.130489,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847. Sk. No:28/106 Konak",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 8471",
+    "sg:postcode":"46000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TpgdqcejktHbOo57Uop5g_38.416882_27.130489@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067893,
+    "wof:geomhash":"d41dc795937077d91049de258d00d2bf",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108651215
+        }
+    ],
+    "wof:id":1108651215,
+    "wof:lastmodified":1474067893,
+    "wof:name":"Kalyon Medikal Ltd. Sti.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1304893494,
+    38.4168815613,
+    27.1304893494,
+    38.4168815613
+],
+  "geometry": {"coordinates":[27.1304893494,38.4168815613],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1108679971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.984423,41.052565,28.984423,41.052565",
+    "geom:latitude":41.052565,
+    "geom:longitude":28.984423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ergenekon Cad. No:100 311 Pangalti / SISLI",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34390",
+    "sg:tags":[
+        "platforms",
+        "web2-0"
+    ],
+    "sg:website":"http://www.partnerbyte.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63xhc2GophkqWLdJxlKPTR_41.052565_28.984423@1308163238"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069043,
+    "wof:geomhash":"53d93e0c73f527b5a268548689038718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108679971
+        }
+    ],
+    "wof:id":1108679971,
+    "wof:lastmodified":1474069043,
+    "wof:name":"Partnerbyte",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "platforms",
+        "web2-0"
+    ]
+},
+  "bbox": [
+    28.984423,
+    41.052565,
+    28.984423,
+    41.052565
+],
+  "geometry": {"coordinates":[28.984423,41.052565],"type":"Point"}
+}

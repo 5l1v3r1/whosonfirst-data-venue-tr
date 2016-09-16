@@ -1,0 +1,76 @@
+{
+  "id": 1108601777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9940662384,41.0490379333,28.9940662384,41.0490379333",
+    "geom:latitude":41.049038,
+    "geom:longitude":28.994066,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tesvikiye Cad.no:109",
+    "sg:city":"Tesvikiye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 236 1658",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "sg:website":"basakyapi.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RnDoGL2jBRVSduxhtCvHb_41.049038_28.994066@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065709,
+    "wof:geomhash":"e109fd207e7b7ef4efabbda61052cef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108601777
+        }
+    ],
+    "wof:id":1108601777,
+    "wof:lastmodified":1474065709,
+    "wof:name":"Basakyapi Muhendislik Makina San.tic.ltd",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9940662384,
+    41.0490379333,
+    28.9940662384,
+    41.0490379333
+],
+  "geometry": {"coordinates":[28.9940662384,41.0490379333],"type":"Point"}
+}

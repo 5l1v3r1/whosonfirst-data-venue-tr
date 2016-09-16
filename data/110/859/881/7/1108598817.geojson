@@ -1,0 +1,69 @@
+{
+  "id": 1108598817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9759254456,41.0123786926,28.9759254456,41.0123786926",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emekyemez Mah. Yuksek Minare Sok. Telli Is Hani No. 28/6",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 238 7863",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q715a4FPGtcEgH4NtD3je_41.012379_28.975925@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065583,
+    "wof:geomhash":"743596832af60dedce9b7c7fac0e2363",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108598817
+        }
+    ],
+    "wof:id":1108598817,
+    "wof:lastmodified":1474065583,
+    "wof:name":"Dekor Avize",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9759254456,
+    41.0123786926,
+    28.9759254456,
+    41.0123786926
+],
+  "geometry": {"coordinates":[28.9759254456,41.0123786926],"type":"Point"}
+}

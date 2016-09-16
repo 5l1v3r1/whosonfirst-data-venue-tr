@@ -1,0 +1,74 @@
+{
+  "id": 1108578639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8623104095,40.9885292053,28.8623104095,40.9885292053",
+    "geom:latitude":40.988529,
+    "geom:longitude":28.86231,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr Tevfik Saglam Cad Agma Sitesi 1. Blok No:2 Zuhuratbaba",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 561 0488",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "olive",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CtrWHgGNVfOuZ4JxNuVGJ_40.988529_28.862310@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064898,
+    "wof:geomhash":"1348968fd3c79d5402b16fbde2dff001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108578639
+        }
+    ],
+    "wof:id":1108578639,
+    "wof:lastmodified":1474064898,
+    "wof:name":"Molva Zeytinyaglari",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "olive",
+        "oil"
+    ]
+},
+  "bbox": [
+    28.8623104095,
+    40.9885292053,
+    28.8623104095,
+    40.9885292053
+],
+  "geometry": {"coordinates":[28.8623104095,40.9885292053],"type":"Point"}
+}

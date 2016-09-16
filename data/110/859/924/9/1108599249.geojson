@@ -1,0 +1,71 @@
+{
+  "id": 1108599249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9543247223,41.0108375549,28.9543247223,41.0108375549",
+    "geom:latitude":41.010838,
+    "geom:longitude":28.954325,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordu Cd. G?r?emini Sk. No:9",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 520 1065",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906507,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g35Q8k2IGK13EJFsimYET_41.010838_28.954325@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065598,
+    "wof:geomhash":"8e7090b4216ce9269b271325fa55f3d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906507,
+            "region_id":85679237,
+            "venue_id":1108599249
+        }
+    ],
+    "wof:id":1108599249,
+    "wof:lastmodified":1474065598,
+    "wof:name":"Snejana Avize San. Tic.",
+    "wof:parent_id":85906507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9543247223,
+    41.0108375549,
+    28.9543247223,
+    41.0108375549
+],
+  "geometry": {"coordinates":[28.9543247223,41.0108375549],"type":"Point"}
+}

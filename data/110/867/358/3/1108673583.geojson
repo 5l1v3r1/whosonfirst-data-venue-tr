@@ -1,0 +1,72 @@
+{
+  "id": 1108673583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0713024139,40.9826850891,29.0713024139,40.9826850891",
+    "geom:latitude":40.982685,
+    "geom:longitude":29.071302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Arsi Cd. No:45/5",
+    "sg:city":"Merdivenk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 3248",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pxc0JiL852P5Si2WgU4Fr_40.982685_29.071302@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068786,
+    "wof:geomhash":"cdaf1ad818b7d2d515e58620b9caf144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108673583
+        }
+    ],
+    "wof:id":1108673583,
+    "wof:lastmodified":1474068786,
+    "wof:name":"?alikusu ?i?ek Galerisi",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0713024139,
+    40.9826850891,
+    29.0713024139,
+    40.9826850891
+],
+  "geometry": {"coordinates":[29.0713024139,40.9826850891],"type":"Point"}
+}

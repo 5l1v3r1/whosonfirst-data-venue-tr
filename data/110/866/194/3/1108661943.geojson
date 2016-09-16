@@ -1,0 +1,67 @@
+{
+  "id": 1108661943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.962053299,41.0208511353,28.962053299,41.0208511353",
+    "geom:latitude":41.020851,
+    "geom:longitude":28.962053,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cibali Uskuplu Cad. No:29 Unkapani",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 621 0704",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906605,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nOulpURkqE180tI3TmLVm_41.020851_28.962053@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068323,
+    "wof:geomhash":"6bfe982100e6eda581a9af1d0f1546db",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906605,
+            "region_id":85679237,
+            "venue_id":1108661943
+        }
+    ],
+    "wof:id":1108661943,
+    "wof:lastmodified":1474068323,
+    "wof:name":"Suleyman Tabak Kagitcilik San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85906605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.962053299,
+    41.0208511353,
+    28.962053299,
+    41.0208511353
+],
+  "geometry": {"coordinates":[28.962053299,41.0208511353],"type":"Point"}
+}

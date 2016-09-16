@@ -1,0 +1,71 @@
+{
+  "id": 1108598781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9049530029,39.9557037354,32.9049530029,39.9557037354",
+    "geom:latitude":39.955704,
+    "geom:longitude":32.904953,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sarigul Sok.no: 6",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 0850",
+    "sg:postcode":"07070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VVSn5ZC1rEalrMpMWCz8j_39.955704_32.904953@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065581,
+    "wof:geomhash":"a44aa17501b8ab917342ab0b5cc69e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108598781
+        }
+    ],
+    "wof:id":1108598781,
+    "wof:lastmodified":1474065581,
+    "wof:name":"Cem Aydinlatma Ve Dekorsayon",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    32.9049530029,
+    39.9557037354,
+    32.9049530029,
+    39.9557037354
+],
+  "geometry": {"coordinates":[32.9049530029,39.9557037354],"type":"Point"}
+}

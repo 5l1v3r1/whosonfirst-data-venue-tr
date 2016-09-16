@@ -1,0 +1,70 @@
+{
+  "id": 1108606469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7952384949,40.9905738831,28.7952384949,40.9905738831",
+    "geom:latitude":40.990574,
+    "geom:longitude":28.795238,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fabrikalar Cad. Birlik Apt. 27/a",
+    "sg:city":"B.k?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 542 9855",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nedO1W6fmRLuxhQIIPgJU_40.990574_28.795238@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065907,
+    "wof:geomhash":"8fcbfd320d5fc4bc3ed252f1302cfaa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108606469
+        }
+    ],
+    "wof:id":1108606469,
+    "wof:lastmodified":1474065907,
+    "wof:name":"Nesli Tekstil Tic. Ve Mumessillik",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.7952384949,
+    40.9905738831,
+    28.7952384949,
+    40.9905738831
+],
+  "geometry": {"coordinates":[28.7952384949,40.9905738831],"type":"Point"}
+}

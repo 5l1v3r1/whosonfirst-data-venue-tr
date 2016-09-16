@@ -1,0 +1,70 @@
+{
+  "id": 1108645581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1422595978,38.4252090454,27.1422595978,38.4252090454",
+    "geom:latitude":38.425209,
+    "geom:longitude":27.14226,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cad. No:190 1.sanayi Sit.",
+    "sg:city":"Krak?",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 9676",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "equipment",
+        "maritime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QYvnQ6q9fppV0SZ5v0fUs_38.425209_27.142260@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067639,
+    "wof:geomhash":"90d1a9ccfa9937fad3be809169d695ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108645581
+        }
+    ],
+    "wof:id":1108645581,
+    "wof:lastmodified":1474067639,
+    "wof:name":"Aks Romork Endusri",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "maritime"
+    ]
+},
+  "bbox": [
+    27.1422595978,
+    38.4252090454,
+    27.1422595978,
+    38.4252090454
+],
+  "geometry": {"coordinates":[27.1422595978,38.4252090454],"type":"Point"}
+}

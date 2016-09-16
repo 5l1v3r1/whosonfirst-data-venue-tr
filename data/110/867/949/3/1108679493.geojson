@@ -1,0 +1,67 @@
+{
+  "id": 1108679493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9759254456,41.0123786926,28.9759254456,41.0123786926",
+    "geom:latitude":41.012379,
+    "geom:longitude":28.975925,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ist. Yolu 1. Km. No: 11/a G?t?k K?? Kemerburgaz",
+    "sg:city":"Kestel",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 239 8561",
+    "sg:postcode":"09800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "frozen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24kMK6tXVopPPmUhm685eE_41.012379_28.975925@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069023,
+    "wof:geomhash":"743596832af60dedce9b7c7fac0e2363",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108679493
+        }
+    ],
+    "wof:id":1108679493,
+    "wof:lastmodified":1474069023,
+    "wof:name":"Bugra Gida Tur. San. Dis. Tic. Ltd. Sti.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen"
+    ]
+},
+  "bbox": [
+    28.9759254456,
+    41.0123786926,
+    28.9759254456,
+    41.0123786926
+],
+  "geometry": {"coordinates":[28.9759254456,41.0123786926],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108597683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5175457001,39.7700805664,30.5175457001,39.7700805664",
+    "geom:latitude":39.770081,
+    "geom:longitude":30.517546,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koprubasi Cad. Yalbi Sok. Arif Bey Apt No:13/5",
+    "sg:city":"Kiziltoprak",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 221 4679",
+    "sg:postcode":"07300",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nDtNBAJlnp2CEvJJYBLFu_39.770081_30.517546@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065538,
+    "wof:geomhash":"bc6ecdca94b0db41003597333d4970ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108597683
+        }
+    ],
+    "wof:id":1108597683,
+    "wof:lastmodified":1474065538,
+    "wof:name":"Elas Asansorleri San Ve Tic Ltd.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    30.5175457001,
+    39.7700805664,
+    30.5175457001,
+    39.7700805664
+],
+  "geometry": {"coordinates":[30.5175457001,39.7700805664],"type":"Point"}
+}

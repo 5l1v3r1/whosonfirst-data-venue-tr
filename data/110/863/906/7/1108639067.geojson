@@ -1,0 +1,67 @@
+{
+  "id": 1108639067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9745006561,41.0350418091,28.9745006561,41.0350418091",
+    "geom:latitude":41.035042,
+    "geom:longitude":28.974501,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"In??cd. Isik Apt. K:7 No:69/71 D:13 Beyoglu",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 0036",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906547,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m0gfHW8a4Brm2PUfuIDYb_41.035042_28.974501@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067387,
+    "wof:geomhash":"8c8eb2bd41121ee6d000850bddcd06a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":1108639067
+        }
+    ],
+    "wof:id":1108639067,
+    "wof:lastmodified":1474067387,
+    "wof:name":"Cevre Gonulluleri Dernegi",
+    "wof:parent_id":85906547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9745006561,
+    41.0350418091,
+    28.9745006561,
+    41.0350418091
+],
+  "geometry": {"coordinates":[28.9745006561,41.0350418091],"type":"Point"}
+}

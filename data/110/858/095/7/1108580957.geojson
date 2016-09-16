@@ -1,0 +1,83 @@
+{
+  "id": 1108580957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0097675323,41.0566864014,29.0097675323,41.0566864014",
+    "geom:latitude":41.056686,
+    "geom:longitude":29.009768,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari No:103 Besiktas",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 211 3559",
+    "sg:postcode":"81260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85904169,
+        101912663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ALbpnhSpCxwbQgj04eTgu_41.056686_29.009768@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065035,
+    "wof:geomhash":"0dfbc99310d40e8ad1ec2b2077a0acc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108580957
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108580957
+        }
+    ],
+    "wof:id":1108580957,
+    "wof:lastmodified":1474065035,
+    "wof:name":"Mermerler Yatirim Ve Pazarlama A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0097675323,
+    41.0566864014,
+    29.0097675323,
+    41.0566864014
+],
+  "geometry": {"coordinates":[29.0097675323,41.0566864014],"type":"Point"}
+}

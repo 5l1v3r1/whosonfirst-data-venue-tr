@@ -1,0 +1,72 @@
+{
+  "id": 1108597971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1079921722,40.9486351013,29.1079921722,40.9486351013",
+    "geom:latitude":40.948635,
+    "geom:longitude":29.107992,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumuscu Sok. 13/2",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 361 5280",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MQxKekov7qedZNxSp3X1O_40.948635_29.107992@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065547,
+    "wof:geomhash":"6b6884d80f67a4ad47389b0bff26344a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108597971
+        }
+    ],
+    "wof:id":1108597971,
+    "wof:lastmodified":1474065547,
+    "wof:name":"Mavuk Yapi Ltd.sti.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.1079921722,
+    40.9486351013,
+    29.1079921722,
+    40.9486351013
+],
+  "geometry": {"coordinates":[29.1079921722,40.9486351013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108601659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8468780518,39.8894805908,32.8468780518,39.8894805908",
+    "geom:latitude":39.889481,
+    "geom:longitude":32.846878,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cad. No:127/a-b",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 442 4849",
+    "sg:postcode":"07080",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QJUuOGSLhPPXMdVarf4rG_39.889481_32.846878@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065705,
+    "wof:geomhash":"9958ebd6fc2df8ac98cb90130743fc83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108601659
+        }
+    ],
+    "wof:id":1108601659,
+    "wof:lastmodified":1474065705,
+    "wof:name":"Aktif Muhendislik Ltd.sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    32.8468780518,
+    39.8894805908,
+    32.8468780518,
+    39.8894805908
+],
+  "geometry": {"coordinates":[32.8468780518,39.8894805908],"type":"Point"}
+}

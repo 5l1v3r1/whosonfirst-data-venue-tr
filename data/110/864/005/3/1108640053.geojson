@@ -1,0 +1,64 @@
+{
+  "id": 1108640053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.099899292,38.4043502808,27.099899292,38.4043502808",
+    "geom:latitude":38.40435,
+    "geom:longitude":27.099899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?r? Meyd. Cd. 101 Sk.atako Apt. G?en Ism. No:3 Cankaya",
+    "sg:city":"Sirinyer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 231 4217",
+    "sg:postcode":"35140",
+    "sg:province":"I?el",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F21xq3kMcQTvLJV1F4V8v_38.404350_27.099899@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067426,
+    "wof:geomhash":"1b1d90c4978cfc7e8d2fe01d3fbdcbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108640053
+        }
+    ],
+    "wof:id":1108640053,
+    "wof:lastmodified":1474067426,
+    "wof:name":"Mersin Turk Fransiz Kultur Dernegi",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.099899292,
+    38.4043502808,
+    27.099899292,
+    38.4043502808
+],
+  "geometry": {"coordinates":[27.099899292,38.4043502808],"type":"Point"}
+}

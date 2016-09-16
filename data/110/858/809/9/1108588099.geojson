@@ -1,0 +1,71 @@
+{
+  "id": 1108588099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1361045837,38.4236793518,27.1361045837,38.4236793518",
+    "geom:latitude":38.423679,
+    "geom:longitude":27.136105,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1333.sok.no:4/a",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 5581",
+    "sg:postcode":"07080",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L64Q1cMqcB8pUJcgTLtIK_38.423679_27.136105@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065208,
+    "wof:geomhash":"58607de57c20704b50ee968ba5ac383b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108588099
+        }
+    ],
+    "wof:id":1108588099,
+    "wof:lastmodified":1474065208,
+    "wof:name":"Berin Konfeksiyon",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1361045837,
+    38.4236793518,
+    27.1361045837,
+    38.4236793518
+],
+  "geometry": {"coordinates":[27.1361045837,38.4236793518],"type":"Point"}
+}

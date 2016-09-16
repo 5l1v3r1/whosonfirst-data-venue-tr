@@ -1,0 +1,73 @@
+{
+  "id": 1108581523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0115394592,41.0625038147,29.0115394592,41.0625038147",
+    "geom:latitude":41.062504,
+    "geom:longitude":29.011539,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari No:129 Balmumcu",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 0409",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSiFnORJgP46fx4ZCAdwU_41.062504_29.011539@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065052,
+    "wof:geomhash":"fb2c5d1563267df900c804c466ce8190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108581523
+        }
+    ],
+    "wof:id":1108581523,
+    "wof:lastmodified":1474065052,
+    "wof:name":"Peroto A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0115394592,
+    41.0625038147,
+    29.0115394592,
+    41.0625038147
+],
+  "geometry": {"coordinates":[29.0115394592,41.0625038147],"type":"Point"}
+}

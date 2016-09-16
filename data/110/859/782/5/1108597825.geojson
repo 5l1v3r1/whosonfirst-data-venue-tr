@@ -1,0 +1,69 @@
+{
+  "id": 1108597825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0828990936,40.18592453,29.0828990936,40.18592453",
+    "geom:latitude":40.185925,
+    "geom:longitude":29.082899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildirim Mh Karadavut Cd No:41/a-b",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 22436422404344",
+    "sg:postcode":"46000",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930161,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Nz1ZftaYALwQNlW7pqah_40.185925_29.082899@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065542,
+    "wof:geomhash":"4e92d815e7d6faafa126376c15c52106",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":1108597825
+        }
+    ],
+    "wof:id":1108597825,
+    "wof:lastmodified":1474065542,
+    "wof:name":"Guras Asansor San",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.0828990936,
+    40.18592453,
+    29.0828990936,
+    40.18592453
+],
+  "geometry": {"coordinates":[29.0828990936,40.18592453],"type":"Point"}
+}

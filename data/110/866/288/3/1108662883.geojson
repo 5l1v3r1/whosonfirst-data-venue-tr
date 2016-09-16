@@ -1,0 +1,72 @@
+{
+  "id": 1108662883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1402359009,38.4352760315,27.1402359009,38.4352760315",
+    "geom:latitude":38.435276,
+    "geom:longitude":27.140236,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali Cetinkaya Bulv. No:34/1 K:3 Alsancak",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232",
+    "sg:postcode":"01120",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679201,
+        85632393,
+        85929653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pTPdImnWgm5QlRRvm4Ir8_38.435276_27.140236@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068361,
+    "wof:geomhash":"c1f5dcac774c49cb17cb4694b47e0322",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929653,
+            "region_id":85679201,
+            "venue_id":1108662883
+        }
+    ],
+    "wof:id":1108662883,
+    "wof:lastmodified":1474068361,
+    "wof:name":"Dogu Ilac Fab.",
+    "wof:parent_id":85929653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    27.1402359009,
+    38.4352760315,
+    27.1402359009,
+    38.4352760315
+],
+  "geometry": {"coordinates":[27.1402359009,38.4352760315],"type":"Point"}
+}

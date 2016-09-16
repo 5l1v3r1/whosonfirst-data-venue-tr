@@ -1,0 +1,64 @@
+{
+  "id": 1108667103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8621253967,39.9192886353,32.8621253967,39.9192886353",
+    "geom:latitude":39.919289,
+    "geom:longitude":32.862125,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. Fatih Apt. No:41 D:31 Kizilay",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 431 7958",
+    "sg:postcode":"80840",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KAClybMOLZ4iQMXuou0Oz_39.919289_32.862125@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068526,
+    "wof:geomhash":"9d8950ba81fe1a2add6bf9f9e44add23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108667103
+        }
+    ],
+    "wof:id":1108667103,
+    "wof:lastmodified":1474068526,
+    "wof:name":"Tmmob Peyzaj Mimarlari Odasi",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8621253967,
+    39.9192886353,
+    32.8621253967,
+    39.9192886353
+],
+  "geometry": {"coordinates":[32.8621253967,39.9192886353],"type":"Point"}
+}

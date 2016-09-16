@@ -1,0 +1,67 @@
+{
+  "id": 1108591385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.255022049,40.8733940125,29.255022049,40.8733940125",
+    "geom:latitude":40.873394,
+    "geom:longitude":29.255022,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"F.cakmak Mah. Yavuz Sok. No:18/2 Kaynarca-pendik",
+    "sg:city":"Yenikent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 396 2430",
+    "sg:postcode":"06938",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4us3v44G4RIZu63YtiqLNl_40.873394_29.255022@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065287,
+    "wof:geomhash":"a33aea5a78c66ae87d14a984d29d5b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930121,
+            "venue_id":1108591385
+        }
+    ],
+    "wof:id":1108591385,
+    "wof:lastmodified":1474065287,
+    "wof:name":"Zarif Mob. San.tic. Ltd.sti.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.255022049,
+    40.8733940125,
+    29.255022049,
+    40.8733940125
+],
+  "geometry": {"coordinates":[29.255022049,40.8733940125],"type":"Point"}
+}

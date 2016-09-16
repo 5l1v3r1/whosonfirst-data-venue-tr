@@ -1,0 +1,73 @@
+{
+  "id": 1108585515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7767658234,40.9879264832,28.7767658234,40.9879264832",
+    "geom:latitude":40.987926,
+    "geom:longitude":28.776766,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemalbey Cad.no:106",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 457 5210",
+    "sg:postcode":"34844",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930097,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ta2IpMiFNQvj3KG2RnSJ5_40.987926_28.776766@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065147,
+    "wof:geomhash":"f43427139aa961a7cd882c5ed699752f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85930097,
+            "region_id":85679237,
+            "venue_id":1108585515
+        }
+    ],
+    "wof:id":1108585515,
+    "wof:lastmodified":1474065147,
+    "wof:name":"Vitrinci",
+    "wof:parent_id":85930097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    28.7767658234,
+    40.9879264832,
+    28.7767658234,
+    40.9879264832
+],
+  "geometry": {"coordinates":[28.7767658234,40.9879264832],"type":"Point"}
+}

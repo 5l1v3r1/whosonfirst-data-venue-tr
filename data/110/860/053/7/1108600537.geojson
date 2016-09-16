@@ -1,0 +1,71 @@
+{
+  "id": 1108600537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1648139954,38.4271507263,27.1648139954,38.4271507263",
+    "geom:latitude":38.427151,
+    "geom:longitude":27.164814,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1202.sok.no:67/b",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 433 6129",
+    "sg:postcode":"31750",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4frFiRZ0bTUARiLCHmYO1L_38.427151_27.164814@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065658,
+    "wof:geomhash":"98b5911f86c9d0dc19e8b25adfd81268",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108600537
+        }
+    ],
+    "wof:id":1108600537,
+    "wof:lastmodified":1474065658,
+    "wof:name":"Beyka Tarim",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1648139954,
+    38.4271507263,
+    27.1648139954,
+    38.4271507263
+],
+  "geometry": {"coordinates":[27.1648139954,38.4271507263],"type":"Point"}
+}

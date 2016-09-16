@@ -1,0 +1,67 @@
+{
+  "id": 1108669121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2692928314,40.8722763062,29.2692928314,40.8722763062",
+    "geom:latitude":40.872276,
+    "geom:longitude":29.269293,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Camcesme Mah. Taskin Sokak No:5 81520 Pendik Istanbul",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 396 7780",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "linen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FVZKkeBKvdIbJRWgifZyM_40.872276_29.269293@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068609,
+    "wof:geomhash":"b7db67a467f10d07b4328d17b8e69ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108669121
+        }
+    ],
+    "wof:id":1108669121,
+    "wof:lastmodified":1474068609,
+    "wof:name":"Taskin Hali San Tic As",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen"
+    ]
+},
+  "bbox": [
+    29.2692928314,
+    40.8722763062,
+    29.2692928314,
+    40.8722763062
+],
+  "geometry": {"coordinates":[29.2692928314,40.8722763062],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108667975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0116519928,41.0675964355,29.0116519928,41.0675964355",
+    "geom:latitude":41.067596,
+    "geom:longitude":29.011652,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasap Sk. No:20/6 Esentepe",
+    "sg:city":"Basinevleri",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 2926",
+    "sg:postcode":"06010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iagNh4pGFhG6phk5g03U9_41.067596_29.011652@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068559,
+    "wof:geomhash":"7da9b8c41f664e9736541cf7b072ed68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108667975
+        }
+    ],
+    "wof:id":1108667975,
+    "wof:lastmodified":1474068559,
+    "wof:name":"Bersay Yayincilik A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.0116519928,
+    41.0675964355,
+    29.0116519928,
+    41.0675964355
+],
+  "geometry": {"coordinates":[29.0116519928,41.0675964355],"type":"Point"}
+}

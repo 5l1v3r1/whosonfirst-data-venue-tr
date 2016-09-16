@@ -1,0 +1,68 @@
+{
+  "id": 1108648861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5305747986,39.7688903809,30.5305747986,39.7688903809",
+    "geom:latitude":39.76889,
+    "geom:longitude":30.530575,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Cad. No:136",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 234 8593",
+    "sg:postcode":"52750",
+    "sg:province":"Eskisehir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O7LBsHoLfWqWwdVDTEv7S_39.768890_30.530575@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067789,
+    "wof:geomhash":"5c6e5f125c622bc0828ad79841f26a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108648861
+        }
+    ],
+    "wof:id":1108648861,
+    "wof:lastmodified":1474067789,
+    "wof:name":"Inan Ecza Dep.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5305747986,
+    39.7688903809,
+    30.5305747986,
+    39.7688903809
+],
+  "geometry": {"coordinates":[30.5305747986,39.7688903809],"type":"Point"}
+}

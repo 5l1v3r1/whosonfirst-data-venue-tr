@@ -1,0 +1,72 @@
+{
+  "id": 1108672851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0901031494,40.9900817871,29.0901031494,40.9900817871",
+    "geom:latitude":40.990082,
+    "geom:longitude":29.090103,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Odabasi Sk. No:27",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 5852",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jVTIT7RkrcHw0bvjzhKGn_40.990082_29.090103@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068756,
+    "wof:geomhash":"bf6461f22233777deb645eed112f3be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":1108672851
+        }
+    ],
+    "wof:id":1108672851,
+    "wof:lastmodified":1474068756,
+    "wof:name":"Budak ?i?ek",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0901031494,
+    40.9900817871,
+    29.0901031494,
+    40.9900817871
+],
+  "geometry": {"coordinates":[29.0901031494,40.9900817871],"type":"Point"}
+}

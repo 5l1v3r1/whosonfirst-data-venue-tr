@@ -1,0 +1,73 @@
+{
+  "id": 1108671297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9875411987,41.0352592468,28.9875411987,41.0352592468",
+    "geom:latitude":41.035259,
+    "geom:longitude":28.987541,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":">dunya Saglik Sk. No.31 Taksim",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 7116",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906563,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pn2aqi6aWGn5xBB2SlU8p_41.035259_28.987541@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068693,
+    "wof:geomhash":"490bf2c87bf2d462e5d23627598f4dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906563,
+            "region_id":85679237,
+            "venue_id":1108671297
+        }
+    ],
+    "wof:id":1108671297,
+    "wof:lastmodified":1474068693,
+    "wof:name":"Taksim Menkul Degerler",
+    "wof:parent_id":85906563,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9875411987,
+    41.0352592468,
+    28.9875411987,
+    41.0352592468
+],
+  "geometry": {"coordinates":[28.9875411987,41.0352592468],"type":"Point"}
+}

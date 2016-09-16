@@ -1,0 +1,67 @@
+{
+  "id": 1108609405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8701229095,40.9956741333,28.8701229095,40.9956741333",
+    "geom:latitude":40.995674,
+    "geom:longitude":28.870123,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Incirli Cd. No:106",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 583 8538",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32S099Bfmc3h4niYCFNfRb_40.995674_28.870123@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066051,
+    "wof:geomhash":"2c0bd5590ac251fb2d9bc9830b3f772e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108609405
+        }
+    ],
+    "wof:id":1108609405,
+    "wof:lastmodified":1474066051,
+    "wof:name":"Sarallar Tasima Turizm San. Ltd.",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8701229095,
+    40.9956741333,
+    28.8701229095,
+    40.9956741333
+],
+  "geometry": {"coordinates":[28.8701229095,40.9956741333],"type":"Point"}
+}

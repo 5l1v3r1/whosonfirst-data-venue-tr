@@ -1,0 +1,71 @@
+{
+  "id": 1108589739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1446781158,38.4377441406,27.1446781158,38.4377441406",
+    "geom:latitude":38.437744,
+    "geom:longitude":27.144678,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1456 S No:70/b-",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 422 2374",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OJEReO7Z9hlgLMaAwRdZh_38.437744_27.144678@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065245,
+    "wof:geomhash":"0a776c3efb013065f58f1ec3e533db29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108589739
+        }
+    ],
+    "wof:id":1108589739,
+    "wof:lastmodified":1474065245,
+    "wof:name":"Alsancak Hirdavat Anahtacilik",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    27.1446781158,
+    38.4377441406,
+    27.1446781158,
+    38.4377441406
+],
+  "geometry": {"coordinates":[27.1446781158,38.4377441406],"type":"Point"}
+}

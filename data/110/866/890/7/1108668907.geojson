@@ -1,0 +1,71 @@
+{
+  "id": 1108668907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8430023193,39.9278259277,32.8430023193,39.9278259277",
+    "geom:latitude":39.927826,
+    "geom:longitude":32.843002,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Hamak Makina Sanayi Ve Ticaret A.s. Gazi Musatafa Kemal Bulvari 112",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 4560",
+    "sg:postcode":"06570",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n4ip5NYuYgFNUYApt37kF_39.927826_32.843002@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068601,
+    "wof:geomhash":"37fbdcdfcde4b1ffb471b1fb089c602e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108668907
+        }
+    ],
+    "wof:id":1108668907,
+    "wof:lastmodified":1474068601,
+    "wof:name":"Vortex Kompres?",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    32.8430023193,
+    39.9278259277,
+    32.8430023193,
+    39.9278259277
+],
+  "geometry": {"coordinates":[32.8430023193,39.9278259277],"type":"Point"}
+}

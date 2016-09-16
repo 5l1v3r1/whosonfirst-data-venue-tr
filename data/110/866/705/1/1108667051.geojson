@@ -1,0 +1,68 @@
+{
+  "id": 1108667051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9545173645,41.0744514465,28.9545173645,41.0744514465",
+    "geom:latitude":41.074451,
+    "geom:longitude":28.954517,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S?er Sk. No:12 D:10 Yenisehir",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 230 2939",
+    "sg:postcode":"80840",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GGzrKB16mIV4FFd5sMnvK_41.074451_28.954517@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068525,
+    "wof:geomhash":"47dbb5bab83b268c0596c6eddc7681dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108667051
+        }
+    ],
+    "wof:id":1108667051,
+    "wof:lastmodified":1474068525,
+    "wof:name":"Tmmob Harita Ve Kadastro Muhendis Odasi",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9545173645,
+    41.0744514465,
+    28.9545173645,
+    41.0744514465
+],
+  "geometry": {"coordinates":[28.9545173645,41.0744514465],"type":"Point"}
+}

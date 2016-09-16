@@ -1,0 +1,75 @@
+{
+  "id": 1108655749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9728488922,41.0380439758,28.9728488922,41.0380439758",
+    "geom:latitude":41.038044,
+    "geom:longitude":28.972849,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sururi Mh. Ahmet Efendi Cami Sk. No:13/15 Kasimpasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 8184",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C1GsCNR3PpchxznzXO7Ey_41.038044_28.972849@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068088,
+    "wof:geomhash":"36051cf809cdb3a6f70bfcb18b14ad13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108655749
+        }
+    ],
+    "wof:id":1108655749,
+    "wof:lastmodified":1474068088,
+    "wof:name":"?evre Isi Insaat Madenci. Tic. Ltd. Sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9728488922,
+    41.0380439758,
+    28.9728488922,
+    41.0380439758
+],
+  "geometry": {"coordinates":[28.9728488922,41.0380439758],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108576357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8741340637,40.9956893921,28.8741340637,40.9956893921",
+    "geom:latitude":40.995689,
+    "geom:longitude":28.874134,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe Mh. Olgunlar Sk. No:6/10",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 550 1265",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55pg8Dp36SkfuRwmRVvfko_40.995689_28.874134@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064715,
+    "wof:geomhash":"5221f2f70b4c54231e2d95fc513846b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108576357
+        }
+    ],
+    "wof:id":1108576357,
+    "wof:lastmodified":1474064715,
+    "wof:name":"Karakus Tic.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.8741340637,
+    40.9956893921,
+    28.8741340637,
+    40.9956893921
+],
+  "geometry": {"coordinates":[28.8741340637,40.9956893921],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108621151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8532714844,39.929309845,32.8532714844,39.929309845",
+    "geom:latitude":39.92931,
+    "geom:longitude":32.853271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kececiler Cad.no.11",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 376 213 1053",
+    "sg:postcode":"06370",
+    "sg:province":"?ankiri",
+    "sg:tags":[
+        "chamber",
+        "industry",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qMk3kS3f9VtScGDyQccBk_39.929310_32.853271@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066516,
+    "wof:geomhash":"4d45afe5f69f59f5d3975b551dadad9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108621151
+        }
+    ],
+    "wof:id":1108621151,
+    "wof:lastmodified":1474066516,
+    "wof:name":"?ankiri Ticaret Ve Sanayi Odasi",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chamber",
+        "industry",
+        "commerce"
+    ]
+},
+  "bbox": [
+    32.8532714844,
+    39.929309845,
+    32.8532714844,
+    39.929309845
+],
+  "geometry": {"coordinates":[32.8532714844,39.929309845],"type":"Point"}
+}

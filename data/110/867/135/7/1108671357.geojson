@@ -1,0 +1,73 @@
+{
+  "id": 1108671357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9875068665,41.0756835938,28.9875068665,41.0756835938",
+    "geom:latitude":41.075684,
+    "geom:longitude":28.987507,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cad. No:225 4. Levet",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 3065",
+    "sg:postcode":"06680",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sB2zJdcaiD6EipwqfBLJo_41.075684_28.987507@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068696,
+    "wof:geomhash":"91c4676bbc4e69fdbffedcb4fd8aef1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108671357
+        }
+    ],
+    "wof:id":1108671357,
+    "wof:lastmodified":1474068696,
+    "wof:name":"Ziraat Finansal Kiralama A.s",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9875068665,
+    41.0756835938,
+    28.9875068665,
+    41.0756835938
+],
+  "geometry": {"coordinates":[28.9875068665,41.0756835938],"type":"Point"}
+}

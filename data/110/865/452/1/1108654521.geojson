@@ -1,0 +1,75 @@
+{
+  "id": 1108654521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0619525909,40.974861145,29.0619525909,40.974861145",
+    "geom:latitude":40.974861,
+    "geom:longitude":29.061953,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"N.kemal Mah. Sutcu Cad. No:42-a",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 521 3913",
+    "sg:postcode":"03650",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07RBryuKCVfRxMBfzkXUCl_40.974861_29.061953@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068043,
+    "wof:geomhash":"8f7ffd130acba6a4b3e282c9db7ee635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108654521
+        }
+    ],
+    "wof:id":1108654521,
+    "wof:lastmodified":1474068043,
+    "wof:name":"Camlica Gida Ins. Ve Day. Tuk. Mal. San. Ve Ltd.sti.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    29.0619525909,
+    40.974861145,
+    29.0619525909,
+    40.974861145
+],
+  "geometry": {"coordinates":[29.0619525909,40.974861145],"type":"Point"}
+}

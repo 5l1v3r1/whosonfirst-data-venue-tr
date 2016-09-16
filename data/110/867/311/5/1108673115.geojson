@@ -1,0 +1,73 @@
+{
+  "id": 1108673115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0255565643,40.9960327148,29.0255565643,40.9960327148",
+    "geom:latitude":40.996033,
+    "geom:longitude":29.025557,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iskele Sk. No:2",
+    "sg:city":"Caddebostan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 337 5033",
+    "sg:postcode":"34728",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929485,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lFUEV27SLwblM2R18wpN5_40.996033_29.025557@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068765,
+    "wof:geomhash":"dff4fa68e58e50564fb9af359b8817c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929485,
+            "region_id":85679237,
+            "venue_id":1108673115
+        }
+    ],
+    "wof:id":1108673115,
+    "wof:lastmodified":1474068765,
+    "wof:name":"Kalamis ?i?ek?ilik",
+    "wof:parent_id":85929485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0255565643,
+    40.9960327148,
+    29.0255565643,
+    40.9960327148
+],
+  "geometry": {"coordinates":[29.0255565643,40.9960327148],"type":"Point"}
+}

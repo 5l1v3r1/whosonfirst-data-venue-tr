@@ -1,0 +1,69 @@
+{
+  "id": 1108578139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8557662964,39.9176902771,32.8557662964,39.9176902771",
+    "geom:latitude":39.91769,
+    "geom:longitude":32.855766,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. No:11 Kizilay",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 1119",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ZC6Yt4sbIw8x4879QwLK_39.917690_32.855766@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064871,
+    "wof:geomhash":"c7de4dc3211f5c58b33ee97d2f35f864",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108578139
+        }
+    ],
+    "wof:id":1108578139,
+    "wof:lastmodified":1474064871,
+    "wof:name":"B?rokur Tic. A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    32.8557662964,
+    39.9176902771,
+    32.8557662964,
+    39.9176902771
+],
+  "geometry": {"coordinates":[32.8557662964,39.9176902771],"type":"Point"}
+}

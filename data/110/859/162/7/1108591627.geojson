@@ -1,0 +1,67 @@
+{
+  "id": 1108591627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6944561005,36.8882713318,30.6944561005,36.8882713318",
+    "geom:latitude":36.888271,
+    "geom:longitude":30.694456,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Deniz Mah.128. Sok.no:13/a",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 243 3028",
+    "sg:postcode":"81700",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_489ZmDdh4QaWXN9zIiF92a_36.888271_30.694456@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065297,
+    "wof:geomhash":"58348a6a88d3905ce913c8179b9b309b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930187,
+            "venue_id":1108591627
+        }
+    ],
+    "wof:id":1108591627,
+    "wof:lastmodified":1474065297,
+    "wof:name":"Ikinciel Endusriyel Mutfak Cihazlari",
+    "wof:parent_id":85930187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    30.6944561005,
+    36.8882713318,
+    30.6944561005,
+    36.8882713318
+],
+  "geometry": {"coordinates":[30.6944561005,36.8882713318],"type":"Point"}
+}

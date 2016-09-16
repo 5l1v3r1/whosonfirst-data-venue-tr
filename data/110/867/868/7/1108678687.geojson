@@ -1,0 +1,76 @@
+{
+  "id": 1108678687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9732208252,41.0300788879,28.9732208252,41.0300788879",
+    "geom:latitude":41.030079,
+    "geom:longitude":28.973221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. No:279",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 7554",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906543,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6po6soC2nsqcSyytXE8ITW_41.030079_28.973221@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068995,
+    "wof:geomhash":"aa8ea0969a2ef0a6d62916e933765ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906543,
+            "region_id":85679237,
+            "venue_id":1108678687
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108678687
+        }
+    ],
+    "wof:id":1108678687,
+    "wof:lastmodified":1474068995,
+    "wof:name":"Kutup Denizcilik Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9732208252,
+    41.0300788879,
+    28.9732208252,
+    41.0300788879
+],
+  "geometry": {"coordinates":[28.9732208252,41.0300788879],"type":"Point"}
+}

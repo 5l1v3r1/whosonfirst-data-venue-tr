@@ -1,0 +1,68 @@
+{
+  "id": 1108584769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0054225922,41.0927276611,29.0054225922,41.0927276611",
+    "geom:latitude":41.092728,
+    "geom:longitude":29.005423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Oto Sanayi Sitesi Demirbas Sok. No:17",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 7522",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qBkshLyeEBXO5rAL1ZtTa_41.092728_29.005423@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065126,
+    "wof:geomhash":"9eedd46c85a3a661892a0ab51080e996",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108584769
+        }
+    ],
+    "wof:id":1108584769,
+    "wof:lastmodified":1474065126,
+    "wof:name":"Desan Tekstil San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.0054225922,
+    41.0927276611,
+    29.0054225922,
+    41.0927276611
+],
+  "geometry": {"coordinates":[29.0054225922,41.0927276611],"type":"Point"}
+}

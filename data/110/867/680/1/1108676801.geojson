@@ -1,0 +1,68 @@
+{
+  "id": 1108676801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8945007324,39.9587516785,32.8945007324,39.9587516785",
+    "geom:latitude":39.958752,
+    "geom:longitude":32.894501,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dalboyu Sk. No:33/3 Siteler",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 353 0281",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46JSXBVY5uEIU6LiyPdY5s_39.958752_32.894501@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068919,
+    "wof:geomhash":"3fac22647b3a4a1e3a22aa1cfd08690d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676801
+        }
+    ],
+    "wof:id":1108676801,
+    "wof:lastmodified":1474068919,
+    "wof:name":"Kaysan Kastamonu Aga? San. Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8945007324,
+    39.9587516785,
+    32.8945007324,
+    39.9587516785
+],
+  "geometry": {"coordinates":[32.8945007324,39.9587516785],"type":"Point"}
+}

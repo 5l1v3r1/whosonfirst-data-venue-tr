@@ -1,0 +1,64 @@
+{
+  "id": 1108608961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9103794098,41.0486907959,28.9103794098,41.0486907959",
+    "geom:latitude":41.048691,
+    "geom:longitude":28.910379,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Im?. 5. Blok No:5614",
+    "sg:city":"Unkapani",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 3179",
+    "sg:postcode":"55020",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tia4p30G7zZqMiHolt6ch_41.048691_28.910379@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066034,
+    "wof:geomhash":"f675de51a2f9d8595a6cd2fbff99e42a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108608961
+        }
+    ],
+    "wof:id":1108608961,
+    "wof:lastmodified":1474066034,
+    "wof:name":"Ersen Uluslararasi Nakliyat",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9103794098,
+    41.0486907959,
+    28.9103794098,
+    41.0486907959
+],
+  "geometry": {"coordinates":[28.9103794098,41.0486907959],"type":"Point"}
+}

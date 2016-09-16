@@ -1,0 +1,64 @@
+{
+  "id": 1108639109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8532714844,39.929309845,32.8532714844,39.929309845",
+    "geom:latitude":39.92931,
+    "geom:longitude":32.853271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tse B?g. M??. Yani Org. San. B?g.",
+    "sg:city":"Bah?elievler",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 364 254 9041",
+    "sg:postcode":"06490",
+    "sg:province":"?orum",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CcTmZIwS1u4g4unVTL2Ni_39.929310_32.853271@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067389,
+    "wof:geomhash":"4d45afe5f69f59f5d3975b551dadad9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108639109
+        }
+    ],
+    "wof:id":1108639109,
+    "wof:lastmodified":1474067389,
+    "wof:name":"Corum Kalite Dernegi",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8532714844,
+    39.929309845,
+    32.8532714844,
+    39.929309845
+],
+  "geometry": {"coordinates":[32.8532714844,39.929309845],"type":"Point"}
+}

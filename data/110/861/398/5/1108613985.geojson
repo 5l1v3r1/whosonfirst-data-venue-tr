@@ -1,0 +1,73 @@
+{
+  "id": 1108613985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0357303619,40.9867095947,29.0357303619,40.9867095947",
+    "geom:latitude":40.98671,
+    "geom:longitude":29.03573,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Resitpasa Cd. No:4",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 1640",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904173,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ApZ9dZlnrGyr0Ng8UEN43_40.986710_29.035730@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066234,
+    "wof:geomhash":"f0eb60533721c6f687b21fb66349f92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904173,
+            "region_id":85679237,
+            "venue_id":1108613985
+        }
+    ],
+    "wof:id":1108613985,
+    "wof:lastmodified":1474066234,
+    "wof:name":"Karadeniz Nalburiye San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    29.0357303619,
+    40.9867095947,
+    29.0357303619,
+    40.9867095947
+],
+  "geometry": {"coordinates":[29.0357303619,40.9867095947],"type":"Point"}
+}

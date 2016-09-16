@@ -1,0 +1,68 @@
+{
+  "id": 1108654169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1477851868,41.0078887939,29.1477851868,41.0078887939",
+    "geom:latitude":41.007889,
+    "geom:longitude":29.147785,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imes Sanayi Sitesi C Blok 305 Sokak No:13 Y.dudullu",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34775",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67itxGFD8HTiVqK5wxEs4O_41.007889_29.147785@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068026,
+    "wof:geomhash":"d2e1792efeb8076bdb837afe559f2c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108654169
+        }
+    ],
+    "wof:id":1108654169,
+    "wof:lastmodified":1474068026,
+    "wof:name":"Atlas Metal San.tic.ltd.sti",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing"
+    ]
+},
+  "bbox": [
+    29.1477851868,
+    41.0078887939,
+    29.1477851868,
+    41.0078887939
+],
+  "geometry": {"coordinates":[29.1477851868,41.0078887939],"type":"Point"}
+}

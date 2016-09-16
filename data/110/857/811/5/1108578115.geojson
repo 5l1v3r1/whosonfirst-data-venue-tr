@@ -1,0 +1,69 @@
+{
+  "id": 1108578115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8598175049,39.9204902649,32.8598175049,39.9204902649",
+    "geom:latitude":39.92049,
+    "geom:longitude":32.859818,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Mediha E. Sk. No:33/6",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 432 5354",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUdQGIQ38uufWDQvKZ0N0_39.920490_32.859818@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064870,
+    "wof:geomhash":"087e9bd160879712ec065762850de078",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108578115
+        }
+    ],
+    "wof:id":1108578115,
+    "wof:lastmodified":1474064870,
+    "wof:name":"Bizim Ofis B?ro Makina. Tic. Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    32.8598175049,
+    39.9204902649,
+    32.8598175049,
+    39.9204902649
+],
+  "geometry": {"coordinates":[32.8598175049,39.9204902649],"type":"Point"}
+}

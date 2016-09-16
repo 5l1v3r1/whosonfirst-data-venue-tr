@@ -1,0 +1,62 @@
+{
+  "id": 1108572869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7145233154,36.8798866272,30.7145233154,36.8798866272",
+    "geom:latitude":36.879887,
+    "geom:longitude":30.714523,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebesoy Cad 1408 Sk 14 / A",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 322 0688",
+    "sg:postcode":"07100",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IXml870nioHTFDWxj8XoK_36.879887_30.714523@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064575,
+    "wof:geomhash":"e6ed14765c1c699303856c59abc7cba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930261,
+            "venue_id":1108572869
+        }
+    ],
+    "wof:id":1108572869,
+    "wof:lastmodified":1474064575,
+    "wof:name":"Art Deco Mum San Tic Ltd Sti",
+    "wof:parent_id":85930261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7145233154,
+    36.8798866272,
+    30.7145233154,
+    36.8798866272
+],
+  "geometry": {"coordinates":[30.7145233154,36.8798866272],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108647305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8643341064,41.013217926,28.8643341064,41.013217926",
+    "geom:latitude":41.013218,
+    "geom:longitude":28.864334,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Telsiz Mah. No: 3",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 7710",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oid5WKSZbIvb3kFskoxql_41.013218_28.864334@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067706,
+    "wof:geomhash":"4826c6c3616e9269738f2a386c5835db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108647305
+        }
+    ],
+    "wof:id":1108647305,
+    "wof:lastmodified":1474067706,
+    "wof:name":"Aydos Gida San.tic.ltd.sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    28.8643341064,
+    41.013217926,
+    28.8643341064,
+    41.013217926
+],
+  "geometry": {"coordinates":[28.8643341064,41.013217926],"type":"Point"}
+}

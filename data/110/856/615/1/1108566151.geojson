@@ -1,0 +1,75 @@
+{
+  "id": 1108566151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0178527832,41.0756492615,29.0178527832,41.0756492615",
+    "geom:latitude":41.075649,
+    "geom:longitude":29.017853,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"E. B??dere Cd. Y. Emre Sk. No:1/3 4.levent",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 0001",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q2AYnaCIOCbIUqxZWHmdP_41.075649_29.017853@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064285,
+    "wof:geomhash":"29e762f18468149e27a8b99b6e4097c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108566151
+        }
+    ],
+    "wof:id":1108566151,
+    "wof:lastmodified":1474064285,
+    "wof:name":"Alamsas Alarko Makina San. A.s.",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0178527832,
+    41.0756492615,
+    29.0178527832,
+    41.0756492615
+],
+  "geometry": {"coordinates":[29.0178527832,41.0756492615],"type":"Point"}
+}

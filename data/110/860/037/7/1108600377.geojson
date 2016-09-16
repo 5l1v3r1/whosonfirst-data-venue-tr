@@ -1,0 +1,71 @@
+{
+  "id": 1108600377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1341247559,38.4247550964,27.1341247559,38.4247550964",
+    "geom:latitude":38.424755,
+    "geom:longitude":27.134125,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halit Ziya Bulv. No.40",
+    "sg:city":"Kocarli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 6790",
+    "sg:postcode":"09970",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nZBMKlH6n1VSoL3qQbmQy_38.424755_27.134125@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065651,
+    "wof:geomhash":"12ce50a0c716821144d31202de26165e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108600377
+        }
+    ],
+    "wof:id":1108600377,
+    "wof:lastmodified":1474065651,
+    "wof:name":"Aklo Tarim Urn. Ith.ihr. A.s.",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1341247559,
+    38.4247550964,
+    27.1341247559,
+    38.4247550964
+],
+  "geometry": {"coordinates":[27.1341247559,38.4247550964],"type":"Point"}
+}

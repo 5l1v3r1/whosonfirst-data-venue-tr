@@ -1,0 +1,69 @@
+{
+  "id": 1108661831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8826675415,41.0170631409,28.8826675415,41.0170631409",
+    "geom:latitude":41.017063,
+    "geom:longitude":28.882668,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cd. Uzun Sk. No:10 Merter",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 1281",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5miEDxAzyPt3tDPSiobO9v_41.017063_28.882668@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068319,
+    "wof:geomhash":"1e8630920dd3adadf05d55a2e28d1269",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108661831
+        }
+    ],
+    "wof:id":1108661831,
+    "wof:lastmodified":1474068319,
+    "wof:name":"Ompak Oluklu Mukavva San. Tic. A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.8826675415,
+    41.0170631409,
+    28.8826675415,
+    41.0170631409
+],
+  "geometry": {"coordinates":[28.8826675415,41.0170631409],"type":"Point"}
+}

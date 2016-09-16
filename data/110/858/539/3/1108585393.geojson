@@ -1,0 +1,73 @@
+{
+  "id": 1108585393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9891300201,41.0509033203,28.9891300201,41.0509033203",
+    "geom:latitude":41.050903,
+    "geom:longitude":28.98913,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rumeli Cad.zafer Sok.48/601 Nisantasi",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 6646",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lwLI2uWHfmdHwVxgyTGQU_41.050903_28.989130@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065144,
+    "wof:geomhash":"e8669bce27dbffd03bf553c77552b357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108585393
+        }
+    ],
+    "wof:id":1108585393,
+    "wof:lastmodified":1474065144,
+    "wof:name":"Mana Iletisim Ltd.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    28.9891300201,
+    41.0509033203,
+    28.9891300201,
+    41.0509033203
+],
+  "geometry": {"coordinates":[28.9891300201,41.0509033203],"type":"Point"}
+}

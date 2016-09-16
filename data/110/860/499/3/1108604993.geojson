@@ -1,0 +1,70 @@
+{
+  "id": 1108604993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8883152008,41.0874023438,28.8883152008,41.0874023438",
+    "geom:latitude":41.087402,
+    "geom:longitude":28.888315,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad.no:173",
+    "sg:city":"K.koy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 617 4700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QGIcHfCqN2QqmYPMhvEhc_41.087402_28.888315@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065845,
+    "wof:geomhash":"d1bcb41d7fa8a5f6b3368ca24ccb7e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108604993
+        }
+    ],
+    "wof:id":1108604993,
+    "wof:lastmodified":1474065845,
+    "wof:name":"Aytac Tekstil",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8883152008,
+    41.0874023438,
+    28.8883152008,
+    41.0874023438
+],
+  "geometry": {"coordinates":[28.8883152008,41.0874023438],"type":"Point"}
+}

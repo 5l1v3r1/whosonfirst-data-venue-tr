@@ -1,0 +1,73 @@
+{
+  "id": 1108657317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6831741333,36.912525177,30.6831741333,36.912525177",
+    "geom:latitude":36.912525,
+    "geom:longitude":30.683174,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Yildiz",
+    "sg:city":"Tavas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 437 2024",
+    "sg:postcode":"20500",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930107,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61iTEb5nvtSYij8exlyF37_36.912525_30.683174@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068148,
+    "wof:geomhash":"0df625ef20629d0b53b3d8bc32fa491b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930107,
+            "region_id":85679263,
+            "venue_id":1108657317
+        }
+    ],
+    "wof:id":1108657317,
+    "wof:lastmodified":1474068148,
+    "wof:name":"Bademagaci Belediye Baskani",
+    "wof:parent_id":85930107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    30.6831741333,
+    36.912525177,
+    30.6831741333,
+    36.912525177
+],
+  "geometry": {"coordinates":[30.6831741333,36.912525177],"type":"Point"}
+}

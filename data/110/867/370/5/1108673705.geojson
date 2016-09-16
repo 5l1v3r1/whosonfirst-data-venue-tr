@@ -1,0 +1,70 @@
+{
+  "id": 1108673705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9681549072,41.0180778503,28.9681549072,41.0180778503",
+    "geom:latitude":41.018078,
+    "geom:longitude":28.968155,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kutucular Cad. Kadioglu Sk.no:8-10",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 3470",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906481,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mbJLikIPFH08zyD3keLg1_41.018078_28.968155@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068791,
+    "wof:geomhash":"ba0ae42479f9b2b9eeec4458a44f1231",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906481,
+            "region_id":85679237,
+            "venue_id":1108673705
+        }
+    ],
+    "wof:id":1108673705,
+    "wof:lastmodified":1474068791,
+    "wof:name":"Esans Ticaret Ve Sanayi Anonim Sti.",
+    "wof:parent_id":85906481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    28.9681549072,
+    41.0180778503,
+    28.9681549072,
+    41.0180778503
+],
+  "geometry": {"coordinates":[28.9681549072,41.0180778503],"type":"Point"}
+}

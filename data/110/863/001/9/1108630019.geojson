@@ -1,0 +1,68 @@
+{
+  "id": 1108630019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9891529083,41.0614967346,28.9891529083,41.0614967346",
+    "geom:latitude":41.061497,
+    "geom:longitude":28.989153,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtulus Cad Paros Bldg164/1, Sisli",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 122 9602",
+    "sg:province":"34377",
+    "sg:website":"www.parostravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54bUvzHGBcN9vUnxPlTsMm_41.061497_28.989153@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066917,
+    "wof:geomhash":"6abd9ee61114dabab5dc920f14a41dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108630019
+        }
+    ],
+    "wof:id":1108630019,
+    "wof:lastmodified":1474066917,
+    "wof:name":"Paros Travel Service & Services",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9891529083,
+    41.0614967346,
+    28.9891529083,
+    41.0614967346
+],
+  "geometry": {"coordinates":[28.9891529083,41.0614967346],"type":"Point"}
+}

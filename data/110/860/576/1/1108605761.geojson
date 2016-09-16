@@ -1,0 +1,74 @@
+{
+  "id": 1108605761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9857559204,41.0326538086,28.9857559204,41.0326538086",
+    "geom:latitude":41.032654,
+    "geom:longitude":28.985756,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cihangir, Cihangir Cad. 33",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 9738",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OXnKXuhyXEGUX49Y0URja_41.032654_28.985756@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065874,
+    "wof:geomhash":"8fbb5b2de3f437f2adc31cefab676689",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":1108605761
+        }
+    ],
+    "wof:id":1108605761,
+    "wof:lastmodified":1474065874,
+    "wof:name":"Gts Ltd.",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9857559204,
+    41.0326538086,
+    28.9857559204,
+    41.0326538086
+],
+  "geometry": {"coordinates":[28.9857559204,41.0326538086],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108672801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8729457855,40.9933013916,28.8729457855,40.9933013916",
+    "geom:latitude":40.993301,
+    "geom:longitude":28.872946,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Incirli Kartaltepe Mh. Pelinli Sk. No:17",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 0010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h6JFhHdnFZ9KHpBdqIl24_40.993301_28.872946@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068749,
+    "wof:geomhash":"187bf6742ab326db84bf5c10be7c4a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108672801
+        }
+    ],
+    "wof:id":1108672801,
+    "wof:lastmodified":1474068749,
+    "wof:name":"Bakirk?y ?i?ek?ilik Ve Seraci.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.8729457855,
+    40.9933013916,
+    28.8729457855,
+    40.9933013916
+],
+  "geometry": {"coordinates":[28.8729457855,40.9933013916],"type":"Point"}
+}

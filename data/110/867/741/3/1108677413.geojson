@@ -1,0 +1,68 @@
+{
+  "id": 1108677413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.85597229,39.9238471985,32.85597229,39.9238471985",
+    "geom:latitude":39.923847,
+    "geom:longitude":32.855972,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bayindir Sk. No:23 D:7 Kizilay",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 431 2127",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MwCRHZCkZev2W8dytFkoM_39.923847_32.855972@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068939,
+    "wof:geomhash":"f77ca39c2fc5ceea3b926274ac6bc767",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108677413
+        }
+    ],
+    "wof:id":1108677413,
+    "wof:lastmodified":1474068939,
+    "wof:name":"Ankara Egitim Vakfi",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.85597229,
+    39.9238471985,
+    32.85597229,
+    39.9238471985
+],
+  "geometry": {"coordinates":[32.85597229,39.9238471985],"type":"Point"}
+}

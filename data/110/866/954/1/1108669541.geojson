@@ -1,0 +1,69 @@
+{
+  "id": 1108669541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.855506897,39.9216041565,32.855506897,39.9216041565",
+    "geom:latitude":39.921604,
+    "geom:longitude":32.855507,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Cad. 44/20",
+    "sg:city":"G??suyu / Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312",
+    "sg:postcode":"34439",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vghb84LfDLq6wuT6zi8qR_39.921604_32.855507@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068628,
+    "wof:geomhash":"5027207689596df31cfc7c910279cfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108669541
+        }
+    ],
+    "wof:id":1108669541,
+    "wof:lastmodified":1474068628,
+    "wof:name":"Info Fuarcilik Ve Tanitim Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    32.855506897,
+    39.9216041565,
+    32.855506897,
+    39.9216041565
+],
+  "geometry": {"coordinates":[32.855506897,39.9216041565],"type":"Point"}
+}

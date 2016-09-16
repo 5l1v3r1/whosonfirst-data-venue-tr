@@ -1,0 +1,71 @@
+{
+  "id": 1108568273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3137359619,37.0007171631,35.3137359619,37.0007171631",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Metal Sanayi Sitesi 31.sk 32.blk. No:48 / 49",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 429 2287",
+    "sg:postcode":"34660",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C7KxU8XNeIyTFAdq857HW_37.000717_35.313736@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064385,
+    "wof:geomhash":"be1dc0b309ae7cabc26bf816a8deeda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108568273
+        }
+    ],
+    "wof:id":1108568273,
+    "wof:lastmodified":1474064385,
+    "wof:name":"Kutlu Sevindik Makina Sanayi Ve Ticaret",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    35.3137359619,
+    37.0007171631,
+    35.3137359619,
+    37.0007171631
+],
+  "geometry": {"coordinates":[35.3137359619,37.0007171631],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108615381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9892101288,41.0421905518,28.9892101288,41.0421905518",
+    "geom:latitude":41.042191,
+    "geom:longitude":28.98921,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumh. Cd. No:327 Harbiye",
+    "sg:city":"35400",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 1175",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MAYLI3McqSjtQVMcp3V1F_41.042191_28.989210@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066287,
+    "wof:geomhash":"52a3df426baa14f1abb7d8c5ae5752eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":1108615381
+        }
+    ],
+    "wof:id":1108615381,
+    "wof:lastmodified":1474066287,
+    "wof:name":"Garanti Ahsap San.",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9892101288,
+    41.0421905518,
+    28.9892101288,
+    41.0421905518
+],
+  "geometry": {"coordinates":[28.9892101288,41.0421905518],"type":"Point"}
+}

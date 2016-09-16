@@ -1,0 +1,72 @@
+{
+  "id": 1108623421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9776496887,41.024646759,28.9776496887,41.024646759",
+    "geom:latitude":41.024647,
+    "geom:longitude":28.97765,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cd. No:58",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 1200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906577,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LGpe5Xn5BhFgSyrlwu1Xt_41.024647_28.977650@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066605,
+    "wof:geomhash":"897b48909c1178cd9856ef00e1eb1929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906577,
+            "region_id":85679237,
+            "venue_id":1108623421
+        }
+    ],
+    "wof:id":1108623421,
+    "wof:lastmodified":1474066605,
+    "wof:name":"Yetsan Yapi Elemanlari Tic. San. A.s.",
+    "wof:parent_id":85906577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    28.9776496887,
+    41.024646759,
+    28.9776496887,
+    41.024646759
+],
+  "geometry": {"coordinates":[28.9776496887,41.024646759],"type":"Point"}
+}

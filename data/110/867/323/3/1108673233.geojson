@@ -1,0 +1,67 @@
+{
+  "id": 1108673233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9409313202,41.0027542114,28.9409313202,41.0027542114",
+    "geom:latitude":41.002754,
+    "geom:longitude":28.940931,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Samatya Cd. No:162",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 530 7144",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20qicLiTZ81t19t8pfaDte_41.002754_28.940931@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068769,
+    "wof:geomhash":"1c2032ad7af26d803cd6a3eca2bcb107",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108673233
+        }
+    ],
+    "wof:id":1108673233,
+    "wof:lastmodified":1474068769,
+    "wof:name":"Murat Ulusl. ?i?ek?ilik",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9409313202,
+    41.0027542114,
+    28.9409313202,
+    41.0027542114
+],
+  "geometry": {"coordinates":[28.9409313202,41.0027542114],"type":"Point"}
+}

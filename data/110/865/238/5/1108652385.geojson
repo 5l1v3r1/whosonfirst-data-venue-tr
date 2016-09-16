@@ -1,0 +1,71 @@
+{
+  "id": 1108652385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1138019562,41.0196037292,29.1138019562,41.0196037292",
+    "geom:latitude":41.019604,
+    "geom:longitude":29.113802,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dere Sk. Murat Apt. No:16/8",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 248 1555",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5reFkzyos2FV69FCZGZNkn_41.019604_29.113802@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067955,
+    "wof:geomhash":"ce5a12fd4e74f1c2355d20f1c41d858a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108652385
+        }
+    ],
+    "wof:id":1108652385,
+    "wof:lastmodified":1474067955,
+    "wof:name":"Beyin Collection",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1138019562,
+    41.0196037292,
+    29.1138019562,
+    41.0196037292
+],
+  "geometry": {"coordinates":[29.1138019562,41.0196037292],"type":"Point"}
+}

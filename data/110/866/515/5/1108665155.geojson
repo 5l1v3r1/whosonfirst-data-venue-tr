@@ -1,0 +1,73 @@
+{
+  "id": 1108665155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9671115875,41.0545120239,28.9671115875,41.0545120239",
+    "geom:latitude":41.054512,
+    "geom:longitude":28.967112,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.sevket Pasa Mah. Ersan Sok.no: 16 Okmeydani",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 6594",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RPY39DWommQ52wnio6UlH_41.054512_28.967112@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068448,
+    "wof:geomhash":"02f278b3d4aa1754eced4a89348ed782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108665155
+        }
+    ],
+    "wof:id":1108665155,
+    "wof:lastmodified":1474068448,
+    "wof:name":"Jet Dagitim - Servis Buro",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    28.9671115875,
+    41.0545120239,
+    28.9671115875,
+    41.0545120239
+],
+  "geometry": {"coordinates":[28.9671115875,41.0545120239],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108657607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8286628723,41.0020370483,28.8286628723,41.0020370483",
+    "geom:latitude":41.002037,
+    "geom:longitude":28.828663,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?cemal Fidan",
+    "sg:city":"Baklan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 478 651 4002",
+    "sg:postcode":"32500",
+    "sg:province":"Ardahan",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EFxtc0O1lFDaCggvmLl4f_41.002037_28.828663@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068157,
+    "wof:geomhash":"3adc6727dcce729f3f94a7c932f05f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108657607
+        }
+    ],
+    "wof:id":1108657607,
+    "wof:lastmodified":1474068157,
+    "wof:name":"Damal Belediye Baskani",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    28.8286628723,
+    41.0020370483,
+    28.8286628723,
+    41.0020370483
+],
+  "geometry": {"coordinates":[28.8286628723,41.0020370483],"type":"Point"}
+}

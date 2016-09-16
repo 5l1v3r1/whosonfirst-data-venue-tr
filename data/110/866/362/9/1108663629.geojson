@@ -1,0 +1,72 @@
+{
+  "id": 1108663629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8397827148,39.8854446411,32.8397827148,39.8854446411",
+    "geom:latitude":39.885445,
+    "geom:longitude":32.839783,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dikmen Cd. No:199/a",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 470 0290",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nVyTFwY0H1a34JA1n12Ed_39.885445_32.839783@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068390,
+    "wof:geomhash":"810e1e8b63677204cc5b4d5a8282440b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108663629
+        }
+    ],
+    "wof:id":1108663629,
+    "wof:lastmodified":1474068390,
+    "wof:name":"Anil Plastik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8397827148,
+    39.8854446411,
+    32.8397827148,
+    39.8854446411
+],
+  "geometry": {"coordinates":[32.8397827148,39.8854446411],"type":"Point"}
+}

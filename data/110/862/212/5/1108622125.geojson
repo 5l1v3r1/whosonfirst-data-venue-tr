@@ -1,0 +1,74 @@
+{
+  "id": 1108622125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9810943604,41.0416526794,28.9810943604,41.0416526794",
+    "geom:latitude":41.041653,
+    "geom:longitude":28.981094,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taksim Cad.no:121 Taksim",
+    "sg:city":"55020",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 6724",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GbFn9pDGgk7ryhWz2YUiw_41.041653_28.981094@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066559,
+    "wof:geomhash":"a0f26c095dc139350b68734d73e08397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108622125
+        }
+    ],
+    "wof:id":1108622125,
+    "wof:lastmodified":1474066559,
+    "wof:name":"Yalcinkaya Group",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    28.9810943604,
+    41.0416526794,
+    28.9810943604,
+    41.0416526794
+],
+  "geometry": {"coordinates":[28.9810943604,41.0416526794],"type":"Point"}
+}

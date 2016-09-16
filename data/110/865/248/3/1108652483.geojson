@@ -1,0 +1,71 @@
+{
+  "id": 1108652483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9700031281,41.0113067627,28.9700031281,41.0113067627",
+    "geom:latitude":41.011307,
+    "geom:longitude":28.970003,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmakcilar Yokusu No:7/2",
+    "sg:city":"Mercan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 526 6170",
+    "sg:postcode":"12600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4advu22qPsB3zmwy077k2M_41.011307_28.970003@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067959,
+    "wof:geomhash":"39942fe29c08dcd9f15fc42ce8dd9aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108652483
+        }
+    ],
+    "wof:id":1108652483,
+    "wof:lastmodified":1474067959,
+    "wof:name":"Fikir Gomlek Imalat San.tic.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9700031281,
+    41.0113067627,
+    28.9700031281,
+    41.0113067627
+],
+  "geometry": {"coordinates":[28.9700031281,41.0113067627],"type":"Point"}
+}

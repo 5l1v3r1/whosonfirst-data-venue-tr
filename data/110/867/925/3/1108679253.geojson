@@ -1,0 +1,69 @@
+{
+  "id": 1108679253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"31.4437465668,36.7888717651,31.4437465668,36.7888717651",
+    "geom:latitude":36.788872,
+    "geom:longitude":31.443747,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yayla Mh. Selale Cd. No.24",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 246 2332",
+    "sg:postcode":"12345",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "fresh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934649,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S9g84Lu0yaJkyjUJcoQTF_36.788872_31.443747@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069015,
+    "wof:geomhash":"094daf77c3cf7bfaa5567495d1e29be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934649,
+            "region_id":85679263,
+            "venue_id":1108679253
+        }
+    ],
+    "wof:id":1108679253,
+    "wof:lastmodified":1474069015,
+    "wof:name":"Mertler Tarim Tic.ltd.sti.",
+    "wof:parent_id":85934649,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh"
+    ]
+},
+  "bbox": [
+    31.4437465668,
+    36.7888717651,
+    31.4437465668,
+    36.7888717651
+],
+  "geometry": {"coordinates":[31.4437465668,36.7888717651],"type":"Point"}
+}

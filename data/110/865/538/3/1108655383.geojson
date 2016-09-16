@@ -1,0 +1,71 @@
+{
+  "id": 1108655383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1340675354,38.4272346497,27.1340675354,38.4272346497",
+    "geom:latitude":38.427235,
+    "geom:longitude":27.134068,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akdeniz Cd. No:8/405",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 5076",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VuKao6RBAy4Ewzmm93mHo_38.427235_27.134068@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068074,
+    "wof:geomhash":"7f53482494be20e3782cf093b3f2a2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108655383
+        }
+    ],
+    "wof:id":1108655383,
+    "wof:lastmodified":1474068074,
+    "wof:name":"Imaj Madencilik San. Tic. A.s.",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.1340675354,
+    38.4272346497,
+    27.1340675354,
+    38.4272346497
+],
+  "geometry": {"coordinates":[27.1340675354,38.4272346497],"type":"Point"}
+}

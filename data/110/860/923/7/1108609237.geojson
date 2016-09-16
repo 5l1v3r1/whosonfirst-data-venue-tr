@@ -1,0 +1,61 @@
+{
+  "id": 1108609237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0153121948,41.0104064941,29.0153121948,41.0104064941",
+    "geom:latitude":41.010406,
+    "geom:longitude":29.015312,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selimiye Iskele Cd. No:41",
+    "sg:city":"Harem",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 334 7087",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P8y3brpreUpX4SjTG9ATO_41.010406_29.015312@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066045,
+    "wof:geomhash":"4eca14bc7e10cc96c2bc94d7fec14026",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906601,
+            "venue_id":1108609237
+        }
+    ],
+    "wof:id":1108609237,
+    "wof:lastmodified":1474066045,
+    "wof:name":"Mert Uluslararasi Nakliyat A.s.",
+    "wof:parent_id":85906601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0153121948,
+    41.0104064941,
+    29.0153121948,
+    41.0104064941
+],
+  "geometry": {"coordinates":[29.0153121948,41.0104064941],"type":"Point"}
+}

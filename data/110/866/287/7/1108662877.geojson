@@ -1,0 +1,73 @@
+{
+  "id": 1108662877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0364818573,41.092754364,29.0364818573,41.092754364",
+    "geom:latitude":41.092754,
+    "geom:longitude":29.036482,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?tepe Kavsagi No:199 4. Levent",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 6460",
+    "sg:postcode":"01120",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o44RX06qu7i4k0JBCZrWF_41.092754_29.036482@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068360,
+    "wof:geomhash":"b94da5b28f4a8963eddb98e4a8d190b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":1108662877
+        }
+    ],
+    "wof:id":1108662877,
+    "wof:lastmodified":1474068360,
+    "wof:name":"Deva Holding Ilac Fab.",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    29.0364818573,
+    41.092754364,
+    29.0364818573,
+    41.092754364
+],
+  "geometry": {"coordinates":[29.0364818573,41.092754364],"type":"Point"}
+}

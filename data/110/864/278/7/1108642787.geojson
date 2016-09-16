@@ -1,0 +1,73 @@
+{
+  "id": 1108642787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.9345855713,40.7669563293,29.9345855713,40.7669563293",
+    "geom:latitude":40.766956,
+    "geom:longitude":29.934586,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Cad. No:144 Cayirova Gebze/izmit",
+    "sg:city":"Maslak",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 262 744 0386",
+    "sg:postcode":"34398",
+    "sg:province":"Kocaeli",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934721,
+        102191569,
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zU2lg1sQ7lXwSjQmuoHwk_40.766956_29.934586@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067520,
+    "wof:geomhash":"6a4e9ec7656d69b7851ab76dae8e09a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":85934721,
+            "region_id":85679241,
+            "venue_id":1108642787
+        }
+    ],
+    "wof:id":1108642787,
+    "wof:lastmodified":1474067520,
+    "wof:name":"Kale Balata San. A.s",
+    "wof:parent_id":85934721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.9345855713,
+    40.7669563293,
+    29.9345855713,
+    40.7669563293
+],
+  "geometry": {"coordinates":[29.9345855713,40.7669563293],"type":"Point"}
+}

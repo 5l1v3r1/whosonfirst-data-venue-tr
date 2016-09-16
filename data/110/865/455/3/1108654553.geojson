@@ -1,0 +1,71 @@
+{
+  "id": 1108654553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8035507202,41.0602874756,28.8035507202,41.0602874756",
+    "geom:latitude":41.060287,
+    "geom:longitude":28.803551,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.?elebi C. Hikmet Sk. No.32",
+    "sg:city":"Vefa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 9275",
+    "sg:postcode":"43020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930241,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WXFV5kDvcMP5OL3LTbP7X_41.060287_28.803551@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068044,
+    "wof:geomhash":"76983843ff0e35505205238130ce293b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930241,
+            "region_id":85679237,
+            "venue_id":1108654553
+        }
+    ],
+    "wof:id":1108654553,
+    "wof:lastmodified":1474068044,
+    "wof:name":"Doy S?t Mam. San.a.s.",
+    "wof:parent_id":85930241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    28.8035507202,
+    41.0602874756,
+    28.8035507202,
+    41.0602874756
+],
+  "geometry": {"coordinates":[28.8035507202,41.0602874756],"type":"Point"}
+}

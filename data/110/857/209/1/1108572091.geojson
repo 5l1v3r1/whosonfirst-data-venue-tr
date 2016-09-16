@@ -1,0 +1,68 @@
+{
+  "id": 1108572091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0031414032,41.0858535767,29.0031414032,41.0858535767",
+    "geom:latitude":41.085854,
+    "geom:longitude":29.003141,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akarsu Cd. Bozkurt Sk. No:10 4.levent",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 7632",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A1olFwVKNFijzb9R5Legi_41.085854_29.003141@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064543,
+    "wof:geomhash":"58a0ff6d87c46766bb7312b941c2c38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108572091
+        }
+    ],
+    "wof:id":1108572091,
+    "wof:lastmodified":1474064543,
+    "wof:name":"Plastimak Plastik Profil Enjeksiyon San.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0031414032,
+    41.0858535767,
+    29.0031414032,
+    41.0858535767
+],
+  "geometry": {"coordinates":[29.0031414032,41.0858535767],"type":"Point"}
+}

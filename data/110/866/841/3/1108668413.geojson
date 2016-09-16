@@ -1,0 +1,69 @@
+{
+  "id": 1108668413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2832832336,40.8686752319,29.2832832336,40.8686752319",
+    "geom:latitude":40.868675,
+    "geom:longitude":29.283283,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cad. 113/7",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 273 2696",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06kwPZa3su1YITGExOq4XI_40.868675_29.283283@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068584,
+    "wof:geomhash":"e568452442584c2c9f44f1b6f6529483",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108668413
+        }
+    ],
+    "wof:id":1108668413,
+    "wof:lastmodified":1474068584,
+    "wof:name":"Tuerkische Allgemeine Zeitung",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.2832832336,
+    40.8686752319,
+    29.2832832336,
+    40.8686752319
+],
+  "geometry": {"coordinates":[29.2832832336,40.8686752319],"type":"Point"}
+}

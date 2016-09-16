@@ -1,0 +1,73 @@
+{
+  "id": 1108678135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9873886108,41.052444458,28.9873886108,41.052444458",
+    "geom:latitude":41.052444,
+    "geom:longitude":28.987389,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cd. No:219 D:2 Osmanbey",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 4141",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oV43Nt5SRgIuKyaTGYHGy_41.052444_28.987389@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068969,
+    "wof:geomhash":"52f2b4e4006d7b2e5e5e762e1b7917d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108678135
+        }
+    ],
+    "wof:id":1108678135,
+    "wof:lastmodified":1474068969,
+    "wof:name":"Turk Romatizma Vakfi",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9873886108,
+    41.052444458,
+    28.9873886108,
+    41.052444458
+],
+  "geometry": {"coordinates":[28.9873886108,41.052444458],"type":"Point"}
+}

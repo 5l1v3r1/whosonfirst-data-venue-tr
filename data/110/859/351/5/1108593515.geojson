@@ -1,0 +1,70 @@
+{
+  "id": 1108593515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7980957031,41.0047416687,28.7980957031,41.0047416687",
+    "geom:latitude":41.004742,
+    "geom:longitude":28.798096,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez Cd. No:32",
+    "sg:city":"Sefak?",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 580 0801",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vsql5fHY7nx9tYYXnUupr_41.004742_28.798096@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065364,
+    "wof:geomhash":"34a6bd719948627cf94dcbb2a3868863",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108593515
+        }
+    ],
+    "wof:id":1108593515,
+    "wof:lastmodified":1474065364,
+    "wof:name":"B?y?k S?mer Tekstil San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    28.7980957031,
+    41.0047416687,
+    28.7980957031,
+    41.0047416687
+],
+  "geometry": {"coordinates":[28.7980957031,41.0047416687],"type":"Point"}
+}

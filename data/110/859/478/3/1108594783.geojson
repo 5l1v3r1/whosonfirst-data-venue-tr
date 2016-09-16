@@ -1,0 +1,67 @@
+{
+  "id": 1108594783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7152194977,40.9785728455,28.7152194977,40.9785728455",
+    "geom:latitude":40.978573,
+    "geom:longitude":28.715219,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anbarlidere Mah.fatih Sok.no:8/21.",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 263 1919",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_643rNDGjQkrhZf6ldiTMDF_40.978573_28.715219@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065412,
+    "wof:geomhash":"d5eb1ff6857b46f339482b480efc3297",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930285,
+            "venue_id":1108594783
+        }
+    ],
+    "wof:id":1108594783,
+    "wof:lastmodified":1474065412,
+    "wof:name":"Isik Peysaj Mimarligi Ltd.",
+    "wof:parent_id":85930285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    28.7152194977,
+    40.9785728455,
+    28.7152194977,
+    40.9785728455
+],
+  "geometry": {"coordinates":[28.7152194977,40.9785728455],"type":"Point"}
+}

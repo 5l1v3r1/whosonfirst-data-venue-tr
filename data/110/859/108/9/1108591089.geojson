@@ -1,0 +1,69 @@
+{
+  "id": 1108591089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9666938782,41.0150642395,28.9666938782,41.0150642395",
+    "geom:latitude":41.015064,
+    "geom:longitude":28.966694,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ismetiye Cad. No: Suleymaniye",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 1180",
+    "sg:postcode":"16030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906465,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SYnFtCG0x2sVlol5l7blY_41.015064_28.966694@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065274,
+    "wof:geomhash":"ca96789ecd221e45771fe6c0cee246a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906465,
+            "region_id":85679237,
+            "venue_id":1108591089
+        }
+    ],
+    "wof:id":1108591089,
+    "wof:lastmodified":1474065274,
+    "wof:name":"Nural Ticaret",
+    "wof:parent_id":85906465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    28.9666938782,
+    41.0150642395,
+    28.9666938782,
+    41.0150642395
+],
+  "geometry": {"coordinates":[28.9666938782,41.0150642395],"type":"Point"}
+}

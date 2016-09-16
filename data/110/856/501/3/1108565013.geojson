@@ -1,0 +1,73 @@
+{
+  "id": 1108565013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0236129761,41.0845069885,29.0236129761,41.0845069885",
+    "geom:latitude":41.084507,
+    "geom:longitude":29.023613,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Degirmen Yolu Cd. No:2/5 I?renk?",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 361 1198",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gasket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24rPj7l6TrdzO61z6PgRpN_41.084507_29.023613@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064203,
+    "wof:geomhash":"1d223c5ae817e8d03857a32ae051af30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":1108565013
+        }
+    ],
+    "wof:id":1108565013,
+    "wof:lastmodified":1474064203,
+    "wof:name":"D?nmez Conta San.",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasket"
+    ]
+},
+  "bbox": [
+    29.0236129761,
+    41.0845069885,
+    29.0236129761,
+    41.0845069885
+],
+  "geometry": {"coordinates":[29.0236129761,41.0845069885],"type":"Point"}
+}

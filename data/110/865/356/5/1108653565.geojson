@@ -1,0 +1,73 @@
+{
+  "id": 1108653565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8428955078,40.994228363,28.8428955078,40.994228363",
+    "geom:latitude":40.994228,
+    "geom:longitude":28.842896,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahmutbey Cd. No:24/1 Sirinevler",
+    "sg:city":"B. ?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 8462",
+    "sg:postcode":"34400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eLWEcTtpgJWT63snRiwfv_40.994228_28.842896@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068004,
+    "wof:geomhash":"cdb41065c618dc7cd1f8105e2985b752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108653565
+        }
+    ],
+    "wof:id":1108653565,
+    "wof:lastmodified":1474068004,
+    "wof:name":"Klas Metal San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8428955078,
+    40.994228363,
+    28.8428955078,
+    40.994228363
+],
+  "geometry": {"coordinates":[28.8428955078,40.994228363],"type":"Point"}
+}

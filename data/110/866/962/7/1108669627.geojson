@@ -1,0 +1,73 @@
+{
+  "id": 1108669627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0455760956,40.9914360046,29.0455760956,40.9914360046",
+    "geom:latitude":40.991436,
+    "geom:longitude":29.045576,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Mithat Efendi Cad. No: 6/1 Kalamis",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MbXMQHl6KsluGpLAYVYX5_40.991436_29.045576@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068631,
+    "wof:geomhash":"9f1dfcf6440848105f96698ca4acbffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108669627
+        }
+    ],
+    "wof:id":1108669627,
+    "wof:lastmodified":1474068631,
+    "wof:name":"Sen Uluslararasi Fuar Ve Sergi Hizmetleri A.s.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    29.0455760956,
+    40.9914360046,
+    29.0455760956,
+    40.9914360046
+],
+  "geometry": {"coordinates":[29.0455760956,40.9914360046],"type":"Point"}
+}

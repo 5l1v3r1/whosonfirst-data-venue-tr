@@ -1,0 +1,67 @@
+{
+  "id": 1108614343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0748081207,40.9804801941,29.0748081207,40.9804801941",
+    "geom:latitude":40.98048,
+    "geom:longitude":29.074808,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fahrettin Kerim G?ay Cad.no:57 - Kadik?",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 4027",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24puNKMw7E1mB7jIL5gDO4_40.980480_29.074808@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066247,
+    "wof:geomhash":"2644a89133ceb020189b5a83b8562533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108614343
+        }
+    ],
+    "wof:id":1108614343,
+    "wof:lastmodified":1474066247,
+    "wof:name":"Kasdav Saglik Merkezi",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0748081207,
+    40.9804801941,
+    29.0748081207,
+    40.9804801941
+],
+  "geometry": {"coordinates":[29.0748081207,40.9804801941],"type":"Point"}
+}

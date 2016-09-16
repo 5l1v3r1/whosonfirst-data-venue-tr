@@ -1,0 +1,68 @@
+{
+  "id": 1108653953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1449680328,38.4333343506,27.1449680328,38.4333343506",
+    "geom:latitude":38.433334,
+    "geom:longitude":27.144968,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1408 Sk.no:7/1 Alsancak",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BePK6q1hQTEI0NocFUKL5_38.433334_27.144968@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068016,
+    "wof:geomhash":"bdd979ccb99542336b8d2f2ae77a1472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108653953
+        }
+    ],
+    "wof:id":1108653953,
+    "wof:lastmodified":1474068016,
+    "wof:name":"Talat Kutlukaya Insaat Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1449680328,
+    38.4333343506,
+    27.1449680328,
+    38.4333343506
+],
+  "geometry": {"coordinates":[27.1449680328,38.4333343506],"type":"Point"}
+}

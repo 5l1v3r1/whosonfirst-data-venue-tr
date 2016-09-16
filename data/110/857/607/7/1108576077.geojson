@@ -1,0 +1,68 @@
+{
+  "id": 1108576077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.886554718,41.0152053833,28.886554718,41.0152053833",
+    "geom:latitude":41.015205,
+    "geom:longitude":28.886555,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Savas Cad. No:9/1",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 8080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kptCtyOyMy2SpWpaKY3Pc_41.015205_28.886555@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064703,
+    "wof:geomhash":"1cdff999bea955ba35fd7ad6730b12a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108576077
+        }
+    ],
+    "wof:id":1108576077,
+    "wof:lastmodified":1474064703,
+    "wof:name":"Devrim Komus Elastik Iplik Ve Likra Pazarlama",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.886554718,
+    41.0152053833,
+    28.886554718,
+    41.0152053833
+],
+  "geometry": {"coordinates":[28.886554718,41.0152053833],"type":"Point"}
+}

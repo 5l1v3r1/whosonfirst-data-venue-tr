@@ -1,0 +1,69 @@
+{
+  "id": 1108593843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1676502228,38.4341011047,27.1676502228,38.4341011047",
+    "geom:latitude":38.434101,
+    "geom:longitude":27.16765,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2834 Sok No:15 1. San Sit",
+    "sg:city":"Mersinli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 433 8031",
+    "sg:postcode":"35110",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h1ghWdpeNqyhemGM2p7aZ_38.434101_27.167650@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065376,
+    "wof:geomhash":"de1522f6eb5cf86eb12a3a512dc3da55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108593843
+        }
+    ],
+    "wof:id":1108593843,
+    "wof:lastmodified":1474065376,
+    "wof:name":"?zkan Kaynak",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    27.1676502228,
+    38.4341011047,
+    27.1676502228,
+    38.4341011047
+],
+  "geometry": {"coordinates":[27.1676502228,38.4341011047],"type":"Point"}
+}

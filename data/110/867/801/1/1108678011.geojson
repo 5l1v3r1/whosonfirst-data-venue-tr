@@ -1,0 +1,73 @@
+{
+  "id": 1108678011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7363166809,40.9826164246,28.7363166809,40.9826164246",
+    "geom:latitude":40.982616,
+    "geom:longitude":28.736317,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cad. Bekar Sok. No:22/2 Beyoglu",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 5252",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IwCnjDOGLKWhbxdX9tQK4_40.982616_28.736317@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068961,
+    "wof:geomhash":"77c3e4334fbed70d7fa8e78c08151cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":1108678011
+        }
+    ],
+    "wof:id":1108678011,
+    "wof:lastmodified":1474068961,
+    "wof:name":"Sodev-sosyal Demokrasi Vakfi",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.7363166809,
+    40.9826164246,
+    28.7363166809,
+    40.9826164246
+],
+  "geometry": {"coordinates":[28.7363166809,40.9826164246],"type":"Point"}
+}

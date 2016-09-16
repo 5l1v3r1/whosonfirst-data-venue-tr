@@ -1,0 +1,66 @@
+{
+  "id": 1108608703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0406761169,40.97290802,29.0406761169,40.97290802",
+    "geom:latitude":40.972908,
+    "geom:longitude":29.040676,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fener Kalamis Cad.no:52",
+    "sg:city":"Kalamis",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 414 4490",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KvEziJFKuCPCtQJVi66Oy_40.972908_29.040676@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066015,
+    "wof:geomhash":"3947eab8f3be61723545e6526423bb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108608703
+        }
+    ],
+    "wof:id":1108608703,
+    "wof:lastmodified":1474066015,
+    "wof:name":"Aslan Adiguzel Co.ltd.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0406761169,
+    40.97290802,
+    29.0406761169,
+    40.97290802
+],
+  "geometry": {"coordinates":[29.0406761169,40.97290802],"type":"Point"}
+}

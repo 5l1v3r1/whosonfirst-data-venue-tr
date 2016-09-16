@@ -1,0 +1,75 @@
+{
+  "id": 1108593773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0016727448,41.0439529419,29.0016727448,41.0439529419",
+    "geom:latitude":41.043953,
+    "geom:longitude":29.001673,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Nedim Cd. Visnezade Mh. No:97/a",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 2417",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TVXf7HTVCMVdKzyRlWAaW_41.043953_29.001673@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065373,
+    "wof:geomhash":"26824d02f8092412c6e22887ece25965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108593773
+        }
+    ],
+    "wof:id":1108593773,
+    "wof:lastmodified":1474065373,
+    "wof:name":"??z?m Mefrusat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    29.0016727448,
+    41.0439529419,
+    29.0016727448,
+    41.0439529419
+],
+  "geometry": {"coordinates":[29.0016727448,41.0439529419],"type":"Point"}
+}

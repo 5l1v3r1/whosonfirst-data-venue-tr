@@ -1,0 +1,69 @@
+{
+  "id": 1108678991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9674797058,41.0096588135,28.9674797058,41.0096588135",
+    "geom:latitude":41.009659,
+    "geom:longitude":28.96748,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yogurt Paz.ozyurt Ish.k:1 No:1/2",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 232 2715",
+    "sg:postcode":"80030",
+    "sg:province":"I?el",
+    "sg:tags":[
+        "fresh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906619,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XScFVm9AfBKf1zpdkGdwJ_41.009659_28.967480@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069006,
+    "wof:geomhash":"4a3aae98b9cec8becd259f2ea5cb40c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906619,
+            "region_id":85679237,
+            "venue_id":1108678991
+        }
+    ],
+    "wof:id":1108678991,
+    "wof:lastmodified":1474069006,
+    "wof:name":"Anka Tic.ltd.",
+    "wof:parent_id":85906619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh"
+    ]
+},
+  "bbox": [
+    28.9674797058,
+    41.0096588135,
+    28.9674797058,
+    41.0096588135
+],
+  "geometry": {"coordinates":[28.9674797058,41.0096588135],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108598601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.03881073,40.986125946,29.03881073,40.986125946",
+    "geom:latitude":40.986126,
+    "geom:longitude":29.038811,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:111/21",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 3973",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904173,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DJOUg46wvRwzrfotvR5Fv_40.986126_29.038811@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065570,
+    "wof:geomhash":"00ab3acd1e7dc8b3ba249a5390fcd71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904173,
+            "region_id":85679237,
+            "venue_id":1108598601
+        }
+    ],
+    "wof:id":1108598601,
+    "wof:lastmodified":1474065570,
+    "wof:name":"Acar Simge Tic.",
+    "wof:parent_id":85904173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.03881073,
+    40.986125946,
+    29.03881073,
+    40.986125946
+],
+  "geometry": {"coordinates":[29.03881073,40.986125946],"type":"Point"}
+}

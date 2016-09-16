@@ -1,0 +1,79 @@
+{
+  "id": 1108672727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0197162628,41.0184059143,29.0197162628,41.0184059143",
+    "geom:latitude":41.018406,
+    "geom:longitude":29.019716,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"F. Selimpasa Cd. No:9/3",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 539 9450",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929377,
+        102191569,
+        85632393,
+        101912675,
+        85679237,
+        85906601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RfgYLZAdIhQvtSTQq986W_41.018406_29.019716@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068744,
+    "wof:geomhash":"6497608ca5b5961b6acb777e39592485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929377,
+            "region_id":85679237,
+            "venue_id":1108672727
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906601,
+            "venue_id":1108672727
+        }
+    ],
+    "wof:id":1108672727,
+    "wof:lastmodified":1474068744,
+    "wof:name":"Altay ?i?ek?ilik",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0197162628,
+    41.0184059143,
+    29.0197162628,
+    41.0184059143
+],
+  "geometry": {"coordinates":[29.0197162628,41.0184059143],"type":"Point"}
+}

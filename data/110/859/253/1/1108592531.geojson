@@ -1,0 +1,77 @@
+{
+  "id": 1108592531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0130138397,41.0709114075,29.0130138397,41.0709114075",
+    "geom:latitude":41.070911,
+    "geom:longitude":29.013014,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koresehitleri Cad. No: 43",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 213 4219",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K6zxqxV2g2KAWcrD0O675_41.070911_29.013014@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065327,
+    "wof:geomhash":"ab33b4354ac7feb229a00465c305302e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108592531
+        }
+    ],
+    "wof:id":1108592531,
+    "wof:lastmodified":1474065327,
+    "wof:name":"Doysan Yag Sanayi A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ]
+},
+  "bbox": [
+    29.0130138397,
+    41.0709114075,
+    29.0130138397,
+    41.0709114075
+],
+  "geometry": {"coordinates":[29.0130138397,41.0709114075],"type":"Point"}
+}

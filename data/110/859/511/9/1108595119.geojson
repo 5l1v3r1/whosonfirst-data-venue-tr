@@ -1,0 +1,74 @@
+{
+  "id": 1108595119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0116100311,41.0619277954,29.0116100311,41.0619277954",
+    "geom:latitude":41.061928,
+    "geom:longitude":29.01161,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari 44/8 Balmumcu",
+    "sg:city":"42200",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 8283",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qeZ8Gijrkv6FlmFf7eaKL_41.061928_29.011610@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065424,
+    "wof:geomhash":"f82d7afcd87f3c4295db098180700728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108595119
+        }
+    ],
+    "wof:id":1108595119,
+    "wof:lastmodified":1474065424,
+    "wof:name":"The Sandwich Method",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "language"
+    ]
+},
+  "bbox": [
+    29.0116100311,
+    41.0619277954,
+    29.0116100311,
+    41.0619277954
+],
+  "geometry": {"coordinates":[29.0116100311,41.0619277954],"type":"Point"}
+}

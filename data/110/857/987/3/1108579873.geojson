@@ -1,0 +1,66 @@
+{
+  "id": 1108579873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2745628357,40.8692016602,29.2745628357,40.8692016602",
+    "geom:latitude":40.869202,
+    "geom:longitude":29.274563,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tersane Cd. Karak?",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 4133",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TPLI30DRwFS4RCsIGuFy4_40.869202_29.274563@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064961,
+    "wof:geomhash":"6f662d459b8bf1513775630359f742b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108579873
+        }
+    ],
+    "wof:id":1108579873,
+    "wof:lastmodified":1474064961,
+    "wof:name":"Bilmak Rulman A.s.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.2745628357,
+    40.8692016602,
+    29.2745628357,
+    40.8692016602
+],
+  "geometry": {"coordinates":[29.2745628357,40.8692016602],"type":"Point"}
+}

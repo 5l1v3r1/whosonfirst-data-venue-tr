@@ -1,0 +1,68 @@
+{
+  "id": 1108649191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5154705048,39.7782936096,30.5154705048,39.7782936096",
+    "geom:latitude":39.778294,
+    "geom:longitude":30.515471,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari No: 128/a",
+    "sg:city":"Nazilli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 226 4316",
+    "sg:postcode":"65600",
+    "sg:province":"Eskisehir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934771,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QOapE1QkYLrzaihrVarup_39.778294_30.515471@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067807,
+    "wof:geomhash":"0dd8f842940b9e8a835c6867ed05be6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255,
+            "venue_id":1108649191
+        }
+    ],
+    "wof:id":1108649191,
+    "wof:lastmodified":1474067807,
+    "wof:name":"Medalp Tibbi Cihaz Ve Sarf Malz.",
+    "wof:parent_id":85934771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5154705048,
+    39.7782936096,
+    30.5154705048,
+    39.7782936096
+],
+  "geometry": {"coordinates":[30.5154705048,39.7782936096],"type":"Point"}
+}

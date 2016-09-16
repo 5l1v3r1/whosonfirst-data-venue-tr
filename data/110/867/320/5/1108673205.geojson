@@ -1,0 +1,73 @@
+{
+  "id": 1108673205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0423545837,41.0168533325,29.0423545837,41.0168533325",
+    "geom:latitude":41.016853,
+    "geom:longitude":29.042355,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tophanelioglu Cad. Sirmaperde Sok. Ozyurt Sitesi Akun Apt.a Blok No: 86",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 5824",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04yeJwzpsdVnnFYD5zqFV0_41.016853_29.042355@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068768,
+    "wof:geomhash":"c6009bb52e4aeb498153313848772c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108673205
+        }
+    ],
+    "wof:id":1108673205,
+    "wof:lastmodified":1474068768,
+    "wof:name":"Mesa Uluslararasi Cicekcilik Ltd.sti.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0423545837,
+    41.0168533325,
+    29.0423545837,
+    41.0168533325
+],
+  "geometry": {"coordinates":[29.0423545837,41.0168533325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108596867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1646156311,38.4265327454,27.1646156311,38.4265327454",
+    "geom:latitude":38.426533,
+    "geom:longitude":27.164616,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1249 Sk. No: 12",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 459 5154",
+    "sg:postcode":"34420",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TEB4b872c4iSW7hUilI85_38.426533_27.164616@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065508,
+    "wof:geomhash":"c44671681de59b5a64b9db6cf809611f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108596867
+        }
+    ],
+    "wof:id":1108596867,
+    "wof:lastmodified":1474065508,
+    "wof:name":"Krom Deri San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1646156311,
+    38.4265327454,
+    27.1646156311,
+    38.4265327454
+],
+  "geometry": {"coordinates":[27.1646156311,38.4265327454],"type":"Point"}
+}

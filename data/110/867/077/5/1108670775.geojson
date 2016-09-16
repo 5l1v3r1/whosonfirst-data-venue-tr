@@ -1,0 +1,83 @@
+{
+  "id": 1108670775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9850215912,41.0334815979,28.9850215912,41.0334815979",
+    "geom:latitude":41.033482,
+    "geom:longitude":28.985022,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siraselviler Cad. Arslanyatagi Sok. No:5 Taksim",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 4672",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113,
+        85906571,
+        102191569,
+        101913185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pceh9i67XOlMqfybLEg3q_41.033482_28.985022@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068674,
+    "wof:geomhash":"a2e6377dc4410515f643e462c787a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":1108670775
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906571,
+            "region_id":85679237,
+            "venue_id":1108670775
+        }
+    ],
+    "wof:id":1108670775,
+    "wof:lastmodified":1474068674,
+    "wof:name":"Z-1 Film Atolyesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    28.9850215912,
+    41.0334815979,
+    28.9850215912,
+    41.0334815979
+],
+  "geometry": {"coordinates":[28.9850215912,41.0334815979],"type":"Point"}
+}

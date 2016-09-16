@@ -1,0 +1,69 @@
+{
+  "id": 1108577807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8926124573,39.9630088806,32.8926124573,39.9630088806",
+    "geom:latitude":39.963009,
+    "geom:longitude":32.892612,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulubat Sk. No:9/1 Siteler",
+    "sg:city":"?aglayan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 2549",
+    "sg:postcode":"80340",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AgVAxiG3Ivqxx7a4cjRjY_39.963009_32.892612@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064843,
+    "wof:geomhash":"42fbabf28af10d8daea4a40a3353a0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108577807
+        }
+    ],
+    "wof:id":1108577807,
+    "wof:lastmodified":1474064843,
+    "wof:name":"Nadir Usta",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    32.8926124573,
+    39.9630088806,
+    32.8926124573,
+    39.9630088806
+],
+  "geometry": {"coordinates":[32.8926124573,39.9630088806],"type":"Point"}
+}

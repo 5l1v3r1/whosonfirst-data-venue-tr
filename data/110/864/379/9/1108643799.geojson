@@ -1,0 +1,70 @@
+{
+  "id": 1108643799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1586055756,41.0000457764,29.1586055756,41.0000457764",
+    "geom:latitude":41.000046,
+    "geom:longitude":29.158606,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imes Sanayi Sitesi E Blok 504 Sok. No:15",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 5932",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "electricity",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43FX9iUt3VysPwwIPUdKit_41.000046_29.158606@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067555,
+    "wof:geomhash":"3649012af59b807d9faa5d0f4e267d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108643799
+        }
+    ],
+    "wof:id":1108643799,
+    "wof:lastmodified":1474067555,
+    "wof:name":"Kanaat Oto Elektirik",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity",
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.1586055756,
+    41.0000457764,
+    29.1586055756,
+    41.0000457764
+],
+  "geometry": {"coordinates":[29.1586055756,41.0000457764],"type":"Point"}
+}

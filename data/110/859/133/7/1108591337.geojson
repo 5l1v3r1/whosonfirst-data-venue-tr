@@ -1,0 +1,71 @@
+{
+  "id": 1108591337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1026210785,40.9511184692,29.1026210785,40.9511184692",
+    "geom:latitude":40.951118,
+    "geom:longitude":29.102621,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad.no:91",
+    "sg:city":"K?c?kyali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 489 0224",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uj0dCQzWPvSnwBgKX56Il_40.951118_29.102621@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065286,
+    "wof:geomhash":"933d51e165b0a44170c06258fb5128ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108591337
+        }
+    ],
+    "wof:id":1108591337,
+    "wof:lastmodified":1474065286,
+    "wof:name":"Uzay Mutfak&banyo",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.1026210785,
+    40.9511184692,
+    29.1026210785,
+    40.9511184692
+],
+  "geometry": {"coordinates":[29.1026210785,40.9511184692],"type":"Point"}
+}

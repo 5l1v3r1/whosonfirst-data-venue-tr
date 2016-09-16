@@ -1,0 +1,68 @@
+{
+  "id": 1108609437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9804229736,41.025718689,28.9804229736,41.025718689",
+    "geom:latitude":41.025719,
+    "geom:longitude":28.980423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mumhane Cd. No:48",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 0903",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BMLmcw1KAHMKZIhJ9XJrL_41.025719_28.980423@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066052,
+    "wof:geomhash":"03ffd2c5c7d6d2b93ee8af00a11c7a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":1108609437
+        }
+    ],
+    "wof:id":1108609437,
+    "wof:lastmodified":1474066052,
+    "wof:name":"Senol Uluslararasi Nakliyat Tic.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9804229736,
+    41.025718689,
+    28.9804229736,
+    41.025718689
+],
+  "geometry": {"coordinates":[28.9804229736,41.025718689],"type":"Point"}
+}

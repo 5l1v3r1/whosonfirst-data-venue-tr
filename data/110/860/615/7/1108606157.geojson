@@ -1,0 +1,71 @@
+{
+  "id": 1108606157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9239711761,41.0166244507,28.9239711761,41.0166244507",
+    "geom:latitude":41.016624,
+    "geom:longitude":28.923971,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K?alti Mevki",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 503 8100",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ehsSzjfN1s7ypS6VaXBnM_41.016624_28.923971@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065892,
+    "wof:geomhash":"b39ab855ca239e202b3ad99282b8628a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108606157
+        }
+    ],
+    "wof:id":1108606157,
+    "wof:lastmodified":1474065892,
+    "wof:name":"Kom Tekstil Konfeksiyon A.s.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9239711761,
+    41.0166244507,
+    28.9239711761,
+    41.0166244507
+],
+  "geometry": {"coordinates":[28.9239711761,41.0166244507],"type":"Point"}
+}

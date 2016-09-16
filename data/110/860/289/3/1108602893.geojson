@@ -1,0 +1,71 @@
+{
+  "id": 1108602893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9538021088,41.0096511841,28.9538021088,41.0096511841",
+    "geom:latitude":41.009651,
+    "geom:longitude":28.953802,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordu Caddesi 206/1",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 4231",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906507,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pnYGr5wZk1e9tYbZhjmfR_41.009651_28.953802@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065750,
+    "wof:geomhash":"dc025d6bb4b8b9448b39c0b58fd61dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906507,
+            "region_id":85679237,
+            "venue_id":1108602893
+        }
+    ],
+    "wof:id":1108602893,
+    "wof:lastmodified":1474065750,
+    "wof:name":"Adria (slavonian) Airways",
+    "wof:parent_id":85906507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9538021088,
+    41.0096511841,
+    28.9538021088,
+    41.0096511841
+],
+  "geometry": {"coordinates":[28.9538021088,41.0096511841],"type":"Point"}
+}

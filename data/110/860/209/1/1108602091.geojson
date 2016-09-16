@@ -1,0 +1,69 @@
+{
+  "id": 1108602091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1294975281,40.9225273132,29.1294975281,40.9225273132",
+    "geom:latitude":40.922527,
+    "geom:longitude":29.129498,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad.yucelen Sok. No:5/b",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 459 6899",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSTgUDJgikr8y8HgQV8IK_40.922527_29.129498@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065720,
+    "wof:geomhash":"71bb38408a1c0a2c44e53597495becca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108602091
+        }
+    ],
+    "wof:id":1108602091,
+    "wof:lastmodified":1474065720,
+    "wof:name":"Gur Teknik Tes.yetkili Servisi",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1294975281,
+    40.9225273132,
+    29.1294975281,
+    40.9225273132
+],
+  "geometry": {"coordinates":[29.1294975281,40.9225273132],"type":"Point"}
+}

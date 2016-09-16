@@ -1,0 +1,82 @@
+{
+  "id": 1108581845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.99842453,41.0696411133,28.99842453,41.0696411133",
+    "geom:latitude":41.069641,
+    "geom:longitude":28.998425,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cd. No:84 Mecidiyek?",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 0237",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85929407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AXTg2pxNRLnXO2nr5Lugj_41.069641_28.998425@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065060,
+    "wof:geomhash":"208c981b70df11922f2eb3244d032afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108581845
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108581845
+        }
+    ],
+    "wof:id":1108581845,
+    "wof:lastmodified":1474065060,
+    "wof:name":"Tasit San. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    28.99842453,
+    41.0696411133,
+    28.99842453,
+    41.0696411133
+],
+  "geometry": {"coordinates":[28.99842453,41.0696411133],"type":"Point"}
+}

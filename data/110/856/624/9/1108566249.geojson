@@ -1,0 +1,85 @@
+{
+  "id": 1108566249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0414562225,40.9799995422,29.0414562225,40.9799995422",
+    "geom:latitude":40.98,
+    "geom:longitude":29.041456,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalamis Fener Cad. No:7/1 Kadikoy",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216348472829",
+    "sg:postcode":"34870",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237,
+        85904119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wqAtHIXPAwapvdjE8tL1i_40.980000_29.041456@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064297,
+    "wof:geomhash":"47d4c14dccfccc3f40e88be2602470ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108566249
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904119,
+            "region_id":85679237,
+            "venue_id":1108566249
+        }
+    ],
+    "wof:id":1108566249,
+    "wof:lastmodified":1474064297,
+    "wof:name":"Anamak Anadolu Manina San. Ve Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0414562225,
+    40.9799995422,
+    29.0414562225,
+    40.9799995422
+],
+  "geometry": {"coordinates":[29.0414562225,40.9799995422],"type":"Point"}
+}

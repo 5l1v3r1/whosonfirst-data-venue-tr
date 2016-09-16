@@ -1,0 +1,71 @@
+{
+  "id": 1108655119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9962177277,41.0907287598,28.9962177277,41.0907287598",
+    "geom:latitude":41.090729,
+    "geom:longitude":28.996218,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sultan Selim Cd. Bereket Sk. No:4 4.levent",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 0263",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wjNO64K3VcIApxKBik1Xv_41.090729_28.996218@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068063,
+    "wof:geomhash":"12e5c68633cd7a0bf98ba1b18877cdc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108655119
+        }
+    ],
+    "wof:id":1108655119,
+    "wof:lastmodified":1474068063,
+    "wof:name":"Budak Hafriyat Maden San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9962177277,
+    41.0907287598,
+    28.9962177277,
+    41.0907287598
+],
+  "geometry": {"coordinates":[28.9962177277,41.0907287598],"type":"Point"}
+}

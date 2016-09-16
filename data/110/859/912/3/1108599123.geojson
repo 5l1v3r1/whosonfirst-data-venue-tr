@@ -1,0 +1,83 @@
+{
+  "id": 1108599123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9715137482,41.0337905884,28.9715137482,41.0337905884",
+    "geom:latitude":41.033791,
+    "geom:longitude":28.971514,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emekyemez Mh. Mektep Sk. No:37",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 5876",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906537,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AekuWrCZMHYh1kqWtkbmu_41.033791_28.971514@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065594,
+    "wof:geomhash":"47dc33f351c0e10cdaa962e1865be033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906537,
+            "region_id":85679237,
+            "venue_id":1108599123
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":1108599123
+        }
+    ],
+    "wof:id":1108599123,
+    "wof:lastmodified":1474065594,
+    "wof:name":"Murat Avize Aydinlatma San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9715137482,
+    41.0337905884,
+    28.9715137482,
+    41.0337905884
+],
+  "geometry": {"coordinates":[28.9715137482,41.0337905884],"type":"Point"}
+}

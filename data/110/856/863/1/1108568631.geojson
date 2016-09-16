@@ -1,0 +1,70 @@
+{
+  "id": 1108568631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.135017395,38.4252700806,27.135017395,38.4252700806",
+    "geom:latitude":38.42527,
+    "geom:longitude":27.135017,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1338 Sokak No:1 K:3/301 ?ankaya",
+    "sg:city":"41020",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 484 9604",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5louV4jI6TNmqREEN4zB5H_38.425270_27.135017@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064398,
+    "wof:geomhash":"f778c4ba445d8fcd696b76e72ad6cadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108568631
+        }
+    ],
+    "wof:id":1108568631,
+    "wof:lastmodified":1474064398,
+    "wof:name":"Mutsu M?hendislik Makina Sanayi Ve Ticaret",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.135017395,
+    38.4252700806,
+    27.135017395,
+    38.4252700806
+],
+  "geometry": {"coordinates":[27.135017395,38.4252700806],"type":"Point"}
+}

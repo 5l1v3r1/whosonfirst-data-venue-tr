@@ -1,0 +1,68 @@
+{
+  "id": 1108591423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9126701355,41.0204658508,28.9126701355,41.0204658508",
+    "geom:latitude":41.020466,
+    "geom:longitude":28.91267,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Numunebag Cd. Suntas Ismerk. No:1/e Topkapi, Maltepe",
+    "sg:city":"34500",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 8089",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DD826o9GMAEkquSUGHxc6_41.020466_28.912670@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065288,
+    "wof:geomhash":"ac316a1e9ecda12b42c30fe576232784",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108591423
+        }
+    ],
+    "wof:id":1108591423,
+    "wof:lastmodified":1474065288,
+    "wof:name":"?zlem Mutfak San.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    28.9126701355,
+    41.0204658508,
+    28.9126701355,
+    41.0204658508
+],
+  "geometry": {"coordinates":[28.9126701355,41.0204658508],"type":"Point"}
+}

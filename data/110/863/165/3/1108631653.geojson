@@ -1,0 +1,75 @@
+{
+  "id": 1108631653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7165603638,41.0012931824,39.7165603638,41.0012931824",
+    "geom:latitude":41.001293,
+    "geom:longitude":39.71656,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kemerkaya Mah. Sahil Cad. Soylu Sok. No:6 Iller Bankasi Yani",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 326 4004",
+    "sg:postcode":"06050",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "product",
+        "electric-electronic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Taw0rZDKK7Zi3xXQVW9fq_41.001293_39.716560@1306270066"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067085,
+    "wof:geomhash":"eafe24b95a80d0b72521071e3ceea19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108631653
+        }
+    ],
+    "wof:id":1108631653,
+    "wof:lastmodified":1474067085,
+    "wof:name":"Ozkayalar Elektronik",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "electric-electronic"
+    ]
+},
+  "bbox": [
+    39.7165603638,
+    41.0012931824,
+    39.7165603638,
+    41.0012931824
+],
+  "geometry": {"coordinates":[39.7165603638,41.0012931824],"type":"Point"}
+}

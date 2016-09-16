@@ -1,0 +1,75 @@
+{
+  "id": 1108600761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9879360199,41.0709877014,28.9879360199,41.0709877014",
+    "geom:latitude":41.070988,
+    "geom:longitude":28.987936,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koresehitleri Cad. No:3",
+    "sg:city":"Germencik",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 563 1350",
+    "sg:postcode":"09700",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fpLdht3EAyNkm8TAYtI7V_41.070988_28.987936@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065671,
+    "wof:geomhash":"416c9e8297f9c1949e9604fc2cc4889e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108600761
+        }
+    ],
+    "wof:id":1108600761,
+    "wof:lastmodified":1474065671,
+    "wof:name":"Girisim Tar. Ur. Tic. Tur. San. A.s.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    28.9879360199,
+    41.0709877014,
+    28.9879360199,
+    41.0709877014
+],
+  "geometry": {"coordinates":[28.9879360199,41.0709877014],"type":"Point"}
+}

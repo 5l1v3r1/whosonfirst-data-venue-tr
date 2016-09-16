@@ -1,0 +1,73 @@
+{
+  "id": 1108624043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.6092910767,41.0271873474,28.6092910767,41.0271873474",
+    "geom:latitude":41.027187,
+    "geom:longitude":28.609291,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Londra Asfalti No: 5/9 Sirinevler",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 552 7703",
+    "sg:postcode":"34734",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "textile",
+        "-leather",
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930205,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SQMggoQITJUazHk8bmYvU_41.027187_28.609291@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066626,
+    "wof:geomhash":"366d5813f995f886397a2bd0c990af93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930205,
+            "region_id":85679237,
+            "venue_id":1108624043
+        }
+    ],
+    "wof:id":1108624043,
+    "wof:lastmodified":1474066626,
+    "wof:name":"Dekortas",
+    "wof:parent_id":85930205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile",
+        "-leather",
+        "exporter"
+    ]
+},
+  "bbox": [
+    28.6092910767,
+    41.0271873474,
+    28.6092910767,
+    41.0271873474
+],
+  "geometry": {"coordinates":[28.6092910767,41.0271873474],"type":"Point"}
+}

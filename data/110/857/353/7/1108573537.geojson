@@ -1,0 +1,69 @@
+{
+  "id": 1108573537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9046287537,39.9574775696,32.9046287537,39.9574775696",
+    "geom:latitude":39.957478,
+    "geom:longitude":32.904629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tezcan Sk. No:11",
+    "sg:city":"Sefakoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 827 1426",
+    "sg:postcode":"42000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ICNDgvYbIjAHnTEnk5w4a_39.957478_32.904629@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064606,
+    "wof:geomhash":"436554182b853f2650a1173007b053b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108573537
+        }
+    ],
+    "wof:id":1108573537,
+    "wof:lastmodified":1474064606,
+    "wof:name":"Camsan Cam San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    32.9046287537,
+    39.9574775696,
+    32.9046287537,
+    39.9574775696
+],
+  "geometry": {"coordinates":[32.9046287537,39.9574775696],"type":"Point"}
+}

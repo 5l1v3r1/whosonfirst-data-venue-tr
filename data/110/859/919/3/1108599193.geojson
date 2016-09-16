@@ -1,0 +1,69 @@
+{
+  "id": 1108599193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2340984344,40.8787307739,29.2340984344,40.8787307739",
+    "geom:latitude":40.878731,
+    "geom:longitude":29.234098,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Orhan Maltepe Cd. No:86/a",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 1907",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jkxYCn4bLpH5NRKi0WJHS_40.878731_29.234098@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065596,
+    "wof:geomhash":"956b583a082c6f1c613b7074cb7ecb6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930115,
+            "venue_id":1108599193
+        }
+    ],
+    "wof:id":1108599193,
+    "wof:lastmodified":1474065596,
+    "wof:name":"Pendik Aydinlatma Elektrik Malzeme. San. Tic.",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.2340984344,
+    40.8787307739,
+    29.2340984344,
+    40.8787307739
+],
+  "geometry": {"coordinates":[29.2340984344,40.8787307739],"type":"Point"}
+}

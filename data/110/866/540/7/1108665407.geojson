@@ -1,0 +1,73 @@
+{
+  "id": 1108665407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0904598236,41.0269889832,29.0904598236,41.0269889832",
+    "geom:latitude":41.026989,
+    "geom:longitude":29.09046,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cavusbasi Cad. No. 40",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 344 9462",
+    "sg:postcode":"03650",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YVWfZMaEwyCrBKbuR3VYD_41.026989_29.090460@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068465,
+    "wof:geomhash":"a3e21ee87486763efdd47644fca132bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108665407
+        }
+    ],
+    "wof:id":1108665407,
+    "wof:lastmodified":1474068465,
+    "wof:name":"Mega Yumurta",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    29.0904598236,
+    41.0269889832,
+    29.0904598236,
+    41.0269889832
+],
+  "geometry": {"coordinates":[29.0904598236,41.0269889832],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108572249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3378181458,36.9783325195,35.3378181458,36.9783325195",
+    "geom:latitude":36.978333,
+    "geom:longitude":35.337818,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyhan Cad.no:19",
+    "sg:city":"Eskigaraj",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3223593663729",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iCGC9ZTJO3DRqkNqxmZ55_36.978333_35.337818@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064549,
+    "wof:geomhash":"455898114271706532ec3a465218a155",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108572249
+        }
+    ],
+    "wof:id":1108572249,
+    "wof:lastmodified":1474064549,
+    "wof:name":"Sedat Plastik",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    35.3378181458,
+    36.9783325195,
+    35.3378181458,
+    36.9783325195
+],
+  "geometry": {"coordinates":[35.3378181458,36.9783325195],"type":"Point"}
+}

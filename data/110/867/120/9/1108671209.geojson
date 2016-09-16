@@ -1,0 +1,73 @@
+{
+  "id": 1108671209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9869842529,41.0564994812,28.9869842529,41.0564994812",
+    "geom:latitude":41.056499,
+    "geom:longitude":28.986984,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cad. No:234 Osmanbey",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21292488594",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JSHM5LYXDiCBNa8VK6pjg_41.056499_28.986984@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068690,
+    "wof:geomhash":"155cab6fb47748872f9069cc136b4c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108671209
+        }
+    ],
+    "wof:id":1108671209,
+    "wof:lastmodified":1474068690,
+    "wof:name":"Nema Menkul Degerler A.s",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9869842529,
+    41.0564994812,
+    28.9869842529,
+    41.0564994812
+],
+  "geometry": {"coordinates":[28.9869842529,41.0564994812],"type":"Point"}
+}

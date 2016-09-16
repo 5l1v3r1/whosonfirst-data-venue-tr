@@ -1,0 +1,69 @@
+{
+  "id": 1108678087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8516960144,39.8834609985,32.8516960144,39.8834609985",
+    "geom:latitude":39.883461,
+    "geom:longitude":32.851696,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A. Rasim Sk. No:27 Cankaya",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 6744",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vx7xWrAZJknRMWIPSUCoK_39.883461_32.851696@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068964,
+    "wof:geomhash":"31c1177b11ee63fd46fdad60a3e01ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108678087
+        }
+    ],
+    "wof:id":1108678087,
+    "wof:lastmodified":1474068964,
+    "wof:name":"Turk Demokrasi Vakfi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8516960144,
+    39.8834609985,
+    32.8516960144,
+    39.8834609985
+],
+  "geometry": {"coordinates":[32.8516960144,39.8834609985],"type":"Point"}
+}

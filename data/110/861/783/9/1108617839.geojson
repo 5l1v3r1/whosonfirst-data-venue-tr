@@ -1,0 +1,62 @@
+{
+  "id": 1108617839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6647071838,36.8854827881,30.6647071838,36.8854827881",
+    "geom:latitude":36.885483,
+    "geom:longitude":30.664707,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"100. Yil Bulvari",
+    "sg:city":"07050",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 24224815655",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930051,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NjcnfCSByGZAuw9XUH7YD_36.885483_30.664707@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066378,
+    "wof:geomhash":"acd9cae81bd28a64069a047cbc79cd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85930051,
+            "region_id":85679263,
+            "venue_id":1108617839
+        }
+    ],
+    "wof:id":1108617839,
+    "wof:lastmodified":1474066378,
+    "wof:name":"G & S Hotel",
+    "wof:parent_id":85930051,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6647071838,
+    36.8854827881,
+    30.6647071838,
+    36.8854827881
+],
+  "geometry": {"coordinates":[30.6647071838,36.8854827881],"type":"Point"}
+}

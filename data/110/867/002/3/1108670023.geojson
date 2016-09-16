@@ -1,0 +1,73 @@
+{
+  "id": 1108670023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.7439918518,39.8579750061,32.7439918518,39.8579750061",
+    "geom:latitude":39.857975,
+    "geom:longitude":32.743992,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taspinar Koyu",
+    "sg:city":"Golbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 499 3618",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fattening-breeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929671,
+        102191569,
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G9oytGahmZTBlXjWSTaBf_39.857975_32.743992@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068644,
+    "wof:geomhash":"00271ab0bbdedecc68ca265a3fe638c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":85929671,
+            "region_id":85679409,
+            "venue_id":1108670023
+        }
+    ],
+    "wof:id":1108670023,
+    "wof:lastmodified":1474068644,
+    "wof:name":"Taylan Ins.ve Hayvan Ltd.sti.",
+    "wof:parent_id":85929671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fattening-breeding"
+    ]
+},
+  "bbox": [
+    32.7439918518,
+    39.8579750061,
+    32.7439918518,
+    39.8579750061
+],
+  "geometry": {"coordinates":[32.7439918518,39.8579750061],"type":"Point"}
+}

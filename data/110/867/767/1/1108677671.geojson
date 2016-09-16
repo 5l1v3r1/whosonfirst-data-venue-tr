@@ -1,0 +1,73 @@
+{
+  "id": 1108677671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9825344086,41.0352592468,28.9825344086,41.0352592468",
+    "geom:latitude":41.035259,
+    "geom:longitude":28.982534,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??parmakkapi Sk. No:14 D:4 Beyoglu",
+    "sg:city":"Salipazari",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 1554",
+    "sg:postcode":"80040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1piUfdOxHt9dd7tdnhV9JC_41.035259_28.982534@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068949,
+    "wof:geomhash":"e4980d36a6a72231689a865cfd3cee10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":1108677671
+        }
+    ],
+    "wof:id":1108677671,
+    "wof:lastmodified":1474068949,
+    "wof:name":"Heinrich Boll Vakfi Turkiye Irtibat Buro.",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9825344086,
+    41.0352592468,
+    28.9825344086,
+    41.0352592468
+],
+  "geometry": {"coordinates":[28.9825344086,41.0352592468],"type":"Point"}
+}

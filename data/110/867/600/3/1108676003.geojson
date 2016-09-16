@@ -1,0 +1,73 @@
+{
+  "id": 1108676003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9727535248,41.0319747925,28.9727535248,41.0319747925",
+    "geom:latitude":41.031975,
+    "geom:longitude":28.972754,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad. 163, Tepebasi",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212293546768",
+    "sg:postcode":"01220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906541,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vabef9lcKWgVlLj2dQ8e1_41.031975_28.972754@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068892,
+    "wof:geomhash":"8b3b1441e9167a79d045fcbf0e2b0157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906541,
+            "region_id":85679237,
+            "venue_id":1108676003
+        }
+    ],
+    "wof:id":1108676003,
+    "wof:lastmodified":1474068892,
+    "wof:name":"Hirvatistan",
+    "wof:parent_id":85906541,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9727535248,
+    41.0319747925,
+    28.9727535248,
+    41.0319747925
+],
+  "geometry": {"coordinates":[28.9727535248,41.0319747925],"type":"Point"}
+}

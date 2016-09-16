@@ -1,0 +1,71 @@
+{
+  "id": 1108673057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0951557159,40.9589996338,29.0951557159,40.9589996338",
+    "geom:latitude":40.959,
+    "geom:longitude":29.095156,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Semsettin G. Cd. No:173/15",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 358 3762",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H7t1Ww0T86Uo6ADJlYoPV_40.959000_29.095156@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068763,
+    "wof:geomhash":"adba05ada81e486abcaf82799786a3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108673057
+        }
+    ],
+    "wof:id":1108673057,
+    "wof:lastmodified":1474068763,
+    "wof:name":"G?rsoy ?i?ek?ilik",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0951557159,
+    40.9589996338,
+    29.0951557159,
+    40.9589996338
+],
+  "geometry": {"coordinates":[29.0951557159,40.9589996338],"type":"Point"}
+}

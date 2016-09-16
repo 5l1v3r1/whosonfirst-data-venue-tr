@@ -1,0 +1,75 @@
+{
+  "id": 1108602129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0896263123,41.0286331177,29.0896263123,41.0286331177",
+    "geom:latitude":41.028633,
+    "geom:longitude":29.089626,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atat?k Mah.?avusbasi Cad. B?b? Sok. No:2",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 412 5656",
+    "sg:postcode":"34764",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvPJY05KnauT754APHAOW_41.028633_29.089626@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065721,
+    "wof:geomhash":"9a0a02bda83cfa925f9cc86e1200ae4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108602129
+        }
+    ],
+    "wof:id":1108602129,
+    "wof:lastmodified":1474065721,
+    "wof:name":"Hace M?hendislik Ins.tes.taah.san.ve Tic.ltd.sti.",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0896263123,
+    41.0286331177,
+    29.0896263123,
+    41.0286331177
+],
+  "geometry": {"coordinates":[29.0896263123,41.0286331177],"type":"Point"}
+}

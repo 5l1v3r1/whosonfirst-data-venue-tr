@@ -1,0 +1,67 @@
+{
+  "id": 1108676243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1538200378,40.9130897522,29.1538200378,40.9130897522",
+    "geom:latitude":40.91309,
+    "geom:longitude":29.15382,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hizir Reis Sk. No:17 Cevizli",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 2691",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hHLIWKXgjfRYkTrUlq9Ur_40.913090_29.153820@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068900,
+    "wof:geomhash":"bcb230f3b49455d46e80ab16ca74a2f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108676243
+        }
+    ],
+    "wof:id":1108676243,
+    "wof:lastmodified":1474068900,
+    "wof:name":"Ahsap ?r?nleri San. A.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    29.1538200378,
+    40.9130897522,
+    29.1538200378,
+    40.9130897522
+],
+  "geometry": {"coordinates":[29.1538200378,40.9130897522],"type":"Point"}
+}

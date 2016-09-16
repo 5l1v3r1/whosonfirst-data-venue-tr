@@ -1,0 +1,75 @@
+{
+  "id": 1108652429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9899692535,41.0561141968,28.9899692535,41.0561141968",
+    "geom:latitude":41.056114,
+    "geom:longitude":28.989969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ebe Kizi Sk. No:14/b",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212230891783533",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29QuPzPXrTVjkalQy4Qwyi_41.056114_28.989969@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067957,
+    "wof:geomhash":"21d64df03ee0984f1aaeb7ae1203068a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108652429
+        }
+    ],
+    "wof:id":1108652429,
+    "wof:lastmodified":1474067957,
+    "wof:name":"Depar Sport",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9899692535,
+    41.0561141968,
+    28.9899692535,
+    41.0561141968
+],
+  "geometry": {"coordinates":[28.9899692535,41.0561141968],"type":"Point"}
+}

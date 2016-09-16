@@ -1,0 +1,71 @@
+{
+  "id": 1108605803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9124069214,41.0405921936,28.9124069214,41.0405921936",
+    "geom:latitude":41.040592,
+    "geom:longitude":28.912407,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A.ipekci Cad. No:151",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 397 1186",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gEph2tJYz0mN0sQol7dwp_41.040592_28.912407@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065875,
+    "wof:geomhash":"79104ec080c02310fbf68ae92a3d827a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108605803
+        }
+    ],
+    "wof:id":1108605803,
+    "wof:lastmodified":1474065875,
+    "wof:name":"Gunteks Tekstil San.ltd. Sti.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9124069214,
+    41.0405921936,
+    28.9124069214,
+    41.0405921936
+],
+  "geometry": {"coordinates":[28.9124069214,41.0405921936],"type":"Point"}
+}

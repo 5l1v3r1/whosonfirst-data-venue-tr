@@ -1,0 +1,73 @@
+{
+  "id": 1108604657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9884414673,41.0617027283,28.9884414673,41.0617027283",
+    "geom:latitude":41.061703,
+    "geom:longitude":28.988441,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halasgargazi Cad. 274/6",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 4304",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yjzmvzBY96st7MbkrmfMb_41.061703_28.988441@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065831,
+    "wof:geomhash":"41b69afeb122f1f02adde39130100718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108604657
+        }
+    ],
+    "wof:id":1108604657,
+    "wof:lastmodified":1474065831,
+    "wof:name":"Topcubasi Trade",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.9884414673,
+    41.0617027283,
+    28.9884414673,
+    41.0617027283
+],
+  "geometry": {"coordinates":[28.9884414673,41.0617027283],"type":"Point"}
+}

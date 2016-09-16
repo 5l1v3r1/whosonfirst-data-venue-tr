@@ -1,0 +1,73 @@
+{
+  "id": 1108677389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0154418945,41.0218315125,29.0154418945,41.0218315125",
+    "geom:latitude":41.021832,
+    "geom:longitude":29.015442,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"T??c?m. Efe Cd. Baris?l Apt. No:39 D:9 Kadik?",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2125286109329",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906599,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Da79ylKhhYyzgmJPTpMa_41.021832_29.015442@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068938,
+    "wof:geomhash":"30da6787bdbe6b6ebe7819fb2a08a74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906599,
+            "region_id":85679237,
+            "venue_id":1108677389
+        }
+    ],
+    "wof:id":1108677389,
+    "wof:lastmodified":1474068938,
+    "wof:name":"Amasya Sosyal Yard. Day. Tanitma Vakfi",
+    "wof:parent_id":85906599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0154418945,
+    41.0218315125,
+    29.0154418945,
+    41.0218315125
+],
+  "geometry": {"coordinates":[29.0154418945,41.0218315125],"type":"Point"}
+}

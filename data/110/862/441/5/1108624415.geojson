@@ -1,0 +1,71 @@
+{
+  "id": 1108624415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9818382263,41.0969009399,28.9818382263,41.0969009399",
+    "geom:latitude":41.096901,
+    "geom:longitude":28.981838,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cendere Yolu No:68",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 294 2800",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sizing",
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YsuWyBuw4JC4j5BLBYpVS_41.096901_28.981838@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066639,
+    "wof:geomhash":"6a4134e503de7b46519e73e06b29e798",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108624415
+        }
+    ],
+    "wof:id":1108624415,
+    "wof:lastmodified":1474066639,
+    "wof:name":"Can Tekstil San.a.s",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sizing",
+        "dye"
+    ]
+},
+  "bbox": [
+    28.9818382263,
+    41.0969009399,
+    28.9818382263,
+    41.0969009399
+],
+  "geometry": {"coordinates":[28.9818382263,41.0969009399],"type":"Point"}
+}

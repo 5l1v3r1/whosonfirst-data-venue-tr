@@ -1,0 +1,71 @@
+{
+  "id": 1108656071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.5125427246,37.9473838806,32.5125427246,37.9473838806",
+    "geom:latitude":37.947384,
+    "geom:longitude":32.512543,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 466 2473",
+    "sg:postcode":"42300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934717,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14SXO7c1qAlwynPwkmYqTO_37.947384_32.512543@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068100,
+    "wof:geomhash":"5b6a70ff8d6ef85fd4e8cd6247815d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934717,
+            "region_id":85679425,
+            "venue_id":1108656071
+        }
+    ],
+    "wof:id":1108656071,
+    "wof:lastmodified":1474068100,
+    "wof:name":"Allaksan Ltd.",
+    "wof:parent_id":85934717,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    32.5125427246,
+    37.9473838806,
+    32.5125427246,
+    37.9473838806
+],
+  "geometry": {"coordinates":[32.5125427246,37.9473838806],"type":"Point"}
+}

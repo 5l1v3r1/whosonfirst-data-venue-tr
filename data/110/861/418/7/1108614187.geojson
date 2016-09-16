@@ -1,0 +1,69 @@
+{
+  "id": 1108614187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8604812622,39.9429283142,32.8604812622,39.9429283142",
+    "geom:latitude":39.942928,
+    "geom:longitude":32.860481,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"41/a Sk. No:1/p-01",
+    "sg:city":"Ostim",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 354 7772",
+    "sg:postcode":"06374",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JLUYq9jo3hJHFpIh3OCoO_39.942928_32.860481@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066241,
+    "wof:geomhash":"7b19c4363e0a6b996091b2e8d364c2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108614187
+        }
+    ],
+    "wof:id":1108614187,
+    "wof:lastmodified":1474066241,
+    "wof:name":"?zsan Hirdavat Tic. San. Ltd. Sti.",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    32.8604812622,
+    39.9429283142,
+    32.8604812622,
+    39.9429283142
+],
+  "geometry": {"coordinates":[32.8604812622,39.9429283142],"type":"Point"}
+}

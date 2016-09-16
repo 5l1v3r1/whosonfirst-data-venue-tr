@@ -1,0 +1,69 @@
+{
+  "id": 1108592115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7983474731,41.0555038452,28.7983474731,41.0555038452",
+    "geom:latitude":41.055504,
+    "geom:longitude":28.798347,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gulbahar Cad. 3.sok. No:63",
+    "sg:city":"Gunesli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212651847172",
+    "sg:postcode":"01660",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930241,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1recdcdZzWphftPJh36K0F_41.055504_28.798347@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065313,
+    "wof:geomhash":"a74cc6625b2c236a473d5ac6eff33dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930241,
+            "region_id":85679237,
+            "venue_id":1108592115
+        }
+    ],
+    "wof:id":1108592115,
+    "wof:lastmodified":1474065313,
+    "wof:name":"Kurteks Tekstil Giyim San. Ve Tic. A.s.",
+    "wof:parent_id":85930241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.7983474731,
+    41.0555038452,
+    28.7983474731,
+    41.0555038452
+],
+  "geometry": {"coordinates":[28.7983474731,41.0555038452],"type":"Point"}
+}

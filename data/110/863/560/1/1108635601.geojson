@@ -1,0 +1,72 @@
+{
+  "id": 1108635601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.3756790161,37.0623817444,37.3756790161,37.0623817444",
+    "geom:latitude":37.062382,
+    "geom:longitude":37.375679,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eskisaray Cad. Sekercidurdu Ishani 207 Sahinbey",
+    "sg:city":"07000",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342 233 1089",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "-",
+        "export",
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934731,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uYtOC3tqi5ZeDvyATpFLv_37.062382_37.375679@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067249,
+    "wof:geomhash":"ac0a74459c1cf58b9f1eef69f677247a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":1108635601
+        }
+    ],
+    "wof:id":1108635601,
+    "wof:lastmodified":1474067249,
+    "wof:name":"Yunus Import & Export",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "export",
+        "import"
+    ]
+},
+  "bbox": [
+    37.3756790161,
+    37.0623817444,
+    37.3756790161,
+    37.0623817444
+],
+  "geometry": {"coordinates":[37.3756790161,37.0623817444],"type":"Point"}
+}

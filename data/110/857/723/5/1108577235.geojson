@@ -1,0 +1,73 @@
+{
+  "id": 1108577235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.973482132,41.0256538391,28.973482132,41.0256538391",
+    "geom:latitude":41.025654,
+    "geom:longitude":28.973482,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Hasmet Sokak No:17/1, 80080 Laleli Istanbul",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 516 9603",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "jewellery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jHzszwb9dW0mbil5oQUpX_41.025654_28.973482@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064783,
+    "wof:geomhash":"0cec5bdfe6da024713b340207fe41774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108577235
+        }
+    ],
+    "wof:id":1108577235,
+    "wof:lastmodified":1474064783,
+    "wof:name":"Armada Kuyumculuk Dis Tic As",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewellery"
+    ]
+},
+  "bbox": [
+    28.973482132,
+    41.0256538391,
+    28.973482132,
+    41.0256538391
+],
+  "geometry": {"coordinates":[28.973482132,41.0256538391],"type":"Point"}
+}

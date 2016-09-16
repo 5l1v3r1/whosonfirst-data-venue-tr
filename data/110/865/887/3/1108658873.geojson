@@ -1,0 +1,73 @@
+{
+  "id": 1108658873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0652256012,41.027141571,29.0652256012,41.027141571",
+    "geom:latitude":41.027142,
+    "geom:longitude":29.065226,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yusuf T??",
+    "sg:city":"Nallihan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 7580",
+    "sg:postcode":"06920",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929753,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tCJhZamucKfbjGW7VS4h6_41.027142_29.065226@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068209,
+    "wof:geomhash":"e2b4ed98d921c545dfd845e368ac9e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929753,
+            "region_id":85679237,
+            "venue_id":1108658873
+        }
+    ],
+    "wof:id":1108658873,
+    "wof:lastmodified":1474068209,
+    "wof:name":"Sariyer Belediye Baskani",
+    "wof:parent_id":85929753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0652256012,
+    41.027141571,
+    29.0652256012,
+    41.027141571
+],
+  "geometry": {"coordinates":[29.0652256012,41.027141571],"type":"Point"}
+}

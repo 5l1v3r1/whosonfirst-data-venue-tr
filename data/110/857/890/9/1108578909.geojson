@@ -1,0 +1,68 @@
+{
+  "id": 1108578909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8684883118,39.8965072632,32.8684883118,39.8965072632",
+    "geom:latitude":39.896507,
+    "geom:longitude":32.868488,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.o.p. Nenehatun Cad. No: 79/3 ?ankaya",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 4102",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PiYfpegJ2NdxVt8opWTos_39.896507_32.868488@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064910,
+    "wof:geomhash":"d54976852cc972f014cf62f606e32b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108578909
+        }
+    ],
+    "wof:id":1108578909,
+    "wof:lastmodified":1474064910,
+    "wof:name":"Santa Ltd. Sti.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8684883118,
+    39.8965072632,
+    32.8684883118,
+    39.8965072632
+],
+  "geometry": {"coordinates":[32.8684883118,39.8965072632],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108678201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.849773407,39.9204788208,32.849773407,39.9204788208",
+    "geom:latitude":39.920479,
+    "geom:longitude":32.849773,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Menekse 2 Sk. No:16 D: 7 Kizilay",
+    "sg:city":"Findikzade-fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 7180",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18whbKRAeWtPi44Jy3VWst_39.920479_32.849773@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068971,
+    "wof:geomhash":"0b536f61014981a1e0079baa12bc870c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108678201
+        }
+    ],
+    "wof:id":1108678201,
+    "wof:lastmodified":1474068971,
+    "wof:name":"Turkiye Insan Haklari Vakfi",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.849773407,
+    39.9204788208,
+    32.849773407,
+    39.9204788208
+],
+  "geometry": {"coordinates":[32.849773407,39.9204788208],"type":"Point"}
+}

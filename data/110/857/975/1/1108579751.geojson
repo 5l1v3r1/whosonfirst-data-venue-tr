@@ -1,0 +1,72 @@
+{
+  "id": 1108579751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1016426086,40.95860672,29.1016426086,40.95860672",
+    "geom:latitude":40.958607,
+    "geom:longitude":29.101643,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Sevki Pasa Cad. 26/2 Bostanci-kadikoy",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 6663",
+    "sg:postcode":"16000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5obXqOkRo1WniXdoveTjuG_40.958607_29.101643@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064955,
+    "wof:geomhash":"cc3544755f42fdb68decef9831da820b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108579751
+        }
+    ],
+    "wof:id":1108579751,
+    "wof:lastmodified":1474064955,
+    "wof:name":"Auto Saloon",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.1016426086,
+    40.95860672,
+    29.1016426086,
+    40.95860672
+],
+  "geometry": {"coordinates":[29.1016426086,40.95860672],"type":"Point"}
+}

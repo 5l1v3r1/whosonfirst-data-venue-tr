@@ -1,0 +1,73 @@
+{
+  "id": 1108675515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.839756012,39.9319496155,32.839756012,39.9319496155",
+    "geom:latitude":39.93195,
+    "geom:longitude":32.839756,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tandogan Isik Sok. No:13/7",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 3486",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904083,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eHVa4N5lKosvwquDMLCL7_39.931950_32.839756@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068876,
+    "wof:geomhash":"6dc5600ae549be951c2fee38b7f1ebc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904083,
+            "region_id":85679409,
+            "venue_id":1108675515
+        }
+    ],
+    "wof:id":1108675515,
+    "wof:lastmodified":1474068876,
+    "wof:name":"Hakan Ticaret Ltd.sti.",
+    "wof:parent_id":85904083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    32.839756012,
+    39.9319496155,
+    32.839756012,
+    39.9319496155
+],
+  "geometry": {"coordinates":[32.839756012,39.9319496155],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108668113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3297386169,36.9850845337,35.3297386169,36.9850845337",
+    "geom:latitude":36.985085,
+    "geom:longitude":35.329739,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizilay Cad. No:42",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 346 1790",
+    "sg:postcode":"23050",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MwjFm56pQ8PiduptFZ1gD_36.985085_35.329739@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068564,
+    "wof:geomhash":"b8b5bfc61bd41b14b756df4c710bee10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108668113
+        }
+    ],
+    "wof:id":1108668113,
+    "wof:lastmodified":1474068564,
+    "wof:name":"Feza Gazetecilik As.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    35.3297386169,
+    36.9850845337,
+    35.3297386169,
+    36.9850845337
+],
+  "geometry": {"coordinates":[35.3297386169,36.9850845337],"type":"Point"}
+}

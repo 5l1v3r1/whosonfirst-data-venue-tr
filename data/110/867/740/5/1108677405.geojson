@@ -1,0 +1,68 @@
+{
+  "id": 1108677405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8511962891,39.9229354858,32.8511962891,39.9229354858",
+    "geom:latitude":39.922935,
+    "geom:longitude":32.851196,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Menekse Sk. Orkide Apt. No:8-b D:25 Kizilay",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 4300",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ya9AgLtRQw82ef79vtIHh_39.922935_32.851196@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068939,
+    "wof:geomhash":"9f36333d64f7954fddd48ffe3727d4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108677405
+        }
+    ],
+    "wof:id":1108677405,
+    "wof:lastmodified":1474068939,
+    "wof:name":"Anadolu Kulturunu Koruma Arast. Vakfi",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8511962891,
+    39.9229354858,
+    32.8511962891,
+    39.9229354858
+],
+  "geometry": {"coordinates":[32.8511962891,39.9229354858],"type":"Point"}
+}

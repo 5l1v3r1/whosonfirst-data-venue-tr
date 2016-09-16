@@ -1,0 +1,64 @@
+{
+  "id": 1108596029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9022693634,40.9914894104,28.9022693634,40.9914894104",
+    "geom:latitude":40.991489,
+    "geom:longitude":28.902269,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Z.hanim C. 41/1 Sk. No.3 Zeytinburnu",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 8861",
+    "sg:postcode":"34490",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zjURwdm44MVqjknGNxrs3_40.991489_28.902269@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065468,
+    "wof:geomhash":"be7df177dc09ffe2b0b4994935e6d1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108596029
+        }
+    ],
+    "wof:id":1108596029,
+    "wof:lastmodified":1474065468,
+    "wof:name":"Ensari Deri Ltd. Sti.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9022693634,
+    40.9914894104,
+    28.9022693634,
+    40.9914894104
+],
+  "geometry": {"coordinates":[28.9022693634,40.9914894104],"type":"Point"}
+}

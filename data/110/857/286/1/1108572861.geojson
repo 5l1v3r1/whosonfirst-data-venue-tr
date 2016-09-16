@@ -1,0 +1,67 @@
+{
+  "id": 1108572861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1140918732,40.971912384,29.1140918732,40.971912384",
+    "geom:latitude":40.971912,
+    "geom:longitude":29.114092,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayisdagi Yolu No: 18/1 Erenkoy",
+    "sg:city":"Bah?elievler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 575 3573",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NSNqJfEC42pR3fpmgsP7G_40.971912_29.114092@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064574,
+    "wof:geomhash":"1fe997643b0695cea1ae5ba67074637f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108572861
+        }
+    ],
+    "wof:id":1108572861,
+    "wof:lastmodified":1474064574,
+    "wof:name":"Arma Promosyon",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1140918732,
+    40.971912384,
+    29.1140918732,
+    40.971912384
+],
+  "geometry": {"coordinates":[29.1140918732,40.971912384],"type":"Point"}
+}

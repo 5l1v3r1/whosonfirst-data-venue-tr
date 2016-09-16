@@ -1,0 +1,68 @@
+{
+  "id": 1108604327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7972354889,40.9906578064,28.7972354889,40.9906578064",
+    "geom:latitude":40.990658,
+    "geom:longitude":28.797235,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alaska Sok.no:7 Besyol-",
+    "sg:city":"K.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 592 1561",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zh5bWCpW6ECGqjYI9CNDR_40.990658_28.797235@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065811,
+    "wof:geomhash":"a93c89c40a46f1013a40de375b1fc710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108604327
+        }
+    ],
+    "wof:id":1108604327,
+    "wof:lastmodified":1474065811,
+    "wof:name":"Alaska Gida San.a.s",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.7972354889,
+    40.9906578064,
+    28.7972354889,
+    40.9906578064
+],
+  "geometry": {"coordinates":[28.7972354889,40.9906578064],"type":"Point"}
+}

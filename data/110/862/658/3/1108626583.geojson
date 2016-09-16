@@ -1,0 +1,74 @@
+{
+  "id": 1108626583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0981788635,40.9570732117,29.0981788635,40.9570732117",
+    "geom:latitude":40.957073,
+    "geom:longitude":29.098179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emin Ali Pasa Caddesi No:111",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 41612473617646",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5poBZ8ih0bdTV98yrpNrS0_40.957073_29.098179@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066721,
+    "wof:geomhash":"e0eaa67b39b944cac42cb41e0c6f9dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108626583
+        }
+    ],
+    "wof:id":1108626583,
+    "wof:lastmodified":1474066721,
+    "wof:name":"Esvo Turizm",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0981788635,
+    40.9570732117,
+    29.0981788635,
+    40.9570732117
+],
+  "geometry": {"coordinates":[29.0981788635,40.9570732117],"type":"Point"}
+}

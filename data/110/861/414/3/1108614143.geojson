@@ -1,0 +1,68 @@
+{
+  "id": 1108614143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3250198364,36.9854202271,35.3250198364,36.9854202271",
+    "geom:latitude":36.98542,
+    "geom:longitude":35.32502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baris Bulv. Guney Sanayi Evleri No: 33",
+    "sg:city":"G.o.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 433 4561",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sbWM6xosEk584v5Z1fIhb_36.985420_35.325020@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066240,
+    "wof:geomhash":"ed6f0322023b157fe4e81754f2fcd080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108614143
+        }
+    ],
+    "wof:id":1108614143,
+    "wof:lastmodified":1474066240,
+    "wof:name":"Yazar Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    35.3250198364,
+    36.9854202271,
+    35.3250198364,
+    36.9854202271
+],
+  "geometry": {"coordinates":[35.3250198364,36.9854202271],"type":"Point"}
+}

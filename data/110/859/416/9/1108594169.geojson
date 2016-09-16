@@ -1,0 +1,69 @@
+{
+  "id": 1108594169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1305675507,38.4168663025,27.1305675507,38.4168663025",
+    "geom:latitude":38.416866,
+    "geom:longitude":27.130568,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847. Sk. No:31 Konak",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 484 2306",
+    "sg:postcode":"16220",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kOTq7Si9umgW25uEZzyTl_38.416866_27.130568@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065390,
+    "wof:geomhash":"9a00b8885ac1766c7e8c1220d777dc4e",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108594169
+        }
+    ],
+    "wof:id":1108594169,
+    "wof:lastmodified":1474065390,
+    "wof:name":"Aksu Medikal Koll. Sti.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    27.1305675507,
+    38.4168663025,
+    27.1305675507,
+    38.4168663025
+],
+  "geometry": {"coordinates":[27.1305675507,38.4168663025],"type":"Point"}
+}

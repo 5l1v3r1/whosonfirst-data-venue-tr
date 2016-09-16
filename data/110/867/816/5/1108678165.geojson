@@ -1,0 +1,73 @@
+{
+  "id": 1108678165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9756526947,41.0335350037,28.9756526947,41.0335350037",
+    "geom:latitude":41.033535,
+    "geom:longitude":28.975653,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. No:57 D:3 Beyoglu",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 9802",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uHhJFXW5HPvmV3fzWwaF1_41.033535_28.975653@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068970,
+    "wof:geomhash":"64e3a4750137aae8515b31fd197c8ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108678165
+        }
+    ],
+    "wof:id":1108678165,
+    "wof:lastmodified":1474068970,
+    "wof:name":"Turkiye Anit-cevre, Turizm Deger. Kor. Vakfi",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9756526947,
+    41.0335350037,
+    28.9756526947,
+    41.0335350037
+],
+  "geometry": {"coordinates":[28.9756526947,41.0335350037],"type":"Point"}
+}

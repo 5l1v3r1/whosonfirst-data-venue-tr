@@ -1,0 +1,64 @@
+{
+  "id": 1108609471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8999214172,41.0997123718,28.8999214172,41.0997123718",
+    "geom:latitude":41.099712,
+    "geom:longitude":28.899921,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Millet Cd. No:5",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 1747",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929781,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wr9cvnMPEYjw0mJcUYtsK_41.099712_28.899921@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066054,
+    "wof:geomhash":"b1206a182d4757f8e5bc08189c173eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929781,
+            "region_id":85679237,
+            "venue_id":1108609471
+        }
+    ],
+    "wof:id":1108609471,
+    "wof:lastmodified":1474066054,
+    "wof:name":"Surgaz Dag. Paz. Nakliyat I? Dis Tic.",
+    "wof:parent_id":85929781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8999214172,
+    41.0997123718,
+    28.8999214172,
+    41.0997123718
+],
+  "geometry": {"coordinates":[28.8999214172,41.0997123718],"type":"Point"}
+}

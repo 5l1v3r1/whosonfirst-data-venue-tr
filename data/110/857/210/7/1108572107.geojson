@@ -1,0 +1,68 @@
+{
+  "id": 1108572107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9219303131,41.0354995728,28.9219303131,41.0354995728",
+    "geom:latitude":41.0355,
+    "geom:longitude":28.92193,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rami Kisla Cad. Uzakciftlik Sok. Yesil Camii Vakfi Is Merkezi No:9 Topcular-eyup",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212674322324",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V1abpuBeMBrkGQ8dgcKGY_41.035500_28.921930@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064544,
+    "wof:geomhash":"b3d082ed7a89d28508da1aef82844e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108572107
+        }
+    ],
+    "wof:id":1108572107,
+    "wof:lastmodified":1474064544,
+    "wof:name":"Platsan Plastik",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9219303131,
+    41.0354995728,
+    28.9219303131,
+    41.0354995728
+],
+  "geometry": {"coordinates":[28.9219303131,41.0354995728],"type":"Point"}
+}

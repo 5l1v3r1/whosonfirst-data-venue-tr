@@ -1,0 +1,73 @@
+{
+  "id": 1108573453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6869831085,36.9020042419,30.6869831085,36.9020042419",
+    "geom:latitude":36.902004,
+    "geom:longitude":30.686983,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Bulvari No:2",
+    "sg:city":"Ostim",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 345 9633",
+    "sg:postcode":"06374",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930107,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_794P3ubvRHAfrABPZwaDhi_36.902004_30.686983@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064603,
+    "wof:geomhash":"6233cdf44658c0263b6ee98e1c88669c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930107,
+            "region_id":85679263,
+            "venue_id":1108573453
+        }
+    ],
+    "wof:id":1108573453,
+    "wof:lastmodified":1474064603,
+    "wof:name":"Beta Cam Dekorasyon Ltd. Sti.",
+    "wof:parent_id":85930107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.6869831085,
+    36.9020042419,
+    30.6869831085,
+    36.9020042419
+],
+  "geometry": {"coordinates":[30.6869831085,36.9020042419],"type":"Point"}
+}

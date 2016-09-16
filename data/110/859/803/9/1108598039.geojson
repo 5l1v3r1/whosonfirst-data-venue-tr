@@ -1,0 +1,73 @@
+{
+  "id": 1108598039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9869632721,41.0629272461,28.9869632721,41.0629272461",
+    "geom:latitude":41.062927,
+    "geom:longitude":28.986963,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kocamansur Sok. No:4-",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0749",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Dq4QPGuGi1kN84RCoFWr_41.062927_28.986963@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065550,
+    "wof:geomhash":"202cc69a97e31b1303436d8815e75499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108598039
+        }
+    ],
+    "wof:id":1108598039,
+    "wof:lastmodified":1474065550,
+    "wof:name":"Oguzhan Asans?",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.9869632721,
+    41.0629272461,
+    28.9869632721,
+    41.0629272461
+],
+  "geometry": {"coordinates":[28.9869632721,41.0629272461],"type":"Point"}
+}

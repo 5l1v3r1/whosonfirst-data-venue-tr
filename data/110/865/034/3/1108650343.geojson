@@ -1,0 +1,67 @@
+{
+  "id": 1108650343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0334014893,40.9883842468,29.0334014893,40.9883842468",
+    "geom:latitude":40.988384,
+    "geom:longitude":29.033401,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kusdili Caddesi No:1 - Kadik?",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 338 9325",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56jCBfYMypCXwTMMUNehSV_40.988384_29.033401@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067852,
+    "wof:geomhash":"51697c2165e4d42a5957126ace52258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108650343
+        }
+    ],
+    "wof:id":1108650343,
+    "wof:lastmodified":1474067852,
+    "wof:name":"B?? Tibbi Tahliller Laboratuvari",
+    "wof:parent_id":85904115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0334014893,
+    40.9883842468,
+    29.0334014893,
+    40.9883842468
+],
+  "geometry": {"coordinates":[29.0334014893,40.9883842468],"type":"Point"}
+}

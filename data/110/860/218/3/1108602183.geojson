@@ -1,0 +1,75 @@
+{
+  "id": 1108602183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0554466248,40.9919433594,29.0554466248,40.9919433594",
+    "geom:latitude":40.991943,
+    "geom:longitude":29.055447,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hizirbey Cd. G?es Apt. No:201",
+    "sg:city":"Fikirtepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 355 0573",
+    "sg:postcode":"34720",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dRXcv5rdjwM6KXzRt2mXV_40.991943_29.055447@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065723,
+    "wof:geomhash":"5567c250a688ea74125384e8b3add4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108602183
+        }
+    ],
+    "wof:id":1108602183,
+    "wof:lastmodified":1474065723,
+    "wof:name":"Ilter Dogalgaz Isi Sistem San.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0554466248,
+    40.9919433594,
+    29.0554466248,
+    40.9919433594
+],
+  "geometry": {"coordinates":[29.0554466248,40.9919433594],"type":"Point"}
+}

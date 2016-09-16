@@ -1,0 +1,69 @@
+{
+  "id": 1108582945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1010932922,38.4620323181,27.1010932922,38.4620323181",
+    "geom:latitude":38.462032,
+    "geom:longitude":27.101093,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1819 Sk. No:94/4",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 369 5645",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cJGArdMTARmwGAjr3jQCE_38.462032_27.101093@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065083,
+    "wof:geomhash":"5f8caf143c0540ddbf561cbd5dcf93f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108582945
+        }
+    ],
+    "wof:id":1108582945,
+    "wof:lastmodified":1474065083,
+    "wof:name":"Etna Dis Ticaret San.ltd.sti.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    27.1010932922,
+    38.4620323181,
+    27.1010932922,
+    38.4620323181
+],
+  "geometry": {"coordinates":[27.1010932922,38.4620323181],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1108605971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0751953125,41.0760307312,29.0751953125,41.0760307312",
+    "geom:latitude":41.076031,
+    "geom:longitude":29.075195,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad.kuyu Sok.no:1/2",
+    "sg:city":"G?esli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 474 9206",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929801,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VEY2gumGMV1IuDxqf9L1A_41.076031_29.075195@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065882,
+    "wof:geomhash":"c5816b4f0d61127561c0d9c42418ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85929801,
+            "region_id":85679237,
+            "venue_id":1108605971
+        }
+    ],
+    "wof:id":1108605971,
+    "wof:lastmodified":1474065882,
+    "wof:name":"In-tech Limited",
+    "wof:parent_id":85929801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0751953125,
+    41.0760307312,
+    29.0751953125,
+    41.0760307312
+],
+  "geometry": {"coordinates":[29.0751953125,41.0760307312],"type":"Point"}
+}

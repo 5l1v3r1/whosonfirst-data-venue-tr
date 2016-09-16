@@ -1,0 +1,71 @@
+{
+  "id": 1108567617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8735599518,40.9942359924,28.8735599518,40.9942359924",
+    "geom:latitude":40.994236,
+    "geom:longitude":28.87356,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyit Nizam Cd. G?aydin Apt. No:36 Zeytinburnu",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 3511",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GbS9y32EXu3i7kkXzj3rH_40.994236_28.873560@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064360,
+    "wof:geomhash":"0c7fe4fd5b465bb5c745a62d11657f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108567617
+        }
+    ],
+    "wof:id":1108567617,
+    "wof:lastmodified":1474064360,
+    "wof:name":"G?r?msan Makina San. Koll. Sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8735599518,
+    40.9942359924,
+    28.8735599518,
+    40.9942359924
+],
+  "geometry": {"coordinates":[28.8735599518,40.9942359924],"type":"Point"}
+}

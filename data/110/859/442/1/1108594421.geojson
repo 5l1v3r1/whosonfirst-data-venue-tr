@@ -1,0 +1,82 @@
+{
+  "id": 1108594421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0153751373,41.0741081238,29.0153751373,41.0741081238",
+    "geom:latitude":41.074108,
+    "geom:longitude":29.015375,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukdere Cad. No: 45/26 Sisli",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 211 1327",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237,
+        85929845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EH578y3VaReOgT7bkUAEo_41.074108_29.015375@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065399,
+    "wof:geomhash":"665e15af4820daa751e35ccf284ab924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108594421
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108594421
+        }
+    ],
+    "wof:id":1108594421,
+    "wof:lastmodified":1474065399,
+    "wof:name":"Labora Lab. Mlz. Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.0153751373,
+    41.0741081238,
+    29.0153751373,
+    41.0741081238
+],
+  "geometry": {"coordinates":[29.0153751373,41.0741081238],"type":"Point"}
+}

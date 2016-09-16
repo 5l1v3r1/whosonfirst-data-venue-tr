@@ -1,0 +1,67 @@
+{
+  "id": 1108673589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9460487366,41.011341095,28.9460487366,41.011341095",
+    "geom:latitude":41.011341,
+    "geom:longitude":28.946049,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Cd. Yekta Efen. Sk. No:23",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 534 9032",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xWYEdXCPKsz7SQiRVZZUB_41.011341_28.946049@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068787,
+    "wof:geomhash":"f6d823e707835651ffccf47c61b6fc19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108673589
+        }
+    ],
+    "wof:id":1108673589,
+    "wof:lastmodified":1474068787,
+    "wof:name":"?apri ?i?ek Galerisi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9460487366,
+    41.011341095,
+    28.9460487366,
+    41.011341095
+],
+  "geometry": {"coordinates":[28.9460487366,41.011341095],"type":"Point"}
+}

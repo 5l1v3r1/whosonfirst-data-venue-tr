@@ -1,0 +1,70 @@
+{
+  "id": 1108602805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8486289978,39.8972625732,32.8486289978,39.8972625732",
+    "geom:latitude":39.897263,
+    "geom:longitude":32.848629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cad.no:61/c",
+    "sg:city":"Yukariayranci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 428 4955",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MgxtKFSRqtpalK7ljwOm8_39.897263_32.848629@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065747,
+    "wof:geomhash":"01d75c47aa333b9b457c221dc4a31961",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108602805
+        }
+    ],
+    "wof:id":1108602805,
+    "wof:lastmodified":1474065747,
+    "wof:name":"Y?kselt?rk Isitma",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    32.8486289978,
+    39.8972625732,
+    32.8486289978,
+    39.8972625732
+],
+  "geometry": {"coordinates":[32.8486289978,39.8972625732],"type":"Point"}
+}

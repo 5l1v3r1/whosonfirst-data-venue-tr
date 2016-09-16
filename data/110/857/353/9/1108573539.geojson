@@ -1,0 +1,69 @@
+{
+  "id": 1108573539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0054206848,41.0902404785,29.0054206848,41.0902404785",
+    "geom:latitude":41.09024,
+    "geom:longitude":29.005421,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukdere Cad. No:37-",
+    "sg:city":"Ayazaga",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 285 1000",
+    "sg:postcode":"34396",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vcvHmiQmR74KLhIo3Ta03_41.090240_29.005421@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064606,
+    "wof:geomhash":"ffdf9dbb1686001040a5087393dacf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108573539
+        }
+    ],
+    "wof:id":1108573539,
+    "wof:lastmodified":1474064606,
+    "wof:name":"Camtas A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0054206848,
+    41.0902404785,
+    29.0054206848,
+    41.0902404785
+],
+  "geometry": {"coordinates":[29.0054206848,41.0902404785],"type":"Point"}
+}

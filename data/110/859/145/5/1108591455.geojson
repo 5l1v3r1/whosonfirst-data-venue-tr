@@ -1,0 +1,73 @@
+{
+  "id": 1108591455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9655971527,41.0385437012,28.9655971527,41.0385437012",
+    "geom:latitude":41.038544,
+    "geom:longitude":28.965597,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bahriye Cd. No:183 Kasimpasa",
+    "sg:city":"Erenler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 238 1451",
+    "sg:postcode":"01920",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906535,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dmPPSDxlbUFCFII6wtNhG_41.038544_28.965597@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065289,
+    "wof:geomhash":"397e4e3a78647271d95c458f2ae30e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906535,
+            "region_id":85679237,
+            "venue_id":1108591455
+        }
+    ],
+    "wof:id":1108591455,
+    "wof:lastmodified":1474065289,
+    "wof:name":"Albayrak End?st. Mutfak Cih.",
+    "wof:parent_id":85906535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.9655971527,
+    41.0385437012,
+    28.9655971527,
+    41.0385437012
+],
+  "geometry": {"coordinates":[28.9655971527,41.0385437012],"type":"Point"}
+}

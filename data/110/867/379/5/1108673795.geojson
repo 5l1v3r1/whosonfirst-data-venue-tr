@@ -1,0 +1,75 @@
+{
+  "id": 1108673795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0139560699,41.0701828003,29.0139560699,41.0701828003",
+    "geom:latitude":41.070183,
+    "geom:longitude":29.013956,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koresehitleri Cad.no:1/10",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3419",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NNRg97RuDz494H9YtAAmp_41.070183_29.013956@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068794,
+    "wof:geomhash":"c69cc8d0f1911ef39f0d21491734b5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108673795
+        }
+    ],
+    "wof:id":1108673795,
+    "wof:lastmodified":1474068794,
+    "wof:name":"Yilmaz Kimya A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    29.0139560699,
+    41.0701828003,
+    29.0139560699,
+    41.0701828003
+],
+  "geometry": {"coordinates":[29.0139560699,41.0701828003],"type":"Point"}
+}

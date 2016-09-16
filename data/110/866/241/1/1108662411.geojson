@@ -1,0 +1,64 @@
+{
+  "id": 1108662411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9955692291,41.0975379944,28.9955692291,41.0975379944",
+    "geom:latitude":41.097538,
+    "geom:longitude":28.995569,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 4151",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QVtNNnjRFKA6BfuBBe4UM_41.097538_28.995569@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068341,
+    "wof:geomhash":"f4aa9ec02374db5c28139c8013fc853e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108662411
+        }
+    ],
+    "wof:id":1108662411,
+    "wof:lastmodified":1474068341,
+    "wof:name":"Engin Insaat Ltd.sti.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9955692291,
+    41.0975379944,
+    28.9955692291,
+    41.0975379944
+],
+  "geometry": {"coordinates":[28.9955692291,41.0975379944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108589227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1467170715,38.4406814575,27.1467170715,38.4406814575",
+    "geom:latitude":38.440681,
+    "geom:longitude":27.146717,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad. No:398/515",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 232 0036",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ValdCAB7X1J57cLvhpHtN_38.440681_27.146717@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065233,
+    "wof:geomhash":"3309aca5feb6d7d8319672ca36cb7476",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108589227
+        }
+    ],
+    "wof:id":1108589227,
+    "wof:lastmodified":1474065233,
+    "wof:name":"Areks Ltd.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    27.1467170715,
+    38.4406814575,
+    27.1467170715,
+    38.4406814575
+],
+  "geometry": {"coordinates":[27.1467170715,38.4406814575],"type":"Point"}
+}

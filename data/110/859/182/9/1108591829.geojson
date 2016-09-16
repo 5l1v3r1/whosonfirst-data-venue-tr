@@ -1,0 +1,69 @@
+{
+  "id": 1108591829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8766937256,41.0126304626,28.8766937256,41.0126304626",
+    "geom:latitude":41.01263,
+    "geom:longitude":28.876694,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ucak Cad.lalezar Sok.no:15",
+    "sg:city":"Davutpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 3937",
+    "sg:postcode":"31500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29yDkZ35PjwcENb8MfwCMM_41.012630_28.876694@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065304,
+    "wof:geomhash":"d4760eb21a3d4f693a906e72509be569",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108591829
+        }
+    ],
+    "wof:id":1108591829,
+    "wof:lastmodified":1474065304,
+    "wof:name":"Altun Tekstil Orme San.tic.ltd.sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8766937256,
+    41.0126304626,
+    28.8766937256,
+    41.0126304626
+],
+  "geometry": {"coordinates":[28.8766937256,41.0126304626],"type":"Point"}
+}

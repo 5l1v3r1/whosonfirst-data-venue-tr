@@ -1,0 +1,75 @@
+{
+  "id": 1108652719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1073932648,40.9829139709,29.1073932648,40.9829139709",
+    "geom:latitude":40.982914,
+    "geom:longitude":29.107393,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rustempasa Sok. No:13",
+    "sg:city":"Yesildirek",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 5096",
+    "sg:postcode":"63200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qTMuvkWGDFu9IMBf2hUjy_40.982914_29.107393@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067968,
+    "wof:geomhash":"309d466c0ff1b0859a1ccbdecc221e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108652719
+        }
+    ],
+    "wof:id":1108652719,
+    "wof:lastmodified":1474067968,
+    "wof:name":"Tamboy Gomlek",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1073932648,
+    40.9829139709,
+    29.1073932648,
+    40.9829139709
+],
+  "geometry": {"coordinates":[29.1073932648,40.9829139709],"type":"Point"}
+}

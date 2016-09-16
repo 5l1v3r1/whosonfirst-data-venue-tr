@@ -1,0 +1,64 @@
+{
+  "id": 1108662369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0536518097,40.1969490051,29.0536518097,40.1969490051",
+    "geom:latitude":40.196949,
+    "geom:longitude":29.053652,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mudanya Cd. Sirameseler No:85 Osmangazi",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 236 2687",
+    "sg:postcode":"31200",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23S2Fa5YndcexjMvRUe6dh_40.196949_29.053652@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068340,
+    "wof:geomhash":"63d5ce2bd4710d89fbaf7327b899fcf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108662369
+        }
+    ],
+    "wof:id":1108662369,
+    "wof:lastmodified":1474068340,
+    "wof:name":"Canergaz Petrol Tic. San. Ltd. Sti.",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0536518097,
+    40.1969490051,
+    29.0536518097,
+    40.1969490051
+],
+  "geometry": {"coordinates":[29.0536518097,40.1969490051],"type":"Point"}
+}

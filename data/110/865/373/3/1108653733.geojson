@@ -1,0 +1,72 @@
+{
+  "id": 1108653733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0504264832,40.9771308899,29.0504264832,40.9771308899",
+    "geom:latitude":40.977131,
+    "geom:longitude":29.050426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kumbaracilar Sok. No: 16/26 Feneryolu",
+    "sg:city":"Karacabey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 3123",
+    "sg:postcode":"16700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57a5aR9D2Gr0CvR2gso8bp_40.977131_29.050426@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068009,
+    "wof:geomhash":"f0bbcaecf76e320e3fde3417e630a425",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108653733
+        }
+    ],
+    "wof:id":1108653733,
+    "wof:lastmodified":1474068009,
+    "wof:name":"Oksijen Tupu",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0504264832,
+    40.9771308899,
+    29.0504264832,
+    40.9771308899
+],
+  "geometry": {"coordinates":[29.0504264832,40.9771308899],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108664377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0452651978,41.1170196533,29.0452651978,41.1170196533",
+    "geom:latitude":41.11702,
+    "geom:longitude":29.045265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prof.cemil Bilsel Cad.uc Kapili Selamet Han No:120/d",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 514 2063",
+    "sg:postcode":"34460",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "raw",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BFiVxxVnbWSBJbvZ7fdcz_41.117020_29.045265@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068419,
+    "wof:geomhash":"af4c59c1ac4dd4632b48a45d1c50bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108664377
+        }
+    ],
+    "wof:id":1108664377,
+    "wof:lastmodified":1474068419,
+    "wof:name":"Aycan Plastik San.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "raw",
+        "material"
+    ]
+},
+  "bbox": [
+    29.0452651978,
+    41.1170196533,
+    29.0452651978,
+    41.1170196533
+],
+  "geometry": {"coordinates":[29.0452651978,41.1170196533],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108633853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8978691101,41.0050697327,28.8978691101,41.0050697327",
+    "geom:latitude":41.00507,
+    "geom:longitude":28.897869,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirciler Sitesi 7.cad.no:50 Zeytinburnu",
+    "sg:city":"19100",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 664 9702",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-",
+        "export",
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0US4SUUj4Q232x1PWBtWTS_41.005070_28.897869@1306270066"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067178,
+    "wof:geomhash":"0639fa1b5f5cdae93cd5709dd9fd0938",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108633853
+        }
+    ],
+    "wof:id":1108633853,
+    "wof:lastmodified":1474067178,
+    "wof:name":"Ali Soylu",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "export",
+        "import"
+    ]
+},
+  "bbox": [
+    28.8978691101,
+    41.0050697327,
+    28.8978691101,
+    41.0050697327
+],
+  "geometry": {"coordinates":[28.8978691101,41.0050697327],"type":"Point"}
+}

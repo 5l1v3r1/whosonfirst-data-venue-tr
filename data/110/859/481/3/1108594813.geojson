@@ -1,0 +1,68 @@
+{
+  "id": 1108594813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8638000488,39.9162254333,32.8638000488,39.9162254333",
+    "geom:latitude":39.916225,
+    "geom:longitude":32.8638,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bulbulderesi Cad. No:126/1-19 -b5",
+    "sg:city":"K.esat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 4422",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BKSJ9mAneLnUge0JYezBw_39.916225_32.863800@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065413,
+    "wof:geomhash":"2caf680c76690d35caf29a539889899f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108594813
+        }
+    ],
+    "wof:id":1108594813,
+    "wof:lastmodified":1474065413,
+    "wof:name":"Marmara Peyzaj",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    32.8638000488,
+    39.9162254333,
+    32.8638000488,
+    39.9162254333
+],
+  "geometry": {"coordinates":[32.8638000488,39.9162254333],"type":"Point"}
+}

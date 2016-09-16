@@ -1,0 +1,69 @@
+{
+  "id": 1108580389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9784221649,41.0120887756,28.9784221649,41.0120887756",
+    "geom:latitude":41.012089,
+    "geom:longitude":28.978422,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdar Cd. No:19 Sirkeci",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 5569",
+    "sg:postcode":"16370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904153,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QRQo2czLxCqOYDqrbIJ3A_41.012089_28.978422@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065014,
+    "wof:geomhash":"5ece57856e83ae60c7a66b287c582bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904153,
+            "region_id":85679237,
+            "venue_id":1108580389
+        }
+    ],
+    "wof:id":1108580389,
+    "wof:lastmodified":1474065014,
+    "wof:name":"Hedef Otomotiv San. Tic. A.s.",
+    "wof:parent_id":85904153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    28.9784221649,
+    41.0120887756,
+    28.9784221649,
+    41.0120887756
+],
+  "geometry": {"coordinates":[28.9784221649,41.0120887756],"type":"Point"}
+}

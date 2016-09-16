@@ -1,0 +1,73 @@
+{
+  "id": 1108673581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0452651978,41.1170196533,29.0452651978,41.1170196533",
+    "geom:latitude":41.11702,
+    "geom:longitude":29.045265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?apari Sk. No:2",
+    "sg:city":"Istinye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 229 3785",
+    "sg:postcode":"34460",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TlINj7KIG5oZRXW1PImLK_41.117020_29.045265@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068786,
+    "wof:geomhash":"af4c59c1ac4dd4632b48a45d1c50bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108673581
+        }
+    ],
+    "wof:id":1108673581,
+    "wof:lastmodified":1474068786,
+    "wof:name":"?agri ?i?ek Ve Servis Hizm.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0452651978,
+    41.1170196533,
+    29.0452651978,
+    41.1170196533
+],
+  "geometry": {"coordinates":[29.0452651978,41.1170196533],"type":"Point"}
+}

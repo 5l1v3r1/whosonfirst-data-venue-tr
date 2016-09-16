@@ -1,0 +1,68 @@
+{
+  "id": 1108642485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1422595978,38.4252090454,27.1422595978,38.4252090454",
+    "geom:latitude":38.425209,
+    "geom:longitude":27.14226,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2836.sok.no:31/1 San.sitesi",
+    "sg:city":"Sel?uklu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 433 7925",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KS6ORao4x2xGIvs5OOpov_38.425209_27.142260@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067510,
+    "wof:geomhash":"90d1a9ccfa9937fad3be809169d695ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108642485
+        }
+    ],
+    "wof:id":1108642485,
+    "wof:lastmodified":1474067510,
+    "wof:name":"Esbir A.s.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    27.1422595978,
+    38.4252090454,
+    27.1422595978,
+    38.4252090454
+],
+  "geometry": {"coordinates":[27.1422595978,38.4252090454],"type":"Point"}
+}

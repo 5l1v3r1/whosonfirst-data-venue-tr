@@ -1,0 +1,75 @@
+{
+  "id": 1108655105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.987569809,41.0759658813,28.987569809,41.0759658813",
+    "geom:latitude":41.075966,
+    "geom:longitude":28.98757,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cd. No:103 K:9 Gayrettepe",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 1963",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tAZqfPHA5rhucALqgYh6m_41.075966_28.987570@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068062,
+    "wof:geomhash":"4f5327a8f967a678a41956d86fa57ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108655105
+        }
+    ],
+    "wof:id":1108655105,
+    "wof:lastmodified":1474068062,
+    "wof:name":"Birlik Madencilik Tur San. Tic. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.987569809,
+    41.0759658813,
+    28.987569809,
+    41.0759658813
+],
+  "geometry": {"coordinates":[28.987569809,41.0759658813],"type":"Point"}
+}

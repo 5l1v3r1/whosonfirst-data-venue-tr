@@ -1,0 +1,61 @@
+{
+  "id": 1108678943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1269626617,40.9230308533,29.1269626617,40.9230308533",
+    "geom:latitude":40.923031,
+    "geom:longitude":29.126963,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rihtim Cd. No:35/11",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 2546",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nx3U9KWcuIiJ9KWQQWzJY_40.923031_29.126963@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069004,
+    "wof:geomhash":"fd70d3f25881d4396e356a962ee4f5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108678943
+        }
+    ],
+    "wof:id":1108678943,
+    "wof:lastmodified":1474069004,
+    "wof:name":"?agtay Denizcilik Tic. Ltd. Sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1269626617,
+    40.9230308533,
+    29.1269626617,
+    40.9230308533
+],
+  "geometry": {"coordinates":[29.1269626617,40.9230308533],"type":"Point"}
+}

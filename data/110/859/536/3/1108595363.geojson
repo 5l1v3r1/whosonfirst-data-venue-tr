@@ -1,0 +1,73 @@
+{
+  "id": 1108595363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9644985199,41.0456199646,28.9644985199,41.0456199646",
+    "geom:latitude":41.04562,
+    "geom:longitude":28.964499,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Piyalepasa Mh. Piyalepasa Cd. No:172/2 Okmeydani",
+    "sg:city":"Incesu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 235 9554",
+    "sg:postcode":"32765",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lathe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wlaKz5Vzprzuep5LhGOvz_41.045620_28.964499@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065433,
+    "wof:geomhash":"479f6c36e2b79a9adff34e78aa1833e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108595363
+        }
+    ],
+    "wof:id":1108595363,
+    "wof:lastmodified":1474065433,
+    "wof:name":"Yapan Torna",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lathe"
+    ]
+},
+  "bbox": [
+    28.9644985199,
+    41.0456199646,
+    28.9644985199,
+    41.0456199646
+],
+  "geometry": {"coordinates":[28.9644985199,41.0456199646],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108572213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2127437592,38.4401092529,27.2127437592,38.4401092529",
+    "geom:latitude":38.440109,
+    "geom:longitude":27.212744,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Isikkent",
+    "sg:city":"Eskigaraj",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 472 1688",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jTcZlQqxW2Oo7Ojwd7Uvb_38.440109_27.212744@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064548,
+    "wof:geomhash":"30a7384d27764c7969cf7d7022801923",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108572213
+        }
+    ],
+    "wof:id":1108572213,
+    "wof:lastmodified":1474064548,
+    "wof:name":"Salipak/fulya Plastik",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    27.2127437592,
+    38.4401092529,
+    27.2127437592,
+    38.4401092529
+],
+  "geometry": {"coordinates":[27.2127437592,38.4401092529],"type":"Point"}
+}

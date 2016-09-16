@@ -1,0 +1,71 @@
+{
+  "id": 1108602761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9031791687,41.0578613281,28.9031791687,41.0578613281",
+    "geom:latitude":41.057861,
+    "geom:longitude":28.903179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe Mh. Bilgehan Cd. No:25",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 545 7148",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WX6vJdqVY1BGVua3OC9hI_41.057861_28.903179@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065745,
+    "wof:geomhash":"36781dc5f3bb8a229bedf120eded2243",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108602761
+        }
+    ],
+    "wof:id":1108602761,
+    "wof:lastmodified":1474065745,
+    "wof:name":"Volkan Ins. Isi Tesis. San. Tic.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9031791687,
+    41.0578613281,
+    28.9031791687,
+    41.0578613281
+],
+  "geometry": {"coordinates":[28.9031791687,41.0578613281],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108672203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0750999451,41.0119819641,29.0750999451,41.0119819641",
+    "geom:latitude":41.011982,
+    "geom:longitude":29.0751,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bulgurlu Mah. Libadiye Cad. No:35",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 443 3401",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OLmgZiDv23VwzCGGA1o2Y_41.011982_29.075100@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068725,
+    "wof:geomhash":"965f350a09305c4c4e89e2dea047c5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108672203
+        }
+    ],
+    "wof:id":1108672203,
+    "wof:lastmodified":1474068725,
+    "wof:name":"Delta Aquaculture Equipment Ltd.",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    29.0750999451,
+    41.0119819641,
+    29.0750999451,
+    41.0119819641
+],
+  "geometry": {"coordinates":[29.0750999451,41.0119819641],"type":"Point"}
+}

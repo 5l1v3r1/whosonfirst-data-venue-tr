@@ -1,0 +1,68 @@
+{
+  "id": 1108571395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8587799072,39.884765625,32.8587799072,39.884765625",
+    "geom:latitude":39.884766,
+    "geom:longitude":32.85878,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemal Nadir Sk. No:17/4 ?ankaya",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 2984",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30rMutO57VO5BjDpgn75S6_39.884766_32.858780@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064511,
+    "wof:geomhash":"5a7794ffa995f44c7574f6746e12f9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108571395
+        }
+    ],
+    "wof:id":1108571395,
+    "wof:lastmodified":1474064511,
+    "wof:name":"Internationale Plastik Modern Yapi Eleman. San. Tic. A.s.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8587799072,
+    39.884765625,
+    32.8587799072,
+    39.884765625
+],
+  "geometry": {"coordinates":[32.8587799072,39.884765625],"type":"Point"}
+}

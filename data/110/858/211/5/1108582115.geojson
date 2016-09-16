@@ -1,0 +1,72 @@
+{
+  "id": 1108582115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0527954102,41.1380805969,29.0527954102,41.1380805969",
+    "geom:latitude":41.138081,
+    "geom:longitude":29.052795,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salci Sk. No:1 Tarabya",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 262 8068",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        102191569,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GOjdpUqECL1PWyeZIza5W_41.138081_29.052795@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065065,
+    "wof:geomhash":"341bc6f1a57befff6509005151425f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":1108582115
+        }
+    ],
+    "wof:id":1108582115,
+    "wof:lastmodified":1474065065,
+    "wof:name":"U?arlar Otomotiv San. A.s.",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0527954102,
+    41.1380805969,
+    29.0527954102,
+    41.1380805969
+],
+  "geometry": {"coordinates":[29.0527954102,41.1380805969],"type":"Point"}
+}

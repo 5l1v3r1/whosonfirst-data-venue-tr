@@ -1,0 +1,63 @@
+{
+  "id": 1108611607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.820690155,40.9821014404,28.820690155,40.9821014404",
+    "geom:latitude":40.982101,
+    "geom:longitude":28.82069,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tekin Gunver Sitesi 28/1 Ulus 80600 Ist",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 0585",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        102535819,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BMRPzc0EXNh2pEoo0PPZz_40.982101_28.820690@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066145,
+    "wof:geomhash":"adc57c8fdb84d57e97750b472276f14a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535819,
+            "country_id":85632393,
+            "region_id":85679237,
+            "venue_id":1108611607
+        }
+    ],
+    "wof:id":1108611607,
+    "wof:lastmodified":1474066145,
+    "wof:name":"Hoffman Kuru Temizleme",
+    "wof:parent_id":102535819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.820690155,
+    40.9821014404,
+    28.820690155,
+    40.9821014404
+],
+  "geometry": {"coordinates":[28.820690155,40.9821014404],"type":"Point"}
+}

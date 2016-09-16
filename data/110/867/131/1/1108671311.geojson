@@ -1,0 +1,73 @@
+{
+  "id": 1108671311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9864616394,41.0456390381,28.9864616394,41.0456390381",
+    "geom:latitude":41.045639,
+    "geom:longitude":28.986462,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ergenekon Mah. Cumhuriyet Cad. No.287/1 Harbiye",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 7210",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b5dDWaPWOcVVrh3FuwoBF_41.045639_28.986462@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068693,
+    "wof:geomhash":"bd0c10949aadf84b1b147f1b5a16f5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108671311
+        }
+    ],
+    "wof:id":1108671311,
+    "wof:lastmodified":1474068693,
+    "wof:name":"Tezal Menkul Degerler",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9864616394,
+    41.0456390381,
+    28.9864616394,
+    41.0456390381
+],
+  "geometry": {"coordinates":[28.9864616394,41.0456390381],"type":"Point"}
+}

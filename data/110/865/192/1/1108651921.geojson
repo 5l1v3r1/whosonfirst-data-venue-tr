@@ -1,0 +1,72 @@
+{
+  "id": 1108651921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9739227295,41.0548591614,28.9739227295,41.0548591614",
+    "geom:latitude":41.054859,
+    "geom:longitude":28.973923,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abide-i H?riyet Cad. No:283/13 Sisli",
+    "sg:city":"G?kpinar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 0057",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z0LxY9XvxXLXm9hFgEZW4_41.054859_28.973923@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067919,
+    "wof:geomhash":"1f48c69632d90b63d95b409f5013186d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108651921
+        }
+    ],
+    "wof:id":1108651921,
+    "wof:lastmodified":1474067919,
+    "wof:name":"Temsa Sag. Arac Grc.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9739227295,
+    41.0548591614,
+    28.9739227295,
+    41.0548591614
+],
+  "geometry": {"coordinates":[28.9739227295,41.0548591614],"type":"Point"}
+}

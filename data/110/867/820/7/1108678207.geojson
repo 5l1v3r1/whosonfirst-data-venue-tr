@@ -1,0 +1,72 @@
+{
+  "id": 1108678207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.021692276,41.0634727478,29.021692276,41.0634727478",
+    "geom:latitude":41.063473,
+    "geom:longitude":29.021692,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cd. Birlik Sk. Levent",
+    "sg:city":"Findikzade-fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 8341",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929441,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kjStOBu47abMVKfePgFhz_41.063473_29.021692@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068971,
+    "wof:geomhash":"07b816d0e8b07d61e38a768891323a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929441,
+            "region_id":85679237,
+            "venue_id":1108678207
+        }
+    ],
+    "wof:id":1108678207,
+    "wof:lastmodified":1474068971,
+    "wof:name":"Turkiye Kanser. Savas Vakfi",
+    "wof:parent_id":85929441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.021692276,
+    41.0634727478,
+    29.021692276,
+    41.0634727478
+],
+  "geometry": {"coordinates":[29.021692276,41.0634727478],"type":"Point"}
+}

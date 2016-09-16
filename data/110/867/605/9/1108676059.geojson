@@ -1,0 +1,69 @@
+{
+  "id": 1108676059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8718795776,39.8948326111,32.8718795776,39.8948326111",
+    "geom:latitude":39.894833,
+    "geom:longitude":32.87188,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rabat Sk.no:20 G.o.p.",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 6031",
+    "sg:postcode":"01220",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oLjQkF5puz1czlpoTqmf8_39.894833_32.871880@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068894,
+    "wof:geomhash":"7f9b5b7262b93d1cbc0f61d00e980402",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108676059
+        }
+    ],
+    "wof:id":1108676059,
+    "wof:lastmodified":1474068894,
+    "wof:name":"Kibris T?rk Cumh.b?y?kel?iligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8718795776,
+    39.8948326111,
+    32.8718795776,
+    39.8948326111
+],
+  "geometry": {"coordinates":[32.8718795776,39.8948326111],"type":"Point"}
+}

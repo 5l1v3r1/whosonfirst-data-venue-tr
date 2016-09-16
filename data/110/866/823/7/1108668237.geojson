@@ -1,0 +1,71 @@
+{
+  "id": 1108668237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.963136673,41.00938797,28.963136673,41.00938797",
+    "geom:latitude":41.009388,
+    "geom:longitude":28.963137,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordu Cad. No:19/3 34490 Beyazit",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 638 5693",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904087,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62NLZNBUl8OUMtPamUbaFb_41.009388_28.963137@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068578,
+    "wof:geomhash":"f72bec43f5f54dc0a2036b21f35338e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904087,
+            "region_id":85679237,
+            "venue_id":1108668237
+        }
+    ],
+    "wof:id":1108668237,
+    "wof:lastmodified":1474068578,
+    "wof:name":"M&t Yayincilik Organizasyon Ltd.sti.",
+    "wof:parent_id":85904087,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.963136673,
+    41.00938797,
+    28.963136673,
+    41.00938797
+],
+  "geometry": {"coordinates":[28.963136673,41.00938797],"type":"Point"}
+}

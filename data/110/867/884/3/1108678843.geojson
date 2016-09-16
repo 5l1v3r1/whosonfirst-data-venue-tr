@@ -1,0 +1,64 @@
+{
+  "id": 1108678843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9241065979,41.0232849121,28.9241065979,41.0232849121",
+    "geom:latitude":41.023285,
+    "geom:longitude":28.924107,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Topkapi Cd. No:8079",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 342 9704",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JYFnmUWnrtoyT88BBMabe_41.023285_28.924107@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069000,
+    "wof:geomhash":"cda325bd822066677621a156dcad6176",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108678843
+        }
+    ],
+    "wof:id":1108678843,
+    "wof:lastmodified":1474069000,
+    "wof:name":"Star Denizcilik Tic. Ltd. Sti.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9241065979,
+    41.0232849121,
+    28.9241065979,
+    41.0232849121
+],
+  "geometry": {"coordinates":[28.9241065979,41.0232849121],"type":"Point"}
+}

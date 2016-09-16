@@ -1,0 +1,77 @@
+{
+  "id": 1108664007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8254528046,40.9621620178,28.8254528046,40.9621620178",
+    "geom:latitude":40.962162,
+    "geom:longitude":28.825453,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hatboyu C. No: 12 Bakirk?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 561 1982",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929771,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PUYUcCjEKxFi6OSZNehuL_40.962162_28.825453@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068405,
+    "wof:geomhash":"4e259387edfd6f166f7662c8a0b5db1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929771,
+            "region_id":85679237,
+            "venue_id":1108664007
+        }
+    ],
+    "wof:id":1108664007,
+    "wof:lastmodified":1474068405,
+    "wof:name":"Palkapen Plastik Kapi Pencere San. Tic. A.s.",
+    "wof:parent_id":85929771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    28.8254528046,
+    40.9621620178,
+    28.8254528046,
+    40.9621620178
+],
+  "geometry": {"coordinates":[28.8254528046,40.9621620178],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108648171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8666992188,39.9166984558,32.8666992188,39.9166984558",
+    "geom:latitude":39.916698,
+    "geom:longitude":32.866699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karanfil Sk. No:44/7 Bakanliklar",
+    "sg:city":"27020",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 8110",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yBNn3B3tjtqEPmadTsQQG_39.916698_32.866699@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067749,
+    "wof:geomhash":"77a0aa82a24a53a2d97ad453162c5d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108648171
+        }
+    ],
+    "wof:id":1108648171,
+    "wof:lastmodified":1474067749,
+    "wof:name":"Bulut Medikal Elekt. San.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8666992188,
+    39.9166984558,
+    32.8666992188,
+    39.9166984558
+],
+  "geometry": {"coordinates":[32.8666992188,39.9166984558],"type":"Point"}
+}

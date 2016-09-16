@@ -1,0 +1,68 @@
+{
+  "id": 1108662845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8498725891,39.903465271,32.8498725891,39.903465271",
+    "geom:latitude":39.903465,
+    "geom:longitude":32.849873,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cad. No:179/6 Y. Ayranci",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 6213",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ed8JotSIxVSaz6JJngDY6_39.903465_32.849873@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068359,
+    "wof:geomhash":"eb0f21762e2d76a50c7c9e60ddf5b6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108662845
+        }
+    ],
+    "wof:id":1108662845,
+    "wof:lastmodified":1474068359,
+    "wof:name":"Berk Ith. Ihr. Ltd. Sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    32.8498725891,
+    39.903465271,
+    32.8498725891,
+    39.903465271
+],
+  "geometry": {"coordinates":[32.8498725891,39.903465271],"type":"Point"}
+}

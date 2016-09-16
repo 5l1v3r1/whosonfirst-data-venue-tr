@@ -1,0 +1,73 @@
+{
+  "id": 1108665241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8388290405,39.9315986633,32.8388290405,39.9315986633",
+    "geom:latitude":39.931599,
+    "geom:longitude":32.838829,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turgut Reis Cad. No:37/1",
+    "sg:city":"Tandogan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 232 2158",
+    "sg:postcode":"44050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904083,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IbqnBelQFJZTdsuT4HInG_39.931599_32.838829@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068455,
+    "wof:geomhash":"914b0f5d79be4935e14852bae7f712c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904083,
+            "region_id":85679409,
+            "venue_id":1108665241
+        }
+    ],
+    "wof:id":1108665241,
+    "wof:lastmodified":1474068455,
+    "wof:name":"Akademi Devekusu",
+    "wof:parent_id":85904083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    32.8388290405,
+    39.9315986633,
+    32.8388290405,
+    39.9315986633
+],
+  "geometry": {"coordinates":[32.8388290405,39.9315986633],"type":"Point"}
+}

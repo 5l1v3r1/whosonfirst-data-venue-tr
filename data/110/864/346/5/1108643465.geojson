@@ -1,0 +1,72 @@
+{
+  "id": 1108643465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9790115356,41.0256652832,28.9790115356,41.0256652832",
+    "geom:latitude":41.025665,
+    "geom:longitude":28.979012,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cad.no:91 Karakoy",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 5473",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QZITps5lGJ34UQ1xFepDJ_41.025665_28.979012@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067543,
+    "wof:geomhash":"7f7b091605c2f0c81f572381e90159d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":1108643465
+        }
+    ],
+    "wof:id":1108643465,
+    "wof:lastmodified":1474067543,
+    "wof:name":"Teknik -motor Ltd.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    28.9790115356,
+    41.0256652832,
+    28.9790115356,
+    41.0256652832
+],
+  "geometry": {"coordinates":[28.9790115356,41.0256652832],"type":"Point"}
+}

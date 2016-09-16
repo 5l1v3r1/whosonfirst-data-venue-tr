@@ -1,0 +1,69 @@
+{
+  "id": 1108613775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9141273499,41.0323371887,28.9141273499,41.0323371887",
+    "geom:latitude":41.032337,
+    "geom:longitude":28.914127,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Numunebag Cd. No:36",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 4787",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sQZ8Zp3YvR6Hu81xvoGQ8_41.032337_28.914127@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066226,
+    "wof:geomhash":"c9f796ab8279906152df3a5f1bb2bcd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108613775
+        }
+    ],
+    "wof:id":1108613775,
+    "wof:lastmodified":1474066226,
+    "wof:name":"Astas Teknik Malz. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    28.9141273499,
+    41.0323371887,
+    28.9141273499,
+    41.0323371887
+],
+  "geometry": {"coordinates":[28.9141273499,41.0323371887],"type":"Point"}
+}

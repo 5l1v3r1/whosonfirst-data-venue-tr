@@ -1,0 +1,73 @@
+{
+  "id": 1108651377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.4988803864,39.7645759583,30.4988803864,39.7645759583",
+    "geom:latitude":39.764576,
+    "geom:longitude":30.49888,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari No: 128/a",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 226 4316",
+    "sg:postcode":"01740",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934759,
+        102191569,
+        85632393,
+        101912873,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eAxoy1Wv0dz0vjB3CS6uL_39.764576_30.498880@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067899,
+    "wof:geomhash":"1a57b70c5422312956a0b8026d3cb99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912873,
+            "neighbourhood_id":85934759,
+            "region_id":85679255,
+            "venue_id":1108651377
+        }
+    ],
+    "wof:id":1108651377,
+    "wof:lastmodified":1474067899,
+    "wof:name":"Medalp Tibbi Cihaz Ve Sarf Malz.",
+    "wof:parent_id":85934759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    30.4988803864,
+    39.7645759583,
+    30.4988803864,
+    39.7645759583
+],
+  "geometry": {"coordinates":[30.4988803864,39.7645759583],"type":"Point"}
+}

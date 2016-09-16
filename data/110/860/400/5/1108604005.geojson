@@ -1,0 +1,71 @@
+{
+  "id": 1108604005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8725547791,39.8899002075,32.8725547791,39.8899002075",
+    "geom:latitude":39.8899,
+    "geom:longitude":32.872555,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahatma Gandi Cd. No:41/2 G.o.pasa",
+    "sg:city":"Kocasinan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 6220",
+    "sg:postcode":"38010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "aluminium",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CAK6XrzZanb6IGjJnOQ9e_39.889900_32.872555@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065795,
+    "wof:geomhash":"8e944de0f3cbd9d67c9c03220175b86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108604005
+        }
+    ],
+    "wof:id":1108604005,
+    "wof:lastmodified":1474065795,
+    "wof:name":"Ankara Al?minyum San. Tic. A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8725547791,
+    39.8899002075,
+    32.8725547791,
+    39.8899002075
+],
+  "geometry": {"coordinates":[32.8725547791,39.8899002075],"type":"Point"}
+}

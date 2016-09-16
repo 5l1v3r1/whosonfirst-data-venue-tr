@@ -1,0 +1,75 @@
+{
+  "id": 1108602123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9957408905,41.0594329834,28.9957408905,41.0594329834",
+    "geom:latitude":41.059433,
+    "geom:longitude":28.995741,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolapdere Bulbul Mah. Serdar Omer Pasa Cad. Guven Plaza No:7/9",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122383844729",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_460RFoNC74ijYrsgD97tFQ_41.059433_28.995741@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065721,
+    "wof:geomhash":"5df63a3fff3a9f6a633d8861e339f7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108602123
+        }
+    ],
+    "wof:id":1108602123,
+    "wof:lastmodified":1474065721,
+    "wof:name":"G?ven Klima Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9957408905,
+    41.0594329834,
+    28.9957408905,
+    41.0594329834
+],
+  "geometry": {"coordinates":[28.9957408905,41.0594329834],"type":"Point"}
+}

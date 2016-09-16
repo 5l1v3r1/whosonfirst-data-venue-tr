@@ -1,0 +1,72 @@
+{
+  "id": 1108573393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0357761383,41.0870246887,29.0357761383,41.0870246887",
+    "geom:latitude":41.087025,
+    "geom:longitude":29.035776,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cengiz Topel Cad. No:22",
+    "sg:city":"B Cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 883 0987",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pgwmbLgWYwus1L3qiqepS_41.087025_29.035776@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064595,
+    "wof:geomhash":"a058cf9b5221444d94541a0d48a2bba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108573393
+        }
+    ],
+    "wof:id":1108573393,
+    "wof:lastmodified":1474064595,
+    "wof:name":"Asel Cam San",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0357761383,
+    41.0870246887,
+    29.0357761383,
+    41.0870246887
+],
+  "geometry": {"coordinates":[29.0357761383,41.0870246887],"type":"Point"}
+}

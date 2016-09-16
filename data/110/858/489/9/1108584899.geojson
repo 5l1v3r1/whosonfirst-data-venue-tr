@@ -1,0 +1,68 @@
+{
+  "id": 1108584899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8851490021,41.009601593,28.8851490021,41.009601593",
+    "geom:latitude":41.009602,
+    "geom:longitude":28.885149,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cad. Alaybey Sok. No:13",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 642 0797",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxl6KiOdCBECI5TlgwmsL_41.009602_28.885149@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065129,
+    "wof:geomhash":"4cf587ff90e15022be870ce9061e42ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108584899
+        }
+    ],
+    "wof:id":1108584899,
+    "wof:lastmodified":1474065129,
+    "wof:name":"Inci Group Of Co",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    28.8851490021,
+    41.009601593,
+    28.8851490021,
+    41.009601593
+],
+  "geometry": {"coordinates":[28.8851490021,41.009601593],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108618107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9897098541,41.0453491211,28.9897098541,41.0453491211",
+    "geom:latitude":41.045349,
+    "geom:longitude":28.98971,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taskisla Cad.",
+    "sg:city":"Taksim",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2123681234729",
+    "sg:postcode":"80090",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YeuafDiQ73avUl8sSMXLN_41.045349_28.989710@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066394,
+    "wof:geomhash":"03cefffd20f90971d71fda33a333f058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":1108618107
+        }
+    ],
+    "wof:id":1108618107,
+    "wof:lastmodified":1474066394,
+    "wof:name":"Hyatt Regency Istanbul",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9897098541,
+    41.0453491211,
+    28.9897098541,
+    41.0453491211
+],
+  "geometry": {"coordinates":[28.9897098541,41.0453491211],"type":"Point"}
+}

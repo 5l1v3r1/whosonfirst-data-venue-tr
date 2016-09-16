@@ -1,0 +1,63 @@
+{
+  "id": 1108572947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1516056061,38.4309692383,27.1516056061,38.4309692383",
+    "geom:latitude":38.430969,
+    "geom:longitude":27.151606,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1421 Sk. 63/5 Alsancak",
+    "sg:city":"4640",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0329",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69wolWOjy1oWieHGoawBqG_38.430969_27.151606@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064578,
+    "wof:geomhash":"983d609c8dc8ef1776f5ae9cb42fc64e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108572947
+        }
+    ],
+    "wof:id":1108572947,
+    "wof:lastmodified":1474064578,
+    "wof:name":"Demoplex Ltd. Sti.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1516056061,
+    38.4309692383,
+    27.1516056061,
+    38.4309692383
+],
+  "geometry": {"coordinates":[27.1516056061,38.4309692383],"type":"Point"}
+}

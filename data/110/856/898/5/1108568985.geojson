@@ -1,0 +1,71 @@
+{
+  "id": 1108568985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9148864746,41.0322761536,28.9148864746,41.0322761536",
+    "geom:latitude":41.032276,
+    "geom:longitude":28.914886,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eminefendi Cd. No:12 Bayrampasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 3022",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NW1k53HDzL9s5MFn2Vek6_41.032276_28.914886@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064415,
+    "wof:geomhash":"d1c031d6c8493a0fbd66dbc4bece8da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108568985
+        }
+    ],
+    "wof:id":1108568985,
+    "wof:lastmodified":1474064415,
+    "wof:name":"Rida Makina Tic. San. Ltd. Sti.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9148864746,
+    41.0322761536,
+    28.9148864746,
+    41.0322761536
+],
+  "geometry": {"coordinates":[28.9148864746,41.0322761536],"type":"Point"}
+}

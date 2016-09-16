@@ -1,0 +1,69 @@
+{
+  "id": 1108602197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9754486084,41.0124969482,28.9754486084,41.0124969482",
+    "geom:latitude":41.012497,
+    "geom:longitude":28.975449,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cad No:47 /b",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 0589",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QpW8y9iYbobp8CN16SVuR_41.012497_28.975449@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065724,
+    "wof:geomhash":"24f48ccec0bb4bd103045d295a4d411e",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108602197
+        }
+    ],
+    "wof:id":1108602197,
+    "wof:lastmodified":1474065724,
+    "wof:name":"Ime M?hendislik",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9754486084,
+    41.0124969482,
+    28.9754486084,
+    41.0124969482
+],
+  "geometry": {"coordinates":[28.9754486084,41.0124969482],"type":"Point"}
+}

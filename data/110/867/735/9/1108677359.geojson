@@ -1,0 +1,73 @@
+{
+  "id": 1108677359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0005054474,41.0693359375,29.0005054474,41.0693359375",
+    "geom:latitude":41.069336,
+    "geom:longitude":29.000505,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemal S. Sk No:26/28 Mecidiyek?",
+    "sg:city":"Sapanca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3944",
+    "sg:postcode":"54600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29vQcH9j2spgS0KehtkgG3_41.069336_29.000505@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068938,
+    "wof:geomhash":"7bf65a1bdad9e58fa22088280b81cba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108677359
+        }
+    ],
+    "wof:id":1108677359,
+    "wof:lastmodified":1474068938,
+    "wof:name":"500.yil Vakfi",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0005054474,
+    41.0693359375,
+    29.0005054474,
+    41.0693359375
+],
+  "geometry": {"coordinates":[29.0005054474,41.0693359375],"type":"Point"}
+}

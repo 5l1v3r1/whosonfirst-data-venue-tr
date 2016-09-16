@@ -1,0 +1,69 @@
+{
+  "id": 1108610167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1627292633,41.0060386658,29.1627292633,41.0060386658",
+    "geom:latitude":41.006039,
+    "geom:longitude":29.162729,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abide-i H?riyet Cd. No: 103",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 0237",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lWBRkV1zpMGolmHuvonJL_41.006039_29.162729@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066083,
+    "wof:geomhash":"c838284d4e4ae1291ce3b0adfeb92fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108610167
+        }
+    ],
+    "wof:id":1108610167,
+    "wof:lastmodified":1474066083,
+    "wof:name":"Ideko Ic Mimari Ltd.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.1627292633,
+    41.0060386658,
+    29.1627292633,
+    41.0060386658
+],
+  "geometry": {"coordinates":[29.1627292633,41.0060386658],"type":"Point"}
+}

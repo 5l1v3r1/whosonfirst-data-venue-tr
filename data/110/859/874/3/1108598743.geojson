@@ -1,0 +1,75 @@
+{
+  "id": 1108598743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9985485077,41.0475387573,28.9985485077,41.0475387573",
+    "geom:latitude":41.047539,
+    "geom:longitude":28.998549,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalipci Sk. 152",
+    "sg:city":"Tesvikiye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 8298",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rxUSBpT03uzGkiTt5F7AR_41.047539_28.998549@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065580,
+    "wof:geomhash":"18d73785488afec57850cdcea15d8c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108598743
+        }
+    ],
+    "wof:id":1108598743,
+    "wof:lastmodified":1474065580,
+    "wof:name":"Bishop",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9985485077,
+    41.0475387573,
+    28.9985485077,
+    41.0475387573
+],
+  "geometry": {"coordinates":[28.9985485077,41.0475387573],"type":"Point"}
+}

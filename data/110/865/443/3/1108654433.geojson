@@ -1,0 +1,70 @@
+{
+  "id": 1108654433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8938426971,41.0784645081,28.8938426971,41.0784645081",
+    "geom:latitude":41.078465,
+    "geom:longitude":28.893843,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1058 Sk. No.38",
+    "sg:city":"K??k?",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 618 7080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aXVMS7jXtMHLw5g5Jgc1I_41.078465_28.893843@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068040,
+    "wof:geomhash":"31f0b1749eb14e377af84525facc01f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108654433
+        }
+    ],
+    "wof:id":1108654433,
+    "wof:lastmodified":1474068040,
+    "wof:name":"An S?t ?rnl. San.a.s.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    28.8938426971,
+    41.0784645081,
+    28.8938426971,
+    41.0784645081
+],
+  "geometry": {"coordinates":[28.8938426971,41.0784645081],"type":"Point"}
+}

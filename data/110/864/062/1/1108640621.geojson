@@ -1,0 +1,63 @@
+{
+  "id": 1108640621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8666992188,39.9500007629,32.8666992188,39.9500007629",
+    "geom:latitude":39.950001,
+    "geom:longitude":32.866699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atat?k Bulv. No:33 Altindag",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 4840",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904077,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4odbZU4Xp4r4m7UK07I7NA_39.950001_32.866699@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067448,
+    "wof:geomhash":"3545cb5e49bc75b0428515e9d8bef717",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":1108640621
+        }
+    ],
+    "wof:id":1108640621,
+    "wof:lastmodified":1474067448,
+    "wof:name":"Turk Hava Kurumu Dernegi",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8666992188,
+    39.9500007629,
+    32.8666992188,
+    39.9500007629
+],
+  "geometry": {"coordinates":[32.8666992188,39.9500007629],"type":"Point"}
+}

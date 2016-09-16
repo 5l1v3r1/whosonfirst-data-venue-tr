@@ -1,0 +1,73 @@
+{
+  "id": 1108609901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0058135986,41.0479812622,29.0058135986,41.0479812622",
+    "geom:latitude":41.047981,
+    "geom:longitude":29.005814,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Sk. No:10",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 226 7639",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zEHSBiEBsIp6cCgyks9W0_41.047981_29.005814@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066074,
+    "wof:geomhash":"04215f613bdc97c926331a2cfd14179b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108609901
+        }
+    ],
+    "wof:id":1108609901,
+    "wof:lastmodified":1474066074,
+    "wof:name":"Casa Dekorasyon",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.0058135986,
+    41.0479812622,
+    29.0058135986,
+    41.0479812622
+],
+  "geometry": {"coordinates":[29.0058135986,41.0479812622],"type":"Point"}
+}

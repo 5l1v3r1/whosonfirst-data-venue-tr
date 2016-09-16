@@ -1,0 +1,68 @@
+{
+  "id": 1108665083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8070411682,41.0345458984,28.8070411682,41.0345458984",
+    "geom:latitude":41.034546,
+    "geom:longitude":28.807041,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dereboyu Cad. No:30",
+    "sg:city":"M.koy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 217 0626",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929887,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gpFn3lT9bKX9KTxDbuTmO_41.034546_28.807041@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068446,
+    "wof:geomhash":"3dd1e6a67a42a74278c685628863ac91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":1108665083
+        }
+    ],
+    "wof:id":1108665083,
+    "wof:lastmodified":1474068446,
+    "wof:name":"Alternatif Dagitim Tasimacilik Tanitim Ve Paz.tic.ltd.sti.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    28.8070411682,
+    41.0345458984,
+    28.8070411682,
+    41.0345458984
+],
+  "geometry": {"coordinates":[28.8070411682,41.0345458984],"type":"Point"}
+}

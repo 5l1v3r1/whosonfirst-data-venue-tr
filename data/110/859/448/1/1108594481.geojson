@@ -1,0 +1,70 @@
+{
+  "id": 1108594481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8582763672,39.9258232117,32.8582763672,39.9258232117",
+    "geom:latitude":39.925823,
+    "geom:longitude":32.858276,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik Sk. No:59/20 Sihhiye",
+    "sg:city":"(352) 222 29 24",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 4893",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y8HGd3iogkwaTCCTODfik_39.925823_32.858276@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065402,
+    "wof:geomhash":"1c2eef4a907acec5a03ba03fae2389df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108594481
+        }
+    ],
+    "wof:id":1108594481,
+    "wof:lastmodified":1474065402,
+    "wof:name":"Metro Medikal Ltd. Sti.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8582763672,
+    39.9258232117,
+    32.8582763672,
+    39.9258232117
+],
+  "geometry": {"coordinates":[32.8582763672,39.9258232117],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108647713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9745006561,41.0350418091,28.9745006561,41.0350418091",
+    "geom:latitude":41.035042,
+    "geom:longitude":28.974501,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Danisman Ge?di No:38 Beyoglu",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 3007",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906547,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dr08QmKAERCMxbKASJmU5_41.035042_28.974501@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067722,
+    "wof:geomhash":"8c8eb2bd41121ee6d000850bddcd06a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906547,
+            "region_id":85679237,
+            "venue_id":1108647713
+        }
+    ],
+    "wof:id":1108647713,
+    "wof:lastmodified":1474067722,
+    "wof:name":"Ak Plastik Ltd. Sti.",
+    "wof:parent_id":85906547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9745006561,
+    41.0350418091,
+    28.9745006561,
+    41.0350418091
+],
+  "geometry": {"coordinates":[28.9745006561,41.0350418091],"type":"Point"}
+}

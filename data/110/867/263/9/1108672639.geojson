@@ -1,0 +1,74 @@
+{
+  "id": 1108672639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1082706451,40.9700660706,29.1082706451,40.9700660706",
+    "geom:latitude":40.970066,
+    "geom:longitude":29.108271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fahrettin Kerim G?ay Cad.no:252/1",
+    "sg:city":"G?ztepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 360 5260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30GcdSPyGclVHAKDV1qCAL_40.970066_29.108271@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068741,
+    "wof:geomhash":"1f0af95ffb1cd5711c5da68324a11c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108672639
+        }
+    ],
+    "wof:id":1108672639,
+    "wof:lastmodified":1474068741,
+    "wof:name":"Torok Parke Kereste-insaat San.ve Tic.ltd.sti",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.1082706451,
+    40.9700660706,
+    29.1082706451,
+    40.9700660706
+],
+  "geometry": {"coordinates":[29.1082706451,40.9700660706],"type":"Point"}
+}

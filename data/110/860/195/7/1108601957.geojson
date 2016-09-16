@@ -1,0 +1,70 @@
+{
+  "id": 1108601957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9986991882,41.0987167358,28.9986991882,41.0987167358",
+    "geom:latitude":41.098717,
+    "geom:longitude":28.998699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe Mh. Cihad Sk. No:5",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 3069",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f7aKYnUpiaXiVi9lmwNfu_41.098717_28.998699@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065715,
+    "wof:geomhash":"bd23e295492a25092052f6da76e016a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108601957
+        }
+    ],
+    "wof:id":1108601957,
+    "wof:lastmodified":1474065715,
+    "wof:name":"Eko Isi Sistem San. Tic.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9986991882,
+    41.0987167358,
+    28.9986991882,
+    41.0987167358
+],
+  "geometry": {"coordinates":[28.9986991882,41.0987167358],"type":"Point"}
+}

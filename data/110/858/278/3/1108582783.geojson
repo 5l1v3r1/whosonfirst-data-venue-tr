@@ -1,0 +1,73 @@
+{
+  "id": 1108582783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0169315338,41.0546836853,29.0169315338,41.0546836853",
+    "geom:latitude":41.054684,
+    "geom:longitude":29.016932,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Cd. Duru Sk. No:1/2 G?tepe",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 4681",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HLfvlyNIKYam2yJ2fASRN_41.054684_29.016932@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065080,
+    "wof:geomhash":"c7f43625de961ae180aa7b2b8938b393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108582783
+        }
+    ],
+    "wof:id":1108582783,
+    "wof:lastmodified":1474065080,
+    "wof:name":"??ay ?zel Egitim Hizm. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    29.0169315338,
+    41.0546836853,
+    29.0169315338,
+    41.0546836853
+],
+  "geometry": {"coordinates":[29.0169315338,41.0546836853],"type":"Point"}
+}

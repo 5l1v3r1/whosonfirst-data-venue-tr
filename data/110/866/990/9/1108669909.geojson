@@ -1,0 +1,73 @@
+{
+  "id": 1108669909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5249118805,39.7647171021,30.5249118805,39.7647171021",
+    "geom:latitude":39.764717,
+    "geom:longitude":30.524912,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pasa Mah.kursunlu Cami Sok. No:31/2",
+    "sg:city":"Tarsus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 234 2149",
+    "sg:postcode":"33400",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "fattening-breeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ijywdp8x3yrlpfg5DojYV_39.764717_30.524912@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068640,
+    "wof:geomhash":"71b7f5dbd61a2bc6ee43f2db64cf5b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108669909
+        }
+    ],
+    "wof:id":1108669909,
+    "wof:lastmodified":1474068640,
+    "wof:name":"Cincila Koop.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fattening-breeding"
+    ]
+},
+  "bbox": [
+    30.5249118805,
+    39.7647171021,
+    30.5249118805,
+    39.7647171021
+],
+  "geometry": {"coordinates":[30.5249118805,39.7647171021],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108601119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1286392212,38.4132270813,27.1286392212,38.4132270813",
+    "geom:latitude":38.413227,
+    "geom:longitude":27.128639,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"413 Sok. No:1 K.2",
+    "sg:city":"Camdibi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 461 9812",
+    "sg:postcode":"24300",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KKSJPRCs2RvYSZdb3EvJo_38.413227_27.128639@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065685,
+    "wof:geomhash":"b5721575e4d6aaf6d69b238104298892",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108601119
+        }
+    ],
+    "wof:id":1108601119,
+    "wof:lastmodified":1474065685,
+    "wof:name":"Saycan Ltd.sti.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1286392212,
+    38.4132270813,
+    27.1286392212,
+    38.4132270813
+],
+  "geometry": {"coordinates":[27.1286392212,38.4132270813],"type":"Point"}
+}

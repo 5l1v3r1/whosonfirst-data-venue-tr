@@ -1,0 +1,64 @@
+{
+  "id": 1108585545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8021411896,41.0067901611,28.8021411896,41.0067901611",
+    "geom:latitude":41.00679,
+    "geom:longitude":28.802141,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Bulvari Sebest Bolge Kavsagi No:166",
+    "sg:city":"Sogutlucesme",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 236 0110",
+    "sg:postcode":"34295",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GNrFDBzgxdDSDwbx78ZL_41.006790_28.802141@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065147,
+    "wof:geomhash":"c025e320a0eaedb1f93ea6da0b59012b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108585545
+        }
+    ],
+    "wof:id":1108585545,
+    "wof:lastmodified":1474065147,
+    "wof:name":"Ceynak",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8021411896,
+    41.0067901611,
+    28.8021411896,
+    41.0067901611
+],
+  "geometry": {"coordinates":[28.8021411896,41.0067901611],"type":"Point"}
+}

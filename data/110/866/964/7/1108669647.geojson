@@ -1,0 +1,72 @@
+{
+  "id": 1108669647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0067977905,41.0706176758,29.0067977905,41.0706176758",
+    "geom:latitude":41.070618,
+    "geom:longitude":29.006798,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglam Fikir Sokak No:19 Esentepe",
+    "sg:city":"Bakirk?y",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dB5uIZsIW6Al4FA3jMwTt_41.070618_29.006798@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068632,
+    "wof:geomhash":"9e4a945c1455d74ddee8bc9f37928d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108669647
+        }
+    ],
+    "wof:id":1108669647,
+    "wof:lastmodified":1474068632,
+    "wof:name":"T?yap T?m Fuarcilik Yapim A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    29.0067977905,
+    41.0706176758,
+    29.0067977905,
+    41.0706176758
+],
+  "geometry": {"coordinates":[29.0067977905,41.0706176758],"type":"Point"}
+}

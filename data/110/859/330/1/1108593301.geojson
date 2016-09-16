@@ -1,0 +1,71 @@
+{
+  "id": 1108593301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0979995728,40.9518852234,29.0979995728,40.9518852234",
+    "geom:latitude":40.951885,
+    "geom:longitude":29.098,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. Kosk Sk. No.6/4",
+    "sg:city":"Kantarci",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 385 2595",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cLm24o0PwFC3BWmh7E1Vp_40.951885_29.098000@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065356,
+    "wof:geomhash":"bab90c5c4eb200ca2a041f9294fe8d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108593301
+        }
+    ],
+    "wof:id":1108593301,
+    "wof:lastmodified":1474065356,
+    "wof:name":"Saskinbakkal Veteriner Klinigi",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    29.0979995728,
+    40.9518852234,
+    29.0979995728,
+    40.9518852234
+],
+  "geometry": {"coordinates":[29.0979995728,40.9518852234],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108645801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9805278778,41.041847229,28.9805278778,41.041847229",
+    "geom:latitude":41.041847,
+    "geom:longitude":28.980528,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolapdere Cad. No:56",
+    "sg:city":"Dolapdere",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 7857",
+    "sg:postcode":"42030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "maritime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906561,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TyEb5Gk5fuRuVs15Daodz_41.041847_28.980528@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067647,
+    "wof:geomhash":"fdaa1eacded04bd06c30c62b22597dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906561,
+            "region_id":85679237,
+            "venue_id":1108645801
+        }
+    ],
+    "wof:id":1108645801,
+    "wof:lastmodified":1474067647,
+    "wof:name":"Mares Denizcilik Turizm San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85906561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "maritime"
+    ]
+},
+  "bbox": [
+    28.9805278778,
+    41.041847229,
+    28.9805278778,
+    41.041847229
+],
+  "geometry": {"coordinates":[28.9805278778,41.041847229],"type":"Point"}
+}

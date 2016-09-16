@@ -1,0 +1,75 @@
+{
+  "id": 1108668133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9913578033,41.0809173584,28.9913578033,41.0809173584",
+    "geom:latitude":41.080917,
+    "geom:longitude":28.991358,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cd. No:391 Cevher Apt. No:6 Sisli",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 5718",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LuIYY0mKtmiU9q5SlbsFx_41.080917_28.991358@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068565,
+    "wof:geomhash":"69fb9d2d57789a09dd4039c75ca88323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108668133
+        }
+    ],
+    "wof:id":1108668133,
+    "wof:lastmodified":1474068565,
+    "wof:name":"Gen? Kardes Egitim Hizmet. Tic. Ltd. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.9913578033,
+    41.0809173584,
+    28.9913578033,
+    41.0809173584
+],
+  "geometry": {"coordinates":[28.9913578033,41.0809173584],"type":"Point"}
+}

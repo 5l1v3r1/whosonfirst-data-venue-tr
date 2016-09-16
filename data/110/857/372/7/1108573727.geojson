@@ -1,0 +1,69 @@
+{
+  "id": 1108573727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.906829834,39.9538040161,32.906829834,39.9538040161",
+    "geom:latitude":39.953804,
+    "geom:longitude":32.90683,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirhendek Cad. No:143",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 7373",
+    "sg:postcode":"07070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M3z3gd1ujjJ1pt60IJf5e_39.953804_32.906830@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064613,
+    "wof:geomhash":"bb1280627ad22ef3395d0347273793bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108573727
+        }
+    ],
+    "wof:id":1108573727,
+    "wof:lastmodified":1474064613,
+    "wof:name":"Guralp Ins Cam San Tic Ltd Sti",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    32.906829834,
+    39.9538040161,
+    32.906829834,
+    39.9538040161
+],
+  "geometry": {"coordinates":[32.906829834,39.9538040161],"type":"Point"}
+}

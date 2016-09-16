@@ -1,0 +1,72 @@
+{
+  "id": 1108671081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8710842133,41.0037536621,28.8710842133,41.0037536621",
+    "geom:latitude":41.003754,
+    "geom:longitude":28.871084,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izzettin Calislar Cad. No.7 D.12 Bahcelievler",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 7478",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OSCm4J3A3KDjAYrgHD71M_41.003754_28.871084@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068685,
+    "wof:geomhash":"96e6abc7b28f0ae78abd13b555b71004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108671081
+        }
+    ],
+    "wof:id":1108671081,
+    "wof:lastmodified":1474068685,
+    "wof:name":"Finnet Elektronik Ve Data Iletisim Ltd.sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.8710842133,
+    41.0037536621,
+    28.8710842133,
+    41.0037536621
+],
+  "geometry": {"coordinates":[28.8710842133,41.0037536621],"type":"Point"}
+}

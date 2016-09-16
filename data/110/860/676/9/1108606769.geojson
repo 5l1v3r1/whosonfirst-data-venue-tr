@@ -1,0 +1,85 @@
+{
+  "id": 1108606769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9839782715,41.0588569641,28.9839782715,41.0588569641",
+    "geom:latitude":41.058857,
+    "geom:longitude":28.983978,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siracevizler Cad. No:40/a",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 3986",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85929423,
+        101913185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TAYLokFCiXvt8sdpMRI9d_41.058857_28.983978@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065924,
+    "wof:geomhash":"24b203f1dab743c3db064d0282406396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108606769
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108606769
+        }
+    ],
+    "wof:id":1108606769,
+    "wof:lastmodified":1474065924,
+    "wof:name":"Riteks Dis Ticaret Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9839782715,
+    41.0588569641,
+    28.9839782715,
+    41.0588569641
+],
+  "geometry": {"coordinates":[28.9839782715,41.0588569641],"type":"Point"}
+}

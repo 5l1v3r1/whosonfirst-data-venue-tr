@@ -1,0 +1,73 @@
+{
+  "id": 1108670707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0346336365,41.0084037781,29.0346336365,41.0084037781",
+    "geom:latitude":41.008404,
+    "geom:longitude":29.034634,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cenap Sehabettin Cad. No:4 Kosuyolu Uskudar",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 4422",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kh5PfxyILysM06aqVMKWb_41.008404_29.034634@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068672,
+    "wof:geomhash":"e8ab38500247e72754450c4bf5189010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108670707
+        }
+    ],
+    "wof:id":1108670707,
+    "wof:lastmodified":1474068672,
+    "wof:name":"Seta Muzik Medya",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    29.0346336365,
+    41.0084037781,
+    29.0346336365,
+    41.0084037781
+],
+  "geometry": {"coordinates":[29.0346336365,41.0084037781],"type":"Point"}
+}

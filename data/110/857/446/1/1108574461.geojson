@@ -1,0 +1,69 @@
+{
+  "id": 1108574461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9494152069,41.0300674438,28.9494152069,41.0300674438",
+    "geom:latitude":41.030067,
+    "geom:longitude":28.949415,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mektep Sk. No:11 Sishane",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 253 8374",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906523,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YMoEmDTm6MrhvzpGKk9bt_41.030067_28.949415@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064642,
+    "wof:geomhash":"6b1baf1e6af9253e0016a5ad246bc7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906523,
+            "region_id":85679237,
+            "venue_id":1108574461
+        }
+    ],
+    "wof:id":1108574461,
+    "wof:lastmodified":1474064642,
+    "wof:name":"Isincam Ltd. Sti.",
+    "wof:parent_id":85906523,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    28.9494152069,
+    41.0300674438,
+    28.9494152069,
+    41.0300674438
+],
+  "geometry": {"coordinates":[28.9494152069,41.0300674438],"type":"Point"}
+}

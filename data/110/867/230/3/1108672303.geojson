@@ -1,0 +1,69 @@
+{
+  "id": 1108672303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8554153442,39.9174842834,32.8554153442,39.9174842834",
+    "geom:latitude":39.917484,
+    "geom:longitude":32.855415,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karanfil Sok. 36/11",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312419548483",
+    "sg:postcode":"31750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SQPkvr4s0mNlmfx2v5I7y_39.917484_32.855415@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068728,
+    "wof:geomhash":"874cc550a3cb076896ede0f7f76446fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108672303
+        }
+    ],
+    "wof:id":1108672303,
+    "wof:lastmodified":1474068728,
+    "wof:name":"Mavi Gida Gozetim Ve Danismanlik A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    32.8554153442,
+    39.9174842834,
+    32.8554153442,
+    39.9174842834
+],
+  "geometry": {"coordinates":[32.8554153442,39.9174842834],"type":"Point"}
+}

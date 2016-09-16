@@ -1,0 +1,71 @@
+{
+  "id": 1108624501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7968292236,40.986125946,28.7968292236,40.986125946",
+    "geom:latitude":40.986126,
+    "geom:longitude":28.796829,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Besyol/",
+    "sg:city":"Sefakoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212624301718",
+    "sg:postcode":"42000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sizing",
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14qiGJT0aCjLMZy8YYlOhy_40.986126_28.796829@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066642,
+    "wof:geomhash":"2858ead4dce112c6e3668a6a21ec835a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108624501
+        }
+    ],
+    "wof:id":1108624501,
+    "wof:lastmodified":1474066642,
+    "wof:name":"Kontekstil A.s.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sizing",
+        "dye"
+    ]
+},
+  "bbox": [
+    28.7968292236,
+    40.986125946,
+    28.7968292236,
+    40.986125946
+],
+  "geometry": {"coordinates":[28.7968292236,40.986125946],"type":"Point"}
+}

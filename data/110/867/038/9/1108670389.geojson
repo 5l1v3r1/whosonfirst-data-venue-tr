@@ -1,0 +1,71 @@
+{
+  "id": 1108670389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8627700806,39.9036331177,32.8627700806,39.9036331177",
+    "geom:latitude":39.903633,
+    "geom:longitude":32.86277,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Billur Sok. 24/12",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 466 5317",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jCdWPwEj3rAFcgw8u74G4_39.903633_32.862770@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068656,
+    "wof:geomhash":"263551fd98e2135bdd8e7da73f50315c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108670389
+        }
+    ],
+    "wof:id":1108670389,
+    "wof:lastmodified":1474068656,
+    "wof:name":"Haluk Atamal",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    32.8627700806,
+    39.9036331177,
+    32.8627700806,
+    39.9036331177
+],
+  "geometry": {"coordinates":[32.8627700806,39.9036331177],"type":"Point"}
+}

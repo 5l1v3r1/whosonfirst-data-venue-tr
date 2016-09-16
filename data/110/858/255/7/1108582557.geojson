@@ -1,0 +1,69 @@
+{
+  "id": 1108582557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1209011078,38.4579544067,27.1209011078,38.4579544067",
+    "geom:latitude":38.457954,
+    "geom:longitude":27.120901,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1709. Sok.no:1/c Karsiyaka",
+    "sg:city":"Antakya",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 364 0915",
+    "sg:postcode":"31000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuAcE3tQmau5O8R71gVLL_38.457954_27.120901@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065075,
+    "wof:geomhash":"9cb1c3bf6b8e431c2826d20eafb7799f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108582557
+        }
+    ],
+    "wof:id":1108582557,
+    "wof:lastmodified":1474065075,
+    "wof:name":"Dolhin Land Dalis Okulu",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    27.1209011078,
+    38.4579544067,
+    27.1209011078,
+    38.4579544067
+],
+  "geometry": {"coordinates":[27.1209011078,38.4579544067],"type":"Point"}
+}

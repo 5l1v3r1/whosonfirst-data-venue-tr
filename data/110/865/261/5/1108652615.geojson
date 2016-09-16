@@ -1,0 +1,71 @@
+{
+  "id": 1108652615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.971321106,41.0132026672,28.971321106,41.0132026672",
+    "geom:latitude":41.013203,
+    "geom:longitude":28.971321,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarakci Hani Sok. No:10-12",
+    "sg:city":"Mahmutpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21252004425129",
+    "sg:postcode":"60100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2impuhURO53YZe2LwLVmFw_41.013203_28.971321@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067964,
+    "wof:geomhash":"a79e76699773011638a17999818204d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108652615
+        }
+    ],
+    "wof:id":1108652615,
+    "wof:lastmodified":1474067964,
+    "wof:name":"Nesa Club Shirt",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.971321106,
+    41.0132026672,
+    28.971321106,
+    41.0132026672
+],
+  "geometry": {"coordinates":[28.971321106,41.0132026672],"type":"Point"}
+}

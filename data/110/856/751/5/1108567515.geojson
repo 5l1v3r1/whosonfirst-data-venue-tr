@@ -1,0 +1,75 @@
+{
+  "id": 1108567515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9824409485,41.0377426147,28.9824409485,41.0377426147",
+    "geom:latitude":41.037743,
+    "geom:longitude":28.982441,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cd. No:1/4 Taksim",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 254 0386",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q32lzFKOwtAjV3Bxlltsu_41.037743_28.982441@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064356,
+    "wof:geomhash":"d200ad3ca9a35755ac262bfecb4abf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108567515
+        }
+    ],
+    "wof:id":1108567515,
+    "wof:lastmodified":1474064356,
+    "wof:name":"Genel Makina Tic. San. A.s.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9824409485,
+    41.0377426147,
+    28.9824409485,
+    41.0377426147
+],
+  "geometry": {"coordinates":[28.9824409485,41.0377426147],"type":"Point"}
+}

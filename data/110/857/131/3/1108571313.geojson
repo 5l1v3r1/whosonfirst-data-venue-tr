@@ -1,0 +1,66 @@
+{
+  "id": 1108571313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2560005188,40.8787002563,29.2560005188,40.8787002563",
+    "geom:latitude":40.8787,
+    "geom:longitude":29.256001,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtk? San. B?ge. Filiz Sk. No:3 Pendik",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 378 1016",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nr9zuc806JFdCfvCvU8Cf_40.878700_29.256001@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064508,
+    "wof:geomhash":"e47e5615188e5873af4440a72750023d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930121,
+            "venue_id":1108571313
+        }
+    ],
+    "wof:id":1108571313,
+    "wof:lastmodified":1474064508,
+    "wof:name":"Hayat Plastik Kau?uk San. Tic. A.s.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2560005188,
+    40.8787002563,
+    29.2560005188,
+    40.8787002563
+],
+  "geometry": {"coordinates":[29.2560005188,40.8787002563],"type":"Point"}
+}

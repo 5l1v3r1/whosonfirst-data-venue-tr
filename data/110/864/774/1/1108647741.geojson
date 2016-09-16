@@ -1,0 +1,67 @@
+{
+  "id": 1108647741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1610298157,40.9178390503,29.1610298157,40.9178390503",
+    "geom:latitude":40.917839,
+    "geom:longitude":29.16103,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Denizer Cad.karabuk Sok. No:20 Cevizli-kartal",
+    "sg:city":"Okmeydani/sisli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 383 9200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MLYp748KFEHoMAHYgTiHh_40.917839_29.161030@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067723,
+    "wof:geomhash":"7a15e74ef83be04fecf6a3bb28db0583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108647741
+        }
+    ],
+    "wof:id":1108647741,
+    "wof:lastmodified":1474067723,
+    "wof:name":"Akson Saglik Hizmetleri A.s.",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1610298157,
+    40.9178390503,
+    29.1610298157,
+    40.9178390503
+],
+  "geometry": {"coordinates":[29.1610298157,40.9178390503],"type":"Point"}
+}

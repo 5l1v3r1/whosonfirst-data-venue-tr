@@ -1,0 +1,63 @@
+{
+  "id": 1108650399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.896156311,40.9993019104,28.896156311,40.9993019104",
+    "geom:latitude":40.999302,
+    "geom:longitude":28.896156,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2.tas Ocagi Cad.no:8 - Sisli",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 4800",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AmMMeGqHJnRQJNAFvVYdR_40.999302_28.896156@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067854,
+    "wof:geomhash":"bf77b1eef4bc9eaad4a873c7299af2d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108650399
+        }
+    ],
+    "wof:id":1108650399,
+    "wof:lastmodified":1474067854,
+    "wof:name":"D?en Laboratuari",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.896156311,
+    40.9993019104,
+    28.896156311,
+    40.9993019104
+],
+  "geometry": {"coordinates":[28.896156311,40.9993019104],"type":"Point"}
+}

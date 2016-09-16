@@ -1,0 +1,69 @@
+{
+  "id": 1108671385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8565711975,39.9229164124,32.8565711975,39.9229164124",
+    "geom:latitude":39.922916,
+    "geom:longitude":32.856571,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bayindir Sok.no:7/14 Kizilay",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 8450",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76coH7M0dvMuonjZd0YMu4_39.922916_32.856571@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068696,
+    "wof:geomhash":"a97f194fc2741f5db1a082b82286fd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108671385
+        }
+    ],
+    "wof:id":1108671385,
+    "wof:lastmodified":1474068696,
+    "wof:name":"Adnan Evren Tural",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    32.8565711975,
+    39.9229164124,
+    32.8565711975,
+    39.9229164124
+],
+  "geometry": {"coordinates":[32.8565711975,39.9229164124],"type":"Point"}
+}

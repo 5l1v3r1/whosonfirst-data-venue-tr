@@ -1,0 +1,69 @@
+{
+  "id": 1108614335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0286998749,40.9899940491,29.0286998749,40.9899940491",
+    "geom:latitude":40.989994,
+    "geom:longitude":29.0287,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirtasiyeci Sokak No:38 - Kadik?",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 338 1852",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QFVa7f2nQzvVfZkCnTRkN_40.989994_29.028700@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066247,
+    "wof:geomhash":"dd2b28e0fcbb04ee00bc7e5355ab29aa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108614335
+        }
+    ],
+    "wof:id":1108614335,
+    "wof:lastmodified":1474066247,
+    "wof:name":"Kadik? Uzmanlar Poliklinigi Ve Fono Saglik Merkezi",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0286998749,
+    40.9899940491,
+    29.0286998749,
+    40.9899940491
+],
+  "geometry": {"coordinates":[29.0286998749,40.9899940491],"type":"Point"}
+}

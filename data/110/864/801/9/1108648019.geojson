@@ -1,0 +1,64 @@
+{
+  "id": 1108648019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8498001099,39.9231300354,32.8498001099,39.9231300354",
+    "geom:latitude":39.92313,
+    "geom:longitude":32.8498,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Cakmak 2. Sk. 38/7 Kizilay",
+    "sg:city":"Findikzade",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 3272",
+    "sg:postcode":"34270",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CopU3xM21RG885nH2Y2gE_39.923130_32.849800@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067738,
+    "wof:geomhash":"dbee10f06f631a02e08a71af250327c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108648019
+        }
+    ],
+    "wof:id":1108648019,
+    "wof:lastmodified":1474067738,
+    "wof:name":"Baytip Medikal",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8498001099,
+    39.9231300354,
+    32.8498001099,
+    39.9231300354
+],
+  "geometry": {"coordinates":[32.8498001099,39.9231300354],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108655305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9930152893,41.0819282532,28.9930152893,41.0819282532",
+    "geom:latitude":41.081928,
+    "geom:longitude":28.993015,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siracevizler Cd. Akin Apt. No:79/5 Sisli",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 4811",
+    "sg:postcode":"34620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zPshXW5ohZQT396eB5Iva_41.081928_28.993015@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068071,
+    "wof:geomhash":"e6bb906a6ae6973dbc06bd11beed570c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108655305
+        }
+    ],
+    "wof:id":1108655305,
+    "wof:lastmodified":1474068071,
+    "wof:name":"Firat Madencilik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9930152893,
+    41.0819282532,
+    28.9930152893,
+    41.0819282532
+],
+  "geometry": {"coordinates":[28.9930152893,41.0819282532],"type":"Point"}
+}

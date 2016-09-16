@@ -1,0 +1,69 @@
+{
+  "id": 1108573959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8774185181,39.9147987366,32.8774185181,39.9147987366",
+    "geom:latitude":39.914799,
+    "geom:longitude":32.877419,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mimar Sinan Mh Ankara Asf No:422",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 366 1528",
+    "sg:postcode":"07070",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43raXCK630arMSDM1jWN67_39.914799_32.877419@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064622,
+    "wof:geomhash":"e6771170b9a1fc5c2280b92c943659fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108573959
+        }
+    ],
+    "wof:id":1108573959,
+    "wof:lastmodified":1474064622,
+    "wof:name":"Onuray Cam",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    32.8774185181,
+    39.9147987366,
+    32.8774185181,
+    39.9147987366
+],
+  "geometry": {"coordinates":[32.8774185181,39.9147987366],"type":"Point"}
+}

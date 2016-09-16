@@ -1,0 +1,64 @@
+{
+  "id": 1108664593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0104904175,41.0793418884,29.0104904175,41.0793418884",
+    "geom:latitude":41.079342,
+    "geom:longitude":29.01049,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cd. Ali Kaya Sk. No:6 Levent",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 7356",
+    "sg:postcode":"31750",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QKREs2RDvI9ciY4Ja5Ln5_41.079342_29.010490@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068427,
+    "wof:geomhash":"ceeb2c861231793f4cffd51f5a7dcb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108664593
+        }
+    ],
+    "wof:id":1108664593,
+    "wof:lastmodified":1474068427,
+    "wof:name":"Eczacibasi Insaat Tesisat Malzeme. Yatirim Pazarlama A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0104904175,
+    41.0793418884,
+    29.0104904175,
+    41.0793418884
+],
+  "geometry": {"coordinates":[29.0104904175,41.0793418884],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108610421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0338668823,41.0813064575,29.0338668823,41.0813064575",
+    "geom:latitude":41.081306,
+    "geom:longitude":29.033867,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahular Sk. No:6",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 7309",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y4L0sK75UKgqOcgVRCsgN_41.081306_29.033867@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066094,
+    "wof:geomhash":"326d7978274d7705b35cf510ef5242b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108610421
+        }
+    ],
+    "wof:id":1108610421,
+    "wof:lastmodified":1474066094,
+    "wof:name":"Riza Tansu Ltd. Sti.",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.0338668823,
+    41.0813064575,
+    29.0338668823,
+    41.0813064575
+],
+  "geometry": {"coordinates":[29.0338668823,41.0813064575],"type":"Point"}
+}

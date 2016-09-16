@@ -1,0 +1,72 @@
+{
+  "id": 1108623253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8464202881,41.0033416748,28.8464202881,41.0033416748",
+    "geom:latitude":41.003342,
+    "geom:longitude":28.84642,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karaoglanoglu Cd. No:24/b-1 Sirinevler",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 560 6017",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kdVZSbq88FJbEI9mQOpNV_41.003342_28.846420@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066599,
+    "wof:geomhash":"b1d85617c147675c592ba09900f19090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108623253
+        }
+    ],
+    "wof:id":1108623253,
+    "wof:lastmodified":1474066599,
+    "wof:name":"Som-kan Insaat Tesis. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    28.8464202881,
+    41.0033416748,
+    28.8464202881,
+    41.0033416748
+],
+  "geometry": {"coordinates":[28.8464202881,41.0033416748],"type":"Point"}
+}

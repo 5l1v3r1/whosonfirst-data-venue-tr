@@ -1,0 +1,73 @@
+{
+  "id": 1108665341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1114387512,40.9703979492,29.1114387512,40.9703979492",
+    "geom:latitude":40.970398,
+    "geom:longitude":29.111439,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eskibakkalkoy Yolu G.65. Gul Sok.no:16/a",
+    "sg:city":"Icerenkoy",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 575 0447",
+    "sg:postcode":"34752",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wr0QcEBpeIQNjknPENVuA_40.970398_29.111439@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068463,
+    "wof:geomhash":"00bab7d6411c3e9ab05bdb929e4515dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108665341
+        }
+    ],
+    "wof:id":1108665341,
+    "wof:lastmodified":1474068463,
+    "wof:name":"Gozde Pilic Et Ve Gida San.tic.ltd.sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    29.1114387512,
+    40.9703979492,
+    29.1114387512,
+    40.9703979492
+],
+  "geometry": {"coordinates":[29.1114387512,40.9703979492],"type":"Point"}
+}

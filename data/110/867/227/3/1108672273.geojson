@@ -1,0 +1,73 @@
+{
+  "id": 1108672273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9887599945,41.0620689392,28.9887599945,41.0620689392",
+    "geom:latitude":41.062069,
+    "geom:longitude":28.98876,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi C.no.367/3",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 1741",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79CJSkA3tdXnJTlu33VlIl_41.062069_28.988760@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068727,
+    "wof:geomhash":"bb7630ecea8bbe732ee1fd27bc8b5024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108672273
+        }
+    ],
+    "wof:id":1108672273,
+    "wof:lastmodified":1474068727,
+    "wof:name":"Kerevitas Gida San. A.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    28.9887599945,
+    41.0620689392,
+    28.9887599945,
+    41.0620689392
+],
+  "geometry": {"coordinates":[28.9887599945,41.0620689392],"type":"Point"}
+}

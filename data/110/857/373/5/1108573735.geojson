@@ -1,0 +1,73 @@
+{
+  "id": 1108573735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.52302742,39.7743530273,30.52302742,39.7743530273",
+    "geom:latitude":39.774353,
+    "geom:longitude":30.523027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asarcikli Cd. Kafadar Sk. No:16",
+    "sg:city":"Mercan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222231153423393",
+    "sg:postcode":"12600",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dxIJP1is7CBUUl2qUbZXo_39.774353_30.523027@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064613,
+    "wof:geomhash":"023480930f975af2c72bfe196e52b666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108573735
+        }
+    ],
+    "wof:id":1108573735,
+    "wof:lastmodified":1474064613,
+    "wof:name":"G?ksel Cam San. Ve Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.52302742,
+    39.7743530273,
+    30.52302742,
+    39.7743530273
+],
+  "geometry": {"coordinates":[30.52302742,39.7743530273],"type":"Point"}
+}

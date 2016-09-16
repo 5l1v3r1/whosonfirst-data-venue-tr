@@ -1,0 +1,71 @@
+{
+  "id": 1108655587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8532905579,39.8876647949,32.8532905579,39.8876647949",
+    "geom:latitude":39.887665,
+    "geom:longitude":32.853291,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hava Sk. No:26/4 ?ankaya",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 5284",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XrvHFa8Aa54jM6ztgfN6g_39.887665_32.853291@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068083,
+    "wof:geomhash":"22bc046972d8166c7025aa2d59549a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108655587
+        }
+    ],
+    "wof:id":1108655587,
+    "wof:lastmodified":1474068083,
+    "wof:name":"Rantur Madencilik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8532905579,
+    39.8876647949,
+    32.8532905579,
+    39.8876647949
+],
+  "geometry": {"coordinates":[32.8532905579,39.8876647949],"type":"Point"}
+}

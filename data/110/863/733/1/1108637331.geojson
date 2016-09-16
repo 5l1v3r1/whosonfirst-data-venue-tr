@@ -1,0 +1,81 @@
+{
+  "id": 1108637331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9716396332,41.0231513977,28.9716396332,41.0231513977",
+    "geom:latitude":41.023151,
+    "geom:longitude":28.97164,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Persembe Pazari No:55",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 9036",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906587,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a4MBbzIDmCiTQfKcB2LQM_41.023151_28.971640@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067310,
+    "wof:geomhash":"d2f69def2ae9ce9ac95f4fc8a7e37dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906587,
+            "region_id":85679237,
+            "venue_id":1108637331
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906579,
+            "region_id":85679237,
+            "venue_id":1108637331
+        }
+    ],
+    "wof:id":1108637331,
+    "wof:lastmodified":1474067310,
+    "wof:name":"Politeknik M?hendis. Hizmet. Imal. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    28.9716396332,
+    41.0231513977,
+    28.9716396332,
+    41.0231513977
+],
+  "geometry": {"coordinates":[28.9716396332,41.0231513977],"type":"Point"}
+}

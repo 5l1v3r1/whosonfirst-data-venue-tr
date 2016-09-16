@@ -1,0 +1,71 @@
+{
+  "id": 1108652735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.967464447,41.0128631592,28.967464447,41.0128631592",
+    "geom:latitude":41.012863,
+    "geom:longitude":28.967464,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mercan Oruculer No:10",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 9384",
+    "sg:postcode":"65400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906465,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U1WkT57j7tVGDtDqW6Zeb_41.012863_28.967464@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067968,
+    "wof:geomhash":"939e28bad5d7b337cafdbd2f0fc7e007",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906465,
+            "region_id":85679237,
+            "venue_id":1108652735
+        }
+    ],
+    "wof:id":1108652735,
+    "wof:lastmodified":1474067968,
+    "wof:name":"Turiz Sapka",
+    "wof:parent_id":85906465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.967464447,
+    41.0128631592,
+    28.967464447,
+    41.0128631592
+],
+  "geometry": {"coordinates":[28.967464447,41.0128631592],"type":"Point"}
+}

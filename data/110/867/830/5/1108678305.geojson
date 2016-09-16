@@ -1,0 +1,68 @@
+{
+  "id": 1108678305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8512496948,39.9273872375,32.8512496948,39.9273872375",
+    "geom:latitude":39.927387,
+    "geom:longitude":32.85125,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sezenler Sk. No:4/12 Sihhiye",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 6974",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yaWV00k2mLAGn5xbQ0zoq_39.927387_32.851250@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"b594b61650e86e857e90fbd0b84ffadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108678305
+        }
+    ],
+    "wof:id":1108678305,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Yurtdisi Isci Cocuk. Egitim Vakfi",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8512496948,
+    39.9273872375,
+    32.8512496948,
+    39.9273872375
+],
+  "geometry": {"coordinates":[32.8512496948,39.9273872375],"type":"Point"}
+}

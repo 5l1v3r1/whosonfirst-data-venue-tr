@@ -1,0 +1,71 @@
+{
+  "id": 1108569791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9086990356,40.9905853271,28.9086990356,40.9905853271",
+    "geom:latitude":40.990585,
+    "geom:longitude":28.908699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenidogan Mah. 42 Sk. No.130/3 Zeytinburnu",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 510 8549",
+    "sg:postcode":"35040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26NZk7ErRh6JD1XKpXZaYX_40.990585_28.908699@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064445,
+    "wof:geomhash":"21540298ae5de371f1307c249d6a9c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108569791
+        }
+    ],
+    "wof:id":1108569791,
+    "wof:lastmodified":1474064445,
+    "wof:name":"Yavuz Makina San.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9086990356,
+    40.9905853271,
+    28.9086990356,
+    40.9905853271
+],
+  "geometry": {"coordinates":[28.9086990356,40.9905853271],"type":"Point"}
+}

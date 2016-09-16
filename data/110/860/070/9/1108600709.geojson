@@ -1,0 +1,71 @@
+{
+  "id": 1108600709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1341400146,40.9768257141,29.1341400146,40.9768257141",
+    "geom:latitude":40.976826,
+    "geom:longitude":29.13414,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Evren Cad. No:25",
+    "sg:city":"Incirliova",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256585147858",
+    "sg:postcode":"09600",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EhtNfO9gId7UHYtcUv3Mz_40.976826_29.134140@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065669,
+    "wof:geomhash":"fc05d9b7993b257c1f9ce20ac687e50e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108600709
+        }
+    ],
+    "wof:id":1108600709,
+    "wof:lastmodified":1474065669,
+    "wof:name":"Ertinler Tar. Ur. Tic. San. A.s.",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    29.1341400146,
+    40.9768257141,
+    29.1341400146,
+    40.9768257141
+],
+  "geometry": {"coordinates":[29.1341400146,40.9768257141],"type":"Point"}
+}

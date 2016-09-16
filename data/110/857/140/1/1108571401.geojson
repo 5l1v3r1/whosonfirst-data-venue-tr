@@ -1,0 +1,68 @@
+{
+  "id": 1108571401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9135932922,41.0411643982,28.9135932922,41.0411643982",
+    "geom:latitude":41.041164,
+    "geom:longitude":28.913593,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdi Ipekci Cad. Hancer Sok. No:16 Bayrampasa",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 7131",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tQW4ThldWPmcsZqTuu69J_41.041164_28.913593@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064511,
+    "wof:geomhash":"b22483fb27d7b4b22bfb9de7bb216837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108571401
+        }
+    ],
+    "wof:id":1108571401,
+    "wof:lastmodified":1474064511,
+    "wof:name":"Ipeker Plastik Tic. Ve San. Ltd.sti.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9135932922,
+    41.0411643982,
+    28.9135932922,
+    41.0411643982
+],
+  "geometry": {"coordinates":[28.9135932922,41.0411643982],"type":"Point"}
+}

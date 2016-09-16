@@ -1,0 +1,64 @@
+{
+  "id": 1108667057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1457290649,38.4374771118,27.1457290649,38.4374771118",
+    "geom:latitude":38.437477,
+    "geom:longitude":27.145729,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1457. Sk. No:37 Alsancak",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 3176",
+    "sg:postcode":"80840",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BT5arSGkTebn8JBRKfG1O_38.437477_27.145729@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068525,
+    "wof:geomhash":"7f1c8322e17e61f289d3e761d8ad7824",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108667057
+        }
+    ],
+    "wof:id":1108667057,
+    "wof:lastmodified":1474068525,
+    "wof:name":"Tmmob Ic Mimar. Odasi",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1457290649,
+    38.4374771118,
+    27.1457290649,
+    38.4374771118
+],
+  "geometry": {"coordinates":[27.1457290649,38.4374771118],"type":"Point"}
+}

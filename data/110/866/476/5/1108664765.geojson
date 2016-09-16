@@ -1,0 +1,64 @@
+{
+  "id": 1108664765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.907617569,41.0430374146,28.907617569,41.0430374146",
+    "geom:latitude":41.043037,
+    "geom:longitude":28.907618,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Davutpasa Cd. Karaca Bey Sk. No:10 Topkapi",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 612 4930",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53tH2FqI0BHBlvFiR4NPLM_41.043037_28.907618@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068434,
+    "wof:geomhash":"ddc1f4ed8dc7f0d5d2623d8f9e8a2b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108664765
+        }
+    ],
+    "wof:id":1108664765,
+    "wof:lastmodified":1474068434,
+    "wof:name":"Merban Mermer Tic. A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.907617569,
+    41.0430374146,
+    28.907617569,
+    41.0430374146
+],
+  "geometry": {"coordinates":[28.907617569,41.0430374146],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108585391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0212993622,41.0484924316,29.0212993622,41.0484924316",
+    "geom:latitude":41.048492,
+    "geom:longitude":29.021299,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Palanga Cad. No.24, Ortakoy",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 9388",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gp2XNpmk8PW5sgukV28cK_41.048492_29.021299@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065144,
+    "wof:geomhash":"652c9710ef2c1d23f4f9048b1a76cf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":1108585391
+        }
+    ],
+    "wof:id":1108585391,
+    "wof:lastmodified":1474065144,
+    "wof:name":"Magic Tanitim Ve Iletisim A.s.",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    29.0212993622,
+    41.0484924316,
+    29.0212993622,
+    41.0484924316
+],
+  "geometry": {"coordinates":[29.0212993622,41.0484924316],"type":"Point"}
+}

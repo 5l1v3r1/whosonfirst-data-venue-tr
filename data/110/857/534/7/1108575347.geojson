@@ -1,0 +1,73 @@
+{
+  "id": 1108575347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2838630676,40.8337287903,29.2838630676,40.8337287903",
+    "geom:latitude":40.833729,
+    "geom:longitude":29.283863,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tersaneler Yolu No14",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 395 4741",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929767,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bjaARGxXDcBMANUTrRVue_40.833729_29.283863@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064675,
+    "wof:geomhash":"c9f4e3ea73da64217b9d65127094a1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929767,
+            "region_id":85679241,
+            "venue_id":1108575347
+        }
+    ],
+    "wof:id":1108575347,
+    "wof:lastmodified":1474064675,
+    "wof:name":"Sedef Gemi Endustri A.s.",
+    "wof:parent_id":85929767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ]
+},
+  "bbox": [
+    29.2838630676,
+    40.8337287903,
+    29.2838630676,
+    40.8337287903
+],
+  "geometry": {"coordinates":[29.2838630676,40.8337287903],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108665577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9466648102,41.0330848694,28.9466648102,41.0330848694",
+    "geom:latitude":41.033085,
+    "geom:longitude":28.946665,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Murselpasa Cad. No:215 Balat",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 521 2588",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906523,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R3UeSUQlZt1uTN4xZeysK_41.033085_28.946665@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068471,
+    "wof:geomhash":"93a5f1100b8eb48dd2350336f77e1d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906523,
+            "region_id":85679237,
+            "venue_id":1108665577
+        }
+    ],
+    "wof:id":1108665577,
+    "wof:lastmodified":1474068471,
+    "wof:name":"Aral Tic.",
+    "wof:parent_id":85906523,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    28.9466648102,
+    41.0330848694,
+    28.9466648102,
+    41.0330848694
+],
+  "geometry": {"coordinates":[28.9466648102,41.0330848694],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108651227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8605117798,39.9189338684,32.8605117798,39.9189338684",
+    "geom:latitude":39.918934,
+    "geom:longitude":32.860512,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad. No:36/b Kizilay",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 6144",
+    "sg:postcode":"46000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mqn5DdFGUAOHBWNxR7wYD_39.918934_32.860512@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067894,
+    "wof:geomhash":"f8229e19d4699a5980a1877bf6d58613",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108651227
+        }
+    ],
+    "wof:id":1108651227,
+    "wof:lastmodified":1474067894,
+    "wof:name":"Karbomed Medikal Tic. Ltd.",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8605117798,
+    39.9189338684,
+    32.8605117798,
+    39.9189338684
+],
+  "geometry": {"coordinates":[32.8605117798,39.9189338684],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108665521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4842987061,37.864238739,32.4842987061,37.864238739",
+    "geom:latitude":37.864239,
+    "geom:longitude":32.484299,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Larende Cad. No:99/e",
+    "sg:city":"G.osmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 352 1534",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934705,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TM44vojwkuAqfIUYdTdB1_37.864239_32.484299@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068469,
+    "wof:geomhash":"b5aedcd6ddf125bc1b2310385baababe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":1108665521
+        }
+    ],
+    "wof:id":1108665521,
+    "wof:lastmodified":1474068469,
+    "wof:name":"?z Altun Tavukculuk",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    32.4842987061,
+    37.864238739,
+    32.4842987061,
+    37.864238739
+],
+  "geometry": {"coordinates":[32.4842987061,37.864238739],"type":"Point"}
+}

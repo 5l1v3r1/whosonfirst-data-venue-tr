@@ -1,0 +1,72 @@
+{
+  "id": 1108670983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0424365997,41.1107215881,29.0424365997,41.1107215881",
+    "geom:latitude":41.110722,
+    "geom:longitude":29.042437,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emirgan?t?ust Denizbank Sitesi No.20 Sariyer",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 9100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eDZOVtvnHKIf7QBFRUwHn_41.110722_29.042437@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068681,
+    "wof:geomhash":"eeb2e4d99a7e8a54ba2f436cbde6a216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108670983
+        }
+    ],
+    "wof:id":1108670983,
+    "wof:lastmodified":1474068681,
+    "wof:name":"Bumerang Yatirim Ortakligi A.s.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.0424365997,
+    41.1107215881,
+    29.0424365997,
+    41.1107215881
+],
+  "geometry": {"coordinates":[29.0424365997,41.1107215881],"type":"Point"}
+}

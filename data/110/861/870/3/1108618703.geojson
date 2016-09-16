@@ -1,0 +1,62 @@
+{
+  "id": 1108618703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7475833893,36.8532485962,30.7475833893,36.8532485962",
+    "geom:latitude":36.853249,
+    "geom:longitude":30.747583,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Lara Cad. No:111",
+    "sg:city":"07100",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 24232268914",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930175,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jU9bH1m0fC17b40XFD1To_36.853249_30.747583@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066417,
+    "wof:geomhash":"42ce6e5564273fc3414aa0e25a374235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930175,
+            "region_id":85679263,
+            "venue_id":1108618703
+        }
+    ],
+    "wof:id":1108618703,
+    "wof:lastmodified":1474066417,
+    "wof:name":"Rasya Hotel",
+    "wof:parent_id":85930175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7475833893,
+    36.8532485962,
+    30.7475833893,
+    36.8532485962
+],
+  "geometry": {"coordinates":[30.7475833893,36.8532485962],"type":"Point"}
+}

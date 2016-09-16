@@ -1,0 +1,66 @@
+{
+  "id": 1108652069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1299343109,38.4169006348,27.1299343109,38.4169006348",
+    "geom:latitude":38.416901,
+    "geom:longitude":27.129934,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847 Sk. No:8/7 Konak",
+    "sg:city":"K???k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 2725",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JBIh4hwJRtNSEWGIK1JEO_38.416901_27.129934@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067929,
+    "wof:geomhash":"4dcfde3e715c1196df8cf3496cd01a13",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108652069
+        }
+    ],
+    "wof:id":1108652069,
+    "wof:lastmodified":1474067929,
+    "wof:name":"Yigit Tibbi Mlz. Ltd. Sti.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1299343109,
+    38.4169006348,
+    27.1299343109,
+    38.4169006348
+],
+  "geometry": {"coordinates":[27.1299343109,38.4169006348],"type":"Point"}
+}

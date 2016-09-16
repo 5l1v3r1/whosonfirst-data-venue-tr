@@ -1,0 +1,70 @@
+{
+  "id": 1108596701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1377849579,38.4260482788,27.1377849579,38.4260482788",
+    "geom:latitude":38.426048,
+    "geom:longitude":27.137785,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1374 Sk. No.10/14",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 5255",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dxyrzSCKkcGasx0qhS9fs_38.426048_27.137785@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065500,
+    "wof:geomhash":"229051a986e7f91c265386ce84c49e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108596701
+        }
+    ],
+    "wof:id":1108596701,
+    "wof:lastmodified":1474065500,
+    "wof:name":"Evren Deri San. Ltd.sti.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1377849579,
+    38.4260482788,
+    27.1377849579,
+    38.4260482788
+],
+  "geometry": {"coordinates":[27.1377849579,38.4260482788],"type":"Point"}
+}

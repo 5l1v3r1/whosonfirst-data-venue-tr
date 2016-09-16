@@ -1,0 +1,70 @@
+{
+  "id": 1108598699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8544921875,39.942565918,32.8544921875,39.942565918",
+    "geom:latitude":39.942566,
+    "geom:longitude":32.854492,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?ankiri Cd. No:67/5",
+    "sg:city":"K.koy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 324 1651",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dhCROEYVfV2XDHKVfjhoN_39.942566_32.854492@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065578,
+    "wof:geomhash":"8d5117950db46366981c95e26e788f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108598699
+        }
+    ],
+    "wof:id":1108598699,
+    "wof:lastmodified":1474065578,
+    "wof:name":"Avpar Dis Tic. Paz. Ltd.",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    32.8544921875,
+    39.942565918,
+    32.8544921875,
+    39.942565918
+],
+  "geometry": {"coordinates":[32.8544921875,39.942565918],"type":"Point"}
+}

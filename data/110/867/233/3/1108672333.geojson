@@ -1,0 +1,67 @@
+{
+  "id": 1108672333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7165966034,40.9774971008,28.7165966034,40.9774971008",
+    "geom:latitude":40.977497,
+    "geom:longitude":28.716597,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ambarli Mah. Kocatepe Sk. No: 2/a",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 676 7514",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K9txj0jXQZXipjy65O1uX_40.977497_28.716597@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068729,
+    "wof:geomhash":"f0e379dd23811e1318265463c05c760c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930285,
+            "venue_id":1108672333
+        }
+    ],
+    "wof:id":1108672333,
+    "wof:lastmodified":1474068729,
+    "wof:name":"Sistem Su Urunleri Ltd. Sti.",
+    "wof:parent_id":85930285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    28.7165966034,
+    40.9774971008,
+    28.7165966034,
+    40.9774971008
+],
+  "geometry": {"coordinates":[28.7165966034,40.9774971008],"type":"Point"}
+}

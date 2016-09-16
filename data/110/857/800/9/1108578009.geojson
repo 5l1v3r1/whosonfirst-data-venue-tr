@@ -1,0 +1,69 @@
+{
+  "id": 1108578009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8498725891,41.0430831909,28.8498725891,41.0430831909",
+    "geom:latitude":41.043083,
+    "geom:longitude":28.849873,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yavuzselim Mah. 3/14 Sok No: 5",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 436088182",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930169,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WXnkLG2IK1LbiPQslTg5a_41.043083_28.849873@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064865,
+    "wof:geomhash":"080bc52783672ae0ab05115e70129ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930169,
+            "region_id":85679237,
+            "venue_id":1108578009
+        }
+    ],
+    "wof:id":1108578009,
+    "wof:lastmodified":1474064865,
+    "wof:name":"Tura ?elik B?ro Mob. San.tic.ltd.sti.",
+    "wof:parent_id":85930169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.8498725891,
+    41.0430831909,
+    28.8498725891,
+    41.0430831909
+],
+  "geometry": {"coordinates":[28.8498725891,41.0430831909],"type":"Point"}
+}

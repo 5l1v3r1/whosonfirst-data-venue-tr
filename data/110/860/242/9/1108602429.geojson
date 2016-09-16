@@ -1,0 +1,70 @@
+{
+  "id": 1108602429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9706764221,41.0120429993,28.9706764221,41.0120429993",
+    "geom:latitude":41.012043,
+    "geom:longitude":28.970676,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emekyemez Mh. Mektep Sk. No:39/1",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 255 5090",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AxbnCYxP450cqjKGFNWoT_41.012043_28.970676@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065732,
+    "wof:geomhash":"24e752d616d801ee155a965ba79cd9f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108602429
+        }
+    ],
+    "wof:id":1108602429,
+    "wof:lastmodified":1474065732,
+    "wof:name":"Nurol Isi Armat?r. San.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9706764221,
+    41.0120429993,
+    28.9706764221,
+    41.0120429993
+],
+  "geometry": {"coordinates":[28.9706764221,41.0120429993],"type":"Point"}
+}

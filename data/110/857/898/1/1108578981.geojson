@@ -1,0 +1,64 @@
+{
+  "id": 1108578981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4924850464,37.8697891235,32.4924850464,37.8697891235",
+    "geom:latitude":37.869789,
+    "geom:longitude":32.492485,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gazi Alemsah Mh. Altay Sok 16/a",
+    "sg:city":"Meram",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 536 827 0666",
+    "sg:postcode":"42100",
+    "sg:province":"Konya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934705,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41QE2Hh9zSj6LOUwYQFD5D_37.869789_32.492485@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064913,
+    "wof:geomhash":"26be7ab35f45bab420b919689161c43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":1108578981
+        }
+    ],
+    "wof:id":1108578981,
+    "wof:lastmodified":1474064913,
+    "wof:name":"As Ajans",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4924850464,
+    37.8697891235,
+    32.4924850464,
+    37.8697891235
+],
+  "geometry": {"coordinates":[32.4924850464,37.8697891235],"type":"Point"}
+}

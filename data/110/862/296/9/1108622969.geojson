@@ -1,0 +1,67 @@
+{
+  "id": 1108622969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.01288414,41.0248146057,29.01288414,41.0248146057",
+    "geom:latitude":41.024815,
+    "geom:longitude":29.012884,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dogancilar Cd. No:32",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 333 0437",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Estf0pmdpHGTuOCr8eWB5_41.024815_29.012884@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066589,
+    "wof:geomhash":"77ef5172d189ae0869ba8f5539f4cfe7",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":1108622969
+        }
+    ],
+    "wof:id":1108622969,
+    "wof:lastmodified":1474066589,
+    "wof:name":"Karakulluk?ular Insaat Tic. Koll. Sti.",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.01288414,
+    41.0248146057,
+    29.01288414,
+    41.0248146057
+],
+  "geometry": {"coordinates":[29.01288414,41.0248146057],"type":"Point"}
+}

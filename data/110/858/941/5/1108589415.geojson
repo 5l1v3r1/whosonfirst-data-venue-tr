@@ -1,0 +1,75 @@
+{
+  "id": 1108589415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9921588898,41.0602684021,28.9921588898,41.0602684021",
+    "geom:latitude":41.060268,
+    "geom:longitude":28.992159,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Mayis Cad.?ruh Sok.no42/a",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 343 6578",
+    "sg:postcode":"34360",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59AK0G5JF4D9GSr26Vhpp1_41.060268_28.992159@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065237,
+    "wof:geomhash":"259ff31555afbd45aace04b5d4604b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108589415
+        }
+    ],
+    "wof:id":1108589415,
+    "wof:lastmodified":1474065237,
+    "wof:name":"Hasmont Iselbiseleri",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    28.9921588898,
+    41.0602684021,
+    28.9921588898,
+    41.0602684021
+],
+  "geometry": {"coordinates":[28.9921588898,41.0602684021],"type":"Point"}
+}

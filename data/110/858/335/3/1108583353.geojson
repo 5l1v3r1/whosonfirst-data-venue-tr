@@ -1,0 +1,74 @@
+{
+  "id": 1108583353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0557174683,40.9735946655,29.0557174683,40.9735946655",
+    "geom:latitude":40.973595,
+    "geom:longitude":29.055717,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. No:256 /11 Goztepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 6350",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UjOwEziP7KgUlwXwr4iE4_40.973595_29.055717@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065091,
+    "wof:geomhash":"fac856fce762f9182f7d5ee87e5e25c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108583353
+        }
+    ],
+    "wof:id":1108583353,
+    "wof:lastmodified":1474065091,
+    "wof:name":"Arena Metal",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    29.0557174683,
+    40.9735946655,
+    29.0557174683,
+    40.9735946655
+],
+  "geometry": {"coordinates":[29.0557174683,40.9735946655],"type":"Point"}
+}

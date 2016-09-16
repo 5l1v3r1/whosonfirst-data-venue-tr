@@ -1,0 +1,67 @@
+{
+  "id": 1108666957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1056442261,41.0337142944,29.1056442261,41.0337142944",
+    "geom:latitude":41.033714,
+    "geom:longitude":29.105644,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaya S. Sk. Aydogan Apt. No:72 Kadik?",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 373 1268",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WFDwF4f8skR6iXBgL60zm_41.033714_29.105644@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068521,
+    "wof:geomhash":"21815a81a5cb9fbbb37186250c79ff01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":1108666957
+        }
+    ],
+    "wof:id":1108666957,
+    "wof:lastmodified":1474068521,
+    "wof:name":"Ist. Servis Arac. Islet. Odasi",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1056442261,
+    41.0337142944,
+    29.1056442261,
+    41.0337142944
+],
+  "geometry": {"coordinates":[29.1056442261,41.0337142944],"type":"Point"}
+}

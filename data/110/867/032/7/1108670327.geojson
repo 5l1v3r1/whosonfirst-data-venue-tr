@@ -1,0 +1,75 @@
+{
+  "id": 1108670327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7094554901,36.8881721497,30.7094554901,36.8881721497",
+    "geom:latitude":36.888172,
+    "geom:longitude":30.709455,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali Cetinkaya Cad. No:129/6",
+    "sg:city":"Biga",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 311 9860",
+    "sg:postcode":"17200",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sap7u5yrx5VjiMoU8Qe4u_36.888172_30.709455@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068654,
+    "wof:geomhash":"2437c547a5123d67afcba8d3b1b2b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":1108670327
+        }
+    ],
+    "wof:id":1108670327,
+    "wof:lastmodified":1474068654,
+    "wof:name":"Antdem Tarim Sanayi Ve Ticaret Ltd.",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    30.7094554901,
+    36.8881721497,
+    30.7094554901,
+    36.8881721497
+],
+  "geometry": {"coordinates":[30.7094554901,36.8881721497],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108636991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8700447083,39.8965759277,32.8700447083,39.8965759277",
+    "geom:latitude":39.896576,
+    "geom:longitude":32.870045,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hafta Sk. No:4",
+    "sg:city":"G.osmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 436 6348",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g2MEEcR7HAIzBAUNoO72Z_39.896576_32.870045@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067299,
+    "wof:geomhash":"a4d41f3243a92f0fd15a36aabf65e611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108636991
+        }
+    ],
+    "wof:id":1108636991,
+    "wof:lastmodified":1474067299,
+    "wof:name":"Gemas Genel M?hendis. Mimar. A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    32.8700447083,
+    39.8965759277,
+    32.8700447083,
+    39.8965759277
+],
+  "geometry": {"coordinates":[32.8700447083,39.8965759277],"type":"Point"}
+}

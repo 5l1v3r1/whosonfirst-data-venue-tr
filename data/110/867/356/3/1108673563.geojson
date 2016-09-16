@@ -1,0 +1,73 @@
+{
+  "id": 1108673563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.092382431,40.9870185852,29.092382431,40.9870185852",
+    "geom:latitude":40.987019,
+    "geom:longitude":29.092382,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayisdagi Cd. Gazi M. Sk. No:3/b Feneryolu",
+    "sg:city":"Kemalpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 1822",
+    "sg:postcode":"01340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DaOKyHhRbe5QW3FPhFZ3R_40.987019_29.092382@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068786,
+    "wof:geomhash":"63b280b8a27368af5dedc50c18d59f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":1108673563
+        }
+    ],
+    "wof:id":1108673563,
+    "wof:lastmodified":1474068786,
+    "wof:name":"Zeren ?i?ek Evi",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.092382431,
+    40.9870185852,
+    29.092382431,
+    40.9870185852
+],
+  "geometry": {"coordinates":[29.092382431,40.9870185852],"type":"Point"}
+}

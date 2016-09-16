@@ -1,0 +1,72 @@
+{
+  "id": 1108654385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9179191589,41.0430793762,28.9179191589,41.0430793762",
+    "geom:latitude":41.043079,
+    "geom:longitude":28.917919,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kisla Caddesi No:94 34140 Rami Istanbul",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 6748",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "sg:website":"http://www.denetcivata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ImoF9vClTZmb91Wrss9gt_41.043079_28.917919@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068039,
+    "wof:geomhash":"2156ae0b6d213470dc6983b78b78de65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108654385
+        }
+    ],
+    "wof:id":1108654385,
+    "wof:lastmodified":1474068039,
+    "wof:name":"Denet Civata Sanayii A.s.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    28.9179191589,
+    41.0430793762,
+    28.9179191589,
+    41.0430793762
+],
+  "geometry": {"coordinates":[28.9179191589,41.0430793762],"type":"Point"}
+}

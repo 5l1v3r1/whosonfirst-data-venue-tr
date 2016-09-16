@@ -1,0 +1,73 @@
+{
+  "id": 1108664225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1427059174,40.9815979004,29.1427059174,40.9815979004",
+    "geom:latitude":40.981598,
+    "geom:longitude":29.142706,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akyazili Caddesi No.3",
+    "sg:city":"Kayisdagi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 420 4843",
+    "sg:postcode":"34755",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76REoe9IqAq1Kgk9gmKrkw_40.981598_29.142706@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068413,
+    "wof:geomhash":"6a3bd1358349db25ea2f8613d02d0ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108664225
+        }
+    ],
+    "wof:id":1108664225,
+    "wof:lastmodified":1474068413,
+    "wof:name":"?zaslan Dekarasyon Pakpen ?retici Bayii",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.1427059174,
+    40.9815979004,
+    29.1427059174,
+    40.9815979004
+],
+  "geometry": {"coordinates":[29.1427059174,40.9815979004],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1108595109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9884414673,41.0617027283,28.9884414673,41.0617027283",
+    "geom:latitude":41.061703,
+    "geom:longitude":28.988441,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cd. No:245/251 K:6 Sisli",
+    "sg:city":"42200",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 0404",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10mZTavS4p14lGUBSjVjhQ_41.061703_28.988441@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065424,
+    "wof:geomhash":"41b69afeb122f1f02adde39130100718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108595109
+        }
+    ],
+    "wof:id":1108595109,
+    "wof:lastmodified":1474065424,
+    "wof:name":"Promethe Dil / Bilgisayar Kurs.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "language"
+    ]
+},
+  "bbox": [
+    28.9884414673,
+    41.0617027283,
+    28.9884414673,
+    41.0617027283
+],
+  "geometry": {"coordinates":[28.9884414673,41.0617027283],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108586117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8040943146,41.0013389587,28.8040943146,41.0013389587",
+    "geom:latitude":41.001339,
+    "geom:longitude":28.804094,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Safak Sk.no:6/3",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 6411",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_059e8Pjl6we1XZ8CuYUnOk_41.001339_28.804094@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065160,
+    "wof:geomhash":"489e0043903ab33b0401b2f29a02314f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108586117
+        }
+    ],
+    "wof:id":1108586117,
+    "wof:lastmodified":1474065160,
+    "wof:name":"Bilgin Tekstil",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    28.8040943146,
+    41.0013389587,
+    28.8040943146,
+    41.0013389587
+],
+  "geometry": {"coordinates":[28.8040943146,41.0013389587],"type":"Point"}
+}

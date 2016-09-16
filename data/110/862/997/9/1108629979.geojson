@@ -1,0 +1,67 @@
+{
+  "id": 1108629979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.981754303,41.0033035278,28.981754303,41.0033035278",
+    "geom:latitude":41.003304,
+    "geom:longitude":28.981754,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kucuk Ayasfya Gddesi #10, Sultanahmet",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 125 1838",
+    "sg:province":"34400",
+    "sg:website":"www.interopatravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lAvuzO1MqJCR3qalwm2we_41.003304_28.981754@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066915,
+    "wof:geomhash":"8751e3dfd42ba0100e3d94290e17a4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906491,
+            "region_id":85679237,
+            "venue_id":1108629979
+        }
+    ],
+    "wof:id":1108629979,
+    "wof:lastmodified":1474066915,
+    "wof:name":"Interopa Travel Ltd.",
+    "wof:parent_id":85906491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.981754303,
+    41.0033035278,
+    28.981754303,
+    41.0033035278
+],
+  "geometry": {"coordinates":[28.981754303,41.0033035278],"type":"Point"}
+}

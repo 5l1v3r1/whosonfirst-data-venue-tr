@@ -1,0 +1,71 @@
+{
+  "id": 1108655413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1465187073,38.4391593933,27.1465187073,38.4391593933",
+    "geom:latitude":38.439159,
+    "geom:longitude":27.146519,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1469.sk. No:78",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0383",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19mMqmdVfEU7QalhT9yrIi_38.439159_27.146519@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068075,
+    "wof:geomhash":"8cd3b059d75563811d7ff76dea8631f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108655413
+        }
+    ],
+    "wof:id":1108655413,
+    "wof:lastmodified":1474068075,
+    "wof:name":"Kaya Madencilik End?stri Taahh?t A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.1465187073,
+    38.4391593933,
+    27.1465187073,
+    38.4391593933
+],
+  "geometry": {"coordinates":[27.1465187073,38.4391593933],"type":"Point"}
+}

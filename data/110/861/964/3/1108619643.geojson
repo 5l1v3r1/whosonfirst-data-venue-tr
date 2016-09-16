@@ -1,0 +1,69 @@
+{
+  "id": 1108619643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.518995285,40.9782791138,27.518995285,40.9782791138",
+    "geom:latitude":40.978279,
+    "geom:longitude":27.518995,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istasyon Civari No:35",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 686 2045",
+    "sg:postcode":"59850",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "cardboard",
+        "corrugate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101910981,
+        85934641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k0mYKs9nxKEm2GM5GOezi_40.978279_27.518995@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066457,
+    "wof:geomhash":"1c960fe0d2f89cd3156219d69a8e8a94",
+    "wof:hierarchy":[
+        {
+            "locality_id":101910981,
+            "neighbourhood_id":85934641,
+            "venue_id":1108619643
+        }
+    ],
+    "wof:id":1108619643,
+    "wof:lastmodified":1474066457,
+    "wof:name":"Trakya Kagit San Tic As",
+    "wof:parent_id":85934641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardboard",
+        "corrugate"
+    ]
+},
+  "bbox": [
+    27.518995285,
+    40.9782791138,
+    27.518995285,
+    40.9782791138
+],
+  "geometry": {"coordinates":[27.518995285,40.9782791138],"type":"Point"}
+}

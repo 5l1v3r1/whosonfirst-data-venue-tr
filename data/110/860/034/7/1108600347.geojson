@@ -1,0 +1,71 @@
+{
+  "id": 1108600347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8587036133,39.9097595215,32.8587036133,39.9097595215",
+    "geom:latitude":39.90976,
+    "geom:longitude":32.858704,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bestekar Sok. 30/3",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 8664",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VvXocoT87s7Im3oKcTWy7_39.909760_32.858704@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065650,
+    "wof:geomhash":"aebeed6eedf42736452cb3523ac383af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108600347
+        }
+    ],
+    "wof:id":1108600347,
+    "wof:lastmodified":1474065650,
+    "wof:name":"Agrin Ltd.sti.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    32.8587036133,
+    39.9097595215,
+    32.8587036133,
+    39.9097595215
+],
+  "geometry": {"coordinates":[32.8587036133,39.9097595215],"type":"Point"}
+}

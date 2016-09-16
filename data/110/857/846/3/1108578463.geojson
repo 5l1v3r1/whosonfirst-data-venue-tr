@@ -1,0 +1,69 @@
+{
+  "id": 1108578463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0157566071,41.0767288208,29.0157566071,41.0767288208",
+    "geom:latitude":41.076729,
+    "geom:longitude":29.015757,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Balli Sok. No:3 1.levent",
+    "sg:city":"Kocatepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 8500",
+    "sg:postcode":"80440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_058sRx5L0QrxNafoiks2GW_41.076729_29.015757@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064891,
+    "wof:geomhash":"be38d689e861f33acd4d6f7eebf7c4b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108578463
+        }
+    ],
+    "wof:id":1108578463,
+    "wof:lastmodified":1474064891,
+    "wof:name":"Zirve International Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    29.0157566071,
+    41.0767288208,
+    29.0157566071,
+    41.0767288208
+],
+  "geometry": {"coordinates":[29.0157566071,41.0767288208],"type":"Point"}
+}

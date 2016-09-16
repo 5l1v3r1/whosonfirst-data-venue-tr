@@ -1,0 +1,64 @@
+{
+  "id": 1108664643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0013065338,41.0947723389,29.0013065338,41.0947723389",
+    "geom:latitude":41.094772,
+    "geom:longitude":29.001307,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Degirmen Sk. No:51 4.levent",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 6953",
+    "sg:postcode":"06640",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uy4dijLhGM5rzqJtzli0d_41.094772_29.001307@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068430,
+    "wof:geomhash":"7ad6bf4cdec4104be0661247c20a7954",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108664643
+        }
+    ],
+    "wof:id":1108664643,
+    "wof:lastmodified":1474068430,
+    "wof:name":"Evka Ev D?z. San. Tic. A.s.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0013065338,
+    41.0947723389,
+    29.0013065338,
+    41.0947723389
+],
+  "geometry": {"coordinates":[29.0013065338,41.0947723389],"type":"Point"}
+}

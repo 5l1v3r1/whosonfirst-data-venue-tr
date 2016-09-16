@@ -1,0 +1,64 @@
+{
+  "id": 1108664671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1676540375,38.4285430908,27.1676540375,38.4285430908",
+    "geom:latitude":38.428543,
+    "geom:longitude":27.167654,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203/7 Sokak No:3/e",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 449 0101",
+    "sg:postcode":"06640",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kg2uIAaJpPyqHBNLwsTwT_38.428543_27.167654@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068431,
+    "wof:geomhash":"3700504d99ece2d7ef4d7c62e55e6940",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108664671
+        }
+    ],
+    "wof:id":1108664671,
+    "wof:lastmodified":1474068431,
+    "wof:name":"G?ltay Tesisat Insaat Sanayi Ve Ticaret Ltd.sti",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1676540375,
+    38.4285430908,
+    27.1676540375,
+    38.4285430908
+],
+  "geometry": {"coordinates":[27.1676540375,38.4285430908],"type":"Point"}
+}

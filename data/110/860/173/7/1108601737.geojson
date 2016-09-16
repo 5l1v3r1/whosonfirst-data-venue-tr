@@ -1,0 +1,71 @@
+{
+  "id": 1108601737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1398487091,38.4265785217,27.1398487091,38.4265785217",
+    "geom:latitude":38.426579,
+    "geom:longitude":27.139849,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Esref Bulvari No:15/15",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 1420",
+    "sg:postcode":"07080",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GMrYNjqb6mSKmk66U2axI_38.426579_27.139849@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065708,
+    "wof:geomhash":"01e9c3d884f21b5fc6eb6bc7deafb84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108601737
+        }
+    ],
+    "wof:id":1108601737,
+    "wof:lastmodified":1474065708,
+    "wof:name":"As Musavirlik Muhendislik Dis Ticaret",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    27.1398487091,
+    38.4265785217,
+    27.1398487091,
+    38.4265785217
+],
+  "geometry": {"coordinates":[27.1398487091,38.4265785217],"type":"Point"}
+}

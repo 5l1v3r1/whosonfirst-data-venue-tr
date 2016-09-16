@@ -1,0 +1,68 @@
+{
+  "id": 1108641849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8604812622,39.9429283142,32.8604812622,39.9429283142",
+    "geom:latitude":39.942928,
+    "geom:longitude":32.860481,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Karabekir Cd. Eser Han Ulus",
+    "sg:city":"Esenler . Atisalani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 1828",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SgE7CcCpiPC6Q0mU8hZb6_39.942928_32.860481@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067490,
+    "wof:geomhash":"7b19c4363e0a6b996091b2e8d364c2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108641849
+        }
+    ],
+    "wof:id":1108641849,
+    "wof:lastmodified":1474067490,
+    "wof:name":"?zcan Tic. Oto Lastik Otomotiv San. Ltd. Sti.",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    32.8604812622,
+    39.9429283142,
+    32.8604812622,
+    39.9429283142
+],
+  "geometry": {"coordinates":[32.8604812622,39.9429283142],"type":"Point"}
+}

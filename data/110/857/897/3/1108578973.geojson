@@ -1,0 +1,68 @@
+{
+  "id": 1108578973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9818496704,41.0355110168,28.9818496704,41.0355110168",
+    "geom:latitude":41.035511,
+    "geom:longitude":28.98185,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mis Sok.no: 13 /22",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 7628",
+    "sg:postcode":"34360",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906573,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RZ8UEForfGyI71pYuURnv_41.035511_28.981850@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064913,
+    "wof:geomhash":"03480ee9eb09f725f20957ce32b2d3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906573,
+            "region_id":85679237,
+            "venue_id":1108578973
+        }
+    ],
+    "wof:id":1108578973,
+    "wof:lastmodified":1474064913,
+    "wof:name":"Ajans Proline",
+    "wof:parent_id":85906573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9818496704,
+    41.0355110168,
+    28.9818496704,
+    41.0355110168
+],
+  "geometry": {"coordinates":[28.9818496704,41.0355110168],"type":"Point"}
+}

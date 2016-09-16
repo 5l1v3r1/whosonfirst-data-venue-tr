@@ -1,0 +1,73 @@
+{
+  "id": 1108578351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8524150848,40.9981651306,28.8524150848,40.9981651306",
+    "geom:latitude":40.998165,
+    "geom:longitude":28.852415,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sirinevler Mah.alkan Sok.no:8/1 Bahcelievler",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 9765",
+    "sg:postcode":"326",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h6RHgQZUke4R8vm4J9axB_40.998165_28.852415@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064886,
+    "wof:geomhash":"a73619c9489f78900dcfb0d66fe7ab3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108578351
+        }
+    ],
+    "wof:id":1108578351,
+    "wof:lastmodified":1474064886,
+    "wof:name":"Muti Line",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    28.8524150848,
+    40.9981651306,
+    28.8524150848,
+    40.9981651306
+],
+  "geometry": {"coordinates":[28.8524150848,40.9981651306],"type":"Point"}
+}

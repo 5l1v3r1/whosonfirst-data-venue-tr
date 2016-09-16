@@ -1,0 +1,71 @@
+{
+  "id": 1108567585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8413848877,39.8934555054,32.8413848877,39.8934555054",
+    "geom:latitude":39.893456,
+    "geom:longitude":32.841385,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dikmen Cad.no:132/5",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 483 2447",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YNPWTtVuZo1LygtNuhB3k_39.893456_32.841385@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064359,
+    "wof:geomhash":"d767da4c2bcb27fbecd9b19ff7d5d51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108567585
+        }
+    ],
+    "wof:id":1108567585,
+    "wof:lastmodified":1474064359,
+    "wof:name":"Guven Makina",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8413848877,
+    39.8934555054,
+    32.8413848877,
+    39.8934555054
+],
+  "geometry": {"coordinates":[32.8413848877,39.8934555054],"type":"Point"}
+}

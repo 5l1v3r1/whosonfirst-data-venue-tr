@@ -1,0 +1,67 @@
+{
+  "id": 1108651337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9451503754,41.0093345642,28.9451503754,41.0093345642",
+    "geom:latitude":41.009335,
+    "geom:longitude":28.94515,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Adnan Adivar Cad. No:20/3 Aksaray",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 530 4560",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n2SpFRpIeJWSbPU1OQC8X_41.009335_28.945150@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067898,
+    "wof:geomhash":"d4765dc1c8f64fe030f37936c5206c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108651337
+        }
+    ],
+    "wof:id":1108651337,
+    "wof:lastmodified":1474067898,
+    "wof:name":"Makro Medikal",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9451503754,
+    41.0093345642,
+    28.9451503754,
+    41.0093345642
+],
+  "geometry": {"coordinates":[28.9451503754,41.0093345642],"type":"Point"}
+}

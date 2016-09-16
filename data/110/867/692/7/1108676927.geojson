@@ -1,0 +1,69 @@
+{
+  "id": 1108676927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1502513885,38.4001121521,27.1502513885,38.4001121521",
+    "geom:latitude":38.400112,
+    "geom:longitude":27.150251,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keresteciler Sit. 421. Sk. No:3 Bornova",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 2808",
+    "sg:postcode":"53100",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qepOyPnRe1WyA9CvsdNej_38.400112_27.150251@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068923,
+    "wof:geomhash":"8136f8f279a11cb45988488395332174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108676927
+        }
+    ],
+    "wof:id":1108676927,
+    "wof:lastmodified":1474068923,
+    "wof:name":"Ortas Orman ?r?n. Paz. Tic. San. A.s.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    27.1502513885,
+    38.4001121521,
+    27.1502513885,
+    38.4001121521
+],
+  "geometry": {"coordinates":[27.1502513885,38.4001121521],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108567401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0076828003,41.0619125366,29.0076828003,41.0619125366",
+    "geom:latitude":41.061913,
+    "geom:longitude":29.007683,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vefabayiri Sk. No:38/13 Gayrettepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 0437",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vECUK47LFwyAafSlph9gC_41.061913_29.007683@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064351,
+    "wof:geomhash":"f892a1ba53fde911609726cc7c1e0a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108567401
+        }
+    ],
+    "wof:id":1108567401,
+    "wof:lastmodified":1474064351,
+    "wof:name":"Ezgi M?h. M?t. Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0076828003,
+    41.0619125366,
+    29.0076828003,
+    41.0619125366
+],
+  "geometry": {"coordinates":[29.0076828003,41.0619125366],"type":"Point"}
+}

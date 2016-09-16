@@ -1,0 +1,77 @@
+{
+  "id": 1108664155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0169315338,41.0546836853,29.0169315338,41.0546836853",
+    "geom:latitude":41.054684,
+    "geom:longitude":29.016932,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ridvan Pasa S. No: 22/1 G?tepe",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 368 5860",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CIwz0AIjCE5jqEllc8UQB_41.054684_29.016932@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068410,
+    "wof:geomhash":"c7f43625de961ae180aa7b2b8938b393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108664155
+        }
+    ],
+    "wof:id":1108664155,
+    "wof:lastmodified":1474068410,
+    "wof:name":"Tuncay Cam San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.0169315338,
+    41.0546836853,
+    29.0169315338,
+    41.0546836853
+],
+  "geometry": {"coordinates":[29.0169315338,41.0546836853],"type":"Point"}
+}

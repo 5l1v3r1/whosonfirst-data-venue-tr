@@ -1,0 +1,76 @@
+{
+  "id": 1108671999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8810062408,40.9787940979,28.8810062408,40.9787940979",
+    "geom:latitude":40.978794,
+    "geom:longitude":28.881006,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Caddesi No:82 - Bakirk?",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 2862",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZqP16ZH8F2XrZOYLqAEUl_40.978794_28.881006@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068717,
+    "wof:geomhash":"daebb588ca4e5a3b51e1d29fef414370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108671999
+        }
+    ],
+    "wof:id":1108671999,
+    "wof:lastmodified":1474068717,
+    "wof:name":"International Hospital",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.8810062408,
+    40.9787940979,
+    28.8810062408,
+    40.9787940979
+],
+  "geometry": {"coordinates":[28.8810062408,40.9787940979],"type":"Point"}
+}

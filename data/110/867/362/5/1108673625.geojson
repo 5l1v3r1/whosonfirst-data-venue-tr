@@ -1,0 +1,72 @@
+{
+  "id": 1108673625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0279693604,41.0488319397,29.0279693604,41.0488319397",
+    "geom:latitude":41.048832,
+    "geom:longitude":29.027969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muallim Naci Cd. No:22",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 5930",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24S2VrqFhwD3FftHcVxITo_41.048832_29.027969@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068788,
+    "wof:geomhash":"435319b283d969e65e3b488e9828975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":1108673625
+        }
+    ],
+    "wof:id":1108673625,
+    "wof:lastmodified":1474068788,
+    "wof:name":"?zg?l ?i?ek?ilik",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0279693604,
+    41.0488319397,
+    29.0279693604,
+    41.0488319397
+],
+  "geometry": {"coordinates":[29.0279693604,41.0488319397],"type":"Point"}
+}

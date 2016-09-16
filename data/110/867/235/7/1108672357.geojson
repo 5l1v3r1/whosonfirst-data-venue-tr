@@ -1,0 +1,73 @@
+{
+  "id": 1108672357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1795654297,40.8897972107,29.1795654297,40.8897972107",
+    "geom:latitude":40.889797,
+    "geom:longitude":29.179565,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uskudar Cad. No.46",
+    "sg:city":"Sile",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 711 5236",
+    "sg:postcode":"74500",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930215,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BNwfN9f3NNOaTCQPuZTUs_40.889797_29.179565@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068730,
+    "wof:geomhash":"de3420b9ec830d96cc67d7828435acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930215,
+            "region_id":85679237,
+            "venue_id":1108672357
+        }
+    ],
+    "wof:id":1108672357,
+    "wof:lastmodified":1474068730,
+    "wof:name":"Varollar Gida San. Ve Tic. A.s.",
+    "wof:parent_id":85930215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    29.1795654297,
+    40.8897972107,
+    29.1795654297,
+    40.8897972107
+],
+  "geometry": {"coordinates":[29.1795654297,40.8897972107],"type":"Point"}
+}

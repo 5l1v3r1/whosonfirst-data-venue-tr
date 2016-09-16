@@ -1,0 +1,71 @@
+{
+  "id": 1108569115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1220397949,38.4564743042,27.1220397949,38.4564743042",
+    "geom:latitude":38.456474,
+    "geom:longitude":27.12204,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karsiyaka",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 364 4222",
+    "sg:postcode":"34670",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PGlP5NBtwAfM4PLlqndD9_38.456474_27.122040@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064420,
+    "wof:geomhash":"c146d5cb53e14828a4a0b610b26cad0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108569115
+        }
+    ],
+    "wof:id":1108569115,
+    "wof:lastmodified":1474064420,
+    "wof:name":"Senkon Ltd.sti.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1220397949,
+    38.4564743042,
+    27.1220397949,
+    38.4564743042
+],
+  "geometry": {"coordinates":[27.1220397949,38.4564743042],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108652179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3380851746,36.9776306152,35.3380851746,36.9776306152",
+    "geom:latitude":36.977631,
+    "geom:longitude":35.338085,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2. Cemalpasa Mah. 283. Sk. No:21/8",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 353 0164",
+    "sg:postcode":"75200",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h2Q4FtQjtXwXW3fuErD9H_36.977631_35.338085@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067942,
+    "wof:geomhash":"b72546cf9eabd3d6c02252b01f6f7592",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108652179
+        }
+    ],
+    "wof:id":1108652179,
+    "wof:lastmodified":1474067942,
+    "wof:name":"Eksoy Kimyevi Mad. Ltd. Sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine"
+    ]
+},
+  "bbox": [
+    35.3380851746,
+    36.9776306152,
+    35.3380851746,
+    36.9776306152
+],
+  "geometry": {"coordinates":[35.3380851746,36.9776306152],"type":"Point"}
+}

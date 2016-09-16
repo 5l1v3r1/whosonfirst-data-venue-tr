@@ -1,0 +1,70 @@
+{
+  "id": 1108599299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0071201324,41.0797805786,29.0071201324,41.0797805786",
+    "geom:latitude":41.079781,
+    "geom:longitude":29.00712,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Cd. No:5",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 2770",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iyz6ScLYjuKLjaR8XjGwY_41.079781_29.007120@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065600,
+    "wof:geomhash":"e3b15477fb46f5427dcea1cb8ae45304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108599299
+        }
+    ],
+    "wof:id":1108599299,
+    "wof:lastmodified":1474065600,
+    "wof:name":"T?rk Philips Aydinlatma A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.0071201324,
+    41.0797805786,
+    29.0071201324,
+    41.0797805786
+],
+  "geometry": {"coordinates":[29.0071201324,41.0797805786],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108567191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0078811646,41.0864295959,29.0078811646,41.0864295959",
+    "geom:latitude":41.08643,
+    "geom:longitude":29.007881,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akcam Sok. No:23/6 4.levent",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 325 9436",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KdB0gkvfgrTa4GmFa7sWd_41.086430_29.007881@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064336,
+    "wof:geomhash":"dc5d79c8f9fc409f013ffc07736b82d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108567191
+        }
+    ],
+    "wof:id":1108567191,
+    "wof:lastmodified":1474064336,
+    "wof:name":"Endustri Teknik Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0078811646,
+    41.0864295959,
+    29.0078811646,
+    41.0864295959
+],
+  "geometry": {"coordinates":[29.0078811646,41.0864295959],"type":"Point"}
+}

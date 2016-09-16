@@ -1,0 +1,73 @@
+{
+  "id": 1108663573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8619384766,39.9520149231,32.8619384766,39.9520149231",
+    "geom:latitude":39.952015,
+    "geom:longitude":32.861938,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2. Cd. No:26 Anittepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 2837",
+    "sg:postcode":"34475",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904077,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ajyjyL8r9eOfvhai4F08_39.952015_32.861938@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068388,
+    "wof:geomhash":"ebecdad6d88f5d09846c20d2d8c278b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":1108663573
+        }
+    ],
+    "wof:id":1108663573,
+    "wof:lastmodified":1474068388,
+    "wof:name":"Afapen A.s.",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8619384766,
+    39.9520149231,
+    32.8619384766,
+    39.9520149231
+],
+  "geometry": {"coordinates":[32.8619384766,39.9520149231],"type":"Point"}
+}

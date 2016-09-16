@@ -1,0 +1,75 @@
+{
+  "id": 1108589275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8621635437,40.9968299866,28.8621635437,40.9968299866",
+    "geom:latitude":40.99683,
+    "geom:longitude":28.862164,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"H.avni Basargan Sok. No:7/2",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 441 6582",
+    "sg:postcode":"01980",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ocx5ARxhMuFQjZn0Zkz22_40.996830_28.862164@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065234,
+    "wof:geomhash":"86ad075fdf878965ec387f171dc06d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108589275
+        }
+    ],
+    "wof:id":1108589275,
+    "wof:lastmodified":1474065234,
+    "wof:name":"Berk Dis Ticaret",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    28.8621635437,
+    40.9968299866,
+    28.8621635437,
+    40.9968299866
+],
+  "geometry": {"coordinates":[28.8621635437,40.9968299866],"type":"Point"}
+}

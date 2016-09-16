@@ -1,0 +1,67 @@
+{
+  "id": 1108675455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7136669159,36.8835411072,30.7136669159,36.8835411072",
+    "geom:latitude":36.883541,
+    "geom:longitude":30.713667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sinan Mh. Cebesoy Cd. No.2",
+    "sg:city":"Baspinar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 2250",
+    "sg:postcode":"07800",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hOGjfLjxspVQlz9IeBpH6_36.883541_30.713667@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068869,
+    "wof:geomhash":"145b7c717ab5f8107406b141d2442942",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930261,
+            "venue_id":1108675455
+        }
+    ],
+    "wof:id":1108675455,
+    "wof:lastmodified":1474068869,
+    "wof:name":"Gendas Gida Mad. A.s.",
+    "wof:parent_id":85930261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    30.7136669159,
+    36.8835411072,
+    30.7136669159,
+    36.8835411072
+],
+  "geometry": {"coordinates":[30.7136669159,36.8835411072],"type":"Point"}
+}

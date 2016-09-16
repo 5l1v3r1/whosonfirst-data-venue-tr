@@ -1,0 +1,68 @@
+{
+  "id": 1108667667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.001077652,41.0988883972,29.001077652,41.0988883972",
+    "geom:latitude":41.098888,
+    "geom:longitude":29.001078,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe Yildiz Sok.no:7/b 4.levent",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21232577453",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HWwoOQ8AX27wacFyYFnju_41.098888_29.001078@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068547,
+    "wof:geomhash":"d17c2e8294e5aa68efe3164f73f68357",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108667667
+        }
+    ],
+    "wof:id":1108667667,
+    "wof:lastmodified":1474068547,
+    "wof:name":"Sim-art Hediyelik Esya San.vedis Tic.ltd.sti",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    29.001077652,
+    41.0988883972,
+    29.001077652,
+    41.0988883972
+],
+  "geometry": {"coordinates":[29.001077652,41.0988883972],"type":"Point"}
+}

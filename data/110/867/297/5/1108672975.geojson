@@ -1,0 +1,72 @@
+{
+  "id": 1108672975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9021644592,40.9847640991,28.9021644592,40.9847640991",
+    "geom:latitude":40.984764,
+    "geom:longitude":28.902164,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nuripasa Mh. 65/1 Sk. No:4",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 679 0269",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WEoSJacl4dtEh3AhusXv3_40.984764_28.902164@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068760,
+    "wof:geomhash":"3dcc56cafb76ce04bc509f7cf245835c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906615,
+            "region_id":85679237,
+            "venue_id":1108672975
+        }
+    ],
+    "wof:id":1108672975,
+    "wof:lastmodified":1474068760,
+    "wof:name":"Fiesta ?i?ek?ilik",
+    "wof:parent_id":85906615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9021644592,
+    40.9847640991,
+    28.9021644592,
+    40.9847640991
+],
+  "geometry": {"coordinates":[28.9021644592,40.9847640991],"type":"Point"}
+}

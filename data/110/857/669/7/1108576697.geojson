@@ -1,0 +1,68 @@
+{
+  "id": 1108576697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.886756897,41.0164871216,28.886756897,41.0164871216",
+    "geom:latitude":41.016487,
+    "geom:longitude":28.886757,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Savas Cad.no:12/7",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 8235",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eRsyxejz85h3AO8VAy3Bq_41.016487_28.886757@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064729,
+    "wof:geomhash":"859782904dcdbc39b183b9e9b97182e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108576697
+        }
+    ],
+    "wof:id":1108576697,
+    "wof:lastmodified":1474064729,
+    "wof:name":"T.t. Tekstil",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.886756897,
+    41.0164871216,
+    28.886756897,
+    41.0164871216
+],
+  "geometry": {"coordinates":[28.886756897,41.0164871216],"type":"Point"}
+}

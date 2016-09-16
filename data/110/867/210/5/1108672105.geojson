@@ -1,0 +1,72 @@
+{
+  "id": 1108672105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9076690674,41.0008811951,28.9076690674,41.0008811951",
+    "geom:latitude":41.000881,
+    "geom:longitude":28.907669,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyitnizam Caddesi 101 Sokak No:109 - Zeytinburnu",
+    "sg:city":"Ki?kapi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 665 5050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qwBr3BEYA4vN7XjJiY0au_41.000881_28.907669@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068721,
+    "wof:geomhash":"a51c4eba76c2283672dd843e82dab46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108672105
+        }
+    ],
+    "wof:id":1108672105,
+    "wof:lastmodified":1474068721,
+    "wof:name":"Urev Saglik Hizmetleri",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.9076690674,
+    41.0008811951,
+    28.9076690674,
+    41.0008811951
+],
+  "geometry": {"coordinates":[28.9076690674,41.0008811951],"type":"Point"}
+}

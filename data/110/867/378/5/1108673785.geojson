@@ -1,0 +1,75 @@
+{
+  "id": 1108673785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.826177597,40.9737968445,28.826177597,40.9737968445",
+    "geom:latitude":40.973797,
+    "geom:longitude":28.826178,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Hava Limani Karsisi, Idtm Bloklari, A-1 Blok, Kat:9, No:319",
+    "sg:city":"Yesilkoy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 465 7380",
+    "sg:postcode":"34149",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929771,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bA5M01oALJK3oZjiTwRXD_40.973797_28.826178@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068793,
+    "wof:geomhash":"08bb911c403827dcfe6385c1c8082710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929771,
+            "region_id":85679237,
+            "venue_id":1108673785
+        }
+    ],
+    "wof:id":1108673785,
+    "wof:lastmodified":1474068793,
+    "wof:name":"Trend Gida San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    28.826177597,
+    40.9737968445,
+    28.826177597,
+    40.9737968445
+],
+  "geometry": {"coordinates":[28.826177597,40.9737968445],"type":"Point"}
+}

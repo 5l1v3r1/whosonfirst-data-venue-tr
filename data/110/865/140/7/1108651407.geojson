@@ -1,0 +1,75 @@
+{
+  "id": 1108651407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0277671814,40.9898681641,29.0277671814,40.9898681641",
+    "geom:latitude":40.989868,
+    "geom:longitude":29.027767,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Osmancik Sk. No:12/403 Kadik?",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 7861",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49HlXj8bKgtmr05pINgOHK_40.989868_29.027767@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067900,
+    "wof:geomhash":"774de46147faf321d6433362782fc390",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108651407
+        }
+    ],
+    "wof:id":1108651407,
+    "wof:lastmodified":1474067900,
+    "wof:name":"Medika Ment Tibbi Mlz. Tic.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.0277671814,
+    40.9898681641,
+    29.0277671814,
+    40.9898681641
+],
+  "geometry": {"coordinates":[29.0277671814,40.9898681641],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108592747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9891204834,41.0379676819,28.9891204834,41.0379676819",
+    "geom:latitude":41.037968,
+    "geom:longitude":28.98912,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Miralay Sefikbey Sokak No:1/1 80090 Gumussuyu Istanbul",
+    "sg:city":"Salihli",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 1712",
+    "sg:postcode":"24600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CyEgfJunanHUp7Woshk8Q_41.037968_28.989120@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065334,
+    "wof:geomhash":"27eb7bcdc4654679d0e67f08f015b7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":1108592747
+        }
+    ],
+    "wof:id":1108592747,
+    "wof:lastmodified":1474065334,
+    "wof:name":"Madenci Gemi San Ltd Sti",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "transport"
+    ]
+},
+  "bbox": [
+    28.9891204834,
+    41.0379676819,
+    28.9891204834,
+    41.0379676819
+],
+  "geometry": {"coordinates":[28.9891204834,41.0379676819],"type":"Point"}
+}

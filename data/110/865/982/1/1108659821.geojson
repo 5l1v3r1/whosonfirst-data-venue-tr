@@ -1,0 +1,69 @@
+{
+  "id": 1108659821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1616230011,40.9071311951,29.1616230011,40.9071311951",
+    "geom:latitude":40.907131,
+    "geom:longitude":29.161623,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Bulvari. G?sin Sokak No:4",
+    "sg:city":"Kemerburgaz/ey?",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 360 0049",
+    "sg:postcode":"34075",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fBsBEicRvWY60HNF0lblY_40.907131_29.161623@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068249,
+    "wof:geomhash":"a874183b16b8e64040517c822bff71aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108659821
+        }
+    ],
+    "wof:id":1108659821,
+    "wof:lastmodified":1474068249,
+    "wof:name":"Arpak Paketleme Malz. San. Tic.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1616230011,
+    40.9071311951,
+    29.1616230011,
+    40.9071311951
+],
+  "geometry": {"coordinates":[29.1616230011,40.9071311951],"type":"Point"}
+}

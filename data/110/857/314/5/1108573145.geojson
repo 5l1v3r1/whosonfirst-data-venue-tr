@@ -1,0 +1,67 @@
+{
+  "id": 1108573145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0513534546,41.0099525452,29.0513534546,41.0099525452",
+    "geom:latitude":41.009953,
+    "geom:longitude":29.051353,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cad.no:186/a",
+    "sg:city":"?skudar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 340 2879",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y37Kly5d5SbX0YH5uWp63_41.009953_29.051353@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064586,
+    "wof:geomhash":"b881773b98bf7f9b6c9f5777caf2093c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108573145
+        }
+    ],
+    "wof:id":1108573145,
+    "wof:lastmodified":1474064586,
+    "wof:name":"Mum Dunyasi",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0513534546,
+    41.0099525452,
+    29.0513534546,
+    41.0099525452
+],
+  "geometry": {"coordinates":[29.0513534546,41.0099525452],"type":"Point"}
+}

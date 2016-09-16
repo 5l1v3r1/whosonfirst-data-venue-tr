@@ -1,0 +1,67 @@
+{
+  "id": 1108679959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.977046,41.06052,28.977046,41.06052",
+    "geom:latitude":41.06052,
+    "geom:longitude":28.977046,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fulya Cad No:4-12 d:18 Sisli",
+    "sg:city":"istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34360",
+    "sg:website":"http://www.kivisoft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38cIDuR8fvScmzhz0i8q1X_41.060520_28.977046@1308163237"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069043,
+    "wof:geomhash":"33f40e5497572ef5ab0fecb155267634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108679959
+        }
+    ],
+    "wof:id":1108679959,
+    "wof:lastmodified":1474069043,
+    "wof:name":"KIVISOFT ",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.977046,
+    41.06052,
+    28.977046,
+    41.06052
+],
+  "geometry": {"coordinates":[28.977046,41.06052],"type":"Point"}
+}

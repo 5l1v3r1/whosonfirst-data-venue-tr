@@ -1,0 +1,71 @@
+{
+  "id": 1108622461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1423015594,38.4251480103,27.1423015594,38.4251480103",
+    "geom:latitude":38.425148,
+    "geom:longitude":27.142302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"129/3.no:7 Bornova",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 375 6079",
+    "sg:postcode":"34680",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "tank-boiler-heating",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00QG20o7tGW5FPYs82P1aB_38.425148_27.142302@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066571,
+    "wof:geomhash":"6390b8dee54bc98d9494c3fef86dcd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108622461
+        }
+    ],
+    "wof:id":1108622461,
+    "wof:lastmodified":1474066571,
+    "wof:name":"Soytas Makina Kazan San.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-boiler-heating",
+        "unit"
+    ]
+},
+  "bbox": [
+    27.1423015594,
+    38.4251480103,
+    27.1423015594,
+    38.4251480103
+],
+  "geometry": {"coordinates":[27.1423015594,38.4251480103],"type":"Point"}
+}

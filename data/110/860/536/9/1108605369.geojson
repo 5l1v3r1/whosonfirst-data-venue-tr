@@ -1,0 +1,70 @@
+{
+  "id": 1108605369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1564788818,41.0073738098,29.1564788818,41.0073738098",
+    "geom:latitude":41.007374,
+    "geom:longitude":29.156479,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ercan Han No.9",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 285 0606",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gp3aWbUvf5HW0vIUuVJOo_41.007374_29.156479@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065859,
+    "wof:geomhash":"dd76d152243756a264afa91faa3f6845",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108605369
+        }
+    ],
+    "wof:id":1108605369,
+    "wof:lastmodified":1474065859,
+    "wof:name":"Dogus Penye A.s.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1564788818,
+    41.0073738098,
+    29.1564788818,
+    41.0073738098
+],
+  "geometry": {"coordinates":[29.1564788818,41.0073738098],"type":"Point"}
+}

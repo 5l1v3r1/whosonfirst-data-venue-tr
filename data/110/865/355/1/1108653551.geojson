@@ -1,0 +1,73 @@
+{
+  "id": 1108653551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8309783936,40.9979896545,28.8309783936,40.9979896545",
+    "geom:latitude":40.99799,
+    "geom:longitude":28.830978,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildirim Beyazit Cad. Kaynarca Sok. No:2/7 Yenibosna",
+    "sg:city":"B. ?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 451 4288",
+    "sg:postcode":"34400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dDcjBaz0cEusSX7eSJssT_40.997990_28.830978@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068003,
+    "wof:geomhash":"481c09166949d3a43d540d5d679197c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108653551
+        }
+    ],
+    "wof:id":1108653551,
+    "wof:lastmodified":1474068003,
+    "wof:name":"Kemos Metal Ve Cop Konteyner San.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8309783936,
+    40.9979896545,
+    28.8309783936,
+    40.9979896545
+],
+  "geometry": {"coordinates":[28.8309783936,40.9979896545],"type":"Point"}
+}

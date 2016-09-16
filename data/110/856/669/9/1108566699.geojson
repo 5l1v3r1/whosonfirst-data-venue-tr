@@ -1,0 +1,75 @@
+{
+  "id": 1108566699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1154918671,40.974899292,29.1154918671,40.974899292",
+    "geom:latitude":40.974899,
+    "geom:longitude":29.115492,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sari Kanarya Cad. Mercan Sk. 2/4 Kozyatagi",
+    "sg:city":"Kabatas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 3739",
+    "sg:postcode":"34427",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AR4U0Kw5bwc5UARXqTX1s_40.974899_29.115492@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064315,
+    "wof:geomhash":"c724b02c25911cb24bdbc1d006c25234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108566699
+        }
+    ],
+    "wof:id":1108566699,
+    "wof:lastmodified":1474064315,
+    "wof:name":"Bormak End. Mak. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1154918671,
+    40.974899292,
+    29.1154918671,
+    40.974899292
+],
+  "geometry": {"coordinates":[29.1154918671,40.974899292],"type":"Point"}
+}

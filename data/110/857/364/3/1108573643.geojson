@@ -1,0 +1,69 @@
+{
+  "id": 1108573643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1972866058,38.4418678284,27.1972866058,38.4418678284",
+    "geom:latitude":38.441868,
+    "geom:longitude":27.197287,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"173 Sok. No:24/a-",
+    "sg:city":"Aktepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 264 3381",
+    "sg:postcode":"31700",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LiCC2MCt7fp56mFRUFZdY_38.441868_27.197287@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064610,
+    "wof:geomhash":"f4e45bdc6c3627faf4ccf05cfa1af8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108573643
+        }
+    ],
+    "wof:id":1108573643,
+    "wof:lastmodified":1474064610,
+    "wof:name":"Ege Isi Cam Ve Tic Ltd.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    27.1972866058,
+    38.4418678284,
+    27.1972866058,
+    38.4418678284
+],
+  "geometry": {"coordinates":[27.1972866058,38.4418678284],"type":"Point"}
+}

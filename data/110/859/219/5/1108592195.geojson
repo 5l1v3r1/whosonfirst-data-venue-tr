@@ -1,0 +1,73 @@
+{
+  "id": 1108592195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.821352005,40.962097168,28.821352005,40.962097168",
+    "geom:latitude":40.962097,
+    "geom:longitude":28.821352,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dort Kardesler Sok.no:15/3",
+    "sg:city":"Yesilkoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 662 6948",
+    "sg:postcode":"01680",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929771,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d1EOt58G1HdwYtQNiwpp9_40.962097_28.821352@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065316,
+    "wof:geomhash":"cf145c23d3642e5bb13a5725702b2f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929771,
+            "region_id":85679237,
+            "venue_id":1108592195
+        }
+    ],
+    "wof:id":1108592195,
+    "wof:lastmodified":1474065316,
+    "wof:name":"Ontas Bilisim Hizmetleri",
+    "wof:parent_id":85929771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.821352005,
+    40.962097168,
+    28.821352005,
+    40.962097168
+],
+  "geometry": {"coordinates":[28.821352005,40.962097168],"type":"Point"}
+}

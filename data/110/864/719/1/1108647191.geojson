@@ -1,0 +1,74 @@
+{
+  "id": 1108647191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1039009094,40.9737281799,29.1039009094,40.9737281799",
+    "geom:latitude":40.973728,
+    "geom:longitude":29.103901,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bostanci Sanayi Sitesi Huzukoca Cad. Cilek Sok. No:10 Icerenkoy",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 575 5812",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "measuring",
+        "weighing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EPfbMshSP5zhOpIZEKFgL_40.973728_29.103901@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067701,
+    "wof:geomhash":"f2b81322b02863163c506ca050e49701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108647191
+        }
+    ],
+    "wof:id":1108647191,
+    "wof:lastmodified":1474067701,
+    "wof:name":"Baykon Endustriyel Tarim Sistemleri A.s.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "weighing"
+    ]
+},
+  "bbox": [
+    29.1039009094,
+    40.9737281799,
+    29.1039009094,
+    40.9737281799
+],
+  "geometry": {"coordinates":[29.1039009094,40.9737281799],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108671635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.5120124817,37.8654632568,32.5120124817,37.8654632568",
+    "geom:latitude":37.865463,
+    "geom:longitude":32.512012,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglari? No: 14-16 34840 Avcilar Istanbul",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 695 9311",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_561cEC3DammInQjA9l6qBA_37.865463_32.512012@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068705,
+    "wof:geomhash":"caa2460b5c8c557189eec8a139466059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108671635
+        }
+    ],
+    "wof:id":1108671635,
+    "wof:lastmodified":1474068705,
+    "wof:name":"Elektromag Makina San Ltd Sti",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ]
+},
+  "bbox": [
+    32.5120124817,
+    37.8654632568,
+    32.5120124817,
+    37.8654632568
+],
+  "geometry": {"coordinates":[32.5120124817,37.8654632568],"type":"Point"}
+}

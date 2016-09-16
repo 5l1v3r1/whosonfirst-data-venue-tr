@@ -1,0 +1,68 @@
+{
+  "id": 1108677571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0629386902,40.1867790222,29.0629386902,40.1867790222",
+    "geom:latitude":40.186779,
+    "geom:longitude":29.062939,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reyhan Cad. 29 / 1",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 223 5293",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5szo0HRDpbyym2YdR133N2_40.186779_29.062939@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068945,
+    "wof:geomhash":"471d62746edffe524180e76ca4822593",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108677571
+        }
+    ],
+    "wof:id":1108677571,
+    "wof:lastmodified":1474068945,
+    "wof:name":"Emirsultan Egitim Ve Yardimlasma Vakfi",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0629386902,
+    40.1867790222,
+    29.0629386902,
+    40.1867790222
+],
+  "geometry": {"coordinates":[29.0629386902,40.1867790222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108627617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2889175415,40.8975906372,29.2889175415,40.8975906372",
+    "geom:latitude":40.897591,
+    "geom:longitude":29.288918,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S?g?tl??esme Cad. No:118-3",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 414048485",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tGD7fkNaicePFFQs26Vu2_40.897591_29.288918@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066767,
+    "wof:geomhash":"52b9693243892d1d4a35f9bfe060c82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108627617
+        }
+    ],
+    "wof:id":1108627617,
+    "wof:lastmodified":1474066767,
+    "wof:name":"Neseli Turizm",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.2889175415,
+    40.8975906372,
+    29.2889175415,
+    40.8975906372
+],
+  "geometry": {"coordinates":[29.2889175415,40.8975906372],"type":"Point"}
+}

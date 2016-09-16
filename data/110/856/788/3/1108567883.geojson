@@ -1,0 +1,75 @@
+{
+  "id": 1108567883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7457313538,36.8577423096,30.7457313538,36.8577423096",
+    "geom:latitude":36.857742,
+    "geom:longitude":30.745731,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sirinyali Tekellioglu Cad. No:8/3",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 323 5790",
+    "sg:postcode":"34660",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930113,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ytOzsOJQ7pkxPqhtrws7c_36.857742_30.745731@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064370,
+    "wof:geomhash":"48eed85ca5dec89a8aafec2c48010545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930113,
+            "region_id":85679263,
+            "venue_id":1108567883
+        }
+    ],
+    "wof:id":1108567883,
+    "wof:lastmodified":1474064370,
+    "wof:name":"Ideal Model Ve Dokum Takimlari San.tic.a.s.",
+    "wof:parent_id":85930113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    30.7457313538,
+    36.8577423096,
+    30.7457313538,
+    36.8577423096
+],
+  "geometry": {"coordinates":[30.7457313538,36.8577423096],"type":"Point"}
+}

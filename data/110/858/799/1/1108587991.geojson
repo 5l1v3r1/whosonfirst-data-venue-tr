@@ -1,0 +1,71 @@
+{
+  "id": 1108587991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8013801575,41.0006713867,28.8013801575,41.0006713867",
+    "geom:latitude":41.000671,
+    "geom:longitude":28.80138,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe Mah. Otel Sok. No:5",
+    "sg:city":"Sefakoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 425 9111",
+    "sg:postcode":"42000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D9Bw3ADSgFksaeYPCutas_41.000671_28.801380@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065206,
+    "wof:geomhash":"99ff49f343a79ce8ae3243e578f63a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108587991
+        }
+    ],
+    "wof:id":1108587991,
+    "wof:lastmodified":1474065206,
+    "wof:name":"Akbas Ltd.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8013801575,
+    41.0006713867,
+    28.8013801575,
+    41.0006713867
+],
+  "geometry": {"coordinates":[28.8013801575,41.0006713867],"type":"Point"}
+}

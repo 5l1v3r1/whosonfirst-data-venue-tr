@@ -1,0 +1,70 @@
+{
+  "id": 1108665633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8518295288,39.8827934265,32.8518295288,39.8827934265",
+    "geom:latitude":39.882793,
+    "geom:longitude":32.85183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abidin Daver Sk. No:33 ?ankaya",
+    "sg:city":"10100",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 5728",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zy0RVwoZ4jCYkMrO0xgYb_39.882793_32.851830@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068472,
+    "wof:geomhash":"40703681abc62ed4c6ba2a6f95ef42b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108665633
+        }
+    ],
+    "wof:id":1108665633,
+    "wof:lastmodified":1474068472,
+    "wof:name":"Ecs Elektronik Elektrik Cihaz. San. Tic. A.s.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    32.8518295288,
+    39.8827934265,
+    32.8518295288,
+    39.8827934265
+],
+  "geometry": {"coordinates":[32.8518295288,39.8827934265],"type":"Point"}
+}

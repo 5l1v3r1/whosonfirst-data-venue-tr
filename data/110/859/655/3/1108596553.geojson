@@ -1,0 +1,70 @@
+{
+  "id": 1108596553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0923442841,37.7874755859,29.0923442841,37.7874755859",
+    "geom:latitude":37.787476,
+    "geom:longitude":29.092344,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirishane Mah. 2291 No.2",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 268 1267",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18rHF40yWk4bsq5vmbnn6N_37.787476_29.092344@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065495,
+    "wof:geomhash":"5708f96f9c2dbfa728c273459c42efda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108596553
+        }
+    ],
+    "wof:id":1108596553,
+    "wof:lastmodified":1474065495,
+    "wof:name":"Demirler Deri Ltd.sti.",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0923442841,
+    37.7874755859,
+    29.0923442841,
+    37.7874755859
+],
+  "geometry": {"coordinates":[29.0923442841,37.7874755859],"type":"Point"}
+}

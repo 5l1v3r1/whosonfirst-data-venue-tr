@@ -1,0 +1,71 @@
+{
+  "id": 1108587973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8944892883,41.0527191162,28.8944892883,41.0527191162",
+    "geom:latitude":41.052719,
+    "geom:longitude":28.894489,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kocatepe Mah.5.sokak No:16",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 640 1717",
+    "sg:postcode":"34145",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "nail",
+        "wire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ckZFOkGbXIOnGCOvLdWz5_41.052719_28.894489@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065205,
+    "wof:geomhash":"1a944754d9889c0a83f647324ff7039f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108587973
+        }
+    ],
+    "wof:id":1108587973,
+    "wof:lastmodified":1474065205,
+    "wof:name":"?obanoglu Kafes Tel ?rg?ve ?it Sistemelri",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nail",
+        "wire"
+    ]
+},
+  "bbox": [
+    28.8944892883,
+    41.0527191162,
+    28.8944892883,
+    41.0527191162
+],
+  "geometry": {"coordinates":[28.8944892883,41.0527191162],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108655395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9691162109,41.0158348083,28.9691162109,41.0158348083",
+    "geom:latitude":41.015835,
+    "geom:longitude":28.969116,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tomruk Sk. No:31 Tahtakale",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 9048",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906479,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35hBH69Kt0VITwSQpPKIXr_41.015835_28.969116@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068075,
+    "wof:geomhash":"9bddd0b6b3ebc1286547068e8d3b7d8d",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906479,
+            "region_id":85679237,
+            "venue_id":1108655395
+        }
+    ],
+    "wof:id":1108655395,
+    "wof:lastmodified":1474068075,
+    "wof:name":"Isik Madeni Esya San. Ltd. Sti.",
+    "wof:parent_id":85906479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9691162109,
+    41.0158348083,
+    28.9691162109,
+    41.0158348083
+],
+  "geometry": {"coordinates":[28.9691162109,41.0158348083],"type":"Point"}
+}

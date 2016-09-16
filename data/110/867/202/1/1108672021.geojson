@@ -1,0 +1,76 @@
+{
+  "id": 1108672021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0345973969,41.0066337585,29.0345973969,41.0066337585",
+    "geom:latitude":41.006634,
+    "geom:longitude":29.034597,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kosuyolu - Kadik?",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 6969",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4soCqbzHqKDn7bR7RxLreO_41.006634_29.034597@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068718,
+    "wof:geomhash":"7f8feb5896532eda321ff99a0e555727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108672021
+        }
+    ],
+    "wof:id":1108672021,
+    "wof:lastmodified":1474068718,
+    "wof:name":"Kosuyolu Kalp Ve Damar Hastaliklari Hastanesi",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    29.0345973969,
+    41.0066337585,
+    29.0345973969,
+    41.0066337585
+],
+  "geometry": {"coordinates":[29.0345973969,41.0066337585],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108573865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1097164154,38.4671554565,27.1097164154,38.4671554565",
+    "geom:latitude":38.467155,
+    "geom:longitude":27.109716,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Girne Bulvari No:186",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 372 7153",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2js3Zb5Lzn8W4e8l4l2FMc_38.467155_27.109716@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064618,
+    "wof:geomhash":"5a99f66c5d1c1ddc647349a1bda7888e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108573865
+        }
+    ],
+    "wof:id":1108573865,
+    "wof:lastmodified":1474064618,
+    "wof:name":"Klas Vitray Dekorasyon Dekoratif Cam",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    27.1097164154,
+    38.4671554565,
+    27.1097164154,
+    38.4671554565
+],
+  "geometry": {"coordinates":[27.1097164154,38.4671554565],"type":"Point"}
+}

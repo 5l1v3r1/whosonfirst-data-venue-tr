@@ -1,0 +1,69 @@
+{
+  "id": 1108604639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0580043793,40.1947555542,29.0580043793,40.1947555542",
+    "geom:latitude":40.194756,
+    "geom:longitude":29.058004,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakirhamam Temiz Cad. No:12/3",
+    "sg:city":"Mudanya",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 223 2731",
+    "sg:postcode":"16940",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GD58HIOPahEnQ1rCAvqyu_40.194756_29.058004@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065829,
+    "wof:geomhash":"377f256b05016db8438c21733151f2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108604639
+        }
+    ],
+    "wof:id":1108604639,
+    "wof:lastmodified":1474065829,
+    "wof:name":"Sistem Gida Tekstil Kimya Mad.ith.ihr.a.s.",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    29.0580043793,
+    40.1947555542,
+    29.0580043793,
+    40.1947555542
+],
+  "geometry": {"coordinates":[29.0580043793,40.1947555542],"type":"Point"}
+}

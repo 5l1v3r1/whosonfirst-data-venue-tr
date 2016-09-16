@@ -1,0 +1,73 @@
+{
+  "id": 1108653985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9794654846,41.062702179,28.9794654846,41.062702179",
+    "geom:latitude":41.062702,
+    "geom:longitude":28.979465,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halide Edip Mah. Balci Sok. No: 26 Sisli",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 222 7020",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_302zpg1lkcBl4PhkMLa7Fs_41.062702_28.979465@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068017,
+    "wof:geomhash":"f8ce76d441753ee97362e094a9b461d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108653985
+        }
+    ],
+    "wof:id":1108653985,
+    "wof:lastmodified":1474068017,
+    "wof:name":"Tekno-metal San.tic.ltd.sti.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9794654846,
+    41.062702179,
+    28.9794654846,
+    41.062702179
+],
+  "geometry": {"coordinates":[28.9794654846,41.062702179],"type":"Point"}
+}

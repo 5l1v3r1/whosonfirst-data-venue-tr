@@ -1,0 +1,68 @@
+{
+  "id": 1108669787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1354885101,38.4224739075,27.1354885101,38.4224739075",
+    "geom:latitude":38.422474,
+    "geom:longitude":27.135489,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Pasa Cd. No:55",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 6644",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x2rrvSklG50njfHoU79Cu_38.422474_27.135489@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068637,
+    "wof:geomhash":"b7d15feb03020b3bdcd389f7644e4661",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108669787
+        }
+    ],
+    "wof:id":1108669787,
+    "wof:lastmodified":1474068637,
+    "wof:name":"Sirmam Moda Evi",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    27.1354885101,
+    38.4224739075,
+    27.1354885101,
+    38.4224739075
+],
+  "geometry": {"coordinates":[27.1354885101,38.4224739075],"type":"Point"}
+}

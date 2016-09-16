@@ -1,0 +1,71 @@
+{
+  "id": 1108656085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9364795685,41.0361442566,28.9364795685,41.0361442566",
+    "geom:latitude":41.036144,
+    "geom:longitude":28.93648,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eyup Bulvari Sofular Bostan Sok. No:13 Eyup",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 1289",
+    "sg:postcode":"42300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MBYX2fojK7jQrm1xxKgBE_41.036144_28.936480@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068100,
+    "wof:geomhash":"a1fdd301d3585419c53804236fc7317c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108656085
+        }
+    ],
+    "wof:id":1108656085,
+    "wof:lastmodified":1474068100,
+    "wof:name":"Arik?a Erozyon",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    28.9364795685,
+    41.0361442566,
+    28.9364795685,
+    41.0361442566
+],
+  "geometry": {"coordinates":[28.9364795685,41.0361442566],"type":"Point"}
+}

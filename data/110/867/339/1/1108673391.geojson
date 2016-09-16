@@ -1,0 +1,73 @@
+{
+  "id": 1108673391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1093235016,40.9463882446,29.1093235016,40.9463882446",
+    "geom:latitude":40.946388,
+    "geom:longitude":29.109324,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:153",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 399 8779",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HlgUyoltkLCJG4zj8DG91_40.946388_29.109324@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068779,
+    "wof:geomhash":"cfbf84121984b38ee8447a7b1d62f46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":1108673391
+        }
+    ],
+    "wof:id":1108673391,
+    "wof:lastmodified":1474068779,
+    "wof:name":"Sedef ?i?ek?ilik",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1093235016,
+    40.9463882446,
+    29.1093235016,
+    40.9463882446
+],
+  "geometry": {"coordinates":[29.1093235016,40.9463882446],"type":"Point"}
+}

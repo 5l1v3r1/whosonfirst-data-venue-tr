@@ -1,0 +1,64 @@
+{
+  "id": 1108664445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8946857452,41.0803604126,28.8946857452,41.0803604126",
+    "geom:latitude":41.08036,
+    "geom:longitude":28.894686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad. No:12 542/1 Sokak 34080 Kucukkoy Istanbul",
+    "sg:city":"Hadimk?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 538 0303",
+    "sg:postcode":"34500",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dwfEAWqIA94DsBIIVqokE_41.080360_28.894686@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068422,
+    "wof:geomhash":"5dd1705ad79f709672074d85f8994929",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108664445
+        }
+    ],
+    "wof:id":1108664445,
+    "wof:lastmodified":1474068422,
+    "wof:name":"Isko Plastik Ve Kalip San Tic As",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8946857452,
+    41.0803604126,
+    28.8946857452,
+    41.0803604126
+],
+  "geometry": {"coordinates":[28.8946857452,41.0803604126],"type":"Point"}
+}

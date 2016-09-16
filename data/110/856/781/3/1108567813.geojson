@@ -1,0 +1,73 @@
+{
+  "id": 1108567813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0956783295,40.9578552246,29.0956783295,40.9578552246",
+    "geom:latitude":40.957855,
+    "geom:longitude":29.095678,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"I?renk? Oto San. Yani Ertas Sk. No:14 Bostanci",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 361 1226",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HOI1SfcBLPvqhYmozIHlN_40.957855_29.095678@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064368,
+    "wof:geomhash":"ec1d3106922c29ff5e8120f456bda427",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108567813
+        }
+    ],
+    "wof:id":1108567813,
+    "wof:lastmodified":1474064368,
+    "wof:name":"Hidrodnomak Makina San. A.s.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0956783295,
+    40.9578552246,
+    29.0956783295,
+    40.9578552246
+],
+  "geometry": {"coordinates":[29.0956783295,40.9578552246],"type":"Point"}
+}

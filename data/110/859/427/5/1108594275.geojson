@@ -1,0 +1,74 @@
+{
+  "id": 1108594275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6894264221,36.8866119385,30.6894264221,36.8866119385",
+    "geom:latitude":36.886612,
+    "geom:longitude":30.689426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Mah. Turgut Reis Cad. No:21/6",
+    "sg:city":"K.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 346 4599",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930111,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cO4zBh9IW4eAYe3qppL6L_36.886612_30.689426@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065394,
+    "wof:geomhash":"55852cf198055d3968d3fa826a7aa654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930111,
+            "region_id":85679263,
+            "venue_id":1108594275
+        }
+    ],
+    "wof:id":1108594275,
+    "wof:lastmodified":1474065394,
+    "wof:name":"Can Medikal",
+    "wof:parent_id":85930111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    30.6894264221,
+    36.8866119385,
+    30.6894264221,
+    36.8866119385
+],
+  "geometry": {"coordinates":[30.6894264221,36.8866119385],"type":"Point"}
+}

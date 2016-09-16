@@ -1,0 +1,67 @@
+{
+  "id": 1108667669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7134380341,36.8814849854,30.7134380341,36.8814849854",
+    "geom:latitude":36.881485,
+    "geom:longitude":30.713438,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atat?k Cad. 1254 Sk. ?iviler Ismerkezi Kat: 3 Daire: 16",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 243 8857",
+    "sg:postcode":"07100",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08CBbjZj0ZTZVw0MqSj6Cl_36.881485_30.713438@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068547,
+    "wof:geomhash":"1a9a9e1b6179c6764162168b6a2a07b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930261,
+            "venue_id":1108667669
+        }
+    ],
+    "wof:id":1108667669,
+    "wof:lastmodified":1474068547,
+    "wof:name":"Simya Grafik",
+    "wof:parent_id":85930261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    30.7134380341,
+    36.8814849854,
+    30.7134380341,
+    36.8814849854
+],
+  "geometry": {"coordinates":[30.7134380341,36.8814849854],"type":"Point"}
+}

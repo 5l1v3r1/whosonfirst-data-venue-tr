@@ -1,0 +1,68 @@
+{
+  "id": 1108678255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.872718811,39.8915557861,32.872718811,39.8915557861",
+    "geom:latitude":39.891556,
+    "geom:longitude":32.872719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"U. Mumcu Sk. No.65/7 Cankaya",
+    "sg:city":"Findikzade-fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 7720",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EQ0yxLMybnpEnDR5bUvET_39.891556_32.872719@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068973,
+    "wof:geomhash":"26c38532448c33d2ec6f3ed1a999b5e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108678255
+        }
+    ],
+    "wof:id":1108678255,
+    "wof:lastmodified":1474068973,
+    "wof:name":"Ugur Mumcu Arast. Gazetecilik Vakfi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.872718811,
+    39.8915557861,
+    32.872718811,
+    39.8915557861
+],
+  "geometry": {"coordinates":[32.872718811,39.8915557861],"type":"Point"}
+}

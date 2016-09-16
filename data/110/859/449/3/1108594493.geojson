@@ -1,0 +1,71 @@
+{
+  "id": 1108594493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1613769531,38.3858032227,27.1613769531,38.3858032227",
+    "geom:latitude":38.385803,
+    "geom:longitude":27.161377,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtulus Mah. A. Menderes Bulv. 16. Sk. No:2",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 212 2553",
+    "sg:postcode":"34280",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N6rRQ9fToXJ1Ce6WuViDc_38.385803_27.161377@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065402,
+    "wof:geomhash":"b2a04ef1da6fc0a5f997c4908a435db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108594493
+        }
+    ],
+    "wof:id":1108594493,
+    "wof:lastmodified":1474065402,
+    "wof:name":"Oral Sag. Hizm. San. Tic.",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    27.1613769531,
+    38.3858032227,
+    27.1613769531,
+    38.3858032227
+],
+  "geometry": {"coordinates":[27.1613769531,38.3858032227],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108673093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7904834747,40.9760398865,28.7904834747,40.9760398865",
+    "geom:latitude":40.97604,
+    "geom:longitude":28.790483,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halkali Asf. Havaalani Kars. ?atal Sk.",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 1682",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jQwTUMetDdydF3oxyp2GG_40.976040_28.790483@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068764,
+    "wof:geomhash":"5adda265c92e6e9ff5b6db04567de2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108673093
+        }
+    ],
+    "wof:id":1108673093,
+    "wof:lastmodified":1474068764,
+    "wof:name":"Imamoglu Seracilik",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.7904834747,
+    40.9760398865,
+    28.7904834747,
+    40.9760398865
+],
+  "geometry": {"coordinates":[28.7904834747,40.9760398865],"type":"Point"}
+}

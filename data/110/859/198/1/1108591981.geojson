@@ -1,0 +1,69 @@
+{
+  "id": 1108591981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.948638916,41.0230979919,28.948638916,41.0230979919",
+    "geom:latitude":41.023098,
+    "geom:longitude":28.948639,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Darussafaka Cad. No. 44/1",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 524 4375",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906529,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mr33mM6dAXzM3s51stSBi_41.023098_28.948639@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065309,
+    "wof:geomhash":"fa7ad32ea9f100ec8b1090382366f866",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906529,
+            "region_id":85679237,
+            "venue_id":1108591981
+        }
+    ],
+    "wof:id":1108591981,
+    "wof:lastmodified":1474065309,
+    "wof:name":"Ferace Tekstil San.dis Tic.ltd.sti.",
+    "wof:parent_id":85906529,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.948638916,
+    41.0230979919,
+    28.948638916,
+    41.0230979919
+],
+  "geometry": {"coordinates":[28.948638916,41.0230979919],"type":"Point"}
+}

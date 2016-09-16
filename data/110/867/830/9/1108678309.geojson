@@ -1,0 +1,68 @@
+{
+  "id": 1108678309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8697509766,39.9309005737,32.8697509766,39.9309005737",
+    "geom:latitude":39.930901,
+    "geom:longitude":32.869751,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dumlupinar Cd. No:13 Cebeci",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 362 2301",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0aVSPhtITixVP0xr7T82_39.930901_32.869751@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"a05feb80622f7a6fd5c7d1c84ace3439",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108678309
+        }
+    ],
+    "wof:id":1108678309,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Zubeyde Hanim Sehit Ana. Kor. Vakfi",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8697509766,
+    39.9309005737,
+    32.8697509766,
+    39.9309005737
+],
+  "geometry": {"coordinates":[32.8697509766,39.9309005737],"type":"Point"}
+}

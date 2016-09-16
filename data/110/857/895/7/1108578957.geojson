@@ -1,0 +1,74 @@
+{
+  "id": 1108578957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1060905457,40.9796485901,29.1060905457,40.9796485901",
+    "geom:latitude":40.979649,
+    "geom:longitude":29.106091,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ayse Hatun ?esme Sok.no:6/a",
+    "sg:city":"K??bakkalk?",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 574 4148",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product",
+        "organic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41GJs7jSvdaIngGY1xw76c_40.979649_29.106091@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064912,
+    "wof:geomhash":"7009b47c9b67d2d28c1ab61868b9b0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108578957
+        }
+    ],
+    "wof:id":1108578957,
+    "wof:lastmodified":1474064912,
+    "wof:name":"Namtat Gida",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "organic"
+    ]
+},
+  "bbox": [
+    29.1060905457,
+    40.9796485901,
+    29.1060905457,
+    40.9796485901
+],
+  "geometry": {"coordinates":[29.1060905457,40.9796485901],"type":"Point"}
+}

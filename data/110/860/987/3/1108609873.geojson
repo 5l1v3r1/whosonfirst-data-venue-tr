@@ -1,0 +1,69 @@
+{
+  "id": 1108609873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1423015594,38.4251480103,27.1423015594,38.4251480103",
+    "geom:latitude":38.425148,
+    "geom:longitude":27.142302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"421 Sok. No:6",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 3339",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i0tSz7VPNBCcEUJ5QA9ei_38.425148_27.142302@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066073,
+    "wof:geomhash":"6390b8dee54bc98d9494c3fef86dcd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108609873
+        }
+    ],
+    "wof:id":1108609873,
+    "wof:lastmodified":1474066073,
+    "wof:name":"Bm Ic Dekorasyon Ins. San.tic. Ltd.sti.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    27.1423015594,
+    38.4251480103,
+    27.1423015594,
+    38.4251480103
+],
+  "geometry": {"coordinates":[27.1423015594,38.4251480103],"type":"Point"}
+}

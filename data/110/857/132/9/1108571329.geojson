@@ -1,0 +1,72 @@
+{
+  "id": 1108571329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8541164398,40.9988708496,28.8541164398,40.9988708496",
+    "geom:latitude":40.998871,
+    "geom:longitude":28.854116,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siyavuspasa Sk. No:34 S?eymaniye",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 8740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tEj8Lmf28Xn5I7xz4RWcS_40.998871_28.854116@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064509,
+    "wof:geomhash":"ed765f6d1d2d23222f3e8d85298a2ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108571329
+        }
+    ],
+    "wof:id":1108571329,
+    "wof:lastmodified":1474064509,
+    "wof:name":"Hisar Plastik San. Tic.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8541164398,
+    40.9988708496,
+    28.8541164398,
+    40.9988708496
+],
+  "geometry": {"coordinates":[28.8541164398,40.9988708496],"type":"Point"}
+}

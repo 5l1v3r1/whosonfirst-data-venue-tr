@@ -1,0 +1,71 @@
+{
+  "id": 1108599011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8812236786,41.020198822,28.8812236786,41.020198822",
+    "geom:latitude":41.020199,
+    "geom:longitude":28.881224,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah. Vehbi Bey Sok. No:22",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 554 2780",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mY1oCPNkrbEkTHg3RSgdZ_41.020199_28.881224@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065589,
+    "wof:geomhash":"9f9fcd89a89c2b47c834d26846af5839",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108599011
+        }
+    ],
+    "wof:id":1108599011,
+    "wof:lastmodified":1474065589,
+    "wof:name":"Imtas Aydinlatma Ltd.sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.8812236786,
+    41.020198822,
+    28.8812236786,
+    41.020198822
+],
+  "geometry": {"coordinates":[28.8812236786,41.020198822],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108679961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.207361,38.462306,27.207361,38.462306",
+    "geom:latitude":38.462306,
+    "geom:longitude":27.207361,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"m.kemal cad. no:72a bornova",
+    "sg:city":"izmir",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"35050",
+    "sg:tags":[
+        "price",
+        "shopping",
+        "notebook"
+    ],
+    "sg:website":"http://www.ealbeni.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJgHAn0naHovS1QYPb8jp_38.462306_27.207361@1308163239"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069043,
+    "wof:geomhash":"32ebc6f1aa400dccb3cd01c218a2ff02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108679961
+        }
+    ],
+    "wof:id":1108679961,
+    "wof:lastmodified":1474069043,
+    "wof:name":"Ealbeni",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "price",
+        "shopping",
+        "notebook"
+    ]
+},
+  "bbox": [
+    27.207361,
+    38.462306,
+    27.207361,
+    38.462306
+],
+  "geometry": {"coordinates":[27.207361,38.462306],"type":"Point"}
+}

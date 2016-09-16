@@ -1,0 +1,71 @@
+{
+  "id": 1108614809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"31.4294891357,36.7839393616,31.4294891357,36.7839393616",
+    "geom:latitude":36.783939,
+    "geom:longitude":31.429489,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Manavgat",
+    "sg:city":"Side",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242756935057",
+    "sg:postcode":"07330",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "holiday",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934679,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_721M3Ag0fE7foXQFvAE3aO_36.783939_31.429489@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066263,
+    "wof:geomhash":"80413ca8352a3258a471e14b1096daaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934679,
+            "region_id":85679263,
+            "venue_id":1108614809
+        }
+    ],
+    "wof:id":1108614809,
+    "wof:lastmodified":1474066263,
+    "wof:name":"Robinson Club Pamfilya",
+    "wof:parent_id":85934679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holiday",
+        "village"
+    ]
+},
+  "bbox": [
+    31.4294891357,
+    36.7839393616,
+    31.4294891357,
+    36.7839393616
+],
+  "geometry": {"coordinates":[31.4294891357,36.7839393616],"type":"Point"}
+}

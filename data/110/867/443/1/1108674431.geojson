@@ -1,0 +1,79 @@
+{
+  "id": 1108674431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0074539185,41.0457572937,29.0074539185,41.0457572937",
+    "geom:latitude":41.045757,
+    "geom:longitude":29.007454,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari No.35-4 Besiktas",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 261 2337",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64R66qJMLKD7Qrt6mrQSkM_41.045757_29.007454@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068822,
+    "wof:geomhash":"552a6b5ca8a36b55f33cf3030ca2fee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108674431
+        }
+    ],
+    "wof:id":1108674431,
+    "wof:lastmodified":1474068822,
+    "wof:name":"Nuteks Zirai ?r.gida Paz San.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    29.0074539185,
+    41.0457572937,
+    29.0074539185,
+    41.0457572937
+],
+  "geometry": {"coordinates":[29.0074539185,41.0457572937],"type":"Point"}
+}

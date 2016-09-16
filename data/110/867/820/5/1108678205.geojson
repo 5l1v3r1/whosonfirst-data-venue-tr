@@ -1,0 +1,68 @@
+{
+  "id": 1108678205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.500617981,37.8714065552,32.500617981,37.8714065552",
+    "geom:latitude":37.871407,
+    "geom:longitude":32.500618,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hilmi Cd. No:22 K.esat",
+    "sg:city":"Findikzade-fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 8685",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U86kNdCaB81SR6EPPtBIZ_37.871407_32.500618@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068971,
+    "wof:geomhash":"9d25d23ec0760b30814d508d76a47b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108678205
+        }
+    ],
+    "wof:id":1108678205,
+    "wof:lastmodified":1474068971,
+    "wof:name":"Turkiye Kalkinma Vakfi T.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.500617981,
+    37.8714065552,
+    32.500617981,
+    37.8714065552
+],
+  "geometry": {"coordinates":[32.500617981,37.8714065552],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108674497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0161933899,41.0859298706,29.0161933899,41.0859298706",
+    "geom:latitude":41.08593,
+    "geom:longitude":29.016193,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sakayikli Sok.no.25 1.levent",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 0008",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wrIv1z0CO6Ha6WxHEW0tj_41.085930_29.016193@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068824,
+    "wof:geomhash":"da13a465e2b3d5cacfdcfb5b348e8074",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108674497
+        }
+    ],
+    "wof:id":1108674497,
+    "wof:lastmodified":1474068824,
+    "wof:name":"Progida Tarim ?r?n. San Ve Tic",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    29.0161933899,
+    41.0859298706,
+    29.0161933899,
+    41.0859298706
+],
+  "geometry": {"coordinates":[29.0161933899,41.0859298706],"type":"Point"}
+}

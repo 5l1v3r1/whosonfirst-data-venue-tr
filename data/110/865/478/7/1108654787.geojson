@@ -1,0 +1,77 @@
+{
+  "id": 1108654787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0244941711,40.9907798767,29.0244941711,40.9907798767",
+    "geom:latitude":40.99078,
+    "geom:longitude":29.024494,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yasa Cd. No. 15",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 0467",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a5yE6bE0KoAEmxNqOnGo7_40.990780_29.024494@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068051,
+    "wof:geomhash":"278ec1c8d4bf7b241b08ffa6e0cea31a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108654787
+        }
+    ],
+    "wof:id":1108654787,
+    "wof:lastmodified":1474068051,
+    "wof:name":"S?g?tl? S?t ?rn. A.s.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    29.0244941711,
+    40.9907798767,
+    29.0244941711,
+    40.9907798767
+],
+  "geometry": {"coordinates":[29.0244941711,40.9907798767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108616431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.518995285,40.9782791138,27.518995285,40.9782791138",
+    "geom:latitude":40.978279,
+    "geom:longitude":27.518995,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?erkezk?",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 726 6020",
+    "sg:postcode":"01000",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "textile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        101910981,
+        85934641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QbmWF83ty7XAHNGy0VZNS_40.978279_27.518995@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066323,
+    "wof:geomhash":"1c960fe0d2f89cd3156219d69a8e8a94",
+    "wof:hierarchy":[
+        {
+            "locality_id":101910981,
+            "neighbourhood_id":85934641,
+            "venue_id":1108616431
+        }
+    ],
+    "wof:id":1108616431,
+    "wof:lastmodified":1474066323,
+    "wof:name":"Dinarsu A.s",
+    "wof:parent_id":85934641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "textile"
+    ]
+},
+  "bbox": [
+    27.518995285,
+    40.9782791138,
+    27.518995285,
+    40.9782791138
+],
+  "geometry": {"coordinates":[27.518995285,40.9782791138],"type":"Point"}
+}

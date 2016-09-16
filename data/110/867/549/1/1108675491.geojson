@@ -1,0 +1,73 @@
+{
+  "id": 1108675491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7043018341,36.8875808716,30.7043018341,36.8875808716",
+    "geom:latitude":36.887581,
+    "geom:longitude":30.704302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebesoy 1583 Sk. No. 1",
+    "sg:city":"Cine",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 1121",
+    "sg:postcode":"01370",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B6niedqN9a8xZmZzN3Qln_36.887581_30.704302@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068870,
+    "wof:geomhash":"cda8d6221bf6a756b6fe969e91fe0b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":1108675491
+        }
+    ],
+    "wof:id":1108675491,
+    "wof:lastmodified":1474068870,
+    "wof:name":"G?k Tarim ?rn. A.s.",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    30.7043018341,
+    36.8875808716,
+    30.7043018341,
+    36.8875808716
+],
+  "geometry": {"coordinates":[30.7043018341,36.8875808716],"type":"Point"}
+}

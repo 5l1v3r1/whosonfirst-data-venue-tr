@@ -1,0 +1,74 @@
+{
+  "id": 1108627593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0065021515,41.0665435791,29.0065021515,41.0665435791",
+    "geom:latitude":41.066544,
+    "geom:longitude":29.006502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Posta Cad. No: 3",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qJfgWTsI9O1ZGPiXkX1fW_41.066544_29.006502@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066766,
+    "wof:geomhash":"9d72ebaa132c01b4049350df784a47e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108627593
+        }
+    ],
+    "wof:id":1108627593,
+    "wof:lastmodified":1474066766,
+    "wof:name":"National Tur Turizm (gayrettepe Sb.)",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0065021515,
+    41.0665435791,
+    29.0065021515,
+    41.0665435791
+],
+  "geometry": {"coordinates":[29.0065021515,41.0665435791],"type":"Point"}
+}

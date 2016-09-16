@@ -1,0 +1,77 @@
+{
+  "id": 1108668475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0262813568,40.9898834229,29.0262813568,40.9898834229",
+    "geom:latitude":40.989883,
+    "geom:longitude":29.026281,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pavlonya Sk. No:18 Kadik?",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 0526",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03SAHFo32APa9XkTl4otn6_40.989883_29.026281@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068586,
+    "wof:geomhash":"ed1d84fe721c5badcfa42ad39b05dcb0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108668475
+        }
+    ],
+    "wof:id":1108668475,
+    "wof:lastmodified":1474068586,
+    "wof:name":"Yeni Yasim Yayinlari Tic. Ltd. Sti.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.0262813568,
+    40.9898834229,
+    29.0262813568,
+    40.9898834229
+],
+  "geometry": {"coordinates":[29.0262813568,40.9898834229],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108567067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1011505127,40.9526290894,29.1011505127,40.9526290894",
+    "geom:latitude":40.952629,
+    "geom:longitude":29.101151,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Altintepe Mah.galipbey Cad. No:74/23 Maltepe",
+    "sg:city":"Beylikd?? 34905",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 367 2075",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d6jSnZIvGmvq2QdpOA11c_40.952629_29.101151@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064330,
+    "wof:geomhash":"1cb95e1ad6d35d955d30d0cebfa212fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108567067
+        }
+    ],
+    "wof:id":1108567067,
+    "wof:lastmodified":1474064330,
+    "wof:name":"Ebro Armaturen Turkiye",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1011505127,
+    40.9526290894,
+    29.1011505127,
+    40.9526290894
+],
+  "geometry": {"coordinates":[29.1011505127,40.9526290894],"type":"Point"}
+}

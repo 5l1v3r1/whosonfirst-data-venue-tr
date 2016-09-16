@@ -1,0 +1,63 @@
+{
+  "id": 1108648715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9021892548,40.9946517944,28.9021892548,40.9946517944",
+    "geom:latitude":40.994652,
+    "geom:longitude":28.902189,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"58. Blv. Cad. 55/3 Sk. No:28 K:3 Zeytinburnu",
+    "sg:city":"22/306",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 547 8980",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MdeXryROtHHqNGlkD0u5S_40.994652_28.902189@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067783,
+    "wof:geomhash":"c468369d64193ff4edbe5e5e0caf38b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108648715
+        }
+    ],
+    "wof:id":1108648715,
+    "wof:lastmodified":1474067783,
+    "wof:name":"Gobeklioglu Med. Dis. Tic.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9021892548,
+    40.9946517944,
+    28.9021892548,
+    40.9946517944
+],
+  "geometry": {"coordinates":[28.9021892548,40.9946517944],"type":"Point"}
+}

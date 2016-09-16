@@ -1,0 +1,72 @@
+{
+  "id": 1108678299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0339832306,41.0857086182,29.0339832306,41.0857086182",
+    "geom:latitude":41.085709,
+    "geom:longitude":29.033983,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seher Yildizi Sk. No:22 D:11 Etiler",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2870008",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRRXho68m6SseFOfDQItd_41.085709_29.033983@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"df4e5d3d0daf59b7532934c35bc3ce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":1108678299
+        }
+    ],
+    "wof:id":1108678299,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Yuksek Ogrenim Egitim Ve Arast. Vakfi",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0339832306,
+    41.0857086182,
+    29.0339832306,
+    41.0857086182
+],
+  "geometry": {"coordinates":[29.0339832306,41.0857086182],"type":"Point"}
+}

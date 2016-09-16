@@ -1,0 +1,70 @@
+{
+  "id": 1108604909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.001531601,41.0956382751,29.001531601,41.0956382751",
+    "geom:latitude":41.095638,
+    "geom:longitude":29.001532,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Durgun Sk. No.15",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 4460",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MqrltHyvzVN0zG1rhlyxb_41.095638_29.001532@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065841,
+    "wof:geomhash":"10a84a655bfa9fd274959c2bf0d5c53e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108604909
+        }
+    ],
+    "wof:id":1108604909,
+    "wof:lastmodified":1474065841,
+    "wof:name":"Art Hazir Giyim Ltd.sti.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.001531601,
+    41.0956382751,
+    29.001531601,
+    41.0956382751
+],
+  "geometry": {"coordinates":[29.001531601,41.0956382751],"type":"Point"}
+}

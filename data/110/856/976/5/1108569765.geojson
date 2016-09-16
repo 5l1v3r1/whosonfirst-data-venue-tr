@@ -1,0 +1,74 @@
+{
+  "id": 1108569765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.106306076,40.9594345093,29.106306076,40.9594345093",
+    "geom:latitude":40.959435,
+    "geom:longitude":29.106306,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"In??mh. Yazici Sk. No:7 Kadik?",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 384 1516",
+    "sg:postcode":"35040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fE8PlnMnATj3eNKAXBswV_40.959435_29.106306@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064445,
+    "wof:geomhash":"e077fda7dcb1ba7dc3e9fe712106b2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108569765
+        }
+    ],
+    "wof:id":1108569765,
+    "wof:lastmodified":1474064445,
+    "wof:name":"Wegoma Makina Tic. Ltd. Sti.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.106306076,
+    40.9594345093,
+    29.106306076,
+    40.9594345093
+],
+  "geometry": {"coordinates":[29.106306076,40.9594345093],"type":"Point"}
+}

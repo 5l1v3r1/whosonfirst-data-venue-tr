@@ -1,0 +1,75 @@
+{
+  "id": 1108672633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8399085999,39.9318885803,32.8399085999,39.9318885803",
+    "geom:latitude":39.931889,
+    "geom:longitude":32.839909,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Isik Sok. No:13/6",
+    "sg:city":"Tandogan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 232 4930",
+    "sg:postcode":"44050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904083,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x6zoTzmCbYHuExAqNbCO3_39.931889_32.839909@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068741,
+    "wof:geomhash":"5bbe26c63a9038640a13da0637f8628d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904083,
+            "region_id":85679409,
+            "venue_id":1108672633
+        }
+    ],
+    "wof:id":1108672633,
+    "wof:lastmodified":1474068741,
+    "wof:name":"Tokar Ltd.",
+    "wof:parent_id":85904083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    32.8399085999,
+    39.9318885803,
+    32.8399085999,
+    39.9318885803
+],
+  "geometry": {"coordinates":[32.8399085999,39.9318885803],"type":"Point"}
+}

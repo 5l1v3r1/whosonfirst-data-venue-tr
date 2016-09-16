@@ -1,0 +1,85 @@
+{
+  "id": 1108655223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0414562225,40.9799995422,29.0414562225,40.9799995422",
+    "geom:latitude":40.98,
+    "geom:longitude":29.041456,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalamis Fener Cd. No:7/1 Kadik?",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 4728",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904119,
+        85904115,
+        102191569,
+        101912677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ABGh40mAzPTA9RJYOGKD_40.980000_29.041456@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068069,
+    "wof:geomhash":"47d4c14dccfccc3f40e88be2602470ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904119,
+            "region_id":85679237,
+            "venue_id":1108655223
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108655223
+        }
+    ],
+    "wof:id":1108655223,
+    "wof:lastmodified":1474068069,
+    "wof:name":"Elmas Eskisehir L?letasi Maden San. Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.0414562225,
+    40.9799995422,
+    29.0414562225,
+    40.9799995422
+],
+  "geometry": {"coordinates":[29.0414562225,40.9799995422],"type":"Point"}
+}

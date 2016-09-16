@@ -1,0 +1,73 @@
+{
+  "id": 1108670909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0428161621,41.1105117798,29.0428161621,41.1105117798",
+    "geom:latitude":41.110512,
+    "geom:longitude":29.042816,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Denizbank Alt S. No.44 Resitpasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 229 4770",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ECp0yo34qqZKjPYUw2JWj_41.110512_29.042816@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068678,
+    "wof:geomhash":"d3789b44e64bcafcdaa044ebbaeab046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108670909
+        }
+    ],
+    "wof:id":1108670909,
+    "wof:lastmodified":1474068678,
+    "wof:name":"Aktif Menkul Degerler",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.0428161621,
+    41.1105117798,
+    29.0428161621,
+    41.1105117798
+],
+  "geometry": {"coordinates":[29.0428161621,41.1105117798],"type":"Point"}
+}

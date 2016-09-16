@@ -1,0 +1,72 @@
+{
+  "id": 1108675985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9762325287,41.0320968628,28.9762325287,41.0320968628",
+    "geom:latitude":41.032097,
+    "geom:longitude":28.976233,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istikl?cad. No: 8 Taksim",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 4810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rgSy51R1gV7zvTRY1FZ6W_41.032097_28.976233@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068891,
+    "wof:geomhash":"e516c4ef9f3187d7b6e667e01a944fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108675985
+        }
+    ],
+    "wof:id":1108675985,
+    "wof:lastmodified":1474068891,
+    "wof:name":"Fransa",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9762325287,
+    41.0320968628,
+    28.9762325287,
+    41.0320968628
+],
+  "geometry": {"coordinates":[28.9762325287,41.0320968628],"type":"Point"}
+}

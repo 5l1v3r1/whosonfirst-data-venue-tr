@@ -1,0 +1,73 @@
+{
+  "id": 1108573383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0899238586,40.9608039856,29.0899238586,40.9608039856",
+    "geom:latitude":40.960804,
+    "geom:longitude":29.089924,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emin Ali Pasa Cad. No: 52/a",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 384 2320",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53GPjdOqtyPxDZDahZ4GtN_40.960804_29.089924@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064595,
+    "wof:geomhash":"ed0f47aa04fcb0f1959242e2d263afcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":1108573383
+        }
+    ],
+    "wof:id":1108573383,
+    "wof:lastmodified":1474064595,
+    "wof:name":"Ar-is Ayna Cam Cerceve",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0899238586,
+    40.9608039856,
+    29.0899238586,
+    40.9608039856
+],
+  "geometry": {"coordinates":[29.0899238586,40.9608039856],"type":"Point"}
+}

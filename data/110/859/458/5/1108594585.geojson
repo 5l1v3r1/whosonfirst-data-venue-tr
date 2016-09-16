@@ -1,0 +1,75 @@
+{
+  "id": 1108594585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9903278351,41.0782165527,28.9903278351,41.0782165527",
+    "geom:latitude":41.078217,
+    "geom:longitude":28.990328,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cad. No:105 Gayrettepe",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 3422",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DKsdtPi9Gf1dtIELYHT9o_41.078217_28.990328@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065405,
+    "wof:geomhash":"651d0fc95de030a518269f568edace87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108594585
+        }
+    ],
+    "wof:id":1108594585,
+    "wof:lastmodified":1474065405,
+    "wof:name":"Yapim Lab. Sis. Tic. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    28.9903278351,
+    41.0782165527,
+    28.9903278351,
+    41.0782165527
+],
+  "geometry": {"coordinates":[28.9903278351,41.0782165527],"type":"Point"}
+}

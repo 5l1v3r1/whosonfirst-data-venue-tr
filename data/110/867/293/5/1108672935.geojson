@@ -1,0 +1,68 @@
+{
+  "id": 1108672935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1364440918,41.1176185608,29.1364440918,41.1176185608",
+    "geom:latitude":41.117619,
+    "geom:longitude":29.136444,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1. Cd. No:39",
+    "sg:city":"Arnavutk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 3931",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930059,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNizsLKfLsb8eq0btzl0U_41.117619_29.136444@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068759,
+    "wof:geomhash":"ddba0d1808ea5f92d4f552027cfb6525",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930059,
+            "region_id":85679237,
+            "venue_id":1108672935
+        }
+    ],
+    "wof:id":1108672935,
+    "wof:lastmodified":1474068759,
+    "wof:name":"Ekvator ?i?ekligi",
+    "wof:parent_id":85930059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1364440918,
+    41.1176185608,
+    29.1364440918,
+    41.1176185608
+],
+  "geometry": {"coordinates":[29.1364440918,41.1176185608],"type":"Point"}
+}

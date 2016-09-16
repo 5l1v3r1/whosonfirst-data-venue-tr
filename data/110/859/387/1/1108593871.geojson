@@ -1,0 +1,75 @@
+{
+  "id": 1108593871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6520023346,36.9026908875,30.6520023346,36.9026908875",
+    "geom:latitude":36.902691,
+    "geom:longitude":30.652002,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Varlik Mah. 100. Yil Blv. No:105/4",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 242 6545",
+    "sg:postcode":"34340",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "laboratory",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929913,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_116mjAYr5BbozVbMEGFTkY_36.902691_30.652002@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065378,
+    "wof:geomhash":"be479d3dd2efd5f76e426b617da075a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85929913,
+            "region_id":85679263,
+            "venue_id":1108593871
+        }
+    ],
+    "wof:id":1108593871,
+    "wof:lastmodified":1474065378,
+    "wof:name":"Antalya Medikal Tic.",
+    "wof:parent_id":85929913,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "equipment"
+    ]
+},
+  "bbox": [
+    30.6520023346,
+    36.9026908875,
+    30.6520023346,
+    36.9026908875
+],
+  "geometry": {"coordinates":[30.6520023346,36.9026908875],"type":"Point"}
+}

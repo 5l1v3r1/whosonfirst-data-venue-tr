@@ -1,0 +1,72 @@
+{
+  "id": 1108659095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0829353333,41.0368347168,29.0829353333,41.0368347168",
+    "geom:latitude":41.036835,
+    "geom:longitude":29.082935,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.mustafa Bulun",
+    "sg:city":"Sarayk?",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 781 8011",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929753,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QQHmJ2pWqAfdEPisdvaKK_41.036835_29.082935@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068221,
+    "wof:geomhash":"850afd6356cf1bc0adf76eaedb024a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929753,
+            "region_id":85679237,
+            "venue_id":1108659095
+        }
+    ],
+    "wof:id":1108659095,
+    "wof:lastmodified":1474068221,
+    "wof:name":"Tufanbeyli Belediye Baskani",
+    "wof:parent_id":85929753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0829353333,
+    41.0368347168,
+    29.0829353333,
+    41.0368347168
+],
+  "geometry": {"coordinates":[29.0829353333,41.0368347168],"type":"Point"}
+}

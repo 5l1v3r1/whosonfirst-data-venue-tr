@@ -1,0 +1,67 @@
+{
+  "id": 1108613941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9729957581,41.0144042969,28.9729957581,41.0144042969",
+    "geom:latitude":41.014404,
+    "geom:longitude":28.972996,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asirefendi Cad.no:33",
+    "sg:city":"Sirkeci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 4212",
+    "sg:postcode":"34112",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06WrTktJse3xyEKS0Y9eWf_41.014404_28.972996@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066232,
+    "wof:geomhash":"e77d2ef58a2efc907fbbe7cddf5a6218",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108613941
+        }
+    ],
+    "wof:id":1108613941,
+    "wof:lastmodified":1474066232,
+    "wof:name":"Handy Lastik Eldiven San.tic.a.s.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    28.9729957581,
+    41.0144042969,
+    28.9729957581,
+    41.0144042969
+],
+  "geometry": {"coordinates":[28.9729957581,41.0144042969],"type":"Point"}
+}

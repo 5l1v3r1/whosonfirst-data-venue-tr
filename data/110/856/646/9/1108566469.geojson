@@ -1,0 +1,70 @@
+{
+  "id": 1108566469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8457145691,39.9434585571,32.8457145691,39.9434585571",
+    "geom:latitude":39.943459,
+    "geom:longitude":32.845715,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizimkarabekir Cad. No 4067 06060",
+    "sg:city":"Yilmazk?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 312 1537",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929577,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02o5D86tmNcQZQK88PR8Hn_39.943459_32.845715@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064306,
+    "wof:geomhash":"d32f2afdc7bf28586ea0a726acedc7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108566469
+        }
+    ],
+    "wof:id":1108566469,
+    "wof:lastmodified":1474064306,
+    "wof:name":"Aysu Yedek Parca Ltd.sti.",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8457145691,
+    39.9434585571,
+    32.8457145691,
+    39.9434585571
+],
+  "geometry": {"coordinates":[32.8457145691,39.9434585571],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108655017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1633148193,38.428237915,27.1633148193,38.428237915",
+    "geom:latitude":38.428238,
+    "geom:longitude":27.163315,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203.sok. No:11/r Yenisehir",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 469 3193",
+    "sg:postcode":"06660",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66jxj51lCoHhBlML03rSeQ_38.428238_27.163315@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068059,
+    "wof:geomhash":"8c6b25dc9aba81e496f5a129cce77d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108655017
+        }
+    ],
+    "wof:id":1108655017,
+    "wof:lastmodified":1474068059,
+    "wof:name":"Asas M?hendislik A.s.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.1633148193,
+    38.428237915,
+    27.1633148193,
+    38.428237915
+],
+  "geometry": {"coordinates":[27.1633148193,38.428237915],"type":"Point"}
+}

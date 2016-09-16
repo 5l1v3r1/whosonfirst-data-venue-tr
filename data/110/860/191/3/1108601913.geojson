@@ -1,0 +1,75 @@
+{
+  "id": 1108601913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0678119659,40.9875411987,29.0678119659,40.9875411987",
+    "geom:latitude":40.987541,
+    "geom:longitude":29.067812,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merdiven Koyyolu Sok. Deniz Apt. No. 23/1",
+    "sg:city":"Merdivenkoy",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 567 5234",
+    "sg:postcode":"34732",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jOEHWmOIWJ1kbhzs8L0gv_40.987541_29.067812@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065714,
+    "wof:geomhash":"4999ff8ba1dc97506999563c8da990f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108601913
+        }
+    ],
+    "wof:id":1108601913,
+    "wof:lastmodified":1474065714,
+    "wof:name":"Dominat Klima San.tic.ltd.sti.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0678119659,
+    40.9875411987,
+    29.0678119659,
+    40.9875411987
+],
+  "geometry": {"coordinates":[29.0678119659,40.9875411987],"type":"Point"}
+}

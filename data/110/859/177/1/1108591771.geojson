@@ -1,0 +1,73 @@
+{
+  "id": 1108591771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.86835289,40.9846763611,28.86835289,40.9846763611",
+    "geom:latitude":40.984676,
+    "geom:longitude":28.868353,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Y?e Tarla Cd. No:16/ Bakirk?",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 5175",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D3RgVpt71mQ0oAvnbGs65_40.984676_28.868353@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065302,
+    "wof:geomhash":"bd62628e2ac23b7a74c14f3fbf4cb08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108591771
+        }
+    ],
+    "wof:id":1108591771,
+    "wof:lastmodified":1474065302,
+    "wof:name":"Yapi Dekor.",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.86835289,
+    40.9846763611,
+    28.86835289,
+    40.9846763611
+],
+  "geometry": {"coordinates":[28.86835289,40.9846763611],"type":"Point"}
+}

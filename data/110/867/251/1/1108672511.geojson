@@ -1,0 +1,74 @@
+{
+  "id": 1108672511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0737419128,40.9980010986,29.0737419128,40.9980010986",
+    "geom:latitude":40.998001,
+    "geom:longitude":29.073742,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Libadiye Cad. No:20/2",
+    "sg:city":"K.camlica",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 8640",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YtthCIL7DgxHzGaZcuxY6_40.998001_29.073742@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068735,
+    "wof:geomhash":"5133ee3da9738a1847dcc9479d6f68fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108672511
+        }
+    ],
+    "wof:id":1108672511,
+    "wof:lastmodified":1474068735,
+    "wof:name":"Hazal Mimarlik",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0737419128,
+    40.9980010986,
+    29.0737419128,
+    40.9980010986
+],
+  "geometry": {"coordinates":[29.0737419128,40.9980010986],"type":"Point"}
+}

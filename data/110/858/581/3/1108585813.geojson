@@ -1,0 +1,71 @@
+{
+  "id": 1108585813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2865543365,40.8172454834,29.2865543365,40.8172454834",
+    "geom:latitude":40.817245,
+    "geom:longitude":29.286554,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Postane Mah Manastir Cad. No: 90",
+    "sg:city":"Tuzla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3959738",
+    "sg:postcode":"81700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "water",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929767,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XNgpg2zy0DKiORNTO0tlY_40.817245_29.286554@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065153,
+    "wof:geomhash":"bf34205be4dec3c0272aa2f992be33d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929767,
+            "region_id":85679241,
+            "venue_id":1108585813
+        }
+    ],
+    "wof:id":1108585813,
+    "wof:lastmodified":1474065153,
+    "wof:name":"Meridyen Tuzla",
+    "wof:parent_id":85929767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    29.2865543365,
+    40.8172454834,
+    29.2865543365,
+    40.8172454834
+],
+  "geometry": {"coordinates":[29.2865543365,40.8172454834],"type":"Point"}
+}

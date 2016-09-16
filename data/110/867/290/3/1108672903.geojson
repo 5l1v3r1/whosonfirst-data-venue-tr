@@ -1,0 +1,68 @@
+{
+  "id": 1108672903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9095611572,41.0098381042,28.9095611572,41.0098381042",
+    "geom:latitude":41.009838,
+    "geom:longitude":28.909561,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kocamustafapasa Cd. No:42",
+    "sg:city":"Cerrahpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 587 9502",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gamOBl0SXa6MyVEeSlbiI_41.009838_28.909561@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068758,
+    "wof:geomhash":"97ec537cf1b4dd4b6a07a74fd2f11187",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108672903
+        }
+    ],
+    "wof:id":1108672903,
+    "wof:lastmodified":1474068758,
+    "wof:name":"Dilek ?i?ek?ilik Hediyelik Esya",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9095611572,
+    41.0098381042,
+    28.9095611572,
+    41.0098381042
+],
+  "geometry": {"coordinates":[28.9095611572,41.0098381042],"type":"Point"}
+}

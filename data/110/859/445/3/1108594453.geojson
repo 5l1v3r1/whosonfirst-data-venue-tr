@@ -1,0 +1,71 @@
+{
+  "id": 1108594453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0144309998,41.0778007507,29.0144309998,41.0778007507",
+    "geom:latitude":41.077801,
+    "geom:longitude":29.014431,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Levent Cad. No:34 1. Levent",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 1363",
+    "sg:postcode":"06570",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HfSuEntM7vsgoeaI26Ipt_41.077801_29.014431@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065401,
+    "wof:geomhash":"0155842e9f86fc228a67ceb31f8df07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108594453
+        }
+    ],
+    "wof:id":1108594453,
+    "wof:lastmodified":1474065401,
+    "wof:name":"Meda Sag. Urn. Tic. A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.0144309998,
+    41.0778007507,
+    29.0144309998,
+    41.0778007507
+],
+  "geometry": {"coordinates":[29.0144309998,41.0778007507],"type":"Point"}
+}

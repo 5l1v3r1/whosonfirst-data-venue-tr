@@ -1,0 +1,68 @@
+{
+  "id": 1108597549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9961013794,41.0905990601,28.9961013794,41.0905990601",
+    "geom:latitude":41.090599,
+    "geom:longitude":28.996101,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah. Sultan Cad. Bereket Sok. No: 4/12",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 0963",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o3buKdB8TGmIvQi95jVst_41.090599_28.996101@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065531,
+    "wof:geomhash":"5ed6f17ac4bb2b4a5bd6f3660dd9ce78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108597549
+        }
+    ],
+    "wof:id":1108597549,
+    "wof:lastmodified":1474065531,
+    "wof:name":"Butis Asansorleri San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.9961013794,
+    41.0905990601,
+    28.9961013794,
+    41.0905990601
+],
+  "geometry": {"coordinates":[28.9961013794,41.0905990601],"type":"Point"}
+}

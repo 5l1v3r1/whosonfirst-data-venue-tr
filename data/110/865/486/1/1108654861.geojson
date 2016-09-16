@@ -1,0 +1,71 @@
+{
+  "id": 1108654861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7967357635,40.9886703491,28.7967357635,40.9886703491",
+    "geom:latitude":40.98867,
+    "geom:longitude":28.796736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Londra Asf.",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 575 2187",
+    "sg:postcode":"01980",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qfzgBsFXQntAz7OoJlglS_40.988670_28.796736@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068054,
+    "wof:geomhash":"b682e9df194237672937855a9563a2b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108654861
+        }
+    ],
+    "wof:id":1108654861,
+    "wof:lastmodified":1474068054,
+    "wof:name":"?mur Yogurtlari Ve Gida San. A.s",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    28.7967357635,
+    40.9886703491,
+    28.7967357635,
+    40.9886703491
+],
+  "geometry": {"coordinates":[28.7967357635,40.9886703491],"type":"Point"}
+}

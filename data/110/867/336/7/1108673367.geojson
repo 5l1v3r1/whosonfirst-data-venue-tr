@@ -1,0 +1,73 @@
+{
+  "id": 1108673367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8503608704,40.9754638672,28.8503608704,40.9754638672",
+    "geom:latitude":40.975464,
+    "geom:longitude":28.850361,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bakirk? Cd. No:23",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 610 9612",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bts9yZHgvY4alr2ONHfWq_40.975464_28.850361@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068779,
+    "wof:geomhash":"d968fdfbac57e9bb21310a7ff1a0b06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108673367
+        }
+    ],
+    "wof:id":1108673367,
+    "wof:lastmodified":1474068779,
+    "wof:name":"Sampiyon Se?kin ?i?ek?ilik Ltd. Sti.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.8503608704,
+    40.9754638672,
+    28.8503608704,
+    40.9754638672
+],
+  "geometry": {"coordinates":[28.8503608704,40.9754638672],"type":"Point"}
+}

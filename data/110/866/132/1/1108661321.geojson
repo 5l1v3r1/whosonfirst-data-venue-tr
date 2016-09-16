@@ -1,0 +1,73 @@
+{
+  "id": 1108661321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9815483093,41.042350769,28.9815483093,41.042350769",
+    "geom:latitude":41.042351,
+    "geom:longitude":28.981548,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yedi Kuyular Cad. No:2 80220 Sisli Istanbul",
+    "sg:city":"Adalar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 4612",
+    "sg:postcode":"81340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cardboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KT8VCwyr6k7FJZBZ1EE1l_41.042351_28.981548@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068301,
+    "wof:geomhash":"62583595a1d3a5312620c42fa3d3603d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108661321
+        }
+    ],
+    "wof:id":1108661321,
+    "wof:lastmodified":1474068301,
+    "wof:name":"Polinet Ambalaj San Tic As",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardboard"
+    ]
+},
+  "bbox": [
+    28.9815483093,
+    41.042350769,
+    28.9815483093,
+    41.042350769
+],
+  "geometry": {"coordinates":[28.9815483093,41.042350769],"type":"Point"}
+}

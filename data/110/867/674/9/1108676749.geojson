@@ -1,0 +1,68 @@
+{
+  "id": 1108676749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8891983032,39.967124939,32.8891983032,39.967124939",
+    "geom:latitude":39.967125,
+    "geom:longitude":32.889198,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Reyhan Sk. No:4 Siteler",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 3669",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BE9YshvHmYL7D15azsWMU_39.967125_32.889198@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068917,
+    "wof:geomhash":"bccaa13eacdc40be16199cc8437103c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676749
+        }
+    ],
+    "wof:id":1108676749,
+    "wof:lastmodified":1474068917,
+    "wof:name":"Islamoglu Kapi Ahsap San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8891983032,
+    39.967124939,
+    32.8891983032,
+    39.967124939
+],
+  "geometry": {"coordinates":[32.8891983032,39.967124939],"type":"Point"}
+}

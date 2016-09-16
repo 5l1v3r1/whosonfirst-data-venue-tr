@@ -1,0 +1,63 @@
+{
+  "id": 1108648157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9351291656,41.009349823,28.9351291656,41.009349823",
+    "geom:latitude":41.00935,
+    "geom:longitude":28.935129,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Millet Cad. 145/4 Capa Sehremini",
+    "sg:city":"27020",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 3344",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FKTkHf8x4bmtB7Vk3GiIY_41.009350_28.935129@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067749,
+    "wof:geomhash":"aeedaa340d485a637bf604535b4fe603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108648157
+        }
+    ],
+    "wof:id":1108648157,
+    "wof:lastmodified":1474067749,
+    "wof:name":"Biyotem Saglik Malzemeleri Paz. Ltd.sti.",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9351291656,
+    41.009349823,
+    28.9351291656,
+    41.009349823
+],
+  "geometry": {"coordinates":[28.9351291656,41.009349823],"type":"Point"}
+}

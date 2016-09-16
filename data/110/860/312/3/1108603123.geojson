@@ -1,0 +1,61 @@
+{
+  "id": 1108603123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9836025238,41.0760955811,28.9836025238,41.0760955811",
+    "geom:latitude":41.076096,
+    "geom:longitude":28.983603,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tasocagi Cd. No:138 ?aglayan",
+    "sg:city":"07100",
+    "sg:classifiers":[],
+    "sg:orig_category":"Aluminium Carpentary",
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27JbHwdyyQaeK6ad00BjKI_41.076096_28.983603@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065760,
+    "wof:geomhash":"0bed58dc91f062500f25d45b6c1483b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108603123
+        }
+    ],
+    "wof:id":1108603123,
+    "wof:lastmodified":1474065760,
+    "wof:name":"Ak-kar Aliminyum Dograma A.s",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9836025238,
+    41.0760955811,
+    28.9836025238,
+    41.0760955811
+],
+  "geometry": {"coordinates":[28.9836025238,41.0760955811],"type":"Point"}
+}

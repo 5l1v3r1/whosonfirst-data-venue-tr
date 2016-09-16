@@ -1,0 +1,73 @@
+{
+  "id": 1108609903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9826011658,41.060760498,28.9826011658,41.060760498",
+    "geom:latitude":41.06076,
+    "geom:longitude":28.982601,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Firin Sk. No:47",
+    "sg:city":"Caglayan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 8366",
+    "sg:postcode":"07600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69asGlzQvu9p78PRLW1lPk_41.060760_28.982601@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066074,
+    "wof:geomhash":"84b5f93bcaac1966c35b3b89bfe8ee8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108609903
+        }
+    ],
+    "wof:id":1108609903,
+    "wof:lastmodified":1474066074,
+    "wof:name":"Casa Mimar.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    28.9826011658,
+    41.060760498,
+    28.9826011658,
+    41.060760498
+],
+  "geometry": {"coordinates":[28.9826011658,41.060760498],"type":"Point"}
+}

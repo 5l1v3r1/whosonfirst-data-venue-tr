@@ -1,0 +1,71 @@
+{
+  "id": 1108594581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8559608459,39.9191551208,32.8559608459,39.9191551208",
+    "geom:latitude":39.919155,
+    "geom:longitude":32.855961,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Konur Sk. No:19/b Kizilay",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 4620",
+    "sg:postcode":"34306",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ELC6tRPZev80Dfwfhgf2Y_39.919155_32.855961@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065405,
+    "wof:geomhash":"e457f6b2456ed23be22301c0b998586b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108594581
+        }
+    ],
+    "wof:id":1108594581,
+    "wof:lastmodified":1474065405,
+    "wof:name":"Uslu Lab. Malz. Ith. Paz. Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8559608459,
+    39.9191551208,
+    32.8559608459,
+    39.9191551208
+],
+  "geometry": {"coordinates":[32.8559608459,39.9191551208],"type":"Point"}
+}

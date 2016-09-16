@@ -1,0 +1,71 @@
+{
+  "id": 1108656723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0013332367,41.0929718018,29.0013332367,41.0929718018",
+    "geom:latitude":41.092972,
+    "geom:longitude":29.001333,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birdal Sok. No:4/a 4.levent",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 8045",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IFIaqR8pXyrtCZVjOPyA9_41.092972_29.001333@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068128,
+    "wof:geomhash":"3271ab3ec4c641d223be8527cb573057",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108656723
+        }
+    ],
+    "wof:id":1108656723,
+    "wof:lastmodified":1474068128,
+    "wof:name":"Tekniker Kalip Sanayi",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    29.0013332367,
+    41.0929718018,
+    29.0013332367,
+    41.0929718018
+],
+  "geometry": {"coordinates":[29.0013332367,41.0929718018],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108613461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9992389679,41.0789108276,28.9992389679,41.0789108276",
+    "geom:latitude":41.078911,
+    "geom:longitude":28.999239,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Caddesi No:142 - Sisli",
+    "sg:city":"64020",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 268 6548",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fiVjruL0aqkK43lk9FSBJ_41.078911_28.999239@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066215,
+    "wof:geomhash":"d77751ccec6e6e58f50bdeace317aff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108613461
+        }
+    ],
+    "wof:id":1108613461,
+    "wof:lastmodified":1474066215,
+    "wof:name":"Beyoglu 32 Noterligi",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    28.9992389679,
+    41.0789108276,
+    28.9992389679,
+    41.0789108276
+],
+  "geometry": {"coordinates":[28.9992389679,41.0789108276],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108580223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1110191345,40.9707298279,29.1110191345,40.9707298279",
+    "geom:latitude":40.97073,
+    "geom:longitude":29.111019,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bostanci Sanayi Sitesi Doganbey Cad. No:18 Icerenkoy",
+    "sg:city":"B.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 575 7722",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76yu3bM1RaHS3WbyH8HuHe_40.970730_29.111019@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065010,
+    "wof:geomhash":"6cc954c4c603bf940bcd94b1b9416a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108580223
+        }
+    ],
+    "wof:id":1108580223,
+    "wof:lastmodified":1474065010,
+    "wof:name":"Grand Oto",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.1110191345,
+    40.9707298279,
+    29.1110191345,
+    40.9707298279
+],
+  "geometry": {"coordinates":[29.1110191345,40.9707298279],"type":"Point"}
+}

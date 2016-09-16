@@ -1,0 +1,64 @@
+{
+  "id": 1108664725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0012168884,41.0998153687,29.0012168884,41.0998153687",
+    "geom:latitude":41.099815,
+    "geom:longitude":29.001217,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe M. Nato C. No: 62 4.levent",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 9916",
+    "sg:postcode":"34000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jOCtFrUb9ckRLKyxr3c2O_41.099815_29.001217@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068432,
+    "wof:geomhash":"211d23eca0ed7f8a65417ae2e177b92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108664725
+        }
+    ],
+    "wof:id":1108664725,
+    "wof:lastmodified":1474068432,
+    "wof:name":"Kalite Ahsap Mal. San. Ltd.sti.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0012168884,
+    41.0998153687,
+    29.0012168884,
+    41.0998153687
+],
+  "geometry": {"coordinates":[29.0012168884,41.0998153687],"type":"Point"}
+}

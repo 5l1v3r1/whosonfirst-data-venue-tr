@@ -1,0 +1,75 @@
+{
+  "id": 1108589583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0119342804,41.0713996887,29.0119342804,41.0713996887",
+    "geom:latitude":41.0714,
+    "geom:longitude":29.011934,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Koresehitleri 26/3",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 0735",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cCsFFDNfYdgmVduEKF4nT_41.071400_29.011934@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065242,
+    "wof:geomhash":"998b6ee3dc2351e018b3557b5898d9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108589583
+        }
+    ],
+    "wof:id":1108589583,
+    "wof:lastmodified":1474065242,
+    "wof:name":"R.p.t Ltd.sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    29.0119342804,
+    41.0713996887,
+    29.0119342804,
+    41.0713996887
+],
+  "geometry": {"coordinates":[29.0119342804,41.0713996887],"type":"Point"}
+}

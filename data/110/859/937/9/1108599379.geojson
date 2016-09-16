@@ -1,0 +1,74 @@
+{
+  "id": 1108599379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9716148376,41.0272254944,28.9716148376,41.0272254944",
+    "geom:latitude":41.027225,
+    "geom:longitude":28.971615,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yolcuzade Iskender Cd. Sishane Sk. No:49",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 5236",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906585,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14LUPUeGb2NN80dWsHlLpo_41.027225_28.971615@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065609,
+    "wof:geomhash":"bcf030a7a80338893ded516f8413e2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108599379
+        }
+    ],
+    "wof:id":1108599379,
+    "wof:lastmodified":1474065609,
+    "wof:name":"?ztas Aydinlatma San. Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85906585,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9716148376,
+    41.0272254944,
+    28.9716148376,
+    41.0272254944
+],
+  "geometry": {"coordinates":[28.9716148376,41.0272254944],"type":"Point"}
+}

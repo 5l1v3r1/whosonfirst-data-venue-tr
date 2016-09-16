@@ -1,0 +1,72 @@
+{
+  "id": 1108671961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9341812134,41.0168952942,28.9341812134,41.0168952942",
+    "geom:latitude":41.016895,
+    "geom:longitude":28.934181,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Millet Cad. 147/2 Capa",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 587 4611",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r0tYb2bFxWZPYuEYf0RQa_41.016895_28.934181@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068716,
+    "wof:geomhash":"e450ef85aa9cf43d5eef77beadf49603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108671961
+        }
+    ],
+    "wof:id":1108671961,
+    "wof:lastmodified":1474068716,
+    "wof:name":"Capa Ozel Ambulans Cenaze Nakilleri",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.9341812134,
+    41.0168952942,
+    28.9341812134,
+    41.0168952942
+],
+  "geometry": {"coordinates":[28.9341812134,41.0168952942],"type":"Point"}
+}

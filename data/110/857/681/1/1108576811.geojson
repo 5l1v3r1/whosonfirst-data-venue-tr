@@ -1,0 +1,68 @@
+{
+  "id": 1108576811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0113582611,41.0850067139,29.0113582611,41.0850067139",
+    "geom:latitude":41.085007,
+    "geom:longitude":29.011358,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sabanci Center",
+    "sg:city":"4 Levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 7242",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qr1gklwv6f310X1EGRxOo_41.085007_29.011358@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064735,
+    "wof:geomhash":"27c40a228eb8ede086935663051ef5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108576811
+        }
+    ],
+    "wof:id":1108576811,
+    "wof:lastmodified":1474064735,
+    "wof:name":"Yunsa Yunlu A.s",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    29.0113582611,
+    41.0850067139,
+    29.0113582611,
+    41.0850067139
+],
+  "geometry": {"coordinates":[29.0113582611,41.0850067139],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108593665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2319412231,40.8778648376,29.2319412231,40.8778648376",
+    "geom:latitude":40.877865,
+    "geom:longitude":29.231941,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Orhan Maltepe Cd. No:56",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 4896",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m4mIcWhov8H4itwjeSTrF_40.877865_29.231941@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065369,
+    "wof:geomhash":"fb12d7954b6d6c814d28ea227438b6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930115,
+            "venue_id":1108593665
+        }
+    ],
+    "wof:id":1108593665,
+    "wof:lastmodified":1474065369,
+    "wof:name":"Pema Pendik Yerli Mal Sert Kayalar Koll. Sti.",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    29.2319412231,
+    40.8778648376,
+    29.2319412231,
+    40.8778648376
+],
+  "geometry": {"coordinates":[29.2319412231,40.8778648376],"type":"Point"}
+}

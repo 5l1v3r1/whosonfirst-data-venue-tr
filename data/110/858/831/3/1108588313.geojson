@@ -1,0 +1,75 @@
+{
+  "id": 1108588313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9949550629,41.0521011353,28.9949550629,41.0521011353",
+    "geom:latitude":41.052101,
+    "geom:longitude":28.994955,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumussuyu Cad. Haci Emin Aga Sok. No:14",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 613 9682",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rTXEPUJ4eg7moJClCLNZp_41.052101_28.994955@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065212,
+    "wof:geomhash":"320b9aab796bb860e396e4dea32d9bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108588313
+        }
+    ],
+    "wof:id":1108588313,
+    "wof:lastmodified":1474065212,
+    "wof:name":"Erteks Dis Tic.san. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9949550629,
+    41.0521011353,
+    28.9949550629,
+    41.0521011353
+],
+  "geometry": {"coordinates":[28.9949550629,41.0521011353],"type":"Point"}
+}

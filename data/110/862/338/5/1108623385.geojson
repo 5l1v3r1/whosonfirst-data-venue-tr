@@ -1,0 +1,72 @@
+{
+  "id": 1108623385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0780601501,40.9784202576,29.0780601501,40.9784202576",
+    "geom:latitude":40.97842,
+    "geom:longitude":29.07806,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Semsettin G?altay Cd. No:209",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 0224",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MiZyen532mw0v6PzlNyiI_40.978420_29.078060@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066603,
+    "wof:geomhash":"4a974ce91d867bed3a2dc4a33eca025e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108623385
+        }
+    ],
+    "wof:id":1108623385,
+    "wof:lastmodified":1474066603,
+    "wof:name":"Vaillant Isi San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0780601501,
+    40.9784202576,
+    29.0780601501,
+    40.9784202576
+],
+  "geometry": {"coordinates":[29.0780601501,40.9784202576],"type":"Point"}
+}

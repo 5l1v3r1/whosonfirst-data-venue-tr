@@ -1,0 +1,68 @@
+{
+  "id": 1108673223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9196186066,41.0149497986,28.9196186066,41.0149497986",
+    "geom:latitude":41.01495,
+    "geom:longitude":28.919619,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vezir Cd. No:26/5 K.hamam",
+    "sg:city":"Sehremeni",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 529 0829",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65H9kqLEwBoAsfy0BrH8pq_41.014950_28.919619@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068769,
+    "wof:geomhash":"5aaf9bad4a5920a89df978991e6e0874",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108673223
+        }
+    ],
+    "wof:id":1108673223,
+    "wof:lastmodified":1474068769,
+    "wof:name":"Mis Ulusl. ?i?ek?ilik Ve Botanik",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9196186066,
+    41.0149497986,
+    28.9196186066,
+    41.0149497986
+],
+  "geometry": {"coordinates":[28.9196186066,41.0149497986],"type":"Point"}
+}

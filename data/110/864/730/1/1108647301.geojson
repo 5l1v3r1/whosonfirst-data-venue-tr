@@ -1,0 +1,69 @@
+{
+  "id": 1108647301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0910415649,38.3869400024,27.0910415649,38.3869400024",
+    "geom:latitude":38.38694,
+    "geom:longitude":27.091042,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 Sk. No.13",
+    "sg:city":"Pinarbasi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 479 0302",
+    "sg:postcode":"07630",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rVMVyzO1OgdM55KzDvJtk_38.386940_27.091042@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067705,
+    "wof:geomhash":"eb9662ea4e2ee54be82d46c8913d349b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108647301
+        }
+    ],
+    "wof:id":1108647301,
+    "wof:lastmodified":1474067705,
+    "wof:name":"Asbar Bagirsak San. Ltd.sti.",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    27.0910415649,
+    38.3869400024,
+    27.0910415649,
+    38.3869400024
+],
+  "geometry": {"coordinates":[27.0910415649,38.3869400024],"type":"Point"}
+}

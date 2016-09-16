@@ -1,0 +1,70 @@
+{
+  "id": 1108606301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0160217285,41.0843963623,29.0160217285,41.0843963623",
+    "geom:latitude":41.084396,
+    "geom:longitude":29.016022,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karanfil Cad. Yolal Sok. 10-14",
+    "sg:city":"2.levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 2112",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ef2T58GHUQq9ynNeNA10p_41.084396_29.016022@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065899,
+    "wof:geomhash":"48cf05050df0aaeaf559ce15a87a2667",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108606301
+        }
+    ],
+    "wof:id":1108606301,
+    "wof:lastmodified":1474065899,
+    "wof:name":"Mega Dis Ticaret Ltd.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0160217285,
+    41.0843963623,
+    29.0160217285,
+    41.0843963623
+],
+  "geometry": {"coordinates":[29.0160217285,41.0843963623],"type":"Point"}
+}

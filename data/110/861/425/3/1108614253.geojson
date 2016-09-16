@@ -1,0 +1,63 @@
+{
+  "id": 1108614253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9351291656,41.009349823,28.9351291656,41.009349823",
+    "geom:latitude":41.00935,
+    "geom:longitude":28.935129,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Millet Cad.eregli Mah. No: 151/3 Sehremini",
+    "sg:city":"16010",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 587 3636",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sK7sV3rr9H4cOqDgwCA5a_41.009350_28.935129@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066243,
+    "wof:geomhash":"aeedaa340d485a637bf604535b4fe603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108614253
+        }
+    ],
+    "wof:id":1108614253,
+    "wof:lastmodified":1474066243,
+    "wof:name":"Bilgin Saglikli Yasam Merkezi",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9351291656,
+    41.009349823,
+    28.9351291656,
+    41.009349823
+],
+  "geometry": {"coordinates":[28.9351291656,41.009349823],"type":"Point"}
+}

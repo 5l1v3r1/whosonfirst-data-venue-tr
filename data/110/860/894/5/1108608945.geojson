@@ -1,0 +1,67 @@
+{
+  "id": 1108608945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9846725464,41.0553779602,28.9846725464,41.0553779602",
+    "geom:latitude":41.055378,
+    "geom:longitude":28.984673,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Arpasuyu Sk. No:10",
+    "sg:city":"Bomanti",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 7916",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jjbz3mbOH193MfgWXAHbu_41.055378_28.984673@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066034,
+    "wof:geomhash":"2ac5ebc50869cc1bf5b5a3e7d909e8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108608945
+        }
+    ],
+    "wof:id":1108608945,
+    "wof:lastmodified":1474066034,
+    "wof:name":"Enko Nakliyat Tic. Ltd.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9846725464,
+    41.0553779602,
+    28.9846725464,
+    41.0553779602
+],
+  "geometry": {"coordinates":[28.9846725464,41.0553779602],"type":"Point"}
+}

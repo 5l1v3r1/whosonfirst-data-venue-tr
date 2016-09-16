@@ -1,0 +1,73 @@
+{
+  "id": 1108665361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0313816071,41.0028266907,29.0313816071,41.0028266907",
+    "geom:latitude":41.002827,
+    "geom:longitude":29.031382,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sabit Pazar No:23 Fikirtepe",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 565 7943",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n3kmeGCmhN9RE6A5r71lH_41.002827_29.031382@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068464,
+    "wof:geomhash":"e81d753b4d95cc6d939f3a422be6dfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108665361
+        }
+    ],
+    "wof:id":1108665361,
+    "wof:lastmodified":1474068464,
+    "wof:name":"Inan Tavuk Ve Ciger",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    29.0313816071,
+    41.0028266907,
+    29.0313816071,
+    41.0028266907
+],
+  "geometry": {"coordinates":[29.0313816071,41.0028266907],"type":"Point"}
+}

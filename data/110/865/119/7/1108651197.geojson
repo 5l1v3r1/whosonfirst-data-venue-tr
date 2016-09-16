@@ -1,0 +1,67 @@
+{
+  "id": 1108651197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1303768158,38.4164085388,27.1303768158,38.4164085388",
+    "geom:latitude":38.416409,
+    "geom:longitude":27.130377,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847. Sk. No:8/g Konak",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 0801",
+    "sg:postcode":"46000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ij8faB6kF2stqut7RNMx6_38.416409_27.130377@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067893,
+    "wof:geomhash":"3b2ca736f63a407e41a96153cc53fbb9",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108651197
+        }
+    ],
+    "wof:id":1108651197,
+    "wof:lastmodified":1474067893,
+    "wof:name":"Izmir Medikal San. Tic.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1303768158,
+    38.4164085388,
+    27.1303768158,
+    38.4164085388
+],
+  "geometry": {"coordinates":[27.1303768158,38.4164085388],"type":"Point"}
+}

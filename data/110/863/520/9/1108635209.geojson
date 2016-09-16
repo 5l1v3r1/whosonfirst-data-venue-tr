@@ -1,0 +1,72 @@
+{
+  "id": 1108635209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8510704041,39.9231300354,32.8510704041,39.9231300354",
+    "geom:latitude":39.92313,
+    "geom:longitude":32.85107,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izmir Cd. No:25 Kizilay",
+    "sg:city":"10020",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 7872",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "-",
+        "export",
+        "import"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ri1mvtex3x60v6cpBtK2M_39.923130_32.851070@1306270066"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067230,
+    "wof:geomhash":"03ea6d5ce50629b6b07b37e1cbebd73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108635209
+        }
+    ],
+    "wof:id":1108635209,
+    "wof:lastmodified":1474067230,
+    "wof:name":"Rom Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "export",
+        "import"
+    ]
+},
+  "bbox": [
+    32.8510704041,
+    39.9231300354,
+    32.8510704041,
+    39.9231300354
+],
+  "geometry": {"coordinates":[32.8510704041,39.9231300354],"type":"Point"}
+}

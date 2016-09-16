@@ -1,0 +1,71 @@
+{
+  "id": 1108668407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.858379364,39.9161605835,32.858379364,39.9161605835",
+    "geom:latitude":39.916161,
+    "geom:longitude":32.858379,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Cd. No:47/2 Kizilay",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 0989",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CJIdxwiV22ETCeyy2e1gL_39.916161_32.858379@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068584,
+    "wof:geomhash":"7cbdfab7658ba413df4d3d2aed7a7e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108668407
+        }
+    ],
+    "wof:id":1108668407,
+    "wof:lastmodified":1474068584,
+    "wof:name":"Tim Yayinci. Insaat San. Tic. Ltd.",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    32.858379364,
+    39.9161605835,
+    32.858379364,
+    39.9161605835
+],
+  "geometry": {"coordinates":[32.858379364,39.9161605835],"type":"Point"}
+}

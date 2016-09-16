@@ -1,0 +1,67 @@
+{
+  "id": 1108599627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0162677765,41.0259132385,29.0162677765,41.0259132385",
+    "geom:latitude":41.025913,
+    "geom:longitude":29.016268,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selmanaga Mah. Cesme Sok. No: 2/d",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 336 334 2376",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18bp6JEpX02fSKJrgNYBP4_41.025913_29.016268@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065618,
+    "wof:geomhash":"46ba4f5acceef345d34a483b1e650c1e",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":1108599627
+        }
+    ],
+    "wof:id":1108599627,
+    "wof:lastmodified":1474065618,
+    "wof:name":"Cagin Ziraat Binmarsesi",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    29.0162677765,
+    41.0259132385,
+    29.0162677765,
+    41.0259132385
+],
+  "geometry": {"coordinates":[29.0162677765,41.0259132385],"type":"Point"}
+}

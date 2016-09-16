@@ -1,0 +1,75 @@
+{
+  "id": 1108601533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.111623764,41.0355224609,29.111623764,41.0355224609",
+    "geom:latitude":41.035522,
+    "geom:longitude":29.111624,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Caddesi Inkilap Apt. 33,",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 256 4800",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74I7ZOUcGvFeH20MaQOpwv_41.035522_29.111624@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065700,
+    "wof:geomhash":"afb7d0333091f67077f0836850df5452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":1108601533
+        }
+    ],
+    "wof:id":1108601533,
+    "wof:lastmodified":1474065700,
+    "wof:name":"Saudi Arabian Airlines",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    29.111623764,
+    41.0355224609,
+    29.111623764,
+    41.0355224609
+],
+  "geometry": {"coordinates":[29.111623764,41.0355224609],"type":"Point"}
+}

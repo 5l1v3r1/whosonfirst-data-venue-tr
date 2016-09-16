@@ -1,0 +1,71 @@
+{
+  "id": 1108603065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1370582581,38.4233093262,27.1370582581,38.4233093262",
+    "geom:latitude":38.423309,
+    "geom:longitude":27.137058,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mimar Kemalettin Caddesi No:107/806",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 446 4391",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j66AomzNRuV4hGMXfvODQ_38.423309_27.137058@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065758,
+    "wof:geomhash":"8fc98bda60593beec8d895825e7d95ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108603065
+        }
+    ],
+    "wof:id":1108603065,
+    "wof:lastmodified":1474065758,
+    "wof:name":"Code Alarm Ve G?venlik Sistemleri",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    27.1370582581,
+    38.4233093262,
+    27.1370582581,
+    38.4233093262
+],
+  "geometry": {"coordinates":[27.1370582581,38.4233093262],"type":"Point"}
+}

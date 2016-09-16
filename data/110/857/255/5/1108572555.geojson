@@ -1,0 +1,69 @@
+{
+  "id": 1108572555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0040740967,41.0981674194,29.0040740967,41.0981674194",
+    "geom:latitude":41.098167,
+    "geom:longitude":29.004074,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Cad. Donanma Sok. 1/3 Seyrantepe",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 6843",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JeeUGEhR4wa74L9ovCO70_41.098167_29.004074@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064561,
+    "wof:geomhash":"c61ee76f461dbaab115f99396af1cf03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108572555
+        }
+    ],
+    "wof:id":1108572555,
+    "wof:lastmodified":1474064561,
+    "wof:name":"Uluslu Plastik",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0040740967,
+    41.0981674194,
+    29.0040740967,
+    41.0981674194
+],
+  "geometry": {"coordinates":[29.0040740967,41.0981674194],"type":"Point"}
+}

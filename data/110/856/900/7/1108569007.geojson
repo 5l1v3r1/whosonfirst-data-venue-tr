@@ -1,0 +1,71 @@
+{
+  "id": 1108569007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.016828537,41.0818634033,29.016828537,41.0818634033",
+    "geom:latitude":41.081863,
+    "geom:longitude":29.016829,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mektep Sok.no:6 Celiktepe-4 Levent",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 2508",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aGvrreG1E51pradDnv3Sa_41.081863_29.016829@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064416,
+    "wof:geomhash":"dc78bdcca45f5e5917ff1388036f4e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108569007
+        }
+    ],
+    "wof:id":1108569007,
+    "wof:lastmodified":1474064416,
+    "wof:name":"Rusen Makina Ve Tic.ltd.sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.016828537,
+    41.0818634033,
+    29.016828537,
+    41.0818634033
+],
+  "geometry": {"coordinates":[29.016828537,41.0818634033],"type":"Point"}
+}

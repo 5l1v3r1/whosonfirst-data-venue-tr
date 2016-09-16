@@ -1,0 +1,71 @@
+{
+  "id": 1108647245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9108371735,41.0489845276,28.9108371735,41.0489845276",
+    "geom:latitude":41.048985,
+    "geom:longitude":28.910837,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Mah. ?i?kli Sk. ?i?k Apt. A.blok 3/7",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 7836",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "measuring",
+        "weighing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qvw5LePYlqEnKaNvoBoc3_41.048985_28.910837@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067703,
+    "wof:geomhash":"20989ad59f83b280b06518fd5b2582e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108647245
+        }
+    ],
+    "wof:id":1108647245,
+    "wof:lastmodified":1474067703,
+    "wof:name":"Sem Ltd.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "weighing"
+    ]
+},
+  "bbox": [
+    28.9108371735,
+    41.0489845276,
+    28.9108371735,
+    41.0489845276
+],
+  "geometry": {"coordinates":[28.9108371735,41.0489845276],"type":"Point"}
+}

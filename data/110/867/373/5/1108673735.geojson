@@ -1,0 +1,74 @@
+{
+  "id": 1108673735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0834751129,41.0261154175,29.0834751129,41.0261154175",
+    "geom:latitude":41.026115,
+    "geom:longitude":29.083475,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdag Cad Yanyol Sk. No:10 Kisikli",
+    "sg:city":"?sk?dar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 461 2880",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y5vstao9KQvgptbjC3EpW_41.026115_29.083475@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068792,
+    "wof:geomhash":"382e5014bf3e0dd3680531173e37eb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108673735
+        }
+    ],
+    "wof:id":1108673735,
+    "wof:lastmodified":1474068792,
+    "wof:name":"Kuzey Kimya San Tic.ltd.sti",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    29.0834751129,
+    41.0261154175,
+    29.0834751129,
+    41.0261154175
+],
+  "geometry": {"coordinates":[29.0834751129,41.0261154175],"type":"Point"}
+}

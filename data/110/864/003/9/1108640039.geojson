@@ -1,0 +1,64 @@
+{
+  "id": 1108640039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.145980835,38.4284286499,27.145980835,38.4284286499",
+    "geom:latitude":38.428429,
+    "geom:longitude":27.145981,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cd. Halk Yasam Is Merk. No:35 D:3 Camiserif",
+    "sg:city":"Sirinyer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 324 238 1213",
+    "sg:postcode":"35140",
+    "sg:province":"I?el",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71AzWotDS2jFMTgPDNx9MT_38.428429_27.145981@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067425,
+    "wof:geomhash":"ae29233a92f33b72843c9a880438e3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108640039
+        }
+    ],
+    "wof:id":1108640039,
+    "wof:lastmodified":1474067425,
+    "wof:name":"Mersin Gazeteci. Cemiyeti",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.145980835,
+    38.4284286499,
+    27.145980835,
+    38.4284286499
+],
+  "geometry": {"coordinates":[27.145980835,38.4284286499],"type":"Point"}
+}

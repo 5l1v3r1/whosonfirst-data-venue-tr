@@ -1,0 +1,71 @@
+{
+  "id": 1108604989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8796482086,40.9912223816,28.8796482086,40.9912223816",
+    "geom:latitude":40.991222,
+    "geom:longitude":28.879648,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K?alti Mevkii",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 4200",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CPkzwI4Hgy41Jhdi5YVwG_40.991222_28.879648@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065845,
+    "wof:geomhash":"aa90ca56f23d0228ca29db2cec21f784",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108604989
+        }
+    ],
+    "wof:id":1108604989,
+    "wof:lastmodified":1474065845,
+    "wof:name":"Ayroteks Konfeksiyon A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8796482086,
+    40.9912223816,
+    28.8796482086,
+    40.9912223816
+],
+  "geometry": {"coordinates":[28.8796482086,40.9912223816],"type":"Point"}
+}

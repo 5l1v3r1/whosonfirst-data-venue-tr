@@ -1,0 +1,71 @@
+{
+  "id": 1108575263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2861309052,40.8588218689,29.2861309052,40.8588218689",
+    "geom:latitude":40.858822,
+    "geom:longitude":29.286131,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guzel Yali Mah. Inonu Cad. No:36",
+    "sg:city":"Tophane",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 392 2916",
+    "sg:postcode":"07400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z9gjP0yi9nPi6a2EIM4AE_40.858822_29.286131@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064672,
+    "wof:geomhash":"c0a618c48aebf87e6f3dd1047b900407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108575263
+        }
+    ],
+    "wof:id":1108575263,
+    "wof:lastmodified":1474064672,
+    "wof:name":"Gemkon A.s.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ]
+},
+  "bbox": [
+    29.2861309052,
+    40.8588218689,
+    29.2861309052,
+    40.8588218689
+],
+  "geometry": {"coordinates":[29.2861309052,40.8588218689],"type":"Point"}
+}

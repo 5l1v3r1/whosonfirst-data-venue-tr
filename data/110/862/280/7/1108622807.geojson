@@ -1,0 +1,73 @@
+{
+  "id": 1108622807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0414905548,40.9897346497,29.0414905548,40.9897346497",
+    "geom:latitude":40.989735,
+    "geom:longitude":29.041491,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fahrettin K. G?ay Cd. No:69",
+    "sg:city":"Altunizade",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 7359",
+    "sg:postcode":"34662",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904173,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PAJ0oRbLsaa4kEpdkXtzp_40.989735_29.041491@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066583,
+    "wof:geomhash":"b4990fb4748b7515c47b4e3211a493bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904173,
+            "region_id":85679237,
+            "venue_id":1108622807
+        }
+    ],
+    "wof:id":1108622807,
+    "wof:lastmodified":1474066583,
+    "wof:name":"D?d Dogal Gaz Isi Sistem. A.s.",
+    "wof:parent_id":85904173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0414905548,
+    40.9897346497,
+    29.0414905548,
+    40.9897346497
+],
+  "geometry": {"coordinates":[29.0414905548,40.9897346497],"type":"Point"}
+}

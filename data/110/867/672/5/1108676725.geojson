@@ -1,0 +1,69 @@
+{
+  "id": 1108676725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8909263611,39.9594802856,32.8909263611,39.9594802856",
+    "geom:latitude":39.95948,
+    "geom:longitude":32.890926,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dizboyu Sok.no:3/b",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 349 0531",
+    "sg:postcode":"06660",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y46czg9fie8OdQiLE9lDM_39.959480_32.890926@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068917,
+    "wof:geomhash":"b85651db43686f34f1048761594f49e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676725
+        }
+    ],
+    "wof:id":1108676725,
+    "wof:lastmodified":1474068917,
+    "wof:name":"Ildes Parke Pazarlama Ve Satis",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8909263611,
+    39.9594802856,
+    32.8909263611,
+    39.9594802856
+],
+  "geometry": {"coordinates":[32.8909263611,39.9594802856],"type":"Point"}
+}

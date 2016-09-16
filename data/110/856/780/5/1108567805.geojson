@@ -1,0 +1,70 @@
+{
+  "id": 1108567805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0033626556,41.0944290161,29.0033626556,41.0944290161",
+    "geom:latitude":41.094429,
+    "geom:longitude":29.003363,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emektar Sk. No:2 4.levent",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 268 3194",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lAMRzZkTvsd2HspxWEEAr_41.094429_29.003363@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064367,
+    "wof:geomhash":"05890addd07848af9cbf2aea580a18b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108567805
+        }
+    ],
+    "wof:id":1108567805,
+    "wof:lastmodified":1474064367,
+    "wof:name":"Hidro As Makina San.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0033626556,
+    41.0944290161,
+    29.0033626556,
+    41.0944290161
+],
+  "geometry": {"coordinates":[29.0033626556,41.0944290161],"type":"Point"}
+}

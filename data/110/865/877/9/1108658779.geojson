@@ -1,0 +1,73 @@
+{
+  "id": 1108658779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0673389435,40.9905891418,29.0673389435,40.9905891418",
+    "geom:latitude":40.990589,
+    "geom:longitude":29.067339,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Erol Kaya",
+    "sg:city":"Burhaniye",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 483 2000",
+    "sg:postcode":"01960",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TQfSkhElOz8ltvRoUxhPj_40.990589_29.067339@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068206,
+    "wof:geomhash":"b1b1546dc6ce63eea76d600422b6ab45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108658779
+        }
+    ],
+    "wof:id":1108658779,
+    "wof:lastmodified":1474068206,
+    "wof:name":"Pendik Belediye Baskani",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0673389435,
+    40.9905891418,
+    29.0673389435,
+    40.9905891418
+],
+  "geometry": {"coordinates":[29.0673389435,40.9905891418],"type":"Point"}
+}

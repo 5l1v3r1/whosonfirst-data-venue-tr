@@ -1,0 +1,71 @@
+{
+  "id": 1108668151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8589782715,39.9091072083,32.8589782715,39.9091072083",
+    "geom:latitude":39.909107,
+    "geom:longitude":32.858978,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bestekar Sk. No:44/7 Kavaklidere",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 4756",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_671SY9aH7PiPprEyYYYVGR_39.909107_32.858978@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068566,
+    "wof:geomhash":"09fc2d94dc78475d4719f48b7022ab3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108668151
+        }
+    ],
+    "wof:id":1108668151,
+    "wof:lastmodified":1474068566,
+    "wof:name":"G?ktug Elektrik Yayincilik San. Tic. A.s.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    32.8589782715,
+    39.9091072083,
+    32.8589782715,
+    39.9091072083
+],
+  "geometry": {"coordinates":[32.8589782715,39.9091072083],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108604539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2166061401,38.4490852356,27.2166061401,38.4490852356",
+    "geom:latitude":38.449085,
+    "geom:longitude":27.216606,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Dirik Mah. 393.sok. No: 1/6",
+    "sg:city":"Aliaga",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 617 1251",
+    "sg:postcode":"35800",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZJWi62mv6V6j3BELWlQCD_38.449085_27.216606@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065820,
+    "wof:geomhash":"eb380f66ba9fea9f2b32cae9c1b7809f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108604539
+        }
+    ],
+    "wof:id":1108604539,
+    "wof:lastmodified":1474065820,
+    "wof:name":"Korfez San.ve Tic.ltd.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    27.2166061401,
+    38.4490852356,
+    27.2166061401,
+    38.4490852356
+],
+  "geometry": {"coordinates":[27.2166061401,38.4490852356],"type":"Point"}
+}

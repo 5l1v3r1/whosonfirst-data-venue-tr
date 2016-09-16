@@ -1,0 +1,74 @@
+{
+  "id": 1108673723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0452651978,41.1170196533,29.0452651978,41.1170196533",
+    "geom:latitude":41.11702,
+    "geom:longitude":29.045265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tahtakale Cad. No:20-22 Preuvayans Han Kat:3 No:333 34460",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 2996",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H7mt3glvsOzF1sYWSxA3n_41.117020_29.045265@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068791,
+    "wof:geomhash":"af4c59c1ac4dd4632b48a45d1c50bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108673723
+        }
+    ],
+    "wof:id":1108673723,
+    "wof:lastmodified":1474068791,
+    "wof:name":"Izmir Kimevi Mad.ith.ihr.san.tic. A.s.",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    29.0452651978,
+    41.1170196533,
+    29.0452651978,
+    41.1170196533
+],
+  "geometry": {"coordinates":[29.0452651978,41.1170196533],"type":"Point"}
+}

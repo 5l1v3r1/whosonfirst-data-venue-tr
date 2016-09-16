@@ -1,0 +1,71 @@
+{
+  "id": 1108671843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8430404663,39.927280426,32.8430404663,39.927280426",
+    "geom:latitude":39.92728,
+    "geom:longitude":32.84304,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Suleyman Bey Sok. 7/1 Maltepe",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312",
+    "sg:postcode":"46000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37T5hRkoad4LExgMm1ngW7_39.927280_32.843040@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068712,
+    "wof:geomhash":"fbfed6c9a44564cd6be7d9e99fcc4058",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108671843
+        }
+    ],
+    "wof:id":1108671843,
+    "wof:lastmodified":1474068712,
+    "wof:name":"Maya Muhendislik",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    32.8430404663,
+    39.927280426,
+    32.8430404663,
+    39.927280426
+],
+  "geometry": {"coordinates":[32.8430404663,39.927280426],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108582487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.99127388,41.0709571838,28.99127388,41.0709571838",
+    "geom:latitude":41.070957,
+    "geom:longitude":28.991274,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cad.dr.sevket Bey Sok.no.2 K.1 D.2",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 8589",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TAbi0QDr3pRdBZesR8KXM_41.070957_28.991274@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065073,
+    "wof:geomhash":"f6dca9dbf8fdd155f625f238e6b0f039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108582487
+        }
+    ],
+    "wof:id":1108582487,
+    "wof:lastmodified":1474065073,
+    "wof:name":"A.vip English",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    28.99127388,
+    41.0709571838,
+    28.99127388,
+    41.0709571838
+],
+  "geometry": {"coordinates":[28.99127388,41.0709571838],"type":"Point"}
+}

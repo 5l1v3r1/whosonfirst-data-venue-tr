@@ -1,0 +1,64 @@
+{
+  "id": 1108648065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3250198364,36.9854202271,35.3250198364,36.9854202271",
+    "geom:latitude":36.98542,
+    "geom:longitude":35.32502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"In??cad. Ozekici Ish. K:3",
+    "sg:city":"Kozyatagi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 351 8939",
+    "sg:postcode":"81090",
+    "sg:province":"Adana",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_310V5PMxtUQduL7nygsFT8_36.985420_35.325020@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067745,
+    "wof:geomhash":"ed6f0322023b157fe4e81754f2fcd080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108648065
+        }
+    ],
+    "wof:id":1108648065,
+    "wof:lastmodified":1474067745,
+    "wof:name":"Bilim Medikal",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3250198364,
+    36.9854202271,
+    35.3250198364,
+    36.9854202271
+],
+  "geometry": {"coordinates":[35.3250198364,36.9854202271],"type":"Point"}
+}

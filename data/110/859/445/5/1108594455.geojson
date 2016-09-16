@@ -1,0 +1,71 @@
+{
+  "id": 1108594455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.868221283,39.9534797668,32.868221283,39.9534797668",
+    "geom:latitude":39.95348,
+    "geom:longitude":32.868221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strazburg Cad 21/18 Sihhiye",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 9766",
+    "sg:postcode":"06570",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904077,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kHKYscMV3FQR98LVQQDf6_39.953480_32.868221@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065401,
+    "wof:geomhash":"e740ba69242620ab0f84452df9faff47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":1108594455
+        }
+    ],
+    "wof:id":1108594455,
+    "wof:lastmodified":1474065401,
+    "wof:name":"Meday Medikal Ltd.sti.",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.868221283,
+    39.9534797668,
+    32.868221283,
+    39.9534797668
+],
+  "geometry": {"coordinates":[32.868221283,39.9534797668],"type":"Point"}
+}

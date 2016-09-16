@@ -1,0 +1,69 @@
+{
+  "id": 1108610267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8569717407,39.8850288391,32.8569717407,39.8850288391",
+    "geom:latitude":39.885029,
+    "geom:longitude":32.856972,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdullah C. Sk. No:12",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 238 1133",
+    "sg:postcode":"07080",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ZKJWPyaDXtbKKkc7qExx_39.885029_32.856972@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066087,
+    "wof:geomhash":"4bd50dbd81a56a38e2cb2b37f399f1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108610267
+        }
+    ],
+    "wof:id":1108610267,
+    "wof:lastmodified":1474066087,
+    "wof:name":"Lamelta",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    32.8569717407,
+    39.8850288391,
+    32.8569717407,
+    39.8850288391
+],
+  "geometry": {"coordinates":[32.8569717407,39.8850288391],"type":"Point"}
+}

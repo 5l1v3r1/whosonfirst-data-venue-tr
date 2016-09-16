@@ -1,0 +1,68 @@
+{
+  "id": 1108678753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0118026733,41.0541763306,29.0118026733,41.0541763306",
+    "geom:latitude":41.054176,
+    "geom:longitude":29.011803,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Otello Kamil Sk. Billur Apt. No.5/3",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 216 1896",
+    "sg:postcode":"34349",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2extEzbx9ICKGRECcsNxLw_41.054176_29.011803@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068997,
+    "wof:geomhash":"f7ff2bfbca61d2e222e6c9dad44d61a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108678753
+        }
+    ],
+    "wof:id":1108678753,
+    "wof:lastmodified":1474068997,
+    "wof:name":"Metsan Sirketler Grubu",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0118026733,
+    41.0541763306,
+    29.0118026733,
+    41.0541763306
+],
+  "geometry": {"coordinates":[29.0118026733,41.0541763306],"type":"Point"}
+}

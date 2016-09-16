@@ -1,0 +1,77 @@
+{
+  "id": 1108655283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0345897675,40.9952774048,29.0345897675,40.9952774048",
+    "geom:latitude":40.995277,
+    "geom:longitude":29.03459,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cd. No:115/8 Kadik?",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 1710",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8DanP7MVb35b4RrO8WRV_40.995277_29.034590@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068070,
+    "wof:geomhash":"8bc2e61ef3a6611d02d8e0d46d3f43ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108655283
+        }
+    ],
+    "wof:id":1108655283,
+    "wof:lastmodified":1474068070,
+    "wof:name":"Etiler Madencilik San. Tic. A.s.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.0345897675,
+    40.9952774048,
+    29.0345897675,
+    40.9952774048
+],
+  "geometry": {"coordinates":[29.0345897675,40.9952774048],"type":"Point"}
+}

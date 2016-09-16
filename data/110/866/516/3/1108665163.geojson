@@ -1,0 +1,73 @@
+{
+  "id": 1108665163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9972324371,41.070892334,28.9972324371,41.070892334",
+    "geom:latitude":41.070892,
+    "geom:longitude":28.997232,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mecidiye Cd. Kir?l Sk. No:2/a",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 212 3716",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36rsMoSLZhmXErpzeTc3ik_41.070892_28.997232@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068449,
+    "wof:geomhash":"c95fe00faeb9746129cf13892c7d8930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108665163
+        }
+    ],
+    "wof:id":1108665163,
+    "wof:lastmodified":1474068449,
+    "wof:name":"Konuk Dagitim Ltd. Sti.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    28.9972324371,
+    41.070892334,
+    28.9972324371,
+    41.070892334
+],
+  "geometry": {"coordinates":[28.9972324371,41.070892334],"type":"Point"}
+}

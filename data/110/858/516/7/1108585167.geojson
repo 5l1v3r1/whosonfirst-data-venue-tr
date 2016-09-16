@@ -1,0 +1,69 @@
+{
+  "id": 1108585167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.327419281,36.9982872009,35.327419281,36.9982872009",
+    "geom:latitude":36.998287,
+    "geom:longitude":35.327419,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gazipasa Bul. 7 Sk. Toros Cad. Ergin Apt. Zemin Kat",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 459 2227",
+    "sg:postcode":"01120",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930275,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u2EXpW0oVhI0RwE8eBVf8_36.998287_35.327419@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065135,
+    "wof:geomhash":"a7294f551e449929a45c282332bc998d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930275,
+            "region_id":85679443,
+            "venue_id":1108585167
+        }
+    ],
+    "wof:id":1108585167,
+    "wof:lastmodified":1474065135,
+    "wof:name":"Ada Reklam Tasarim",
+    "wof:parent_id":85930275,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    35.327419281,
+    36.9982872009,
+    35.327419281,
+    36.9982872009
+],
+  "geometry": {"coordinates":[35.327419281,36.9982872009],"type":"Point"}
+}

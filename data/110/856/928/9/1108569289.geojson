@@ -1,0 +1,71 @@
+{
+  "id": 1108569289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.165391922,38.4261665344,27.165391922,38.4261665344",
+    "geom:latitude":38.426167,
+    "geom:longitude":27.165392,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1145/5 Sokak No:21/1 Yenisehir",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 233 0305",
+    "sg:postcode":"34670",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYOieixhyOKG3230ydGiH_38.426167_27.165392@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064426,
+    "wof:geomhash":"d1cf08798032c4f66415b71c24e53b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108569289
+        }
+    ],
+    "wof:id":1108569289,
+    "wof:lastmodified":1474064426,
+    "wof:name":"S?rekli Makina Elektrik Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.165391922,
+    38.4261665344,
+    27.165391922,
+    38.4261665344
+],
+  "geometry": {"coordinates":[27.165391922,38.4261665344],"type":"Point"}
+}

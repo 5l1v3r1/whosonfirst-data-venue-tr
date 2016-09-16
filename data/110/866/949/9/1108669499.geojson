@@ -1,0 +1,73 @@
+{
+  "id": 1108669499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9837856293,41.0628700256,28.9837856293,41.0628700256",
+    "geom:latitude":41.06287,
+    "geom:longitude":28.983786,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Siracevizler Cad. No:124 Sisli",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 6649",
+    "sg:postcode":"35040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p4shKw6YOMJMjniuZhnGh_41.062870_28.983786@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068627,
+    "wof:geomhash":"c331616f963a22409f896ea8cadd1931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108669499
+        }
+    ],
+    "wof:id":1108669499,
+    "wof:lastmodified":1474068627,
+    "wof:name":"Extreme Decoration Company",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    28.9837856293,
+    41.0628700256,
+    28.9837856293,
+    41.0628700256
+],
+  "geometry": {"coordinates":[28.9837856293,41.0628700256],"type":"Point"}
+}

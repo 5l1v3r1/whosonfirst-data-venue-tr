@@ -1,0 +1,71 @@
+{
+  "id": 1108652547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9691791534,41.012336731,28.9691791534,41.012336731",
+    "geom:latitude":41.012337,
+    "geom:longitude":28.969179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmakcilar Sok. Tarakcilar Cad. No:15/1",
+    "sg:city":"Mercan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 7604",
+    "sg:postcode":"12600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6te1d65LST5T4FQ7bHM4oJ_41.012337_28.969179@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067962,
+    "wof:geomhash":"d7a03d688b1e684e3a6890bfd6247ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108652547
+        }
+    ],
+    "wof:id":1108652547,
+    "wof:lastmodified":1474067962,
+    "wof:name":"Kmn Spor Giyim",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9691791534,
+    41.012336731,
+    28.9691791534,
+    41.012336731
+],
+  "geometry": {"coordinates":[28.9691791534,41.012336731],"type":"Point"}
+}

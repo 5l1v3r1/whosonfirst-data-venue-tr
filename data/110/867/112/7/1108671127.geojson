@@ -1,0 +1,73 @@
+{
+  "id": 1108671127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9922714233,41.0600814819,28.9922714233,41.0600814819",
+    "geom:latitude":41.060081,
+    "geom:longitude":28.992271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Al Karanfil Sok. No:4 Levent",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 9898",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L2BKMAz0bBexBNB7lBDpn_41.060081_28.992271@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068687,
+    "wof:geomhash":"34ea999460d9cb34e67fe90a6e49ac18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108671127
+        }
+    ],
+    "wof:id":1108671127,
+    "wof:lastmodified":1474068687,
+    "wof:name":"Infotrace A.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9922714233,
+    41.0600814819,
+    28.9922714233,
+    41.0600814819
+],
+  "geometry": {"coordinates":[28.9922714233,41.0600814819],"type":"Point"}
+}

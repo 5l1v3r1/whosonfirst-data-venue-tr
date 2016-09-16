@@ -1,0 +1,73 @@
+{
+  "id": 1108670915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.030626297,41.0498008728,29.030626297,41.0498008728",
+    "geom:latitude":41.049801,
+    "geom:longitude":29.030626,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muallim Naci C. 113 Ortakoy",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 5200",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5boxUx7poKReeSwe6MSAmp_41.049801_29.030626@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068678,
+    "wof:geomhash":"c010045256aaebfe53d0fb7a0f336aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":1108670915
+        }
+    ],
+    "wof:id":1108670915,
+    "wof:lastmodified":1474068678,
+    "wof:name":"Alarko Gayrimenkul Yatirim Ortakligi A.s.",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.030626297,
+    41.0498008728,
+    29.030626297,
+    41.0498008728
+],
+  "geometry": {"coordinates":[29.030626297,41.0498008728],"type":"Point"}
+}

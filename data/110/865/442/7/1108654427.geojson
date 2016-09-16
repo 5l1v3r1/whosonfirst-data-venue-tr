@@ -1,0 +1,71 @@
+{
+  "id": 1108654427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8456993103,39.9435844421,32.8456993103,39.9435844421",
+    "geom:latitude":39.943584,
+    "geom:longitude":32.845699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul C.",
+    "sg:city":"Iskitler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 341 5999",
+    "sg:postcode":"06070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929577,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J8XwDYhr5DQsn0aRGoadx_39.943584_32.845699@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068040,
+    "wof:geomhash":"234a3a6885e81ae427d480903cc6b2da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108654427
+        }
+    ],
+    "wof:id":1108654427,
+    "wof:lastmodified":1474068040,
+    "wof:name":"Alemdag Past?rize Tereyagi Fab.",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    32.8456993103,
+    39.9435844421,
+    32.8456993103,
+    39.9435844421
+],
+  "geometry": {"coordinates":[32.8456993103,39.9435844421],"type":"Point"}
+}

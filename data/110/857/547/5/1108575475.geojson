@@ -1,0 +1,73 @@
+{
+  "id": 1108575475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0076522827,41.0481987,29.0076522827,41.0481987",
+    "geom:latitude":41.048199,
+    "geom:longitude":29.007652,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bul.akdogan Sk.11-13",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212259740649",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MFbcaa6FFs5j5B6I5V6JI_41.048199_29.007652@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064680,
+    "wof:geomhash":"36514a5f771d523635f8a99f8c003f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108575475
+        }
+    ],
+    "wof:id":1108575475,
+    "wof:lastmodified":1474064680,
+    "wof:name":"Bodro Yat?tur.a.s.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.0076522827,
+    41.0481987,
+    29.0076522827,
+    41.0481987
+],
+  "geometry": {"coordinates":[29.0076522827,41.0481987],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108654823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0366744995,41.0811157227,29.0366744995,41.0811157227",
+    "geom:latitude":41.081116,
+    "geom:longitude":29.036674,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cd. ?amlik Yolu No:3/1",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 265 5018",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2crcg7ncodgGwjOd9hSVfV_41.081116_29.036674@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068053,
+    "wof:geomhash":"9138b3fc01994c885bc5ef81d4967450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108654823
+        }
+    ],
+    "wof:id":1108654823,
+    "wof:lastmodified":1474068053,
+    "wof:name":"T?rker End?stri Tek. Makina Tic. Ltd. Sti.",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    29.0366744995,
+    41.0811157227,
+    29.0366744995,
+    41.0811157227
+],
+  "geometry": {"coordinates":[29.0366744995,41.0811157227],"type":"Point"}
+}

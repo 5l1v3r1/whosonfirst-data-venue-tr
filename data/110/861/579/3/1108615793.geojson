@@ -1,0 +1,71 @@
+{
+  "id": 1108615793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7092056274,36.8790512085,30.7092056274,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.709206,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"San. Sit. 703. Sk. No:33",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 345 1905",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GwGX6aTs7NaWUq9SCw2Hv_36.879051_30.709206@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066300,
+    "wof:geomhash":"de6e658ab3247c1a4422ee844fae3cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108615793
+        }
+    ],
+    "wof:id":1108615793,
+    "wof:lastmodified":1474066300,
+    "wof:name":"Namli Tic.",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    30.7092056274,
+    36.8790512085,
+    30.7092056274,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7092056274,36.8790512085],"type":"Point"}
+}

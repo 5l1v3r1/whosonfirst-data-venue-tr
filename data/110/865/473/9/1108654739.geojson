@@ -1,0 +1,71 @@
+{
+  "id": 1108654739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9359397888,41.0651893616,28.9359397888,41.0651893616",
+    "geom:latitude":41.065189,
+    "geom:longitude":28.93594,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sogutlu",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 264 681 2236",
+    "sg:postcode":"54000",
+    "sg:province":"Sakarya",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930157,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01QXYxQJuLsAQJEIbhbAFr_41.065189_28.935940@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068050,
+    "wof:geomhash":"e56c45ef20e7a88d51712e6e621e5025",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930157,
+            "region_id":85679237,
+            "venue_id":1108654739
+        }
+    ],
+    "wof:id":1108654739,
+    "wof:lastmodified":1474068050,
+    "wof:name":"Reka Sut Urunleri Sanayi",
+    "wof:parent_id":85930157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    28.9359397888,
+    41.0651893616,
+    28.9359397888,
+    41.0651893616
+],
+  "geometry": {"coordinates":[28.9359397888,41.0651893616],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108673593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.951215744,41.0164985657,28.951215744,41.0164985657",
+    "geom:latitude":41.016499,
+    "geom:longitude":28.951216,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kiztasi Cd. No:43",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 525 8972",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BQwJ1wqUP5B5cL9LIUqD5_41.016499_28.951216@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068787,
+    "wof:geomhash":"ecc2a949079fbd858db03f380c9fa20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108673593
+        }
+    ],
+    "wof:id":1108673593,
+    "wof:lastmodified":1474068787,
+    "wof:name":"?igdem ?i?ek Evi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.951215744,
+    41.0164985657,
+    28.951215744,
+    41.0164985657
+],
+  "geometry": {"coordinates":[28.951215744,41.0164985657],"type":"Point"}
+}

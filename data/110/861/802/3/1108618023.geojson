@@ -1,0 +1,63 @@
+{
+  "id": 1108618023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.7574424744,39.859210968,32.7574424744,39.859210968",
+    "geom:latitude":39.859211,
+    "geom:longitude":32.757442,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bilkent 1 Cadde Bilkent",
+    "sg:city":"Bodrum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 266 4686",
+    "sg:postcode":"48400",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929671,
+        102191569,
+        85632393,
+        101912785,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hLNgUiIL60rrqpd2VgoZF_39.859211_32.757442@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066392,
+    "wof:geomhash":"a94d8ef43615c9d1122f1ecd17d8b1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912785,
+            "neighbourhood_id":85929671,
+            "region_id":85679409,
+            "venue_id":1108618023
+        }
+    ],
+    "wof:id":1108618023,
+    "wof:lastmodified":1474066392,
+    "wof:name":"Hotel Bilkent Ankara",
+    "wof:parent_id":85929671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7574424744,
+    39.859210968,
+    32.7574424744,
+    39.859210968
+],
+  "geometry": {"coordinates":[32.7574424744,39.859210968],"type":"Point"}
+}

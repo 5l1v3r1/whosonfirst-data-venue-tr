@@ -1,0 +1,75 @@
+{
+  "id": 1108600997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6873188019,36.9143295288,30.6873188019,36.9143295288",
+    "geom:latitude":36.91433,
+    "geom:longitude":30.687319,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Pasa Cd. No.109",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 3687",
+    "sg:postcode":"31750",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930107,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bl2kDDC3a3hbRtoJCUNg0_36.914330_30.687319@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065681,
+    "wof:geomhash":"4e501f9aba6f017f37be69a84e740905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930107,
+            "region_id":85679263,
+            "venue_id":1108600997
+        }
+    ],
+    "wof:id":1108600997,
+    "wof:lastmodified":1474065681,
+    "wof:name":"Mutlular Tarim Ltd.sti.",
+    "wof:parent_id":85930107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    30.6873188019,
+    36.9143295288,
+    30.6873188019,
+    36.9143295288
+],
+  "geometry": {"coordinates":[30.6873188019,36.9143295288],"type":"Point"}
+}

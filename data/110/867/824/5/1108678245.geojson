@@ -1,0 +1,71 @@
+{
+  "id": 1108678245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9786930084,41.0042114258,28.9786930084,41.0042114258",
+    "geom:latitude":41.004211,
+    "geom:longitude":28.978693,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Divanyolu Cad. 14 Sultanahmet",
+    "sg:city":"Findikzade-fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 526 1615",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dAt8kPcfaMAWh82dyPaz5_41.004211_28.978693@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068973,
+    "wof:geomhash":"b85c456a0da95c4c7bbca6989c042466",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906491,
+            "region_id":85679237,
+            "venue_id":1108678245
+        }
+    ],
+    "wof:id":1108678245,
+    "wof:lastmodified":1474068973,
+    "wof:name":"T?rk Edebiyati Vakfi",
+    "wof:parent_id":85906491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9786930084,
+    41.0042114258,
+    28.9786930084,
+    41.0042114258
+],
+  "geometry": {"coordinates":[28.9786930084,41.0042114258],"type":"Point"}
+}

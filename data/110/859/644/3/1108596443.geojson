@@ -1,0 +1,71 @@
+{
+  "id": 1108596443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.96068573,41.016784668,28.96068573,41.016784668",
+    "geom:latitude":41.016785,
+    "geom:longitude":28.960686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Divan-i Ali Sokak No:9/a Beyazit",
+    "sg:city":"Gerede",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 516 3430",
+    "sg:postcode":"14900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906513,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JuTe4qzHi9H72PdTrv06x_41.016785_28.960686@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065488,
+    "wof:geomhash":"676ba7ea58f7419cb91886471b0ebf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906513,
+            "region_id":85679237,
+            "venue_id":1108596443
+        }
+    ],
+    "wof:id":1108596443,
+    "wof:lastmodified":1474065488,
+    "wof:name":"Baykallar Deri San. Ve Tic. A.s.",
+    "wof:parent_id":85906513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.96068573,
+    41.016784668,
+    28.96068573,
+    41.016784668
+],
+  "geometry": {"coordinates":[28.96068573,41.016784668],"type":"Point"}
+}

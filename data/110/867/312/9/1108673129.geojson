@@ -1,0 +1,68 @@
+{
+  "id": 1108673129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1727809906,38.3830718994,27.1727809906,38.3830718994",
+    "geom:latitude":38.383072,
+    "geom:longitude":27.172781,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"89.sok. No:39/2",
+    "sg:city":"Faikbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 246 3051",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IvAaGYqrJ407V2fWAelqp_38.383072_27.172781@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068766,
+    "wof:geomhash":"b7df0e1eb4e978871e568d42170b684b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108673129
+        }
+    ],
+    "wof:id":1108673129,
+    "wof:lastmodified":1474068766,
+    "wof:name":"Kardesler Tarim",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    27.1727809906,
+    38.3830718994,
+    27.1727809906,
+    38.3830718994
+],
+  "geometry": {"coordinates":[27.1727809906,38.3830718994],"type":"Point"}
+}

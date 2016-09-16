@@ -1,0 +1,69 @@
+{
+  "id": 1108573909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0578746796,38.3855056763,27.0578746796,38.3855056763",
+    "geom:latitude":38.385506,
+    "geom:longitude":27.057875,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cengiz Topel Sok. No:5/a-",
+    "sg:city":"Balcova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 259 9270",
+    "sg:postcode":"35330",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929631,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vHtYomsrcpRJxInqXxf6m_38.385506_27.057875@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064620,
+    "wof:geomhash":"e1703956b528e8b544d3fd190d694680",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":1108573909
+        }
+    ],
+    "wof:id":1108573909,
+    "wof:lastmodified":1474064620,
+    "wof:name":"Mavis Cam",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    27.0578746796,
+    38.3855056763,
+    27.0578746796,
+    38.3855056763
+],
+  "geometry": {"coordinates":[27.0578746796,38.3855056763],"type":"Point"}
+}

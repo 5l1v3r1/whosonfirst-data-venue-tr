@@ -1,0 +1,75 @@
+{
+  "id": 1108671709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9666919708,41.0404586792,28.9666919708,41.0404586792",
+    "geom:latitude":41.040459,
+    "geom:longitude":28.966692,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"T?el Cd. Kurt Han No:38/1 K:503/504 Karak?",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 5676",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qGhqRbni5GZHA6XKV7UZo_41.040459_28.966692@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068707,
+    "wof:geomhash":"56da8cec67daa4556b85de480fe79994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108671709
+        }
+    ],
+    "wof:id":1108671709,
+    "wof:lastmodified":1474068707,
+    "wof:name":"Alarm Yangin S?nd?rme Cihaz. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    28.9666919708,
+    41.0404586792,
+    28.9666919708,
+    41.0404586792
+],
+  "geometry": {"coordinates":[28.9666919708,41.0404586792],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108598797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0007286072,41.09633255,29.0007286072,41.09633255",
+    "geom:latitude":41.096333,
+    "geom:longitude":29.000729,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulubas Cd. Demirbas Sk. No:20/1",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 6342",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ySNbZ3xjGoOjuKCHCrRso_41.096333_29.000729@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065582,
+    "wof:geomhash":"ce4b75ff1ec1124fe8b1a0d5ecab85d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108598797
+        }
+    ],
+    "wof:id":1108598797,
+    "wof:lastmodified":1474065582,
+    "wof:name":"D-kare Aydinlatma Metal ?r?n. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.0007286072,
+    41.09633255,
+    29.0007286072,
+    41.09633255
+],
+  "geometry": {"coordinates":[29.0007286072,41.09633255],"type":"Point"}
+}

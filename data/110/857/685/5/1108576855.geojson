@@ -1,0 +1,68 @@
+{
+  "id": 1108576855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.916021347,41.033000946,28.916021347,41.033000946",
+    "geom:latitude":41.033001,
+    "geom:longitude":28.916021,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Orta Mah. Dumlupinar Cad. No:7",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 501 5350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_669H0RbTGzUvw0QPIA1bM6_41.033001_28.916021@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064737,
+    "wof:geomhash":"6b7b5ba5e6df82790eef94f69ccc7b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108576855
+        }
+    ],
+    "wof:id":1108576855,
+    "wof:lastmodified":1474064737,
+    "wof:name":"?zen Iplik San. Ve Tic. Koll. Sti.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.916021347,
+    41.033000946,
+    28.916021347,
+    41.033000946
+],
+  "geometry": {"coordinates":[28.916021347,41.033000946],"type":"Point"}
+}

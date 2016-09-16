@@ -1,0 +1,73 @@
+{
+  "id": 1108573313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8402671814,40.995891571,28.8402671814,40.995891571",
+    "geom:latitude":40.995892,
+    "geom:longitude":28.840267,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hurriyet Mah.gunesli Sok. No:2",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 6653",
+    "sg:postcode":"15040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LTMQoN1XYebBAN3bjsEi4_40.995892_28.840267@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064592,
+    "wof:geomhash":"61d842ae99ca1562e8f6249d8ccde531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108573313
+        }
+    ],
+    "wof:id":1108573313,
+    "wof:lastmodified":1474064592,
+    "wof:name":"Acar Cam",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.8402671814,
+    40.995891571,
+    28.8402671814,
+    40.995891571
+],
+  "geometry": {"coordinates":[28.8402671814,40.995891571],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108592051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0103473663,41.067653656,29.0103473663,41.067653656",
+    "geom:latitude":41.067654,
+    "geom:longitude":29.010347,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasap Sok.no:19/15",
+    "sg:city":"Esentepe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 0244",
+    "sg:postcode":"01930",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20jUClNcZT1grvAPrZInNg_41.067654_29.010347@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065312,
+    "wof:geomhash":"1177ff86c058f936897d929136e0370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108592051
+        }
+    ],
+    "wof:id":1108592051,
+    "wof:lastmodified":1474065312,
+    "wof:name":"Intima Tekstil San.a.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    29.0103473663,
+    41.067653656,
+    29.0103473663,
+    41.067653656
+],
+  "geometry": {"coordinates":[29.0103473663,41.067653656],"type":"Point"}
+}

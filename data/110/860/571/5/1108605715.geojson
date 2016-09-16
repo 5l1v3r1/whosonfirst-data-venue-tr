@@ -1,0 +1,71 @@
+{
+  "id": 1108605715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3137359619,37.0007171631,35.3137359619,37.0007171631",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kuruk?r? ?zler Cad.cumali ?zveren Ish. Kat:3",
+    "sg:city":"Sefakoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 359 8632",
+    "sg:postcode":"42000",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MhT2QG51zUFmMDzfcfYQn_37.000717_35.313736@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065872,
+    "wof:geomhash":"be1dc0b309ae7cabc26bf816a8deeda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108605715
+        }
+    ],
+    "wof:id":1108605715,
+    "wof:lastmodified":1474065872,
+    "wof:name":"Gelincik Moda",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    35.3137359619,
+    37.0007171631,
+    35.3137359619,
+    37.0007171631
+],
+  "geometry": {"coordinates":[35.3137359619,37.0007171631],"type":"Point"}
+}

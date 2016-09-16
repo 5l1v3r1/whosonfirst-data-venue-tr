@@ -1,0 +1,75 @@
+{
+  "id": 1108660553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9912338257,41.0526008606,28.9912338257,41.0526008606",
+    "geom:latitude":41.052601,
+    "geom:longitude":28.991234,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Kesebir Sk. K?r?apt. No:22 Balmumcu",
+    "sg:city":"?skudar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 6381",
+    "sg:postcode":"34000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ePuUc5LhbVhL23SW3hxZO_41.052601_28.991234@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068274,
+    "wof:geomhash":"a6717a2633cd69406ad17b8b51533c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108660553
+        }
+    ],
+    "wof:id":1108660553,
+    "wof:lastmodified":1474068274,
+    "wof:name":"Merk Gida Ambalaj San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9912338257,
+    41.0526008606,
+    28.9912338257,
+    41.0526008606
+],
+  "geometry": {"coordinates":[28.9912338257,41.0526008606],"type":"Point"}
+}

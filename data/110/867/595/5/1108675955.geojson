@@ -1,0 +1,72 @@
+{
+  "id": 1108675955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0300598145,41.0677833557,29.0300598145,41.0677833557",
+    "geom:latitude":41.067783,
+    "geom:longitude":29.03006,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulus Mahallesi, Adnan Saygun Cad. No: 44 2. Levent",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 0478",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929441,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a6rmpNRWyQ8spcEKtaYSL_41.067783_29.030060@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068890,
+    "wof:geomhash":"99698d19984876104cde2d053137d22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929441,
+            "region_id":85679237,
+            "venue_id":1108675955
+        }
+    ],
+    "wof:id":1108675955,
+    "wof:lastmodified":1474068890,
+    "wof:name":"Bulgaristan",
+    "wof:parent_id":85929441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    29.0300598145,
+    41.0677833557,
+    29.0300598145,
+    41.0677833557
+],
+  "geometry": {"coordinates":[29.0300598145,41.0677833557],"type":"Point"}
+}

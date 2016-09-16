@@ -1,0 +1,71 @@
+{
+  "id": 1108588535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9053573608,41.0347824097,28.9053573608,41.0347824097",
+    "geom:latitude":41.034782,
+    "geom:longitude":28.905357,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vatan Mah. Tel Sk. No:6",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 0100",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tDWjELrIv4RckMcYtaFC4_41.034782_28.905357@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065216,
+    "wof:geomhash":"5d7de3cb41a6ee332278ed7346caf10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108588535
+        }
+    ],
+    "wof:id":1108588535,
+    "wof:lastmodified":1474065216,
+    "wof:name":"Julien Collection",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9053573608,
+    41.0347824097,
+    28.9053573608,
+    41.0347824097
+],
+  "geometry": {"coordinates":[28.9053573608,41.0347824097],"type":"Point"}
+}

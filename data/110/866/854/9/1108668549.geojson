@@ -1,0 +1,75 @@
+{
+  "id": 1108668549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0072116852,41.0483131409,29.0072116852,41.0483131409",
+    "geom:latitude":41.048313,
+    "geom:longitude":29.007212,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari H?n?savman Sk. No.40/8 Besiktas",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 0353",
+    "sg:postcode":"06570",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UmpSwPeejq1739R5JGH17_41.048313_29.007212@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068589,
+    "wof:geomhash":"e67365ff1b4d264b1f8ff073e0d602c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108668549
+        }
+    ],
+    "wof:id":1108668549,
+    "wof:lastmodified":1474068589,
+    "wof:name":"Aripa Pompa Dis Tic.ltd.sti.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    29.0072116852,
+    41.0483131409,
+    29.0072116852,
+    41.0483131409
+],
+  "geometry": {"coordinates":[29.0072116852,41.0483131409],"type":"Point"}
+}

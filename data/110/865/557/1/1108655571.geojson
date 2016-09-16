@@ -1,0 +1,71 @@
+{
+  "id": 1108655571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8581008911,39.8859901428,32.8581008911,39.8859901428",
+    "geom:latitude":39.88599,
+    "geom:longitude":32.858101,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdullah Cevdet Sok. 24/3 Cankaya",
+    "sg:city":"Orhangazi",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 8359",
+    "sg:postcode":"16800",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NHr1C7TpDGqU6dk8HmWrO_39.885990_32.858101@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068082,
+    "wof:geomhash":"53a4f9770854c385d9a18115acfe9bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108655571
+        }
+    ],
+    "wof:id":1108655571,
+    "wof:lastmodified":1474068082,
+    "wof:name":"Panel A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8581008911,
+    39.8859901428,
+    32.8581008911,
+    39.8859901428
+],
+  "geometry": {"coordinates":[32.8581008911,39.8859901428],"type":"Point"}
+}

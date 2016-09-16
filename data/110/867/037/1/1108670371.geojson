@@ -1,0 +1,75 @@
+{
+  "id": 1108670371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9778709412,41.0382881165,28.9778709412,41.0382881165",
+    "geom:latitude":41.038288,
+    "geom:longitude":28.977871,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Macka Cad. No:1 Feza Apt. D:4",
+    "sg:city":"Macka",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 234 1078",
+    "sg:postcode":"61750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906561,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0leOBdudzfXPQzTBCHZXfO_41.038288_28.977871@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068656,
+    "wof:geomhash":"bebd107764aade798c18d9dee420114a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906561,
+            "region_id":85679237,
+            "venue_id":1108670371
+        }
+    ],
+    "wof:id":1108670371,
+    "wof:lastmodified":1474068656,
+    "wof:name":"Eko Tarim A.s (ekolojik Tarim)",
+    "wof:parent_id":85906561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    28.9778709412,
+    41.0382881165,
+    28.9778709412,
+    41.0382881165
+],
+  "geometry": {"coordinates":[28.9778709412,41.0382881165],"type":"Point"}
+}

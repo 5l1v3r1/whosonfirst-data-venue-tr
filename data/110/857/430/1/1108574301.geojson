@@ -1,0 +1,69 @@
+{
+  "id": 1108574301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8987693787,39.96326828,32.8987693787,39.96326828",
+    "geom:latitude":39.963268,
+    "geom:longitude":32.898769,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalim Sok. No: 19 Siteler",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 2525",
+    "sg:postcode":"07010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4olIBpHLSRt5foreSecfa9_39.963268_32.898769@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064635,
+    "wof:geomhash":"62b62bf3b77a3d275a002b2e5eebcb52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108574301
+        }
+    ],
+    "wof:id":1108574301,
+    "wof:lastmodified":1474064635,
+    "wof:name":"Baskent Bombe Cam San.tic. Ltd. Sti.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    32.8987693787,
+    39.96326828,
+    32.8987693787,
+    39.96326828
+],
+  "geometry": {"coordinates":[32.8987693787,39.96326828],"type":"Point"}
+}

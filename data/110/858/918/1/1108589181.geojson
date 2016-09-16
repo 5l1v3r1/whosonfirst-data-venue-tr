@@ -1,0 +1,71 @@
+{
+  "id": 1108589181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0979881287,38.4591522217,27.0979881287,38.4591522217",
+    "geom:latitude":38.459152,
+    "geom:longitude":27.097988,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1735 Sok. No:198/a",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 369 3851",
+    "sg:postcode":"35600",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34PBVBm51nhdGIQF2Cx8MQ_38.459152_27.097988@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065231,
+    "wof:geomhash":"a4e96eae4295f53a2e27dba60791da3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108589181
+        }
+    ],
+    "wof:id":1108589181,
+    "wof:lastmodified":1474065231,
+    "wof:name":"A.n.k. Tekstil",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    27.0979881287,
+    38.4591522217,
+    27.0979881287,
+    38.4591522217
+],
+  "geometry": {"coordinates":[27.0979881287,38.4591522217],"type":"Point"}
+}

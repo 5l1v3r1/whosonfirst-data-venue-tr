@@ -1,0 +1,75 @@
+{
+  "id": 1108602475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0836601257,41.0742645264,29.0836601257,41.0742645264",
+    "geom:latitude":41.074265,
+    "geom:longitude":29.08366,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bent Yolu No:81",
+    "sg:city":"Anadoluhisari",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 332 2203",
+    "sg:postcode":"34810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pzanKu7BEQQ41PC0YRbfW_41.074265_29.083660@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065734,
+    "wof:geomhash":"b3bc03cde9ff5dad7293b9a2aa874eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108602475
+        }
+    ],
+    "wof:id":1108602475,
+    "wof:lastmodified":1474065734,
+    "wof:name":"Rapas Isi San.",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0836601257,
+    41.0742645264,
+    29.0836601257,
+    41.0742645264
+],
+  "geometry": {"coordinates":[29.0836601257,41.0742645264],"type":"Point"}
+}

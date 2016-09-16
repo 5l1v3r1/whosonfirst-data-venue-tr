@@ -1,0 +1,71 @@
+{
+  "id": 1108630481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9403553009,41.034740448,28.9403553009,41.034740448",
+    "geom:latitude":41.03474,
+    "geom:longitude":28.940355,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sishane",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 2132",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906461,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rcehEejDpjmGrvRGM94jN_41.034740_28.940355@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067042,
+    "wof:geomhash":"d8b1a9c7ecb804fd5af319507ede1461",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906461,
+            "region_id":85679237,
+            "venue_id":1108630481
+        }
+    ],
+    "wof:id":1108630481,
+    "wof:lastmodified":1474067042,
+    "wof:name":"Canel Elektrik Ve Elektronik Malzemeleri",
+    "wof:parent_id":85906461,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    28.9403553009,
+    41.034740448,
+    28.9403553009,
+    41.034740448
+],
+  "geometry": {"coordinates":[28.9403553009,41.034740448],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108578671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8950748444,41.0495414734,28.8950748444,41.0495414734",
+    "geom:latitude":41.049541,
+    "geom:longitude":28.895075,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mega Center C 351",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 640 4046",
+    "sg:postcode":"34045",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "olive",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pWQV6qa4BLn2kBmfuYjly_41.049541_28.895075@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064899,
+    "wof:geomhash":"370e4a2a9f23fef54fc4747875898583",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108578671
+        }
+    ],
+    "wof:id":1108578671,
+    "wof:lastmodified":1474064899,
+    "wof:name":"Palet Trade",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "olive",
+        "oil"
+    ]
+},
+  "bbox": [
+    28.8950748444,
+    41.0495414734,
+    28.8950748444,
+    41.0495414734
+],
+  "geometry": {"coordinates":[28.8950748444,41.0495414734],"type":"Point"}
+}

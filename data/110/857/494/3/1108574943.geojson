@@ -1,0 +1,71 @@
+{
+  "id": 1108574943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.6616668701,41.0213851929,28.6616668701,41.0213851929",
+    "geom:latitude":41.021385,
+    "geom:longitude":28.661667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esenyurt",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 620 5479",
+    "sg:postcode":"07100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-",
+        "golg-silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930067,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WNVIhZlXRpkSYba3Pete0_41.021385_28.661667@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064660,
+    "wof:geomhash":"f211c3866cfcefc6635267fa555aeeb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930067,
+            "region_id":85679237,
+            "venue_id":1108574943
+        }
+    ],
+    "wof:id":1108574943,
+    "wof:lastmodified":1474064660,
+    "wof:name":"Isiklar Ins. Kuyumculuk San. Ltd.",
+    "wof:parent_id":85930067,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "golg-silver"
+    ]
+},
+  "bbox": [
+    28.6616668701,
+    41.0213851929,
+    28.6616668701,
+    41.0213851929
+],
+  "geometry": {"coordinates":[28.6616668701,41.0213851929],"type":"Point"}
+}

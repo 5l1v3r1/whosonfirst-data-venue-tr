@@ -1,0 +1,66 @@
+{
+  "id": 1108577753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1478233337,40.9155654907,29.1478233337,40.9155654907",
+    "geom:latitude":40.915565,
+    "geom:longitude":29.147823,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:69 Kartal",
+    "sg:city":"?aglayan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 6176",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n9VnGfKawSNLuMrIRZum2_40.915565_29.147823@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064840,
+    "wof:geomhash":"80d65be5bcf5b15e0fc6f0e1fc5defa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108577753
+        }
+    ],
+    "wof:id":1108577753,
+    "wof:lastmodified":1474064840,
+    "wof:name":"Kursan Buro Mob.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.1478233337,
+    40.9155654907,
+    29.1478233337,
+    40.9155654907
+],
+  "geometry": {"coordinates":[29.1478233337,40.9155654907],"type":"Point"}
+}

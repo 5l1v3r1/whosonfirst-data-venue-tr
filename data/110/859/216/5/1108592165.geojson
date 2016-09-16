@@ -1,0 +1,68 @@
+{
+  "id": 1108592165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8842430115,41.0147247314,28.8842430115,41.0147247314",
+    "geom:latitude":41.014725,
+    "geom:longitude":28.884243,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanarya Cad.kayalar Sk.no:29",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 504 4411",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xzrGXXWKzefvEV6TOlf31_41.014725_28.884243@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065315,
+    "wof:geomhash":"83161b39c9ef4d16ba847a8f19dc8396",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108592165
+        }
+    ],
+    "wof:id":1108592165,
+    "wof:lastmodified":1474065315,
+    "wof:name":"Misa Teks ?rme Kumas A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8842430115,
+    41.0147247314,
+    28.8842430115,
+    41.0147247314
+],
+  "geometry": {"coordinates":[28.8842430115,41.0147247314],"type":"Point"}
+}

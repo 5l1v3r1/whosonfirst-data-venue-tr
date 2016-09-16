@@ -1,0 +1,73 @@
+{
+  "id": 1108672067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9326953888,41.0659713745,28.9326953888,41.0659713745",
+    "geom:latitude":41.065971,
+    "geom:longitude":28.932695,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K??k? Yolu Hamam Sokak No:2 - Gaziosmanpasa",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 417 0000",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930157,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08fpKlyW4MJQa1xG1KekJI_41.065971_28.932695@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068720,
+    "wof:geomhash":"4a71f9400bfffcb0b0b4e80a4ab17b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930157,
+            "region_id":85679237,
+            "venue_id":1108672067
+        }
+    ],
+    "wof:id":1108672067,
+    "wof:lastmodified":1474068720,
+    "wof:name":"Safak Hastanesi",
+    "wof:parent_id":85930157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.9326953888,
+    41.0659713745,
+    28.9326953888,
+    41.0659713745
+],
+  "geometry": {"coordinates":[28.9326953888,41.0659713745],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108661317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0027561188,41.0964813232,29.0027561188,41.0964813232",
+    "geom:latitude":41.096481,
+    "geom:longitude":29.002756,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesilce Mah. Aytekin Sokak No:38 80660 4.levent Istanbul",
+    "sg:city":"Adalar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 3221",
+    "sg:postcode":"81340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cardboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10HPwvI18jcrzZcqICmbeK_41.096481_29.002756@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068301,
+    "wof:geomhash":"c0734c6c6282ab6cf891cad65cc07158",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108661317
+        }
+    ],
+    "wof:id":1108661317,
+    "wof:lastmodified":1474068301,
+    "wof:name":"Mazlum Ambalaj San Ve Dis Tic As",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardboard"
+    ]
+},
+  "bbox": [
+    29.0027561188,
+    41.0964813232,
+    29.0027561188,
+    41.0964813232
+],
+  "geometry": {"coordinates":[29.0027561188,41.0964813232],"type":"Point"}
+}

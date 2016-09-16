@@ -1,0 +1,66 @@
+{
+  "id": 1108650731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9395999908,41.0067405701,28.9395999908,41.0067405701",
+    "geom:latitude":41.006741,
+    "geom:longitude":28.9396,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Mustafapasa Cad. Yokusu Cesme Sk. No:58/1 Cerrahpasa",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 0901",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WFt1e0jJhoow1YyAqoQDl_41.006741_28.939600@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067872,
+    "wof:geomhash":"6e46577786f24314c4563e01b458294b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108650731
+        }
+    ],
+    "wof:id":1108650731,
+    "wof:lastmodified":1474067872,
+    "wof:name":"Anmed Analitik Med. Cih. Paz. Ltd. Sti.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9395999908,
+    41.0067405701,
+    28.9395999908,
+    41.0067405701
+],
+  "geometry": {"coordinates":[28.9395999908,41.0067405701],"type":"Point"}
+}

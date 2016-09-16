@@ -1,0 +1,75 @@
+{
+  "id": 1108655671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5253429413,39.7756843567,30.5253429413,39.7756843567",
+    "geom:latitude":39.775684,
+    "geom:longitude":30.525343,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sivrihisar Cd. 2. Dere Sk. No:2/1",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222",
+    "sg:postcode":"31200",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BfwTNk5SVjraNSBzjP7gv_39.775684_30.525343@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068085,
+    "wof:geomhash":"58ee07e54b8f517ea57158b007f707ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108655671
+        }
+    ],
+    "wof:id":1108655671,
+    "wof:lastmodified":1474068085,
+    "wof:name":"Tavli Madenci. San. Tic. A.s.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    30.5253429413,
+    39.7756843567,
+    30.5253429413,
+    39.7756843567
+],
+  "geometry": {"coordinates":[30.5253429413,39.7756843567],"type":"Point"}
+}

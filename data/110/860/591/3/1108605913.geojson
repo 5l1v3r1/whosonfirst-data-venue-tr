@@ -1,0 +1,71 @@
+{
+  "id": 1108605913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9120159149,40.9999465942,28.9120159149,40.9999465942",
+    "geom:latitude":40.999947,
+    "geom:longitude":28.912016,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Telsiz Mah. 85/6 Sok. No:2",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 415 5403",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tI2V086RP6U30eTwUAAVv_40.999947_28.912016@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065880,
+    "wof:geomhash":"516e4787aa4419d7ac20061f1e5a0e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108605913
+        }
+    ],
+    "wof:id":1108605913,
+    "wof:lastmodified":1474065880,
+    "wof:name":"Hc Tekstil Dis Ticaret Ltd.sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9120159149,
+    40.9999465942,
+    28.9120159149,
+    40.9999465942
+],
+  "geometry": {"coordinates":[28.9120159149,40.9999465942],"type":"Point"}
+}

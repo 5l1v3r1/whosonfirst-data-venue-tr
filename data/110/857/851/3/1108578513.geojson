@@ -1,0 +1,75 @@
+{
+  "id": 1108578513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8979206085,40.9842796326,28.8979206085,40.9842796326",
+    "geom:latitude":40.98428,
+    "geom:longitude":28.897921,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesilyurt Mah.247.sok.no:9",
+    "sg:city":"Nazilli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 313 3070",
+    "sg:postcode":"65600",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "olive",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nPhmUUhkyF7eby9eFbYwD_40.984280_28.897921@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064893,
+    "wof:geomhash":"28fe17a7840a4e18c381a72124e3553c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108578513
+        }
+    ],
+    "wof:id":1108578513,
+    "wof:lastmodified":1474064893,
+    "wof:name":"Basak Gida",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "olive",
+        "oil"
+    ]
+},
+  "bbox": [
+    28.8979206085,
+    40.9842796326,
+    28.8979206085,
+    40.9842796326
+],
+  "geometry": {"coordinates":[28.8979206085,40.9842796326],"type":"Point"}
+}

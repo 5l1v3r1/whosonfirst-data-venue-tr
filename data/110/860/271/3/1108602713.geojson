@@ -1,0 +1,73 @@
+{
+  "id": 1108602713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0978755951,40.9519691467,29.0978755951,40.9519691467",
+    "geom:latitude":40.951969,
+    "geom:longitude":29.097876,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:6/6",
+    "sg:city":"K??yali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 417 4824",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sJ7xEqdKeB7MTeoXiWddL_40.951969_29.097876@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065744,
+    "wof:geomhash":"7cbb1f75c02ac2f9f3c52178e37b5847",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108602713
+        }
+    ],
+    "wof:id":1108602713,
+    "wof:lastmodified":1474065744,
+    "wof:name":"Turn Sog. Gida San.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0978755951,
+    40.9519691467,
+    29.0978755951,
+    40.9519691467
+],
+  "geometry": {"coordinates":[29.0978755951,40.9519691467],"type":"Point"}
+}

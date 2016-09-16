@@ -1,0 +1,68 @@
+{
+  "id": 1108661845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8551979065,39.9175987244,32.8551979065,39.9175987244",
+    "geom:latitude":39.917599,
+    "geom:longitude":32.855198,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. No:28/1 Kizilay",
+    "sg:city":"46000",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 9507",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69buzflAgfT5T0EFJnX0MD_39.917599_32.855198@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068320,
+    "wof:geomhash":"7375c6f5bb3f830de66ffe170306e14d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108661845
+        }
+    ],
+    "wof:id":1108661845,
+    "wof:lastmodified":1474068320,
+    "wof:name":"Pap Kagit?ilik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    32.8551979065,
+    39.9175987244,
+    32.8551979065,
+    39.9175987244
+],
+  "geometry": {"coordinates":[32.8551979065,39.9175987244],"type":"Point"}
+}

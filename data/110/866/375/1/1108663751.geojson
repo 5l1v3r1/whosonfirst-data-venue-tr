@@ -1,0 +1,77 @@
+{
+  "id": 1108663751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.045759201,41.0047683716,29.045759201,41.0047683716",
+    "geom:latitude":41.004768,
+    "geom:longitude":29.045759,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem C. No: 200/b Kadik?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 7272",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OEu1lmkMVxf2tY1aHtLDm_41.004768_29.045759@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068394,
+    "wof:geomhash":"aa5abc1f47d22b6d13809d8027b4a6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108663751
+        }
+    ],
+    "wof:id":1108663751,
+    "wof:lastmodified":1474068394,
+    "wof:name":"Ecem Pen Ins. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.045759201,
+    41.0047683716,
+    29.045759201,
+    41.0047683716
+],
+  "geometry": {"coordinates":[29.045759201,41.0047683716],"type":"Point"}
+}

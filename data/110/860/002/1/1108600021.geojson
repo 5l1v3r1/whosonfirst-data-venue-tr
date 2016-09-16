@@ -1,0 +1,68 @@
+{
+  "id": 1108600021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.099275589,38.4771995544,27.099275589,38.4771995544",
+    "geom:latitude":38.4772,
+    "geom:longitude":27.099276,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anadolu Cad.no:1091",
+    "sg:city":"K.?igli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 329 1185",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jTzIzpjecZi8CZl00WQv9_38.477200_27.099276@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065632,
+    "wof:geomhash":"360ebf80d17a035c210e8c053202591a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108600021
+        }
+    ],
+    "wof:id":1108600021,
+    "wof:lastmodified":1474065632,
+    "wof:name":"Kardesler Damper San.ve Tic. Ltd.sti.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    27.099275589,
+    38.4771995544,
+    27.099275589,
+    38.4771995544
+],
+  "geometry": {"coordinates":[27.099275589,38.4771995544],"type":"Point"}
+}

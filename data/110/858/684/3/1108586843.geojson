@@ -1,0 +1,73 @@
+{
+  "id": 1108586843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0469760895,41.0045051575,29.0469760895,41.0045051575",
+    "geom:latitude":41.004505,
+    "geom:longitude":29.046976,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hukukcular Sitesi 5/23",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 339 9327",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a44IlqNcvhodvEqCAtZrC_41.004505_29.046976@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065178,
+    "wof:geomhash":"5e20d81fbf1ee3ba52c122356ec98227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108586843
+        }
+    ],
+    "wof:id":1108586843,
+    "wof:lastmodified":1474065178,
+    "wof:name":"Nisan Design Activities",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.0469760895,
+    41.0045051575,
+    29.0469760895,
+    41.0045051575
+],
+  "geometry": {"coordinates":[29.0469760895,41.0045051575],"type":"Point"}
+}

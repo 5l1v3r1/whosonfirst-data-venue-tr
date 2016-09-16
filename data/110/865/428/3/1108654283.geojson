@@ -1,0 +1,71 @@
+{
+  "id": 1108654283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.913028717,41.0270690918,28.913028717,41.0270690918",
+    "geom:latitude":41.027069,
+    "geom:longitude":28.913029,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gumussuyu Cad. No:9 Fatih Sehitleri Sokak 34150 Bayrampasa Istanbul",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 9658",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Isj0oC3UR7cWMzuJiyDzJ_41.027069_28.913029@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068035,
+    "wof:geomhash":"3cf731b54a23e89581331828be11c691",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108654283
+        }
+    ],
+    "wof:id":1108654283,
+    "wof:lastmodified":1474068035,
+    "wof:name":"Sipahioglu Profil Boru San",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    28.913028717,
+    41.0270690918,
+    28.913028717,
+    41.0270690918
+],
+  "geometry": {"coordinates":[28.913028717,41.0270690918],"type":"Point"}
+}

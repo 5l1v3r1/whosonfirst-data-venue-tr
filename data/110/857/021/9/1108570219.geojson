@@ -1,0 +1,75 @@
+{
+  "id": 1108570219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0830154419,40.9951858521,29.0830154419,40.9951858521",
+    "geom:latitude":40.995186,
+    "geom:longitude":29.083015,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"F.kerim G?ay Cad. Aydin Sok. No:2 Altunizade",
+    "sg:city":"Yukari Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 1370",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07nwDdM8x8z17d8YricweG_40.995186_29.083015@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064466,
+    "wof:geomhash":"e042991c9a2b08348b8c3f98fbeaecee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108570219
+        }
+    ],
+    "wof:id":1108570219,
+    "wof:lastmodified":1474064466,
+    "wof:name":"??gen Mekanik Taah?t Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0830154419,
+    40.9951858521,
+    29.0830154419,
+    40.9951858521
+],
+  "geometry": {"coordinates":[29.0830154419,40.9951858521],"type":"Point"}
+}

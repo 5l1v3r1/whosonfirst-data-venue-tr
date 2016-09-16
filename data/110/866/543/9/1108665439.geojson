@@ -1,0 +1,69 @@
+{
+  "id": 1108665439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8614730835,39.9079017639,32.8614730835,39.9079017639",
+    "geom:latitude":39.907902,
+    "geom:longitude":32.861473,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"T.hilmi C. No.22",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 8685",
+    "sg:postcode":"01350",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17Z5rviEh6sqlrKpyWVBNM_39.907902_32.861473@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068466,
+    "wof:geomhash":"bde94d5077ce597cbbe29c0cf4fa8c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108665439
+        }
+    ],
+    "wof:id":1108665439,
+    "wof:lastmodified":1474068466,
+    "wof:name":"Ross-breeders K?y-t?r Damizlik Tavuk?uluk A.s.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    32.8614730835,
+    39.9079017639,
+    32.8614730835,
+    39.9079017639
+],
+  "geometry": {"coordinates":[32.8614730835,39.9079017639],"type":"Point"}
+}

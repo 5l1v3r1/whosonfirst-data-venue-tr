@@ -1,0 +1,74 @@
+{
+  "id": 1108598613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9781970978,41.0267601013,28.9781970978,41.0267601013",
+    "geom:latitude":41.02676,
+    "geom:longitude":28.978197,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B. Hendek Cd. No:37",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 294 4535",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w9W9godhBGgX7Ne2NbU0A_41.026760_28.978197@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065570,
+    "wof:geomhash":"9336f8db86f8ed40357f895096668cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":1108598613
+        }
+    ],
+    "wof:id":1108598613,
+    "wof:lastmodified":1474065570,
+    "wof:name":"Aki Aydinlatma ?r?n. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9781970978,
+    41.0267601013,
+    28.9781970978,
+    41.0267601013
+],
+  "geometry": {"coordinates":[28.9781970978,41.0267601013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108668297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9068069458,41.00440979,28.9068069458,41.00440979",
+    "geom:latitude":41.00441,
+    "geom:longitude":28.906807,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyit Nizam Cad. G-13 Sok.no:1/1 Zeytinburnu",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 415 0546",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46hhETWqpFKY2ks9C1Kgk3_41.004410_28.906807@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068580,
+    "wof:geomhash":"179aa1cb839e577c2ce74ddca69433dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108668297
+        }
+    ],
+    "wof:id":1108668297,
+    "wof:lastmodified":1474068580,
+    "wof:name":"Net Baski Urunleri Pazarlama A.s.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.9068069458,
+    41.00440979,
+    28.9068069458,
+    41.00440979
+],
+  "geometry": {"coordinates":[28.9068069458,41.00440979],"type":"Point"}
+}

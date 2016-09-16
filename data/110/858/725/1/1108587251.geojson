@@ -1,0 +1,68 @@
+{
+  "id": 1108587251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7825622559,41.0694503784,28.7825622559,41.0694503784",
+    "geom:latitude":41.06945,
+    "geom:longitude":28.782562,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kerseteciler Sitesi No:7/3",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 557 9520",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929961,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ie55jG5qpInzSNwNpZF30_41.069450_28.782562@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065190,
+    "wof:geomhash":"45c08b37a51a6c0cf682794955373e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":1108587251
+        }
+    ],
+    "wof:id":1108587251,
+    "wof:lastmodified":1474065190,
+    "wof:name":"Tasarim Dar Dokuma San.ltd.sti.",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    28.7825622559,
+    41.0694503784,
+    28.7825622559,
+    41.0694503784
+],
+  "geometry": {"coordinates":[28.7825622559,41.0694503784],"type":"Point"}
+}

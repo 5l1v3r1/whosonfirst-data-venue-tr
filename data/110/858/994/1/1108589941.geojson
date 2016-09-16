@@ -1,0 +1,75 @@
+{
+  "id": 1108589941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0627193451,40.9682846069,29.0627193451,40.9682846069",
+    "geom:latitude":40.968285,
+    "geom:longitude":29.062719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"General Necmi Okten Sk. Burc Apt. No:5/1",
+    "sg:city":"Caddebostan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 3535",
+    "sg:postcode":"34728",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n3wh1sHTUL9TGneVytJS6_40.968285_29.062719@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065249,
+    "wof:geomhash":"dda211eddb9debca3666c2dccbe0717b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108589941
+        }
+    ],
+    "wof:id":1108589941,
+    "wof:lastmodified":1474065249,
+    "wof:name":"Transatila Uluslararasi Nakliyat Gemicilik Sanayi Ve Ticaret Ltd. Sti.",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    29.0627193451,
+    40.9682846069,
+    29.0627193451,
+    40.9682846069
+],
+  "geometry": {"coordinates":[29.0627193451,40.9682846069],"type":"Point"}
+}

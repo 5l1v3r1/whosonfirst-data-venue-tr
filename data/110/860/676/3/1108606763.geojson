@@ -1,0 +1,71 @@
+{
+  "id": 1108606763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1296863556,38.4186973572,27.1296863556,38.4186973572",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"745/6 Sok. No:7 Mtk.sitesi",
+    "sg:city":"Altindag",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 431 0605",
+    "sg:postcode":"07050",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h41N01ZRQakJBeoaoMKl4_38.418697_27.129686@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065923,
+    "wof:geomhash":"3bf43c6415f50d7e68805afa2fa9a77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108606763
+        }
+    ],
+    "wof:id":1108606763,
+    "wof:lastmodified":1474065923,
+    "wof:name":"Ribtekstil",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1296863556,
+    38.4186973572,
+    27.1296863556,
+    38.4186973572
+],
+  "geometry": {"coordinates":[27.1296863556,38.4186973572],"type":"Point"}
+}

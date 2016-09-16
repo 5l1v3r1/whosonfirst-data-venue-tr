@@ -1,0 +1,70 @@
+{
+  "id": 1108598847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9027690887,41.0778083801,28.9027690887,41.0778083801",
+    "geom:latitude":41.077808,
+    "geom:longitude":28.902769,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad.594.sok.no:7",
+    "sg:city":"G.o.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 649 4998",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MICebEoBK4F0KbstSkx42_41.077808_28.902769@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065584,
+    "wof:geomhash":"41e1c6a8de48f3f807566c73ed7cd41f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108598847
+        }
+    ],
+    "wof:id":1108598847,
+    "wof:lastmodified":1474065584,
+    "wof:name":"Dortler Avize Cam San.tic.ltd.sti.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9027690887,
+    41.0778083801,
+    28.9027690887,
+    41.0778083801
+],
+  "geometry": {"coordinates":[28.9027690887,41.0778083801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108600729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8585891724,39.9409942627,32.8585891724,39.9409942627",
+    "geom:latitude":39.940994,
+    "geom:longitude":32.858589,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Anafartalar Cad. No:54/35",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 312 7717",
+    "sg:postcode":"01940",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TcEKkSL0XsPqNJzz8Dymu_39.940994_32.858589@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065670,
+    "wof:geomhash":"83f21670066da439d48f5914d635c6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108600729
+        }
+    ],
+    "wof:id":1108600729,
+    "wof:lastmodified":1474065670,
+    "wof:name":"Fi&ba Gida Yaz Sebze Meyve Ith.ihr.ltd.sti",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    32.8585891724,
+    39.9409942627,
+    32.8585891724,
+    39.9409942627
+],
+  "geometry": {"coordinates":[32.8585891724,39.9409942627],"type":"Point"}
+}

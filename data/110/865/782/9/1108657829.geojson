@@ -1,0 +1,68 @@
+{
+  "id": 1108657829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3325614929,36.9856834412,35.3325614929,36.9856834412",
+    "geom:latitude":36.985683,
+    "geom:longitude":35.332561,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cuma Is",
+    "sg:city":"?ivril",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 741 2022",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WBhbaiix5jgKM4Npcj9Md_36.985683_35.332561@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068164,
+    "wof:geomhash":"d32fbf23a790e7f58189860e22ad9449",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108657829
+        }
+    ],
+    "wof:id":1108657829,
+    "wof:lastmodified":1474068164,
+    "wof:name":"Feke Belediye Baskani",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    35.3325614929,
+    36.9856834412,
+    35.3325614929,
+    36.9856834412
+],
+  "geometry": {"coordinates":[35.3325614929,36.9856834412],"type":"Point"}
+}

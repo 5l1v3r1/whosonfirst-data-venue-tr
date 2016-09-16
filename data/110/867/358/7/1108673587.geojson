@@ -1,0 +1,72 @@
+{
+  "id": 1108673587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0973415375,41.1187553406,29.0973415375,41.1187553406",
+    "geom:latitude":41.118755,
+    "geom:longitude":29.097342,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Incirli Cd. No:49/a",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 543 3202",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930037,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fvb0bHtd1XdQVd3KMiZ0F_41.118755_29.097342@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068787,
+    "wof:geomhash":"f2da1b5b9b653bdab2296e78f0df7aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930037,
+            "region_id":85679237,
+            "venue_id":1108673587
+        }
+    ],
+    "wof:id":1108673587,
+    "wof:lastmodified":1474068787,
+    "wof:name":"?amlik ?i?ek?ilik",
+    "wof:parent_id":85930037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0973415375,
+    41.1187553406,
+    29.0973415375,
+    41.1187553406
+],
+  "geometry": {"coordinates":[29.0973415375,41.1187553406],"type":"Point"}
+}

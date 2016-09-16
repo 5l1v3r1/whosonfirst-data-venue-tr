@@ -1,0 +1,74 @@
+{
+  "id": 1108606987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1093177795,41.0497245789,29.1093177795,41.0497245789",
+    "geom:latitude":41.049725,
+    "geom:longitude":29.109318,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayikci Sok. No:19",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212643705354",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nDFiTNSTKIgd34eKwlob8_41.049725_29.109318@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065937,
+    "wof:geomhash":"be05e1b9926d8e8d79bc22c671c83379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":1108606987
+        }
+    ],
+    "wof:id":1108606987,
+    "wof:lastmodified":1474065937,
+    "wof:name":"Sirhan Tekstil San A.s.",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.1093177795,
+    41.0497245789,
+    29.1093177795,
+    41.0497245789
+],
+  "geometry": {"coordinates":[29.1093177795,41.0497245789],"type":"Point"}
+}

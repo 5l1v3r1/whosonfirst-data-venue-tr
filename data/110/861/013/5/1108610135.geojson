@@ -1,0 +1,68 @@
+{
+  "id": 1108610135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0629043579,40.1887207031,29.0629043579,40.1887207031",
+    "geom:latitude":40.188721,
+    "geom:longitude":29.062904,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasim Iscan Cad. No:10 B",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 225 6264",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25AGm3HNynBD9KWj6Z29Sx_40.188721_29.062904@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066082,
+    "wof:geomhash":"a37c538afa8c658512ac2321c4dd7fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108610135
+        }
+    ],
+    "wof:id":1108610135,
+    "wof:lastmodified":1474066082,
+    "wof:name":"Guven Halicilik Ve Ticaret",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.0629043579,
+    40.1887207031,
+    29.0629043579,
+    40.1887207031
+],
+  "geometry": {"coordinates":[29.0629043579,40.1887207031],"type":"Point"}
+}

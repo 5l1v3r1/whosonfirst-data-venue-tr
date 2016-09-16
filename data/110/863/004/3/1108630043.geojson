@@ -1,0 +1,68 @@
+{
+  "id": 1108630043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0450992584,41.01953125,29.0450992584,41.01953125",
+    "geom:latitude":41.019531,
+    "geom:longitude":29.045099,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglarbasi Kisikli Cad No 26 Altunizade",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 164 7406",
+    "sg:province":"34718",
+    "sg:website":"www.setur.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y98TXAZXI7aicIwbUkLpP_41.019531_29.045099@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066918,
+    "wof:geomhash":"d08490ca3ba2f7af7560a4f9c78cdb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108630043
+        }
+    ],
+    "wof:id":1108630043,
+    "wof:lastmodified":1474066918,
+    "wof:name":"Setur Travel Agency",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0450992584,
+    41.01953125,
+    29.0450992584,
+    41.01953125
+],
+  "geometry": {"coordinates":[29.0450992584,41.01953125],"type":"Point"}
+}

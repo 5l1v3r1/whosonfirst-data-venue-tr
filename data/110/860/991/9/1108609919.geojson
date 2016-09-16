@@ -1,0 +1,68 @@
+{
+  "id": 1108609919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.157289505,41.0069847107,29.157289505,41.0069847107",
+    "geom:latitude":41.006985,
+    "geom:longitude":29.15729,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Modoko San. Sit. 11. Sk. No:90",
+    "sg:city":"Y.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 2195",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72m68yyHHDGgIbE4XKx3xm_41.006985_29.157290@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066074,
+    "wof:geomhash":"7d66987ed65f9c3f761658e358fcdba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108609919
+        }
+    ],
+    "wof:id":1108609919,
+    "wof:lastmodified":1474066074,
+    "wof:name":"Cihan Mobilya Dekorasyon",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.157289505,
+    41.0069847107,
+    29.157289505,
+    41.0069847107
+],
+  "geometry": {"coordinates":[29.157289505,41.0069847107],"type":"Point"}
+}

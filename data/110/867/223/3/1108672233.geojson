@@ -1,0 +1,83 @@
+{
+  "id": 1108672233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.025970459,40.984210968,29.025970459,40.984210968",
+    "geom:latitude":40.984211,
+    "geom:longitude":29.02597,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moda C. Agabey Sk.no.24/3",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 4691",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237,
+        85904147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZAygsjRvNV6cuNiDNUIAA_40.984211_29.025970@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068726,
+    "wof:geomhash":"d23b68917a9233308eab9df02653bdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108672233
+        },
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904147,
+            "region_id":85679237,
+            "venue_id":1108672233
+        }
+    ],
+    "wof:id":1108672233,
+    "wof:lastmodified":1474068726,
+    "wof:name":"Er-ku Gida San. Ve Dis Tic. Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    29.025970459,
+    40.984210968,
+    29.025970459,
+    40.984210968
+],
+  "geometry": {"coordinates":[29.025970459,40.984210968],"type":"Point"}
+}

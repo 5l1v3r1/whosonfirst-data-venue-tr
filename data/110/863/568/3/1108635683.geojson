@@ -1,0 +1,75 @@
+{
+  "id": 1108635683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.008398056,41.0713844299,29.008398056,41.0713844299",
+    "geom:latitude":41.071384,
+    "geom:longitude":29.008398,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zincirlidere Cad. 44",
+    "sg:city":"Esentepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 266 3120",
+    "sg:postcode":"03456",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52i47LDgwrS8yQbEXSrRH5_41.071384_29.008398@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067252,
+    "wof:geomhash":"56271c86e94f423610eaca6508eed85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108635683
+        }
+    ],
+    "wof:id":1108635683,
+    "wof:lastmodified":1474067252,
+    "wof:name":"Acc Tipdata",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [
+    29.008398056,
+    41.0713844299,
+    29.008398056,
+    41.0713844299
+],
+  "geometry": {"coordinates":[29.008398056,41.0713844299],"type":"Point"}
+}

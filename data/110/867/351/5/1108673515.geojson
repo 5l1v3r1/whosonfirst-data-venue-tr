@@ -1,0 +1,72 @@
+{
+  "id": 1108673515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8692207336,40.9857406616,28.8692207336,40.9857406616",
+    "geom:latitude":40.985741,
+    "geom:longitude":28.869221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Incirli Cd. Z?r?evler Sk. No:43/a",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 542 7057",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PhjnhQQUlgzUpprZ5TkZl_40.985741_28.869221@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068784,
+    "wof:geomhash":"ef9c735189078d933fcc764d794f4210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108673515
+        }
+    ],
+    "wof:id":1108673515,
+    "wof:lastmodified":1474068784,
+    "wof:name":"Yagmur ?i?ek",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.8692207336,
+    40.9857406616,
+    28.8692207336,
+    40.9857406616
+],
+  "geometry": {"coordinates":[28.8692207336,40.9857406616],"type":"Point"}
+}

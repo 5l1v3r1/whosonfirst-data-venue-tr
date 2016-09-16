@@ -1,0 +1,68 @@
+{
+  "id": 1108572143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9076366425,40.9852180481,28.9076366425,40.9852180481",
+    "geom:latitude":40.985218,
+    "geom:longitude":28.907637,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beskardesler 3. Sk. No:4 Zeytinburnu",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 1704",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jFKIxOO9UK4n8rfB7rqlp_40.985218_28.907637@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064546,
+    "wof:geomhash":"b6ec5c0f6f56e16f27fe35a18dd7b6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108572143
+        }
+    ],
+    "wof:id":1108572143,
+    "wof:lastmodified":1474064546,
+    "wof:name":"Profleks Plastik Profil San. A.s.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9076366425,
+    40.9852180481,
+    28.9076366425,
+    40.9852180481
+],
+  "geometry": {"coordinates":[28.9076366425,40.9852180481],"type":"Point"}
+}

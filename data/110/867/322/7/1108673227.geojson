@@ -1,0 +1,73 @@
+{
+  "id": 1108673227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0256080627,40.9872207642,29.0256080627,40.9872207642",
+    "geom:latitude":40.987221,
+    "geom:longitude":29.025608,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Moda Cd. No:88/b",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 345 0119",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929481,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lhxJRcIDj7aioWOUf8vDB_40.987221_29.025608@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068769,
+    "wof:geomhash":"b3ceb862afffb700af3f7feb7666ad3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":85679237,
+            "venue_id":1108673227
+        }
+    ],
+    "wof:id":1108673227,
+    "wof:lastmodified":1474068769,
+    "wof:name":"Moda Yapay ?i?ek Dekor.",
+    "wof:parent_id":85929481,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0256080627,
+    40.9872207642,
+    29.0256080627,
+    40.9872207642
+],
+  "geometry": {"coordinates":[29.0256080627,40.9872207642],"type":"Point"}
+}

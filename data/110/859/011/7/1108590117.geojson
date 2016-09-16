@@ -1,0 +1,67 @@
+{
+  "id": 1108590117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.007440567,41.0439682007,29.007440567,41.0439682007",
+    "geom:latitude":41.043968,
+    "geom:longitude":29.007441,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulv. No:21/1 Besiktas",
+    "sg:city":"Menderes",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 0822",
+    "sg:postcode":"35410",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hZZntv6ULYULnGtNgE8cE_41.043968_29.007441@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065253,
+    "wof:geomhash":"f0fa3da4df3956008b23c64c3fe7db17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906567,
+            "venue_id":1108590117
+        }
+    ],
+    "wof:id":1108590117,
+    "wof:lastmodified":1474065253,
+    "wof:name":"Arfice Yapi",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.007440567,
+    41.0439682007,
+    29.007440567,
+    41.0439682007
+],
+  "geometry": {"coordinates":[29.007440567,41.0439682007],"type":"Point"}
+}

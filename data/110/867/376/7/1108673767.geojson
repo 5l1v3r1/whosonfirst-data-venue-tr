@@ -1,0 +1,70 @@
+{
+  "id": 1108673767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9856815338,41.1001548767,28.9856815338,41.1001548767",
+    "geom:latitude":41.100155,
+    "geom:longitude":28.985682,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A.gazi Cad.mh.lale Sok.no.6",
+    "sg:city":"Sultanbeyli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 398 7126",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EVhblm73wVA059TUV0SyQ_41.100155_28.985682@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068793,
+    "wof:geomhash":"8b1bea35925508384fefcdc771241bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108673767
+        }
+    ],
+    "wof:id":1108673767,
+    "wof:lastmodified":1474068793,
+    "wof:name":"Polater Maya Sanayi",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    28.9856815338,
+    41.1001548767,
+    28.9856815338,
+    41.1001548767
+],
+  "geometry": {"coordinates":[28.9856815338,41.1001548767],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108580533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9765167236,41.0138893127,28.9765167236,41.0138893127",
+    "geom:latitude":41.013889,
+    "geom:longitude":28.976517,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Orhaniye Cd. No:26/6 Sirkeci",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 1551",
+    "sg:postcode":"16370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904153,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4idtUQVET26q9hjmsxPlFW_41.013889_28.976517@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065020,
+    "wof:geomhash":"225b860d4f21dd57d926c349826dcf37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904153,
+            "region_id":85679237,
+            "venue_id":1108580533
+        }
+    ],
+    "wof:id":1108580533,
+    "wof:lastmodified":1474065020,
+    "wof:name":"Intersan Otomotiv Tic. San. Ltd. Sti.",
+    "wof:parent_id":85904153,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    28.9765167236,
+    41.0138893127,
+    28.9765167236,
+    41.0138893127
+],
+  "geometry": {"coordinates":[28.9765167236,41.0138893127],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108602335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9816207886,41.0430908203,28.9816207886,41.0430908203",
+    "geom:latitude":41.043091,
+    "geom:longitude":28.981621,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dolapdere Cad. No:67/1-2",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 2293",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906559,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ljj4zrzlcwTUnzLiv29S_41.043091_28.981621@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065729,
+    "wof:geomhash":"1b3fa2848b18cbb195389d383c079236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906559,
+            "region_id":85679237,
+            "venue_id":1108602335
+        }
+    ],
+    "wof:id":1108602335,
+    "wof:lastmodified":1474065729,
+    "wof:name":"Klimatik",
+    "wof:parent_id":85906559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9816207886,
+    41.0430908203,
+    28.9816207886,
+    41.0430908203
+],
+  "geometry": {"coordinates":[28.9816207886,41.0430908203],"type":"Point"}
+}

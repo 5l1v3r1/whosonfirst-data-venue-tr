@@ -1,0 +1,73 @@
+{
+  "id": 1108672889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.77384758,40.9923744202,28.77384758,40.9923744202",
+    "geom:latitude":40.992374,
+    "geom:longitude":28.773848,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Yol Cd. No:36",
+    "sg:city":"Izzetpasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 8723",
+    "sg:postcode":"23200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929991,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GT9hEwjDtHuzODvfHWFqp_40.992374_28.773848@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068757,
+    "wof:geomhash":"a8e0c800c6c19c75c6120aab3ea4e796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929991,
+            "region_id":85679237,
+            "venue_id":1108672889
+        }
+    ],
+    "wof:id":1108672889,
+    "wof:lastmodified":1474068757,
+    "wof:name":"Dal ?i?ek?ilik Ve Toptan G?l Paz.",
+    "wof:parent_id":85929991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.77384758,
+    40.9923744202,
+    28.77384758,
+    40.9923744202
+],
+  "geometry": {"coordinates":[28.77384758,40.9923744202],"type":"Point"}
+}

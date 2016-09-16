@@ -1,0 +1,70 @@
+{
+  "id": 1108673679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8557987213,41.0658149719,28.8557987213,41.0658149719",
+    "geom:latitude":41.065815,
+    "geom:longitude":28.855799,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kisla C.no.150",
+    "sg:city":"Top?lar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 7600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930169,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3osYNaDDwsvNA5VSePC6Ll_41.065815_28.855799@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068790,
+    "wof:geomhash":"72f231ac001072f955bf695e5675e6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930169,
+            "region_id":85679237,
+            "venue_id":1108673679
+        }
+    ],
+    "wof:id":1108673679,
+    "wof:lastmodified":1474068790,
+    "wof:name":"Bunsa Baharat Sanayi",
+    "wof:parent_id":85930169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    28.8557987213,
+    41.0658149719,
+    28.8557987213,
+    41.0658149719
+],
+  "geometry": {"coordinates":[28.8557987213,41.0658149719],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108614399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9338607788,41.0135154724,28.9338607788,41.0135154724",
+    "geom:latitude":41.013515,
+    "geom:longitude":28.933861,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necip Asim Sokak No:26 - Fatih",
+    "sg:city":"16010",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 6966",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kFJaWKEubs88HhiMRyGc9_41.013515_28.933861@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066249,
+    "wof:geomhash":"a5b1b7990f73a0945d2b77d025d53334",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108614399
+        }
+    ],
+    "wof:id":1108614399,
+    "wof:lastmodified":1474066249,
+    "wof:name":"Orn?am Ortopedik Ve N?olojik",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9338607788,
+    41.0135154724,
+    28.9338607788,
+    41.0135154724
+],
+  "geometry": {"coordinates":[28.9338607788,41.0135154724],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108574219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0968971252,41.0405273438,29.0968971252,41.0405273438",
+    "geom:latitude":41.040527,
+    "geom:longitude":29.096897,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni San.tunc Cad.no/50 B",
+    "sg:city":"Diskapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3108462",
+    "sg:postcode":"06290",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jCO2vF3BS0FDnGOhvw61D_41.040527_29.096897@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064632,
+    "wof:geomhash":"d711b7b0d93fcc2694ca88e27fb69790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108574219
+        }
+    ],
+    "wof:id":1108574219,
+    "wof:lastmodified":1474064632,
+    "wof:name":"?agri Reklam",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0968971252,
+    41.0405273438,
+    29.0968971252,
+    41.0405273438
+],
+  "geometry": {"coordinates":[29.0968971252,41.0405273438],"type":"Point"}
+}

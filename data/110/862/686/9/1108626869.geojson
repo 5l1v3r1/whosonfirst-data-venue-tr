@@ -1,0 +1,71 @@
+{
+  "id": 1108626869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5960941315,36.8362007141,30.5960941315,36.8362007141",
+    "geom:latitude":36.836201,
+    "geom:longitude":30.596094,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Liman Cad. No:5",
+    "sg:city":"Kemer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 814 3972",
+    "sg:postcode":"07980",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930253,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z6sv7TxO6aHURucl49rih_36.836201_30.596094@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066732,
+    "wof:geomhash":"84aeedaca7600856080f8e422b3f55b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930253,
+            "region_id":85679263,
+            "venue_id":1108626869
+        }
+    ],
+    "wof:id":1108626869,
+    "wof:lastmodified":1474066732,
+    "wof:name":"Has-el Turizm (kemer Sb.)",
+    "wof:parent_id":85930253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    30.5960941315,
+    36.8362007141,
+    30.5960941315,
+    36.8362007141
+],
+  "geometry": {"coordinates":[30.5960941315,36.8362007141],"type":"Point"}
+}

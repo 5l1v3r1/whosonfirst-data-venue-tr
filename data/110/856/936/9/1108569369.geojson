@@ -1,0 +1,75 @@
+{
+  "id": 1108569369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9779453278,41.0247802734,28.9779453278,41.0247802734",
+    "geom:latitude":41.02478,
+    "geom:longitude":28.977945,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cad. No:91 Karakoy",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 5180",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gJo16wLyjLNP9o0FmU6LW_41.024780_28.977945@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064430,
+    "wof:geomhash":"5ed38e277c5f67fa414eadd1b0b6a5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":1108569369
+        }
+    ],
+    "wof:id":1108569369,
+    "wof:lastmodified":1474064430,
+    "wof:name":"Teknik-motor Makine Sanayi Ve Tic. Ltd.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9779453278,
+    41.0247802734,
+    28.9779453278,
+    41.0247802734
+],
+  "geometry": {"coordinates":[28.9779453278,41.0247802734],"type":"Point"}
+}

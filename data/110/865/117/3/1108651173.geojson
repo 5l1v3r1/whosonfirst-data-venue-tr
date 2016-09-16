@@ -1,0 +1,69 @@
+{
+  "id": 1108651173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9548721313,41.0169410706,28.9548721313,41.0169410706",
+    "geom:latitude":41.016941,
+    "geom:longitude":28.954872,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kovacilar Cad. No:27/211 Vefa",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 528 5121",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906527,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UPdeZ7lHauKL8ORbBZG1r_41.016941_28.954872@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067892,
+    "wof:geomhash":"c7aca5d69b6db4034ed7f5d9b3d3274e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906527,
+            "region_id":85679237,
+            "venue_id":1108651173
+        }
+    ],
+    "wof:id":1108651173,
+    "wof:lastmodified":1474067892,
+    "wof:name":"Interlab Tek. Mlz. Tic.",
+    "wof:parent_id":85906527,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9548721313,
+    41.0169410706,
+    28.9548721313,
+    41.0169410706
+],
+  "geometry": {"coordinates":[28.9548721313,41.0169410706],"type":"Point"}
+}

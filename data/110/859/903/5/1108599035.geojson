@@ -1,0 +1,71 @@
+{
+  "id": 1108599035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8560333252,39.9438743591,32.8560333252,39.9438743591",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"43. Sk. Tuna Cant?k No:6/18 Oran Yolu",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 490 3069",
+    "sg:postcode":"01950",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uYNN2HE2xiib9B69tDJb_39.943874_32.856033@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065590,
+    "wof:geomhash":"acc452a4bf01c493c015e989462ca853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108599035
+        }
+    ],
+    "wof:id":1108599035,
+    "wof:lastmodified":1474065590,
+    "wof:name":"Isiksan Ltd. Sti.",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    32.8560333252,
+    39.9438743591,
+    32.8560333252,
+    39.9438743591
+],
+  "geometry": {"coordinates":[32.8560333252,39.9438743591],"type":"Point"}
+}

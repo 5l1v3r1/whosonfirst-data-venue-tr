@@ -1,0 +1,71 @@
+{
+  "id": 1108603075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8637619019,39.9189567566,32.8637619019,39.9189567566",
+    "geom:latitude":39.918957,
+    "geom:longitude":32.863762,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglar Cad. No:219/14",
+    "sg:city":"Esat",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 4475495",
+    "sg:postcode":"06610",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q0aHwwpZVa7p8quv9AUzb_39.918957_32.863762@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065758,
+    "wof:geomhash":"1091d1b4320a77487b8b26e3b09baeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108603075
+        }
+    ],
+    "wof:id":1108603075,
+    "wof:lastmodified":1474065758,
+    "wof:name":"Eskort G?venlik",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    32.8637619019,
+    39.9189567566,
+    32.8637619019,
+    39.9189567566
+],
+  "geometry": {"coordinates":[32.8637619019,39.9189567566],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108602625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1186962128,40.9490203857,29.1186962128,40.9490203857",
+    "geom:latitude":40.94902,
+    "geom:longitude":29.118696,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.yali Mh. Karayollari Cd. No:25/2",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 366 4944",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zs7xtxaTQsAlko0UR9KX1_40.949020_29.118696@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065740,
+    "wof:geomhash":"1acd35c409d82e0a3b2c2820d72085a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":1108602625
+        }
+    ],
+    "wof:id":1108602625,
+    "wof:lastmodified":1474065740,
+    "wof:name":"Teknogaz Dogalgaz Isi Sistem.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1186962128,
+    40.9490203857,
+    29.1186962128,
+    40.9490203857
+],
+  "geometry": {"coordinates":[29.1186962128,40.9490203857],"type":"Point"}
+}

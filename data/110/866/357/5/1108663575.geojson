@@ -1,0 +1,80 @@
+{
+  "id": 1108663575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8614501953,39.909160614,32.8614501953,39.909160614",
+    "geom:latitude":39.909161,
+    "geom:longitude":32.86145,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kenedy Cd. No:22/2 Kavaklidere",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 9277",
+    "sg:postcode":"34475",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409,
+        85929547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sNSvkPuvyd5EIEKJCHfPJ_39.909161_32.861450@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068388,
+    "wof:geomhash":"25045ac7b8dd85fba884d09dc4e8c1e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108663575
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108663575
+        }
+    ],
+    "wof:id":1108663575,
+    "wof:lastmodified":1474068388,
+    "wof:name":"Afapen Plastik Dograma Sistem. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8614501953,
+    39.909160614,
+    32.8614501953,
+    39.909160614
+],
+  "geometry": {"coordinates":[32.8614501953,39.909160614],"type":"Point"}
+}

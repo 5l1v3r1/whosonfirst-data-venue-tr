@@ -1,0 +1,68 @@
+{
+  "id": 1108675967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.856967926,39.8851547241,32.856967926,39.8851547241",
+    "geom:latitude":39.885155,
+    "geom:longitude":32.856968,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdullah Cevdet Sk.no:10 ?ankaya",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 2190",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41YSJhXZF5e3iadUmbpRVh_39.885155_32.856968@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068891,
+    "wof:geomhash":"53531145cf5ddbfb974ed7b4a88b0269",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108675967
+        }
+    ],
+    "wof:id":1108675967,
+    "wof:lastmodified":1474068891,
+    "wof:name":"Endonezya B?y?kel?iligi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.856967926,
+    39.8851547241,
+    32.856967926,
+    39.8851547241
+],
+  "geometry": {"coordinates":[32.856967926,39.8851547241],"type":"Point"}
+}

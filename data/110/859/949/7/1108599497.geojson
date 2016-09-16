@@ -1,0 +1,70 @@
+{
+  "id": 1108599497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9731845856,41.0069618225,28.9731845856,41.0069618225",
+    "geom:latitude":41.006962,
+    "geom:longitude":28.973185,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klodfarer Cad. A/33 Sultanahmet",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 638 0707",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906501,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZgFno8Ms5ha2shKzKISqy_41.006962_28.973185@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065613,
+    "wof:geomhash":"4eda11c4f9366a35ab8b92f09f45044c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906501,
+            "region_id":85679237,
+            "venue_id":1108599497
+        }
+    ],
+    "wof:id":1108599497,
+    "wof:lastmodified":1474065613,
+    "wof:name":"Karakus Gaz Donusum Servisi",
+    "wof:parent_id":85906501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    28.9731845856,
+    41.0069618225,
+    28.9731845856,
+    41.0069618225
+],
+  "geometry": {"coordinates":[28.9731845856,41.0069618225],"type":"Point"}
+}

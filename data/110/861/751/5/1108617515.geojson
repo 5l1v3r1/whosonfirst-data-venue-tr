@@ -1,0 +1,72 @@
+{
+  "id": 1108617515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7111740112,36.8889389038,30.7111740112,36.8889389038",
+    "geom:latitude":36.888939,
+    "geom:longitude":30.711174,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali Cetinkaya Cd. 26",
+    "sg:city":"Bodrum",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 1836",
+    "sg:postcode":"48400",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        102191569,
+        85632393,
+        101912923,
+        85679263,
+        85929965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJG1GBQCe4D02LE19MoSq_36.888939_30.711174@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066366,
+    "wof:geomhash":"e870bd7c0225d9535db46223fde7c1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":1108617515
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929965,
+            "region_id":85679263,
+            "venue_id":1108617515
+        }
+    ],
+    "wof:id":1108617515,
+    "wof:lastmodified":1474066366,
+    "wof:name":"Bergen Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7111740112,
+    36.8889389038,
+    30.7111740112,
+    36.8889389038
+],
+  "geometry": {"coordinates":[30.7111740112,36.8889389038],"type":"Point"}
+}

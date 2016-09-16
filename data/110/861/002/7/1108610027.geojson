@@ -1,0 +1,69 @@
+{
+  "id": 1108610027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9105873108,41.048915863,28.9105873108,41.048915863",
+    "geom:latitude":41.048916,
+    "geom:longitude":28.910587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yazanlar Sok. Vardar Apt.a Blok No:5 D:5",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 0510",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AA9BspwdCax22GYFqMykO_41.048916_28.910587@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066078,
+    "wof:geomhash":"84e8a91613150268eb76dab36107a4ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108610027
+        }
+    ],
+    "wof:id":1108610027,
+    "wof:lastmodified":1474066078,
+    "wof:name":"Elyildirimlar Dekoratif Yapi Sis.insaat San.tic.ltd.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    28.9105873108,
+    41.048915863,
+    28.9105873108,
+    41.048915863
+],
+  "geometry": {"coordinates":[28.9105873108,41.048915863],"type":"Point"}
+}

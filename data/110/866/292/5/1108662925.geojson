@@ -1,0 +1,73 @@
+{
+  "id": 1108662925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8298568726,39.9315338135,32.8298568726,39.9315338135",
+    "geom:latitude":39.931534,
+    "geom:longitude":32.829857,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maresal Fevzi Cakmak Cad. No:57-6",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 215 8297",
+    "sg:postcode":"01120",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UapwgK9gXapd4NMjV3Hpu_39.931534_32.829857@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068363,
+    "wof:geomhash":"21c1469110f5f4e71ea199d6b33222c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108662925
+        }
+    ],
+    "wof:id":1108662925,
+    "wof:lastmodified":1474068363,
+    "wof:name":"Filtek Ltd.sti.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    32.8298568726,
+    39.9315338135,
+    32.8298568726,
+    39.9315338135
+],
+  "geometry": {"coordinates":[32.8298568726,39.9315338135],"type":"Point"}
+}

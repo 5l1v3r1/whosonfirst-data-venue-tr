@@ -1,0 +1,64 @@
+{
+  "id": 1108678705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1449794769,38.4391326904,27.1449794769,38.4391326904",
+    "geom:latitude":38.439133,
+    "geom:longitude":27.144979,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1469. Sk. No:66",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 2258",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03cYFiiqG0LpUHOFPzjONQ_38.439133_27.144979@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068995,
+    "wof:geomhash":"a2a4a89c2e1ae4567fcb3006a36669dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108678705
+        }
+    ],
+    "wof:id":1108678705,
+    "wof:lastmodified":1474068995,
+    "wof:name":"Maraton Denizcilik San. Tic. A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1449794769,
+    38.4391326904,
+    27.1449794769,
+    38.4391326904
+],
+  "geometry": {"coordinates":[27.1449794769,38.4391326904],"type":"Point"}
+}

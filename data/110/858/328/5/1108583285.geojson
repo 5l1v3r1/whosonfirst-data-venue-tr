@@ -1,0 +1,74 @@
+{
+  "id": 1108583285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1221351624,40.9754638672,29.1221351624,40.9754638672",
+    "geom:latitude":40.975464,
+    "geom:longitude":29.122135,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kayisdagi Cad. No:88 Icerenkoy",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 362 9707",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c4snwAyzYznvWBSvlh7qu_40.975464_29.122135@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065090,
+    "wof:geomhash":"54c10e2b900dde7ae544774aa386028c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108583285
+        }
+    ],
+    "wof:id":1108583285,
+    "wof:lastmodified":1474065090,
+    "wof:name":"Aktan Demir",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    29.1221351624,
+    40.9754638672,
+    29.1221351624,
+    40.9754638672
+],
+  "geometry": {"coordinates":[29.1221351624,40.9754638672],"type":"Point"}
+}

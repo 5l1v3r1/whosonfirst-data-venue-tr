@@ -1,0 +1,64 @@
+{
+  "id": 1108596057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9681892395,41.0085906982,28.9681892395,41.0085906982",
+    "geom:latitude":41.008591,
+    "geom:longitude":28.968189,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Divani Ali Sok.no:2 Beyazit",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 516 2894",
+    "sg:postcode":"34490",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906619,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qp57YTdx9ZgmLQnadAHHs_41.008591_28.968189@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065469,
+    "wof:geomhash":"70b6859623a049ea58d69bda9a8cfcfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906619,
+            "region_id":85679237,
+            "venue_id":1108596057
+        }
+    ],
+    "wof:id":1108596057,
+    "wof:lastmodified":1474065469,
+    "wof:name":"G?rbah Deri",
+    "wof:parent_id":85906619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9681892395,
+    41.0085906982,
+    28.9681892395,
+    41.0085906982
+],
+  "geometry": {"coordinates":[28.9681892395,41.0085906982],"type":"Point"}
+}

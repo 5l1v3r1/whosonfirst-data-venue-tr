@@ -1,0 +1,64 @@
+{
+  "id": 1108579043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1431522369,38.4357872009,27.1431522369,38.4357872009",
+    "geom:latitude":38.435787,
+    "geom:longitude":27.143152,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1441.sok.no:1/2 D:203 Alsancak",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 6634",
+    "sg:postcode":"75200",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u2DxMogwc98pecqilrsMa_38.435787_27.143152@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064919,
+    "wof:geomhash":"b333f64a0645df4f8d2069824cb92800",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108579043
+        }
+    ],
+    "wof:id":1108579043,
+    "wof:lastmodified":1474064919,
+    "wof:name":"Ege Alize Event Marketing",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1431522369,
+    38.4357872009,
+    27.1431522369,
+    38.4357872009
+],
+  "geometry": {"coordinates":[27.1431522369,38.4357872009],"type":"Point"}
+}

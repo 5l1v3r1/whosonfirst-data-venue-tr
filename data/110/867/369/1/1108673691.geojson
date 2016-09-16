@@ -1,0 +1,71 @@
+{
+  "id": 1108673691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.863445282,39.930809021,32.863445282,39.930809021",
+    "geom:latitude":39.930809,
+    "geom:longitude":32.863445,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atpazari Akbas Mah.hacettepe Sok.no:7",
+    "sg:city":"Samanpazari",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 7265",
+    "sg:postcode":"06230",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NF9euMGFNEkdPlrq3q8Zq_39.930809_32.863445@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068790,
+    "wof:geomhash":"cb74e865ef0bfb237e54a79a47054a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108673691
+        }
+    ],
+    "wof:id":1108673691,
+    "wof:lastmodified":1474068790,
+    "wof:name":"Dogu Baharat Ve Gida San.",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    32.863445282,
+    39.930809021,
+    32.863445282,
+    39.930809021
+],
+  "geometry": {"coordinates":[32.863445282,39.930809021],"type":"Point"}
+}

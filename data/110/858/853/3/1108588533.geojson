@@ -1,0 +1,71 @@
+{
+  "id": 1108588533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1337928772,38.4231300354,27.1337928772,38.4231300354",
+    "geom:latitude":38.42313,
+    "geom:longitude":27.133793,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mimar Kemalettin Cad. No:39",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 1314",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P0deiVHSSfO3JO3fGDwr3_38.423130_27.133793@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065216,
+    "wof:geomhash":"66da96a3077f5d750e8406daf725a8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108588533
+        }
+    ],
+    "wof:id":1108588533,
+    "wof:lastmodified":1474065216,
+    "wof:name":"Jolie Mode",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1337928772,
+    38.4231300354,
+    27.1337928772,
+    38.4231300354
+],
+  "geometry": {"coordinates":[27.1337928772,38.4231300354],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108645851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.720823288,40.9790611267,28.720823288,40.9790611267",
+    "geom:latitude":40.979061,
+    "geom:longitude":28.720823,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Taner Kislali Cad. In??psj.no:19",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "maritime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929931,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lh3H04pzh2xQPOfzrtDPj_40.979061_28.720823@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067649,
+    "wof:geomhash":"25f83810a2c55a13e1aa32752bb34d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929931,
+            "region_id":85679237,
+            "venue_id":1108645851
+        }
+    ],
+    "wof:id":1108645851,
+    "wof:lastmodified":1474067649,
+    "wof:name":"Poyraz Shipsupply Ltd",
+    "wof:parent_id":85929931,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "maritime"
+    ]
+},
+  "bbox": [
+    28.720823288,
+    40.9790611267,
+    28.720823288,
+    40.9790611267
+],
+  "geometry": {"coordinates":[28.720823288,40.9790611267],"type":"Point"}
+}

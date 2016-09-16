@@ -1,0 +1,69 @@
+{
+  "id": 1108582525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1296863556,38.4186973572,27.1296863556,38.4186973572",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mithatpasa Cad. No:745 Sadikbey",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 232 3134",
+    "sg:postcode":"65710",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55e68ybbSRrNndzRtbmoyH_38.418697_27.129686@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065074,
+    "wof:geomhash":"3bf43c6415f50d7e68805afa2fa9a77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108582525
+        }
+    ],
+    "wof:id":1108582525,
+    "wof:lastmodified":1474065074,
+    "wof:name":"Bizim Etud Egitim Merkezi",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    27.1296863556,
+    38.4186973572,
+    27.1296863556,
+    38.4186973572
+],
+  "geometry": {"coordinates":[27.1296863556,38.4186973572],"type":"Point"}
+}

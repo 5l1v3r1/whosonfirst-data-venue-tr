@@ -1,0 +1,69 @@
+{
+  "id": 1108578443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1624622345,38.3957595825,27.1624622345,38.3957595825",
+    "geom:latitude":38.39576,
+    "geom:longitude":27.162462,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"355 Sk. No: 17/a",
+    "sg:city":"B.evler",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 256 5886",
+    "sg:postcode":"03120",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mN4dOfuOxUWkixnXymfru_38.395760_27.162462@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064890,
+    "wof:geomhash":"730e44c19c193121806559cb7a9f0e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108578443
+        }
+    ],
+    "wof:id":1108578443,
+    "wof:lastmodified":1474064890,
+    "wof:name":"Teknotim B?ro Sistemleri",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    27.1624622345,
+    38.3957595825,
+    27.1624622345,
+    38.3957595825
+],
+  "geometry": {"coordinates":[27.1624622345,38.3957595825],"type":"Point"}
+}

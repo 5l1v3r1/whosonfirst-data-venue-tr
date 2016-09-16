@@ -1,0 +1,78 @@
+{
+  "id": 1108660097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9690895081,41.0065994263,28.9690895081,41.0065994263",
+    "geom:latitude":41.006599,
+    "geom:longitude":28.96909,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasircilar Cd. No:3 Emin?? Istanbul",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 8087",
+    "sg:postcode":"34876",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906497,
+        85679237,
+        85906501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r8YIhcAxOmTsSAA7EZsBY_41.006599_28.969090@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068259,
+    "wof:geomhash":"6303b11d7d60804b967f07745fc6fd54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906497,
+            "region_id":85679237,
+            "venue_id":1108660097
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906501,
+            "region_id":85679237,
+            "venue_id":1108660097
+        }
+    ],
+    "wof:id":1108660097,
+    "wof:lastmodified":1474068259,
+    "wof:name":"Efendioglu Paz. Ambalaj ?r?nl. San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9690895081,
+    41.0065994263,
+    28.9690895081,
+    41.0065994263
+],
+  "geometry": {"coordinates":[28.9690895081,41.0065994263],"type":"Point"}
+}

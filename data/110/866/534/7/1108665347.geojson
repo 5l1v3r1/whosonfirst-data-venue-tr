@@ -1,0 +1,68 @@
+{
+  "id": 1108665347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1742668152,41.003276825,29.1742668152,41.003276825",
+    "geom:latitude":41.003277,
+    "geom:longitude":29.174267,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lesensehir Mah. Mehmet Akif Sok. No:5",
+    "sg:city":"Y.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216499186465",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "poultry-turkey-ostrich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uGFq0KN4l2a4r0ArNoBoC_41.003277_29.174267@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068463,
+    "wof:geomhash":"2c88c42520165920b8ddc92b0ff4ca5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108665347
+        }
+    ],
+    "wof:id":1108665347,
+    "wof:lastmodified":1474068463,
+    "wof:name":"Guncanlar Tavukculuk San.tic.ltd.sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry-turkey-ostrich"
+    ]
+},
+  "bbox": [
+    29.1742668152,
+    41.003276825,
+    29.1742668152,
+    41.003276825
+],
+  "geometry": {"coordinates":[29.1742668152,41.003276825],"type":"Point"}
+}

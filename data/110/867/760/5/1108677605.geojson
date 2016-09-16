@@ -1,0 +1,68 @@
+{
+  "id": 1108677605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8572463989,39.9184379578,32.8572463989,39.9184379578",
+    "geom:latitude":39.918438,
+    "geom:longitude":32.857246,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selanik Cad. No: 52/4 Kizilay",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 7811",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02B7jS8ku3hKaSjucKyKVR_39.918438_32.857246@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068946,
+    "wof:geomhash":"ec4c6f8e4125b9b7b15588edd21c1aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108677605
+        }
+    ],
+    "wof:id":1108677605,
+    "wof:lastmodified":1474068946,
+    "wof:name":"Fisek Enstitusu Calisan Cocuklar Bilim Ve Eylem Mrkz.vakfi",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8572463989,
+    39.9184379578,
+    32.8572463989,
+    39.9184379578
+],
+  "geometry": {"coordinates":[32.8572463989,39.9184379578],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108660037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9021072388,40.9942169189,28.9021072388,40.9942169189",
+    "geom:latitude":40.994217,
+    "geom:longitude":28.902107,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoca A. Yesevi Cd. Yesiltepe Mh. 75/1 Sk. No:1 Zeytinburnu",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 665 0065",
+    "sg:postcode":"34876",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FI4qgrnKq3ilC7a0pu8gl_40.994217_28.902107@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068256,
+    "wof:geomhash":"69b80a9945a056942401be7f7fe49ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108660037
+        }
+    ],
+    "wof:id":1108660037,
+    "wof:lastmodified":1474068256,
+    "wof:name":"Deniz Kagit?ilik Ve Ambalaj",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9021072388,
+    40.9942169189,
+    28.9021072388,
+    40.9942169189
+],
+  "geometry": {"coordinates":[28.9021072388,40.9942169189],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108594163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0356044769,41.0811424255,29.0356044769,41.0811424255",
+    "geom:latitude":41.081142,
+    "geom:longitude":29.035604,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cad. No:49 Etiler",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 247 7477",
+    "sg:postcode":"16220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HffjQuac0ajjGHVJnaW0k_41.081142_29.035604@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065389,
+    "wof:geomhash":"a8b5a60622c0579b61823813f24d14bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108594163
+        }
+    ],
+    "wof:id":1108594163,
+    "wof:lastmodified":1474065389,
+    "wof:name":"Akevlab. Ilac San. Ltd. Sti.",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.0356044769,
+    41.0811424255,
+    29.0356044769,
+    41.0811424255
+],
+  "geometry": {"coordinates":[29.0356044769,41.0811424255],"type":"Point"}
+}

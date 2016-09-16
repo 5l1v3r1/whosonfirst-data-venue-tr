@@ -1,0 +1,74 @@
+{
+  "id": 1108628747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0427913666,41.0161628723,29.0427913666,41.0161628723",
+    "geom:latitude":41.016163,
+    "geom:longitude":29.042791,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tophanelioglu Cad. No: 56 Altunizade",
+    "sg:city":"?sk?dar",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3431000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15IZVLC09nSJSPkYNSWMLt_41.016163_29.042791@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066845,
+    "wof:geomhash":"046baa92a0eb54b4b3078f047b3d26ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108628747
+        }
+    ],
+    "wof:id":1108628747,
+    "wof:lastmodified":1474066845,
+    "wof:name":"Urania Turizm",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0427913666,
+    41.0161628723,
+    29.0427913666,
+    41.0161628723
+],
+  "geometry": {"coordinates":[29.0427913666,41.0161628723],"type":"Point"}
+}

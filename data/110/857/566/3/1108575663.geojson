@@ -1,0 +1,68 @@
+{
+  "id": 1108575663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7812709808,41.0783958435,28.7812709808,41.0783958435",
+    "geom:latitude":41.078396,
+    "geom:longitude":28.781271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cd. 24-26",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929961,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yRLgyu549jVWbI3TaI1g7_41.078396_28.781271@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064687,
+    "wof:geomhash":"c198db7ac3b40987aa8a6f732282b304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":1108575663
+        }
+    ],
+    "wof:id":1108575663,
+    "wof:lastmodified":1474064687,
+    "wof:name":"Mehmet Sedat Akdemir",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    28.7812709808,
+    41.0783958435,
+    28.7812709808,
+    41.0783958435
+],
+  "geometry": {"coordinates":[28.7812709808,41.0783958435],"type":"Point"}
+}

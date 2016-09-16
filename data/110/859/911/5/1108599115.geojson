@@ -1,0 +1,70 @@
+{
+  "id": 1108599115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9692211151,41.0257720947,28.9692211151,41.0257720947",
+    "geom:latitude":41.025772,
+    "geom:longitude":28.969221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yolcu Iskender Cd. No:54",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 235 9596",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904111,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yiwehEbXX1QxjAfF4C6zZ_41.025772_28.969221@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065593,
+    "wof:geomhash":"6b20e9adc4445057331b0bd6ebeae845",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904111,
+            "region_id":85679237,
+            "venue_id":1108599115
+        }
+    ],
+    "wof:id":1108599115,
+    "wof:lastmodified":1474065593,
+    "wof:name":"Mimsan Aydinlatma San.",
+    "wof:parent_id":85904111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9692211151,
+    41.0257720947,
+    28.9692211151,
+    41.0257720947
+],
+  "geometry": {"coordinates":[28.9692211151,41.0257720947],"type":"Point"}
+}

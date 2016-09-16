@@ -1,0 +1,71 @@
+{
+  "id": 1108593587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9011459351,39.9575805664,32.9011459351,39.9575805664",
+    "geom:latitude":39.957581,
+    "geom:longitude":32.901146,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karacakaya Cd. No:83",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 8688",
+    "sg:postcode":"07070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t8dhTvlAmGyibTuOtDl3C_39.957581_32.901146@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065366,
+    "wof:geomhash":"db34e29b8f1e94e35a35b51de163f949",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108593587
+        }
+    ],
+    "wof:id":1108593587,
+    "wof:lastmodified":1474065366,
+    "wof:name":"Hisar Mensucat Pazarlama Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    32.9011459351,
+    39.9575805664,
+    32.9011459351,
+    39.9575805664
+],
+  "geometry": {"coordinates":[32.9011459351,39.9575805664],"type":"Point"}
+}

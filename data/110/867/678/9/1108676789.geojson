@@ -1,0 +1,77 @@
+{
+  "id": 1108676789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"31.9981307983,36.5456695557,31.9981307983,36.5456695557",
+    "geom:latitude":36.54567,
+    "geom:longitude":31.998131,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Okurcular Sok.alanya",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 527 4110",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85934701,
+        85934653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16zAGucPO4OaVxkXvjQQrz_36.545670_31.998131@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068919,
+    "wof:geomhash":"5613a79add1a329fab2bfbfd568fb079",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934701,
+            "region_id":85679263,
+            "venue_id":1108676789
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934653,
+            "venue_id":1108676789
+        }
+    ],
+    "wof:id":1108676789,
+    "wof:lastmodified":1474068919,
+    "wof:name":"Kaya Ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    31.9981307983,
+    36.5456695557,
+    31.9981307983,
+    36.5456695557
+],
+  "geometry": {"coordinates":[31.9981307983,36.5456695557],"type":"Point"}
+}

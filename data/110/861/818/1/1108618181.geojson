@@ -1,0 +1,62 @@
+{
+  "id": 1108618181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2948131561,40.8166389465,29.2948131561,40.8166389465",
+    "geom:latitude":40.816639,
+    "geom:longitude":29.294813,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sahilyolu",
+    "sg:city":"Sultanahmet",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 517 4400",
+    "sg:postcode":"34400",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uRQEhNSS8dBAhbqslY9mJ_40.816639_29.294813@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066397,
+    "wof:geomhash":"631e5af4fc7ed5920d23cd8f98d98b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930147,
+            "region_id":85679237,
+            "venue_id":1108618181
+        }
+    ],
+    "wof:id":1108618181,
+    "wof:lastmodified":1474066397,
+    "wof:name":"Kalyon Hotel",
+    "wof:parent_id":85930147,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2948131561,
+    40.8166389465,
+    29.2948131561,
+    40.8166389465
+],
+  "geometry": {"coordinates":[29.2948131561,40.8166389465],"type":"Point"}
+}

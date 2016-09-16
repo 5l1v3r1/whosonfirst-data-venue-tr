@@ -1,0 +1,69 @@
+{
+  "id": 1108652141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8713607788,39.9338378906,32.8713607788,39.9338378906",
+    "geom:latitude":39.933838,
+    "geom:longitude":32.871361,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Blv. No:140/30 Cebeci",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 363 2705",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s4fqnSnw77h0XAkT0wxTW_39.933838_32.871361@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067941,
+    "wof:geomhash":"ecc4fad340e16ad4b420120b37361524",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108652141
+        }
+    ],
+    "wof:id":1108652141,
+    "wof:lastmodified":1474067941,
+    "wof:name":"Bilgen Tip Medikal Ltd. Sti.",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine"
+    ]
+},
+  "bbox": [
+    32.8713607788,
+    39.9338378906,
+    32.8713607788,
+    39.9338378906
+],
+  "geometry": {"coordinates":[32.8713607788,39.9338378906],"type":"Point"}
+}

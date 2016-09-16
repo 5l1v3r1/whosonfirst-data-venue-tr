@@ -1,0 +1,73 @@
+{
+  "id": 1108598021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8464565277,40.9959640503,28.8464565277,40.9959640503",
+    "geom:latitude":40.995964,
+    "geom:longitude":28.846457,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Karabekir Mah.4/3 Sok. No: 3",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 550 9638",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56UVOpd3nlSNPvJ5Uzrbc3_40.995964_28.846457@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065549,
+    "wof:geomhash":"660996f5a7bb713568b6b74fca05f099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108598021
+        }
+    ],
+    "wof:id":1108598021,
+    "wof:lastmodified":1474065549,
+    "wof:name":"Nehir Asansor",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    28.8464565277,
+    40.9959640503,
+    28.8464565277,
+    40.9959640503
+],
+  "geometry": {"coordinates":[28.8464565277,40.9959640503],"type":"Point"}
+}

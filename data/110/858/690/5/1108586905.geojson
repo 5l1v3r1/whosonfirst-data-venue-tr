@@ -1,0 +1,68 @@
+{
+  "id": 1108586905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.970457077,41.0120048523,28.970457077,41.0120048523",
+    "geom:latitude":41.012005,
+    "geom:longitude":28.970457,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hoca Hani Sok. Hamdi Bey Gecidi No:57 Eminonu",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 520 7935",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMRMF0DGN2LeVgasPR4dZ_41.012005_28.970457@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065180,
+    "wof:geomhash":"3fe760f0326f1180e078992914a1453b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108586905
+        }
+    ],
+    "wof:id":1108586905,
+    "wof:lastmodified":1474065180,
+    "wof:name":"Ozen Mensucat San.tic. A.s.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    28.970457077,
+    41.0120048523,
+    28.970457077,
+    41.0120048523
+],
+  "geometry": {"coordinates":[28.970457077,41.0120048523],"type":"Point"}
+}

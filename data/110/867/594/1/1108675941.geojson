@@ -1,0 +1,72 @@
+{
+  "id": 1108675941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0213069916,41.0791244507,29.0213069916,41.0791244507",
+    "geom:latitude":41.079124,
+    "geom:longitude":29.021307,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Altzeren Sok. 7, 1.levent",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 6348",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ALhZabY5QTCJmWhSOT3ze_41.079124_29.021307@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068890,
+    "wof:geomhash":"cf773cde524b48897037f4939cb5d234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":1108675941
+        }
+    ],
+    "wof:id":1108675941,
+    "wof:lastmodified":1474068890,
+    "wof:name":"Birlesik Arap Emirlikleri",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    29.0213069916,
+    41.0791244507,
+    29.0213069916,
+    41.0791244507
+],
+  "geometry": {"coordinates":[29.0213069916,41.0791244507],"type":"Point"}
+}

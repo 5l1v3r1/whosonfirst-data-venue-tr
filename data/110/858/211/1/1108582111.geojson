@@ -1,0 +1,68 @@
+{
+  "id": 1108582111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8415870667,39.8944015503,32.8415870667,39.8944015503",
+    "geom:latitude":39.894402,
+    "geom:longitude":32.841587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dikmen Cd. No:118/b",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 482 1210",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DCOaUkLuTsK9qxFRtU093_39.894402_32.841587@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065065,
+    "wof:geomhash":"57f6e86363e68c9c5a5403e682b1f19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108582111
+        }
+    ],
+    "wof:id":1108582111,
+    "wof:lastmodified":1474065065,
+    "wof:name":"Uzun ?z Otomotiv San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    32.8415870667,
+    39.8944015503,
+    32.8415870667,
+    39.8944015503
+],
+  "geometry": {"coordinates":[32.8415870667,39.8944015503],"type":"Point"}
+}

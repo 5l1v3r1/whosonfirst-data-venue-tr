@@ -1,0 +1,70 @@
+{
+  "id": 1108644167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1585617065,40.9999961853,29.1585617065,40.9999961853",
+    "geom:latitude":40.999996,
+    "geom:longitude":29.158562,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imes Sanayi Sitesi E Blok 504 Sok. No:11-13",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 3402",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iIuV6SPJGU3sIDfLFoF4n_40.999996_29.158562@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067568,
+    "wof:geomhash":"6a535714c46ccfaf6b94fa3f12a75442",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108644167
+        }
+    ],
+    "wof:id":1108644167,
+    "wof:lastmodified":1474067568,
+    "wof:name":"?z-mak Makina Yedek Par?a San.ve Tic.ltd.sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "spare"
+    ]
+},
+  "bbox": [
+    29.1585617065,
+    40.9999961853,
+    29.1585617065,
+    40.9999961853
+],
+  "geometry": {"coordinates":[29.1585617065,40.9999961853],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108655467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8573646545,39.9104576111,32.8573646545,39.9104576111",
+    "geom:latitude":39.910458,
+    "geom:longitude":32.857365,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunus Cd. No:50/10 Kavaklidere",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 1471",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HQx42tjTi5lR3yqUEzx0e_39.910458_32.857365@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068078,
+    "wof:geomhash":"8b17397b5e10a395353ef0a18b77c966",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108655467
+        }
+    ],
+    "wof:id":1108655467,
+    "wof:lastmodified":1474068078,
+    "wof:name":"Kuzeyanadolu Madencilik Ltd. Sti.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8573646545,
+    39.9104576111,
+    32.8573646545,
+    39.9104576111
+],
+  "geometry": {"coordinates":[32.8573646545,39.9104576111],"type":"Point"}
+}

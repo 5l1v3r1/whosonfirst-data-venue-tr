@@ -1,0 +1,68 @@
+{
+  "id": 1108675975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.876209259,39.8921089172,32.876209259,39.8921089172",
+    "geom:latitude":39.892109,
+    "geom:longitude":32.876209,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahatma Cad.no:56 G.o.p.",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 5831",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3idIM6ODYlYun5cP2zmlGT_39.892109_32.876209@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068891,
+    "wof:geomhash":"597c344c3454da287d14fd812d177239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108675975
+        }
+    ],
+    "wof:id":1108675975,
+    "wof:lastmodified":1474068891,
+    "wof:name":"Filipinler B?y?kel?iligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.876209259,
+    39.8921089172,
+    32.876209259,
+    39.8921089172
+],
+  "geometry": {"coordinates":[32.876209259,39.8921089172],"type":"Point"}
+}

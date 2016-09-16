@@ -1,0 +1,69 @@
+{
+  "id": 1108602863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0132408142,41.0194396973,29.0132408142,41.0194396973",
+    "geom:latitude":41.01944,
+    "geom:longitude":29.013241,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halk Cd. No:76",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 391 7091",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76K3CXAJvyUd0WrCfCd6hR_41.019440_29.013241@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065749,
+    "wof:geomhash":"aa117b169891b1eb0cfc2221d88c43d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904151,
+            "venue_id":1108602863
+        }
+    ],
+    "wof:id":1108602863,
+    "wof:lastmodified":1474065749,
+    "wof:name":"?zdemir M?h. Dogalgaz Isi",
+    "wof:parent_id":85904151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0132408142,
+    41.0194396973,
+    29.0132408142,
+    41.0194396973
+],
+  "geometry": {"coordinates":[29.0132408142,41.0194396973],"type":"Point"}
+}

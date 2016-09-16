@@ -1,0 +1,69 @@
+{
+  "id": 1108580803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1702098846,41.0106925964,29.1702098846,41.0106925964",
+    "geom:latitude":41.010693,
+    "geom:longitude":29.17021,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurkculer Cad.y.dudullu",
+    "sg:city":"Pinarbasi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2163136709729",
+    "sg:postcode":"07630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cqnOYzTfzTLBO924zuNOK_41.010693_29.170210@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065031,
+    "wof:geomhash":"af5edf96332e3fce51f237c6ec011241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108580803
+        }
+    ],
+    "wof:id":1108580803,
+    "wof:lastmodified":1474065031,
+    "wof:name":"Kuralkan Motorlu Araclar A.s.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.1702098846,
+    41.0106925964,
+    29.1702098846,
+    41.0106925964
+],
+  "geometry": {"coordinates":[29.1702098846,41.0106925964],"type":"Point"}
+}

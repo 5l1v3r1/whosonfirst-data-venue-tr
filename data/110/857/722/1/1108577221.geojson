@@ -1,0 +1,72 @@
+{
+  "id": 1108577221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.5943889618,41.0162506104,28.5943889618,41.0162506104",
+    "geom:latitude":41.016251,
+    "geom:longitude":28.594389,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Munir Nurettin Cd.",
+    "sg:city":"Kalamis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 346 1477",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930205,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCsVkz4X5LaaWYuSIAIxG_41.016251_28.594389@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064782,
+    "wof:geomhash":"770350986372d0ffb7e1b87dae8948b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930205,
+            "region_id":85679237,
+            "venue_id":1108577221
+        }
+    ],
+    "wof:id":1108577221,
+    "wof:lastmodified":1474064782,
+    "wof:name":"Tek-art Kalamis A.s.",
+    "wof:parent_id":85930205,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ]
+},
+  "bbox": [
+    28.5943889618,
+    41.0162506104,
+    28.5943889618,
+    41.0162506104
+],
+  "geometry": {"coordinates":[28.5943889618,41.0162506104],"type":"Point"}
+}

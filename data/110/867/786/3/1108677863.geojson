@@ -1,0 +1,73 @@
+{
+  "id": 1108677863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0169315338,41.0546836853,29.0169315338,41.0546836853",
+    "geom:latitude":41.054684,
+    "geom:longitude":29.016932,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cad.basa Sok.isil Apt. No: 16/1",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 278 9536",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zbGPSZDBPM9h1lEo9Ineh_41.054684_29.016932@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068955,
+    "wof:geomhash":"c7f43625de961ae180aa7b2b8938b393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108677863
+        }
+    ],
+    "wof:id":1108677863,
+    "wof:lastmodified":1474068955,
+    "wof:name":"Lokman Hekim Sag.vakfi",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0169315338,
+    41.0546836853,
+    29.0169315338,
+    41.0546836853
+],
+  "geometry": {"coordinates":[29.0169315338,41.0546836853],"type":"Point"}
+}

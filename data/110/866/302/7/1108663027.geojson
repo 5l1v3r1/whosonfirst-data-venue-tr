@@ -1,0 +1,69 @@
+{
+  "id": 1108663027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1441345215,38.4346733093,27.1441345215,38.4346733093",
+    "geom:latitude":38.434673,
+    "geom:longitude":27.144135,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1438. Sk. No:10 D:4 Alsancak",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 323 2463",
+    "sg:postcode":"01940",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iJ3u00nMEJCrKKfWvNzhs_38.434673_27.144135@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068367,
+    "wof:geomhash":"def0191516d916347435d1ab20fb071e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108663027
+        }
+    ],
+    "wof:id":1108663027,
+    "wof:lastmodified":1474068367,
+    "wof:name":"Orva Ilac",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    27.1441345215,
+    38.4346733093,
+    27.1441345215,
+    38.4346733093
+],
+  "geometry": {"coordinates":[27.1441345215,38.4346733093],"type":"Point"}
+}

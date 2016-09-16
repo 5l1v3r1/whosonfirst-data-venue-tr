@@ -1,0 +1,71 @@
+{
+  "id": 1108596605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1403312683,38.4270858765,27.1403312683,38.4270858765",
+    "geom:latitude":38.427086,
+    "geom:longitude":27.140331,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Esref Bulv. No.33/2",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 425 1059",
+    "sg:postcode":"34520",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aSxy4AM9v9ptBNtHKflVt_38.427086_27.140331@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065497,
+    "wof:geomhash":"842c143e53a88824814569dd356ae6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108596605
+        }
+    ],
+    "wof:id":1108596605,
+    "wof:lastmodified":1474065497,
+    "wof:name":"Dersan Deri Ltd. Sti.",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1403312683,
+    38.4270858765,
+    27.1403312683,
+    38.4270858765
+],
+  "geometry": {"coordinates":[27.1403312683,38.4270858765],"type":"Point"}
+}

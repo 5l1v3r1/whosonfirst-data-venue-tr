@@ -1,0 +1,75 @@
+{
+  "id": 1108594451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0663566589,40.9993476868,29.0663566589,40.9993476868",
+    "geom:latitude":40.999348,
+    "geom:longitude":29.066357,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?nalan Mah. G?es Sok. No: 16",
+    "sg:city":"?stg?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 542 8300",
+    "sg:postcode":"34700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tT3qB5gYbUI5Rv3kFtEEP_40.999348_29.066357@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065400,
+    "wof:geomhash":"5c883e276e50218cea4b4dc28916cb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108594451
+        }
+    ],
+    "wof:id":1108594451,
+    "wof:lastmodified":1474065400,
+    "wof:name":"Maya Laboratuvar Malzemeleri Sanayi Ve Ticaret Ltd. Sti.",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    29.0663566589,
+    40.9993476868,
+    29.0663566589,
+    40.9993476868
+],
+  "geometry": {"coordinates":[29.0663566589,40.9993476868],"type":"Point"}
+}

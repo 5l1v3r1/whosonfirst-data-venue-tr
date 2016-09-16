@@ -1,0 +1,68 @@
+{
+  "id": 1108678769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0025119781,41.0609779358,29.0025119781,41.0609779358",
+    "geom:latitude":41.060978,
+    "geom:longitude":29.002512,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Omerpasa Sok. Hurriyet Apt. No: 49/2",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 0630",
+    "sg:postcode":"01220",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GaBmBq8j69pdGFo0apRQx_41.060978_29.002512@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068998,
+    "wof:geomhash":"7ad2c8007d5f3a6daf815ff129e105ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108678769
+        }
+    ],
+    "wof:id":1108678769,
+    "wof:lastmodified":1474068998,
+    "wof:name":"Nel Intl Transportation & Trade Ltd.",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0025119781,
+    41.0609779358,
+    29.0025119781,
+    41.0609779358
+],
+  "geometry": {"coordinates":[29.0025119781,41.0609779358],"type":"Point"}
+}

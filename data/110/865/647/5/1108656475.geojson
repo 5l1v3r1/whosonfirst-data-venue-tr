@@ -1,0 +1,71 @@
+{
+  "id": 1108656475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4990272522,37.8715362549,32.4990272522,37.8715362549",
+    "geom:latitude":37.871536,
+    "geom:longitude":32.499027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B?san ?zel Organize San 5. Sok.no 24",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 345 0805",
+    "sg:postcode":"42050",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nNzEXGlQ0tIQZzHAepNsv_37.871536_32.499027@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068118,
+    "wof:geomhash":"6a13cb02e1898ae6323e9760394bae70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108656475
+        }
+    ],
+    "wof:id":1108656475,
+    "wof:lastmodified":1474068118,
+    "wof:name":"Kursunel Kalip",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    32.4990272522,
+    37.8715362549,
+    32.4990272522,
+    37.8715362549
+],
+  "geometry": {"coordinates":[32.4990272522,37.8715362549],"type":"Point"}
+}

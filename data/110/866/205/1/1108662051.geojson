@@ -1,0 +1,67 @@
+{
+  "id": 1108662051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9762134552,41.0155601501,28.9762134552,41.0155601501",
+    "geom:latitude":41.01556,
+    "geom:longitude":28.976213,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cd. No:107 Sirkeci",
+    "sg:city":"Iskitler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 7999",
+    "sg:postcode":"06070",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NyWav5qddDjGS4AYruAA1_41.015560_28.976213@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068328,
+    "wof:geomhash":"a568a3e98019863c62f307b7554c2911",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108662051
+        }
+    ],
+    "wof:id":1108662051,
+    "wof:lastmodified":1474068328,
+    "wof:name":"?akalo Kagit?ilik Tic.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.9762134552,
+    41.0155601501,
+    28.9762134552,
+    41.0155601501
+],
+  "geometry": {"coordinates":[28.9762134552,41.0155601501],"type":"Point"}
+}

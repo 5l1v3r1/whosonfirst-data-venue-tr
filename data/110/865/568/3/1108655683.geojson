@@ -1,0 +1,71 @@
+{
+  "id": 1108655683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1183834076,38.4562225342,27.1183834076,38.4562225342",
+    "geom:latitude":38.456223,
+    "geom:longitude":27.118383,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karsiyaka 1717. Cd. No:59",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3296338",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yiz7bs6f7F1O7SllIyeny_38.456223_27.118383@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068086,
+    "wof:geomhash":"11cbe6598d6e6946fcb9004aca1e59a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108655683
+        }
+    ],
+    "wof:id":1108655683,
+    "wof:lastmodified":1474068086,
+    "wof:name":"Temizocak Kuyumculuk San. Tic. A.s.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.1183834076,
+    38.4562225342,
+    27.1183834076,
+    38.4562225342
+],
+  "geometry": {"coordinates":[27.1183834076,38.4562225342],"type":"Point"}
+}

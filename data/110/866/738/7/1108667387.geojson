@@ -1,0 +1,68 @@
+{
+  "id": 1108667387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8829040527,41.0204353333,28.8829040527,41.0204353333",
+    "geom:latitude":41.020435,
+    "geom:longitude":28.882904,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Karabekir Cd.ordu Cd.no:74 A-b",
+    "sg:city":"81230",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 632 7288",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929891,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QyPWn2DWDxV3EmbglNYNR_41.020435_28.882904@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068536,
+    "wof:geomhash":"5aa03253845d16f33181b7ccc78d300e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":1108667387
+        }
+    ],
+    "wof:id":1108667387,
+    "wof:lastmodified":1474068536,
+    "wof:name":"Elyaf Promosyon",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    28.8829040527,
+    41.0204353333,
+    28.8829040527,
+    41.0204353333
+],
+  "geometry": {"coordinates":[28.8829040527,41.0204353333],"type":"Point"}
+}

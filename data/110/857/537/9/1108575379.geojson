@@ -1,0 +1,77 @@
+{
+  "id": 1108575379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0876331329,41.0790061951,29.0876331329,41.0790061951",
+    "geom:latitude":41.079006,
+    "geom:longitude":29.087633,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaptanlar Mevkii Hakim Cikmazi Sok. No:3 D:3",
+    "sg:city":"Kavacik",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 425 7773",
+    "sg:postcode":"15325",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0py7sRC44HigkwKuyzIA5h_41.079006_29.087633@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064677,
+    "wof:geomhash":"5bd87e6a84f34b1721f26e914670aa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108575379
+        }
+    ],
+    "wof:id":1108575379,
+    "wof:lastmodified":1474064677,
+    "wof:name":"Yachting-tur -ahsap",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "yacht",
+        "trough"
+    ]
+},
+  "bbox": [
+    29.0876331329,
+    41.0790061951,
+    29.0876331329,
+    41.0790061951
+],
+  "geometry": {"coordinates":[29.0876331329,41.0790061951],"type":"Point"}
+}

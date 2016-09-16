@@ -1,0 +1,62 @@
+{
+  "id": 1108608879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9470558167,41.0137176514,28.9470558167,41.0137176514",
+    "geom:latitude":41.013718,
+    "geom:longitude":28.947056,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salih Efen. Sk. No:9",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 267 2895",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68JSDf0SL2tKPZfRZCGZDA_41.013718_28.947056@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066031,
+    "wof:geomhash":"05b87f4145e92776df46db07131370f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108608879
+        }
+    ],
+    "wof:id":1108608879,
+    "wof:lastmodified":1474066031,
+    "wof:name":"Denirsped Uluslararasi Nakliyat Tic. A.s.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9470558167,
+    41.0137176514,
+    28.9470558167,
+    41.0137176514
+],
+  "geometry": {"coordinates":[28.9470558167,41.0137176514],"type":"Point"}
+}

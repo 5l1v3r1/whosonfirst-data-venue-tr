@@ -1,0 +1,73 @@
+{
+  "id": 1108657619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0749473572,41.0454826355,29.0749473572,41.0454826355",
+    "geom:latitude":41.045483,
+    "geom:longitude":29.074947,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adem Tuna",
+    "sg:city":"Kusadasi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 657 1002",
+    "sg:postcode":"09400",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929501,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pUFmtdBVZ55jprsntC38P_41.045483_29.074947@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068158,
+    "wof:geomhash":"9f3b8de4e61ab21d202d64759c52e418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237,
+            "venue_id":1108657619
+        }
+    ],
+    "wof:id":1108657619,
+    "wof:lastmodified":1474068158,
+    "wof:name":"Davutlar Belediye Baskani",
+    "wof:parent_id":85929501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0749473572,
+    41.0454826355,
+    29.0749473572,
+    41.0454826355
+],
+  "geometry": {"coordinates":[29.0749473572,41.0454826355],"type":"Point"}
+}

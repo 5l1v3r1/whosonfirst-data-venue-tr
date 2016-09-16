@@ -1,0 +1,72 @@
+{
+  "id": 1108677569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.4126186371,40.7734298706,29.4126186371,40.7734298706",
+    "geom:latitude":40.77343,
+    "geom:longitude":29.412619,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaya Ald. Sk. No:6 Zincirlikuyu",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3040",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679241,
+        85632393,
+        85934725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NCa6BmJZzwmbMnsga6qTS_40.773430_29.412619@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068945,
+    "wof:geomhash":"4001103f7d2b4fc4f2e6fc2d29765e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934725,
+            "region_id":85679241,
+            "venue_id":1108677569
+        }
+    ],
+    "wof:id":1108677569,
+    "wof:lastmodified":1474068945,
+    "wof:name":"Elginkan Vakfi",
+    "wof:parent_id":85934725,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.4126186371,
+    40.7734298706,
+    29.4126186371,
+    40.7734298706
+],
+  "geometry": {"coordinates":[29.4126186371,40.7734298706],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108678397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8029937744,39.9645309448,32.8029937744,39.9645309448",
+    "geom:latitude":39.964531,
+    "geom:longitude":32.802994,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Coskun Sok.",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 327 4660",
+    "sg:postcode":"15030",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904093,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s3glEy0DPi5kZX6SXCuAO_39.964531_32.802994@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068978,
+    "wof:geomhash":"1631a2c236004647f02e392ead99e8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904093,
+            "region_id":85679409,
+            "venue_id":1108678397
+        }
+    ],
+    "wof:id":1108678397,
+    "wof:lastmodified":1474068978,
+    "wof:name":"Asel Denizcilik",
+    "wof:parent_id":85904093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8029937744,
+    39.9645309448,
+    32.8029937744,
+    39.9645309448
+],
+  "geometry": {"coordinates":[32.8029937744,39.9645309448],"type":"Point"}
+}

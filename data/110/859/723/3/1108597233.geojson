@@ -1,0 +1,71 @@
+{
+  "id": 1108597233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9095954895,40.9917449951,28.9095954895,40.9917449951",
+    "geom:latitude":40.991745,
+    "geom:longitude":28.909595,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gokalp Mah.39/1.sok. No:4 Zeytinburnu",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 7636",
+    "sg:postcode":"54000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O9l8brdZoMQXMyo2teZvR_40.991745_28.909595@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065520,
+    "wof:geomhash":"e5aadcc8cf8312f0165dd3ec34b524b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108597233
+        }
+    ],
+    "wof:id":1108597233,
+    "wof:lastmodified":1474065520,
+    "wof:name":"Yesilova Deri Tekstil Urunleri",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9095954895,
+    40.9917449951,
+    28.9095954895,
+    40.9917449951
+],
+  "geometry": {"coordinates":[28.9095954895,40.9917449951],"type":"Point"}
+}

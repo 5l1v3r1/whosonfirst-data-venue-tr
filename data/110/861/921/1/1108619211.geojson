@@ -1,0 +1,68 @@
+{
+  "id": 1108619211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9496078491,41.0093612671,28.9496078491,41.0093612671",
+    "geom:latitude":41.009361,
+    "geom:longitude":28.949608,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turgut Ozal Cad. No:5 Hadimkoy",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21277144885428",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "press",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Byku8WPgFTke3T71k1cx9_41.009361_28.949608@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066441,
+    "wof:geomhash":"effe61b4eb2db9331d4b2ebee50718a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108619211
+        }
+    ],
+    "wof:id":1108619211,
+    "wof:lastmodified":1474066441,
+    "wof:name":"Hidromak Damper Ve Hidrolik Mak. A.s.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "press",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    28.9496078491,
+    41.0093612671,
+    28.9496078491,
+    41.0093612671
+],
+  "geometry": {"coordinates":[28.9496078491,41.0093612671],"type":"Point"}
+}

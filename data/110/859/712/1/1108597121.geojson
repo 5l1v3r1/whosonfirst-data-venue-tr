@@ -1,0 +1,75 @@
+{
+  "id": 1108597121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8959102631,40.9861984253,28.8959102631,40.9861984253",
+    "geom:latitude":40.986198,
+    "geom:longitude":28.89591,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Prof. Turan Gunes Cad. No:29/1 34760 Zeytinburnu",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 664 9311",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofu4c7KoNuIK5N7y3hmZz_40.986198_28.895910@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065517,
+    "wof:geomhash":"b8c70e9d382555f72b48b5674fd630da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108597121
+        }
+    ],
+    "wof:id":1108597121,
+    "wof:lastmodified":1474065517,
+    "wof:name":"Sued Mod",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8959102631,
+    40.9861984253,
+    28.8959102631,
+    40.9861984253
+],
+  "geometry": {"coordinates":[28.8959102631,40.9861984253],"type":"Point"}
+}

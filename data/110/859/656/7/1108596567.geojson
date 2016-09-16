@@ -1,0 +1,70 @@
+{
+  "id": 1108596567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9102478027,40.9933815002,28.9102478027,40.9933815002",
+    "geom:latitude":40.993382,
+    "geom:longitude":28.910248,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gokalp Mah.34.sok. No:58 Zeytinburnu",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 679 1733",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AqWO2Fc7S3tOAoNneSd5V_40.993382_28.910248@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065496,
+    "wof:geomhash":"85c26ac1e2b2780667fd9976154dbd93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108596567
+        }
+    ],
+    "wof:id":1108596567,
+    "wof:lastmodified":1474065496,
+    "wof:name":"Der-ay Deri San.tic.ltd.sti.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9102478027,
+    40.9933815002,
+    28.9102478027,
+    40.9933815002
+],
+  "geometry": {"coordinates":[28.9102478027,40.9933815002],"type":"Point"}
+}

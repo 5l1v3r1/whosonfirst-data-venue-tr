@@ -1,0 +1,72 @@
+{
+  "id": 1108673491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9980258942,41.0788230896,28.9980258942,41.0788230896",
+    "geom:latitude":41.078823,
+    "geom:longitude":28.998026,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Cd. No:103",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 1555",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50OWWfmDHpcgChouJWuQsM_41.078823_28.998026@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068783,
+    "wof:geomhash":"c83a04abee2b31aa511b22c28303f6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108673491
+        }
+    ],
+    "wof:id":1108673491,
+    "wof:lastmodified":1474068783,
+    "wof:name":"Ulusl. Karanfil ?i?ek Evi",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9980258942,
+    41.0788230896,
+    28.9980258942,
+    41.0788230896
+],
+  "geometry": {"coordinates":[28.9980258942,41.0788230896],"type":"Point"}
+}

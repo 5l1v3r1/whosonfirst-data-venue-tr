@@ -1,0 +1,67 @@
+{
+  "id": 1108597465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1272621155,38.4091262817,27.1272621155,38.4091262817",
+    "geom:latitude":38.409126,
+    "geom:longitude":27.127262,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inonu Cad.no:31/b 35270",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 227 6774",
+    "sg:postcode":"01000",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w1ozVq6hosT3l8mPyaCxi_38.409126_27.127262@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065528,
+    "wof:geomhash":"bdf1b1e41f07701cc0a3cbc19296d291",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108597465
+        }
+    ],
+    "wof:id":1108597465,
+    "wof:lastmodified":1474065528,
+    "wof:name":"Atlas Asansorleri",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    27.1272621155,
+    38.4091262817,
+    27.1272621155,
+    38.4091262817
+],
+  "geometry": {"coordinates":[27.1272621155,38.4091262817],"type":"Point"}
+}

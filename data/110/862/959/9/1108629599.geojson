@@ -1,0 +1,73 @@
+{
+  "id": 1108629599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
+    "geom:latitude":41.040855,
+    "geom:longitude":28.986183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ridvanpasa 2.cikmaz Sok. No:85/31 Goztepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 326 6869",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906555,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RnEvn9UmiVVxZiDSkzKYy_41.040855_28.986183@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066890,
+    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906555,
+            "region_id":85679237,
+            "venue_id":1108629599
+        }
+    ],
+    "wof:id":1108629599,
+    "wof:lastmodified":1474066890,
+    "wof:name":"Oss Super Hazirlik",
+    "wof:parent_id":85906555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    28.9861831665,
+    41.0408554077,
+    28.9861831665,
+    41.0408554077
+],
+  "geometry": {"coordinates":[28.9861831665,41.0408554077],"type":"Point"}
+}

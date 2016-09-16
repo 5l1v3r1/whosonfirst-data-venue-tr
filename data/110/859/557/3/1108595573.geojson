@@ -1,0 +1,69 @@
+{
+  "id": 1108595573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.987657547,41.1127586365,28.987657547,41.1127586365",
+    "geom:latitude":41.112759,
+    "geom:longitude":28.987658,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kemerburgaz Yolu No.16 Ayazaga",
+    "sg:city":"Menemen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 289 0010",
+    "sg:postcode":"35660",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ExhKfqkId24YT1ngCjREo_41.112759_28.987658@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065441,
+    "wof:geomhash":"13e2ce313e6948d80d91ec91bd26298e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108595573
+        }
+    ],
+    "wof:id":1108595573,
+    "wof:lastmodified":1474065441,
+    "wof:name":"Arkimya San. A.s.",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical"
+    ]
+},
+  "bbox": [
+    28.987657547,
+    41.1127586365,
+    28.987657547,
+    41.1127586365
+],
+  "geometry": {"coordinates":[28.987657547,41.1127586365],"type":"Point"}
+}

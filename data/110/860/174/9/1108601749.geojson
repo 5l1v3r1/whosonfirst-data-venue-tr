@@ -1,0 +1,71 @@
+{
+  "id": 1108601749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9193897247,41.0300216675,28.9193897247,41.0300216675",
+    "geom:latitude":41.030022,
+    "geom:longitude":28.91939,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahimaga Street No:11",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 5628",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906447,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WuJFzG0hDUcJ7MCv9ZArF_41.030022_28.919390@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065708,
+    "wof:geomhash":"b4cebf44917c84931f1c1307bcc3b1ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906447,
+            "region_id":85679237,
+            "venue_id":1108601749
+        }
+    ],
+    "wof:id":1108601749,
+    "wof:lastmodified":1474065708,
+    "wof:name":"Astek Isi Kons. San. Tic.",
+    "wof:parent_id":85906447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9193897247,
+    41.0300216675,
+    28.9193897247,
+    41.0300216675
+],
+  "geometry": {"coordinates":[28.9193897247,41.0300216675],"type":"Point"}
+}

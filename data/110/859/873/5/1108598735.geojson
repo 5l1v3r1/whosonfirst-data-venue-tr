@@ -1,0 +1,69 @@
+{
+  "id": 1108598735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1528167725,40.915512085,29.1528167725,40.915512085",
+    "geom:latitude":40.915512,
+    "geom:longitude":29.152817,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cevizli Tugay Yolu No:4/25",
+    "sg:city":"Cevizli",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 6159",
+    "sg:postcode":"07650",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gYuVkgmBUmy0yZvjNc1Yb_40.915512_29.152817@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065580,
+    "wof:geomhash":"5616af2edd7b45be807d0c78b5730602",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108598735
+        }
+    ],
+    "wof:id":1108598735,
+    "wof:lastmodified":1474065580,
+    "wof:name":"Bilsan Elektrik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.1528167725,
+    40.915512085,
+    29.1528167725,
+    40.915512085
+],
+  "geometry": {"coordinates":[29.1528167725,40.915512085],"type":"Point"}
+}

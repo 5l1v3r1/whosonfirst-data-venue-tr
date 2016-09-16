@@ -1,0 +1,75 @@
+{
+  "id": 1108654691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0138301849,41.0707740784,29.0138301849,41.0707740784",
+    "geom:latitude":41.070774,
+    "geom:longitude":29.01383,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kore Sehitleri Cad. No:39",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 4252",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UuM40uL7N162LlwLxIbas_41.070774_29.013830@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068048,
+    "wof:geomhash":"3cfe2cfe2a19c989e21dcaacb719eb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108654691
+        }
+    ],
+    "wof:id":1108654691,
+    "wof:lastmodified":1474068048,
+    "wof:name":"Mis S?t Sanayii A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    29.0138301849,
+    41.0707740784,
+    29.0138301849,
+    41.0707740784
+],
+  "geometry": {"coordinates":[29.0138301849,41.0707740784],"type":"Point"}
+}

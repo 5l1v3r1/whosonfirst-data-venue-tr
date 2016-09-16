@@ -1,0 +1,73 @@
+{
+  "id": 1108625521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7091999054,36.8790512085,30.7091999054,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.7092,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Seker Ticaret Merkezi. Kiris K?y?",
+    "sg:city":"?amyuva",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 824 7320",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v7JUNqcPjrsHR5D0w1W55_36.879051_30.709200@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066683,
+    "wof:geomhash":"72912ccc087323b18b3141c2d7e4a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108625521
+        }
+    ],
+    "wof:id":1108625521,
+    "wof:lastmodified":1474066683,
+    "wof:name":"Akay Turizm (antalya Sb.)",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    30.7091999054,
+    36.8790512085,
+    30.7091999054,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7091999054,36.8790512085],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108606867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0776538849,41.0043029785,29.0776538849,41.0043029785",
+    "geom:latitude":41.004303,
+    "geom:longitude":29.077654,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mektep Sokak Vazioglu Apt. 22/8",
+    "sg:city":"Florya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 663 8307",
+    "sg:postcode":"34153",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z98v9Nmxu5G1abQAb2F1W_41.004303_29.077654@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065933,
+    "wof:geomhash":"fca946176aebd7dd77cd55f58f07e6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108606867
+        }
+    ],
+    "wof:id":1108606867,
+    "wof:lastmodified":1474065933,
+    "wof:name":"Sas Sahin Apparel Services",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0776538849,
+    41.0043029785,
+    29.0776538849,
+    41.0043029785
+],
+  "geometry": {"coordinates":[29.0776538849,41.0043029785],"type":"Point"}
+}

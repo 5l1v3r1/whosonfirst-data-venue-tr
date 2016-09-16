@@ -1,0 +1,73 @@
+{
+  "id": 1108673049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0954437256,40.9691467285,29.0954437256,40.9691467285",
+    "geom:latitude":40.969147,
+    "geom:longitude":29.095444,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Boyer Cd. G?bahar Sk. No:13 K:3",
+    "sg:city":"Kozyatagi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 361 4941",
+    "sg:postcode":"34742",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yMJ9JeNj12dQQorzm6VmG_40.969147_29.095444@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068763,
+    "wof:geomhash":"4ed7a62f98de6976e3b4d3689939ec35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108673049
+        }
+    ],
+    "wof:id":1108673049,
+    "wof:lastmodified":1474068763,
+    "wof:name":"G?nes Tohum Islah ?rt. San. Tic. A.s.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0954437256,
+    40.9691467285,
+    29.0954437256,
+    40.9691467285
+],
+  "geometry": {"coordinates":[29.0954437256,40.9691467285],"type":"Point"}
+}

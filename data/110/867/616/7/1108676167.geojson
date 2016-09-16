@@ -1,0 +1,73 @@
+{
+  "id": 1108676167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9932193756,41.0500602722,28.9932193756,41.0500602722",
+    "geom:latitude":41.05006,
+    "geom:longitude":28.993219,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tesvikiye Cad.",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 1116",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZOUXzRaH30F0qjsDQfNLC_41.050060_28.993219@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068898,
+    "wof:geomhash":"8f36199e9f1d279190940dd059e4244e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108676167
+        }
+    ],
+    "wof:id":1108676167,
+    "wof:lastmodified":1474068898,
+    "wof:name":"Tayland",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9932193756,
+    41.0500602722,
+    28.9932193756,
+    41.0500602722
+],
+  "geometry": {"coordinates":[28.9932193756,41.0500602722],"type":"Point"}
+}

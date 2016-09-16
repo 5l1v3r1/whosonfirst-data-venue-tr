@@ -1,0 +1,69 @@
+{
+  "id": 1108570421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9698543549,41.0070724487,28.9698543549,41.0070724487",
+    "geom:latitude":41.007072,
+    "geom:longitude":28.969854,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K??pazar Kible Sk. No:9 Emin?? Istanbul",
+    "sg:city":"Yukari Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 522 5433",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906497,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zNWpc4tBt31rN4EOSc89z_41.007072_28.969854@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064475,
+    "wof:geomhash":"b5623af322146654b35cfff6f598f6b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906497,
+            "region_id":85679237,
+            "venue_id":1108570421
+        }
+    ],
+    "wof:id":1108570421,
+    "wof:lastmodified":1474064475,
+    "wof:name":"Ari Plastik San. Koll. Sti.",
+    "wof:parent_id":85906497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9698543549,
+    41.0070724487,
+    28.9698543549,
+    41.0070724487
+],
+  "geometry": {"coordinates":[28.9698543549,41.0070724487],"type":"Point"}
+}

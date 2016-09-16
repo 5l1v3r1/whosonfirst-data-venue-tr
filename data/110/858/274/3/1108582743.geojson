@@ -1,0 +1,82 @@
+{
+  "id": 1108582743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9881134033,41.0580787659,28.9881134033,41.0580787659",
+    "geom:latitude":41.058079,
+    "geom:longitude":28.988113,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halaskargazi Cd. Etfal Sk. No:288/5 Sisli",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 0020",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85929403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r8EuME7aN8rZRFasr1YJu_41.058079_28.988113@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065079,
+    "wof:geomhash":"d7c0b9b062955387543820fe1ca64a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108582743
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108582743
+        }
+    ],
+    "wof:id":1108582743,
+    "wof:lastmodified":1474065079,
+    "wof:name":"?zel Arma Egitim Merk.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    28.9881134033,
+    41.0580787659,
+    28.9881134033,
+    41.0580787659
+],
+  "geometry": {"coordinates":[28.9881134033,41.0580787659],"type":"Point"}
+}

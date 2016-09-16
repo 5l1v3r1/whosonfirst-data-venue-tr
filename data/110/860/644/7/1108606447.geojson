@@ -1,0 +1,75 @@
+{
+  "id": 1108606447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.836523056,40.9968681335,28.836523056,40.9968681335",
+    "geom:latitude":40.996868,
+    "geom:longitude":28.836523,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zafer Mah.yildirim Beyazit Cad.kurultay Sok.no:4 K:3 D:6",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 654 7385",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gxd0arN5YNoc910S0FROG_40.996868_28.836523@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065906,
+    "wof:geomhash":"d3f790facdaeb4e4164911fb7b5c73a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108606447
+        }
+    ],
+    "wof:id":1108606447,
+    "wof:lastmodified":1474065906,
+    "wof:name":"Nako Uluslararasi Nakliyatve Dis Ticaret Tic. Ltd.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.836523056,
+    40.9968681335,
+    28.836523056,
+    40.9968681335
+],
+  "geometry": {"coordinates":[28.836523056,40.9968681335],"type":"Point"}
+}

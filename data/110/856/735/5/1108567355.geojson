@@ -1,0 +1,71 @@
+{
+  "id": 1108567355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9143352509,41.0327186584,28.9143352509,41.0327186584",
+    "geom:latitude":41.032719,
+    "geom:longitude":28.914335,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dumlupinar Cad. No:3/102 Barampasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 565 3842",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xNqGqSBQAqQojFrsS4z66_41.032719_28.914335@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064344,
+    "wof:geomhash":"e8c896b21190f2854ad3ce977b7b5ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108567355
+        }
+    ],
+    "wof:id":1108567355,
+    "wof:lastmodified":1474064344,
+    "wof:name":"Esarsan Makina Ekipman San.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9143352509,
+    41.0327186584,
+    28.9143352509,
+    41.0327186584
+],
+  "geometry": {"coordinates":[28.9143352509,41.0327186584],"type":"Point"}
+}

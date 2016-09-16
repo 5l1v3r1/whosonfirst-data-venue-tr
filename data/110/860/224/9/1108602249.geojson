@@ -1,0 +1,75 @@
+{
+  "id": 1108602249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0060081482,41.0481567383,29.0060081482,41.0481567383",
+    "geom:latitude":41.048157,
+    "geom:longitude":29.006008,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Cad. No: 45/1",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 7803",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yl5DyBLwYUu6lGIXit1uU_41.048157_29.006008@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065725,
+    "wof:geomhash":"b78946ab9b1b28b67523622488760358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108602249
+        }
+    ],
+    "wof:id":1108602249,
+    "wof:lastmodified":1474065725,
+    "wof:name":"Isites Yapi Ve Endustri Tesisleri San Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0060081482,
+    41.0481567383,
+    29.0060081482,
+    41.0481567383
+],
+  "geometry": {"coordinates":[29.0060081482,41.0481567383],"type":"Point"}
+}

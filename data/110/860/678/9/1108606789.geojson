@@ -1,0 +1,71 @@
+{
+  "id": 1108606789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.6300945282,41.0112571716,28.6300945282,41.0112571716",
+    "geom:latitude":41.011257,
+    "geom:longitude":28.630095,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. Konak Apt. 113/7",
+    "sg:city":"Kiziltoprak",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216330899394",
+    "sg:postcode":"07300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930233,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K0ahYOIP0UCspMbji86rK_41.011257_28.630095@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065929,
+    "wof:geomhash":"985b2b67f6c640f3bcf8cb3df62b6700",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930233,
+            "region_id":85679237,
+            "venue_id":1108606789
+        }
+    ],
+    "wof:id":1108606789,
+    "wof:lastmodified":1474065929,
+    "wof:name":"Rotateks Ltd.",
+    "wof:parent_id":85930233,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.6300945282,
+    41.0112571716,
+    28.6300945282,
+    41.0112571716
+],
+  "geometry": {"coordinates":[28.6300945282,41.0112571716],"type":"Point"}
+}

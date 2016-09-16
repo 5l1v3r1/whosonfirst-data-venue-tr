@@ -1,0 +1,73 @@
+{
+  "id": 1108671337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9823093414,41.037689209,28.9823093414,41.037689209",
+    "geom:latitude":41.037689,
+    "geom:longitude":28.982309,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inonu Cad. No: 2 80090 Taksim",
+    "sg:city":"K???k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21225296315",
+    "sg:postcode":"34620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YdaIv8aso9fZrC7ws0vGf_41.037689_28.982309@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068695,
+    "wof:geomhash":"5257e0b4d617e233750f5669ac218819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108671337
+        }
+    ],
+    "wof:id":1108671337,
+    "wof:lastmodified":1474068695,
+    "wof:name":"Vakif Finansal Kiralama A.s.",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9823093414,
+    41.037689209,
+    28.9823093414,
+    41.037689209
+],
+  "geometry": {"coordinates":[28.9823093414,41.037689209],"type":"Point"}
+}

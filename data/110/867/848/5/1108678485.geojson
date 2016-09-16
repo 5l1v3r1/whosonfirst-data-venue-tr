@@ -1,0 +1,64 @@
+{
+  "id": 1108678485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1439380646,38.4419326782,27.1439380646,38.4419326782",
+    "geom:latitude":38.441933,
+    "geom:longitude":27.143938,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Bulvari No:302",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0067",
+    "sg:postcode":"52750",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J2MvSlr1eBNYx7x0gQs9U_38.441933_27.143938@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068981,
+    "wof:geomhash":"1022ae58d909430f1a0b0f768e21e03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108678485
+        }
+    ],
+    "wof:id":1108678485,
+    "wof:lastmodified":1474068981,
+    "wof:name":"Delta Denizcilik Tic. A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1439380646,
+    38.4419326782,
+    27.1439380646,
+    38.4419326782
+],
+  "geometry": {"coordinates":[27.1439380646,38.4419326782],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108676913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8480148315,39.8963737488,32.8480148315,39.8963737488",
+    "geom:latitude":39.896374,
+    "geom:longitude":32.848015,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cd. No:62/d",
+    "sg:city":"K???kmece Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 9884",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vnD0e6f2tr5F2lR7jh7KG_39.896374_32.848015@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068923,
+    "wof:geomhash":"516e9ed4a365a7eccc146c52e89c9e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108676913
+        }
+    ],
+    "wof:id":1108676913,
+    "wof:lastmodified":1474068923,
+    "wof:name":"Orman Aga? San. A.s.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8480148315,
+    39.8963737488,
+    32.8480148315,
+    39.8963737488
+],
+  "geometry": {"coordinates":[32.8480148315,39.8963737488],"type":"Point"}
+}

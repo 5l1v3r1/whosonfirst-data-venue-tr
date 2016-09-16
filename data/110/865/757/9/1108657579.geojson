@@ -1,0 +1,69 @@
+{
+  "id": 1108657579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.6582679749,39.9814949036,32.6582679749,39.9814949036",
+    "geom:latitude":39.981495,
+    "geom:longitude":32.658268,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasan Akg?",
+    "sg:city":"Ivrindi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 883 6968",
+    "sg:postcode":"10770",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929955,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pfHzqnWbw6BTkPa1KdZZD_39.981495_32.658268@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068156,
+    "wof:geomhash":"4633362b03dfa7c9e157afd379d67834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929955,
+            "region_id":85679409,
+            "venue_id":1108657579
+        }
+    ],
+    "wof:id":1108657579,
+    "wof:lastmodified":1474068156,
+    "wof:name":"B?y?k?ekmece Belediye Baskani",
+    "wof:parent_id":85929955,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    32.6582679749,
+    39.9814949036,
+    32.6582679749,
+    39.9814949036
+],
+  "geometry": {"coordinates":[32.6582679749,39.9814949036],"type":"Point"}
+}

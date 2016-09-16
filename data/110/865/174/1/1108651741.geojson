@@ -1,0 +1,69 @@
+{
+  "id": 1108651741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8570137024,39.9266967773,32.8570137024,39.9266967773",
+    "geom:latitude":39.926697,
+    "geom:longitude":32.857014,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik Sk. No:59/19 Sihhiye",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 430 1153",
+    "sg:postcode":"26000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YFjR41fbzI0wlUWBx9cSB_39.926697_32.857014@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067913,
+    "wof:geomhash":"b903529608045bd9e990b54e1ed97331",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108651741
+        }
+    ],
+    "wof:id":1108651741,
+    "wof:lastmodified":1474067913,
+    "wof:name":"Sante-med Medikal",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8570137024,
+    39.9266967773,
+    32.8570137024,
+    39.9266967773
+],
+  "geometry": {"coordinates":[32.8570137024,39.9266967773],"type":"Point"}
+}

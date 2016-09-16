@@ -1,0 +1,73 @@
+{
+  "id": 1108575437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0317020416,41.0784072876,29.0317020416,41.0784072876",
+    "geom:latitude":41.078407,
+    "geom:longitude":29.031702,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dihayat Sok. No:11 Etiler",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 263 0552",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wpXXdNDN0cBp7ETvOEhMl_41.078407_29.031702@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064679,
+    "wof:geomhash":"acb8137a66742b43c6e0ff37be66512c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":1108575437
+        }
+    ],
+    "wof:id":1108575437,
+    "wof:lastmodified":1474064679,
+    "wof:name":"Alper Yachting",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.0317020416,
+    41.0784072876,
+    29.0317020416,
+    41.0784072876
+],
+  "geometry": {"coordinates":[29.0317020416,41.0784072876],"type":"Point"}
+}

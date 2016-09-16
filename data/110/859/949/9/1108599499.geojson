@@ -1,0 +1,70 @@
+{
+  "id": 1108599499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.5786991119,41.0227012634,28.5786991119,41.0227012634",
+    "geom:latitude":41.022701,
+    "geom:longitude":28.578699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gultur 1.san.sitesi No:46 B.cekmece",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 881 2458",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929861,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VmjGw5IdMA04XCvCp4MVS_41.022701_28.578699@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065613,
+    "wof:geomhash":"1d9f2b7760c74009b6f80a2973977700",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929861,
+            "region_id":85679237,
+            "venue_id":1108599499
+        }
+    ],
+    "wof:id":1108599499,
+    "wof:lastmodified":1474065613,
+    "wof:name":"Kemos Otogaz Donusum S Montaj Ve Servis Hizm.ltd.m",
+    "wof:parent_id":85929861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    28.5786991119,
+    41.0227012634,
+    28.5786991119,
+    41.0227012634
+],
+  "geometry": {"coordinates":[28.5786991119,41.0227012634],"type":"Point"}
+}

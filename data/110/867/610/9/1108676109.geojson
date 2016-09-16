@@ -1,0 +1,69 @@
+{
+  "id": 1108676109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8741264343,39.8948402405,32.8741264343,39.8948402405",
+    "geom:latitude":39.89484,
+    "geom:longitude":32.874126,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kaptanpasa Sk.no:49 G.o.p.",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 1026",
+    "sg:postcode":"07080",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w0H0QpoyroFAdJLoQokm9_39.894840_32.874126@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068895,
+    "wof:geomhash":"11f227d820d3fc79652f4c8dc02a2af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108676109
+        }
+    ],
+    "wof:id":1108676109,
+    "wof:lastmodified":1474068895,
+    "wof:name":"Moldova B?y?kel?iligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8741264343,
+    39.8948402405,
+    32.8741264343,
+    39.8948402405
+],
+  "geometry": {"coordinates":[32.8741264343,39.8948402405],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108593893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0189971924,41.0740280151,29.0189971924,41.0740280151",
+    "geom:latitude":41.074028,
+    "geom:longitude":29.018997,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Ebcioglu Sok. No:8/12 1. Levent",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 264 6884",
+    "sg:postcode":"34340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k0RgaAJGN9kfBT0sjb2OW_41.074028_29.018997@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065379,
+    "wof:geomhash":"16a2b7bcba8325b43e51756815ed80d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108593893
+        }
+    ],
+    "wof:id":1108593893,
+    "wof:lastmodified":1474065379,
+    "wof:name":"Atotest Ltd. Sti.",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "equipment"
+    ]
+},
+  "bbox": [
+    29.0189971924,
+    41.0740280151,
+    29.0189971924,
+    41.0740280151
+],
+  "geometry": {"coordinates":[29.0189971924,41.0740280151],"type":"Point"}
+}

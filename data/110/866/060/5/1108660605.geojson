@@ -1,0 +1,75 @@
+{
+  "id": 1108660605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9778194427,41.0417251587,28.9778194427,41.0417251587",
+    "geom:latitude":41.041725,
+    "geom:longitude":28.977819,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keresteciler Ali Sk. No:4/6 Dolapdere",
+    "sg:city":"?skudar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 250 8179",
+    "sg:postcode":"34000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906561,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27dQZvbDVZgK8RUCLxho1s_41.041725_28.977819@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068276,
+    "wof:geomhash":"e22dab45edb2886aa63639d62a2b264c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906561,
+            "region_id":85679237,
+            "venue_id":1108660605
+        }
+    ],
+    "wof:id":1108660605,
+    "wof:lastmodified":1474068276,
+    "wof:name":"Mukasan Kutu Ambalaj San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9778194427,
+    41.0417251587,
+    28.9778194427,
+    41.0417251587
+],
+  "geometry": {"coordinates":[28.9778194427,41.0417251587],"type":"Point"}
+}

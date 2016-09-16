@@ -1,0 +1,75 @@
+{
+  "id": 1108652569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9959716797,41.0817260742,28.9959716797,41.0817260742",
+    "geom:latitude":41.081726,
+    "geom:longitude":28.995972,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Samanyolu Sk. Polat 1 Apt. No:28-26 K:3 D:8",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0664",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VZLCqMUAjneTAs3VUvhcU_41.081726_28.995972@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067963,
+    "wof:geomhash":"5334bbd39903cca789bf8731963664e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108652569
+        }
+    ],
+    "wof:id":1108652569,
+    "wof:lastmodified":1474067963,
+    "wof:name":"Marasal Teks. Tic. San. Ltd. Sti.",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9959716797,
+    41.0817260742,
+    28.9959716797,
+    41.0817260742
+],
+  "geometry": {"coordinates":[28.9959716797,41.0817260742],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108667927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9740009308,41.0473365784,28.9740009308,41.0473365784",
+    "geom:latitude":41.047337,
+    "geom:longitude":28.974001,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Sevket Bey Sk. No:2/9 Sisli",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 9708",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929499,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G5CbJBRyLRv9OMrKypDUX_41.047337_28.974001@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068557,
+    "wof:geomhash":"60206306b5b0c5f2714910be691e8afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929499,
+            "region_id":85679237,
+            "venue_id":1108667927
+        }
+    ],
+    "wof:id":1108667927,
+    "wof:lastmodified":1474068557,
+    "wof:name":"Aysa Tarim San. ?r?n. Pazarlama Ltd. Sti.",
+    "wof:parent_id":85929499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.9740009308,
+    41.0473365784,
+    28.9740009308,
+    41.0473365784
+],
+  "geometry": {"coordinates":[28.9740009308,41.0473365784],"type":"Point"}
+}

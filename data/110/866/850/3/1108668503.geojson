@@ -1,0 +1,71 @@
+{
+  "id": 1108668503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9222888947,41.0196380615,28.9222888947,41.0196380615",
+    "geom:latitude":41.019638,
+    "geom:longitude":28.922289,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maltepe Cd. No:10 Topkapi",
+    "sg:city":"Moda",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 9146",
+    "sg:postcode":"81300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yBY22eEvABbtRcGTbFyT5_41.019638_28.922289@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068587,
+    "wof:geomhash":"35912f65d95aebb2406ca62bd7f20d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108668503
+        }
+    ],
+    "wof:id":1108668503,
+    "wof:lastmodified":1474068587,
+    "wof:name":"?nc? Klisecilik Matbaaci. A.s.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.9222888947,
+    41.0196380615,
+    28.9222888947,
+    41.0196380615
+],
+  "geometry": {"coordinates":[28.9222888947,41.0196380615],"type":"Point"}
+}

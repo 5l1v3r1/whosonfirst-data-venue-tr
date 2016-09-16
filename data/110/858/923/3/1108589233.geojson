@@ -1,0 +1,77 @@
+{
+  "id": 1108589233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0259284973,40.994430542,29.0259284973,40.994430542",
+    "geom:latitude":40.994431,
+    "geom:longitude":29.025928,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rasimpasa Mah. Izzettin Sok. No:23",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 345 3845",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66a8hBHzUn2ay9esC33NTm_40.994431_29.025928@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065233,
+    "wof:geomhash":"bdb8c4fb3db1a979e90c6ab479346da7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108589233
+        }
+    ],
+    "wof:id":1108589233,
+    "wof:lastmodified":1474065233,
+    "wof:name":"Arme Muh. Proje Ve Yanginla Mucadele Hizmetleri San.tic. Ltd.sti.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    29.0259284973,
+    40.994430542,
+    29.0259284973,
+    40.994430542
+],
+  "geometry": {"coordinates":[29.0259284973,40.994430542],"type":"Point"}
+}

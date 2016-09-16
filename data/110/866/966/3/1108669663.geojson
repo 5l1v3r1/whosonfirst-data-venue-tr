@@ -1,0 +1,72 @@
+{
+  "id": 1108669663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9872131348,41.0476799011,28.9872131348,41.0476799011",
+    "geom:latitude":41.04768,
+    "geom:longitude":28.987213,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad.no:329 Harbiye",
+    "sg:city":"Bakirk?y",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 219 3939",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uPL0bKLCDks2MMFOOLxep_41.047680_28.987213@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068632,
+    "wof:geomhash":"3d2de3574258c0ea9ac0acf22e614d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108669663
+        }
+    ],
+    "wof:id":1108669663,
+    "wof:lastmodified":1474068632,
+    "wof:name":"Yapi-endustri Merkezi",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    28.9872131348,
+    41.0476799011,
+    28.9872131348,
+    41.0476799011
+],
+  "geometry": {"coordinates":[28.9872131348,41.0476799011],"type":"Point"}
+}

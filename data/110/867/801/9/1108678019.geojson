@@ -1,0 +1,69 @@
+{
+  "id": 1108678019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9200153351,41.056678772,28.9200153351,41.056678772",
+    "geom:latitude":41.056679,
+    "geom:longitude":28.920015,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cinarcik Sk. No:73 G.osmanpasa",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2125641549329",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YRTPBFilbj5ExZDBSOwzH_41.056679_28.920015@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068962,
+    "wof:geomhash":"f81433d6b7792a46c26c2cddbac7d2f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108678019
+        }
+    ],
+    "wof:id":1108678019,
+    "wof:lastmodified":1474068962,
+    "wof:name":"Sualti Sporlarini Ve Sualti Degerlerini Koruma Vakfi",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9200153351,
+    41.056678772,
+    28.9200153351,
+    41.056678772
+],
+  "geometry": {"coordinates":[28.9200153351,41.056678772],"type":"Point"}
+}

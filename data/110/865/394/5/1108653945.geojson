@@ -1,0 +1,73 @@
+{
+  "id": 1108653945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1221847534,40.9368057251,29.1221847534,40.9368057251",
+    "geom:latitude":40.936806,
+    "geom:longitude":29.122185,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:277 Maltepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 1919",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Z57PQW8N3mnNeRBl90Ip_40.936806_29.122185@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068016,
+    "wof:geomhash":"e58832f20402f3d4b6463284795a7d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":1108653945
+        }
+    ],
+    "wof:id":1108653945,
+    "wof:lastmodified":1474068016,
+    "wof:name":"S?zen Metal San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1221847534,
+    40.9368057251,
+    29.1221847534,
+    40.9368057251
+],
+  "geometry": {"coordinates":[29.1221847534,40.9368057251],"type":"Point"}
+}

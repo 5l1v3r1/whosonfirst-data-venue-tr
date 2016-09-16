@@ -1,0 +1,75 @@
+{
+  "id": 1108594997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9768562317,41.0333213806,28.9768562317,41.0333213806",
+    "geom:latitude":41.033321,
+    "geom:longitude":28.976856,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cd. N:230 K:3",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 7400",
+    "sg:postcode":"34430",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nkD2LefnXZ8dsw9Ca9uQl_41.033321_28.976856@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065419,
+    "wof:geomhash":"4989ebf11fb1993f98a3c5fc13830967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108594997
+        }
+    ],
+    "wof:id":1108594997,
+    "wof:lastmodified":1474065419,
+    "wof:name":"Berlitz Dil Egitim Merkezi",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "language"
+    ]
+},
+  "bbox": [
+    28.9768562317,
+    41.0333213806,
+    28.9768562317,
+    41.0333213806
+],
+  "geometry": {"coordinates":[28.9768562317,41.0333213806],"type":"Point"}
+}

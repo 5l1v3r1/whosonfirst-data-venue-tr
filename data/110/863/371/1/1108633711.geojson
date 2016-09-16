@@ -1,0 +1,75 @@
+{
+  "id": 1108633711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9767818451,41.033454895,28.9767818451,41.033454895",
+    "geom:latitude":41.033455,
+    "geom:longitude":28.976782,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Cd. No:102",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 2895",
+    "sg:postcode":"07800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "excavation",
+        "demolition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UW3ZVsDGnTMajzzeU5vhT_41.033455_28.976782@1306270066"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067173,
+    "wof:geomhash":"f1ccb27a6a5c2be46021c30a31801172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108633711
+        }
+    ],
+    "wof:id":1108633711,
+    "wof:lastmodified":1474067173,
+    "wof:name":"Top?ular Hafriyat",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "demolition"
+    ]
+},
+  "bbox": [
+    28.9767818451,
+    41.033454895,
+    28.9767818451,
+    41.033454895
+],
+  "geometry": {"coordinates":[28.9767818451,41.033454895],"type":"Point"}
+}

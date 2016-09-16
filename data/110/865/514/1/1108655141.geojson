@@ -1,0 +1,71 @@
+{
+  "id": 1108655141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9116153717,41.0816841125,28.9116153717,41.0816841125",
+    "geom:latitude":41.081684,
+    "geom:longitude":28.911615,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ugur Mumcu Cd. No:5/3 G.osmanpasa",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 436 7027",
+    "sg:postcode":"01350",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929781,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20FlZPJkstTIevV5Xf1OBD_41.081684_28.911615@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068064,
+    "wof:geomhash":"5464ab2fce7c3d5d1b070d0e73840b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929781,
+            "region_id":85679237,
+            "venue_id":1108655141
+        }
+    ],
+    "wof:id":1108655141,
+    "wof:lastmodified":1474068064,
+    "wof:name":"Cemag Madencilik San. Tic. A.s.",
+    "wof:parent_id":85929781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9116153717,
+    41.0816841125,
+    28.9116153717,
+    41.0816841125
+],
+  "geometry": {"coordinates":[28.9116153717,41.0816841125],"type":"Point"}
+}

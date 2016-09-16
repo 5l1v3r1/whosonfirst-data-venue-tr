@@ -1,0 +1,71 @@
+{
+  "id": 1108655677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8960227966,41.0843391418,28.8960227966,41.0843391418",
+    "geom:latitude":41.084339,
+    "geom:longitude":28.896023,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ugur Mumcu Cd. No:48/5 G.osmanpasa",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 437 1388",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05yBgqW1wiR8j1loUaGPZa_41.084339_28.896023@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068085,
+    "wof:geomhash":"046167389c544efb70e49201b68468a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108655677
+        }
+    ],
+    "wof:id":1108655677,
+    "wof:lastmodified":1474068085,
+    "wof:name":"Teknomineral San. Tic. A.s.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.8960227966,
+    41.0843391418,
+    28.8960227966,
+    41.0843391418
+],
+  "geometry": {"coordinates":[28.8960227966,41.0843391418],"type":"Point"}
+}

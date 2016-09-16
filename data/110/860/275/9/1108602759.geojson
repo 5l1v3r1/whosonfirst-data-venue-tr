@@ -1,0 +1,68 @@
+{
+  "id": 1108602759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9512958527,41.0105476379,28.9512958527,41.0105476379",
+    "geom:latitude":41.010548,
+    "geom:longitude":28.951296,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??sekerci Sk. No:68",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 3300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OepbZGOKuenBNYkUyvFxf_41.010548_28.951296@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065745,
+    "wof:geomhash":"d9f8acb6a33c9cf95fc75101fda0b722",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108602759
+        }
+    ],
+    "wof:id":1108602759,
+    "wof:lastmodified":1474065745,
+    "wof:name":"Vizyon Isi Dogalgaz Sistem.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9512958527,
+    41.0105476379,
+    28.9512958527,
+    41.0105476379
+],
+  "geometry": {"coordinates":[28.9512958527,41.0105476379],"type":"Point"}
+}

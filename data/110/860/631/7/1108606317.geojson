@@ -1,0 +1,84 @@
+{
+  "id": 1108606317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0421733856,40.9806861877,29.0421733856,40.9806861877",
+    "geom:latitude":40.980686,
+    "geom:longitude":29.042173,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. No:101",
+    "sg:city":"Rahmanlar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 305 8428",
+    "sg:postcode":"09800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        102191569,
+        85632393,
+        101912677,
+        85679237,
+        85904115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37VfVcPUUBFB8YjNtiioV8_40.980686_29.042173@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065899,
+    "wof:geomhash":"92276ae17efdfe98684e7a2191256a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":1108606317
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108606317
+        }
+    ],
+    "wof:id":1108606317,
+    "wof:lastmodified":1474065899,
+    "wof:name":"Melisa Textil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0421733856,
+    40.9806861877,
+    29.0421733856,
+    40.9806861877
+],
+  "geometry": {"coordinates":[29.0421733856,40.9806861877],"type":"Point"}
+}

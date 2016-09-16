@@ -1,0 +1,71 @@
+{
+  "id": 1108670387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9407081604,41.0298194885,28.9407081604,41.0298194885",
+    "geom:latitude":41.029819,
+    "geom:longitude":28.940708,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasap Sk No.22",
+    "sg:city":"Esentepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2742882",
+    "sg:postcode":"01930",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906459,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZBv9t9cyWZcveZRTa0OAx_41.029819_28.940708@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068656,
+    "wof:geomhash":"34ac4847d21d0dadd27c05e033cdc029",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906459,
+            "region_id":85679237,
+            "venue_id":1108670387
+        }
+    ],
+    "wof:id":1108670387,
+    "wof:lastmodified":1474068656,
+    "wof:name":"G?bre Fabrikalari A.s.",
+    "wof:parent_id":85906459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    28.9407081604,
+    41.0298194885,
+    28.9407081604,
+    41.0298194885
+],
+  "geometry": {"coordinates":[28.9407081604,41.0298194885],"type":"Point"}
+}

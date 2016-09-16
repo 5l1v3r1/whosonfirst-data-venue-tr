@@ -1,0 +1,74 @@
+{
+  "id": 1108672403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0569972992,41.0257911682,29.0569972992,41.0257911682",
+    "geom:latitude":41.025791,
+    "geom:longitude":29.056997,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emniyet Mah. ?elebi Mehmet Sok.no:8/11",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 2671",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906613,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52viHD8srN1CP8CT2re5nn_41.025791_29.056997@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068732,
+    "wof:geomhash":"f775b955ff434de12ceee2b56e0a016c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906613,
+            "region_id":85679237,
+            "venue_id":1108672403
+        }
+    ],
+    "wof:id":1108672403,
+    "wof:lastmodified":1474068732,
+    "wof:name":"Astas Ltd",
+    "wof:parent_id":85906613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0569972992,
+    41.0257911682,
+    29.0569972992,
+    41.0257911682
+],
+  "geometry": {"coordinates":[29.0569972992,41.0257911682],"type":"Point"}
+}

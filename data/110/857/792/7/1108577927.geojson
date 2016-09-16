@@ -1,0 +1,73 @@
+{
+  "id": 1108577927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.876914978,40.9799575806,28.876914978,40.9799575806",
+    "geom:latitude":40.979958,
+    "geom:longitude":28.876915,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imren Sok.no: 6/1 Bakirkoy",
+    "sg:city":"Seyhan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 2271",
+    "sg:postcode":"01111",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pACrfnhVoLqgu9JYrhNLh_40.979958_28.876915@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064862,
+    "wof:geomhash":"5526460f14290be85c541016820ced0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108577927
+        }
+    ],
+    "wof:id":1108577927,
+    "wof:lastmodified":1474064862,
+    "wof:name":"Sektor",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.876914978,
+    40.9799575806,
+    28.876914978,
+    40.9799575806
+],
+  "geometry": {"coordinates":[28.876914978,40.9799575806],"type":"Point"}
+}

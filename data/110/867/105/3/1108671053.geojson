@@ -1,0 +1,72 @@
+{
+  "id": 1108671053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0383529663,41.0238113403,29.0383529663,41.0238113403",
+    "geom:latitude":41.023811,
+    "geom:longitude":29.038353,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haluk Turksoy Sk. No.7 Kisikli, Uskudar",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2164920325729",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906613,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uCmCrnIfz9GIDJMQMJTwQ_41.023811_29.038353@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068684,
+    "wof:geomhash":"4f381a8144dec209861a939c7c3d8336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85906613,
+            "region_id":85679237,
+            "venue_id":1108671053
+        }
+    ],
+    "wof:id":1108671053,
+    "wof:lastmodified":1474068684,
+    "wof:name":"Elit Yonetim Gelistirme Merkezi",
+    "wof:parent_id":85906613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.0383529663,
+    41.0238113403,
+    29.0383529663,
+    41.0238113403
+],
+  "geometry": {"coordinates":[29.0383529663,41.0238113403],"type":"Point"}
+}

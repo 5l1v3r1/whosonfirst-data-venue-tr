@@ -1,0 +1,80 @@
+{
+  "id": 1108673945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8276348114,41.0011863708,28.8276348114,41.0011863708",
+    "geom:latitude":41.001186,
+    "geom:longitude":28.827635,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?oban?sme Mah. Sanayi Cad. No:11",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 452 7292",
+    "sg:postcode":"34196",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "sg:website":"baykur.com.tr",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GMcUkLgR7VxdlfGXzq2Mu_41.001186_28.827635@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068799,
+    "wof:geomhash":"57b767c6ba069240c8cebe36198e8a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108673945
+        }
+    ],
+    "wof:id":1108673945,
+    "wof:lastmodified":1474068799,
+    "wof:name":"Baykur Gida Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    28.8276348114,
+    41.0011863708,
+    28.8276348114,
+    41.0011863708
+],
+  "geometry": {"coordinates":[28.8276348114,41.0011863708],"type":"Point"}
+}

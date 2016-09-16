@@ -1,0 +1,67 @@
+{
+  "id": 1108677425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9513988495,41.0167617798,28.9513988495,41.0167617798",
+    "geom:latitude":41.016762,
+    "geom:longitude":28.951399,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kiztasi Cad. No : 56 / 1",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 533 7202",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lXIZ0oXEs9fCFlGuDNwkz_41.016762_28.951399@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068939,
+    "wof:geomhash":"050a886242e1776126a9a3daaf32e8fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108677425
+        }
+    ],
+    "wof:id":1108677425,
+    "wof:lastmodified":1474068939,
+    "wof:name":"Arastirma Ve K?lt?r Vakfi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9513988495,
+    41.0167617798,
+    28.9513988495,
+    41.0167617798
+],
+  "geometry": {"coordinates":[28.9513988495,41.0167617798],"type":"Point"}
+}

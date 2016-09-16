@@ -1,0 +1,75 @@
+{
+  "id": 1108605493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8385295868,40.9931640625,28.8385295868,40.9931640625",
+    "geom:latitude":40.993164,
+    "geom:longitude":28.83853,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zafer Mah.cam Sok.no:13",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212451100104",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mO6q4dVPC7uuENRLJbPTV_40.993164_28.838530@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065863,
+    "wof:geomhash":"2301dba97095b11360010b42b580adff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108605493
+        }
+    ],
+    "wof:id":1108605493,
+    "wof:lastmodified":1474065863,
+    "wof:name":"Empa Tekstil",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8385295868,
+    40.9931640625,
+    28.8385295868,
+    40.9931640625
+],
+  "geometry": {"coordinates":[28.8385295868,40.9931640625],"type":"Point"}
+}

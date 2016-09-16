@@ -1,0 +1,71 @@
+{
+  "id": 1108668525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0041694641,41.0953063965,29.0041694641,41.0953063965",
+    "geom:latitude":41.095306,
+    "geom:longitude":29.004169,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari Barbaros Apt. No:44/13-14 Balmumcu",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 0500",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gtafTQU3cOthDO1kM4E14_41.095306_29.004169@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068588,
+    "wof:geomhash":"1bc9a2e12f365fdf766c8f896d0f241d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108668525
+        }
+    ],
+    "wof:id":1108668525,
+    "wof:lastmodified":1474068588,
+    "wof:name":"Akal Makina Ve Kimya End?strisi Ekp. Paz. Ltd. Sti",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    29.0041694641,
+    41.0953063965,
+    29.0041694641,
+    41.0953063965
+],
+  "geometry": {"coordinates":[29.0041694641,41.0953063965],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108677365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9842224121,41.0126800537,28.9842224121,41.0126800537",
+    "geom:latitude":41.01268,
+    "geom:longitude":28.984222,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Topkapi Suri? No:38",
+    "sg:city":"Sapanca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 629 0340",
+    "sg:postcode":"54600",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906473,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52SAPCCR06NU0MfkilsUto_41.012680_28.984222@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068938,
+    "wof:geomhash":"4eca645be63dc7033e5dee9ead942459",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906473,
+            "region_id":85679237,
+            "venue_id":1108677365
+        }
+    ],
+    "wof:id":1108677365,
+    "wof:lastmodified":1474068938,
+    "wof:name":"Ahi K?lt?r?n? Arastirma Ve Egt. Vakfi",
+    "wof:parent_id":85906473,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9842224121,
+    41.0126800537,
+    28.9842224121,
+    41.0126800537
+],
+  "geometry": {"coordinates":[28.9842224121,41.0126800537],"type":"Point"}
+}

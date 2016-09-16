@@ -1,0 +1,71 @@
+{
+  "id": 1108646025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.851020813,39.9220809937,32.851020813,39.9220809937",
+    "geom:latitude":39.922081,
+    "geom:longitude":32.851021,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Menekse 2.sok. 35/14 Kizilay",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 419 9244",
+    "sg:postcode":"80650",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "patent",
+        "mark"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FPx6f5IT4Kiv8rJBHaN0E_39.922081_32.851021@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067656,
+    "wof:geomhash":"b565fec8aee7c8a163a9eb7eb8326207",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108646025
+        }
+    ],
+    "wof:id":1108646025,
+    "wof:lastmodified":1474067656,
+    "wof:name":"Paragon Consultancy Inc.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patent",
+        "mark"
+    ]
+},
+  "bbox": [
+    32.851020813,
+    39.9220809937,
+    32.851020813,
+    39.9220809937
+],
+  "geometry": {"coordinates":[32.851020813,39.9220809937],"type":"Point"}
+}

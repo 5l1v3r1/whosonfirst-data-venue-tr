@@ -1,0 +1,74 @@
+{
+  "id": 1108670215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.057182312,40.9728546143,29.057182312,40.9728546143",
+    "geom:latitude":40.972855,
+    "geom:longitude":29.057182,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat C. No.243",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 371 9135",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "feed",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oQ507iP4VczJCYZsRoa8I_40.972855_29.057182@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068651,
+    "wof:geomhash":"7b01b40a3923c5eaa587f75692ee8533",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108670215
+        }
+    ],
+    "wof:id":1108670215,
+    "wof:lastmodified":1474068651,
+    "wof:name":"Mersin Yem Fab. A.s.",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.057182312,
+    40.9728546143,
+    29.057182312,
+    40.9728546143
+],
+  "geometry": {"coordinates":[29.057182312,40.9728546143],"type":"Point"}
+}

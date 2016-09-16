@@ -1,0 +1,69 @@
+{
+  "id": 1108661507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1436233521,38.4391937256,27.1436233521,38.4391937256",
+    "geom:latitude":38.439194,
+    "geom:longitude":27.143623,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1469. Sk. No:30/a Alsancak",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 2936",
+    "sg:postcode":"06",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44PvhnHgmJXiJtVwvRSAac_38.439194_27.143623@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068307,
+    "wof:geomhash":"0cec6c8449f0f4241d635070a2a498a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108661507
+        }
+    ],
+    "wof:id":1108661507,
+    "wof:lastmodified":1474068307,
+    "wof:name":"Cihansan Kagit San. Tic. A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    27.1436233521,
+    38.4391937256,
+    27.1436233521,
+    38.4391937256
+],
+  "geometry": {"coordinates":[27.1436233521,38.4391937256],"type":"Point"}
+}

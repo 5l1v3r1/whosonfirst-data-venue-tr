@@ -1,0 +1,71 @@
+{
+  "id": 1108670829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1454906464,38.430519104,27.1454906464,38.430519104",
+    "geom:latitude":38.430519,
+    "geom:longitude":27.145491,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izmir",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 370 1782",
+    "sg:postcode":"31200",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "filter",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F3rZw9gS62sYPocuxlFqF_38.430519_27.145491@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068676,
+    "wof:geomhash":"c8441a63fca07cfcbfd6fecd491675b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108670829
+        }
+    ],
+    "wof:id":1108670829,
+    "wof:lastmodified":1474068676,
+    "wof:name":"Ege Hidromaksan Co.ltd.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1454906464,
+    38.430519104,
+    27.1454906464,
+    38.430519104
+],
+  "geometry": {"coordinates":[27.1454906464,38.430519104],"type":"Point"}
+}

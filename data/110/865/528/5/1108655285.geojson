@@ -1,0 +1,75 @@
+{
+  "id": 1108655285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0447025299,41.0043487549,29.0447025299,41.0043487549",
+    "geom:latitude":41.004349,
+    "geom:longitude":29.044703,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem Cd. No:115 Acibadem",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 339 8689",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V7kse0Kk2yqXU3ALklsIU_41.004349_29.044703@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068071,
+    "wof:geomhash":"97a51af685aec5a833f685826b3e47f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108655285
+        }
+    ],
+    "wof:id":1108655285,
+    "wof:lastmodified":1474068071,
+    "wof:name":"Etiler Madencilik",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.0447025299,
+    41.0043487549,
+    29.0447025299,
+    41.0043487549
+],
+  "geometry": {"coordinates":[29.0447025299,41.0043487549],"type":"Point"}
+}

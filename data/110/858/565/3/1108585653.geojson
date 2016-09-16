@@ -1,0 +1,69 @@
+{
+  "id": 1108585653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9018993378,41.0471458435,28.9018993378,41.0471458435",
+    "geom:latitude":41.047146,
+    "geom:longitude":28.901899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesilcimen Sk. 75",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 1738",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a05YEDR5TujebNwH06IFl_41.047146_28.901899@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065150,
+    "wof:geomhash":"b910bf1246300dbcc54620f6d643d4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108585653
+        }
+    ],
+    "wof:id":1108585653,
+    "wof:lastmodified":1474065150,
+    "wof:name":"Elmasu A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mineral"
+    ]
+},
+  "bbox": [
+    28.9018993378,
+    41.0471458435,
+    28.9018993378,
+    41.0471458435
+],
+  "geometry": {"coordinates":[28.9018993378,41.0471458435],"type":"Point"}
+}

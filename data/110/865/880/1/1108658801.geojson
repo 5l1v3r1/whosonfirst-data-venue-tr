@@ -1,0 +1,68 @@
+{
+  "id": 1108658801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8765678406,39.9285087585,32.8765678406,39.9285087585",
+    "geom:latitude":39.928509,
+    "geom:longitude":32.876568,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haci Sahin",
+    "sg:city":"Ke??en",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 328 6800",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929569,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jp8QzWEAkOASPoCkk1bAM_39.928509_32.876568@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068206,
+    "wof:geomhash":"c657d69848a813603c91a0191350b951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108658801
+        }
+    ],
+    "wof:id":1108658801,
+    "wof:lastmodified":1474068206,
+    "wof:name":"Pursaklar Belediye Baskani",
+    "wof:parent_id":85929569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    32.8765678406,
+    39.9285087585,
+    32.8765678406,
+    39.9285087585
+],
+  "geometry": {"coordinates":[32.8765678406,39.9285087585],"type":"Point"}
+}

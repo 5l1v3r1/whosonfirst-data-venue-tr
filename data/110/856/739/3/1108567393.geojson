@@ -1,0 +1,75 @@
+{
+  "id": 1108567393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.841178894,40.9953842163,28.841178894,40.9953842163",
+    "geom:latitude":40.995384,
+    "geom:longitude":28.841179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mahmutbey Yolu Ikizler Sk. No:3/2 Sirinevler",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 8017",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rmGUBX4jxjnNTB9xtC2HJ_40.995384_28.841179@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064351,
+    "wof:geomhash":"123900a5f7db9fa6362b3a4ef5e6deca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108567393
+        }
+    ],
+    "wof:id":1108567393,
+    "wof:lastmodified":1474064351,
+    "wof:name":"Evren Teks. ?t? Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.841178894,
+    40.9953842163,
+    28.841178894,
+    40.9953842163
+],
+  "geometry": {"coordinates":[28.841178894,40.9953842163],"type":"Point"}
+}

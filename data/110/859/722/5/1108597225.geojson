@@ -1,0 +1,70 @@
+{
+  "id": 1108597225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9026966095,40.9894638062,28.9026966095,40.9894638062",
+    "geom:latitude":40.989464,
+    "geom:longitude":28.902697,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nuripasa Mah. 11/3.sok.no:1 Zeytinburnu",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212416316263",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_097EAbfM60zoLQBg5AiqW5_40.989464_28.902697@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065520,
+    "wof:geomhash":"3e741dee16685f4e8196ca9c738b3ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108597225
+        }
+    ],
+    "wof:id":1108597225,
+    "wof:lastmodified":1474065520,
+    "wof:name":"Yavuzkent Leather & Fur",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9026966095,
+    40.9894638062,
+    28.9026966095,
+    40.9894638062
+],
+  "geometry": {"coordinates":[28.9026966095,40.9894638062],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108670267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3217163086,36.9954376221,35.3217163086,36.9954376221",
+    "geom:latitude":36.995438,
+    "geom:longitude":35.321716,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziyapasa Bulv. No.151",
+    "sg:city":"Manyas",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322",
+    "sg:postcode":"10470",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "feed",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ThVTE3m2Dh9bpzRtEsY3S_36.995438_35.321716@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068652,
+    "wof:geomhash":"9b4567ffc7ee3166d472c0ee99b8fc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108670267
+        }
+    ],
+    "wof:id":1108670267,
+    "wof:lastmodified":1474068652,
+    "wof:name":"Samsa Yem San. Ltd.sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "industry"
+    ]
+},
+  "bbox": [
+    35.3217163086,
+    36.9954376221,
+    35.3217163086,
+    36.9954376221
+],
+  "geometry": {"coordinates":[35.3217163086,36.9954376221],"type":"Point"}
+}

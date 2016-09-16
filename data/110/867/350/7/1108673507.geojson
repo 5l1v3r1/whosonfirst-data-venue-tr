@@ -1,0 +1,72 @@
+{
+  "id": 1108673507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0380630493,41.0826835632,29.0380630493,41.0826835632",
+    "geom:latitude":41.082684,
+    "geom:longitude":29.038063,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cad. No:24/59",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 325 5283",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qzfNqkyo1J6F5SYvHU0wg_41.082684_29.038063@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068783,
+    "wof:geomhash":"40545172982144b63bfdca389b7b90c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108673507
+        }
+    ],
+    "wof:id":1108673507,
+    "wof:lastmodified":1474068783,
+    "wof:name":"Urekcicek & Sanat",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0380630493,
+    41.0826835632,
+    29.0380630493,
+    41.0826835632
+],
+  "geometry": {"coordinates":[29.0380630493,41.0826835632],"type":"Point"}
+}

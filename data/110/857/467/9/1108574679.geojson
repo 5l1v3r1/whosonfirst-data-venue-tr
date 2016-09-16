@@ -1,0 +1,68 @@
+{
+  "id": 1108574679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9858131409,41.0758132935,28.9858131409,41.0758132935",
+    "geom:latitude":41.075813,
+    "geom:longitude":28.985813,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tasocagi Cad. No:1 Umut Sokak 80340 Caglayan Istanbul",
+    "sg:city":"Mecidiyekoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 1389",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NqtJO3oODVy3JROh6JXXY_41.075813_28.985813@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064650,
+    "wof:geomhash":"9d212fc8dc7884a8a1183438bc55c4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108574679
+        }
+    ],
+    "wof:id":1108574679,
+    "wof:lastmodified":1474064650,
+    "wof:name":"Ozlem Kristal San Ve Tic As",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9858131409,
+    41.0758132935,
+    28.9858131409,
+    41.0758132935
+],
+  "geometry": {"coordinates":[28.9858131409,41.0758132935],"type":"Point"}
+}

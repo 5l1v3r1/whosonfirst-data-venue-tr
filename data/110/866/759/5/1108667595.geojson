@@ -1,0 +1,67 @@
+{
+  "id": 1108667595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0186901093,41.0158081055,29.0186901093,41.0158081055",
+    "geom:latitude":41.015808,
+    "geom:longitude":29.01869,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gundogumu Cad.no:39/4 Uskudar",
+    "sg:city":"Esenler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 343 4248",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B5XAzooqk0ky51k6Mr4dG_41.015808_29.018690@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068544,
+    "wof:geomhash":"f16256fdccae680ac69b9a79365dd60d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906601,
+            "venue_id":1108667595
+        }
+    ],
+    "wof:id":1108667595,
+    "wof:lastmodified":1474068544,
+    "wof:name":"Prima Kutu Mendil",
+    "wof:parent_id":85906601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    29.0186901093,
+    41.0158081055,
+    29.0186901093,
+    41.0158081055
+],
+  "geometry": {"coordinates":[29.0186901093,41.0158081055],"type":"Point"}
+}

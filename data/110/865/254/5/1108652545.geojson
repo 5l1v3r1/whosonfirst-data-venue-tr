@@ -1,0 +1,74 @@
+{
+  "id": 1108652545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9546756744,41.0077056885,28.9546756744,41.0077056885",
+    "geom:latitude":41.007706,
+    "geom:longitude":28.954676,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aksaray Cad.azimkar Sok.no:12",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 638 5413",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75JrYix3zerSgyWxnnA0yq_41.007706_28.954676@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067962,
+    "wof:geomhash":"4d50d8af324a0cabe450a6c428e973fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":1108652545
+        }
+    ],
+    "wof:id":1108652545,
+    "wof:lastmodified":1474067962,
+    "wof:name":"Klasmen",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9546756744,
+    41.0077056885,
+    28.9546756744,
+    41.0077056885
+],
+  "geometry": {"coordinates":[28.9546756744,41.0077056885],"type":"Point"}
+}

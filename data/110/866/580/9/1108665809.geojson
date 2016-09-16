@@ -1,0 +1,75 @@
+{
+  "id": 1108665809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9778079987,41.0245742798,28.9778079987,41.0245742798",
+    "geom:latitude":41.024574,
+    "geom:longitude":28.977808,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cd. No: 63 Karakoy",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 9084",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906577,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZiB5h5hOr9beSZRId787v_41.024574_28.977808@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068478,
+    "wof:geomhash":"a49436847070f71ee233bde9c480bd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906577,
+            "region_id":85679237,
+            "venue_id":1108665809
+        }
+    ],
+    "wof:id":1108665809,
+    "wof:lastmodified":1474068478,
+    "wof:name":"Sacar Makina -sabri Sac",
+    "wof:parent_id":85906577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    28.9778079987,
+    41.0245742798,
+    28.9778079987,
+    41.0245742798
+],
+  "geometry": {"coordinates":[28.9778079987,41.0245742798],"type":"Point"}
+}

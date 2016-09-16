@@ -1,0 +1,72 @@
+{
+  "id": 1108591507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8702030182,41.0110168457,28.8702030182,41.0110168457",
+    "geom:latitude":41.011017,
+    "geom:longitude":28.870203,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez Mah. Bagcilar Cad. Sonmez Sok. No:11/a Haznedar",
+    "sg:city":"K???k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 553 0801",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40MhoWnN1sTEYYXHmz3enX_41.011017_28.870203@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065291,
+    "wof:geomhash":"9eac7b51dbe8a9b583092f0cebcf8334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108591507
+        }
+    ],
+    "wof:id":1108591507,
+    "wof:lastmodified":1474065291,
+    "wof:name":"Barelli",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.8702030182,
+    41.0110168457,
+    28.8702030182,
+    41.0110168457
+],
+  "geometry": {"coordinates":[28.8702030182,41.0110168457],"type":"Point"}
+}

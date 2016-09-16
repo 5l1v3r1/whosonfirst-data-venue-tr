@@ -1,0 +1,68 @@
+{
+  "id": 1108663319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8814620972,39.8889961243,32.8814620972,39.8889961243",
+    "geom:latitude":39.888996,
+    "geom:longitude":32.881462,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"T. Hilmi Cd. No:7/b K. Esat",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 0026",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MSNMO91a92fWQd3UA9z9A_39.888996_32.881462@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068377,
+    "wof:geomhash":"97d0e142449094b4b779ecf9fee63c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108663319
+        }
+    ],
+    "wof:id":1108663319,
+    "wof:lastmodified":1474068377,
+    "wof:name":"St?dyo 2001 Foto Tic. Ltd.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    32.8814620972,
+    39.8889961243,
+    32.8814620972,
+    39.8889961243
+],
+  "geometry": {"coordinates":[32.8814620972,39.8889961243],"type":"Point"}
+}

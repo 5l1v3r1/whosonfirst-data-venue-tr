@@ -1,0 +1,70 @@
+{
+  "id": 1108594279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8489990234,39.9417076111,32.8489990234,39.9417076111",
+    "geom:latitude":39.941708,
+    "geom:longitude":32.848999,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tegmen Kalmaz Cad. No:417/a Ulus",
+    "sg:city":"K.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 311 6884",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929577,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i9hDbU9N0i96q9AHM9Gyk_39.941708_32.848999@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065394,
+    "wof:geomhash":"41d637e214fd067563164852ad9e9780",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108594279
+        }
+    ],
+    "wof:id":1108594279,
+    "wof:lastmodified":1474065394,
+    "wof:name":"Canay Medikal S.",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8489990234,
+    39.9417076111,
+    32.8489990234,
+    39.9417076111
+],
+  "geometry": {"coordinates":[32.8489990234,39.9417076111],"type":"Point"}
+}

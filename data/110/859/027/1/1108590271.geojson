@@ -1,0 +1,72 @@
+{
+  "id": 1108590271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0977497101,40.9520530701,29.0977497101,40.9520530701",
+    "geom:latitude":40.952053,
+    "geom:longitude":29.09775,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:316/8 Caddebostan",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 4108",
+    "sg:postcode":"61200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01VRcT70I04QNmqarhFmpf_40.952053_29.097750@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065256,
+    "wof:geomhash":"0fd1e2a192964719c41b4abc3d515a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108590271
+        }
+    ],
+    "wof:id":1108590271,
+    "wof:lastmodified":1474065256,
+    "wof:name":"Birgen Yapi",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.0977497101,
+    40.9520530701,
+    29.0977497101,
+    40.9520530701
+],
+  "geometry": {"coordinates":[29.0977497101,40.9520530701],"type":"Point"}
+}

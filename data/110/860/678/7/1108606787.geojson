@@ -1,0 +1,71 @@
+{
+  "id": 1108606787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.576166153,41.0195960999,28.576166153,41.0195960999",
+    "geom:latitude":41.019596,
+    "geom:longitude":28.576166,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Londra Asfalti No.270/4",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 509 5588",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929861,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36XXsu2mGosCC2UOaxMHP0_41.019596_28.576166@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065929,
+    "wof:geomhash":"33c25994d9b54929172c6a7486d7a95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929861,
+            "region_id":85679237,
+            "venue_id":1108606787
+        }
+    ],
+    "wof:id":1108606787,
+    "wof:lastmodified":1474065929,
+    "wof:name":"Rota Tekstil A.s.",
+    "wof:parent_id":85929861,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.576166153,
+    41.0195960999,
+    28.576166153,
+    41.0195960999
+],
+  "geometry": {"coordinates":[28.576166153,41.0195960999],"type":"Point"}
+}

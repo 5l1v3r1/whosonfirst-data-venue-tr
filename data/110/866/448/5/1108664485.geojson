@@ -1,0 +1,64 @@
+{
+  "id": 1108664485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8489990234,39.9417076111,32.8489990234,39.9417076111",
+    "geom:latitude":39.941708,
+    "geom:longitude":32.848999,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Celal Atik Sk. No:5/43 Ulus",
+    "sg:city":"B?y?k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 324 0393",
+    "sg:postcode":"34900",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929577,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZEkKF1fsmhioqBKHUpGFa_39.941708_32.848999@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068423,
+    "wof:geomhash":"41d637e214fd067563164852ad9e9780",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108664485
+        }
+    ],
+    "wof:id":1108664485,
+    "wof:lastmodified":1474068423,
+    "wof:name":"Anadolu Ltd. Sti.",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8489990234,
+    39.9417076111,
+    32.8489990234,
+    39.9417076111
+],
+  "geometry": {"coordinates":[32.8489990234,39.9417076111],"type":"Point"}
+}

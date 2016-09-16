@@ -1,0 +1,75 @@
+{
+  "id": 1108602901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9879741669,41.0385017395,28.9879741669,41.0385017395",
+    "geom:latitude":41.038502,
+    "geom:longitude":28.987974,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mete Cad. No:24/1 80090",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 334 2910",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRpy3jA3re7NqHm9HO0XD_41.038502_28.987974@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065751,
+    "wof:geomhash":"dbf73d404f6d08dc6c816ccf6a2eff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":1108602901
+        }
+    ],
+    "wof:id":1108602901,
+    "wof:lastmodified":1474065751,
+    "wof:name":"Air Algerie (cezayir Havayollari)",
+    "wof:parent_id":85904107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9879741669,
+    41.0385017395,
+    28.9879741669,
+    41.0385017395
+],
+  "geometry": {"coordinates":[28.9879741669,41.0385017395],"type":"Point"}
+}

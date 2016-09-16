@@ -1,0 +1,75 @@
+{
+  "id": 1108645287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9676399231,41.0036087036,28.9676399231,41.0036087036",
+    "geom:latitude":41.003609,
+    "geom:longitude":28.96764,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kumkapi Balik Hali No:68 Kumkapi",
+    "sg:city":"?akalburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 517 7114",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "marine",
+        "hunting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_185voI52ZrT4h54IbFqGFk_41.003609_28.967640@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067614,
+    "wof:geomhash":"301cad21fd27ed5b95630de5ab318413",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904137,
+            "region_id":85679237,
+            "venue_id":1108645287
+        }
+    ],
+    "wof:id":1108645287,
+    "wof:lastmodified":1474067614,
+    "wof:name":"Akdeniz Balik?ilik",
+    "wof:parent_id":85904137,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "marine",
+        "hunting"
+    ]
+},
+  "bbox": [
+    28.9676399231,
+    41.0036087036,
+    28.9676399231,
+    41.0036087036
+],
+  "geometry": {"coordinates":[28.9676399231,41.0036087036],"type":"Point"}
+}

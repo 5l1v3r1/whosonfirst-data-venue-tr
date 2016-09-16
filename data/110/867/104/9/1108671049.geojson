@@ -1,0 +1,68 @@
+{
+  "id": 1108671049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.012298584,41.1274490356,29.012298584,41.1274490356",
+    "geom:latitude":41.127449,
+    "geom:longitude":29.012299,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ayazaga Mah. Meydan Sk. No.28/66, Maslak Kule - Maslak",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 290 2929",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930055,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KcNisgW4TsJRdprbifV7F_41.127449_29.012299@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068684,
+    "wof:geomhash":"ff5e25890893925f60cbcebfaee998f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930055,
+            "region_id":85679237,
+            "venue_id":1108671049
+        }
+    ],
+    "wof:id":1108671049,
+    "wof:lastmodified":1474068684,
+    "wof:name":"Ekspres Yatirim Ve Menkul Degerler",
+    "wof:parent_id":85930055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.012298584,
+    41.1274490356,
+    29.012298584,
+    41.1274490356
+],
+  "geometry": {"coordinates":[29.012298584,41.1274490356],"type":"Point"}
+}

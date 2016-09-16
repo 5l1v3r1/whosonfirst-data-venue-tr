@@ -1,0 +1,69 @@
+{
+  "id": 1108657153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1434822083,41.0257568359,29.1434822083,41.0257568359",
+    "geom:latitude":41.025757,
+    "geom:longitude":29.143482,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Karadas",
+    "sg:city":"Bandirma",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 446 231 4850",
+    "sg:postcode":"10200",
+    "sg:province":"Erzincan",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b5UJsL2YbPVneXZqdRDEA_41.025757_29.143482@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068142,
+    "wof:geomhash":"c7cb9e9b129c33ea9e5de08cab54b5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108657153
+        }
+    ],
+    "wof:id":1108657153,
+    "wof:lastmodified":1474068142,
+    "wof:name":"Akyazi Belediye Baskani",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.1434822083,
+    41.0257568359,
+    29.1434822083,
+    41.0257568359
+],
+  "geometry": {"coordinates":[29.1434822083,41.0257568359],"type":"Point"}
+}

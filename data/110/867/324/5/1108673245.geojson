@@ -1,0 +1,72 @@
+{
+  "id": 1108673245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1691246033,40.8966712952,29.1691246033,40.8966712952",
+    "geom:latitude":40.896671,
+    "geom:longitude":29.169125,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yaliboyu Cd. No:8",
+    "sg:city":"Arnavutk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 7299",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930215,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQnLd99kmssyDWp3J67zL_40.896671_29.169125@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068769,
+    "wof:geomhash":"785f6521c970b7a7c532c2e1fa906931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930215,
+            "region_id":85679237,
+            "venue_id":1108673245
+        }
+    ],
+    "wof:id":1108673245,
+    "wof:lastmodified":1474068769,
+    "wof:name":"Nature ?i?ek?ilik",
+    "wof:parent_id":85930215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1691246033,
+    40.8966712952,
+    29.1691246033,
+    40.8966712952
+],
+  "geometry": {"coordinates":[29.1691246033,40.8966712952],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108675927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8677139282,40.9943618774,28.8677139282,40.9943618774",
+    "geom:latitude":40.994362,
+    "geom:longitude":28.867714,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K?basi Cad. No: 46 Yenikoy",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 262 9315",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oyq2RI63CZ2Ffm3TrXUcN_40.994362_28.867714@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068889,
+    "wof:geomhash":"3fe020845dff1de8dce12d54646857a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108675927
+        }
+    ],
+    "wof:id":1108675927,
+    "wof:lastmodified":1474068889,
+    "wof:name":"Avusturya",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.8677139282,
+    40.9943618774,
+    28.8677139282,
+    40.9943618774
+],
+  "geometry": {"coordinates":[28.8677139282,40.9943618774],"type":"Point"}
+}

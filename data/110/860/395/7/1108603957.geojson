@@ -1,0 +1,74 @@
+{
+  "id": 1108603957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1013069153,40.9580154419,29.1013069153,40.9580154419",
+    "geom:latitude":40.958015,
+    "geom:longitude":29.101307,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mehmet Sevki Pasa Cad. No:34 Bostanci",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 575 1405",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aluminium",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lzCCdstvtmOSltWxHufO6_40.958015_29.101307@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065793,
+    "wof:geomhash":"0f210db4bf7edd0ef14d40638582eb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108603957
+        }
+    ],
+    "wof:id":1108603957,
+    "wof:lastmodified":1474065793,
+    "wof:name":"Adil Aluminum Mac.ind.and.trade Ltd.co.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1013069153,
+    40.9580154419,
+    29.1013069153,
+    40.9580154419
+],
+  "geometry": {"coordinates":[29.1013069153,40.9580154419],"type":"Point"}
+}

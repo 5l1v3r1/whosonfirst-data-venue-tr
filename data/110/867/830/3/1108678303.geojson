@@ -1,0 +1,71 @@
+{
+  "id": 1108678303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0956783295,40.9578552246,29.0956783295,40.9578552246",
+    "geom:latitude":40.957855,
+    "geom:longitude":29.095678,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Bagdat Cad.dumer Apt. 19.kat.no:4 Altintepe-bostanci-kadikoy",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 489 4945",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dS8Ft34Ndjuz9aYPzD6Zq_40.957855_29.095678@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"ec1d3106922c29ff5e8120f456bda427",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108678303
+        }
+    ],
+    "wof:id":1108678303,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Yumlu Egitim Kultur Ve Bilimsel Arastirma Vakfi",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0956783295,
+    40.9578552246,
+    29.0956783295,
+    40.9578552246
+],
+  "geometry": {"coordinates":[29.0956783295,40.9578552246],"type":"Point"}
+}

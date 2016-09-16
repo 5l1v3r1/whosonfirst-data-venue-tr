@@ -1,0 +1,73 @@
+{
+  "id": 1108676209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9960727692,41.0650024414,28.9960727692,41.0650024414",
+    "geom:latitude":41.065002,
+    "geom:longitude":28.996073,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ortaklarcad. No 14 Mecidiyek?",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 272 5200",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FblMKVY6gyh1XxdqbqwPR_41.065002_28.996073@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068899,
+    "wof:geomhash":"49bd4e450bdaf0052b865c9537853fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108676209
+        }
+    ],
+    "wof:id":1108676209,
+    "wof:lastmodified":1474068899,
+    "wof:name":"?in Halk Cumhuriyeti",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9960727692,
+    41.0650024414,
+    28.9960727692,
+    41.0650024414
+],
+  "geometry": {"coordinates":[28.9960727692,41.0650024414],"type":"Point"}
+}

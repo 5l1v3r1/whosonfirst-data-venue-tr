@@ -1,0 +1,71 @@
+{
+  "id": 1108655029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.857624054,39.9227256775,32.857624054,39.9227256775",
+    "geom:latitude":39.922726,
+    "geom:longitude":32.857624,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mithatpasa Cd. No:31/24 Kizilay",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 7766",
+    "sg:postcode":"06660",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jX8wEx4I9k1xhOxuGH2rK_39.922726_32.857624@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068060,
+    "wof:geomhash":"322de65085caf442dc5d13e2040c4680",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108655029
+        }
+    ],
+    "wof:id":1108655029,
+    "wof:lastmodified":1474068060,
+    "wof:name":"Atabek Madencilik A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.857624054,
+    39.9227256775,
+    32.857624054,
+    39.9227256775
+],
+  "geometry": {"coordinates":[32.857624054,39.9227256775],"type":"Point"}
+}

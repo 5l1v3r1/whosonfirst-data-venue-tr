@@ -1,0 +1,73 @@
+{
+  "id": 1108672977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8123893738,39.908290863,32.8123893738,39.908290863",
+    "geom:latitude":39.908291,
+    "geom:longitude":32.812389,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akay Cd. Kizilirmak Sk. No:1/c",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 2528",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929601,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4riNLmFUBD4Sanv0KwY8Sd_39.908291_32.812389@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068760,
+    "wof:geomhash":"22e1a593e21f17b5c606cc596dbb1e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929601,
+            "region_id":85679409,
+            "venue_id":1108672977
+        }
+    ],
+    "wof:id":1108672977,
+    "wof:lastmodified":1474068760,
+    "wof:name":"Filiz ?i?ek Evi",
+    "wof:parent_id":85929601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    32.8123893738,
+    39.908290863,
+    32.8123893738,
+    39.908290863
+],
+  "geometry": {"coordinates":[32.8123893738,39.908290863],"type":"Point"}
+}

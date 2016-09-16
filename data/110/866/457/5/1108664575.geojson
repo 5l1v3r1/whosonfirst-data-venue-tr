@@ -1,0 +1,64 @@
+{
+  "id": 1108664575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1676559448,38.4285125732,27.1676559448,38.4285125732",
+    "geom:latitude":38.428513,
+    "geom:longitude":27.167656,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203/7 Sokak No:2/9 Yenisehir",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 4838",
+    "sg:postcode":"31750",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YizSU2e7a6uHns7xLHzKe_38.428513_27.167656@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068427,
+    "wof:geomhash":"40f4683fedc5fe1c0d7c8f226ebf69e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108664575
+        }
+    ],
+    "wof:id":1108664575,
+    "wof:lastmodified":1474068427,
+    "wof:name":"Dogal Isi End?striyel Tesisler Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1676559448,
+    38.4285125732,
+    27.1676559448,
+    38.4285125732
+],
+  "geometry": {"coordinates":[27.1676559448,38.4285125732],"type":"Point"}
+}

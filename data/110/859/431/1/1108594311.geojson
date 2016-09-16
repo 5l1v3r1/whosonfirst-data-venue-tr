@@ -1,0 +1,75 @@
+{
+  "id": 1108594311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9766769409,41.0690231323,28.9766769409,41.0690231323",
+    "geom:latitude":41.069023,
+    "geom:longitude":28.976677,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turkali Mh.alaybey Sok.no:10/4 Besiktas",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 261 1106 ext. 2614",
+    "sg:postcode":"34841",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZjHy0yGfRBaZGxM88NyCC_41.069023_28.976677@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065395,
+    "wof:geomhash":"53bee416a1ed30b914f6c982068d6ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108594311
+        }
+    ],
+    "wof:id":1108594311,
+    "wof:lastmodified":1474065395,
+    "wof:name":"Ekin Medikal Ltd.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    28.9766769409,
+    41.0690231323,
+    28.9766769409,
+    41.0690231323
+],
+  "geometry": {"coordinates":[28.9766769409,41.0690231323],"type":"Point"}
+}

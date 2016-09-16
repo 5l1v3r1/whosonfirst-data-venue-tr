@@ -1,0 +1,72 @@
+{
+  "id": 1108592719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8923568726,41.0469207764,28.8923568726,41.0469207764",
+    "geom:latitude":41.046921,
+    "geom:longitude":28.892357,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halyolu No:9/a",
+    "sg:city":"Kucubakkalkoy",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 362 2230",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I9BUyrCTJhVObgVVzGuqQ_41.046921_28.892357@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065333,
+    "wof:geomhash":"108310c31723ffb8a5090458fa0fbaa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108592719
+        }
+    ],
+    "wof:id":1108592719,
+    "wof:lastmodified":1474065333,
+    "wof:name":"Yesilyurt Gida San Ve Tic. A.s.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ]
+},
+  "bbox": [
+    28.8923568726,
+    41.0469207764,
+    28.8923568726,
+    41.0469207764
+],
+  "geometry": {"coordinates":[28.8923568726,41.0469207764],"type":"Point"}
+}

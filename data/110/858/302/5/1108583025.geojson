@@ -1,0 +1,72 @@
+{
+  "id": 1108583025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1034317017,40.9507102966,29.1034317017,40.9507102966",
+    "geom:latitude":40.95071,
+    "geom:longitude":29.103432,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. 83/a",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 442 8114",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LbiY3EMfr1uD8A6tuoCuu_40.950710_29.103432@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065085,
+    "wof:geomhash":"7f0cbbf61a3f632b30c69aaa6e51c9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108583025
+        }
+    ],
+    "wof:id":1108583025,
+    "wof:lastmodified":1474065085,
+    "wof:name":"Komen Gida",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.1034317017,
+    40.9507102966,
+    29.1034317017,
+    40.9507102966
+],
+  "geometry": {"coordinates":[29.1034317017,40.9507102966],"type":"Point"}
+}

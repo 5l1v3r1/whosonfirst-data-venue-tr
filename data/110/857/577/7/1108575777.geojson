@@ -1,0 +1,69 @@
+{
+  "id": 1108575777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1457519531,38.4400558472,27.1457519531,38.4400558472",
+    "geom:latitude":38.440056,
+    "geom:longitude":27.145752,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alsancak",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 464 1315",
+    "sg:postcode":"01365",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75NF38RQY0PzOk2GU2AreZ_38.440056_27.145752@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064692,
+    "wof:geomhash":"98aa3fec01a3dca327ef51ccc61e50b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108575777
+        }
+    ],
+    "wof:id":1108575777,
+    "wof:lastmodified":1474064692,
+    "wof:name":"Topas Tourism",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    27.1457519531,
+    38.4400558472,
+    27.1457519531,
+    38.4400558472
+],
+  "geometry": {"coordinates":[27.1457519531,38.4400558472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108658967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9660816193,41.0505256653,28.9660816193,41.0505256653",
+    "geom:latitude":41.050526,
+    "geom:longitude":28.966082,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fikret Arslan",
+    "sg:city":"Kursunlu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 711 4147",
+    "sg:postcode":"07110",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6apHCHAyVfyewq6i2aPV3k_41.050526_28.966082@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068216,
+    "wof:geomhash":"e05874b89cffd99492dd8beabc9b610d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108658967
+        }
+    ],
+    "wof:id":1108658967,
+    "wof:lastmodified":1474068216,
+    "wof:name":"Sivrihisar Belediye Baskani",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    28.9660816193,
+    41.0505256653,
+    28.9660816193,
+    41.0505256653
+],
+  "geometry": {"coordinates":[28.9660816193,41.0505256653],"type":"Point"}
+}

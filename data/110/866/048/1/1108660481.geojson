@@ -1,0 +1,71 @@
+{
+  "id": 1108660481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9135856628,41.0013923645,28.9135856628,41.0013923645",
+    "geom:latitude":41.001392,
+    "geom:longitude":28.913586,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"85-3 Sk. No:63 Zeytinburnu",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 3647",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kBqFnHUKHU3tD8oHCK5Xu_41.001392_28.913586@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068272,
+    "wof:geomhash":"a9ac5007395737bf8e781b1d08ec9b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108660481
+        }
+    ],
+    "wof:id":1108660481,
+    "wof:lastmodified":1474068272,
+    "wof:name":"Kurt Ambalaj",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9135856628,
+    41.0013923645,
+    28.9135856628,
+    41.0013923645
+],
+  "geometry": {"coordinates":[28.9135856628,41.0013923645],"type":"Point"}
+}

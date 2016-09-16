@@ -1,0 +1,82 @@
+{
+  "id": 1108658123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.971578598,41.0298080444,28.971578598,41.0298080444",
+    "geom:latitude":41.029808,
+    "geom:longitude":28.971579,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Refik I?i",
+    "sg:city":"Manavgat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 382 455 4005",
+    "sg:postcode":"07600",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906543,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58GIAk44nb8E9OiAAeUv94_41.029808_28.971579@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068177,
+    "wof:geomhash":"e6e05e9b6e7b19d503a3f95201b079ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906543,
+            "region_id":85679237,
+            "venue_id":1108658123
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906585,
+            "region_id":85679237,
+            "venue_id":1108658123
+        }
+    ],
+    "wof:id":1108658123,
+    "wof:lastmodified":1474068177,
+    "wof:name":"Ilisu Belediye Baskani",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    28.971578598,
+    41.0298080444,
+    28.971578598,
+    41.0298080444
+],
+  "geometry": {"coordinates":[28.971578598,41.0298080444],"type":"Point"}
+}

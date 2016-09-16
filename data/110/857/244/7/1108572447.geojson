@@ -1,0 +1,73 @@
+{
+  "id": 1108572447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9714622498,41.0729980469,28.9714622498,41.0729980469",
+    "geom:latitude":41.072998,
+    "geom:longitude":28.971462,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Besiktas Cd. No:20 Kagithane",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 222 7361",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6snZ3eyZ9jE7FC5WXuppkv_41.072998_28.971462@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064557,
+    "wof:geomhash":"6b21a10251e694d22ffb13f2c3fe7a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108572447
+        }
+    ],
+    "wof:id":1108572447,
+    "wof:lastmodified":1474064557,
+    "wof:name":"Tek-or Plastik San. A.s.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9714622498,
+    41.0729980469,
+    28.9714622498,
+    41.0729980469
+],
+  "geometry": {"coordinates":[28.9714622498,41.0729980469],"type":"Point"}
+}

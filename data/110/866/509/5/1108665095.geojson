@@ -1,0 +1,68 @@
+{
+  "id": 1108665095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8603630066,39.9112014771,32.8603630066,39.9112014771",
+    "geom:latitude":39.911201,
+    "geom:longitude":32.860363,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esat Cad.no.57/a",
+    "sg:city":"Bakanliklar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3124198882729",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QJbUVmv3B82Codc3suXyS_39.911201_32.860363@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068446,
+    "wof:geomhash":"0ce77d70fc3aaecb2e4360649f847edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108665095
+        }
+    ],
+    "wof:id":1108665095,
+    "wof:lastmodified":1474068446,
+    "wof:name":"Bb Lojistik Dagitim",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    32.8603630066,
+    39.9112014771,
+    32.8603630066,
+    39.9112014771
+],
+  "geometry": {"coordinates":[32.8603630066,39.9112014771],"type":"Point"}
+}

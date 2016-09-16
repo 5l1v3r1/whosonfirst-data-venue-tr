@@ -1,0 +1,67 @@
+{
+  "id": 1108652261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1307449341,38.4168891907,27.1307449341,38.4168891907",
+    "geom:latitude":38.416889,
+    "geom:longitude":27.130745,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"847. Sk. No:36",
+    "sg:city":"Kemeralti",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 0256",
+    "sg:postcode":"35250",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FEnBU2VgbLBjNsdroCHDJ_38.416889_27.130745@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067945,
+    "wof:geomhash":"641629bb998bcf3283c296bda2f158fa",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108652261
+        }
+    ],
+    "wof:id":1108652261,
+    "wof:lastmodified":1474067945,
+    "wof:name":"Nur Medikal",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine"
+    ]
+},
+  "bbox": [
+    27.1307449341,
+    38.4168891907,
+    27.1307449341,
+    38.4168891907
+],
+  "geometry": {"coordinates":[27.1307449341,38.4168891907],"type":"Point"}
+}

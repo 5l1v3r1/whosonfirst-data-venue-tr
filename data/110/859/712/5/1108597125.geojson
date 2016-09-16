@@ -1,0 +1,68 @@
+{
+  "id": 1108597125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9408473969,41.0080184937,28.9408473969,41.0080184937",
+    "geom:latitude":41.008018,
+    "geom:longitude":28.940847,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G??suyu C. No.57 Topkapi",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 6721",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B9P7l9w6hXR0zr6BL1koW_41.008018_28.940847@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065517,
+    "wof:geomhash":"f1f8bdf029b47516167f4190de779f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108597125
+        }
+    ],
+    "wof:id":1108597125,
+    "wof:lastmodified":1474065517,
+    "wof:name":"Tanatar Konf. San. A.s.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9408473969,
+    41.0080184937,
+    28.9408473969,
+    41.0080184937
+],
+  "geometry": {"coordinates":[28.9408473969,41.0080184937],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108574995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9677524567,41.008808136,28.9677524567,41.008808136",
+    "geom:latitude":41.008808,
+    "geom:longitude":28.967752,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeniceriler Cad. No: 44 Beyazit",
+    "sg:city":"42400",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 8790",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-",
+        "golg-silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906619,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a46TPcDVG4Ia5ISKMdav4_41.008808_28.967752@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064662,
+    "wof:geomhash":"d2bcf9ae262472518cc0959368345e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906619,
+            "region_id":85679237,
+            "venue_id":1108574995
+        }
+    ],
+    "wof:id":1108574995,
+    "wof:lastmodified":1474064662,
+    "wof:name":"Osmanli Jewelery",
+    "wof:parent_id":85906619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "golg-silver"
+    ]
+},
+  "bbox": [
+    28.9677524567,
+    41.008808136,
+    28.9677524567,
+    41.008808136
+],
+  "geometry": {"coordinates":[28.9677524567,41.008808136],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108626835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0586109161,40.1844291687,29.0586109161,40.1844291687",
+    "geom:latitude":40.184429,
+    "geom:longitude":29.058611,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tayakadin Mah. Tayakadin Cad. K?se Han No:26 K:1/6",
+    "sg:city":"Hatay",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2242215040222",
+    "sg:postcode":"35840",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929875,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W8ou8MPeiYYVjnAhhEXFE_40.184429_29.058611@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066731,
+    "wof:geomhash":"d32bc6dc27b5bca7566a03487808708c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929875,
+            "region_id":85679231,
+            "venue_id":1108626835
+        }
+    ],
+    "wof:id":1108626835,
+    "wof:lastmodified":1474066731,
+    "wof:name":"H. Isik Turizm",
+    "wof:parent_id":85929875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    29.0586109161,
+    40.1844291687,
+    29.0586109161,
+    40.1844291687
+],
+  "geometry": {"coordinates":[29.0586109161,40.1844291687],"type":"Point"}
+}

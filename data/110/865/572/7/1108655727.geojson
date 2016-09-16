@@ -1,0 +1,71 @@
+{
+  "id": 1108655727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.850982666,39.872253418,32.850982666,39.872253418",
+    "geom:latitude":39.872253,
+    "geom:longitude":32.850983,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1.cad.48.sok. No:3/1 Ovecler",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 480 3781",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EfpFySNYKS9PSiAQ7vwfQ_39.872253_32.850983@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068088,
+    "wof:geomhash":"76b40dfab219b9b764a1d7e7cc51413f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108655727
+        }
+    ],
+    "wof:id":1108655727,
+    "wof:lastmodified":1474068088,
+    "wof:name":"Vizyon Madencilik Insaat Ltd. Sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.850982666,
+    39.872253418,
+    32.850982666,
+    39.872253418
+],
+  "geometry": {"coordinates":[32.850982666,39.872253418],"type":"Point"}
+}

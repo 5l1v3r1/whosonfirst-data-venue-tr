@@ -1,0 +1,69 @@
+{
+  "id": 1108679515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8600921631,39.9071884155,32.8600921631,39.9071884155",
+    "geom:latitude":39.907188,
+    "geom:longitude":32.860092,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bulten Sok. No: 56/9",
+    "sg:city":"K.dere",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 468 3583",
+    "sg:postcode":"25700",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "frozen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xkC79IBEtguYmyQqwBycR_39.907188_32.860092@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069024,
+    "wof:geomhash":"9893d7dc36f88ffb6c3a42f329ea8ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108679515
+        }
+    ],
+    "wof:id":1108679515,
+    "wof:lastmodified":1474069024,
+    "wof:name":"Item International",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen"
+    ]
+},
+  "bbox": [
+    32.8600921631,
+    39.9071884155,
+    32.8600921631,
+    39.9071884155
+],
+  "geometry": {"coordinates":[32.8600921631,39.9071884155],"type":"Point"}
+}

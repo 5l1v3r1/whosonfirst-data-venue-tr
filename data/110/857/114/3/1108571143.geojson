@@ -1,0 +1,73 @@
+{
+  "id": 1108571143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.710193634,41.0080070496,39.710193634,41.0080070496",
+    "geom:latitude":41.008007,
+    "geom:longitude":39.710194,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sahil Cad. No:195",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 230 8502",
+    "sg:postcode":"31200",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XrrfFSOqZHCIKNS2KfLtY_41.008007_39.710194@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064502,
+    "wof:geomhash":"dcb7a65640caf7e8d39da5a0ba786ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108571143
+        }
+    ],
+    "wof:id":1108571143,
+    "wof:lastmodified":1474064502,
+    "wof:name":"Genc Karadenizliler",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    39.710193634,
+    41.0080070496,
+    39.710193634,
+    41.0080070496
+],
+  "geometry": {"coordinates":[39.710193634,41.0080070496],"type":"Point"}
+}

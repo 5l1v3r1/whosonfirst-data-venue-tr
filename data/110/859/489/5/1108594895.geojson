@@ -1,0 +1,68 @@
+{
+  "id": 1108594895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8553085327,39.8976707458,32.8553085327,39.8976707458",
+    "geom:latitude":39.897671,
+    "geom:longitude":32.855309,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesilyurt Sok. No:21/5",
+    "sg:city":"A.ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 467 0537",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HFSEJ7wNf4XNPdAR1W4Qj_39.897671_32.855309@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065416,
+    "wof:geomhash":"91fac561a04d4acc23926037ec0179af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108594895
+        }
+    ],
+    "wof:id":1108594895,
+    "wof:lastmodified":1474065416,
+    "wof:name":"Promim Cevre Duzenleme Kentsel Tasarim Ltd.sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    32.8553085327,
+    39.8976707458,
+    32.8553085327,
+    39.8976707458
+],
+  "geometry": {"coordinates":[32.8553085327,39.8976707458],"type":"Point"}
+}

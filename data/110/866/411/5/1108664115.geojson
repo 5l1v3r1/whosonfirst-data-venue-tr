@@ -1,0 +1,77 @@
+{
+  "id": 1108664115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8371391296,39.9318771362,32.8371391296,39.9318771362",
+    "geom:latitude":39.931877,
+    "geom:longitude":32.837139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iller Sk. No:17/1 Tandogan",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 230 1156",
+    "sg:postcode":"34420",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904083,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RKPZZcRJI0udw32UxJxDq_39.931877_32.837139@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068409,
+    "wof:geomhash":"e8b7c8d4757f6b8f6db4f4530ea59fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904083,
+            "region_id":85679409,
+            "venue_id":1108664115
+        }
+    ],
+    "wof:id":1108664115,
+    "wof:lastmodified":1474068409,
+    "wof:name":"Selpen Pvc Dograma Sistem. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8371391296,
+    39.9318771362,
+    32.8371391296,
+    39.9318771362
+],
+  "geometry": {"coordinates":[32.8371391296,39.9318771362],"type":"Point"}
+}

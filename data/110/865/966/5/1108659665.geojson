@@ -1,0 +1,71 @@
+{
+  "id": 1108659665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.851020813,39.9219360352,32.851020813,39.9219360352",
+    "geom:latitude":39.921936,
+    "geom:longitude":32.851021,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Menekse 2. Sk. No:32/12 Kizilay",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 309 0605",
+    "sg:postcode":"77200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "record",
+        "casette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12xmyB7FXzJS6APSg02Ln5_39.921936_32.851021@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068243,
+    "wof:geomhash":"a854e2bc6bf593194e8cc4816048d0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108659665
+        }
+    ],
+    "wof:id":1108659665,
+    "wof:lastmodified":1474068243,
+    "wof:name":"Vimpa Toptan Video M?zik Kaset Paz.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "casette"
+    ]
+},
+  "bbox": [
+    32.851020813,
+    39.9219360352,
+    32.851020813,
+    39.9219360352
+],
+  "geometry": {"coordinates":[32.851020813,39.9219360352],"type":"Point"}
+}

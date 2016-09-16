@@ -1,0 +1,64 @@
+{
+  "id": 1108678515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0580043793,40.1947555542,29.0580043793,40.1947555542",
+    "geom:latitude":40.194756,
+    "geom:longitude":29.058004,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ihsaniye Mah. Durukent Sit. C.blok Kat:1-2-3",
+    "sg:city":"Nilufer",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 245 1520",
+    "sg:postcode":"16370",
+    "sg:province":"Bursa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56nQdw6yq8e78cES2KowgF_40.194756_29.058004@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068982,
+    "wof:geomhash":"377f256b05016db8438c21733151f2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108678515
+        }
+    ],
+    "wof:id":1108678515,
+    "wof:lastmodified":1474068982,
+    "wof:name":"Dogru Nakliyat A.s.",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0580043793,
+    40.1947555542,
+    29.0580043793,
+    40.1947555542
+],
+  "geometry": {"coordinates":[29.0580043793,40.1947555542],"type":"Point"}
+}

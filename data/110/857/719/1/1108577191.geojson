@@ -1,0 +1,77 @@
+{
+  "id": 1108577191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6155872345,36.8494148254,30.6155872345,36.8494148254",
+    "geom:latitude":36.849415,
+    "geom:longitude":30.615587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Liman Mah.27.sok.no:5/1",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 259 2625",
+    "sg:postcode":"07070",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929909,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R4IoNTEmvpA4oPU0XuBmk_36.849415_30.615587@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064777,
+    "wof:geomhash":"340909e910bca1d8e72eddc940d95ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85929909,
+            "region_id":85679263,
+            "venue_id":1108577191
+        }
+    ],
+    "wof:id":1108577191,
+    "wof:lastmodified":1474064777,
+    "wof:name":"Global Kumanyacilik",
+    "wof:parent_id":85929909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oprerators",
+        "pier",
+        "jetty"
+    ]
+},
+  "bbox": [
+    30.6155872345,
+    36.8494148254,
+    30.6155872345,
+    36.8494148254
+],
+  "geometry": {"coordinates":[30.6155872345,36.8494148254],"type":"Point"}
+}

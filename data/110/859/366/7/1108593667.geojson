@@ -1,0 +1,71 @@
+{
+  "id": 1108593667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.902759552,39.9570960999,32.902759552,39.9570960999",
+    "geom:latitude":39.957096,
+    "geom:longitude":32.90276,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karacakaya Cd. No:142",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 348 8588",
+    "sg:postcode":"07070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4febakr74wXwhqopMLXRAI_39.957096_32.902760@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065369,
+    "wof:geomhash":"8c41263f8cb882c1bfb9eff0baa6faa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108593667
+        }
+    ],
+    "wof:id":1108593667,
+    "wof:lastmodified":1474065369,
+    "wof:name":"Persan Perdelik San. Tic. A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    32.902759552,
+    39.9570960999,
+    32.902759552,
+    39.9570960999
+],
+  "geometry": {"coordinates":[32.902759552,39.9570960999],"type":"Point"}
+}

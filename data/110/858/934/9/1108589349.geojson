@@ -1,0 +1,71 @@
+{
+  "id": 1108589349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8729705811,39.936756134,32.8729705811,39.936756134",
+    "geom:latitude":39.936756,
+    "geom:longitude":32.872971,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulucanlar Cad. 79/b",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 320 5822",
+    "sg:postcode":"01940",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934667,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rvkOB5HSI8OVltndikSko_39.936756_32.872971@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065236,
+    "wof:geomhash":"55898fc4673c904ff000d933669a5368",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934667,
+            "region_id":85679409,
+            "venue_id":1108589349
+        }
+    ],
+    "wof:id":1108589349,
+    "wof:lastmodified":1474065236,
+    "wof:name":"Er-pa Erturk Pazarlama Ltd.sti.",
+    "wof:parent_id":85934667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    32.8729705811,
+    39.936756134,
+    32.8729705811,
+    39.936756134
+],
+  "geometry": {"coordinates":[32.8729705811,39.936756134],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108663945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.105173111,40.9687347412,29.105173111,40.9687347412",
+    "geom:latitude":40.968735,
+    "geom:longitude":29.105173,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Evren Sit. 12/a Bl. No: 28 Bostanci",
+    "sg:city":"K???kyali",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 380 3550",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qbfysssay8ViiGc5YYtEx_40.968735_29.105173@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068402,
+    "wof:geomhash":"a09f0d2c7f0761b94aae1460684bc570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108663945
+        }
+    ],
+    "wof:id":1108663945,
+    "wof:lastmodified":1474068402,
+    "wof:name":"Meabow Ltd. Sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.105173111,
+    40.9687347412,
+    29.105173111,
+    40.9687347412
+],
+  "geometry": {"coordinates":[29.105173111,40.9687347412],"type":"Point"}
+}

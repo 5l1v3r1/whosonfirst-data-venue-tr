@@ -1,0 +1,72 @@
+{
+  "id": 1108663923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8344650269,39.8953704834,32.8344650269,39.8953704834",
+    "geom:latitude":39.89537,
+    "geom:longitude":32.834465,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sokullu Cd. No:4/b Dikmen",
+    "sg:city":"Erenk?y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 481 0906",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hpQrIJsIirVePCZGIWShP_39.895370_32.834465@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068401,
+    "wof:geomhash":"a0d92c5b5d6e1bd9753d451a54aee075",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108663923
+        }
+    ],
+    "wof:id":1108663923,
+    "wof:lastmodified":1474068401,
+    "wof:name":"Klas-pen Ltd. Sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    32.8344650269,
+    39.8953704834,
+    32.8344650269,
+    39.8953704834
+],
+  "geometry": {"coordinates":[32.8344650269,39.8953704834],"type":"Point"}
+}

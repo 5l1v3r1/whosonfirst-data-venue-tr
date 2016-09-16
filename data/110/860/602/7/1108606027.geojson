@@ -1,0 +1,68 @@
+{
+  "id": 1108606027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.127166748,38.4036636353,27.127166748,38.4036636353",
+    "geom:latitude":38.403664,
+    "geom:longitude":27.127167,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Sk. No. 23",
+    "sg:city":"Yaghaneler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 227 6668",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G1yL32YRdKA1xP1BHjtLO_38.403664_27.127167@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065884,
+    "wof:geomhash":"a6b9c443a03f016ccd36649f6de09015",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108606027
+        }
+    ],
+    "wof:id":1108606027,
+    "wof:lastmodified":1474065884,
+    "wof:name":"Izmir Belteks Tekstil A.s.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.127166748,
+    38.4036636353,
+    27.127166748,
+    38.4036636353
+],
+  "geometry": {"coordinates":[27.127166748,38.4036636353],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108604347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8685817719,41.0015907288,28.8685817719,41.0015907288",
+    "geom:latitude":41.001591,
+    "geom:longitude":28.868582,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.sehitleri Cad. No:37/3 D:8",
+    "sg:city":"Zincirlikuyu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 1252",
+    "sg:postcode":"26200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eaWgskuneIwC6KlTvsOqk_41.001591_28.868582@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065813,
+    "wof:geomhash":"3f4569f0b135063085be591c8882d8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108604347
+        }
+    ],
+    "wof:id":1108604347,
+    "wof:lastmodified":1474065813,
+    "wof:name":"Astas Dis Ticaret Ltd.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.8685817719,
+    41.0015907288,
+    28.8685817719,
+    41.0015907288
+],
+  "geometry": {"coordinates":[28.8685817719,41.0015907288],"type":"Point"}
+}

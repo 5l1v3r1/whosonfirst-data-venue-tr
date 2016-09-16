@@ -1,0 +1,71 @@
+{
+  "id": 1108622077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1564502716,41.0209312439,29.1564502716,41.0209312439",
+    "geom:latitude":41.020931,
+    "geom:longitude":29.15645,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gaziosmanpasa",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 497 1366",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OlYmZZpzq4uaYo5LYFRag_41.020931_29.156450@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066557,
+    "wof:geomhash":"94f1300361a44c8b0f9f37bc4ae19eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108622077
+        }
+    ],
+    "wof:id":1108622077,
+    "wof:lastmodified":1474066557,
+    "wof:name":"Partner Temizlik Malzm.toptan Satis",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    29.1564502716,
+    41.0209312439,
+    29.1564502716,
+    41.0209312439
+],
+  "geometry": {"coordinates":[29.1564502716,41.0209312439],"type":"Point"}
+}

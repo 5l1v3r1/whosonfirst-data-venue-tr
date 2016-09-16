@@ -1,0 +1,68 @@
+{
+  "id": 1108608787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8713340759,41.013053894,28.8713340759,41.013053894",
+    "geom:latitude":41.013054,
+    "geom:longitude":28.871334,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Calislar Cad. No:22",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 7293",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46SqaljROtU2moJER85gQL_41.013054_28.871334@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066017,
+    "wof:geomhash":"f753fbe977845f23096b35ad1f28af32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108608787
+        }
+    ],
+    "wof:id":1108608787,
+    "wof:lastmodified":1474066017,
+    "wof:name":"Besler Kargo",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8713340759,
+    41.013053894,
+    28.8713340759,
+    41.013053894
+],
+  "geometry": {"coordinates":[28.8713340759,41.013053894],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108592917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0967216492,40.9528007507,29.0967216492,40.9528007507",
+    "geom:latitude":40.952801,
+    "geom:longitude":29.096722,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad.no:442/b Palmiye Apt.",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 385 0755",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_194FAZP0gpo4zoc5vHHcOT_40.952801_29.096722@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065339,
+    "wof:geomhash":"253b79f44a3f28d9e7f3b34ab4be94cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108592917
+        }
+    ],
+    "wof:id":1108592917,
+    "wof:lastmodified":1474065339,
+    "wof:name":"Doga Veteriner Klinigi",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    29.0967216492,
+    40.9528007507,
+    29.0967216492,
+    40.9528007507
+],
+  "geometry": {"coordinates":[29.0967216492,40.9528007507],"type":"Point"}
+}

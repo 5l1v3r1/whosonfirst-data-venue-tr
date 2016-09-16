@@ -1,0 +1,71 @@
+{
+  "id": 1108602989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2152042389,38.4637870789,27.2152042389,38.4637870789",
+    "geom:latitude":38.463787,
+    "geom:longitude":27.215204,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari No:154",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 428 0200",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35lYKyXFMEc6dPLeQTTmUr_38.463787_27.215204@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065754,
+    "wof:geomhash":"33987065b2e9698369e82386efaf012f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108602989
+        }
+    ],
+    "wof:id":1108602989,
+    "wof:lastmodified":1474065754,
+    "wof:name":"Turkish Airlines (thy)",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    27.2152042389,
+    38.4637870789,
+    27.2152042389,
+    38.4637870789
+],
+  "geometry": {"coordinates":[27.2152042389,38.4637870789],"type":"Point"}
+}

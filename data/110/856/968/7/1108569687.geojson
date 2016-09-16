@@ -1,0 +1,71 @@
+{
+  "id": 1108569687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1463127136,38.4362640381,27.1463127136,38.4362640381",
+    "geom:latitude":38.436264,
+    "geom:longitude":27.146313,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Bulvari 72/6",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 445 6264",
+    "sg:postcode":"36100",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d58gBHhBgbJu5UulXxfht_38.436264_27.146313@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064442,
+    "wof:geomhash":"c18cbb5bc819313aa7b5942e56fdb3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108569687
+        }
+    ],
+    "wof:id":1108569687,
+    "wof:lastmodified":1474064442,
+    "wof:name":"Urla Makina Sanayi Ve Ticaret Anonim Sirketi",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1463127136,
+    38.4362640381,
+    27.1463127136,
+    38.4362640381
+],
+  "geometry": {"coordinates":[27.1463127136,38.4362640381],"type":"Point"}
+}

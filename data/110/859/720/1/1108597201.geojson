@@ -1,0 +1,70 @@
+{
+  "id": 1108597201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9042510986,40.9929084778,28.9042510986,40.9929084778",
+    "geom:latitude":40.992908,
+    "geom:longitude":28.904251,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"58. Bulv.c. 48/3 Sk.no.20/a Zeytinburnu",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 6182",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NzA3n9gAnxbfQhUo2pIsF_40.992908_28.904251@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065519,
+    "wof:geomhash":"7ab0b9367ece7c9bf527fc0ac62399f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108597201
+        }
+    ],
+    "wof:id":1108597201,
+    "wof:lastmodified":1474065519,
+    "wof:name":"Vizon Deri Show",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9042510986,
+    40.9929084778,
+    28.9042510986,
+    40.9929084778
+],
+  "geometry": {"coordinates":[28.9042510986,40.9929084778],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108591925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8958415985,41.0361404419,28.8958415985,41.0361404419",
+    "geom:latitude":41.03614,
+    "geom:longitude":28.895842,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Altintepsi Mah. Oztekin Cad. No:68",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 613 2439",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QbLclWceqYL7S30O8bFzs_41.036140_28.895842@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065307,
+    "wof:geomhash":"26e93b99447d31a29ee5142f03ee7b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108591925
+        }
+    ],
+    "wof:id":1108591925,
+    "wof:lastmodified":1474065307,
+    "wof:name":"Derya Orme",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8958415985,
+    41.0361404419,
+    28.8958415985,
+    41.0361404419
+],
+  "geometry": {"coordinates":[28.8958415985,41.0361404419],"type":"Point"}
+}

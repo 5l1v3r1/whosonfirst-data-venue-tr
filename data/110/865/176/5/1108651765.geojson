@@ -1,0 +1,73 @@
+{
+  "id": 1108651765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1028308868,40.9659729004,29.1028308868,40.9659729004",
+    "geom:latitude":40.965973,
+    "geom:longitude":29.102831,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahimaga Sok. Cesme Sok.no: 3 Kadikoy",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 327 5634",
+    "sg:postcode":"26000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69vAVre7n06qZnUnYtX0Kw_40.965973_29.102831@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067913,
+    "wof:geomhash":"0ac393e9760026910e54cbaa8c14ffd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108651765
+        }
+    ],
+    "wof:id":1108651765,
+    "wof:lastmodified":1474067913,
+    "wof:name":"Saygin Medikal",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.1028308868,
+    40.9659729004,
+    29.1028308868,
+    40.9659729004
+],
+  "geometry": {"coordinates":[29.1028308868,40.9659729004],"type":"Point"}
+}

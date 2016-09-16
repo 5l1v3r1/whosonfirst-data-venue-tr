@@ -1,0 +1,72 @@
+{
+  "id": 1108678283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7195205688,41.0050506592,39.7195205688,41.0050506592",
+    "geom:latitude":41.005051,
+    "geom:longitude":39.719521,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ortahisar Mah. Amasya Cami Sk.",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 462 321 7512",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGanYhpdF3LU9X8f5zXhB_41.005051_39.719521@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068974,
+    "wof:geomhash":"2e629609f2f67278f908d9ded1bdab34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108678283
+        }
+    ],
+    "wof:id":1108678283,
+    "wof:lastmodified":1474068974,
+    "wof:name":"Yavuz Selim Vakfi",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    39.7195205688,
+    41.0050506592,
+    39.7195205688,
+    41.0050506592
+],
+  "geometry": {"coordinates":[39.7195205688,41.0050506592],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108572853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0115871429,41.0242271423,29.0115871429,41.0242271423",
+    "geom:latitude":41.024227,
+    "geom:longitude":29.011587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 4955",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eaHYQYyRGZPKJo9kAJ8BA_41.024227_29.011587@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064574,
+    "wof:geomhash":"32e2ccf61f5916b5f1e4e454abdc3713",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":1108572853
+        }
+    ],
+    "wof:id":1108572853,
+    "wof:lastmodified":1474064574,
+    "wof:name":"Anadolu Matbaacilik Ltd.sti.",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0115871429,
+    41.0242271423,
+    29.0115871429,
+    41.0242271423
+],
+  "geometry": {"coordinates":[29.0115871429,41.0242271423],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108605395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8782711029,41.017906189,28.8782711029,41.017906189",
+    "geom:latitude":41.017906,
+    "geom:longitude":28.878271,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Malazgirt Cd.neseli Sk.no.14",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 554 2208",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lng1lNRgFsuxouExh8gMB_41.017906_28.878271@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065859,
+    "wof:geomhash":"159269e53ffb79b898083b9067ecd9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108605395
+        }
+    ],
+    "wof:id":1108605395,
+    "wof:lastmodified":1474065859,
+    "wof:name":"Dost Tekstil A.s.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8782711029,
+    41.017906189,
+    28.8782711029,
+    41.017906189
+],
+  "geometry": {"coordinates":[28.8782711029,41.017906189],"type":"Point"}
+}

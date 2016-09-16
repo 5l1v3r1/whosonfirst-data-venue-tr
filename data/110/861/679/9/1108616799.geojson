@@ -1,0 +1,68 @@
+{
+  "id": 1108616799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1433753967,41.014213562,29.1433753967,41.014213562",
+    "geom:latitude":41.014214,
+    "geom:longitude":29.143375,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ceylan Sk. No.74",
+    "sg:city":"Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 420 8141",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "honey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U9dEeaTFpfTL8bh4zUv7o_41.014214_29.143375@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066337,
+    "wof:geomhash":"5e35c63a7e8e94d725e5c65fc9441f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108616799
+        }
+    ],
+    "wof:id":1108616799,
+    "wof:lastmodified":1474066337,
+    "wof:name":"Emek Bal A.s.",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "honey"
+    ]
+},
+  "bbox": [
+    29.1433753967,
+    41.014213562,
+    29.1433753967,
+    41.014213562
+],
+  "geometry": {"coordinates":[29.1433753967,41.014213562],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108573463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1086215973,41.1142349243,29.1086215973,41.1142349243",
+    "geom:latitude":41.114235,
+    "geom:longitude":29.108622,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Polonez Yolu No:211 Soguksu -",
+    "sg:city":"Pasabah?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 413 0570",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930059,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EggkUaP9XQumo0LpVpqnm_41.114235_29.108622@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064603,
+    "wof:geomhash":"e935d5a74d2cfb40c95589ab1c5977b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930059,
+            "region_id":85679237,
+            "venue_id":1108573463
+        }
+    ],
+    "wof:id":1108573463,
+    "wof:lastmodified":1474064603,
+    "wof:name":"Binnur Kristal Ticaret Ltd.",
+    "wof:parent_id":85930059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.1086215973,
+    41.1142349243,
+    29.1086215973,
+    41.1142349243
+],
+  "geometry": {"coordinates":[29.1086215973,41.1142349243],"type":"Point"}
+}

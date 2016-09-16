@@ -1,0 +1,69 @@
+{
+  "id": 1108592339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9325313568,41.0031967163,28.9325313568,41.0031967163",
+    "geom:latitude":41.003197,
+    "geom:longitude":28.932531,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Telsiz Mah. Balikci Cirpici Yolu No.70/1",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2125462344547",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pn2DRINnStzeYSCFQW85a_41.003197_28.932531@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065321,
+    "wof:geomhash":"8d57d52d7c121dfa282252edcbd71ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108592339
+        }
+    ],
+    "wof:id":1108592339,
+    "wof:lastmodified":1474065321,
+    "wof:name":"Telliteks Tellioglu Tekstil Orma San. Ltd.sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.9325313568,
+    41.0031967163,
+    28.9325313568,
+    41.0031967163
+],
+  "geometry": {"coordinates":[28.9325313568,41.0031967163],"type":"Point"}
+}

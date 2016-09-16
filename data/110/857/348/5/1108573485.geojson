@@ -1,0 +1,72 @@
+{
+  "id": 1108573485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7007522583,36.8910369873,30.7007522583,36.8910369873",
+    "geom:latitude":36.891037,
+    "geom:longitude":30.700752,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizilsaray Mah.82. Sok. No:4",
+    "sg:city":"M.koy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 247 7913",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929847,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v8SXqGxynZWt5FWtpyjgP_36.891037_30.700752@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064604,
+    "wof:geomhash":"89d8447c116e27f6639ddff9cfaa9af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929847,
+            "region_id":85679263,
+            "venue_id":1108573485
+        }
+    ],
+    "wof:id":1108573485,
+    "wof:lastmodified":1474064604,
+    "wof:name":"Buhara Cam Ayna",
+    "wof:parent_id":85929847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.7007522583,
+    36.8910369873,
+    30.7007522583,
+    36.8910369873
+],
+  "geometry": {"coordinates":[30.7007522583,36.8910369873],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1108619605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1450805664,38.438419342,27.1450805664,38.438419342",
+    "geom:latitude":38.438419,
+    "geom:longitude":27.145081,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sehitler Cd. No:107 Alsancak",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 6580",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cardboard",
+        "corrugate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DlfwD8ldXTY5qpbyOzWVj_38.438419_27.145081@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066455,
+    "wof:geomhash":"0538f7814ddddeedd7d1b9dd67713ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108619605
+        }
+    ],
+    "wof:id":1108619605,
+    "wof:lastmodified":1474066455,
+    "wof:name":"Korsini Baski-ambalaj San. A.s.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardboard",
+        "corrugate"
+    ]
+},
+  "bbox": [
+    27.1450805664,
+    38.438419342,
+    27.1450805664,
+    38.438419342
+],
+  "geometry": {"coordinates":[27.1450805664,38.438419342],"type":"Point"}
+}

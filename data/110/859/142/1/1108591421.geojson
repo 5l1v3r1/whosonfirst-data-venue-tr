@@ -1,0 +1,72 @@
+{
+  "id": 1108591421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0503540039,40.9937286377,29.0503540039,40.9937286377",
+    "geom:latitude":40.993729,
+    "geom:longitude":29.050354,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mandira Cd. ?zel Sk. No:2/1 Fikirtepe",
+    "sg:city":"34500",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 5753",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDMlRz63CPgotY0J6Gwyc_40.993729_29.050354@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065288,
+    "wof:geomhash":"cdb1a06eccab457531e835dd753c7e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108591421
+        }
+    ],
+    "wof:id":1108591421,
+    "wof:lastmodified":1474065288,
+    "wof:name":"?zlem Mobilya",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.0503540039,
+    40.9937286377,
+    29.0503540039,
+    40.9937286377
+],
+  "geometry": {"coordinates":[29.0503540039,40.9937286377],"type":"Point"}
+}

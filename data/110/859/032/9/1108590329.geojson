@@ -1,0 +1,69 @@
+{
+  "id": 1108590329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0721607208,40.2127304077,29.0721607208,40.2127304077",
+    "geom:latitude":40.21273,
+    "geom:longitude":29.072161,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.balikli Mh.kadifeli Cad. No:9/a",
+    "sg:city":"K.dere",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 256 4537",
+    "sg:postcode":"25700",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929763,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J3ugXbAf7rgL6hqc5CHNg_40.212730_29.072161@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065258,
+    "wof:geomhash":"a62d758cfb250d28f85ae0366b1471f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":1108590329
+        }
+    ],
+    "wof:id":1108590329,
+    "wof:lastmodified":1474065258,
+    "wof:name":"Celebi Mutfak Ve Banyo Dekorasyon",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.0721607208,
+    40.2127304077,
+    29.0721607208,
+    40.2127304077
+],
+  "geometry": {"coordinates":[29.0721607208,40.2127304077],"type":"Point"}
+}

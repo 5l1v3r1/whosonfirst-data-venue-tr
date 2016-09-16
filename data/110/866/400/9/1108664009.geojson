@@ -1,0 +1,73 @@
+{
+  "id": 1108664009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1480770111,40.9874725342,29.1480770111,40.9874725342",
+    "geom:latitude":40.987473,
+    "geom:longitude":29.148077,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kibris Cad. No:4 Y.dudullu",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 420 2435",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GXsyI6i4ELwePFIy7p1Zy_40.987473_29.148077@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068405,
+    "wof:geomhash":"650cf154295842fa085024cb33399606",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108664009
+        }
+    ],
+    "wof:id":1108664009,
+    "wof:lastmodified":1474068405,
+    "wof:name":"Pan Plastik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.1480770111,
+    40.9874725342,
+    29.1480770111,
+    40.9874725342
+],
+  "geometry": {"coordinates":[29.1480770111,40.9874725342],"type":"Point"}
+}

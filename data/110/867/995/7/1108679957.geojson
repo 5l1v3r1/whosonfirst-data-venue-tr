@@ -1,0 +1,82 @@
+{
+  "id": 1108679957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.94057,41.029886,28.94057,41.029886",
+    "geom:latitude":41.029886,
+    "geom:longitude":28.94057,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kasap Sok. No. 12 Kat. 2 Esentepe",
+    "sg:city":"Istanbul",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"34394",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906459,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wNHFRQrpCjUDOKwdJkBx_41.029886_28.940570@1308163237"
+    },
+    "wof:country":"TR",
+    "wof:created":1474069043,
+    "wof:geomhash":"f7f8d173b1d6c9202543216fd6357c8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906459,
+            "region_id":85679237,
+            "venue_id":1108679957
+        }
+    ],
+    "wof:id":1108679957,
+    "wof:lastmodified":1474069043,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85906459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [
+    28.94057,
+    41.029886,
+    28.94057,
+    41.029886
+],
+  "geometry": {"coordinates":[28.94057,41.029886],"type":"Point"}
+}

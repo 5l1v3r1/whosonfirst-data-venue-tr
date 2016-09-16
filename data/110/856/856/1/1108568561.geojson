@@ -1,0 +1,71 @@
+{
+  "id": 1108568561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0897445679,37.7553825378,29.0897445679,37.7553825378",
+    "geom:latitude":37.755383,
+    "geom:longitude":29.089745,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1303 Sokak No:2/706 ?ankaya",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 339 2805",
+    "sg:postcode":"34660",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934755,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31XMU0T66UaxVVOLU4CTNK_37.755383_29.089745@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064395,
+    "wof:geomhash":"0ca1d73596e52623ffdadbad0242e10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934755,
+            "region_id":85679277,
+            "venue_id":1108568561
+        }
+    ],
+    "wof:id":1108568561,
+    "wof:lastmodified":1474064395,
+    "wof:name":"Mikrokam Makina Teknik Sanayi Ve Ticaret Ltd.sti.",
+    "wof:parent_id":85934755,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0897445679,
+    37.7553825378,
+    29.0897445679,
+    37.7553825378
+],
+  "geometry": {"coordinates":[29.0897445679,37.7553825378],"type":"Point"}
+}

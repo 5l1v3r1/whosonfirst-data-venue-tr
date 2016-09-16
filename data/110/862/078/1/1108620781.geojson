@@ -1,0 +1,69 @@
+{
+  "id": 1108620781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7157306671,40.9810905457,28.7157306671,40.9810905457",
+    "geom:latitude":40.981091,
+    "geom:longitude":28.715731,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Resitpasa C. No: 125",
+    "sg:city":"Avcilar",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 591 3051",
+    "sg:postcode":"01350",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "plaster",
+        "cement-concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14EGxLYTpbLRir2Egmglpt_40.981091_28.715731@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066502,
+    "wof:geomhash":"4002f4e2a57fd576ec25b6131aa498b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930285,
+            "venue_id":1108620781
+        }
+    ],
+    "wof:id":1108620781,
+    "wof:lastmodified":1474066502,
+    "wof:name":"Kaleterasit Siva San. A.s.",
+    "wof:parent_id":85930285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaster",
+        "cement-concrete"
+    ]
+},
+  "bbox": [
+    28.7157306671,
+    40.9810905457,
+    28.7157306671,
+    40.9810905457
+],
+  "geometry": {"coordinates":[28.7157306671,40.9810905457],"type":"Point"}
+}

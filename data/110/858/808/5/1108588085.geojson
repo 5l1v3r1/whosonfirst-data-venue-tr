@@ -1,0 +1,71 @@
+{
+  "id": 1108588085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9411373138,41.0194740295,28.9411373138,41.0194740295",
+    "geom:latitude":41.019474,
+    "geom:longitude":28.941137,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akdeniz Cad.sari Nasuh Sok.no.63/1",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 635 6987",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51OJlXOcRH6jE1PBSqtiQj_41.019474_28.941137@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065207,
+    "wof:geomhash":"a0292e29629d24fe50592e33737c6c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108588085
+        }
+    ],
+    "wof:id":1108588085,
+    "wof:lastmodified":1474065207,
+    "wof:name":"Basaran Tekstil",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9411373138,
+    41.0194740295,
+    28.9411373138,
+    41.0194740295
+],
+  "geometry": {"coordinates":[28.9411373138,41.0194740295],"type":"Point"}
+}

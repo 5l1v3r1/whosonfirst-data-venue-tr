@@ -1,0 +1,72 @@
+{
+  "id": 1108623021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.976064682,41.0233573914,28.976064682,41.0233573914",
+    "geom:latitude":41.023357,
+    "geom:longitude":28.976065,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cd. No:18",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 4400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906581,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OablG3II0NMeL0xcEG9Fd_41.023357_28.976065@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066591,
+    "wof:geomhash":"bfc69bc429d9d942b23bdf31ff298d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906581,
+            "region_id":85679237,
+            "venue_id":1108623021
+        }
+    ],
+    "wof:id":1108623021,
+    "wof:lastmodified":1474066591,
+    "wof:name":"Maktes Makina Tesisat Tic. A.s.",
+    "wof:parent_id":85906581,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    28.976064682,
+    41.0233573914,
+    28.976064682,
+    41.0233573914
+],
+  "geometry": {"coordinates":[28.976064682,41.0233573914],"type":"Point"}
+}

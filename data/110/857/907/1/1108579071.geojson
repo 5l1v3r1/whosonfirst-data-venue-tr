@@ -1,0 +1,64 @@
+{
+  "id": 1108579071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0176429749,41.0806655884,29.0176429749,41.0806655884",
+    "geom:latitude":41.080666,
+    "geom:longitude":29.017643,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mektep Sokak 18/3 1.levent/istanbul",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 269 6580",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69nhK1t9l8XBBzaeeFRbl4_41.080666_29.017643@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064921,
+    "wof:geomhash":"81c0d8ecc9e6ccfc7bd407a10ab179c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108579071
+        }
+    ],
+    "wof:id":1108579071,
+    "wof:lastmodified":1474064921,
+    "wof:name":"Goldmine Ajans",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0176429749,
+    41.0806655884,
+    29.0176429749,
+    41.0806655884
+],
+  "geometry": {"coordinates":[29.0176429749,41.0806655884],"type":"Point"}
+}

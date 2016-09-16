@@ -1,0 +1,73 @@
+{
+  "id": 1108673097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9857254028,41.0730552673,28.9857254028,41.0730552673",
+    "geom:latitude":41.073055,
+    "geom:longitude":28.985725,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ihlamur Yolu No:34/a Nisantasi",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 4791",
+    "sg:postcode":"80200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I9AboeSRLtSh3WrEL66Fu_41.073055_28.985725@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068765,
+    "wof:geomhash":"424a183bec9bb11d27e6116e7c41ac1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108673097
+        }
+    ],
+    "wof:id":1108673097,
+    "wof:lastmodified":1474068765,
+    "wof:name":"Incimiz ?i?ekligi San.tic.ltd.sti",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9857254028,
+    41.0730552673,
+    28.9857254028,
+    41.0730552673
+],
+  "geometry": {"coordinates":[28.9857254028,41.0730552673],"type":"Point"}
+}

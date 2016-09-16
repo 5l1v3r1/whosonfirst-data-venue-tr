@@ -1,0 +1,68 @@
+{
+  "id": 1108571231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9126701355,41.0204658508,28.9126701355,41.0204658508",
+    "geom:latitude":41.020466,
+    "geom:longitude":28.91267,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?ifte Havuzlar Cd. No:7 Maltepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 1353",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zTGMD7u24OaV0AkVXNU8S_41.020466_28.912670@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064505,
+    "wof:geomhash":"ac316a1e9ecda12b42c30fe576232784",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108571231
+        }
+    ],
+    "wof:id":1108571231,
+    "wof:lastmodified":1474064505,
+    "wof:name":"G?ney Plastik ?elik San. Tic. Paz. Ltd.",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9126701355,
+    41.0204658508,
+    28.9126701355,
+    41.0204658508
+],
+  "geometry": {"coordinates":[28.9126701355,41.0204658508],"type":"Point"}
+}

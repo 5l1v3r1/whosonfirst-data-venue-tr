@@ -1,0 +1,62 @@
+{
+  "id": 1108618153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.981136322,41.0667953491,28.981136322,41.0667953491",
+    "geom:latitude":41.066795,
+    "geom:longitude":28.981136,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nadide Sok.no:5",
+    "sg:city":"Merter",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 483 1544",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EYVTM2ppvtYR9D301rtfv_41.066795_28.981136@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066396,
+    "wof:geomhash":"66e010a905ff8a7751b029719cee1e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108618153
+        }
+    ],
+    "wof:id":1108618153,
+    "wof:lastmodified":1474066396,
+    "wof:name":"Istanbul Hotels Reservation Center",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.981136322,
+    41.0667953491,
+    28.981136322,
+    41.0667953491
+],
+  "geometry": {"coordinates":[28.981136322,41.0667953491],"type":"Point"}
+}

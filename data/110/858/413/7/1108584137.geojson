@@ -1,0 +1,79 @@
+{
+  "id": 1108584137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"16.8692913055,41.1260528564,16.8692913055,41.1260528564",
+    "geom:latitude":41.126053,
+    "geom:longitude":16.869291,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baris Mah. Sanayi1 Sok. No:5 Safranbolu",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 370 712 7684",
+    "sg:postcode":"34880",
+    "sg:province":"Karab?k",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906267,
+        102191581,
+        404463187,
+        85633253,
+        404227527,
+        101752571,
+        85685531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45dPcr4SH50Ij6ZQbcetNo_41.126053_16.869291@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065113,
+    "wof:geomhash":"6dbe42d18eaf92c3e4b811e6be0fc76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633253,
+            "localadmin_id":404463187,
+            "locality_id":101752571,
+            "macroregion_id":404227527,
+            "neighbourhood_id":85906267,
+            "region_id":85685531,
+            "venue_id":1108584137
+        }
+    ],
+    "wof:id":1108584137,
+    "wof:lastmodified":1474065113,
+    "wof:name":"Ozyilmaz Had. San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85906267,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    16.8692913055,
+    41.1260528564,
+    16.8692913055,
+    41.1260528564
+],
+  "geometry": {"coordinates":[16.8692913055,41.1260528564],"type":"Point"}
+}

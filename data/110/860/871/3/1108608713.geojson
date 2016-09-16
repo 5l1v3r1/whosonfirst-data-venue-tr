@@ -1,0 +1,68 @@
+{
+  "id": 1108608713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9880218506,41.0608558655,28.9880218506,41.0608558655",
+    "geom:latitude":41.060856,
+    "geom:longitude":28.988022,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halasgargazi Cd. No:224",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 240 1043",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QRgq0PNKDP52vb9gKmPkh_41.060856_28.988022@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066015,
+    "wof:geomhash":"4b2953d79de8fbda2020d42f12712f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108608713
+        }
+    ],
+    "wof:id":1108608713,
+    "wof:lastmodified":1474066015,
+    "wof:name":"Ataman Umumi Nakliyat Tic.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9880218506,
+    41.0608558655,
+    28.9880218506,
+    41.0608558655
+],
+  "geometry": {"coordinates":[28.9880218506,41.0608558655],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108657673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2884216309,40.8649864197,29.2884216309,40.8649864197",
+    "geom:latitude":40.864986,
+    "geom:longitude":29.288422,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Veli Bayram",
+    "sg:city":"Boz??",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 364 711 6066",
+    "sg:province":"?orum",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zZqkK7mSm9T2VIpkZxvtd_40.864986_29.288422@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068159,
+    "wof:geomhash":"5069eaf10156d9341b667f02bbaee272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108657673
+        }
+    ],
+    "wof:id":1108657673,
+    "wof:lastmodified":1474068159,
+    "wof:name":"Dodurga Belediye Baskani",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.2884216309,
+    40.8649864197,
+    29.2884216309,
+    40.8649864197
+],
+  "geometry": {"coordinates":[29.2884216309,40.8649864197],"type":"Point"}
+}

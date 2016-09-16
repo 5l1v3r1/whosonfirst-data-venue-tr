@@ -1,0 +1,71 @@
+{
+  "id": 1108668579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1477851868,41.0078887939,29.1477851868,41.0078887939",
+    "geom:latitude":41.007889,
+    "geom:longitude":29.147785,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Imes Sanayi Sitesi, B Blok, 205. Sokak, No:18 Yukari Dudullu",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 420 6161",
+    "sg:postcode":"34775",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h6uYo2oqtPALzLIJoJUrd_41.007889_29.147785@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068590,
+    "wof:geomhash":"d2e1792efeb8076bdb837afe559f2c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108668579
+        }
+    ],
+    "wof:id":1108668579,
+    "wof:lastmodified":1474068590,
+    "wof:name":"Basher Pompa Imalati, Endustri Ekip.dis.ticltdsti",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    29.1477851868,
+    41.0078887939,
+    29.1477851868,
+    41.0078887939
+],
+  "geometry": {"coordinates":[29.1477851868,41.0078887939],"type":"Point"}
+}

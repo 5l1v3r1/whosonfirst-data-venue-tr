@@ -1,0 +1,68 @@
+{
+  "id": 1108652465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9693527222,41.0147438049,28.9693527222,41.0147438049",
+    "geom:latitude":41.014744,
+    "geom:longitude":28.969353,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fincancilar Cad. No:8",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 528 2554",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906479,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tZoc7UDIi4Nt8nNVy4VI8_41.014744_28.969353@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067958,
+    "wof:geomhash":"4f9997e0958c4559a834e3ac03465e23",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906479,
+            "region_id":85679237,
+            "venue_id":1108652465
+        }
+    ],
+    "wof:id":1108652465,
+    "wof:lastmodified":1474067958,
+    "wof:name":"Erol Teks.",
+    "wof:parent_id":85906479,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9693527222,
+    41.0147438049,
+    28.9693527222,
+    41.0147438049
+],
+  "geometry": {"coordinates":[28.9693527222,41.0147438049],"type":"Point"}
+}

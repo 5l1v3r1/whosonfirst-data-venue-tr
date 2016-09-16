@@ -1,0 +1,65 @@
+{
+  "id": 1108658959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0487785339,41.1466178894,29.0487785339,41.1466178894",
+    "geom:latitude":41.146618,
+    "geom:longitude":29.048779,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Sarig?",
+    "sg:city":"?ubuk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930117,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b1mGI7p1MZ9QQBqI3hzYN_41.146618_29.048779@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068211,
+    "wof:geomhash":"8a88a87c1643e073241e6cc0d8852f9a",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85930117,
+            "region_id":85679237,
+            "venue_id":1108658959
+        }
+    ],
+    "wof:id":1108658959,
+    "wof:lastmodified":1474068211,
+    "wof:name":"Sisli Belediye Baskani",
+    "wof:parent_id":85930117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.0487785339,
+    41.1466178894,
+    29.0487785339,
+    41.1466178894
+],
+  "geometry": {"coordinates":[29.0487785339,41.1466178894],"type":"Point"}
+}

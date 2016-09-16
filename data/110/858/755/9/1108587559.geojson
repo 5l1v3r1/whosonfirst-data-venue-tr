@@ -1,0 +1,71 @@
+{
+  "id": 1108587559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4848136902,37.8795928955,32.4848136902,37.8795928955",
+    "geom:latitude":37.879593,
+    "geom:longitude":32.484814,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"H. Baybal C. No:28",
+    "sg:city":"Sel?uklu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 238 5333",
+    "sg:postcode":"42060",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "web",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934705,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gSnl4LGGmgG73DauxFzQa_37.879593_32.484814@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065196,
+    "wof:geomhash":"a641e454846c082e3b7588dc35ee9b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934705,
+            "region_id":85679425,
+            "venue_id":1108587559
+        }
+    ],
+    "wof:id":1108587559,
+    "wof:lastmodified":1474065196,
+    "wof:name":"S?per Medya Uluslar Arasi Danismanlik Ve Yayincili",
+    "wof:parent_id":85934705,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "design"
+    ]
+},
+  "bbox": [
+    32.4848136902,
+    37.8795928955,
+    32.4848136902,
+    37.8795928955
+],
+  "geometry": {"coordinates":[32.4848136902,37.8795928955],"type":"Point"}
+}

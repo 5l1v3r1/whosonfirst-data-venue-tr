@@ -1,0 +1,73 @@
+{
+  "id": 1108574329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0021247864,41.082195282,29.0021247864,41.082195282",
+    "geom:latitude":41.082195,
+    "geom:longitude":29.002125,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??g? Han Emin?? Istanbul",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 8434",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929431,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18KZGDzecf6ppTt2K0HmTb_41.082195_29.002125@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064636,
+    "wof:geomhash":"7cd6579edbd9015dceacccb4fba4a5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929431,
+            "region_id":85679237,
+            "venue_id":1108574329
+        }
+    ],
+    "wof:id":1108574329,
+    "wof:lastmodified":1474064636,
+    "wof:name":"B?r?ng?z Cam Ltd. Sti.",
+    "wof:parent_id":85929431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    29.0021247864,
+    41.082195282,
+    29.0021247864,
+    41.082195282
+],
+  "geometry": {"coordinates":[29.0021247864,41.082195282],"type":"Point"}
+}

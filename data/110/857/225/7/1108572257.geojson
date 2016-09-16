@@ -1,0 +1,72 @@
+{
+  "id": 1108572257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1033344269,41.024723053,29.1033344269,41.024723053",
+    "geom:latitude":41.024723,
+    "geom:longitude":29.103334,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Alemdag Cad. No:239 Umraniye",
+    "sg:city":"Eskigaraj",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 365 9420",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1thr5TKGOuMeBQlRY0LTx9_41.024723_29.103334@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064549,
+    "wof:geomhash":"a5afe307b3cbc7d606f5982432091b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108572257
+        }
+    ],
+    "wof:id":1108572257,
+    "wof:lastmodified":1474064549,
+    "wof:name":"Sel-ka Plastik",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1033344269,
+    41.024723053,
+    29.1033344269,
+    41.024723053
+],
+  "geometry": {"coordinates":[29.1033344269,41.024723053],"type":"Point"}
+}

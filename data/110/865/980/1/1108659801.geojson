@@ -1,0 +1,71 @@
+{
+  "id": 1108659801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9911384583,41.098274231,28.9911384583,41.098274231",
+    "geom:latitude":41.098274,
+    "geom:longitude":28.991138,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahim Karaoglanoglu Cadde ?g? Sokak No 2 Seyrantepe",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 284 8226",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lKOUirHwHQZ3wTH7murlT_41.098274_28.991138@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068249,
+    "wof:geomhash":"652aa057986f5607379567b4cd0ad056",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108659801
+        }
+    ],
+    "wof:id":1108659801,
+    "wof:lastmodified":1474068249,
+    "wof:name":"Amba Ambalaj San Tic Ltd Sti",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9911384583,
+    41.098274231,
+    28.9911384583,
+    41.098274231
+],
+  "geometry": {"coordinates":[28.9911384583,41.098274231],"type":"Point"}
+}

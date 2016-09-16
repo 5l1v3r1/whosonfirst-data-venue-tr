@@ -1,0 +1,75 @@
+{
+  "id": 1108602677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9554920197,41.0812072754,28.9554920197,41.0812072754",
+    "geom:latitude":41.081207,
+    "geom:longitude":28.955492,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildiz Cad. Teyfik Pasa Konagi 35/3",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 2734",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19FgmTRul9qlbXz9Rg8xqm_41.081207_28.955492@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065743,
+    "wof:geomhash":"4b337f015ae2c266b4f2a5c29aeee8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108602677
+        }
+    ],
+    "wof:id":1108602677,
+    "wof:lastmodified":1474065743,
+    "wof:name":"Tetisan",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9554920197,
+    41.0812072754,
+    28.9554920197,
+    41.0812072754
+],
+  "geometry": {"coordinates":[28.9554920197,41.0812072754],"type":"Point"}
+}

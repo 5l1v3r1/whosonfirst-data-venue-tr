@@ -1,0 +1,71 @@
+{
+  "id": 1108604779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.956073761,41.010761261,28.956073761,41.010761261",
+    "geom:latitude":41.010761,
+    "geom:longitude":28.956074,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gencturk Cad. Mahvil Sok. No:4/2",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 0787",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vP3DYOj6OqeXkqrvbIJyh_41.010761_28.956074@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065836,
+    "wof:geomhash":"36a87fb35c16714fb0aa0cdf658a78bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108604779
+        }
+    ],
+    "wof:id":1108604779,
+    "wof:lastmodified":1474065836,
+    "wof:name":"Akkaya",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.956073761,
+    41.010761261,
+    28.956073761,
+    41.010761261
+],
+  "geometry": {"coordinates":[28.956073761,41.010761261],"type":"Point"}
+}

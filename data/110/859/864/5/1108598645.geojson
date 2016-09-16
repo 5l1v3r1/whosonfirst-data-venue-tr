@@ -1,0 +1,75 @@
+{
+  "id": 1108598645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8606624603,41.0195922852,28.8606624603,41.0195922852",
+    "geom:latitude":41.019592,
+    "geom:longitude":28.860662,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagcilar Yenigun No:3/1 -a Sok. No: 6",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 436 6268",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tgCFeIp6dEWVak70FCji5_41.019592_28.860662@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065572,
+    "wof:geomhash":"50499654c7de2906d317656458de1020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108598645
+        }
+    ],
+    "wof:id":1108598645,
+    "wof:lastmodified":1474065572,
+    "wof:name":"Anemon Dekorasyon Aydinlatma Seramik San.tic.ltd.sti.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.8606624603,
+    41.0195922852,
+    28.8606624603,
+    41.0195922852
+],
+  "geometry": {"coordinates":[28.8606624603,41.0195922852],"type":"Point"}
+}

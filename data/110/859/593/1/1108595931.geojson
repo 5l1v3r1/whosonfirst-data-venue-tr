@@ -1,0 +1,64 @@
+{
+  "id": 1108595931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9061908722,40.9875450134,28.9061908722,40.9875450134",
+    "geom:latitude":40.987545,
+    "geom:longitude":28.906191,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziya Gokalp Mah. 39 Sok. No.45 Zeytinburnu",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 546 7705",
+    "sg:postcode":"34020",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qn2YfDyD6SNwWdAf8qyx8_40.987545_28.906191@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065464,
+    "wof:geomhash":"8729ee74b6f7b6f4dd40e3837f1a35d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108595931
+        }
+    ],
+    "wof:id":1108595931,
+    "wof:lastmodified":1474065464,
+    "wof:name":"Atlantik Leather Textil Insaat San.tic.ltd.sti.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9061908722,
+    40.9875450134,
+    28.9061908722,
+    40.9875450134
+],
+  "geometry": {"coordinates":[28.9061908722,40.9875450134],"type":"Point"}
+}

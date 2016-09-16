@@ -1,0 +1,75 @@
+{
+  "id": 1108600613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8722896576,40.9851493835,28.8722896576,40.9851493835",
+    "geom:latitude":40.985149,
+    "geom:longitude":28.87229,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Incirli Cad. No.29",
+    "sg:city":"Incirli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 572 6872",
+    "sg:postcode":"01920",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VG0CCocOhuvgkkg2IlgXA_40.985149_28.872290@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065660,
+    "wof:geomhash":"1bf5927c67d2ad7e86aac790f79c9d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108600613
+        }
+    ],
+    "wof:id":1108600613,
+    "wof:lastmodified":1474065660,
+    "wof:name":"Denizhan Tarim ?rl. A.s.",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    28.8722896576,
+    40.9851493835,
+    28.8722896576,
+    40.9851493835
+],
+  "geometry": {"coordinates":[28.8722896576,40.9851493835],"type":"Point"}
+}

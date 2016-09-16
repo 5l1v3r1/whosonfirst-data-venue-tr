@@ -1,0 +1,69 @@
+{
+  "id": 1108584841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0936107635,37.7994384766,29.0936107635,37.7994384766",
+    "geom:latitude":37.799438,
+    "geom:longitude":29.093611,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karakurt Yolu 1891 Sok. No:52",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 211 5650",
+    "sg:postcode":"63000",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YxnHzJzBksxJgFu2DavPF_37.799438_29.093611@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065128,
+    "wof:geomhash":"9fd802ed85b70e73e86df7069240b9b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108584841
+        }
+    ],
+    "wof:id":1108584841,
+    "wof:lastmodified":1474065128,
+    "wof:name":"Gamatex Textile Industry & Trade Company",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.0936107635,
+    37.7994384766,
+    29.0936107635,
+    37.7994384766
+],
+  "geometry": {"coordinates":[29.0936107635,37.7994384766],"type":"Point"}
+}

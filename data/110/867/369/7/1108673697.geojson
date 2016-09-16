@@ -1,0 +1,71 @@
+{
+  "id": 1108673697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1228599548,41.0047492981,29.1228599548,41.0047492981",
+    "geom:latitude":41.004749,
+    "geom:longitude":29.12286,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmak Mah.ikbal Cad.tutun Sok. No: 36/1",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 499 8212",
+    "sg:postcode":"03650",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "materials-spices",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7laNVYKOKbU3DK18SauIoC_41.004749_29.122860@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068791,
+    "wof:geomhash":"8a1a92ae23eef007899cecc37aed9637",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108673697
+        }
+    ],
+    "wof:id":1108673697,
+    "wof:lastmodified":1474068791,
+    "wof:name":"Ecem Dogal Urunler",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-spices",
+        "additive"
+    ]
+},
+  "bbox": [
+    29.1228599548,
+    41.0047492981,
+    29.1228599548,
+    41.0047492981
+],
+  "geometry": {"coordinates":[29.1228599548,41.0047492981],"type":"Point"}
+}

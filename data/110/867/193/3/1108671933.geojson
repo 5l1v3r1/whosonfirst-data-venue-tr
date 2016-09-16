@@ -1,0 +1,76 @@
+{
+  "id": 1108671933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8700733185,40.9845275879,28.8700733185,40.9845275879",
+    "geom:latitude":40.984528,
+    "geom:longitude":28.870073,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik Sokak No:2/3 - Bakirk?",
+    "sg:city":"Macunk?y",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 583 0072",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "aid",
+        "material",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929899,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zMygGzvz48ixaJd82Hl8G_40.984528_28.870073@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068715,
+    "wof:geomhash":"1974f9d89970978549c327fc136336da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929899,
+            "region_id":85679237,
+            "venue_id":1108671933
+        }
+    ],
+    "wof:id":1108671933,
+    "wof:lastmodified":1474068715,
+    "wof:name":"Aktif Ambulans",
+    "wof:parent_id":85929899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "material",
+        "first"
+    ]
+},
+  "bbox": [
+    28.8700733185,
+    40.9845275879,
+    28.8700733185,
+    40.9845275879
+],
+  "geometry": {"coordinates":[28.8700733185,40.9845275879],"type":"Point"}
+}

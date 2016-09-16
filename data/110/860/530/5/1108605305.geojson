@@ -1,0 +1,75 @@
+{
+  "id": 1108605305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8245315552,41.0008583069,28.8245315552,41.0008583069",
+    "geom:latitude":41.000858,
+    "geom:longitude":28.824532,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cobancesme Mah. Gencosman Sok. No:4/1",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 503 9414",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VIbuFNzbdKNDZ548zqODS_41.000858_28.824532@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065856,
+    "wof:geomhash":"ad75fb996f9ac196c4e940414f7d4cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108605305
+        }
+    ],
+    "wof:id":1108605305,
+    "wof:lastmodified":1474065856,
+    "wof:name":"Demo Tekstil Ltd.sti.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8245315552,
+    41.0008583069,
+    28.8245315552,
+    41.0008583069
+],
+  "geometry": {"coordinates":[28.8245315552,41.0008583069],"type":"Point"}
+}

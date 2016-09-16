@@ -1,0 +1,72 @@
+{
+  "id": 1108671045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9866809845,41.0596656799,28.9866809845,41.0596656799",
+    "geom:latitude":41.059666,
+    "geom:longitude":28.986681,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abide-i Hurriyet Cad. No:182/5 Sisli",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 232 3245",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YDy3JcpDXk017INPLaQH7_41.059666_28.986681@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068683,
+    "wof:geomhash":"980a9995966026bde730d903d32ab7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108671045
+        }
+    ],
+    "wof:id":1108671045,
+    "wof:lastmodified":1474068683,
+    "wof:name":"Eko Finans Factoring Hizmetleri A.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9866809845,
+    41.0596656799,
+    28.9866809845,
+    41.0596656799
+],
+  "geometry": {"coordinates":[28.9866809845,41.0596656799],"type":"Point"}
+}

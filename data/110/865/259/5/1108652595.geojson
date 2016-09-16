@@ -1,0 +1,76 @@
+{
+  "id": 1108652595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9904079437,41.0532722473,28.9904079437,41.0532722473",
+    "geom:latitude":41.053272,
+    "geom:longitude":28.990408,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sair Nigar Sk. 88 Osmanbey",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0065",
+    "sg:postcode":"80220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "sg:website":"miditriko.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bgDy76u4gX5Cihikn9hFa_41.053272_28.990408@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067964,
+    "wof:geomhash":"15fb4598e28ec874eb24769be0fbf97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108652595
+        }
+    ],
+    "wof:id":1108652595,
+    "wof:lastmodified":1474067964,
+    "wof:name":"Midi Triko Konfeksiyon Ticaret Ve San.a.s",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9904079437,
+    41.0532722473,
+    28.9904079437,
+    41.0532722473
+],
+  "geometry": {"coordinates":[28.9904079437,41.0532722473],"type":"Point"}
+}

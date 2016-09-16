@@ -1,0 +1,73 @@
+{
+  "id": 1108664237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7977581024,40.980632782,28.7977581024,40.980632782",
+    "geom:latitude":40.980633,
+    "geom:longitude":28.797758,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Belediye C. No: 34/b Avcilar",
+    "sg:city":"Kayisdagi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 509 5125",
+    "sg:postcode":"34755",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yeDiqfHTUcfFWefv053Ts_40.980633_28.797758@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068414,
+    "wof:geomhash":"38a6463320d16472a71ef0f3b310e511",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108664237
+        }
+    ],
+    "wof:id":1108664237,
+    "wof:lastmodified":1474068414,
+    "wof:name":"?zlem Plastik Pencere San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    28.7977581024,
+    40.980632782,
+    28.7977581024,
+    40.980632782
+],
+  "geometry": {"coordinates":[28.7977581024,40.980632782],"type":"Point"}
+}

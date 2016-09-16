@@ -1,0 +1,72 @@
+{
+  "id": 1108577141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8565750122,41.0131874084,28.8565750122,41.0131874084",
+    "geom:latitude":41.013187,
+    "geom:longitude":28.856575,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cad. ?alislar Sok No:2/2",
+    "sg:city":"G?ng?ren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+92 1250 21349",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "jean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mg34apdOsHkbidHeRkqNo_41.013187_28.856575@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064775,
+    "wof:geomhash":"e6bdcd4d41aa6d6da7c6fec4219d664d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108577141
+        }
+    ],
+    "wof:id":1108577141,
+    "wof:lastmodified":1474064775,
+    "wof:name":"Itaccenter",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jean"
+    ]
+},
+  "bbox": [
+    28.8565750122,
+    41.0131874084,
+    28.8565750122,
+    41.0131874084
+],
+  "geometry": {"coordinates":[28.8565750122,41.0131874084],"type":"Point"}
+}

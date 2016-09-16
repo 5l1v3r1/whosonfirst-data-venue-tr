@@ -1,0 +1,73 @@
+{
+  "id": 1108663025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0403022766,41.0040283203,29.0403022766,41.0040283203",
+    "geom:latitude":41.004028,
+    "geom:longitude":29.040302,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. No:377/5 S.bakkal",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 302 4166",
+    "sg:postcode":"01940",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18jLTHppGJuGRgUWvPjJ0F_41.004028_29.040302@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068366,
+    "wof:geomhash":"3e27409f324f472ed36a5dc408aed753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108663025
+        }
+    ],
+    "wof:id":1108663025,
+    "wof:lastmodified":1474068366,
+    "wof:name":"Orva Ilac San.",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    29.0403022766,
+    41.0040283203,
+    29.0403022766,
+    41.0040283203
+],
+  "geometry": {"coordinates":[29.0403022766,41.0040283203],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108672141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6197834015,36.8506889343,30.6197834015,36.8506889343",
+    "geom:latitude":36.850689,
+    "geom:longitude":30.619783,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Liman Mah. 3.sok.no: 9/a",
+    "sg:city":"Bebek",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 259 3550",
+    "sg:postcode":"02000",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929909,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bZYe0UYUcBiWxdU0yzUxS_36.850689_30.619783@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068722,
+    "wof:geomhash":"9220b22caa02b43b8aabb88be5ced35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85929909,
+            "region_id":85679263,
+            "venue_id":1108672141
+        }
+    ],
+    "wof:id":1108672141,
+    "wof:lastmodified":1474068722,
+    "wof:name":"Altug Balikcilik",
+    "wof:parent_id":85929909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    30.6197834015,
+    36.8506889343,
+    30.6197834015,
+    36.8506889343
+],
+  "geometry": {"coordinates":[30.6197834015,36.8506889343],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108594183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8587837219,39.9260787964,32.8587837219,39.9260787964",
+    "geom:latitude":39.926079,
+    "geom:longitude":32.858784,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halk Sok. No:16/12 Sihhiye",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 6649",
+    "sg:postcode":"16220",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Grdixe6T3J2qD9bkQ0Xgy_39.926079_32.858784@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065391,
+    "wof:geomhash":"d759e520749cbe6141d29a275db0ae66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108594183
+        }
+    ],
+    "wof:id":1108594183,
+    "wof:lastmodified":1474065391,
+    "wof:name":"Alp Mecikal Ltd.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    32.8587837219,
+    39.9260787964,
+    32.8587837219,
+    39.9260787964
+],
+  "geometry": {"coordinates":[32.8587837219,39.9260787964],"type":"Point"}
+}

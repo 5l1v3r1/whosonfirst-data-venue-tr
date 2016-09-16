@@ -1,0 +1,69 @@
+{
+  "id": 1108665145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8462791443,39.929725647,32.8462791443,39.929725647",
+    "geom:latitude":39.929726,
+    "geom:longitude":32.846279,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali Suavi Sok. No:64",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 384 2929",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JRbuS40bCJDcBHBbRr9UD_39.929726_32.846279@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068448,
+    "wof:geomhash":"a31dbb8452746b79ed7cfe3493e74d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108665145
+        }
+    ],
+    "wof:id":1108665145,
+    "wof:lastmodified":1474068448,
+    "wof:name":"Hizli Dagitim Hizmetleri Ltd.sti.",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    32.8462791443,
+    39.929725647,
+    32.8462791443,
+    39.929725647
+],
+  "geometry": {"coordinates":[32.8462791443,39.929725647],"type":"Point"}
+}

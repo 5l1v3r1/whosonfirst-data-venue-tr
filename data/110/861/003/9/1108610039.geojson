@@ -1,0 +1,72 @@
+{
+  "id": 1108610039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7092056274,36.8790512085,30.7092056274,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.709206,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Caglayan Mah. Yeni Lara No: 117",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 324 3000",
+    "sg:postcode":"33115",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41jr7M3MAismS2BHyVYbLQ_36.879051_30.709206@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066079,
+    "wof:geomhash":"de6e658ab3247c1a4422ee844fae3cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108610039
+        }
+    ],
+    "wof:id":1108610039,
+    "wof:lastmodified":1474066079,
+    "wof:name":"Eray Mobilya Dekorasyon Ltd Sti",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    30.7092056274,
+    36.8790512085,
+    30.7092056274,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7092056274,36.8790512085],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108655741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5246944427,39.7679290771,30.5246944427,39.7679290771",
+    "geom:latitude":39.767929,
+    "geom:longitude":30.524694,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Deliklitas Dr. Hilmi Sk. No:1/b",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222",
+    "sg:postcode":"31200",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZZn0yKbtLfEjio4T44aeV_39.767929_30.524694@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068088,
+    "wof:geomhash":"de4f85aac7b8ee33a639eca57074e4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108655741
+        }
+    ],
+    "wof:id":1108655741,
+    "wof:lastmodified":1474068088,
+    "wof:name":"Yunusemre Yildirim Maden San. Tic. Ltd. Sti.",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    30.5246944427,
+    39.7679290771,
+    30.5246944427,
+    39.7679290771
+],
+  "geometry": {"coordinates":[30.5246944427,39.7679290771],"type":"Point"}
+}

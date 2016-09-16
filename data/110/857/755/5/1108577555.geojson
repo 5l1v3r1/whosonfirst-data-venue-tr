@@ -1,0 +1,76 @@
+{
+  "id": 1108577555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8592147827,39.9056396484,32.8592147827,39.9056396484",
+    "geom:latitude":39.90564,
+    "geom:longitude":32.859215,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Organize San.bolg. Avar Cad. No:3 Sincan",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 267 0011",
+    "sg:postcode":"06680",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409,
+        85929547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59AKbkOmmcTcRVXKUwKhMy_39.905640_32.859215@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064827,
+    "wof:geomhash":"e8ae17958a762806be93da558f1118f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108577555
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108577555
+        }
+    ],
+    "wof:id":1108577555,
+    "wof:lastmodified":1474064827,
+    "wof:name":"Ersa Office Furniture Industry And Trade Co.ltd.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    32.8592147827,
+    39.9056396484,
+    32.8592147827,
+    39.9056396484
+],
+  "geometry": {"coordinates":[32.8592147827,39.9056396484],"type":"Point"}
+}

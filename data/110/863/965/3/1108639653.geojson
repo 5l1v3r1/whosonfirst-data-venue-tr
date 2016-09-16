@@ -1,0 +1,64 @@
+{
+  "id": 1108639653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.910326004,41.049079895,28.910326004,41.049079895",
+    "geom:latitude":41.04908,
+    "geom:longitude":28.910326,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"4. Gazeteciler Sit. A 5 Blok D:3 Besiktas",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 4592",
+    "sg:postcode":"34050",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W80zNzB5KGweWjlcDrI2y_41.049080_28.910326@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067410,
+    "wof:geomhash":"540c091c444c68dc4464c09d5bed7b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108639653
+        }
+    ],
+    "wof:id":1108639653,
+    "wof:lastmodified":1474067410,
+    "wof:name":"Istanbul Motor Spor. Kulubu Dernegi",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.910326004,
+    41.049079895,
+    28.910326004,
+    41.049079895
+],
+  "geometry": {"coordinates":[28.910326004,41.049079895],"type":"Point"}
+}

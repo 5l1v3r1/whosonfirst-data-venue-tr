@@ -1,0 +1,68 @@
+{
+  "id": 1108671537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9027996063,40.99477005,28.9027996063,40.99477005",
+    "geom:latitude":40.99477,
+    "geom:longitude":28.9028,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesiltepe Mah. 74 Sokak No: 115 D.3 Zeytinburnu",
+    "sg:city":"Sirkeci-eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 582 1242",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WzM0LemJEfYpEpkGcVQo9_40.994770_28.902800@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068702,
+    "wof:geomhash":"6ade81eab70286405bc6e68cb941dd7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108671537
+        }
+    ],
+    "wof:id":1108671537,
+    "wof:lastmodified":1474068702,
+    "wof:name":"Sadik Ozdemir Mali Musavir Serbest Muhasebeci",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    28.9027996063,
+    40.99477005,
+    28.9027996063,
+    40.99477005
+],
+  "geometry": {"coordinates":[28.9027996063,40.99477005],"type":"Point"}
+}

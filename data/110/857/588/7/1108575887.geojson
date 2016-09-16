@@ -1,0 +1,67 @@
+{
+  "id": 1108575887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.280582428,40.8696136475,29.280582428,40.8696136475",
+    "geom:latitude":40.869614,
+    "geom:longitude":29.280582,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Abdi Ipekci Cad. No:2/7",
+    "sg:city":"Nisantasi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 4424",
+    "sg:postcode":"25370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HBpQxEAX6HTq82Gvi3Myn_40.869614_29.280582@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064696,
+    "wof:geomhash":"f61153034a922759eb5b7e4d8ea7a25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108575887
+        }
+    ],
+    "wof:id":1108575887,
+    "wof:lastmodified":1474064696,
+    "wof:name":"An Uluslararasi Tekstil San.tic. Ltd.sti.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    29.280582428,
+    40.8696136475,
+    29.280582428,
+    40.8696136475
+],
+  "geometry": {"coordinates":[29.280582428,40.8696136475],"type":"Point"}
+}

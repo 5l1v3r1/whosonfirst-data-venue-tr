@@ -1,0 +1,68 @@
+{
+  "id": 1108675965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1326770782,40.9687385559,29.1326770782,40.9687385559",
+    "geom:latitude":40.968739,
+    "geom:longitude":29.132677,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bileziksok. No:2 Findikli",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 0385",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s4XjJqmEZtKb0mfJ6RgZy_40.968739_29.132677@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068890,
+    "wof:geomhash":"bbed87d93e4242e131e91d2430cd473d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108675965
+        }
+    ],
+    "wof:id":1108675965,
+    "wof:lastmodified":1474068890,
+    "wof:name":"Danimarka",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    29.1326770782,
+    40.9687385559,
+    29.1326770782,
+    40.9687385559
+],
+  "geometry": {"coordinates":[29.1326770782,40.9687385559],"type":"Point"}
+}

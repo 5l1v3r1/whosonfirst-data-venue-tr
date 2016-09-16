@@ -1,0 +1,66 @@
+{
+  "id": 1108671359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9734210968,41.0149421692,28.9734210968,41.0149421692",
+    "geom:latitude":41.014942,
+    "geom:longitude":28.973421,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hobyar Mah. Buyuk Postane Cad. No.70",
+    "sg:city":"Eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 514 0044",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50lDMjSMMwHFfV07GHjjxA_41.014942_28.973421@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068696,
+    "wof:geomhash":"d707a7d0d6e5d143bc1b3bae7df0e175",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108671359
+        }
+    ],
+    "wof:id":1108671359,
+    "wof:lastmodified":1474068696,
+    "wof:name":"Ziraat Yatirim Menkul Degerler",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9734210968,
+    41.0149421692,
+    28.9734210968,
+    41.0149421692
+],
+  "geometry": {"coordinates":[28.9734210968,41.0149421692],"type":"Point"}
+}

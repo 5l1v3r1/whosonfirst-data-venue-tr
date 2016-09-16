@@ -1,0 +1,69 @@
+{
+  "id": 1108668073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.942609787,41.0088424683,28.942609787,41.0088424683",
+    "geom:latitude":41.008842,
+    "geom:longitude":28.94261,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bayrampasa",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 544 6192",
+    "sg:postcode":"23050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58nWhCG5ccdkZnxKM2J8Gg_41.008842_28.942610@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068563,
+    "wof:geomhash":"c4877e8e59c8634118bee98192249e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108668073
+        }
+    ],
+    "wof:id":1108668073,
+    "wof:lastmodified":1474068563,
+    "wof:name":"Ekin Matbaacilik",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    28.942609787,
+    41.0088424683,
+    28.942609787,
+    41.0088424683
+],
+  "geometry": {"coordinates":[28.942609787,41.0088424683],"type":"Point"}
+}

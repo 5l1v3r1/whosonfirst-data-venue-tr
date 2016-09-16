@@ -1,0 +1,75 @@
+{
+  "id": 1108600435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9772510529,41.0340003967,28.9772510529,41.0340003967",
+    "geom:latitude":41.034,
+    "geom:longitude":28.977251,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mebusan Yokusu Ssk. Pasaji No:220",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 0831",
+    "sg:postcode":"01365",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o8BTxgIw6THkHyZNMM9lm_41.034000_28.977251@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065654,
+    "wof:geomhash":"6bb070210bbf5446164711c3bee36076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108600435
+        }
+    ],
+    "wof:id":1108600435,
+    "wof:lastmodified":1474065654,
+    "wof:name":"Anatoliacapers",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    28.9772510529,
+    41.0340003967,
+    28.9772510529,
+    41.0340003967
+],
+  "geometry": {"coordinates":[28.9772510529,41.0340003967],"type":"Point"}
+}

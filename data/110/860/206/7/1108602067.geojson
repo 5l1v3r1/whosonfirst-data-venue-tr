@@ -1,0 +1,70 @@
+{
+  "id": 1108602067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8637619019,39.9189567566,32.8637619019,39.9189567566",
+    "geom:latitude":39.918957,
+    "geom:longitude":32.863762,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglar Cad. 225/14",
+    "sg:city":"Gop",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 447 6842",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SVPz5k9GB9qDVboDYwec5_39.918957_32.863762@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065719,
+    "wof:geomhash":"1091d1b4320a77487b8b26e3b09baeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108602067
+        }
+    ],
+    "wof:id":1108602067,
+    "wof:lastmodified":1474065719,
+    "wof:name":"G&m Muh. Ins. San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    32.8637619019,
+    39.9189567566,
+    32.8637619019,
+    39.9189567566
+],
+  "geometry": {"coordinates":[32.8637619019,39.9189567566],"type":"Point"}
+}

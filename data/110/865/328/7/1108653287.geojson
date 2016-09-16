@@ -1,0 +1,67 @@
+{
+  "id": 1108653287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2168636322,40.8841209412,29.2168636322,40.8841209412",
+    "geom:latitude":40.884121,
+    "geom:longitude":29.216864,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Mayis Cd. D? Sk. No:7 Pendik",
+    "sg:city":"Y?egir",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 3245",
+    "sg:postcode":"01180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KvGJYprT7qWTKXGxUlZ6o_40.884121_29.216864@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067994,
+    "wof:geomhash":"557492d35bd45fdbe72948feefad5ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930115,
+            "venue_id":1108653287
+        }
+    ],
+    "wof:id":1108653287,
+    "wof:lastmodified":1474067994,
+    "wof:name":"D?vme Metal San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2168636322,
+    40.8841209412,
+    29.2168636322,
+    40.8841209412
+],
+  "geometry": {"coordinates":[29.2168636322,40.8841209412],"type":"Point"}
+}

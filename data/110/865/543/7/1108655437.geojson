@@ -1,0 +1,75 @@
+{
+  "id": 1108655437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8194541931,39.9260635376,32.8194541931,39.9260635376",
+    "geom:latitude":39.926064,
+    "geom:longitude":32.819454,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Biskek Cd. 65. Sok. No:21/2 Emek",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 223 0247",
+    "sg:postcode":"34718",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f8fdDWA6S0zXMOriWyRCN_39.926064_32.819454@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068076,
+    "wof:geomhash":"150ec68d6c4c415a670910eaaf7dc7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108655437
+        }
+    ],
+    "wof:id":1108655437,
+    "wof:lastmodified":1474068076,
+    "wof:name":"Km Madencilik Ltd. Sti.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8194541931,
+    39.9260635376,
+    32.8194541931,
+    39.9260635376
+],
+  "geometry": {"coordinates":[32.8194541931,39.9260635376],"type":"Point"}
+}

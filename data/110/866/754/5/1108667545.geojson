@@ -1,0 +1,67 @@
+{
+  "id": 1108667545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9735546112,41.0148200989,28.9735546112,41.0148200989",
+    "geom:latitude":41.01482,
+    "geom:longitude":28.973555,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 0622",
+    "sg:postcode":"34100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WeuptsIJbCpBK1Zv52j1S_41.014820_28.973555@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068542,
+    "wof:geomhash":"d8f3a4f1fc8ecc4d69946958d7e9b7ec",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108667545
+        }
+    ],
+    "wof:id":1108667545,
+    "wof:lastmodified":1474068542,
+    "wof:name":"Murat Kirtasiye Ltd.sti.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    28.9735546112,
+    41.0148200989,
+    28.9735546112,
+    41.0148200989
+],
+  "geometry": {"coordinates":[28.9735546112,41.0148200989],"type":"Point"}
+}

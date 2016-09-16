@@ -1,0 +1,75 @@
+{
+  "id": 1108652711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8296031952,40.9937934875,28.8296031952,40.9937934875",
+    "geom:latitude":40.993793,
+    "geom:longitude":28.829603,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kimiz Sok. No:4 Cobancesme",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 451 1779",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tx4nvjveHEBxgpwy1HrNc_40.993793_28.829603@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067968,
+    "wof:geomhash":"70f892489ab3c9f2f0c3f43fb324aec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108652711
+        }
+    ],
+    "wof:id":1108652711,
+    "wof:lastmodified":1474067968,
+    "wof:name":"Style Cizgi",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8296031952,
+    40.9937934875,
+    28.8296031952,
+    40.9937934875
+],
+  "geometry": {"coordinates":[28.8296031952,40.9937934875],"type":"Point"}
+}

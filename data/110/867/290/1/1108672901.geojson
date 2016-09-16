@@ -1,0 +1,75 @@
+{
+  "id": 1108672901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0312824249,40.9911689758,29.0312824249,40.9911689758",
+    "geom:latitude":40.991169,
+    "geom:longitude":29.031282,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kusdili Cd. Visne Sk. No:5",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 345 3195",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mvSuzGuhnxjSHGGtH4wWt_40.991169_29.031282@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068758,
+    "wof:geomhash":"295c51355fe98668163c5e55e4cb07d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108672901
+        }
+    ],
+    "wof:id":1108672901,
+    "wof:lastmodified":1474068758,
+    "wof:name":"Dilek Ci?ek?i.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0312824249,
+    40.9911689758,
+    29.0312824249,
+    40.9911689758
+],
+  "geometry": {"coordinates":[29.0312824249,40.9911689758],"type":"Point"}
+}

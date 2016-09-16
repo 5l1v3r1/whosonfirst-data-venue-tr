@@ -1,0 +1,71 @@
+{
+  "id": 1108598957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8593482971,39.9217262268,32.8593482971,39.9217262268",
+    "geom:latitude":39.921726,
+    "geom:longitude":32.859348,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziya Gokalp Cad. No:32/a",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 6551",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ii9QBFAHjnd4XAQmBxQid_39.921726_32.859348@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065588,
+    "wof:geomhash":"5a2621ec9d236172f4ae2ba8d64fd3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108598957
+        }
+    ],
+    "wof:id":1108598957,
+    "wof:lastmodified":1474065588,
+    "wof:name":"Gulcan Avize Aydinlatma Dek San Tic Ltd.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    32.8593482971,
+    39.9217262268,
+    32.8593482971,
+    39.9217262268
+],
+  "geometry": {"coordinates":[32.8593482971,39.9217262268],"type":"Point"}
+}

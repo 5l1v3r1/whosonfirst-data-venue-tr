@@ -1,0 +1,75 @@
+{
+  "id": 1108589901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0285358429,41.0217285156,29.0285358429,41.0217285156",
+    "geom:latitude":41.021729,
+    "geom:longitude":29.028536,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selami Ali Mah. S.ast. Halil ?gel Sok. No:11/1 Fistikagaci",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 553 0204",
+    "sg:postcode":"34664",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929383,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BPHEfOK2dHMO5L42ofbg2_41.021729_29.028536@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065248,
+    "wof:geomhash":"5d970aa302ba7a972e30548c84e9532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929383,
+            "region_id":85679237,
+            "venue_id":1108589901
+        }
+    ],
+    "wof:id":1108589901,
+    "wof:lastmodified":1474065248,
+    "wof:name":"Mert Anahtar Kilit Sistemleri",
+    "wof:parent_id":85929383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    29.0285358429,
+    41.0217285156,
+    29.0285358429,
+    41.0217285156
+],
+  "geometry": {"coordinates":[29.0285358429,41.0217285156],"type":"Point"}
+}

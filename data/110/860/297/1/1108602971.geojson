@@ -1,0 +1,75 @@
+{
+  "id": 1108602971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0279140472,41.0280838013,29.0279140472,41.0280838013",
+    "geom:latitude":41.028084,
+    "geom:longitude":29.027914,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Caddesi 26/a",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 6075",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929383,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mB3jFlBx8thw9aYpAfVfy_41.028084_29.027914@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065754,
+    "wof:geomhash":"a804e50410a01b6efc3d63704dcb7a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929383,
+            "region_id":85679237,
+            "venue_id":1108602971
+        }
+    ],
+    "wof:id":1108602971,
+    "wof:lastmodified":1474065754,
+    "wof:name":"Sas Scandinavian Airlines",
+    "wof:parent_id":85929383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0279140472,
+    41.0280838013,
+    29.0279140472,
+    41.0280838013
+],
+  "geometry": {"coordinates":[29.0279140472,41.0280838013],"type":"Point"}
+}

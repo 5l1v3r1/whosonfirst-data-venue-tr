@@ -1,0 +1,71 @@
+{
+  "id": 1108670343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.3761024475,37.0629463196,37.3761024475,37.0629463196",
+    "geom:latitude":37.062946,
+    "geom:longitude":37.376102,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"E-90 Karayolu Uzeri Sekilli Koyu Kavsagi",
+    "sg:city":"Nizip",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 342545211516",
+    "sg:postcode":"27700",
+    "sg:province":"Gaziantep",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934731,
+        85679437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11XewjXWxswFrxIUgnghyN_37.062946_37.376102@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068655,
+    "wof:geomhash":"7d1b3642729df7cf514fb0052cc328b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934731,
+            "region_id":85679437,
+            "venue_id":1108670343
+        }
+    ],
+    "wof:id":1108670343,
+    "wof:lastmodified":1474068655,
+    "wof:name":"Bereket Organik Gubre San.tic.a.s.",
+    "wof:parent_id":85934731,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    37.3761024475,
+    37.0629463196,
+    37.3761024475,
+    37.0629463196
+],
+  "geometry": {"coordinates":[37.3761024475,37.0629463196],"type":"Point"}
+}

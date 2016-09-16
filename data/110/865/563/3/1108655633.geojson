@@ -1,0 +1,71 @@
+{
+  "id": 1108655633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8556251526,39.9176979065,32.8556251526,39.9176979065",
+    "geom:latitude":39.917698,
+    "geom:longitude":32.855625,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad.no:46/12 Kizilay",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 430 3507",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F9Aj92UilSrh7GQUkMBOx_39.917698_32.855625@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068084,
+    "wof:geomhash":"ba8b0d51e85f4b08026cbd3f2e1b4ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108655633
+        }
+    ],
+    "wof:id":1108655633,
+    "wof:lastmodified":1474068084,
+    "wof:name":"Senka A.s.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8556251526,
+    39.9176979065,
+    32.8556251526,
+    39.9176979065
+],
+  "geometry": {"coordinates":[32.8556251526,39.9176979065],"type":"Point"}
+}

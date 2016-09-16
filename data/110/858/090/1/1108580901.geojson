@@ -1,0 +1,67 @@
+{
+  "id": 1108580901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0357112885,41.1511383057,29.0357112885,41.1511383057",
+    "geom:latitude":41.151138,
+    "geom:longitude":29.035711,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kefeli Cd. No:130 Tarabya",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 262 2972",
+    "sg:postcode":"81260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930117,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BllSRwfn9gLaGWHcfALjV_41.151138_29.035711@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065034,
+    "wof:geomhash":"99fe4a6e70f08c680b50682393b8eefb",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85930117,
+            "region_id":85679237,
+            "venue_id":1108580901
+        }
+    ],
+    "wof:id":1108580901,
+    "wof:lastmodified":1474065034,
+    "wof:name":"Mat Motorlu Ara?. I? Dis Ltd. Sti.",
+    "wof:parent_id":85930117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    29.0357112885,
+    41.1511383057,
+    29.0357112885,
+    41.1511383057
+],
+  "geometry": {"coordinates":[29.0357112885,41.1511383057],"type":"Point"}
+}

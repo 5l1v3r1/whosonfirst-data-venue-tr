@@ -1,0 +1,67 @@
+{
+  "id": 1108677665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9412746429,41.0086898804,28.9412746429,41.0086898804",
+    "geom:latitude":41.00869,
+    "geom:longitude":28.941275,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haseki Cad. No: 63 Aksaray",
+    "sg:city":"Salipazari",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212632697677",
+    "sg:postcode":"80040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CU7emiuXiaYIV0iuhDwNx_41.008690_28.941275@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068948,
+    "wof:geomhash":"4b47fa1052cef073477285a9a1807306",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108677665
+        }
+    ],
+    "wof:id":1108677665,
+    "wof:lastmodified":1474068948,
+    "wof:name":"Hanimlar Egitim Ve K?lt?r Vakfi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    28.9412746429,
+    41.0086898804,
+    28.9412746429,
+    41.0086898804
+],
+  "geometry": {"coordinates":[28.9412746429,41.0086898804],"type":"Point"}
+}

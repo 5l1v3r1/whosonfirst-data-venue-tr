@@ -1,0 +1,73 @@
+{
+  "id": 1108673621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0654067993,40.9751663208,29.0654067993,40.9751663208",
+    "geom:latitude":40.975166,
+    "geom:longitude":29.065407,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Mayis Cd. No:19/2",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 233 0607",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WprwDErxbD9IDuamw1OJw_40.975166_29.065407@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068788,
+    "wof:geomhash":"9bad2facf0120da87e1732bfbadddab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108673621
+        }
+    ],
+    "wof:id":1108673621,
+    "wof:lastmodified":1474068788,
+    "wof:name":"?zfirat ?i?ekevi",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0654067993,
+    40.9751663208,
+    29.0654067993,
+    40.9751663208
+],
+  "geometry": {"coordinates":[29.0654067993,40.9751663208],"type":"Point"}
+}

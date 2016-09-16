@@ -1,0 +1,67 @@
+{
+  "id": 1108585173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9403591156,41.012802124,28.9403591156,41.012802124",
+    "geom:latitude":41.012802,
+    "geom:longitude":28.940359,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Findikzade",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21258675755",
+    "sg:postcode":"34280",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UqoZBhiCmCArF4itTB41N_41.012802_28.940359@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065135,
+    "wof:geomhash":"8e5b5c408bdcc25d6dce100bd9ef903e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108585173
+        }
+    ],
+    "wof:id":1108585173,
+    "wof:lastmodified":1474065135,
+    "wof:name":"Ajans 30 Subat",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    28.9403591156,
+    41.012802124,
+    28.9403591156,
+    41.012802124
+],
+  "geometry": {"coordinates":[28.9403591156,41.012802124],"type":"Point"}
+}

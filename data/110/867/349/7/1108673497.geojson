@@ -1,0 +1,68 @@
+{
+  "id": 1108673497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7976398468,41.0020751953,28.7976398468,41.0020751953",
+    "geom:latitude":41.002075,
+    "geom:longitude":28.79764,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halkali Cd. No:78",
+    "sg:city":"Sefak?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 580 2529",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GOLl8vYMDdUB53V38433W_41.002075_28.797640@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068783,
+    "wof:geomhash":"70f6bcfeb9b8ca104b67280568e1937b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108673497
+        }
+    ],
+    "wof:id":1108673497,
+    "wof:lastmodified":1474068783,
+    "wof:name":"Ulusl. ?nal ?i?ek Galerisi",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.7976398468,
+    41.0020751953,
+    28.7976398468,
+    41.0020751953
+],
+  "geometry": {"coordinates":[28.7976398468,41.0020751953],"type":"Point"}
+}

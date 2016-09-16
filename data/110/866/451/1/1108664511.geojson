@@ -1,0 +1,68 @@
+{
+  "id": 1108664511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0116958618,41.062210083,29.0116958618,41.062210083",
+    "geom:latitude":41.06221,
+    "geom:longitude":29.011696,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari No:42/1 Balmumcu",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 1277",
+    "sg:postcode":"31750",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l0XA120KqeSwAa1YCFiHm_41.062210_29.011696@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068424,
+    "wof:geomhash":"16367960b0ee6f0231e917ad9fed68c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108664511
+        }
+    ],
+    "wof:id":1108664511,
+    "wof:lastmodified":1474068424,
+    "wof:name":"Atakar Tesisat Ltd. Sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0116958618,
+    41.062210083,
+    29.0116958618,
+    41.062210083
+],
+  "geometry": {"coordinates":[29.0116958618,41.062210083],"type":"Point"}
+}

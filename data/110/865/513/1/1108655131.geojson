@@ -1,0 +1,71 @@
+{
+  "id": 1108655131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1522827148,41.0140419006,29.1522827148,41.0140419006",
+    "geom:latitude":41.014042,
+    "geom:longitude":29.152283,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulv. Cd. Han No:125",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 7200",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72rw06BOitbNMZM6bQd3rg_41.014042_29.152283@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068063,
+    "wof:geomhash":"15c76d9190c7500167b5a1863e7b3351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108655131
+        }
+    ],
+    "wof:id":1108655131,
+    "wof:lastmodified":1474068063,
+    "wof:name":"Camis Madencilik A.s.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.1522827148,
+    41.0140419006,
+    29.1522827148,
+    41.0140419006
+],
+  "geometry": {"coordinates":[29.1522827148,41.0140419006],"type":"Point"}
+}

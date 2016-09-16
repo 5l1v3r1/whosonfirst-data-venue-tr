@@ -1,0 +1,71 @@
+{
+  "id": 1108655697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2986755371,40.8999099731,29.2986755371,40.8999099731",
+    "geom:latitude":40.89991,
+    "geom:longitude":29.298676,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi. Sitesi 311 Sk. No: 1/2",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 326 615 7160",
+    "sg:postcode":"31200",
+    "sg:province":"Hatay",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47MoqACzcFEc2EsqkSce6j_40.899910_29.298676@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068086,
+    "wof:geomhash":"92188f7e608ee48f3e3bee7d32d9a5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108655697
+        }
+    ],
+    "wof:id":1108655697,
+    "wof:lastmodified":1474068086,
+    "wof:name":"Turbo Komur San. A.s.",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.2986755371,
+    40.8999099731,
+    29.2986755371,
+    40.8999099731
+],
+  "geometry": {"coordinates":[29.2986755371,40.8999099731],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108661381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9761428833,41.0107192993,28.9761428833,41.0107192993",
+    "geom:latitude":41.010719,
+    "geom:longitude":28.976143,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemal N. Sk. No:4 Cagaloglu",
+    "sg:city":"Adalar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 526 2889",
+    "sg:postcode":"81340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237,
+        85632393,
+        85906489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PxDjRBVoQFeZTTswzS5oy_41.010719_28.976143@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068303,
+    "wof:geomhash":"f64d71d4927c3d0dca54aba6609db5de",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108661381
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906489,
+            "region_id":85679237,
+            "venue_id":1108661381
+        }
+    ],
+    "wof:id":1108661381,
+    "wof:lastmodified":1474068303,
+    "wof:name":"Alfa Graf Kagit Dis Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.9761428833,
+    41.0107192993,
+    28.9761428833,
+    41.0107192993
+],
+  "geometry": {"coordinates":[28.9761428833,41.0107192993],"type":"Point"}
+}

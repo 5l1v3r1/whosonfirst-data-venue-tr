@@ -1,0 +1,75 @@
+{
+  "id": 1108567415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1727275848,40.9119529724,29.1727275848,40.9119529724",
+    "geom:latitude":40.911953,
+    "geom:longitude":29.172728,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Orhangazi Cd. Tansel Sk. No:15 Cevizli",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 309 6470",
+    "sg:postcode":"31200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jUvDZLK9dXOoFcgajXJfv_40.911953_29.172728@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064352,
+    "wof:geomhash":"95cb71d64627864f84bd9800219d19ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108567415
+        }
+    ],
+    "wof:id":1108567415,
+    "wof:lastmodified":1474064352,
+    "wof:name":"Farmtrak Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1727275848,
+    40.9119529724,
+    29.1727275848,
+    40.9119529724
+],
+  "geometry": {"coordinates":[29.1727275848,40.9119529724],"type":"Point"}
+}

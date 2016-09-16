@@ -1,0 +1,62 @@
+{
+  "id": 1108665889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0447826385,41.1093444824,29.0447826385,41.1093444824",
+    "geom:latitude":41.109344,
+    "geom:longitude":29.044783,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Konaklar Mahallesi Aykan Sokak 53/5",
+    "sg:city":"4. Levent",
+    "sg:classifiers":[],
+    "sg:orig_category":"Prefabric Construction",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212282330708",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929871,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hzCJQLEmTfLFMVDH9T9eb_41.109344_29.044783@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068481,
+    "wof:geomhash":"36485bac6a9da5650a01ce126846375c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929871,
+            "region_id":85679237,
+            "venue_id":1108665889
+        }
+    ],
+    "wof:id":1108665889,
+    "wof:lastmodified":1474068481,
+    "wof:name":"Akat Evleri",
+    "wof:parent_id":85929871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0447826385,
+    41.1093444824,
+    29.0447826385,
+    41.1093444824
+],
+  "geometry": {"coordinates":[29.0447826385,41.1093444824],"type":"Point"}
+}

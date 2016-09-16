@@ -1,0 +1,69 @@
+{
+  "id": 1108653137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2028846741,38.4502906799,27.2028846741,38.4502906799",
+    "geom:latitude":38.450291,
+    "geom:longitude":27.202885,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Caddesi 367 Sokak No: 8 Bornova",
+    "sg:city":"Kdz.eregli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 9414",
+    "sg:postcode":"67300",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06tzLZXqvNGQlmz1CyEpGb_38.450291_27.202885@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067989,
+    "wof:geomhash":"2010fd3730f5935b8d699cee0deb99ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108653137
+        }
+    ],
+    "wof:id":1108653137,
+    "wof:lastmodified":1474067989,
+    "wof:name":"Botas Bornova Packaging Industries Inc.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    27.2028846741,
+    38.4502906799,
+    27.2028846741,
+    38.4502906799
+],
+  "geometry": {"coordinates":[27.2028846741,38.4502906799],"type":"Point"}
+}

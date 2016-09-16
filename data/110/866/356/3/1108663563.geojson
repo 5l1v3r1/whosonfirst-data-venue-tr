@@ -1,0 +1,77 @@
+{
+  "id": 1108663563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0428752899,41.0045509338,29.0428752899,41.0045509338",
+    "geom:latitude":41.004551,
+    "geom:longitude":29.042875,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Acibadem ?akmak Sitesi 10/3",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 428 6669",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wall",
+        "plast",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929353,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PkS5r7SD72zzHvPIheZlm_41.004551_29.042875@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068387,
+    "wof:geomhash":"8c68000ee33ac7887ebf4b43407f3687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929353,
+            "region_id":85679237,
+            "venue_id":1108663563
+        }
+    ],
+    "wof:id":1108663563,
+    "wof:lastmodified":1474068387,
+    "wof:name":"Mb Dekorasyon",
+    "wof:parent_id":85929353,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wall",
+        "plast",
+        "panel"
+    ]
+},
+  "bbox": [
+    29.0428752899,
+    41.0045509338,
+    29.0428752899,
+    41.0045509338
+],
+  "geometry": {"coordinates":[29.0428752899,41.0045509338],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108575699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0479698181,41.1267776489,29.0479698181,41.1267776489",
+    "geom:latitude":41.126778,
+    "geom:longitude":29.04797,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Celik Sk. 32/4",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 284 5572",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930201,
+        102191569,
+        85632393,
+        101912653,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kHcGO50IEIYxXBmseMh3l_41.126778_29.047970@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064689,
+    "wof:geomhash":"d7bbb9479bd03fa06d1a88c4dd62c07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912653,
+            "neighbourhood_id":85930201,
+            "region_id":85679237,
+            "venue_id":1108575699
+        }
+    ],
+    "wof:id":1108575699,
+    "wof:lastmodified":1474064689,
+    "wof:name":"Onurbey Yatcilik Ltd.sti.",
+    "wof:parent_id":85930201,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.0479698181,
+    41.1267776489,
+    29.0479698181,
+    41.1267776489
+],
+  "geometry": {"coordinates":[29.0479698181,41.1267776489],"type":"Point"}
+}

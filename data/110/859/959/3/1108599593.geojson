@@ -1,0 +1,73 @@
+{
+  "id": 1108599593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9610500336,41.0376663208,28.9610500336,41.0376663208",
+    "geom:latitude":41.037666,
+    "geom:longitude":28.96105,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yenidere Sok. No: 21",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 216 9161",
+    "sg:postcode":"80100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906535,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GC23uiGn9hI3SuXBnWMMs_41.037666_28.961050@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065617,
+    "wof:geomhash":"c3d13404b8b18f64a1f50e4231f08625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906535,
+            "region_id":85679237,
+            "venue_id":1108599593
+        }
+    ],
+    "wof:id":1108599593,
+    "wof:lastmodified":1474065617,
+    "wof:name":"Reklam58",
+    "wof:parent_id":85906535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advertising"
+    ]
+},
+  "bbox": [
+    28.9610500336,
+    41.0376663208,
+    28.9610500336,
+    41.0376663208
+],
+  "geometry": {"coordinates":[28.9610500336,41.0376663208],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108676229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.874710083,39.9854736328,32.874710083,39.9854736328",
+    "geom:latitude":39.985474,
+    "geom:longitude":32.87471,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Derya Sok No:3/4",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 358 0212",
+    "sg:postcode":"07010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929589,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31edLbV8Wpu80oTdHGHzp2_39.985474_32.874710@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068899,
+    "wof:geomhash":"d2e00b119cacb50c8c67815cfeca8063",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929589,
+            "region_id":85679409,
+            "venue_id":1108676229
+        }
+    ],
+    "wof:id":1108676229,
+    "wof:lastmodified":1474068899,
+    "wof:name":"Adar Orman Mak. Ith. Ihr. Ltd",
+    "wof:parent_id":85929589,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.874710083,
+    39.9854736328,
+    32.874710083,
+    39.9854736328
+],
+  "geometry": {"coordinates":[32.874710083,39.9854736328],"type":"Point"}
+}

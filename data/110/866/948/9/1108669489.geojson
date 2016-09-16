@@ -1,0 +1,69 @@
+{
+  "id": 1108669489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1438140869,38.4352264404,27.1438140869,38.4352264404",
+    "geom:latitude":38.435226,
+    "geom:longitude":27.143814,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talappasa Bulv. 72/3 Alsancak",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 8621",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h5V6jVOm2UPAxa0HlWoah_38.435226_27.143814@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068627,
+    "wof:geomhash":"3493a909d027c646da826a5c1a4bc9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108669489
+        }
+    ],
+    "wof:id":1108669489,
+    "wof:lastmodified":1474068627,
+    "wof:name":"Efor Ege Fuarcilik Organizasyon",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    27.1438140869,
+    38.4352264404,
+    27.1438140869,
+    38.4352264404
+],
+  "geometry": {"coordinates":[27.1438140869,38.4352264404],"type":"Point"}
+}

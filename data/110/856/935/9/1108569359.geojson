@@ -1,0 +1,71 @@
+{
+  "id": 1108569359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2029857635,38.4442672729,27.2029857635,38.4442672729",
+    "geom:latitude":38.444267,
+    "geom:longitude":27.202986,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sokak No:4 Mersinli",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 486 3225",
+    "sg:postcode":"34670",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hDlCHxweqYdR3iQthw0x_38.444267_27.202986@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064429,
+    "wof:geomhash":"c00b9aaf7e19bd5762d66ef1c98d1d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108569359
+        }
+    ],
+    "wof:id":1108569359,
+    "wof:lastmodified":1474064429,
+    "wof:name":"Teknik Makina Model A.s.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.2029857635,
+    38.4442672729,
+    27.2029857635,
+    38.4442672729
+],
+  "geometry": {"coordinates":[27.2029857635,38.4442672729],"type":"Point"}
+}

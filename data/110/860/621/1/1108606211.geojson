@@ -1,0 +1,75 @@
+{
+  "id": 1108606211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9850978851,41.0369796753,28.9850978851,41.0369796753",
+    "geom:latitude":41.03698,
+    "geom:longitude":28.985098,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taksim",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 7097",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fH0CJPQv32bDRW90Mej8Q_41.036980_28.985098@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065895,
+    "wof:geomhash":"bb4b91f25451f86498ba0c82e95584d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108606211
+        }
+    ],
+    "wof:id":1108606211,
+    "wof:lastmodified":1474065895,
+    "wof:name":"Leo Tekstil",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9850978851,
+    41.0369796753,
+    28.9850978851,
+    41.0369796753
+],
+  "geometry": {"coordinates":[28.9850978851,41.0369796753],"type":"Point"}
+}

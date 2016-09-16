@@ -1,0 +1,77 @@
+{
+  "id": 1108664179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8509464264,40.9960441589,28.8509464264,40.9960441589",
+    "geom:latitude":40.996044,
+    "geom:longitude":28.850946,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kartaltepe M. Namikkemal C. No: 23 Sefak?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 599 3899",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RPAdjHSwomFSE3fIN9js0_40.996044_28.850946@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068411,
+    "wof:geomhash":"a5c420a4f317b70d1e24830d37aad588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108664179
+        }
+    ],
+    "wof:id":1108664179,
+    "wof:lastmodified":1474068411,
+    "wof:name":"Yal?in Al?minyum San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    28.8509464264,
+    40.9960441589,
+    28.8509464264,
+    40.9960441589
+],
+  "geometry": {"coordinates":[28.8509464264,40.9960441589],"type":"Point"}
+}

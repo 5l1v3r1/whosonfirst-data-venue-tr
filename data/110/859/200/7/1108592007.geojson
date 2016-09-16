@@ -1,0 +1,73 @@
+{
+  "id": 1108592007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0827865601,40.9692001343,29.0827865601,40.9692001343",
+    "geom:latitude":40.9692,
+    "geom:longitude":29.082787,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez Mah. Cinar Cad. Kavak Sok. No:26",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 654 6303",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RshauwhXnyu9AED7eIAbi_40.969200_29.082787@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065310,
+    "wof:geomhash":"66b2bc22514d47cfeb44e8b37d57999a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108592007
+        }
+    ],
+    "wof:id":1108592007,
+    "wof:lastmodified":1474065310,
+    "wof:name":"Gruplar Tekstil",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    29.0827865601,
+    40.9692001343,
+    29.0827865601,
+    40.9692001343
+],
+  "geometry": {"coordinates":[29.0827865601,40.9692001343],"type":"Point"}
+}

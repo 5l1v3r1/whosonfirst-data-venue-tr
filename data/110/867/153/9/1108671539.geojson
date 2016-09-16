@@ -1,0 +1,72 @@
+{
+  "id": 1108671539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7791576385,41.0085678101,28.7791576385,41.0085678101",
+    "geom:latitude":41.008568,
+    "geom:longitude":28.779158,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr.sadik Ahmet Cad. No:181/3 Kanarya",
+    "sg:city":"Sirkeci-eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 425 6100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929991,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LVGiHHFmqtVBNhyXiFAYo_41.008568_28.779158@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068702,
+    "wof:geomhash":"560a1aba2bc5bf09ca9a39fd13b40534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929991,
+            "region_id":85679237,
+            "venue_id":1108671539
+        }
+    ],
+    "wof:id":1108671539,
+    "wof:lastmodified":1474068702,
+    "wof:name":"Salih Fiil",
+    "wof:parent_id":85929991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    28.7791576385,
+    41.0085678101,
+    28.7791576385,
+    41.0085678101
+],
+  "geometry": {"coordinates":[28.7791576385,41.0085678101],"type":"Point"}
+}

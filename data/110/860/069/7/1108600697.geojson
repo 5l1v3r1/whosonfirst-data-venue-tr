@@ -1,0 +1,75 @@
+{
+  "id": 1108600697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1123580933,40.9426269531,29.1123580933,40.9426269531",
+    "geom:latitude":40.942627,
+    "geom:longitude":29.112358,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cad. Ucler Sok. Emre Apt. D:2",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 539 6796",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929997,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g11cxbkHLMD3jtFFnpmp1_40.942627_29.112358@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065669,
+    "wof:geomhash":"abd78392b05b1169e70729c236de415f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929997,
+            "region_id":85679237,
+            "venue_id":1108600697
+        }
+    ],
+    "wof:id":1108600697,
+    "wof:lastmodified":1474065669,
+    "wof:name":"Erdogan Seri Gida Tic.",
+    "wof:parent_id":85929997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    29.1123580933,
+    40.9426269531,
+    29.1123580933,
+    40.9426269531
+],
+  "geometry": {"coordinates":[29.1123580933,40.9426269531],"type":"Point"}
+}

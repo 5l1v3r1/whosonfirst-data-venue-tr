@@ -1,0 +1,63 @@
+{
+  "id": 1108666979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1007118225,38.4045791626,27.1007118225,38.4045791626",
+    "geom:latitude":38.404579,
+    "geom:longitude":27.100712,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1364. Sk. Sema Han No:2 D:204 Cankaya",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 4191",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H4SpDQXMTKeTPuyaBNie7_38.404579_27.100712@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068522,
+    "wof:geomhash":"27768c22245d37ce393bb4df80cd7b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108666979
+        }
+    ],
+    "wof:id":1108666979,
+    "wof:lastmodified":1474068522,
+    "wof:name":"Kaloriferciler Ve Sihhi Tesisatcilar Odasi",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1007118225,
+    38.4045791626,
+    27.1007118225,
+    38.4045791626
+],
+  "geometry": {"coordinates":[27.1007118225,38.4045791626],"type":"Point"}
+}

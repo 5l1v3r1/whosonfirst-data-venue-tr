@@ -1,0 +1,73 @@
+{
+  "id": 1108577291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8711128235,41.0086135864,28.8711128235,41.0086135864",
+    "geom:latitude":41.008614,
+    "geom:longitude":28.871113,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cad. No:11 Haznedar",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 642 5115",
+    "sg:postcode":"34104",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DFwvVWVEUxH3gwuUxx6q8_41.008614_28.871113@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064788,
+    "wof:geomhash":"161812ced560feacf41c5eda4418501e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108577291
+        }
+    ],
+    "wof:id":1108577291,
+    "wof:lastmodified":1474064788,
+    "wof:name":"Ant Ofis Mobilyalari",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.8711128235,
+    41.0086135864,
+    28.8711128235,
+    41.0086135864
+],
+  "geometry": {"coordinates":[28.8711128235,41.0086135864],"type":"Point"}
+}

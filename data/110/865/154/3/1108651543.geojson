@@ -1,0 +1,69 @@
+{
+  "id": 1108651543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1053085327,38.3977279663,27.1053085327,38.3977279663",
+    "geom:latitude":38.397728,
+    "geom:longitude":27.105309,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"177/5 Sk. No:1/a Basinsitesi",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232",
+    "sg:postcode":"35110",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904103,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oqJKmwvUpUDZZ3P2g7Uei_38.397728_27.105309@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067905,
+    "wof:geomhash":"4fe250a1e6a14a22ef4bcfd03d00893c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904103,
+            "region_id":85679201,
+            "venue_id":1108651543
+        }
+    ],
+    "wof:id":1108651543,
+    "wof:lastmodified":1474067905,
+    "wof:name":"Nova Medikal Sis.",
+    "wof:parent_id":85904103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1053085327,
+    38.3977279663,
+    27.1053085327,
+    38.3977279663
+],
+  "geometry": {"coordinates":[27.1053085327,38.3977279663],"type":"Point"}
+}

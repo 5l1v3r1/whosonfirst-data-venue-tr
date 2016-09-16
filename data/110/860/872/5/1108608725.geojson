@@ -1,0 +1,68 @@
+{
+  "id": 1108608725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0102081299,41.05701828,29.0102081299,41.05701828",
+    "geom:latitude":41.057018,
+    "geom:longitude":29.010208,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulv. No:8",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"International",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 274 8661",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904169,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vOmdhIz1niPAXQt0eGisp_41.057018_29.010208@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066015,
+    "wof:geomhash":"57beef384685832a7b503d21f5fc790d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
+            "region_id":85679237,
+            "venue_id":1108608725
+        }
+    ],
+    "wof:id":1108608725,
+    "wof:lastmodified":1474066015,
+    "wof:name":"Atu Hava Nakliyat Mak. San. Dis. Tic.",
+    "wof:parent_id":85904169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0102081299,
+    41.05701828,
+    29.0102081299,
+    41.05701828
+],
+  "geometry": {"coordinates":[29.0102081299,41.05701828],"type":"Point"}
+}

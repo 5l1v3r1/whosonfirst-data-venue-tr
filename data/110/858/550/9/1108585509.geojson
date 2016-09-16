@@ -1,0 +1,73 @@
+{
+  "id": 1108585509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1613388062,40.9402923584,29.1613388062,40.9402923584",
+    "geom:latitude":40.940292,
+    "geom:longitude":29.161339,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Feyzullah Efendi Sk. No:15/b",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 621 8702",
+    "sg:postcode":"34080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KxCkV0SmrAl6naLZDmYaT_40.940292_29.161339@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065146,
+    "wof:geomhash":"7e1a59e9ad853f6c64d4d17d6fa71369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":1108585509
+        }
+    ],
+    "wof:id":1108585509,
+    "wof:lastmodified":1474065146,
+    "wof:name":"Tm Reklam & Tasarim",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    29.1613388062,
+    40.9402923584,
+    29.1613388062,
+    40.9402923584
+],
+  "geometry": {"coordinates":[29.1613388062,40.9402923584],"type":"Point"}
+}

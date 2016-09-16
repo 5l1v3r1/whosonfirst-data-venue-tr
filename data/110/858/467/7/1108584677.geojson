@@ -1,0 +1,69 @@
+{
+  "id": 1108584677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.171421051,38.438457489,27.171421051,38.438457489",
+    "geom:latitude":38.438457,
+    "geom:longitude":27.171421,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1565 Sok. No:7",
+    "sg:city":"Cinarli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 461 0552",
+    "sg:postcode":"01180",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904105,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hjNmBbDIbbQkHznbr4V5h_38.438457_27.171421@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065124,
+    "wof:geomhash":"1b458c4d5797c661ee7d745bbeaaf240",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904105,
+            "region_id":85679201,
+            "venue_id":1108584677
+        }
+    ],
+    "wof:id":1108584677,
+    "wof:lastmodified":1474065124,
+    "wof:name":"Aycelik Yay Sanayi",
+    "wof:parent_id":85904105,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    27.171421051,
+    38.438457489,
+    27.171421051,
+    38.438457489
+],
+  "geometry": {"coordinates":[27.171421051,38.438457489],"type":"Point"}
+}

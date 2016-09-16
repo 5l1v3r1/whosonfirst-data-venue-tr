@@ -1,0 +1,68 @@
+{
+  "id": 1108642555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2210998535,38.4696998596,27.2210998535,38.4696998596",
+    "geom:latitude":38.4697,
+    "geom:longitude":27.2211,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"129/4.sok.no:3 Bornova",
+    "sg:city":"Y.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2323756189375",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WHnGmKl4jx1Iqd30ynC6t_38.469700_27.221100@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067512,
+    "wof:geomhash":"ed4f67802fba5f1a9a541a51d922ed33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108642555
+        }
+    ],
+    "wof:id":1108642555,
+    "wof:lastmodified":1474067512,
+    "wof:name":"Frensan Yedek Parca Sanayi Ltd.sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    27.2210998535,
+    38.4696998596,
+    27.2210998535,
+    38.4696998596
+],
+  "geometry": {"coordinates":[27.2210998535,38.4696998596],"type":"Point"}
+}

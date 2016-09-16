@@ -1,0 +1,70 @@
+{
+  "id": 1108603099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8206958771,40.9819564819,28.8206958771,40.9819564819",
+    "geom:latitude":40.981956,
+    "geom:longitude":28.820696,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkez: Bostanci Yolu No51/1 Birlik Ismerkezi Y.dudullu/ist.",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21652794314428",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        102535819,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SJYtiTJeOJKfY2Q1jE9WB_40.981956_28.820696@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065759,
+    "wof:geomhash":"97fbe1c4413e6f38228cbefcd1900e48",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535819,
+            "country_id":85632393,
+            "region_id":85679237,
+            "venue_id":1108603099
+        }
+    ],
+    "wof:id":1108603099,
+    "wof:lastmodified":1474065759,
+    "wof:name":"?zg?r G?nelik Otomasyon Ve Kontrol Sistemleri",
+    "wof:parent_id":102535819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    28.8206958771,
+    40.9819564819,
+    28.8206958771,
+    40.9819564819
+],
+  "geometry": {"coordinates":[28.8206958771,40.9819564819],"type":"Point"}
+}

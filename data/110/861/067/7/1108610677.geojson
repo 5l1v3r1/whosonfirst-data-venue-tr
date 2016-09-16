@@ -1,0 +1,71 @@
+{
+  "id": 1108610677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9108524323,41.0492248535,28.9108524323,41.0492248535",
+    "geom:latitude":41.049225,
+    "geom:longitude":28.910852,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"In??cad. S?ko Sitesi K2 Blok No:4",
+    "sg:city":"Kozyatagi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 410 6693",
+    "sg:postcode":"81090",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "dental",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GySLhxGbD00yG9BmzMpNP_41.049225_28.910852@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066112,
+    "wof:geomhash":"2c2ea320663c8e8224b801b5a400e362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108610677
+        }
+    ],
+    "wof:id":1108610677,
+    "wof:lastmodified":1474066112,
+    "wof:name":"Betomed Medikal G??t?eme Sistemleri",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "material"
+    ]
+},
+  "bbox": [
+    28.9108524323,
+    41.0492248535,
+    28.9108524323,
+    41.0492248535
+],
+  "geometry": {"coordinates":[28.9108524323,41.0492248535],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108605759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0422649384,41.137840271,29.0422649384,41.137840271",
+    "geom:latitude":41.13784,
+    "geom:longitude":29.042265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Evren Cad. Yigitler Sok. No:16",
+    "sg:city":"Y.dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 420 6596",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930117,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79OIFIqGO7efB2E2cGUNfj_41.137840_29.042265@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065874,
+    "wof:geomhash":"2095988cdbfbeefa90167aa9c7b02a6d",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85930117,
+            "region_id":85679237,
+            "venue_id":1108605759
+        }
+    ],
+    "wof:id":1108605759,
+    "wof:lastmodified":1474065874,
+    "wof:name":"Grup Tekstil",
+    "wof:parent_id":85930117,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0422649384,
+    41.137840271,
+    29.0422649384,
+    41.137840271
+],
+  "geometry": {"coordinates":[29.0422649384,41.137840271],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108636795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9308547974,41.0004730225,28.9308547974,41.0004730225",
+    "geom:latitude":41.000473,
+    "geom:longitude":28.930855,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cad. No: 127",
+    "sg:city":"K.mustafapasa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 6174",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xMnwFd1s48RsvZZT6k33W_41.000473_28.930855@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067292,
+    "wof:geomhash":"4bfc2d91d23d7cbd78caa0e0fa1f9067",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929373,
+            "region_id":85679237,
+            "venue_id":1108636795
+        }
+    ],
+    "wof:id":1108636795,
+    "wof:lastmodified":1474067292,
+    "wof:name":"Celteks Muhendilik",
+    "wof:parent_id":85929373,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    28.9308547974,
+    41.0004730225,
+    28.9308547974,
+    41.0004730225
+],
+  "geometry": {"coordinates":[28.9308547974,41.0004730225],"type":"Point"}
+}

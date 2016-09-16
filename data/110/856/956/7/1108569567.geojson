@@ -1,0 +1,71 @@
+{
+  "id": 1108569567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8968048096,39.9571151733,32.8968048096,39.9571151733",
+    "geom:latitude":39.957115,
+    "geom:longitude":32.896805,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirhendek Cad. No:78 Siteler",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 31235391913",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75lAG4GsZMzoyZnQArEJFn_39.957115_32.896805@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064437,
+    "wof:geomhash":"dd5fd4fd9453503f4b314e1d1932700f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108569567
+        }
+    ],
+    "wof:id":1108569567,
+    "wof:lastmodified":1474064437,
+    "wof:name":"Turanlar Makina Sanayi Ve Ticaret A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8968048096,
+    39.9571151733,
+    32.8968048096,
+    39.9571151733
+],
+  "geometry": {"coordinates":[32.8968048096,39.9571151733],"type":"Point"}
+}

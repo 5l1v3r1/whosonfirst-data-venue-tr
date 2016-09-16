@@ -1,0 +1,73 @@
+{
+  "id": 1108582493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0334625244,41.0841407776,29.0334625244,41.0841407776",
+    "geom:latitude":41.084141,
+    "geom:longitude":29.033463,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tepecik Yolu Cevher Sok.no:6 Etiler",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 0154",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QsbtoZQiXGdH81IWgE6vO_41.084141_29.033463@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065073,
+    "wof:geomhash":"8ad2bc07d63aa967f7d55f5d15d003fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108582493
+        }
+    ],
+    "wof:id":1108582493,
+    "wof:lastmodified":1474065073,
+    "wof:name":"Alper Bale Kursu",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    29.0334625244,
+    41.0841407776,
+    29.0334625244,
+    41.0841407776
+],
+  "geometry": {"coordinates":[29.0334625244,41.0841407776],"type":"Point"}
+}

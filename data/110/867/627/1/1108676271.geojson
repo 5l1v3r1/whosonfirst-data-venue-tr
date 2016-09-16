@@ -1,0 +1,69 @@
+{
+  "id": 1108676271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9004058838,39.9559020996,32.9004058838,39.9559020996",
+    "geom:latitude":39.955902,
+    "geom:longitude":32.900406,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirhendek Cd. No:9 Siteler",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 350 4260",
+    "sg:postcode":"07010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ip7L8nfS1w4A7ity2m53I_39.955902_32.900406@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068901,
+    "wof:geomhash":"285a17e1524b6bba21f9daaa611d1f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676271
+        }
+    ],
+    "wof:id":1108676271,
+    "wof:lastmodified":1474068901,
+    "wof:name":"Aksa Orman ?r?nleri",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.9004058838,
+    39.9559020996,
+    32.9004058838,
+    39.9559020996
+],
+  "geometry": {"coordinates":[32.9004058838,39.9559020996],"type":"Point"}
+}

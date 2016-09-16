@@ -1,0 +1,71 @@
+{
+  "id": 1108597093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9063796997,40.9906234741,28.9063796997,40.9906234741",
+    "geom:latitude":40.990623,
+    "geom:longitude":28.90638,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yeni Dogan Mah. 42.sok. No:81 Zeytinburnu",
+    "sg:city":"Beyazit",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 510 0525",
+    "sg:postcode":"65400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_347FSLTkzsBVLJwdODqBTE_40.990623_28.906380@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065516,
+    "wof:geomhash":"a047f05e6456cef21bcb50cfb6f930c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108597093
+        }
+    ],
+    "wof:id":1108597093,
+    "wof:lastmodified":1474065516,
+    "wof:name":"Serdar Deri Konfeksiyon",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9063796997,
+    40.9906234741,
+    28.9063796997,
+    40.9906234741
+],
+  "geometry": {"coordinates":[28.9063796997,40.9906234741],"type":"Point"}
+}

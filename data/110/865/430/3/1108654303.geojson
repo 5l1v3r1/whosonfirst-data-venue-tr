@@ -1,0 +1,74 @@
+{
+  "id": 1108654303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0475025177,40.9774703979,29.0475025177,40.9774703979",
+    "geom:latitude":40.97747,
+    "geom:longitude":29.047503,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. 146 81030 Feneryolu Kadik? Istanbul",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 8486",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "metallurgy",
+        "metalworking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BUnMSPKqkXlfb8cG0gJPC_40.977470_29.047503@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068036,
+    "wof:geomhash":"d989fa6ff2e4f9c2bff7dd7e316d83b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929463,
+            "region_id":85679237,
+            "venue_id":1108654303
+        }
+    ],
+    "wof:id":1108654303,
+    "wof:lastmodified":1474068036,
+    "wof:name":"Ark San. ?r?nleri Tic Ltd Sti",
+    "wof:parent_id":85929463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgy",
+        "metalworking"
+    ]
+},
+  "bbox": [
+    29.0475025177,
+    40.9774703979,
+    29.0475025177,
+    40.9774703979
+],
+  "geometry": {"coordinates":[29.0475025177,40.9774703979],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108654117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1135082245,41.019115448,29.1135082245,41.019115448",
+    "geom:latitude":41.019115,
+    "geom:longitude":29.113508,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dere Sk. No:2 ?mraniye",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 312 1103",
+    "sg:postcode":"34437",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IUo6PqQspqQJLW4sosMwm_41.019115_29.113508@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068025,
+    "wof:geomhash":"e161153fa2fbde61e039f2ce6f2acb68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108654117
+        }
+    ],
+    "wof:id":1108654117,
+    "wof:lastmodified":1474068025,
+    "wof:name":"?ms ?aliskan Metal San.",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1135082245,
+    41.019115448,
+    29.1135082245,
+    41.019115448
+],
+  "geometry": {"coordinates":[29.1135082245,41.019115448],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108594663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8655967712,39.9003753662,32.8655967712,39.9003753662",
+    "geom:latitude":39.900375,
+    "geom:longitude":32.865597,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bogaz Sok. No.5/4",
+    "sg:city":"G.o.p.",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 4335",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z9S2fQwwNJjOuWNAAfXQw_39.900375_32.865597@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065408,
+    "wof:geomhash":"c56121e0cbc86a3895fc90d9202462df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108594663
+        }
+    ],
+    "wof:id":1108594663,
+    "wof:lastmodified":1474065408,
+    "wof:name":"Cansa Peyzaj",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    32.8655967712,
+    39.9003753662,
+    32.8655967712,
+    39.9003753662
+],
+  "geometry": {"coordinates":[32.8655967712,39.9003753662],"type":"Point"}
+}

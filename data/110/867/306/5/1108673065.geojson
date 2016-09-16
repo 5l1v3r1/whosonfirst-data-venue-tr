@@ -1,0 +1,67 @@
+{
+  "id": 1108673065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9452209473,41.0089607239,28.9452209473,41.0089607239",
+    "geom:latitude":41.008961,
+    "geom:longitude":28.945221,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adnan Adivar Cd. No:6",
+    "sg:city":"Haseki",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 1310",
+    "sg:postcode":"34096",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_237UR42VpvPuYmmYDQQydY_41.008961_28.945221@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068763,
+    "wof:geomhash":"741c88bbf585e4584bcfa72b089132b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108673065
+        }
+    ],
+    "wof:id":1108673065,
+    "wof:lastmodified":1474068763,
+    "wof:name":"Haseki ?i?ekevi",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9452209473,
+    41.0089607239,
+    28.9452209473,
+    41.0089607239
+],
+  "geometry": {"coordinates":[28.9452209473,41.0089607239],"type":"Point"}
+}

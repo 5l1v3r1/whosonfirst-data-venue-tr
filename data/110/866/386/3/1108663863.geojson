@@ -1,0 +1,73 @@
+{
+  "id": 1108663863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8855857849,41.0033340454,28.8855857849,41.0033340454",
+    "geom:latitude":41.003334,
+    "geom:longitude":28.885586,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mete S. No: 9/2 Bayrampasa",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 0087",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28plSrrk04WBNISkIcdyUM_41.003334_28.885586@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068399,
+    "wof:geomhash":"5a2a21c5badf1560c2cfb24a828c249e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108663863
+        }
+    ],
+    "wof:id":1108663863,
+    "wof:lastmodified":1474068399,
+    "wof:name":"Handan Pen Yapi San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    28.8855857849,
+    41.0033340454,
+    28.8855857849,
+    41.0033340454
+],
+  "geometry": {"coordinates":[28.8855857849,41.0033340454],"type":"Point"}
+}

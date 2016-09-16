@@ -1,0 +1,75 @@
+{
+  "id": 1108593853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7557411194,36.8559913635,30.7557411194,36.8559913635",
+    "geom:latitude":36.855991,
+    "geom:longitude":30.755741,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Caglayan Mah.131/4",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3242471",
+    "sg:postcode":"07100",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "test",
+        "chemical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930175,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67XnFM4Fg5yuGd0dvr6aIj_36.855991_30.755741@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065378,
+    "wof:geomhash":"847ed9d95ad0b406e5d9a6d2d64db63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930175,
+            "region_id":85679263,
+            "venue_id":1108593853
+        }
+    ],
+    "wof:id":1108593853,
+    "wof:lastmodified":1474065378,
+    "wof:name":"Sebamar",
+    "wof:parent_id":85930175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "chemical"
+    ]
+},
+  "bbox": [
+    30.7557411194,
+    36.8559913635,
+    30.7557411194,
+    36.8559913635
+],
+  "geometry": {"coordinates":[30.7557411194,36.8559913635],"type":"Point"}
+}

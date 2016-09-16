@@ -1,0 +1,72 @@
+{
+  "id": 1108577879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0989322662,40.9572639465,29.0989322662,40.9572639465",
+    "geom:latitude":40.957264,
+    "geom:longitude":29.098932,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iskele Yolu Cd. No:21/2 C.bostan",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 356 4313",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yHLsxxb8hV0PgsfQRu2kF_40.957264_29.098932@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064846,
+    "wof:geomhash":"b47252afdbb42db2cb60908badc73595",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108577879
+        }
+    ],
+    "wof:id":1108577879,
+    "wof:lastmodified":1474064846,
+    "wof:name":"Pagoda Ic Mimar. Dekor.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.0989322662,
+    40.9572639465,
+    29.0989322662,
+    40.9572639465
+],
+  "geometry": {"coordinates":[29.0989322662,40.9572639465],"type":"Point"}
+}

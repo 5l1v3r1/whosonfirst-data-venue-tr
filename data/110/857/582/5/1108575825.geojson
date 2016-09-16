@@ -1,0 +1,73 @@
+{
+  "id": 1108575825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8823623657,40.9790725708,28.8823623657,40.9790725708",
+    "geom:latitude":40.979073,
+    "geom:longitude":28.882362,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Cad.no:110",
+    "sg:city":"Kemerburgaz",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 239 1444",
+    "sg:postcode":"34075",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930077,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V8RkCEWLWMFVy2IsNdps7_40.979073_28.882362@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064694,
+    "wof:geomhash":"03c781d4a95b6c70d0d9440e8ab52b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85930077,
+            "region_id":85679237,
+            "venue_id":1108575825
+        }
+    ],
+    "wof:id":1108575825,
+    "wof:lastmodified":1474064694,
+    "wof:name":"Abes Iplik A.s",
+    "wof:parent_id":85930077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.8823623657,
+    40.9790725708,
+    28.8823623657,
+    40.9790725708
+],
+  "geometry": {"coordinates":[28.8823623657,40.9790725708],"type":"Point"}
+}

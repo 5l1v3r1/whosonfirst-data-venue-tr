@@ -1,0 +1,64 @@
+{
+  "id": 1108664651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9222507477,41.0502700806,28.9222507477,41.0502700806",
+    "geom:latitude":41.05027,
+    "geom:longitude":28.922251,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglar Cad. 225/14 Gop",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 447 6842",
+    "sg:postcode":"06640",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p8S8qWkdO3WGhq2y0pK3J_41.050270_28.922251@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068430,
+    "wof:geomhash":"4c207a270d7fec9a37db6ca8bf78d0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108664651
+        }
+    ],
+    "wof:id":1108664651,
+    "wof:lastmodified":1474068430,
+    "wof:name":"G&m Muh. Ins. San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9222507477,
+    41.0502700806,
+    28.9222507477,
+    41.0502700806
+],
+  "geometry": {"coordinates":[28.9222507477,41.0502700806],"type":"Point"}
+}

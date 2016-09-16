@@ -1,0 +1,61 @@
+{
+  "id": 1108617495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7091999054,36.8790512085,30.7091999054,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.7092,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barinaklar,lara Yolu",
+    "sg:city":"07100",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2423230480729",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13AYpYmUsfu77Q2MH1v8yg_36.879051_30.709200@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066366,
+    "wof:geomhash":"72912ccc087323b18b3141c2d7e4a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108617495
+        }
+    ],
+    "wof:id":1108617495,
+    "wof:lastmodified":1474066366,
+    "wof:name":"Baymurat Hotel",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7091999054,
+    36.8790512085,
+    30.7091999054,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7091999054,36.8790512085],"type":"Point"}
+}

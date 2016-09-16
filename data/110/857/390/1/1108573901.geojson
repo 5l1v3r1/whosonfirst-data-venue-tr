@@ -1,0 +1,68 @@
+{
+  "id": 1108573901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8648605347,39.9511871338,32.8648605347,39.9511871338",
+    "geom:latitude":39.951187,
+    "geom:longitude":32.864861,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cemalbey Cad.turgut Reis 3 Cikmazi-",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904077,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lqcdDiJe1l6GiPsOcEPxW_39.951187_32.864861@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064620,
+    "wof:geomhash":"634c8f852656b6d1ec854c0b59899310",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904077,
+            "region_id":85679409,
+            "venue_id":1108573901
+        }
+    ],
+    "wof:id":1108573901,
+    "wof:lastmodified":1474064620,
+    "wof:name":"Maltepe Cam",
+    "wof:parent_id":85904077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    32.8648605347,
+    39.9511871338,
+    32.8648605347,
+    39.9511871338
+],
+  "geometry": {"coordinates":[32.8648605347,39.9511871338],"type":"Point"}
+}

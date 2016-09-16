@@ -1,0 +1,67 @@
+{
+  "id": 1108613757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9392871857,41.0068359375,28.9392871857,41.0068359375",
+    "geom:latitude":41.006836,
+    "geom:longitude":28.939287,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Davutpasa Cd. Topkapi Ismerk. Tim 1 No:108",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 612 1115",
+    "sg:postcode":"24620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hCBpzNbrZF5eoM0L2nPd1_41.006836_28.939287@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066226,
+    "wof:geomhash":"91990ab990deb9b2c004d853036d7e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108613757
+        }
+    ],
+    "wof:id":1108613757,
+    "wof:lastmodified":1474066226,
+    "wof:name":"Al?ay Hirdavat Tic. Ltd. Sti.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    28.9392871857,
+    41.0068359375,
+    28.9392871857,
+    41.0068359375
+],
+  "geometry": {"coordinates":[28.9392871857,41.0068359375],"type":"Point"}
+}

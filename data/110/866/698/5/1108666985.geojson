@@ -1,0 +1,63 @@
+{
+  "id": 1108666985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1447296143,38.4409103394,27.1447296143,38.4409103394",
+    "geom:latitude":38.44091,
+    "geom:longitude":27.14473,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1444. Sk. Rukiye Han. Apt. D:4 No:14 Alsancak",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 421 5636",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rEyvCdZWY79y42bBp1v7z_38.440910_27.144730@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068522,
+    "wof:geomhash":"9d7458e3053298b24efb2522e1013d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108666985
+        }
+    ],
+    "wof:id":1108666985,
+    "wof:lastmodified":1474068522,
+    "wof:name":"Kuaforler Ve Manikurculer Odasi",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1447296143,
+    38.4409103394,
+    27.1447296143,
+    38.4409103394
+],
+  "geometry": {"coordinates":[27.1447296143,38.4409103394],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108604383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8245811462,40.9622077942,28.8245811462,40.9622077942",
+    "geom:latitude":40.962208,
+    "geom:longitude":28.824581,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hatboyu ?ikmazi 8/6",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 411 9188",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929771,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hoWjbr1uK6qXPHWqs0fNQ_40.962208_28.824581@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065814,
+    "wof:geomhash":"6582df91e5309d3a167ec510f7ae3ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929771,
+            "region_id":85679237,
+            "venue_id":1108604383
+        }
+    ],
+    "wof:id":1108604383,
+    "wof:lastmodified":1474065814,
+    "wof:name":"Berke International Trade Co.",
+    "wof:parent_id":85929771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.8245811462,
+    40.9622077942,
+    28.8245811462,
+    40.9622077942
+],
+  "geometry": {"coordinates":[28.8245811462,40.9622077942],"type":"Point"}
+}

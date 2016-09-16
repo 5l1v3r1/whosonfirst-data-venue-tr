@@ -1,0 +1,69 @@
+{
+  "id": 1108591141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8498764038,39.9032402039,32.8498764038,39.9032402039",
+    "geom:latitude":39.90324,
+    "geom:longitude":32.849876,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cd. No:113/4 Y.ayranci",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 440 4090",
+    "sg:postcode":"16030",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FkMr86TeoenQJla3so1ZW_39.903240_32.849876@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065275,
+    "wof:geomhash":"da80d8005ce9c4501f30add6f5b7d098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108591141
+        }
+    ],
+    "wof:id":1108591141,
+    "wof:lastmodified":1474065275,
+    "wof:name":"Perla Mutfak",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    32.8498764038,
+    39.9032402039,
+    32.8498764038,
+    39.9032402039
+],
+  "geometry": {"coordinates":[32.8498764038,39.9032402039],"type":"Point"}
+}

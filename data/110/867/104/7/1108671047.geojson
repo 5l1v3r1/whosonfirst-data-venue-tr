@@ -1,0 +1,67 @@
+{
+  "id": 1108671047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9551258087,41.0093383789,28.9551258087,41.0093383789",
+    "geom:latitude":41.009338,
+    "geom:longitude":28.955126,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulvari No:148/4 Aksaray",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wlObFMvY7RLpLGrDnZi2r_41.009338_28.955126@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068684,
+    "wof:geomhash":"ef92422db41e47283b5df3785a2bff36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108671047
+        }
+    ],
+    "wof:id":1108671047,
+    "wof:lastmodified":1474068684,
+    "wof:name":"Ekol Menkul Degerler A.s.",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9551258087,
+    41.0093383789,
+    28.9551258087,
+    41.0093383789
+],
+  "geometry": {"coordinates":[28.9551258087,41.0093383789],"type":"Point"}
+}

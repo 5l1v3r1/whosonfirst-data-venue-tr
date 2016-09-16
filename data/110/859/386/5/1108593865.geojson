@@ -1,0 +1,71 @@
+{
+  "id": 1108593865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8404846191,39.9232788086,32.8404846191,39.9232788086",
+    "geom:latitude":39.923279,
+    "geom:longitude":32.840485,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ata?sk. No:27/20 Sihhiye",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 4622",
+    "sg:postcode":"34340",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929609,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wW6sJFGNnYgyfHPqqgArp_39.923279_32.840485@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065378,
+    "wof:geomhash":"0d9f195dc41752fd1472a9ca70ba46db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929609,
+            "region_id":85679409,
+            "venue_id":1108593865
+        }
+    ],
+    "wof:id":1108593865,
+    "wof:lastmodified":1474065378,
+    "wof:name":"Alfaic Dis Tic.",
+    "wof:parent_id":85929609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "equipment"
+    ]
+},
+  "bbox": [
+    32.8404846191,
+    39.9232788086,
+    32.8404846191,
+    39.9232788086
+],
+  "geometry": {"coordinates":[32.8404846191,39.9232788086],"type":"Point"}
+}

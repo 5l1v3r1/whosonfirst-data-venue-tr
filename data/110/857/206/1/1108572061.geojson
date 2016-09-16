@@ -1,0 +1,72 @@
+{
+  "id": 1108572061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0089416504,41.0443611145,29.0089416504,41.0443611145",
+    "geom:latitude":41.044361,
+    "geom:longitude":29.008942,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cihannuma Mah. M.ali Bey Sk. No.8 Besiktas",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 2300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rYu7CNJGl2k8S7J1OoZNp_41.044361_29.008942@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064539,
+    "wof:geomhash":"4f12c38dc43cb628b9dd102988101574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108572061
+        }
+    ],
+    "wof:id":1108572061,
+    "wof:lastmodified":1474064539,
+    "wof:name":"Plasko Plastik San. Tic. A.s.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0089416504,
+    41.0443611145,
+    29.0089416504,
+    41.0443611145
+],
+  "geometry": {"coordinates":[29.0089416504,41.0443611145],"type":"Point"}
+}

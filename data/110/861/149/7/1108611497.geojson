@@ -1,0 +1,70 @@
+{
+  "id": 1108611497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0703983307,38.3975524902,27.0703983307,38.3975524902",
+    "geom:latitude":38.397552,
+    "geom:longitude":27.070398,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mithatpasa Cad.no:277/a",
+    "sg:city":"Bal?va",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 259 6363",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "store",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929631,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PtNL6GPtDXaLsE6jHsu8t_38.397552_27.070398@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066141,
+    "wof:geomhash":"21cec89c0a60e08b1519079c12473310",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":1108611497
+        }
+    ],
+    "wof:id":1108611497,
+    "wof:lastmodified":1474066141,
+    "wof:name":"Inciralti Eczanesi",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "drug"
+    ]
+},
+  "bbox": [
+    27.0703983307,
+    38.3975524902,
+    27.0703983307,
+    38.3975524902
+],
+  "geometry": {"coordinates":[27.0703983307,38.3975524902],"type":"Point"}
+}

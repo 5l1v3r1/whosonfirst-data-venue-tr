@@ -1,0 +1,70 @@
+{
+  "id": 1108604719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.889497757,41.0162887573,28.889497757,41.0162887573",
+    "geom:latitude":41.016289,
+    "geom:longitude":28.889498,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nadide Sok. No:41",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 483 1004",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b8iiSyRmc2q0jCQbTE9yp_41.016289_28.889498@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065834,
+    "wof:geomhash":"05f49dfeb2574246554b41619dbbfe52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108604719
+        }
+    ],
+    "wof:id":1108604719,
+    "wof:lastmodified":1474065834,
+    "wof:name":"Abelia Tekstil",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.889497757,
+    41.0162887573,
+    28.889497757,
+    41.0162887573
+],
+  "geometry": {"coordinates":[28.889497757,41.0162887573],"type":"Point"}
+}

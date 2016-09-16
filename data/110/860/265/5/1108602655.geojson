@@ -1,0 +1,69 @@
+{
+  "id": 1108602655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1490840912,40.9217071533,29.1490840912,40.9217071533",
+    "geom:latitude":40.921707,
+    "geom:longitude":29.149084,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cevizli Mah. 20 Temmuz Cad. No:36/b",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216459786869",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TgFOg3z02LAZos2CTvHsA_40.921707_29.149084@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065741,
+    "wof:geomhash":"b0182c05e832cb552620f9875e00a978",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108602655
+        }
+    ],
+    "wof:id":1108602655,
+    "wof:lastmodified":1474065741,
+    "wof:name":"Termodizayn Termik Cihazlari San.ve Tic.ltd.sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1490840912,
+    40.9217071533,
+    29.1490840912,
+    40.9217071533
+],
+  "geometry": {"coordinates":[29.1490840912,40.9217071533],"type":"Point"}
+}

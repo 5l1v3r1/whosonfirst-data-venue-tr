@@ -1,0 +1,73 @@
+{
+  "id": 1108637329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"39.7165603638,41.0012931824,39.7165603638,41.0012931824",
+    "geom:latitude":41.001293,
+    "geom:longitude":39.71656,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uzun Sok.kolotoglu Ishani 2/69",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 532 673 2225",
+    "sg:postcode":"61200",
+    "sg:province":"Trabzon",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934735,
+        102191569,
+        85632393,
+        101912783,
+        85679383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g0KsY0aPNb4D5EA7XV6Qc_41.001293_39.716560@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067310,
+    "wof:geomhash":"eafe24b95a80d0b72521071e3ceea19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383,
+            "venue_id":1108637329
+        }
+    ],
+    "wof:id":1108637329,
+    "wof:lastmodified":1474067310,
+    "wof:name":"Poliform Mimarlik",
+    "wof:parent_id":85934735,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    39.7165603638,
+    41.0012931824,
+    39.7165603638,
+    41.0012931824
+],
+  "geometry": {"coordinates":[39.7165603638,41.0012931824],"type":"Point"}
+}

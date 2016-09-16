@@ -1,0 +1,68 @@
+{
+  "id": 1108622617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0608673096,40.1948127747,29.0608673096,40.1948127747",
+    "geom:latitude":40.194813,
+    "geom:longitude":29.060867,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gazcilar Cd. No:81",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 254 8027",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929923,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lOJq7DKu3qGu3lMOsqzqY_40.194813_29.060867@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066576,
+    "wof:geomhash":"504a152ae733cc94a4c2584bed4be2fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929923,
+            "region_id":85679231,
+            "venue_id":1108622617
+        }
+    ],
+    "wof:id":1108622617,
+    "wof:lastmodified":1474066576,
+    "wof:name":"Atom Makina San. Tic. A.s.",
+    "wof:parent_id":85929923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0608673096,
+    40.1948127747,
+    29.0608673096,
+    40.1948127747
+],
+  "geometry": {"coordinates":[29.0608673096,40.1948127747],"type":"Point"}
+}

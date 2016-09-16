@@ -1,0 +1,68 @@
+{
+  "id": 1108578811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1592006683,38.4269981384,27.1592006683,38.4269981384",
+    "geom:latitude":38.426998,
+    "geom:longitude":27.159201,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"846.sk. No:32 Z:4 Erciyes Is Hani 1. Beyler Konak",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 441 4596",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nbYvvVxueAthxKK4nXYJA_38.426998_27.159201@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064905,
+    "wof:geomhash":"e5f3f560a1b325e0a5e5179d7604431e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108578811
+        }
+    ],
+    "wof:id":1108578811,
+    "wof:lastmodified":1474064905,
+    "wof:name":"Delta Optik Ltd.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1592006683,
+    38.4269981384,
+    27.1592006683,
+    38.4269981384
+],
+  "geometry": {"coordinates":[27.1592006683,38.4269981384],"type":"Point"}
+}

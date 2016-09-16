@@ -1,0 +1,69 @@
+{
+  "id": 1108599791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0953636169,37.784412384,29.0953636169,37.784412384",
+    "geom:latitude":37.784412,
+    "geom:longitude":29.095364,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirishane Mah. 2270.sok. No:1",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 268 2251",
+    "sg:postcode":"35050",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20mZtJs1X0LT1ROxjiIMBk_37.784412_29.095364@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065624,
+    "wof:geomhash":"9c98a6ecf4ba0698cf6d3bcad1705678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108599791
+        }
+    ],
+    "wof:id":1108599791,
+    "wof:lastmodified":1474065624,
+    "wof:name":"Aydin Galeri",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    29.0953636169,
+    37.784412384,
+    29.0953636169,
+    37.784412384
+],
+  "geometry": {"coordinates":[29.0953636169,37.784412384],"type":"Point"}
+}

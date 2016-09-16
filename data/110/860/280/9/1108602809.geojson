@@ -1,0 +1,71 @@
+{
+  "id": 1108602809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2021389008,38.4583625793,27.2021389008,38.4583625793",
+    "geom:latitude":38.458363,
+    "geom:longitude":27.202139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cad. No: 113/2 K:2 D:6",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 347 8100",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bAPxWgyJZ4cKAwytEA99K_38.458363_27.202139@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065747,
+    "wof:geomhash":"c3a5397d3603af387f9afe9e5a554b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108602809
+        }
+    ],
+    "wof:id":1108602809,
+    "wof:lastmodified":1474065747,
+    "wof:name":"Zigana Makina Insaat San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    27.2021389008,
+    38.4583625793,
+    27.2021389008,
+    38.4583625793
+],
+  "geometry": {"coordinates":[27.2021389008,38.4583625793],"type":"Point"}
+}

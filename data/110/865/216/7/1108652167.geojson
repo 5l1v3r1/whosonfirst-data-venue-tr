@@ -1,0 +1,69 @@
+{
+  "id": 1108652167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8586158752,39.9268875122,32.8586158752,39.9268875122",
+    "geom:latitude":39.926888,
+    "geom:longitude":32.858616,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Sk. No:14/4 Sihhiye",
+    "sg:city":"A.?ve?ler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 432 1120",
+    "sg:postcode":"06460",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ju91XOmRXmrUZRcZzd3cd_39.926888_32.858616@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067942,
+    "wof:geomhash":"624b49dbebcd1a8ecd2ae6640a3e04fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108652167
+        }
+    ],
+    "wof:id":1108652167,
+    "wof:lastmodified":1474067942,
+    "wof:name":"Deniz Ortopedi Medikal Ltd. Sti.",
+    "wof:parent_id":85934683,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine"
+    ]
+},
+  "bbox": [
+    32.8586158752,
+    39.9268875122,
+    32.8586158752,
+    39.9268875122
+],
+  "geometry": {"coordinates":[32.8586158752,39.9268875122],"type":"Point"}
+}

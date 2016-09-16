@@ -1,0 +1,74 @@
+{
+  "id": 1108601319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8333778381,40.9981918335,28.8333778381,40.9981918335",
+    "geom:latitude":40.998192,
+    "geom:longitude":28.833378,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yildirim Beyazit Cad. Kaynarca Sok. No:28/a",
+    "sg:city":"Y.bosna",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 452 8093",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dJz6duWJWNXXuaIvgmsvI_40.998192_28.833378@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065692,
+    "wof:geomhash":"26f11e9173a4ac200b1ed7d9850ce712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108601319
+        }
+    ],
+    "wof:id":1108601319,
+    "wof:lastmodified":1474065692,
+    "wof:name":"Yorem Tarim Urunleri Ve Gida Paz.san.tic.a.s.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    28.8333778381,
+    40.9981918335,
+    28.8333778381,
+    40.9981918335
+],
+  "geometry": {"coordinates":[28.8333778381,40.9981918335],"type":"Point"}
+}

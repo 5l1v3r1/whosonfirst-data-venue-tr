@@ -1,0 +1,69 @@
+{
+  "id": 1108651363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1425247192,38.4350585938,27.1425247192,38.4350585938",
+    "geom:latitude":38.435059,
+    "geom:longitude":27.142525,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kibris Sehitleri Cad. No: 149/1 Alsancak",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 0148",
+    "sg:postcode":"01740",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JqsbWf04fP5sJ6w30hwGA_38.435059_27.142525@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067899,
+    "wof:geomhash":"a84495c95f4a3ecc20db6ce8c7862a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108651363
+        }
+    ],
+    "wof:id":1108651363,
+    "wof:lastmodified":1474067899,
+    "wof:name":"Med-one Tibbi Urunler Ltd.sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    27.1425247192,
+    38.4350585938,
+    27.1425247192,
+    38.4350585938
+],
+  "geometry": {"coordinates":[27.1425247192,38.4350585938],"type":"Point"}
+}

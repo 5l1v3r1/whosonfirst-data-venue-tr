@@ -1,0 +1,69 @@
+{
+  "id": 1108620583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9983596802,41.1005897522,28.9983596802,41.1005897522",
+    "geom:latitude":41.10059,
+    "geom:longitude":28.99836,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahim Karaoglanoglu Cad. No:65",
+    "sg:city":"Seyrantepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 4344",
+    "sg:postcode":"46700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AQGmuwBCerNEcgkH7jqAZ_41.100590_28.998360@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066490,
+    "wof:geomhash":"70f8067eb2e0e6227a9694e097426e09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108620583
+        }
+    ],
+    "wof:id":1108620583,
+    "wof:lastmodified":1474066490,
+    "wof:name":"Ciftnal Yemek Sanayi",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    28.9983596802,
+    41.1005897522,
+    28.9983596802,
+    41.1005897522
+],
+  "geometry": {"coordinates":[28.9983596802,41.1005897522],"type":"Point"}
+}

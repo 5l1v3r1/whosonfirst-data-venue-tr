@@ -1,0 +1,75 @@
+{
+  "id": 1108670853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.970697403,41.0680809021,28.970697403,41.0680809021",
+    "geom:latitude":41.068081,
+    "geom:longitude":28.970697,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cig Sok.no:2/a Kagithane",
+    "sg:city":"Izmit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 282 7237",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "filter",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MlYVwzbKptBclBCP9ruNa_41.068081_28.970697@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068676,
+    "wof:geomhash":"fabae567cd6a2098cfa2f5daf3095b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108670853
+        }
+    ],
+    "wof:id":1108670853,
+    "wof:lastmodified":1474068676,
+    "wof:name":"Macht Filter",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.970697403,
+    41.0680809021,
+    28.970697403,
+    41.0680809021
+],
+  "geometry": {"coordinates":[28.970697403,41.0680809021],"type":"Point"}
+}

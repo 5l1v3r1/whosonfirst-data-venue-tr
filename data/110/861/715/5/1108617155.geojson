@@ -1,0 +1,68 @@
+{
+  "id": 1108617155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.824590683,40.9936790466,28.824590683,40.9936790466",
+    "geom:latitude":40.993679,
+    "geom:longitude":28.824591,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ali ?etinkaya Caddesi No:5 - Silivri",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 727 1509",
+    "sg:postcode":"81260",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g43Yt27OiDnp8ZbNHF8Oc_40.993679_28.824591@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066349,
+    "wof:geomhash":"088bc907f2a6e648ea0dde30957999e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108617155
+        }
+    ],
+    "wof:id":1108617155,
+    "wof:lastmodified":1474066349,
+    "wof:name":"Silivri Devlet Hastanesi",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.824590683,
+    40.9936790466,
+    28.824590683,
+    40.9936790466
+],
+  "geometry": {"coordinates":[28.824590683,40.9936790466],"type":"Point"}
+}

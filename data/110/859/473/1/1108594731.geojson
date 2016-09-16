@@ -1,0 +1,68 @@
+{
+  "id": 1108594731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8638076782,39.9187774658,32.8638076782,39.9187774658",
+    "geom:latitude":39.918777,
+    "geom:longitude":32.863808,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Baglar Cad.no:193/11",
+    "sg:city":"K.esat",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 446 5039",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QZUr8amTBtciwYIsGFLGN_39.918777_32.863808@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065410,
+    "wof:geomhash":"44d61fb3f2736375081998d8aa3cfa55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108594731
+        }
+    ],
+    "wof:id":1108594731,
+    "wof:lastmodified":1474065410,
+    "wof:name":"Erturk Peyzaj",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    32.8638076782,
+    39.9187774658,
+    32.8638076782,
+    39.9187774658
+],
+  "geometry": {"coordinates":[32.8638076782,39.9187774658],"type":"Point"}
+}

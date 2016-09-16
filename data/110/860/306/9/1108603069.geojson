@@ -1,0 +1,71 @@
+{
+  "id": 1108603069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.149269104,41.0166969299,29.149269104,41.0166969299",
+    "geom:latitude":41.016697,
+    "geom:longitude":29.149269,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meclis Mah. Kili? Sok. No:4 Sarigazi",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 313 2515",
+    "sg:postcode":"34785",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10alJi3LzLwxKzHrtTmezM_41.016697_29.149269@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065758,
+    "wof:geomhash":"b359483364685796b66567827327f966",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108603069
+        }
+    ],
+    "wof:id":1108603069,
+    "wof:lastmodified":1474065758,
+    "wof:name":"Eds Elektronik Destek San.tic.ltd.sti.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    29.149269104,
+    41.0166969299,
+    29.149269104,
+    41.0166969299
+],
+  "geometry": {"coordinates":[29.149269104,41.0166969299],"type":"Point"}
+}

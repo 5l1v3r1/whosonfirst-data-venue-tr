@@ -1,0 +1,71 @@
+{
+  "id": 1108593889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8823738098,39.903465271,32.8823738098,39.903465271",
+    "geom:latitude":39.903465,
+    "geom:longitude":32.882374,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik Sok. 19/14 Sihhiye",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 435 0727",
+    "sg:postcode":"34340",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "laboratory",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AP2tQVfw8ak8BgrDhZMEk_39.903465_32.882374@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065379,
+    "wof:geomhash":"e022d386d613ad1d7654035a3bf56b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108593889
+        }
+    ],
+    "wof:id":1108593889,
+    "wof:lastmodified":1474065379,
+    "wof:name":"Atomika Teknik Cihazlar Ltd.sti.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "equipment"
+    ]
+},
+  "bbox": [
+    32.8823738098,
+    39.903465271,
+    32.8823738098,
+    39.903465271
+],
+  "geometry": {"coordinates":[32.8823738098,39.903465271],"type":"Point"}
+}

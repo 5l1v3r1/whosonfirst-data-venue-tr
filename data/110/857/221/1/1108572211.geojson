@@ -1,0 +1,68 @@
+{
+  "id": 1108572211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9680213928,41.0136528015,28.9680213928,41.0136528015",
+    "geom:latitude":41.013653,
+    "geom:longitude":28.968021,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tacirhane Sok.nuhoglu Is Hani No:28 Mercan",
+    "sg:city":"Eskigaraj",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 6954",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906465,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50YvZUn0wasrD3v7vtsbAh_41.013653_28.968021@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064548,
+    "wof:geomhash":"01bec0e96ca7819b98768c52ed719ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906465,
+            "region_id":85679237,
+            "venue_id":1108572211
+        }
+    ],
+    "wof:id":1108572211,
+    "wof:lastmodified":1474064548,
+    "wof:name":"Sakarya Plastik San.tic.ltd.sti.",
+    "wof:parent_id":85906465,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9680213928,
+    41.0136528015,
+    28.9680213928,
+    41.0136528015
+],
+  "geometry": {"coordinates":[28.9680213928,41.0136528015],"type":"Point"}
+}

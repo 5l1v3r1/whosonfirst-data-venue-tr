@@ -1,0 +1,67 @@
+{
+  "id": 1108590837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.005569458,41.0436897278,29.005569458,41.0436897278",
+    "geom:latitude":41.04369,
+    "geom:longitude":29.005569,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ilhan Sk. Yildiz Apt. No:8/3 Besiktas",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 8307",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29QD8ps2TNeuQOuVwDjiDz_41.043690_29.005569@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065269,
+    "wof:geomhash":"61d868057ebb38f3abe7359fb989832f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906567,
+            "venue_id":1108590837
+        }
+    ],
+    "wof:id":1108590837,
+    "wof:lastmodified":1474065269,
+    "wof:name":"Kaya Dekor.",
+    "wof:parent_id":85906567,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.005569458,
+    41.0436897278,
+    29.005569458,
+    41.0436897278
+],
+  "geometry": {"coordinates":[29.005569458,41.0436897278],"type":"Point"}
+}

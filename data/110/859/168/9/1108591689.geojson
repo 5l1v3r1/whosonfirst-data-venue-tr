@@ -1,0 +1,73 @@
+{
+  "id": 1108591689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9725723267,41.0535697937,28.9725723267,41.0535697937",
+    "geom:latitude":41.05357,
+    "geom:longitude":28.972572,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gonul Sok.no: 39/1 Kaithane",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 321 0102",
+    "sg:postcode":"46010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "kitchenware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ahnwdRBu3ZCF29UUw8SM5_41.053570_28.972572@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065299,
+    "wof:geomhash":"b1fbe17726f773fca49a7c03f97c55de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108591689
+        }
+    ],
+    "wof:id":1108591689,
+    "wof:lastmodified":1474065299,
+    "wof:name":"Omal Ltd.sti.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchenware"
+    ]
+},
+  "bbox": [
+    28.9725723267,
+    41.0535697937,
+    28.9725723267,
+    41.0535697937
+],
+  "geometry": {"coordinates":[28.9725723267,41.0535697937],"type":"Point"}
+}

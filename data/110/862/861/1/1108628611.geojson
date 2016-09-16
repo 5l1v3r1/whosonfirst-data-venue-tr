@@ -1,0 +1,71 @@
+{
+  "id": 1108628611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8399429321,39.9292602539,32.8399429321,39.9292602539",
+    "geom:latitude":39.92926,
+    "geom:longitude":32.839943,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gen?lik Cad. No.35",
+    "sg:city":"Anittepe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312232505657",
+    "sg:postcode":"47570",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28AL7V8Oaq3T9VctL44qhN_39.929260_32.839943@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066839,
+    "wof:geomhash":"068335c62a17a61428c913e7f63f2a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108628611
+        }
+    ],
+    "wof:id":1108628611,
+    "wof:lastmodified":1474066839,
+    "wof:name":"Tulip Turizm",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    32.8399429321,
+    39.9292602539,
+    32.8399429321,
+    39.9292602539
+],
+  "geometry": {"coordinates":[32.8399429321,39.9292602539],"type":"Point"}
+}

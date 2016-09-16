@@ -1,0 +1,72 @@
+{
+  "id": 1108657275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8318538666,41.0033569336,28.8318538666,41.0033569336",
+    "geom:latitude":41.003357,
+    "geom:longitude":28.831854,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M. M?azim Kara?y",
+    "sg:city":"?ildir",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 478 323 4140",
+    "sg:province":"Ardahan",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eYPRDNfe4rQPCLLLUAotn_41.003357_28.831854@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068146,
+    "wof:geomhash":"8f9dc6465a7f011532b13c49428637d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108657275
+        }
+    ],
+    "wof:id":1108657275,
+    "wof:lastmodified":1474068146,
+    "wof:name":"Asiksenlik Belediye Baskani",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    28.8318538666,
+    41.0033569336,
+    28.8318538666,
+    41.0033569336
+],
+  "geometry": {"coordinates":[28.8318538666,41.0033569336],"type":"Point"}
+}

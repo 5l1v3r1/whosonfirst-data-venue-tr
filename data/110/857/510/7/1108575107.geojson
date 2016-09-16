@@ -1,0 +1,81 @@
+{
+  "id": 1108575107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9837837219,41.0367660522,28.9837837219,41.0367660522",
+    "geom:latitude":41.036766,
+    "geom:longitude":28.983784,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tarlabasi Bulvari No: 86 80080 Taksim Istanbul",
+    "sg:city":"Konak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 0306",
+    "sg:postcode":"07110",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "material",
+        "good",
+        "-",
+        "handling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G38Ob1z5jUyz9NLBL5O1k_41.036766_28.983784@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064666,
+    "wof:geomhash":"9ef37e5136647c1ded1e78b1772a7f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108575107
+        }
+    ],
+    "wof:id":1108575107,
+    "wof:lastmodified":1474064666,
+    "wof:name":"Karakus Ltd Sti",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material",
+        "good",
+        "-",
+        "handling"
+    ]
+},
+  "bbox": [
+    28.9837837219,
+    41.0367660522,
+    28.9837837219,
+    41.0367660522
+],
+  "geometry": {"coordinates":[28.9837837219,41.0367660522],"type":"Point"}
+}

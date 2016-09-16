@@ -1,0 +1,75 @@
+{
+  "id": 1108602895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1035003662,41.0327186584,29.1035003662,41.0327186584",
+    "geom:latitude":41.032719,
+    "geom:longitude":29.1035,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ordu Cad. No: 206/1 34470",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 512 4232",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JzIQMb2WdcyKxobGl4wM1_41.032719_29.103500@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065750,
+    "wof:geomhash":"c0b622cc1433fe8110a970fad4d69c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":1108602895
+        }
+    ],
+    "wof:id":1108602895,
+    "wof:lastmodified":1474065750,
+    "wof:name":"Adria Airways - The Airline Of Slovenia",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1035003662,
+    41.0327186584,
+    29.1035003662,
+    41.0327186584
+],
+  "geometry": {"coordinates":[29.1035003662,41.0327186584],"type":"Point"}
+}

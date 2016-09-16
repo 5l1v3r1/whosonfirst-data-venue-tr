@@ -1,0 +1,73 @@
+{
+  "id": 1108582667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0886116028,41.0317840576,29.0886116028,41.0317840576",
+    "geom:latitude":41.031784,
+    "geom:longitude":29.088612,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beyazit Mithatpasa Cd. No:14/1 Beyazit",
+    "sg:city":"Antakya",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 517 9257",
+    "sg:postcode":"31000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32J11Tbq5I4p9NUr8V92fR_41.031784_29.088612@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065077,
+    "wof:geomhash":"9ac55ffe3e0dfb9c88888c04b6d1f572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108582667
+        }
+    ],
+    "wof:id":1108582667,
+    "wof:lastmodified":1474065077,
+    "wof:name":"Sampiyon Daktilo Muhasebe",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    29.0886116028,
+    41.0317840576,
+    29.0886116028,
+    41.0317840576
+],
+  "geometry": {"coordinates":[29.0886116028,41.0317840576],"type":"Point"}
+}

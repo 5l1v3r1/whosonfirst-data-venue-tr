@@ -1,0 +1,69 @@
+{
+  "id": 1108621351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1422595978,38.4252090454,27.1422595978,38.4252090454",
+    "geom:latitude":38.425209,
+    "geom:longitude":27.14226,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"10060 Sokak No:10 Atat?k Org. San B?. ?igli",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232386415758",
+    "sg:postcode":"41400",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnQX0qbRxeMsCO92UKUsF_38.425209_27.142260@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066523,
+    "wof:geomhash":"90d1a9ccfa9937fad3be809169d695ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108621351
+        }
+    ],
+    "wof:id":1108621351,
+    "wof:lastmodified":1474066523,
+    "wof:name":"Basse Kimya San. Ve Tic A.s",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1422595978,
+    38.4252090454,
+    27.1422595978,
+    38.4252090454
+],
+  "geometry": {"coordinates":[27.1422595978,38.4252090454],"type":"Point"}
+}

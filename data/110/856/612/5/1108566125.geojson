@@ -1,0 +1,71 @@
+{
+  "id": 1108566125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1171207428,41.022441864,29.1171207428,41.022441864",
+    "geom:latitude":41.022442,
+    "geom:longitude":29.117121,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Birlik Sanayi Sitesi 5.cad.no:41",
+    "sg:city":"B\u00fcy\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212875261718",
+    "sg:postcode":"34905",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cGaWZXMBLcLvvdQtykypJ_41.022442_29.117121@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064284,
+    "wof:geomhash":"f2b79a53efc55d1ae28d188fdd1c5d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108566125
+        }
+    ],
+    "wof:id":1108566125,
+    "wof:lastmodified":1474064284,
+    "wof:name":"Aksel Makina Imalat Sanayi",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1171207428,
+    41.022441864,
+    29.1171207428,
+    41.022441864
+],
+  "geometry": {"coordinates":[29.1171207428,41.022441864],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108644047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9386577606,41.0292243958,28.9386577606,41.0292243958",
+    "geom:latitude":41.029224,
+    "geom:longitude":28.938658,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Salma Tomruk Cad. No:14",
+    "sg:city":"Edirnekapi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 521 5389",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product",
+        "floury",
+        "macaroni"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906459,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kooSOkWnbdNm4sUuQkMx5_41.029224_28.938658@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067564,
+    "wof:geomhash":"a12bf2d2a9e1abdaed4dcb2912606099",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906459,
+            "region_id":85679237,
+            "venue_id":1108644047
+        }
+    ],
+    "wof:id":1108644047,
+    "wof:lastmodified":1474067564,
+    "wof:name":"Un Kamer Ltd.sti.",
+    "wof:parent_id":85906459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "floury",
+        "macaroni"
+    ]
+},
+  "bbox": [
+    28.9386577606,
+    41.0292243958,
+    28.9386577606,
+    41.0292243958
+],
+  "geometry": {"coordinates":[28.9386577606,41.0292243958],"type":"Point"}
+}

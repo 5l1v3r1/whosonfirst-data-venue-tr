@@ -1,0 +1,71 @@
+{
+  "id": 1108671857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7937316895,36.8564872742,30.7937316895,36.8564872742",
+    "geom:latitude":36.856487,
+    "geom:longitude":30.793732,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karanfil 3.sok. No: 3 Guzeloba Lara",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 349 4284",
+    "sg:postcode":"06180",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930089,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d23GBeiDHXJbytkFDhT1P_36.856487_30.793732@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068713,
+    "wof:geomhash":"0a2b29359f0a33729441db86ec6b170a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930089,
+            "region_id":85679263,
+            "venue_id":1108671857
+        }
+    ],
+    "wof:id":1108671857,
+    "wof:lastmodified":1474068713,
+    "wof:name":"Perge Yangin Guvenlik Ltd.sti.",
+    "wof:parent_id":85930089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    30.7937316895,
+    36.8564872742,
+    30.7937316895,
+    36.8564872742
+],
+  "geometry": {"coordinates":[30.7937316895,36.8564872742],"type":"Point"}
+}

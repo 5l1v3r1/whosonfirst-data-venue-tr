@@ -1,0 +1,70 @@
+{
+  "id": 1108566995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2997188568,40.8998374939,29.2997188568,40.8998374939",
+    "geom:latitude":40.899837,
+    "geom:longitude":29.299719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Sitesi 33.sok. No: 28",
+    "sg:city":"Beylikd?? 34905",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 424225627576",
+    "sg:province":"Elazig",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a3NtPZCQwK02zaoYFfdM2_40.899837_29.299719@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064327,
+    "wof:geomhash":"9bff707be4ecc56e1f61d107626a6955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108566995
+        }
+    ],
+    "wof:id":1108566995,
+    "wof:lastmodified":1474064327,
+    "wof:name":"Dogu Anadolu Makina Iml.san.",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2997188568,
+    40.8998374939,
+    29.2997188568,
+    40.8998374939
+],
+  "geometry": {"coordinates":[29.2997188568,40.8998374939],"type":"Point"}
+}

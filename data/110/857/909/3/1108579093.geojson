@@ -1,0 +1,64 @@
+{
+  "id": 1108579093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8689002991,39.9018249512,32.8689002991,39.9018249512",
+    "geom:latitude":39.901825,
+    "geom:longitude":32.8689,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Billur Sok. 31/1 Kavaklidere",
+    "sg:city":"Balmumcu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 466 0007",
+    "sg:postcode":"34349",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gWUT9kF3kQRxQID9s9OXv_39.901825_32.868900@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064921,
+    "wof:geomhash":"bc6db121699afd5779c0b7a3a65bbba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108579093
+        }
+    ],
+    "wof:id":1108579093,
+    "wof:lastmodified":1474064921,
+    "wof:name":"Karnaval Iletisim Organizasyon San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8689002991,
+    39.9018249512,
+    32.8689002991,
+    39.9018249512
+],
+  "geometry": {"coordinates":[32.8689002991,39.9018249512],"type":"Point"}
+}

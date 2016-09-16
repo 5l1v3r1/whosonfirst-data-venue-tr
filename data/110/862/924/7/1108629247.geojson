@@ -1,0 +1,73 @@
+{
+  "id": 1108629247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.095615387,37.7781486511,29.095615387,37.7781486511",
+    "geom:latitude":37.778149,
+    "geom:longitude":29.095615,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halk Cad. No:8",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 242 1018",
+    "sg:postcode":"01370",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "-",
+        "towel",
+        "bathrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VZ4s7E5TcQMLIrSDKZlbs_37.778149_29.095615@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066867,
+    "wof:geomhash":"41e9b898ccbe97da685141e4ab4ec4be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108629247
+        }
+    ],
+    "wof:id":1108629247,
+    "wof:lastmodified":1474066867,
+    "wof:name":"Asena Tekstil",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-",
+        "towel",
+        "bathrobe"
+    ]
+},
+  "bbox": [
+    29.095615387,
+    37.7781486511,
+    29.095615387,
+    37.7781486511
+],
+  "geometry": {"coordinates":[29.095615387,37.7781486511],"type":"Point"}
+}

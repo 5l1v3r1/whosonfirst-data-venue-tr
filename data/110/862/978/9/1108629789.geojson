@@ -1,0 +1,62 @@
+{
+  "id": 1108629789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9783306122,41.0337982178,28.9783306122,41.0337982178",
+    "geom:latitude":41.033798,
+    "geom:longitude":28.978331,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cad. No:7 Kat:3 Galatasaray",
+    "sg:city":"10 Sirinevler",
+    "sg:classifiers":[],
+    "sg:orig_category":"Translation Servies",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 245 1523",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mENZulVGyUOmi94HDSUU9_41.033798_28.978331@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066900,
+    "wof:geomhash":"003ca51f6d4d628122ebfa5d3cd2e0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108629789
+        }
+    ],
+    "wof:id":1108629789,
+    "wof:lastmodified":1474066900,
+    "wof:name":"Mavim Tercume",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9783306122,
+    41.0337982178,
+    28.9783306122,
+    41.0337982178
+],
+  "geometry": {"coordinates":[28.9783306122,41.0337982178],"type":"Point"}
+}

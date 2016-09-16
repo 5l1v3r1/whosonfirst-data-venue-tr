@@ -1,0 +1,70 @@
+{
+  "id": 1108678565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0306949615,40.9905204773,29.0306949615,40.9905204773",
+    "geom:latitude":40.99052,
+    "geom:longitude":29.030695,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Osmanga Mah.karadut Sok. No:28/5",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 349 5669",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jReEio2uaURvJXM1M6kpm_40.990520_29.030695@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068984,
+    "wof:geomhash":"c9fde6c59b1f344b8a43c6b7633f3044",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108678565
+        }
+    ],
+    "wof:id":1108678565,
+    "wof:lastmodified":1474068984,
+    "wof:name":"Fora Transport Ve Denizcilik Tic.ltd.sti.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0306949615,
+    40.9905204773,
+    29.0306949615,
+    40.9905204773
+],
+  "geometry": {"coordinates":[29.0306949615,40.9905204773],"type":"Point"}
+}

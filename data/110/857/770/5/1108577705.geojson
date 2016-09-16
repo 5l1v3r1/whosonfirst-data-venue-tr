@@ -1,0 +1,73 @@
+{
+  "id": 1108577705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9965763092,41.0514068604,28.9965763092,41.0514068604",
+    "geom:latitude":41.051407,
+    "geom:longitude":28.996576,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"V. Konagi Cd. No:79 Nisantasi",
+    "sg:city":"Ara?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 248 0791",
+    "sg:postcode":"37800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ucwub47bs7We7plvxrduy_41.051407_28.996576@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064839,
+    "wof:geomhash":"2aa5119e2e147bfc79ec31e37d633140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":1108577705
+        }
+    ],
+    "wof:id":1108577705,
+    "wof:lastmodified":1474064839,
+    "wof:name":"Kazancioglu Moble A.s.",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9965763092,
+    41.0514068604,
+    28.9965763092,
+    41.0514068604
+],
+  "geometry": {"coordinates":[28.9965763092,41.0514068604],"type":"Point"}
+}

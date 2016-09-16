@@ -1,0 +1,71 @@
+{
+  "id": 1108672583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0914974213,37.781665802,29.0914974213,37.781665802",
+    "geom:latitude":37.781666,
+    "geom:longitude":29.091497,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Topraklik Mah. Halk Cad.no:108/a",
+    "sg:city":"Yenisehir",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 264 3242",
+    "sg:postcode":"31750",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n9iVtRrFozmqMQAUHF8xJ_37.781666_29.091497@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068739,
+    "wof:geomhash":"be5df7df1a0bc70b793ce812c1ea271e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108672583
+        }
+    ],
+    "wof:id":1108672583,
+    "wof:lastmodified":1474068739,
+    "wof:name":"Ozgun Laminant Parke",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    29.0914974213,
+    37.781665802,
+    29.0914974213,
+    37.781665802
+],
+  "geometry": {"coordinates":[29.0914974213,37.781665802],"type":"Point"}
+}

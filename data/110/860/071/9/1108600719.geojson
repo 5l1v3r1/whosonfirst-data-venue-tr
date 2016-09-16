@@ -1,0 +1,71 @@
+{
+  "id": 1108600719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1430873871,38.4420013428,27.1430873871,38.4420013428",
+    "geom:latitude":38.442001,
+    "geom:longitude":27.143087,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad. No.378",
+    "sg:city":"Karabaglar",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 422 7218",
+    "sg:postcode":"44210",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eQE1UtTGc8PQpsdBaX4sS_38.442001_27.143087@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065670,
+    "wof:geomhash":"85c9358bd47b8a6706a462640503b74c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108600719
+        }
+    ],
+    "wof:id":1108600719,
+    "wof:lastmodified":1474065670,
+    "wof:name":"Etem ?zsoy Tarim San. A.s .",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1430873871,
+    38.4420013428,
+    27.1430873871,
+    38.4420013428
+],
+  "geometry": {"coordinates":[27.1430873871,38.4420013428],"type":"Point"}
+}

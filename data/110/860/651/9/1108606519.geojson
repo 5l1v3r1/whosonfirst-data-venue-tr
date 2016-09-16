@@ -1,0 +1,71 @@
+{
+  "id": 1108606519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.3795547485,40.912322998,29.3795547485,40.912322998",
+    "geom:latitude":40.912323,
+    "geom:longitude":29.379555,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Asfalti No:7",
+    "sg:city":"Acibadem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 325 3292",
+    "sg:postcode":"34718",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929819,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RjywtavL2z9XIujDhQWFI_40.912323_29.379555@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065914,
+    "wof:geomhash":"3af5212e2c10a9a7118a42314bc26de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929819,
+            "region_id":85679241,
+            "venue_id":1108606519
+        }
+    ],
+    "wof:id":1108606519,
+    "wof:lastmodified":1474065914,
+    "wof:name":"Okan Tekstil A.s",
+    "wof:parent_id":85929819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.3795547485,
+    40.912322998,
+    29.3795547485,
+    40.912322998
+],
+  "geometry": {"coordinates":[29.3795547485,40.912322998],"type":"Point"}
+}

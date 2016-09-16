@@ -1,0 +1,70 @@
+{
+  "id": 1108584455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2993030548,40.9014167786,29.2993030548,40.9014167786",
+    "geom:latitude":40.901417,
+    "geom:longitude":29.299303,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Cad. No:35 Kurtkoy-pendik",
+    "sg:city":"Y. Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 378 1092",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aeWhGRubPlW39jYmQxKW0_40.901417_29.299303@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065120,
+    "wof:geomhash":"a498b5ef1d3bdb51c9690e04f2612c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108584455
+        }
+    ],
+    "wof:id":1108584455,
+    "wof:lastmodified":1474065120,
+    "wof:name":"Yartaslar Demir Sanayi A.s.",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    29.2993030548,
+    40.9014167786,
+    29.2993030548,
+    40.9014167786
+],
+  "geometry": {"coordinates":[29.2993030548,40.9014167786],"type":"Point"}
+}

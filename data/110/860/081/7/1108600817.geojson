@@ -1,0 +1,71 @@
+{
+  "id": 1108600817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2215518951,38.4658889771,27.2215518951,38.4658889771",
+    "geom:latitude":38.465889,
+    "geom:longitude":27.221552,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gediz Cad.no:3 K:6 D:12",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 388 4659",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b5QAi654WsgiKT9yHgQYT_38.465889_27.221552@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065673,
+    "wof:geomhash":"2eeca9e2fcc2ad12892eda1efdbe406b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108600817
+        }
+    ],
+    "wof:id":1108600817,
+    "wof:lastmodified":1474065673,
+    "wof:name":"H.a.y Export & Import Ltd.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.2215518951,
+    38.4658889771,
+    27.2215518951,
+    38.4658889771
+],
+  "geometry": {"coordinates":[27.2215518951,38.4658889771],"type":"Point"}
+}

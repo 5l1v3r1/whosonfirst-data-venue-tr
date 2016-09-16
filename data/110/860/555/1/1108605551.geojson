@@ -1,0 +1,71 @@
+{
+  "id": 1108605551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1088256836,38.4058265686,27.1088256836,38.4058265686",
+    "geom:latitude":38.405827,
+    "geom:longitude":27.108826,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mimar Kemalettin Cad.1335 Sk.no:10",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 489 1425",
+    "sg:postcode":"35280",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929661,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nnNcnsUQOwA87Iknf81nM_38.405827_27.108826@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065866,
+    "wof:geomhash":"39a6abac9bd82984a7b6295dfededd93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929661,
+            "region_id":85679201,
+            "venue_id":1108605551
+        }
+    ],
+    "wof:id":1108605551,
+    "wof:lastmodified":1474065866,
+    "wof:name":"Eroglu Tekstil A.s.",
+    "wof:parent_id":85929661,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.1088256836,
+    38.4058265686,
+    27.1088256836,
+    38.4058265686
+],
+  "geometry": {"coordinates":[27.1088256836,38.4058265686],"type":"Point"}
+}

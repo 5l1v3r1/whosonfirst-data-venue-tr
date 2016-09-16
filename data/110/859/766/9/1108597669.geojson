@@ -1,0 +1,68 @@
+{
+  "id": 1108597669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8498306274,39.9050216675,32.8498306274,39.9050216675",
+    "geom:latitude":39.905022,
+    "geom:longitude":32.849831,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cd. No:48/20",
+    "sg:city":"Y.ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 3368",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70K76SnNmdfnR9s4IEWaZf_39.905022_32.849831@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065537,
+    "wof:geomhash":"7af8f8d2abb5a541aebe01addb7dbe76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108597669
+        }
+    ],
+    "wof:id":1108597669,
+    "wof:lastmodified":1474065537,
+    "wof:name":"Ekol Elektronik Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    32.8498306274,
+    39.9050216675,
+    32.8498306274,
+    39.9050216675
+],
+  "geometry": {"coordinates":[32.8498306274,39.9050216675],"type":"Point"}
+}

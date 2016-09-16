@@ -1,0 +1,62 @@
+{
+  "id": 1108664911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1304607391,40.9290046692,29.1304607391,40.9290046692",
+    "geom:latitude":40.929005,
+    "geom:longitude":29.130461,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat C. Yaprak Sk. No. 5 D.1 Maltepe",
+    "sg:city":"B.pasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 441 1310",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l7towwEs5jAEAocCSZUCX_40.929005_29.130461@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068439,
+    "wof:geomhash":"13dbe480ca98c48a4b8f200ff2fa1c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108664911
+        }
+    ],
+    "wof:id":1108664911,
+    "wof:lastmodified":1474068439,
+    "wof:name":"Unotek San. Ltd.sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1304607391,
+    40.9290046692,
+    29.1304607391,
+    40.9290046692
+],
+  "geometry": {"coordinates":[29.1304607391,40.9290046692],"type":"Point"}
+}

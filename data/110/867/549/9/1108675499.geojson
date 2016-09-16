@@ -1,0 +1,69 @@
+{
+  "id": 1108675499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1477851868,41.0078887939,29.1477851868,41.0078887939",
+    "geom:latitude":41.007889,
+    "geom:longitude":29.147785,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Des Sanayi Sitesi 1.cad.da:8 Blok:no:1",
+    "sg:city":"Yukaridudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 466 0012",
+    "sg:postcode":"34775",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TBNBiUHeH8PQwIQPUQR2o_41.007889_29.147785@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068875,
+    "wof:geomhash":"d2e1792efeb8076bdb837afe559f2c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108675499
+        }
+    ],
+    "wof:id":1108675499,
+    "wof:lastmodified":1474068875,
+    "wof:name":"G?n Satis Ve Pazarlama Hiz.",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    29.1477851868,
+    41.0078887939,
+    29.1477851868,
+    41.0078887939
+],
+  "geometry": {"coordinates":[29.1477851868,41.0078887939],"type":"Point"}
+}

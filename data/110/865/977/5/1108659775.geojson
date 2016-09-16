@@ -1,0 +1,71 @@
+{
+  "id": 1108659775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9110374451,41.0035896301,28.9110374451,41.0035896301",
+    "geom:latitude":41.00359,
+    "geom:longitude":28.911037,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S?b? Sk. No:9 Zeytinburnu",
+    "sg:city":"Kocamustafapasa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 1277",
+    "sg:postcode":"34098",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wlCTDvLgwDtZHvspQFBPB_41.003590_28.911037@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068247,
+    "wof:geomhash":"71f5dc4ce9757163cfbe291906f87df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108659775
+        }
+    ],
+    "wof:id":1108659775,
+    "wof:lastmodified":1474068247,
+    "wof:name":"Aktas Oluklu Ambalaj San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9110374451,
+    41.0035896301,
+    28.9110374451,
+    41.0035896301
+],
+  "geometry": {"coordinates":[28.9110374451,41.0035896301],"type":"Point"}
+}

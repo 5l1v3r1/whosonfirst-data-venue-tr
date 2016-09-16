@@ -1,0 +1,72 @@
+{
+  "id": 1108673355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.167181015,40.9164772034,29.167181015,40.9164772034",
+    "geom:latitude":40.916477,
+    "geom:longitude":29.167181,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Y. Beyazit Cd. No:24/a",
+    "sg:city":"Y.bosna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 551 1974",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01gVp6aGoqHJTstuFt5Ua4_40.916477_29.167181@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068778,
+    "wof:geomhash":"363827bfd328310e24fbd861baa48718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108673355
+        }
+    ],
+    "wof:id":1108673355,
+    "wof:lastmodified":1474068778,
+    "wof:name":"Safak Ulusl. ?i?ek?ilik",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.167181015,
+    40.9164772034,
+    29.167181015,
+    40.9164772034
+],
+  "geometry": {"coordinates":[29.167181015,40.9164772034],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108639339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9312973022,41.0490646362,28.9312973022,41.0490646362",
+    "geom:latitude":41.049065,
+    "geom:longitude":28.931297,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fahri Korut?k Cad. No:32",
+    "sg:city":"Ey\u00fcp",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21258164015",
+    "sg:postcode":"34050",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929387,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ipo7yjX579CIBtoyxtHau_41.049065_28.931297@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067397,
+    "wof:geomhash":"5649b68a83006fec86be470e24bc759e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929387,
+            "region_id":85679237,
+            "venue_id":1108639339
+        }
+    ],
+    "wof:id":1108639339,
+    "wof:lastmodified":1474067397,
+    "wof:name":"Ey?p ?ocuk Yuvasi Yardim Dernegi",
+    "wof:parent_id":85929387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9312973022,
+    41.0490646362,
+    28.9312973022,
+    41.0490646362
+],
+  "geometry": {"coordinates":[28.9312973022,41.0490646362],"type":"Point"}
+}

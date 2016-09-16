@@ -1,0 +1,75 @@
+{
+  "id": 1108567455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8469734192,40.9930343628,28.8469734192,40.9930343628",
+    "geom:latitude":40.993034,
+    "geom:longitude":28.846973,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cd. 2. Sk. No:1/6 Sirinevler",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 5177",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HAI7teG6zE1mdGRdgoohk_40.993034_28.846973@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064354,
+    "wof:geomhash":"ef3ce7b4ced2d9f0fb9b6d33feba16ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108567455
+        }
+    ],
+    "wof:id":1108567455,
+    "wof:lastmodified":1474064354,
+    "wof:name":"Fil-mak Is Makina San.",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8469734192,
+    40.9930343628,
+    28.8469734192,
+    40.9930343628
+],
+  "geometry": {"coordinates":[28.8469734192,40.9930343628],"type":"Point"}
+}

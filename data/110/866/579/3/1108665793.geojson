@@ -1,0 +1,71 @@
+{
+  "id": 1108665793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1296863556,38.4186973572,27.1296863556,38.4186973572",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Namik Kemal Cd. No:8 G?elbah?",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 234 2647",
+    "sg:postcode":"25900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hLvKSb8EhcpDYuSqMxhQZ_38.418697_27.129686@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068478,
+    "wof:geomhash":"3bf43c6415f50d7e68805afa2fa9a77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108665793
+        }
+    ],
+    "wof:id":1108665793,
+    "wof:lastmodified":1474068478,
+    "wof:name":"Otomatsan Anadolu Otomat Ve Elektronik San.a.s.",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    27.1296863556,
+    38.4186973572,
+    27.1296863556,
+    38.4186973572
+],
+  "geometry": {"coordinates":[27.1296863556,38.4186973572],"type":"Point"}
+}

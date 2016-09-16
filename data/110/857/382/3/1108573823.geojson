@@ -1,0 +1,73 @@
+{
+  "id": 1108573823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7777023315,41.0108222961,28.7777023315,41.0108222961",
+    "geom:latitude":41.010822,
+    "geom:longitude":28.777702,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kanarya Mah.sahin Cad. No:36-",
+    "sg:city":"Kucukcekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 598 3618",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929991,
+        102191569,
+        85632393,
+        101912655,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_255jZRSJJXsc0WfQvnt04m_41.010822_28.777702@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064617,
+    "wof:geomhash":"49753f5ba237b133ccb2cac687861e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912655,
+            "neighbourhood_id":85929991,
+            "region_id":85679237,
+            "venue_id":1108573823
+        }
+    ],
+    "wof:id":1108573823,
+    "wof:lastmodified":1474064617,
+    "wof:name":"Kanarya Cam Tic",
+    "wof:parent_id":85929991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.7777023315,
+    41.0108222961,
+    28.7777023315,
+    41.0108222961
+],
+  "geometry": {"coordinates":[28.7777023315,41.0108222961],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108617851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7046642303,36.8889465332,30.7046642303,36.8889465332",
+    "geom:latitude":36.888947,
+    "geom:longitude":30.704664,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Ozalp Cad. No:119,",
+    "sg:city":"07040",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 24224345704",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930033,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x5KBaQnAubT32rLDnOJFD_36.888947_30.704664@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066378,
+    "wof:geomhash":"a278ad99271c4cab67931b4fc7690e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930033,
+            "region_id":85679263,
+            "venue_id":1108617851
+        }
+    ],
+    "wof:id":1108617851,
+    "wof:lastmodified":1474066378,
+    "wof:name":"Goksoy Hotel",
+    "wof:parent_id":85930033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7046642303,
+    36.8889465332,
+    30.7046642303,
+    36.8889465332
+],
+  "geometry": {"coordinates":[30.7046642303,36.8889465332],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108667627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0840415955,41.0319709778,29.0840415955,41.0319709778",
+    "geom:latitude":41.031971,
+    "geom:longitude":29.084042,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulvari Barbaros Apt. 74/5 Besiktas",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 4447",
+    "sg:postcode":"80000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "promotional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315Q1WJCyfAGStDCpi2H1f_41.031971_29.084042@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068546,
+    "wof:geomhash":"dbdef9dc17dfc3d7a78c8ae27a6d8b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108667627
+        }
+    ],
+    "wof:id":1108667627,
+    "wof:lastmodified":1474068546,
+    "wof:name":"Sadikoglu Promosyon",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotional"
+    ]
+},
+  "bbox": [
+    29.0840415955,
+    41.0319709778,
+    29.0840415955,
+    41.0319709778
+],
+  "geometry": {"coordinates":[29.0840415955,41.0319709778],"type":"Point"}
+}

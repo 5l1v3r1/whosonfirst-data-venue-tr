@@ -1,0 +1,75 @@
+{
+  "id": 1108654927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9734020233,41.0467567444,28.9734020233,41.0467567444",
+    "geom:latitude":41.046757,
+    "geom:longitude":28.973402,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dereyolu Aslangazi Cd. No:11-13 Okmeydani",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 221 4171",
+    "sg:postcode":"07100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929499,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jLMJNsALi7kP9L7gyMdxK_41.046757_28.973402@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068056,
+    "wof:geomhash":"c2a7fe95a95d8b73f75f65488699dccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929499,
+            "region_id":85679237,
+            "venue_id":1108654927
+        }
+    ],
+    "wof:id":1108654927,
+    "wof:lastmodified":1474068056,
+    "wof:name":"Akar?esme K?m?rc?l?k",
+    "wof:parent_id":85929499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    28.9734020233,
+    41.0467567444,
+    28.9734020233,
+    41.0467567444
+],
+  "geometry": {"coordinates":[28.9734020233,41.0467567444],"type":"Point"}
+}

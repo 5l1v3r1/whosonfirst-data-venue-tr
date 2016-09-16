@@ -1,0 +1,76 @@
+{
+  "id": 1108663655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9824085236,41.0775985718,28.9824085236,41.0775985718",
+    "geom:latitude":41.077599,
+    "geom:longitude":28.982409,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"H?riyet Mah. Dr.cemil Beng?cad. Ertugrul Sk. No.2 Caglayan",
+    "sg:city":"54100",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 296 0811",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rrbKTg3sMVDBiEbHVde9B_41.077599_28.982409@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068391,
+    "wof:geomhash":"32e92829c63967082437712caec86ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108663655
+        }
+    ],
+    "wof:id":1108663655,
+    "wof:lastmodified":1474068391,
+    "wof:name":"Avrasya Plastik Dograma Aks Ve Sac Profil San.tic.ltd.sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    28.9824085236,
+    41.0775985718,
+    28.9824085236,
+    41.0775985718
+],
+  "geometry": {"coordinates":[28.9824085236,41.0775985718],"type":"Point"}
+}

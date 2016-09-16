@@ -1,0 +1,69 @@
+{
+  "id": 1108597667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2055149078,38.4598770142,27.2055149078,38.4598770142",
+    "geom:latitude":38.459877,
+    "geom:longitude":27.205515,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"213 Sokak No:7/a",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 374 1009",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B5f7QfGYgccpPEzFZujQU_38.459877_27.205515@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065537,
+    "wof:geomhash":"1cedbdb77f48895b193e3e201e8ef821",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108597667
+        }
+    ],
+    "wof:id":1108597667,
+    "wof:lastmodified":1474065537,
+    "wof:name":"Ekol Asansorleri Sanayi Ve Tic.ltd.sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    27.2055149078,
+    38.4598770142,
+    27.2055149078,
+    38.4598770142
+],
+  "geometry": {"coordinates":[27.2055149078,38.4598770142],"type":"Point"}
+}

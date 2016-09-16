@@ -1,0 +1,73 @@
+{
+  "id": 1108651771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.919670105,40.7635383606,29.919670105,40.7635383606",
+    "geom:latitude":40.763538,
+    "geom:longitude":29.91967,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Serdar Cad. No:26/2",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 352 231 0653",
+    "sg:postcode":"26000",
+    "sg:province":"Kayseri",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934721,
+        102191569,
+        85632393,
+        101912635,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JadBalWUxhIvRt6BcRqRc_40.763538_29.919670@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067914,
+    "wof:geomhash":"7d422d29fc0cd60fe20a062e366a8abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912635,
+            "neighbourhood_id":85934721,
+            "region_id":85679241,
+            "venue_id":1108651771
+        }
+    ],
+    "wof:id":1108651771,
+    "wof:lastmodified":1474067914,
+    "wof:name":"Seckin Tibbi Cih. Ltd. Sti.",
+    "wof:parent_id":85934721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.919670105,
+    40.7635383606,
+    29.919670105,
+    40.7635383606
+],
+  "geometry": {"coordinates":[29.919670105,40.7635383606],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1108617225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7092056274,36.8790512085,30.7092056274,36.8790512085",
+    "geom:latitude":36.879051,
+    "geom:longitude":30.709206,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hava Alani Karsisi Antalya",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 340 0820",
+    "sg:postcode":"07100",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "hospital",
+        "hotels",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679263,
+        85632393,
+        85929837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZvMc5H6oOZCzEMYgzGQH_36.879051_30.709206@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066351,
+    "wof:geomhash":"de6e658ab3247c1a4422ee844fae3cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929837,
+            "region_id":85679263,
+            "venue_id":1108617225
+        }
+    ],
+    "wof:id":1108617225,
+    "wof:lastmodified":1474066351,
+    "wof:name":"Anmosas Tasarim&?retim",
+    "wof:parent_id":85929837,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "hotels",
+        "furniture"
+    ]
+},
+  "bbox": [
+    30.7092056274,
+    36.8790512085,
+    30.7092056274,
+    36.8790512085
+],
+  "geometry": {"coordinates":[30.7092056274,36.8790512085],"type":"Point"}
+}

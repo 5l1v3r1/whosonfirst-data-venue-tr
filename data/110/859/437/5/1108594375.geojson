@@ -1,0 +1,75 @@
+{
+  "id": 1108594375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6809062958,36.8891563416,30.6809062958,36.8891563416",
+    "geom:latitude":36.889156,
+    "geom:longitude":30.680906,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Varlik Mah. 198. Sk. No:30/4",
+    "sg:city":"Gayrettepe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 248 7807",
+    "sg:postcode":"34349",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "laboratory",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930071,
+        102191569,
+        85632393,
+        101912921,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SigCcvfoTWAQpXWc6Dd8z_36.889156_30.680906@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065398,
+    "wof:geomhash":"8348527a1846334cb0da84333faa83bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912921,
+            "neighbourhood_id":85930071,
+            "region_id":85679263,
+            "venue_id":1108594375
+        }
+    ],
+    "wof:id":1108594375,
+    "wof:lastmodified":1474065398,
+    "wof:name":"Kayamed Lab. Sis.",
+    "wof:parent_id":85930071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "material"
+    ]
+},
+  "bbox": [
+    30.6809062958,
+    36.8891563416,
+    30.6809062958,
+    36.8891563416
+],
+  "geometry": {"coordinates":[30.6809062958,36.8891563416],"type":"Point"}
+}

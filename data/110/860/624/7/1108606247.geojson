@@ -1,0 +1,71 @@
+{
+  "id": 1108606247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9566669464,41.0099983215,28.9566669464,41.0099983215",
+    "geom:latitude":41.009998,
+    "geom:longitude":28.956667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Laleli",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 3818",
+    "sg:postcode":"63000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52eP9IVXlWwccLgiRofz3y_41.009998_28.956667@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065896,
+    "wof:geomhash":"43495488d6302506989ccd1b37266b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108606247
+        }
+    ],
+    "wof:id":1108606247,
+    "wof:lastmodified":1474065896,
+    "wof:name":"Lokris Ltd.",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9566669464,
+    41.0099983215,
+    28.9566669464,
+    41.0099983215
+],
+  "geometry": {"coordinates":[28.9566669464,41.0099983215],"type":"Point"}
+}

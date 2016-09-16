@@ -1,0 +1,72 @@
+{
+  "id": 1108671005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0380039215,41.0783576965,29.0380039215,41.0783576965",
+    "geom:latitude":41.078358,
+    "geom:longitude":29.038004,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K?? Bebek Cad. 30/5 Villa Bebek Apt. Bebek",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 265 5288",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929359,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49DQANk0XnWagbF3q1vlq3_41.078358_29.038004@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068682,
+    "wof:geomhash":"d5c952af4b72b92f0e463ae395d9367a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929359,
+            "region_id":85679237,
+            "venue_id":1108671005
+        }
+    ],
+    "wof:id":1108671005,
+    "wof:lastmodified":1474068682,
+    "wof:name":"Cfs Consulting Ltd.",
+    "wof:parent_id":85929359,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.0380039215,
+    41.0783576965,
+    29.0380039215,
+    41.0783576965
+],
+  "geometry": {"coordinates":[29.0380039215,41.0783576965],"type":"Point"}
+}

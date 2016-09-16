@@ -1,0 +1,73 @@
+{
+  "id": 1108665091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8275222778,39.9287109375,32.8275222778,39.9287109375",
+    "geom:latitude":39.928711,
+    "geom:longitude":32.827522,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Maresal Fevzi Cakmak Cad. 3.sok. No:8/6 Bahcelievler",
+    "sg:city":"Sirinevler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2125520303729",
+    "sg:postcode":"15040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FicUWAZN7WfvNdW4yTN2w_39.928711_32.827522@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068446,
+    "wof:geomhash":"d19e6afcf5c4ba60676038c217127a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108665091
+        }
+    ],
+    "wof:id":1108665091,
+    "wof:lastmodified":1474068446,
+    "wof:name":"Avrupa Dagitim Reklam Egitim Turizm Pazarlama Ve Ajans Hizmetleri A.s.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    32.8275222778,
+    39.9287109375,
+    32.8275222778,
+    39.9287109375
+],
+  "geometry": {"coordinates":[32.8275222778,39.9287109375],"type":"Point"}
+}

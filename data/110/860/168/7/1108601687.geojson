@@ -1,0 +1,74 @@
+{
+  "id": 1108601687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8318424225,41.0030326843,28.8318424225,41.0030326843",
+    "geom:latitude":41.003033,
+    "geom:longitude":28.831842,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?akmak Mh. Imren Sk. No:9",
+    "sg:city":"Y.bosna",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 2199",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hTyN8Q1mPmvqYATYHUhX9_41.003033_28.831842@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065706,
+    "wof:geomhash":"4dfee9ba9fbb5cb118fc2b13bbb4ea3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108601687
+        }
+    ],
+    "wof:id":1108601687,
+    "wof:lastmodified":1474065706,
+    "wof:name":"Alfa M?h. Isi San. F.",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.8318424225,
+    41.0030326843,
+    28.8318424225,
+    41.0030326843
+],
+  "geometry": {"coordinates":[28.8318424225,41.0030326843],"type":"Point"}
+}

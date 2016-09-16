@@ -1,0 +1,69 @@
+{
+  "id": 1108653895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9097423553,41.0475349426,28.9097423553,41.0475349426",
+    "geom:latitude":41.047535,
+    "geom:longitude":28.909742,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kisla Cd. No:44 Bayrampasa",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 564 0171",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904095,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IWqSvRnGnxkE5LoCTdjYT_41.047535_28.909742@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068014,
+    "wof:geomhash":"ba5f88afab521a590d1c4010264ef3ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904095,
+            "region_id":85679237,
+            "venue_id":1108653895
+        }
+    ],
+    "wof:id":1108653895,
+    "wof:lastmodified":1474068014,
+    "wof:name":"Serhat Metal San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904095,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9097423553,
+    41.0475349426,
+    28.9097423553,
+    41.0475349426
+],
+  "geometry": {"coordinates":[28.9097423553,41.0475349426],"type":"Point"}
+}

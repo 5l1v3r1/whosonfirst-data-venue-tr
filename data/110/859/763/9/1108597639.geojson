@@ -1,0 +1,72 @@
+{
+  "id": 1108597639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0613384247,40.9863815308,29.0613384247,40.9863815308",
+    "geom:latitude":40.986382,
+    "geom:longitude":29.061338,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Huzur Bey Cad.yalvac Sok. No:20-7",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38CACeqCreg4dIhIFbfrSS_40.986382_29.061338@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065536,
+    "wof:geomhash":"50cc909c2b644d30ea2364719403c2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108597639
+        }
+    ],
+    "wof:id":1108597639,
+    "wof:lastmodified":1474065536,
+    "wof:name":"Dogan Asem Asans?",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.0613384247,
+    40.9863815308,
+    29.0613384247,
+    40.9863815308
+],
+  "geometry": {"coordinates":[29.0613384247,40.9863815308],"type":"Point"}
+}

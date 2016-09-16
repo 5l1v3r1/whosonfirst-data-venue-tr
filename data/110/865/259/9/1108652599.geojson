@@ -1,0 +1,75 @@
+{
+  "id": 1108652599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5151977539,39.7749938965,30.5151977539,39.7749938965",
+    "geom:latitude":39.774994,
+    "geom:longitude":30.515198,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sairfuzuli Cad. No:20/c",
+    "sg:city":"Osmanbey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 232 4602",
+    "sg:postcode":"63000",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZVPfYkj4kJXtGCac7ziM8_39.774994_30.515198@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067964,
+    "wof:geomhash":"db93f7d9b22cb1358971826d9689052d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108652599
+        }
+    ],
+    "wof:id":1108652599,
+    "wof:lastmodified":1474067964,
+    "wof:name":"Moda Giyim",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    30.5151977539,
+    39.7749938965,
+    30.5151977539,
+    39.7749938965
+],
+  "geometry": {"coordinates":[30.5151977539,39.7749938965],"type":"Point"}
+}

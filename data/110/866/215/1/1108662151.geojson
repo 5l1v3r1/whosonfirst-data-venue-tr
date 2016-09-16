@@ -1,0 +1,68 @@
+{
+  "id": 1108662151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8886451721,41.0059127808,28.8886451721,41.0059127808",
+    "geom:latitude":41.005913,
+    "geom:longitude":28.888645,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Kutsi Tecer Cad. 14/16",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2125394409729",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "personnel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A4dEoP070C11RM8uHx9nW_41.005913_28.888645@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068331,
+    "wof:geomhash":"3edd64845815f646ab84024a2580308b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108662151
+        }
+    ],
+    "wof:id":1108662151,
+    "wof:lastmodified":1474068331,
+    "wof:name":"Astur Turizm Otobus Isletmesi San. Ve Tic. Ltd.sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personnel"
+    ]
+},
+  "bbox": [
+    28.8886451721,
+    41.0059127808,
+    28.8886451721,
+    41.0059127808
+],
+  "geometry": {"coordinates":[28.8886451721,41.0059127808],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108656903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9502429962,41.0075874329,28.9502429962,41.0075874329",
+    "geom:latitude":41.007587,
+    "geom:longitude":28.950243,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tiryaki Hasan Pasa Cad. No:38 Aksaray 34220 Fatih Istanbul",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 671 0299",
+    "sg:postcode":"01900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "motor-cars"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mWhZAXwDpXmxl8AmEJEMP_41.007587_28.950243@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068134,
+    "wof:geomhash":"e922eb9e4775a38b6aa2be499c670b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108656903
+        }
+    ],
+    "wof:id":1108656903,
+    "wof:lastmodified":1474068134,
+    "wof:name":"Stil Oto Kilif Ve Aksesuarlari",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motor-cars"
+    ]
+},
+  "bbox": [
+    28.9502429962,
+    41.0075874329,
+    28.9502429962,
+    41.0075874329
+],
+  "geometry": {"coordinates":[28.9502429962,41.0075874329],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108588947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8503417969,39.9250679016,32.8503417969,39.9250679016",
+    "geom:latitude":39.925068,
+    "geom:longitude":32.850342,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lale Sok. 9/22",
+    "sg:city":"Sihhiye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 8157",
+    "sg:postcode":"06410",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSSzIBcaoqumxqXPFqVuo_39.925068_32.850342@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065226,
+    "wof:geomhash":"ea8babd98e5e1d0e0ad79d5b383d03b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108588947
+        }
+    ],
+    "wof:id":1108588947,
+    "wof:lastmodified":1474065226,
+    "wof:name":"Sisters Collection",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    32.8503417969,
+    39.9250679016,
+    32.8503417969,
+    39.9250679016
+],
+  "geometry": {"coordinates":[32.8503417969,39.9250679016],"type":"Point"}
+}

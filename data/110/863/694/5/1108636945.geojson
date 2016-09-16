@@ -1,0 +1,67 @@
+{
+  "id": 1108636945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.15666008,40.916229248,29.15666008,40.916229248",
+    "geom:latitude":40.916229,
+    "geom:longitude":29.15666,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tugay Yolu Oya Sk. No:8",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 370 6877",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "architect"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ENJJfH2EdffdXRZOSrNv9_40.916229_29.156660@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067297,
+    "wof:geomhash":"278bf251b007d1df317bfa1bfd29a903",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108636945
+        }
+    ],
+    "wof:id":1108636945,
+    "wof:lastmodified":1474067297,
+    "wof:name":"Erfen M?hendis. Imal. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect"
+    ]
+},
+  "bbox": [
+    29.15666008,
+    40.916229248,
+    29.15666008,
+    40.916229248
+],
+  "geometry": {"coordinates":[29.15666008,40.916229248],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108579191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0288276672,41.0776863098,29.0288276672,41.0776863098",
+    "geom:latitude":41.077686,
+    "geom:longitude":29.028828,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nispetiye Cad.no: 25 D:8 Etiler",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 351 4340",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wXDceBr3M3HTFy4P8R9a_41.077686_29.028828@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064925,
+    "wof:geomhash":"5cb3e844c63595dcb1da0b90db291d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":1108579191
+        }
+    ],
+    "wof:id":1108579191,
+    "wof:lastmodified":1474064925,
+    "wof:name":"Pink Organizasyon",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0288276672,
+    41.0776863098,
+    29.0288276672,
+    41.0776863098
+],
+  "geometry": {"coordinates":[29.0288276672,41.0776863098],"type":"Point"}
+}

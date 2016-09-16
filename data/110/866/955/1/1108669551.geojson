@@ -1,0 +1,73 @@
+{
+  "id": 1108669551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9903659821,41.0500831604,28.9903659821,41.0500831604",
+    "geom:latitude":41.050083,
+    "geom:longitude":28.990366,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mim Kemal Oke Caddesi No:10 Nisantasi",
+    "sg:city":"Siisli",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 225 0920",
+    "sg:postcode":"34360",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mTKIId0Ubwr5huRduBBRF_41.050083_28.990366@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068629,
+    "wof:geomhash":"ebe67f32231289e45ea26c9e4e0acee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108669551
+        }
+    ],
+    "wof:id":1108669551,
+    "wof:lastmodified":1474068629,
+    "wof:name":"Interteks Uluslararasi Fuarcilik A.s.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    28.9903659821,
+    41.0500831604,
+    28.9903659821,
+    41.0500831604
+],
+  "geometry": {"coordinates":[28.9903659821,41.0500831604],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108594733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2381591797,38.450969696,27.2381591797,38.450969696",
+    "geom:latitude":38.45097,
+    "geom:longitude":27.238159,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1710 Sok. No:35",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 371 1089",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_169oWbgyiufCLVCLbDEdKz_38.450970_27.238159@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065410,
+    "wof:geomhash":"53382a3e8bc5cc0f06e39fef06c4d1ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108594733
+        }
+    ],
+    "wof:id":1108594733,
+    "wof:lastmodified":1474065410,
+    "wof:name":"Ezgin Peysaj",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    27.2381591797,
+    38.450969696,
+    27.2381591797,
+    38.450969696
+],
+  "geometry": {"coordinates":[27.2381591797,38.450969696],"type":"Point"}
+}

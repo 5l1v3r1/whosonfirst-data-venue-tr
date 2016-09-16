@@ -1,0 +1,69 @@
+{
+  "id": 1108581943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8549041748,39.8850898743,32.8549041748,39.8850898743",
+    "geom:latitude":39.88509,
+    "geom:longitude":32.854904,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cd. No:236 ?ankaya",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 5435",
+    "sg:postcode":"34306",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6boRi1v6OwyJ6472TYn4qa_39.885090_32.854904@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065062,
+    "wof:geomhash":"b4959892d4b719c237881dee539d4624",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108581943
+        }
+    ],
+    "wof:id":1108581943,
+    "wof:lastmodified":1474065062,
+    "wof:name":"Toyan Otomotiv San. Tic. A.s.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    32.8549041748,
+    39.8850898743,
+    32.8549041748,
+    39.8850898743
+],
+  "geometry": {"coordinates":[32.8549041748,39.8850898743],"type":"Point"}
+}

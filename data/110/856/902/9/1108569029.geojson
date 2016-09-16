@@ -1,0 +1,71 @@
+{
+  "id": 1108569029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9205493927,41.0369415283,28.9205493927,41.0369415283",
+    "geom:latitude":41.036942,
+    "geom:longitude":28.920549,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Pasmakci Sanayi Sitesi No:268-a Topcular",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 613 1074",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qErGiR9q8T70782D8QstP_41.036942_28.920549@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064417,
+    "wof:geomhash":"5a4d783dc8cf1becba014820f202c2cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108569029
+        }
+    ],
+    "wof:id":1108569029,
+    "wof:lastmodified":1474064417,
+    "wof:name":"Sahechs",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9205493927,
+    41.0369415283,
+    28.9205493927,
+    41.0369415283
+],
+  "geometry": {"coordinates":[28.9205493927,41.0369415283],"type":"Point"}
+}

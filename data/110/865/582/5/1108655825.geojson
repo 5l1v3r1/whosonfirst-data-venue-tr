@@ -1,0 +1,72 @@
+{
+  "id": 1108655825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.059627533,41.0328559875,29.059627533,41.0328559875",
+    "geom:latitude":41.032856,
+    "geom:longitude":29.059628,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bakan : Vecdi G?n?l",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"33740",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "minister"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929805,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43IFeQ7Uu7Qt38wDlcc4lx_41.032856_29.059628@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068091,
+    "wof:geomhash":"d99aa1f5c16dfd603c83ab12328a9165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929805,
+            "region_id":85679237,
+            "venue_id":1108655825
+        }
+    ],
+    "wof:id":1108655825,
+    "wof:lastmodified":1474068091,
+    "wof:name":"Milli Savunma Bakanligi",
+    "wof:parent_id":85929805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "minister"
+    ]
+},
+  "bbox": [
+    29.059627533,
+    41.0328559875,
+    29.059627533,
+    41.0328559875
+],
+  "geometry": {"coordinates":[29.059627533,41.0328559875],"type":"Point"}
+}

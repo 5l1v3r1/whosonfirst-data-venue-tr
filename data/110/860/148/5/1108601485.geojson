@@ -1,0 +1,60 @@
+{
+  "id": 1108601485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1417541504,38.2985305786,27.1417541504,38.2985305786",
+    "geom:latitude":38.298531,
+    "geom:longitude":27.141754,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Adnan Menderes Airport",
+    "sg:city":"Nisantasi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 274 2082",
+    "sg:postcode":"25370",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CK5aonwxyiWYAbgI8FbkW_38.298531_27.141754@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065699,
+    "wof:geomhash":"06d68e485da998f54a164ab39c246245",
+    "wof:hierarchy":[],
+    "wof:id":1108601485,
+    "wof:lastmodified":1474065699,
+    "wof:name":"Klm (royal Dutch Airlines)",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    27.1417541504,
+    38.2985305786,
+    27.1417541504,
+    38.2985305786
+],
+  "geometry": {"coordinates":[27.1417541504,38.2985305786],"type":"Point"}
+}

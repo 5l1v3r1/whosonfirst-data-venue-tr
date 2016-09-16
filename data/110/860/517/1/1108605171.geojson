@@ -1,0 +1,75 @@
+{
+  "id": 1108605171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5144233704,39.7824668884,30.5144233704,39.7824668884",
+    "geom:latitude":39.782467,
+    "geom:longitude":30.514423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Mah. Fevzi Pasa Cad. No:29",
+    "sg:city":"Incirliova",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256585124458",
+    "sg:postcode":"09600",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934771,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zH23QEow2OFrF2O1dyIdf_39.782467_30.514423@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065851,
+    "wof:geomhash":"e7ae9e308290b4263d1c6fbf435ee01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255,
+            "venue_id":1108605171
+        }
+    ],
+    "wof:id":1108605171,
+    "wof:lastmodified":1474065851,
+    "wof:name":"Camlica Konf.",
+    "wof:parent_id":85934771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    30.5144233704,
+    39.7824668884,
+    30.5144233704,
+    39.7824668884
+],
+  "geometry": {"coordinates":[30.5144233704,39.7824668884],"type":"Point"}
+}

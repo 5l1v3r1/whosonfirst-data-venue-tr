@@ -1,0 +1,73 @@
+{
+  "id": 1108672883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0029506683,41.0513763428,29.0029506683,41.0513763428",
+    "geom:latitude":41.051376,
+    "geom:longitude":29.002951,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emirhan Cd. Barbaros Sk. No:2/d",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 2143",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DHtESqDISYrNkl2cA0oMy_41.051376_29.002951@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068757,
+    "wof:geomhash":"fafbf05186dfaba5540995d91607195a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":1108672883
+        }
+    ],
+    "wof:id":1108672883,
+    "wof:lastmodified":1474068757,
+    "wof:name":"Clivia ?i?ek Galeri.",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0029506683,
+    41.0513763428,
+    29.0029506683,
+    41.0513763428
+],
+  "geometry": {"coordinates":[29.0029506683,41.0513763428],"type":"Point"}
+}

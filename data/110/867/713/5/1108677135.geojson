@@ -1,0 +1,72 @@
+{
+  "id": 1108677135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1287631989,40.9264564514,29.1287631989,40.9264564514",
+    "geom:latitude":40.926456,
+    "geom:longitude":29.128763,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad. Feyzullah Mah. Kaptan Sok. No:1/2",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 457 2055",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66kyzBx60BK6cnU6zVrU6D_40.926456_29.128763@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068930,
+    "wof:geomhash":"7d983076f1939479e3dfaa459157702f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":1108677135
+        }
+    ],
+    "wof:id":1108677135,
+    "wof:lastmodified":1474068930,
+    "wof:name":"Talat Parke",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    29.1287631989,
+    40.9264564514,
+    29.1287631989,
+    40.9264564514
+],
+  "geometry": {"coordinates":[29.1287631989,40.9264564514],"type":"Point"}
+}

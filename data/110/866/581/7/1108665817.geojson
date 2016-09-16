@@ -1,0 +1,71 @@
+{
+  "id": 1108665817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.221206665,38.4667015076,27.221206665,38.4667015076",
+    "geom:latitude":38.466702,
+    "geom:longitude":27.221207,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"8.sok.no.15/d Bornova",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 388 5427",
+    "sg:postcode":"25900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dc7egqpAoRogDrgYmcnnX_38.466702_27.221207@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068479,
+    "wof:geomhash":"3a60d21887dcf4c3798f4aa3bf07fba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108665817
+        }
+    ],
+    "wof:id":1108665817,
+    "wof:lastmodified":1474068479,
+    "wof:name":"Senkron Muhendislik Ltd.sti.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    27.221206665,
+    38.4667015076,
+    27.221206665,
+    38.4667015076
+],
+  "geometry": {"coordinates":[27.221206665,38.4667015076],"type":"Point"}
+}

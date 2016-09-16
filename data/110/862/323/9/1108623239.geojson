@@ -1,0 +1,72 @@
+{
+  "id": 1108623239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0374507904,41.0859184265,29.0374507904,41.0859184265",
+    "geom:latitude":41.085918,
+    "geom:longitude":29.037451,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1. Ulus Kelaynak Sk. 48 Blok No:1 Etiler",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 5444",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930151,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dEbbc7Cq9PNyjRj77qApl_41.085918_29.037451@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066598,
+    "wof:geomhash":"4113af19487ed5436756a0084631c3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930151,
+            "region_id":85679237,
+            "venue_id":1108623239
+        }
+    ],
+    "wof:id":1108623239,
+    "wof:lastmodified":1474066598,
+    "wof:name":"Sinsa Insaat Isi Sistem. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0374507904,
+    41.0859184265,
+    29.0374507904,
+    41.0859184265
+],
+  "geometry": {"coordinates":[29.0374507904,41.0859184265],"type":"Point"}
+}

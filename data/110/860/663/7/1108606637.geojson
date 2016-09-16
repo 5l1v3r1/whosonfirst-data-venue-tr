@@ -1,0 +1,71 @@
+{
+  "id": 1108606637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8070316315,41.0289993286,28.8070316315,41.0289993286",
+    "geom:latitude":41.028999,
+    "geom:longitude":28.807032,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dereboyu Cad. No. 6",
+    "sg:city":"Halkali",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 548 4024",
+    "sg:postcode":"23410",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929887,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53jqtPESYVXKppgloSIYGv_41.028999_28.807032@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065918,
+    "wof:geomhash":"6d6d77baa084e7ca9f7b94e0519b15fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929887,
+            "region_id":85679237,
+            "venue_id":1108606637
+        }
+    ],
+    "wof:id":1108606637,
+    "wof:lastmodified":1474065918,
+    "wof:name":"Pameks Giyim A.s.",
+    "wof:parent_id":85929887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8070316315,
+    41.0289993286,
+    28.8070316315,
+    41.0289993286
+],
+  "geometry": {"coordinates":[28.8070316315,41.0289993286],"type":"Point"}
+}

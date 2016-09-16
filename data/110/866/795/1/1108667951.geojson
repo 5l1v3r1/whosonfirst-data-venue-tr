@@ -1,0 +1,78 @@
+{
+  "id": 1108667951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8607254028,39.9252815247,32.8607254028,39.9252815247",
+    "geom:latitude":39.925282,
+    "geom:longitude":32.860725,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saglik Sk. No:63/1 Sihhiye",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 6154",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409,
+        85929555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YvkV75t1CWoExT5IgXzwg_39.925282_32.860725@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068558,
+    "wof:geomhash":"60461c6ff7fda030fd41f16ac7b166d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108667951
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929555,
+            "region_id":85679409,
+            "venue_id":1108667951
+        }
+    ],
+    "wof:id":1108667951,
+    "wof:lastmodified":1474068558,
+    "wof:name":"Basak Basin Yayinci. Pazarlama San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    32.8607254028,
+    39.9252815247,
+    32.8607254028,
+    39.9252815247
+],
+  "geometry": {"coordinates":[32.8607254028,39.9252815247],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108654935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.014125824,41.0834083557,29.014125824,41.0834083557",
+    "geom:latitude":41.083408,
+    "geom:longitude":29.014126,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beyaz Karanfil Sk. No:36 3.levent",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 2957",
+    "sg:postcode":"07100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24vxMpZLHM5cTP6M5lASBu_41.083408_29.014126@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068056,
+    "wof:geomhash":"f3cc40497241746afb951831c4a00a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108654935
+        }
+    ],
+    "wof:id":1108654935,
+    "wof:lastmodified":1474068056,
+    "wof:name":"Akdaglar Madencilik",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.014125824,
+    41.0834083557,
+    29.014125824,
+    41.0834083557
+],
+  "geometry": {"coordinates":[29.014125824,41.0834083557],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108673203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8892478943,41.0050735474,28.8892478943,41.0050735474",
+    "geom:latitude":41.005074,
+    "geom:longitude":28.889248,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kinali Tepe Cd. No:80/1",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 556 0768",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tTxwWCVFv7eACBpdvrzQL_41.005074_28.889248@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068768,
+    "wof:geomhash":"f1eebe4a03fc2635247839970cc1fe2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108673203
+        }
+    ],
+    "wof:id":1108673203,
+    "wof:lastmodified":1474068768,
+    "wof:name":"Merter ?i?ek Magaza.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.8892478943,
+    41.0050735474,
+    28.8892478943,
+    41.0050735474
+],
+  "geometry": {"coordinates":[28.8892478943,41.0050735474],"type":"Point"}
+}

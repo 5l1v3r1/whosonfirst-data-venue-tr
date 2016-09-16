@@ -1,0 +1,73 @@
+{
+  "id": 1108577563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0756950378,41.0089988708,29.0756950378,41.0089988708",
+    "geom:latitude":41.008999,
+    "geom:longitude":29.075695,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Libadiye Cad.zafer Sok. No:26/2 Bulgurlu-uskudar",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 412 7732",
+    "sg:postcode":"80340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930093,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DmE0UtSwUAfJieZpX7JFC_41.008999_29.075695@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064827,
+    "wof:geomhash":"3766a2b9ce2cbc3009d62857d718c7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85930093,
+            "region_id":85679237,
+            "venue_id":1108577563
+        }
+    ],
+    "wof:id":1108577563,
+    "wof:lastmodified":1474064827,
+    "wof:name":"Expo Center Appllication From",
+    "wof:parent_id":85930093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    29.0756950378,
+    41.0089988708,
+    29.0756950378,
+    41.0089988708
+],
+  "geometry": {"coordinates":[29.0756950378,41.0089988708],"type":"Point"}
+}

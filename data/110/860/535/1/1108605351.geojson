@@ -1,0 +1,75 @@
+{
+  "id": 1108605351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0823554993,40.9609832764,29.0823554993,40.9609832764",
+    "geom:latitude":40.960983,
+    "geom:longitude":29.082355,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Semsettin Gunaltay Cad. Camli Apt.no:87 Kat.2 D:6 Aysekadin-",
+    "sg:city":"Suadiye",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 445 6861",
+    "sg:postcode":"34740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L6C4amFaoVPtWEJvPnVyt_40.960983_29.082355@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065858,
+    "wof:geomhash":"11b5679ec1bb9bf003af441c90f7a4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":1108605351
+        }
+    ],
+    "wof:id":1108605351,
+    "wof:lastmodified":1474065858,
+    "wof:name":"Dmf Trading",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0823554993,
+    40.9609832764,
+    29.0823554993,
+    40.9609832764
+],
+  "geometry": {"coordinates":[29.0823554993,40.9609832764],"type":"Point"}
+}

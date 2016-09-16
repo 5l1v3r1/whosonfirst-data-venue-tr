@@ -1,0 +1,70 @@
+{
+  "id": 1108659727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9265117645,41.016494751,28.9265117645,41.016494751",
+    "geom:latitude":41.016495,
+    "geom:longitude":28.926512,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Davutpasa Cd. No:30 Topkapi",
+    "sg:city":"G?esli",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 0425",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d8r9yILBayRCvPFq9ZBcN_41.016495_28.926512@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068246,
+    "wof:geomhash":"3b03e5e814c853a58ea1fc6a41eeab48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108659727
+        }
+    ],
+    "wof:id":1108659727,
+    "wof:lastmodified":1474068246,
+    "wof:name":"Ado Ambalaj San. Koll. Sti.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9265117645,
+    41.016494751,
+    28.9265117645,
+    41.016494751
+],
+  "geometry": {"coordinates":[28.9265117645,41.016494751],"type":"Point"}
+}

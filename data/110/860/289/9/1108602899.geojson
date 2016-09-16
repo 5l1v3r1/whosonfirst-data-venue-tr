@@ -1,0 +1,85 @@
+{
+  "id": 1108602899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.987821579,41.038028717,28.987821579,41.038028717",
+    "geom:latitude":41.038029,
+    "geom:longitude":28.987822,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mete Caddesi 30",
+    "sg:city":"Taksim",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 4725",
+    "sg:postcode":"24040",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "line",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904107,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85904159,
+        101913185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HFuerW4tJQaa09jmva7S9_41.038029_28.987822@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065750,
+    "wof:geomhash":"6ca91c4a13844082a665cec516f3e1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85904107,
+            "region_id":85679237,
+            "venue_id":1108602899
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108602899
+        }
+    ],
+    "wof:id":1108602899,
+    "wof:lastmodified":1474065750,
+    "wof:name":"Aeroflot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "air"
+    ]
+},
+  "bbox": [
+    28.987821579,
+    41.038028717,
+    28.987821579,
+    41.038028717
+],
+  "geometry": {"coordinates":[28.987821579,41.038028717],"type":"Point"}
+}

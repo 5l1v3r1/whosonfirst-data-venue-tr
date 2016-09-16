@@ -1,0 +1,73 @@
+{
+  "id": 1108676141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9785957336,41.0340538025,28.9785957336,41.0340538025",
+    "geom:latitude":41.034054,
+    "geom:longitude":28.978596,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklalcad. No:443 Beyoglu",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 1898",
+    "sg:postcode":"07010",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vWWkvFAPsDjiO874WYsgN_41.034054_28.978596@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068897,
+    "wof:geomhash":"939e8381e255116d906fbfbf9920db17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108676141
+        }
+    ],
+    "wof:id":1108676141,
+    "wof:lastmodified":1474068897,
+    "wof:name":"Rusya",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9785957336,
+    41.0340538025,
+    28.9785957336,
+    41.0340538025
+],
+  "geometry": {"coordinates":[28.9785957336,41.0340538025],"type":"Point"}
+}

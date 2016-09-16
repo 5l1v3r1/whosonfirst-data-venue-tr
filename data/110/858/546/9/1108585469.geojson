@@ -1,0 +1,69 @@
+{
+  "id": 1108585469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.0583381653,38.386844635,27.0583381653,38.386844635",
+    "geom:latitude":38.386845,
+    "geom:longitude":27.058338,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ata Cd.alpaslan Sk. No:2/d",
+    "sg:city":"Bal?va",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 278 5103",
+    "sg:postcode":"35330",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929631,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zr7xT4Eu30wFvVtt9KW8M_38.386845_27.058338@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065146,
+    "wof:geomhash":"afdea97047edb6dcf88ef2c262eaad6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929631,
+            "region_id":85679201,
+            "venue_id":1108585469
+        }
+    ],
+    "wof:id":1108585469,
+    "wof:lastmodified":1474065146,
+    "wof:name":"Punta Reklam",
+    "wof:parent_id":85929631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    27.0583381653,
+    38.386844635,
+    27.0583381653,
+    38.386844635
+],
+  "geometry": {"coordinates":[27.0583381653,38.386844635],"type":"Point"}
+}

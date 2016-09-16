@@ -1,0 +1,77 @@
+{
+  "id": 1108664243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0178527832,41.0756492615,29.0178527832,41.0756492615",
+    "geom:latitude":41.075649,
+    "geom:longitude":29.017853,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe M. I. Karaoglanoglu C. No: 133 K. 1 4.levent",
+    "sg:city":"Kayisdagi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 270 6277",
+    "sg:postcode":"34755",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09BvaQkYtN8Lgyzi0DdoE4_41.075649_29.017853@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068414,
+    "wof:geomhash":"29e762f18468149e27a8b99b6e4097c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108664243
+        }
+    ],
+    "wof:id":1108664243,
+    "wof:lastmodified":1474068414,
+    "wof:name":"?zpen Plastik Pencere Aks. San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.0178527832,
+    41.0756492615,
+    29.0178527832,
+    41.0756492615
+],
+  "geometry": {"coordinates":[29.0178527832,41.0756492615],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108676659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9534683228,41.0110397339,28.9534683228,41.0110397339",
+    "geom:latitude":41.01104,
+    "geom:longitude":28.953468,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Bulv. 148/6 Aksaray",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 4436",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906507,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ygF8JUn6VmlmbfxJ8etkr_41.011040_28.953468@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068914,
+    "wof:geomhash":"62744716374e806f1a5508e23c354413",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906507,
+            "region_id":85679237,
+            "venue_id":1108676659
+        }
+    ],
+    "wof:id":1108676659,
+    "wof:lastmodified":1474068914,
+    "wof:name":"Geredeli Dis Tic. Ltd.",
+    "wof:parent_id":85906507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    28.9534683228,
+    41.0110397339,
+    28.9534683228,
+    41.0110397339
+],
+  "geometry": {"coordinates":[28.9534683228,41.0110397339],"type":"Point"}
+}

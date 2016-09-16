@@ -1,0 +1,75 @@
+{
+  "id": 1108656403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7924251556,40.9708900452,28.7924251556,40.9708900452",
+    "geom:latitude":40.97089,
+    "geom:longitude":28.792425,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halkali Cd. No:170 Sefak?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 624 0670",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929793,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zDv5klTmEMAW6XUEPiPor_40.970890_28.792425@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068116,
+    "wof:geomhash":"3a555c9bb8ae466539f84db9b0663dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929793,
+            "region_id":85679237,
+            "venue_id":1108656403
+        }
+    ],
+    "wof:id":1108656403,
+    "wof:lastmodified":1474068116,
+    "wof:name":"Kalekalip Mak. Kalip San. A.s.",
+    "wof:parent_id":85929793,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    28.7924251556,
+    40.9708900452,
+    28.7924251556,
+    40.9708900452
+],
+  "geometry": {"coordinates":[28.7924251556,40.9708900452],"type":"Point"}
+}

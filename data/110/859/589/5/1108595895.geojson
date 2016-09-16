@@ -1,0 +1,64 @@
+{
+  "id": 1108595895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9073028564,40.9944152832,28.9073028564,40.9944152832",
+    "geom:latitude":40.994415,
+    "geom:longitude":28.907303,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Telsiz Mah. Prof. Muammer Aksoy Cad. No.51/a 34760 Zeytinburnu",
+    "sg:city":"Adapazari",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 664 1506",
+    "sg:postcode":"54100",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ZOnGvhcI97VeCcjFSoAH_40.994415_28.907303@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065463,
+    "wof:geomhash":"3471e0398c465f6cf7b2709f7b1d9a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108595895
+        }
+    ],
+    "wof:id":1108595895,
+    "wof:lastmodified":1474065463,
+    "wof:name":"A Group International",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9073028564,
+    40.9944152832,
+    28.9073028564,
+    40.9944152832
+],
+  "geometry": {"coordinates":[28.9073028564,40.9944152832],"type":"Point"}
+}

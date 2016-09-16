@@ -1,0 +1,68 @@
+{
+  "id": 1108572133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0042057037,41.0884284973,29.0042057037,41.0884284973",
+    "geom:latitude":41.088428,
+    "geom:longitude":29.004206,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eski Buyukdere Cad. Yamac Sok. No: 244 Levent",
+    "sg:city":"G?g?en",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2122804998329",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45xtyQK4FfSirlQl0EV1Qk_41.088428_29.004206@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064545,
+    "wof:geomhash":"1bd5c2378ccaa1b911322161700c98f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108572133
+        }
+    ],
+    "wof:id":1108572133,
+    "wof:lastmodified":1474064545,
+    "wof:name":"Polivinil Plastik San.tic.ltd. Sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0042057037,
+    41.0884284973,
+    29.0042057037,
+    41.0884284973
+],
+  "geometry": {"coordinates":[29.0042057037,41.0884284973],"type":"Point"}
+}

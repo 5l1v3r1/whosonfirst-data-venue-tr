@@ -1,0 +1,68 @@
+{
+  "id": 1108569097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2560005188,40.8787002563,29.2560005188,40.8787002563",
+    "geom:latitude":40.8787,
+    "geom:longitude":29.256001,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Namik Kemal Cad. Koruma San. Sit. A Bl. No:13 Kaynarca Pendik",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 396 4415",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_494lXmcGqmdaLwE4c5zGSk_40.878700_29.256001@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064419,
+    "wof:geomhash":"e47e5615188e5873af4440a72750023d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930121,
+            "venue_id":1108569097
+        }
+    ],
+    "wof:id":1108569097,
+    "wof:lastmodified":1474064419,
+    "wof:name":"Semka Makina Kalip Aparat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.2560005188,
+    40.8787002563,
+    29.2560005188,
+    40.8787002563
+],
+  "geometry": {"coordinates":[29.2560005188,40.8787002563],"type":"Point"}
+}

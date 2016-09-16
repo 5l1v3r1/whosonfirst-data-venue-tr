@@ -1,0 +1,73 @@
+{
+  "id": 1108574151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.521024704,39.7729644775,30.521024704,39.7729644775",
+    "geom:latitude":39.772964,
+    "geom:longitude":30.521025,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kurtulus Mah Asarcikli Cad No:4",
+    "sg:city":"Harbiye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 230 2461",
+    "sg:postcode":"31080",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934767,
+        102191569,
+        85632393,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CVPx5yX8mBlO3LBYGBju2_39.772964_30.521025@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064629,
+    "wof:geomhash":"ba68e30bca57874105c3962056177b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108574151
+        }
+    ],
+    "wof:id":1108574151,
+    "wof:lastmodified":1474064629,
+    "wof:name":"Uyar Cam",
+    "wof:parent_id":85934767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.521024704,
+    39.7729644775,
+    30.521024704,
+    39.7729644775
+],
+  "geometry": {"coordinates":[30.521024704,39.7729644775],"type":"Point"}
+}

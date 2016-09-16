@@ -1,0 +1,67 @@
+{
+  "id": 1108645273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7009162903,36.8885192871,30.7009162903,36.8885192871",
+    "geom:latitude":36.888519,
+    "geom:longitude":30.700916,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kalei?",
+    "sg:city":"?akalburnu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 242 3676",
+    "sg:province":"Antalya",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929847,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66hLIemS8BA8lfBF4HTEbS_36.888519_30.700916@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067614,
+    "wof:geomhash":"23bd53f173d21e8cc2eced59b1c3cadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929847,
+            "region_id":85679263,
+            "venue_id":1108645273
+        }
+    ],
+    "wof:id":1108645273,
+    "wof:lastmodified":1474067614,
+    "wof:name":"Turban Antalya Kalei? Marina",
+    "wof:parent_id":85929847,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7009162903,
+    36.8885192871,
+    30.7009162903,
+    36.8885192871
+],
+  "geometry": {"coordinates":[30.7009162903,36.8885192871],"type":"Point"}
+}

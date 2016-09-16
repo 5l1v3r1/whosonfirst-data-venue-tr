@@ -1,0 +1,71 @@
+{
+  "id": 1108600807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3137359619,37.0007171631,35.3137359619,37.0007171631",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Faydali K???ukurk?r?mevkii",
+    "sg:city":"Kozan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 611 0600",
+    "sg:postcode":"01500",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y7IR91XwAv7BMWbgUYnyy_37.000717_35.313736@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065673,
+    "wof:geomhash":"be1dc0b309ae7cabc26bf816a8deeda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108600807
+        }
+    ],
+    "wof:id":1108600807,
+    "wof:lastmodified":1474065673,
+    "wof:name":"G?demirler Tarim Sanayi Tic.ltd.sti.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    35.3137359619,
+    37.0007171631,
+    35.3137359619,
+    37.0007171631
+],
+  "geometry": {"coordinates":[35.3137359619,37.0007171631],"type":"Point"}
+}

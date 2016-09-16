@@ -1,0 +1,67 @@
+{
+  "id": 1108575587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.0009384155,36.5414619446,32.0009384155,36.5414619446",
+    "geom:latitude":36.541462,
+    "geom:longitude":32.000938,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iskele Cad. No:18",
+    "sg:city":"Marmaris",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 241 0345",
+    "sg:postcode":"48700",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MH8I1V5xvie3kDK5VATbf_36.541462_32.000938@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064684,
+    "wof:geomhash":"04aa7f54dcf937178395592379463bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934653,
+            "venue_id":1108575587
+        }
+    ],
+    "wof:id":1108575587,
+    "wof:lastmodified":1474064684,
+    "wof:name":"G?nes Marina Yachting",
+    "wof:parent_id":85934653,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    32.0009384155,
+    36.5414619446,
+    32.0009384155,
+    36.5414619446
+],
+  "geometry": {"coordinates":[32.0009384155,36.5414619446],"type":"Point"}
+}

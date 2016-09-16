@@ -1,0 +1,69 @@
+{
+  "id": 1108638007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.065870285,40.2450828552,29.065870285,40.2450828552",
+    "geom:latitude":40.245083,
+    "geom:longitude":29.06587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bursa",
+    "sg:city":"Karabaglar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 544 1094",
+    "sg:postcode":"44210",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "army"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929763,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yuYqV2nipzRaGgQIAe1Z6_40.245083_29.065870@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067343,
+    "wof:geomhash":"b109e210306bf7ae9af5fa8600e339c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929763,
+            "region_id":85679231,
+            "venue_id":1108638007
+        }
+    ],
+    "wof:id":1108638007,
+    "wof:lastmodified":1474067343,
+    "wof:name":"Mudanya Askerlik Subesi",
+    "wof:parent_id":85929763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army"
+    ]
+},
+  "bbox": [
+    29.065870285,
+    40.2450828552,
+    29.065870285,
+    40.2450828552
+],
+  "geometry": {"coordinates":[29.065870285,40.2450828552],"type":"Point"}
+}

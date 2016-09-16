@@ -1,0 +1,68 @@
+{
+  "id": 1108576185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7825527191,41.0697822571,28.7825527191,41.0697822571",
+    "geom:latitude":41.069782,
+    "geom:longitude":28.782553,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Keresteciler Sitesi Fatih Cad.no:4/11",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 642 7692",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929961,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FigimRiodAaGgR2j1c96o_41.069782_28.782553@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064708,
+    "wof:geomhash":"7df95170f137ab757ef703f9ec045923",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":1108576185
+        }
+    ],
+    "wof:id":1108576185,
+    "wof:lastmodified":1474064708,
+    "wof:name":"Feza Tekstil A.s",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    28.7825527191,
+    41.0697822571,
+    28.7825527191,
+    41.0697822571
+],
+  "geometry": {"coordinates":[28.7825527191,41.0697822571],"type":"Point"}
+}

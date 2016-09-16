@@ -1,0 +1,75 @@
+{
+  "id": 1108582697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0313968658,40.9906272888,29.0313968658,40.9906272888",
+    "geom:latitude":40.990627,
+    "geom:longitude":29.031397,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Visne Sk. No:18 Kadik?",
+    "sg:city":"Antakya",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 9804",
+    "sg:postcode":"31000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10cfWEiXoXYdjwYY49gutZ_40.990627_29.031397@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065078,
+    "wof:geomhash":"5cacd77314eb4b8b5ff88b03f499ec3a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108582697
+        }
+    ],
+    "wof:id":1108582697,
+    "wof:lastmodified":1474065078,
+    "wof:name":"Teknik Bilimler Kursu",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    29.0313968658,
+    40.9906272888,
+    29.0313968658,
+    40.9906272888
+],
+  "geometry": {"coordinates":[29.0313968658,40.9906272888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108656745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9026298523,41.0180053711,28.9026298523,41.0180053711",
+    "geom:latitude":41.018005,
+    "geom:longitude":28.90263,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Cakmak Cad.e.c.a. Sanayi Sitesi 80/26 Maltepe",
+    "sg:city":"Pendik",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 399 3768",
+    "sg:postcode":"34916",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906455,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4flryne6jDTz1bTZ3Ayu1Y_41.018005_28.902630@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068129,
+    "wof:geomhash":"86bbad58f5d8fa5277faff73e4d99e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906455,
+            "region_id":85679237,
+            "venue_id":1108656745
+        }
+    ],
+    "wof:id":1108656745,
+    "wof:lastmodified":1474068129,
+    "wof:name":"Tugra Kalip Makina Sanayi",
+    "wof:parent_id":85906455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    28.9026298523,
+    41.0180053711,
+    28.9026298523,
+    41.0180053711
+],
+  "geometry": {"coordinates":[28.9026298523,41.0180053711],"type":"Point"}
+}

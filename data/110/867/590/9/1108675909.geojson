@@ -1,0 +1,72 @@
+{
+  "id": 1108675909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9878826141,41.068561554,28.9878826141,41.068561554",
+    "geom:latitude":41.068562,
+    "geom:longitude":28.987883,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ismet Inon?cad. No: 16 G??suyu",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 251 5404",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wUQCXPnG3VR6sXYhjzDtJ_41.068562_28.987883@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068889,
+    "wof:geomhash":"2f6a8f035b8f53b9478a56a424f7efb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108675909
+        }
+    ],
+    "wof:id":1108675909,
+    "wof:lastmodified":1474068889,
+    "wof:name":"Almanya",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9878826141,
+    41.068561554,
+    28.9878826141,
+    41.068561554
+],
+  "geometry": {"coordinates":[28.9878826141,41.068561554],"type":"Point"}
+}

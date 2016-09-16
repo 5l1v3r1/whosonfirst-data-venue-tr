@@ -1,0 +1,68 @@
+{
+  "id": 1108643487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0142307281,41.0827598572,29.0142307281,41.0827598572",
+    "geom:latitude":41.08276,
+    "geom:longitude":29.014231,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emlak Kredi Bloklari C-3 Blok D:6 Levent",
+    "sg:city":"Nil?fer",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 1855",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YqdhZK3o0AtXpecY6k0PO_41.082760_29.014231@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067543,
+    "wof:geomhash":"0d263fe848d02208cff3f4e5eb900364",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108643487
+        }
+    ],
+    "wof:id":1108643487,
+    "wof:lastmodified":1474067543,
+    "wof:name":"Teknopar Makina San.ve Tic.a.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.0142307281,
+    41.0827598572,
+    29.0142307281,
+    41.0827598572
+],
+  "geometry": {"coordinates":[29.0142307281,41.0827598572],"type":"Point"}
+}

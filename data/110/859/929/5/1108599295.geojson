@@ -1,0 +1,75 @@
+{
+  "id": 1108599295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8299026489,40.9577865601,28.8299026489,40.9577865601",
+    "geom:latitude":40.957787,
+    "geom:longitude":28.829903,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yesilk?",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 662 6021",
+    "sg:postcode":"46810",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929771,
+        102191569,
+        85632393,
+        101912657,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mvze7EQ5FZvl5NAitkjEH_40.957787_28.829903@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065600,
+    "wof:geomhash":"bdea3f50b59a78f50dd13f1e8e0736af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912657,
+            "neighbourhood_id":85929771,
+            "region_id":85679237,
+            "venue_id":1108599295
+        }
+    ],
+    "wof:id":1108599295,
+    "wof:lastmodified":1474065600,
+    "wof:name":"Turkish Electric Industry Group",
+    "wof:parent_id":85929771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.8299026489,
+    40.9577865601,
+    28.8299026489,
+    40.9577865601
+],
+  "geometry": {"coordinates":[28.8299026489,40.9577865601],"type":"Point"}
+}

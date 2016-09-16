@@ -1,0 +1,68 @@
+{
+  "id": 1108613405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8513698578,41.0430297852,28.8513698578,41.0430297852",
+    "geom:latitude":41.04303,
+    "geom:longitude":28.85137,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Isto?5 Ada No:78-80 - Bagcilar",
+    "sg:city":"64020",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 659 4897",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930169,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ibfb5gEBipW8TUjFE4bd_41.043030_28.851370@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066213,
+    "wof:geomhash":"8f436826af22ab251d11752279e0b495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930169,
+            "region_id":85679237,
+            "venue_id":1108613405
+        }
+    ],
+    "wof:id":1108613405,
+    "wof:lastmodified":1474066213,
+    "wof:name":"Bakirk?y 25 Noterligi",
+    "wof:parent_id":85930169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    28.8513698578,
+    41.0430297852,
+    28.8513698578,
+    41.0430297852
+],
+  "geometry": {"coordinates":[28.8513698578,41.0430297852],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108669757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8057613373,41.054561615,28.8057613373,41.054561615",
+    "geom:latitude":41.054562,
+    "geom:longitude":28.805761,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sogutlucesme Cad. Bayrak Apt. No: 146/1-2",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 336 0750",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930241,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58bYZUx7iI1gBFkj0hdFiB_41.054562_28.805761@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068636,
+    "wof:geomhash":"56d6030edc378a871d596ddcefc8aff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930241,
+            "region_id":85679237,
+            "venue_id":1108669757
+        }
+    ],
+    "wof:id":1108669757,
+    "wof:lastmodified":1474068636,
+    "wof:name":"Ozgul Modaevi",
+    "wof:parent_id":85930241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    28.8057613373,
+    41.054561615,
+    28.8057613373,
+    41.054561615
+],
+  "geometry": {"coordinates":[28.8057613373,41.054561615],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1108592551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0444259644,41.0958557129,29.0444259644,41.0958557129",
+    "geom:latitude":41.095856,
+    "geom:longitude":29.044426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sezai Bey Sk. 18/4 Baltalimani",
+    "sg:city":"Germencik",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 229 3970",
+    "sg:postcode":"09700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930219,
+        102191569,
+        85632393,
+        101912659,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6962GTH0HFfd55fXHkZjPC_41.095856_29.044426@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065327,
+    "wof:geomhash":"0a481c025fcafdaaa32938d2076f39b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912659,
+            "neighbourhood_id":85930219,
+            "region_id":85679237,
+            "venue_id":1108592551
+        }
+    ],
+    "wof:id":1108592551,
+    "wof:lastmodified":1474065327,
+    "wof:name":"Fromat Int",
+    "wof:parent_id":85930219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ]
+},
+  "bbox": [
+    29.0444259644,
+    41.0958557129,
+    29.0444259644,
+    41.0958557129
+],
+  "geometry": {"coordinates":[29.0444259644,41.0958557129],"type":"Point"}
+}

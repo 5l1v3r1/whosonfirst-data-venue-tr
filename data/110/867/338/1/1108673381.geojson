@@ -1,0 +1,67 @@
+{
+  "id": 1108673381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0553665161,41.1681785583,29.0553665161,41.1681785583",
+    "geom:latitude":41.168179,
+    "geom:longitude":29.055367,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sefir Sk. No:8/7",
+    "sg:city":"Sariyer",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 242 3677",
+    "sg:postcode":"33740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U90O8dNnPlcDK5TDDB22M_41.168179_29.055367@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068779,
+    "wof:geomhash":"fee0ed3c948c5e068f2cad92dccc4733",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929827,
+            "venue_id":1108673381
+        }
+    ],
+    "wof:id":1108673381,
+    "wof:lastmodified":1474068779,
+    "wof:name":"Sariyer ?i?ekevi",
+    "wof:parent_id":85929827,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0553665161,
+    41.1681785583,
+    29.0553665161,
+    41.1681785583
+],
+  "geometry": {"coordinates":[29.0553665161,41.1681785583],"type":"Point"}
+}

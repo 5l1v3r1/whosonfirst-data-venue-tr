@@ -1,0 +1,74 @@
+{
+  "id": 1108668785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1255321503,40.9434127808,29.1255321503,40.9434127808",
+    "geom:latitude":40.943413,
+    "geom:longitude":29.125532,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Idealtepe Mah.ozgur Sok. No: 16 Maltepe",
+    "sg:city":"Selcuklu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 518 1150",
+    "sg:postcode":"42020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "compressor",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qwnWEloyNEZb0ZJMMYffn_40.943413_29.125532@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068597,
+    "wof:geomhash":"3970d48cf3a82d174a72dc014ef15b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":1108668785
+        }
+    ],
+    "wof:id":1108668785,
+    "wof:lastmodified":1474068597,
+    "wof:name":"Metrans Ltd.sti.",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "pump"
+    ]
+},
+  "bbox": [
+    29.1255321503,
+    40.9434127808,
+    29.1255321503,
+    40.9434127808
+],
+  "geometry": {"coordinates":[29.1255321503,40.9434127808],"type":"Point"}
+}

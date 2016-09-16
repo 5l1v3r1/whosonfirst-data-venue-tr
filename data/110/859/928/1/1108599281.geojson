@@ -1,0 +1,71 @@
+{
+  "id": 1108599281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9070949554,41.0813827515,28.9070949554,41.0813827515",
+    "geom:latitude":41.081383,
+    "geom:longitude":28.907095,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hekimsuyu Cad. 559.sok.no.10 K??k?",
+    "sg:city":"Gaziosmanpasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2124791886729",
+    "sg:postcode":"34100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929781,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SAxiX4i38B9ciKFfK2AcT_41.081383_28.907095@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065599,
+    "wof:geomhash":"3e14a2f5a6f7098d5683428c1c90a41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929781,
+            "region_id":85679237,
+            "venue_id":1108599281
+        }
+    ],
+    "wof:id":1108599281,
+    "wof:lastmodified":1474065599,
+    "wof:name":"Tokali Aydinlatma Ltd Sti",
+    "wof:parent_id":85929781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9070949554,
+    41.0813827515,
+    28.9070949554,
+    41.0813827515
+],
+  "geometry": {"coordinates":[28.9070949554,41.0813827515],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108599449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0446071625,40.9934883118,29.0446071625,40.9934883118",
+    "geom:latitude":40.993488,
+    "geom:longitude":29.044607,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Egitim Mah. Poyraz Sok. No:1/5 -6 Kadikoy",
+    "sg:city":"Sorgun",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 8324",
+    "sg:postcode":"66700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08m15KzN2ys25tSWmAV42i_40.993488_29.044607@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065611,
+    "wof:geomhash":"b49d29fd2123e8b9fdcf4efe5e669218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108599449
+        }
+    ],
+    "wof:id":1108599449,
+    "wof:lastmodified":1474065611,
+    "wof:name":"Batrans",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    29.0446071625,
+    40.9934883118,
+    29.0446071625,
+    40.9934883118
+],
+  "geometry": {"coordinates":[29.0446071625,40.9934883118],"type":"Point"}
+}

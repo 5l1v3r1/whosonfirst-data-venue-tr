@@ -1,0 +1,74 @@
+{
+  "id": 1108599539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1689929962,40.9125404358,29.1689929962,40.9125404358",
+    "geom:latitude":40.91254,
+    "geom:longitude":29.168993,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Kemal Cad. Nigde Sok. No:2/6 Cevizli-kartal",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 457 0038",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LvHtXh3c0pTwohQHCY7iA_40.912540_29.168993@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065614,
+    "wof:geomhash":"85ed48483f8b8daa16c1ffbb1bfb3b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108599539
+        }
+    ],
+    "wof:id":1108599539,
+    "wof:lastmodified":1474065614,
+    "wof:name":"Oner Ticaret",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    29.1689929962,
+    40.9125404358,
+    29.1689929962,
+    40.9125404358
+],
+  "geometry": {"coordinates":[29.1689929962,40.9125404358],"type":"Point"}
+}

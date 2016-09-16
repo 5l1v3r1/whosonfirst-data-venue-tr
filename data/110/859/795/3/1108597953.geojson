@@ -1,0 +1,75 @@
+{
+  "id": 1108597953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8600273132,39.9151306152,32.8600273132,39.9151306152",
+    "geom:latitude":39.915131,
+    "geom:longitude":32.860027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bardacik Sok. No:4/1-b",
+    "sg:city":"K.esat",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 417 2412",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409,
+        85904129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ogO1UcOyxEyx8Tmr6Qw0K_39.915131_32.860027@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065547,
+    "wof:geomhash":"0291dcc40453d8970839afefec27acb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108597953
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108597953
+        }
+    ],
+    "wof:id":1108597953,
+    "wof:lastmodified":1474065547,
+    "wof:name":"Loher Asansor San. Ve Tic. A.s.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    32.8600273132,
+    39.9151306152,
+    32.8600273132,
+    39.9151306152
+],
+  "geometry": {"coordinates":[32.8600273132,39.9151306152],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108589287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1411552429,38.4148292542,27.1411552429,38.4148292542",
+    "geom:latitude":38.414829,
+    "geom:longitude":27.141155,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Cakmak Cad.no:11 D:1 Yucel Apt.",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 343 0055",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "cloth",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904085,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t65sg8AdYrbf1cOF93kht_38.414829_27.141155@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065234,
+    "wof:geomhash":"aacf04633f8b9d210bac6a5781576d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904085,
+            "region_id":85679201,
+            "venue_id":1108589287
+        }
+    ],
+    "wof:id":1108589287,
+    "wof:lastmodified":1474065234,
+    "wof:name":"Bormak Bilgi Islem Makina Otomotiv San.tic.ltd.sti.",
+    "wof:parent_id":85904085,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cloth",
+        "worker"
+    ]
+},
+  "bbox": [
+    27.1411552429,
+    38.4148292542,
+    27.1411552429,
+    38.4148292542
+],
+  "geometry": {"coordinates":[27.1411552429,38.4148292542],"type":"Point"}
+}

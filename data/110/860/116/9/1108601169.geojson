@@ -1,0 +1,71 @@
+{
+  "id": 1108601169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1056251526,38.453289032,27.1056251526,38.453289032",
+    "geom:latitude":38.453289,
+    "geom:longitude":27.105625,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Girne Bulvari No: 28 D: 1",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 323 6155",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06B1dtdjLkgVZBO45j7KTI_38.453289_27.105625@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065687,
+    "wof:geomhash":"cf3a0c98d81e508b74dab035e7a5d4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108601169
+        }
+    ],
+    "wof:id":1108601169,
+    "wof:lastmodified":1474065687,
+    "wof:name":"Skal T?rkiye",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    27.1056251526,
+    38.453289032,
+    27.1056251526,
+    38.453289032
+],
+  "geometry": {"coordinates":[27.1056251526,38.453289032],"type":"Point"}
+}

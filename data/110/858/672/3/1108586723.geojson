@@ -1,0 +1,69 @@
+{
+  "id": 1108586723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0886936188,37.7845115662,29.0886936188,37.7845115662",
+    "geom:latitude":37.784512,
+    "geom:longitude":29.088694,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Halk Cad.no:7",
+    "sg:city":"Yildirim",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 242 4451",
+    "sg:postcode":"16000",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "weaving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934747,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pSEoVyNBOPkyXhGj51uZq_37.784512_29.088694@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065175,
+    "wof:geomhash":"2d2db81defc2db1f0c1f9b7ee9b045c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934747,
+            "region_id":85679277,
+            "venue_id":1108586723
+        }
+    ],
+    "wof:id":1108586723,
+    "wof:lastmodified":1474065175,
+    "wof:name":"Mahir Tekstil",
+    "wof:parent_id":85934747,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weaving"
+    ]
+},
+  "bbox": [
+    29.0886936188,
+    37.7845115662,
+    29.0886936188,
+    37.7845115662
+],
+  "geometry": {"coordinates":[29.0886936188,37.7845115662],"type":"Point"}
+}

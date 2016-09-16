@@ -1,0 +1,73 @@
+{
+  "id": 1108590371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.6889343262,36.8906860352,30.6889343262,36.8906860352",
+    "geom:latitude":36.890686,
+    "geom:longitude":30.688934,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Altindag Mah. Turgut Reis Cad. No:44/a-b",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 248 6518",
+    "sg:postcode":"01940",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930111,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GSLOr5fWlMPN5XbghT9f8_36.890686_30.688934@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065259,
+    "wof:geomhash":"3bb0a41e1472f53e370edf70a4aed313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85930111,
+            "region_id":85679263,
+            "venue_id":1108590371
+        }
+    ],
+    "wof:id":1108590371,
+    "wof:lastmodified":1474065259,
+    "wof:name":"Deha Collection",
+    "wof:parent_id":85930111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    30.6889343262,
+    36.8906860352,
+    30.6889343262,
+    36.8906860352
+],
+  "geometry": {"coordinates":[30.6889343262,36.8906860352],"type":"Point"}
+}

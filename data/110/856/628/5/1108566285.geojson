@@ -1,0 +1,75 @@
+{
+  "id": 1108566285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0496292114,41.0075798035,29.0496292114,41.0075798035",
+    "geom:latitude":41.00758,
+    "geom:longitude":29.049629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirciler Sit. 4. Cd. No:17 Zeytinburnu",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 546 7549",
+    "sg:postcode":"34660",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CXFgX6M0xPgpZvn4Zljgn_41.007580_29.049629@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064298,
+    "wof:geomhash":"5ce5c0db88e859cd3c9bfd8215329b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108566285
+        }
+    ],
+    "wof:id":1108566285,
+    "wof:lastmodified":1474064298,
+    "wof:name":"Ar-metal Makina Yedek Par?a San. Tic. Ltd.",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0496292114,
+    41.0075798035,
+    29.0496292114,
+    41.0075798035
+],
+  "geometry": {"coordinates":[29.0496292114,41.0075798035],"type":"Point"}
+}

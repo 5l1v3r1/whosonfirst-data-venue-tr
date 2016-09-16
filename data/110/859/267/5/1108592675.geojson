@@ -1,0 +1,77 @@
+{
+  "id": 1108592675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8408145905,40.9970054626,28.8408145905,40.9970054626",
+    "geom:latitude":40.997005,
+    "geom:longitude":28.840815,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hurriyet Mah. Hurriyet Cad. No: 53",
+    "sg:city":"Yenibosna",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 653 5340",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MQpwBBk4yE865z8IDV7ZF_40.997005_28.840815@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065332,
+    "wof:geomhash":"f50b30f83915c0bd01aeabf08cf73b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108592675
+        }
+    ],
+    "wof:id":1108592675,
+    "wof:lastmodified":1474065332,
+    "wof:name":"Savas Chemicals Oil Industries & Trades Company",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "margarine",
+        "oil"
+    ]
+},
+  "bbox": [
+    28.8408145905,
+    40.9970054626,
+    28.8408145905,
+    40.9970054626
+],
+  "geometry": {"coordinates":[28.8408145905,40.9970054626],"type":"Point"}
+}

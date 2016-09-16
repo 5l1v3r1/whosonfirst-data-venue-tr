@@ -1,0 +1,69 @@
+{
+  "id": 1108658711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1529445648,38.3875350952,27.1529445648,38.3875350952",
+    "geom:latitude":38.387535,
+    "geom:longitude":27.152945,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hayrettin ?ner",
+    "sg:city":"Germencik",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 256 577 1041",
+    "sg:postcode":"09700",
+    "sg:province":"Aydin",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904097,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IuZ2ZkJ6WcHR0QS1DcDIP_38.387535_27.152945@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068201,
+    "wof:geomhash":"8d56ac9d98fee179d8de8f3d5ccf097b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904097,
+            "region_id":85679201,
+            "venue_id":1108658711
+        }
+    ],
+    "wof:id":1108658711,
+    "wof:lastmodified":1474068201,
+    "wof:name":"Ortaklar Belediye Baskani",
+    "wof:parent_id":85904097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    27.1529445648,
+    38.3875350952,
+    27.1529445648,
+    38.3875350952
+],
+  "geometry": {"coordinates":[27.1529445648,38.3875350952],"type":"Point"}
+}

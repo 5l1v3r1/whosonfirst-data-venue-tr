@@ -1,0 +1,74 @@
+{
+  "id": 1108671869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.5077514648,40.9663505554,27.5077514648,40.9663505554",
+    "geom:latitude":40.966351,
+    "geom:longitude":27.507751,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"H?riyet Mah.emniyet M?.yani Tekindag Sit.ablokno:10 Tekirdag",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 282 262 7386",
+    "sg:postcode":"59100",
+    "sg:province":"Tekirdag",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679223,
+        85632393,
+        85934645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A7qYpDinvxeAH0KFNBomz_40.966351_27.507751@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068713,
+    "wof:geomhash":"68b1801d207e342ce9ce672c8191b4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85934645,
+            "region_id":85679223,
+            "venue_id":1108671869
+        }
+    ],
+    "wof:id":1108671869,
+    "wof:lastmodified":1474068713,
+    "wof:name":"Sever Yangin S?d?me Sin.gaz.ltd.sti.",
+    "wof:parent_id":85934645,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    27.5077514648,
+    40.9663505554,
+    27.5077514648,
+    40.9663505554
+],
+  "geometry": {"coordinates":[27.5077514648,40.9663505554],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1108590861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2807254791,40.8736534119,29.2807254791,40.8736534119",
+    "geom:latitude":40.873653,
+    "geom:longitude":29.280725,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"N. Kemal Cd. No:13 Pendik",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 354 4729",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HaStkjskuQAs2Xg6xTAPq_40.873653_29.280725@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065270,
+    "wof:geomhash":"68eb75d118cd66f99ad1a08af87a76d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108590861
+        }
+    ],
+    "wof:id":1108590861,
+    "wof:lastmodified":1474065270,
+    "wof:name":"Konut Ic Mimari Ans. Dekor.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    29.2807254791,
+    40.8736534119,
+    29.2807254791,
+    40.8736534119
+],
+  "geometry": {"coordinates":[29.2807254791,40.8736534119],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1108676535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8613204956,39.9170532227,32.8613204956,39.9170532227",
+    "geom:latitude":39.917053,
+    "geom:longitude":32.86132,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M. Eldem Sk. No:79/7 Kocatepe",
+    "sg:city":"24000",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 418 0417",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904133,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_354e8ZOaFMbGm2ZoCK4VAZ_39.917053_32.861320@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068910,
+    "wof:geomhash":"d625ff6db2efa3443b05c1b0b72a75da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904133,
+            "region_id":85679409,
+            "venue_id":1108676535
+        }
+    ],
+    "wof:id":1108676535,
+    "wof:lastmodified":1474068910,
+    "wof:name":"Dempa Pazarlama A.s.",
+    "wof:parent_id":85904133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8613204956,
+    39.9170532227,
+    32.8613204956,
+    39.9170532227
+],
+  "geometry": {"coordinates":[32.8613204956,39.9170532227],"type":"Point"}
+}

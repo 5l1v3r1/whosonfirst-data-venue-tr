@@ -1,0 +1,66 @@
+{
+  "id": 1108623469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2678775787,40.8705711365,29.2678775787,40.8705711365",
+    "geom:latitude":40.870571,
+    "geom:longitude":29.267878,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Marmara Cd. No:162",
+    "sg:city":"K.mustafapasa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 589 6174",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WXmiV9VPrx2of10PViUr6_40.870571_29.267878@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066607,
+    "wof:geomhash":"308279691612fcc82f65b8e200fc8ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108623469
+        }
+    ],
+    "wof:id":1108623469,
+    "wof:lastmodified":1474066607,
+    "wof:name":"?elteks M?hendis. Ltd. Sti.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.2678775787,
+    40.8705711365,
+    29.2678775787,
+    40.8705711365
+],
+  "geometry": {"coordinates":[29.2678775787,40.8705711365],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108669463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8584022522,39.8962974548,32.8584022522,39.8962974548",
+    "geom:latitude":39.896297,
+    "geom:longitude":32.858402,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cevre Sok. (uskup Cad.) No:24/5 Cankaya",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "fair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40UjI8rVPZ4ctn6gohUcNV_39.896297_32.858402@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068626,
+    "wof:geomhash":"43a11bf1e529657b5e26f86c50a94f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108669463
+        }
+    ],
+    "wof:id":1108669463,
+    "wof:lastmodified":1474068626,
+    "wof:name":"Cms Kongre Yonetim Sistemleri Uluslararasi Fuar Org.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fair"
+    ]
+},
+  "bbox": [
+    32.8584022522,
+    39.8962974548,
+    32.8584022522,
+    39.8962974548
+],
+  "geometry": {"coordinates":[32.8584022522,39.8962974548],"type":"Point"}
+}

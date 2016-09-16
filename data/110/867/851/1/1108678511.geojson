@@ -1,0 +1,68 @@
+{
+  "id": 1108678511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.976266861,41.0333137512,28.976266861,41.0333137512",
+    "geom:latitude":41.033314,
+    "geom:longitude":28.976267,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.mebusan Cd. Dursun Han",
+    "sg:city":"Salipazari",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 7560",
+    "sg:postcode":"55530",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906549,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pfi5XL5uGu4lvLJQbZpu6_41.033314_28.976267@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068982,
+    "wof:geomhash":"fd1c639a5422163dd7c12910b67decc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906549,
+            "region_id":85679237,
+            "venue_id":1108678511
+        }
+    ],
+    "wof:id":1108678511,
+    "wof:lastmodified":1474068982,
+    "wof:name":"Devo Den San. Ltd. Sti.",
+    "wof:parent_id":85906549,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.976266861,
+    41.0333137512,
+    28.976266861,
+    41.0333137512
+],
+  "geometry": {"coordinates":[28.976266861,41.0333137512],"type":"Point"}
+}

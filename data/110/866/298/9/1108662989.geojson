@@ -1,0 +1,73 @@
+{
+  "id": 1108662989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8108024597,39.9429244995,32.8108024597,39.9429244995",
+    "geom:latitude":39.942924,
+    "geom:longitude":32.810802,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tanacan Sok.no:22 Gazi Mah.",
+    "sg:city":"Emek",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 211 1100",
+    "sg:postcode":"01940",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929605,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CVjQmpzmOHtghfjF9qjvW_39.942924_32.810802@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068365,
+    "wof:geomhash":"7bf8c5175a0423198b01235e7f066ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929605,
+            "region_id":85679409,
+            "venue_id":1108662989
+        }
+    ],
+    "wof:id":1108662989,
+    "wof:lastmodified":1474068365,
+    "wof:name":"Medsan Ilcac Ltd.sti.",
+    "wof:parent_id":85929605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    32.8108024597,
+    39.9429244995,
+    32.8108024597,
+    39.9429244995
+],
+  "geometry": {"coordinates":[32.8108024597,39.9429244995],"type":"Point"}
+}

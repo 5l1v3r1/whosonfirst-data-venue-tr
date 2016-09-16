@@ -1,0 +1,68 @@
+{
+  "id": 1108620579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1472377777,40.9820518494,29.1472377777,40.9820518494",
+    "geom:latitude":40.982052,
+    "geom:longitude":29.147238,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Cad. 43/b",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 583 2944",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_711AAqK7MZ3Hk8akzpQGXS_40.982052_29.147238@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066490,
+    "wof:geomhash":"d6561378638a1671326826160dfb4d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108620579
+        }
+    ],
+    "wof:id":1108620579,
+    "wof:lastmodified":1474066490,
+    "wof:name":"Can Sark?teri - Hazir Gida - Soguk Sandvic",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    29.1472377777,
+    40.9820518494,
+    29.1472377777,
+    40.9820518494
+],
+  "geometry": {"coordinates":[29.1472377777,40.9820518494],"type":"Point"}
+}

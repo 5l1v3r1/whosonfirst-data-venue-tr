@@ -1,0 +1,73 @@
+{
+  "id": 1108592383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0864582062,41.0897064209,29.0864582062,41.0897064209",
+    "geom:latitude":41.089706,
+    "geom:longitude":29.086458,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Serpil Sok. No: 40 Kavacik",
+    "sg:city":"Beykoz",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 308 1305",
+    "sg:postcode":"37870",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3endBU0HcmSnclKsSGVjol_41.089706_29.086458@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065322,
+    "wof:geomhash":"4d1242c69de7044c87113154494f1cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108592383
+        }
+    ],
+    "wof:id":1108592383,
+    "wof:lastmodified":1474065322,
+    "wof:name":"Yesilyurt Tekstil",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    29.0864582062,
+    41.0897064209,
+    29.0864582062,
+    41.0897064209
+],
+  "geometry": {"coordinates":[29.0864582062,41.0897064209],"type":"Point"}
+}

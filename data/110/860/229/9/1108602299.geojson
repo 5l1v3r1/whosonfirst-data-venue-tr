@@ -1,0 +1,75 @@
+{
+  "id": 1108602299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8703250885,40.9998207092,28.8703250885,40.9998207092",
+    "geom:latitude":40.999821,
+    "geom:longitude":28.870325,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izzettin ?. Cd. No:51/a",
+    "sg:city":"Bah\u00e7elievler",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 575 3072",
+    "sg:postcode":"34180",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_121uNSf1NY5ZOzI8oy2wrj_40.999821_28.870325@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065728,
+    "wof:geomhash":"192463bb4aca6b340ec33460c2555651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108602299
+        }
+    ],
+    "wof:id":1108602299,
+    "wof:lastmodified":1474065728,
+    "wof:name":"Katre Dogalgaz Ltd.",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.8703250885,
+    40.9998207092,
+    28.8703250885,
+    40.9998207092
+],
+  "geometry": {"coordinates":[28.8703250885,40.9998207092],"type":"Point"}
+}

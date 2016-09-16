@@ -1,0 +1,73 @@
+{
+  "id": 1108604389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9848556519,41.0595436096,28.9848556519,41.0595436096",
+    "geom:latitude":41.059544,
+    "geom:longitude":28.984856,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Perihan Sk. No.126/3",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 241 2153",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61uRAuU83lO7ZrxwEuSg1r_41.059544_28.984856@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065814,
+    "wof:geomhash":"253e471958500739bd1d16b04e5fe6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108604389
+        }
+    ],
+    "wof:id":1108604389,
+    "wof:lastmodified":1474065814,
+    "wof:name":"Besan Besin San. A.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready"
+    ]
+},
+  "bbox": [
+    28.9848556519,
+    41.0595436096,
+    28.9848556519,
+    41.0595436096
+],
+  "geometry": {"coordinates":[28.9848556519,41.0595436096],"type":"Point"}
+}

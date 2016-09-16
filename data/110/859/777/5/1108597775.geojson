@@ -1,0 +1,67 @@
+{
+  "id": 1108597775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1452045441,41.0066413879,29.1452045441,41.0066413879",
+    "geom:latitude":41.006641,
+    "geom:longitude":29.145205,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tavukcuyolu Cad.meric Sok. No:17",
+    "sg:city":"Y Dudullu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930257,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rBjUtxR1RqNjgvUPQYtcL_41.006641_29.145205@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065540,
+    "wof:geomhash":"66abd6e2c62e7d5d39580bf1ba042961",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930257,
+            "region_id":85679237,
+            "venue_id":1108597775
+        }
+    ],
+    "wof:id":1108597775,
+    "wof:lastmodified":1474065540,
+    "wof:name":"G&a Asans?",
+    "wof:parent_id":85930257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.1452045441,
+    41.0066413879,
+    29.1452045441,
+    41.0066413879
+],
+  "geometry": {"coordinates":[29.1452045441,41.0066413879],"type":"Point"}
+}

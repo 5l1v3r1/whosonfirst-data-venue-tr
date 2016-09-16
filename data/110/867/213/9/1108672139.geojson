@@ -1,0 +1,73 @@
+{
+  "id": 1108672139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0359401703,41.0962181091,29.0359401703,41.0962181091",
+    "geom:latitude":41.096218,
+    "geom:longitude":29.03594,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K??bebek C.no.47/1",
+    "sg:city":"Bebek",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 257 0790",
+    "sg:postcode":"02000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929757,
+        102191569,
+        85632393,
+        101912639,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mTC0Z8IqxRkWrfxaeJ3Qw_41.096218_29.035940@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068722,
+    "wof:geomhash":"13de7693b70c94e253ad9ee560e54e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912639,
+            "neighbourhood_id":85929757,
+            "region_id":85679237,
+            "venue_id":1108672139
+        }
+    ],
+    "wof:id":1108672139,
+    "wof:lastmodified":1474068722,
+    "wof:name":"Alpin Dis Tic.a.s.",
+    "wof:parent_id":85929757,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    29.0359401703,
+    41.0962181091,
+    29.0359401703,
+    41.0962181091
+],
+  "geometry": {"coordinates":[29.0359401703,41.0962181091],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108623243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0745391846,41.0454216003,29.0745391846,41.0454216003",
+    "geom:latitude":41.045422,
+    "geom:longitude":29.074539,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beyaz Karanfil Sk. No:34",
+    "sg:city":"3.levent",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 1058",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929501,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O1GmYSjsHLRLNQjBaiCGU_41.045422_29.074539@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066599,
+    "wof:geomhash":"a02eaf2f30de667da65a5d1554bb45a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237,
+            "venue_id":1108623243
+        }
+    ],
+    "wof:id":1108623243,
+    "wof:lastmodified":1474066599,
+    "wof:name":"Sit Kontrol Ltd. Sti.",
+    "wof:parent_id":85929501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    29.0745391846,
+    41.0454216003,
+    29.0745391846,
+    41.0454216003
+],
+  "geometry": {"coordinates":[29.0745391846,41.0454216003],"type":"Point"}
+}

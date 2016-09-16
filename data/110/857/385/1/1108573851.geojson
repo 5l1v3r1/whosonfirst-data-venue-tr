@@ -1,0 +1,67 @@
+{
+  "id": 1108573851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9424438477,41.0110740662,28.9424438477,41.0110740662",
+    "geom:latitude":41.011074,
+    "geom:longitude":28.942444,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turgut Ozal Cad. No: 33",
+    "sg:city":"Alemdag",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 484 1759",
+    "sg:postcode":"06360",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QBk04wstvQ0fwNmYjOQP6_41.011074_28.942444@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064618,
+    "wof:geomhash":"1995c05d28cb4bc4f6e1a0fc8d9e938a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108573851
+        }
+    ],
+    "wof:id":1108573851,
+    "wof:lastmodified":1474064618,
+    "wof:name":"Kilic Cam",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    28.9424438477,
+    41.0110740662,
+    28.9424438477,
+    41.0110740662
+],
+  "geometry": {"coordinates":[28.9424438477,41.0110740662],"type":"Point"}
+}

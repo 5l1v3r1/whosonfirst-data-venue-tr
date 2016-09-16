@@ -1,0 +1,70 @@
+{
+  "id": 1108596905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9140300751,41.0344467163,28.9140300751,41.0344467163",
+    "geom:latitude":41.034447,
+    "geom:longitude":28.91403,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rihtim Sok. No:6 Bayrampasa",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21256706233",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JqvQ1wtwU3iFb4UgZJBlo_41.034447_28.914030@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065509,
+    "wof:geomhash":"297286dbf400e4dc43168179da1c378c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108596905
+        }
+    ],
+    "wof:id":1108596905,
+    "wof:lastmodified":1474065509,
+    "wof:name":"Matras Deri A.s.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9140300751,
+    41.0344467163,
+    28.9140300751,
+    41.0344467163
+],
+  "geometry": {"coordinates":[28.9140300751,41.0344467163],"type":"Point"}
+}

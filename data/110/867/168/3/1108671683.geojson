@@ -1,0 +1,77 @@
+{
+  "id": 1108671683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9995136261,41.0527839661,28.9995136261,41.0527839661",
+    "geom:latitude":41.052784,
+    "geom:longitude":28.999514,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K?e Sehitleri Cad. No: 25 34394 Zincirlikuyu Istanbul",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 212 3550",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42LPd2NG34zaobysNXQEUU_41.052784_28.999514@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068707,
+    "wof:geomhash":"4b9d88e2a1e125513d744c1f3a447641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":1108671683
+        }
+    ],
+    "wof:id":1108671683,
+    "wof:lastmodified":1474068707,
+    "wof:name":"Tetra Pak As",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ]
+},
+  "bbox": [
+    28.9995136261,
+    41.0527839661,
+    28.9995136261,
+    41.0527839661
+],
+  "geometry": {"coordinates":[28.9995136261,41.0527839661],"type":"Point"}
+}

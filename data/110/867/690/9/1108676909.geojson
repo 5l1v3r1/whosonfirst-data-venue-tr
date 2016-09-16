@@ -1,0 +1,68 @@
+{
+  "id": 1108676909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8614959717,39.8967857361,32.8614959717,39.8967857361",
+    "geom:latitude":39.896786,
+    "geom:longitude":32.861496,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Farabi Sk. No:32/5 Kavaklidere",
+    "sg:city":"K???kmece Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 427 4303",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wy68BWaB0IDv9iO3Izg6p_39.896786_32.861496@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068923,
+    "wof:geomhash":"177cd1bad11be90459b30032cf142119",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108676909
+        }
+    ],
+    "wof:id":1108676909,
+    "wof:lastmodified":1474068923,
+    "wof:name":"Orelsan Orman ?r?n. Elektrik San. Tic. A.s.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.8614959717,
+    39.8967857361,
+    32.8614959717,
+    39.8967857361
+],
+  "geometry": {"coordinates":[32.8614959717,39.8967857361],"type":"Point"}
+}

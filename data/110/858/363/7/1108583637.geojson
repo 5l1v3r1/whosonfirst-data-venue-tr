@@ -1,0 +1,75 @@
+{
+  "id": 1108583637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0144462585,41.0596199036,29.0144462585,41.0596199036",
+    "geom:latitude":41.05962,
+    "geom:longitude":29.014446,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukdere Cad.no.115-12 Zincirlikuyu",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 211 3300",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "iron-steel",
+        "peoducts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_794M8GEHPN6mt2t8xZoLdt_41.059620_29.014446@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065097,
+    "wof:geomhash":"9e7043b2f356265e7e02b1c29cb809c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108583637
+        }
+    ],
+    "wof:id":1108583637,
+    "wof:lastmodified":1474065097,
+    "wof:name":"Dokum-izabe Musavirlik Ve Mumessillik Ltd.sti.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "iron-steel",
+        "peoducts"
+    ]
+},
+  "bbox": [
+    29.0144462585,
+    41.0596199036,
+    29.0144462585,
+    41.0596199036
+],
+  "geometry": {"coordinates":[29.0144462585,41.0596199036],"type":"Point"}
+}

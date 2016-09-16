@@ -1,0 +1,69 @@
+{
+  "id": 1108678159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8560333252,39.9438743591,32.8560333252,39.9438743591",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. Kok Ish. No:2 D:6 Kizilay",
+    "sg:city":"Beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 8326",
+    "sg:postcode":"46810",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JfblTebI1LnWRl0vEKz1W_39.943874_32.856033@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068969,
+    "wof:geomhash":"acc452a4bf01c493c015e989462ca853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108678159
+        }
+    ],
+    "wof:id":1108678159,
+    "wof:lastmodified":1474068969,
+    "wof:name":"Turk. Zeka Vakfi",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8560333252,
+    39.9438743591,
+    32.8560333252,
+    39.9438743591
+],
+  "geometry": {"coordinates":[32.8560333252,39.9438743591],"type":"Point"}
+}

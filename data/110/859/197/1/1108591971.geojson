@@ -1,0 +1,69 @@
+{
+  "id": 1108591971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8819789886,41.0223350525,28.8819789886,41.0223350525",
+    "geom:latitude":41.022335,
+    "geom:longitude":28.881979,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah. Sancakli Cad. Gurbuz Sok. No:8/1",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212642108687",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929891,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gNRE0vJhhkIYkEsJIThIo_41.022335_28.881979@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065308,
+    "wof:geomhash":"3af1e93300f3de3b82ae914fa3b51c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":1108591971
+        }
+    ],
+    "wof:id":1108591971,
+    "wof:lastmodified":1474065308,
+    "wof:name":"Ensar Orme",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.8819789886,
+    41.0223350525,
+    28.8819789886,
+    41.0223350525
+],
+  "geometry": {"coordinates":[28.8819789886,41.0223350525],"type":"Point"}
+}

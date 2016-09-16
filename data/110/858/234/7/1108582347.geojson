@@ -1,0 +1,69 @@
+{
+  "id": 1108582347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8457145691,39.9434585571,32.8457145691,39.9434585571",
+    "geom:latitude":39.943459,
+    "geom:longitude":32.845715,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K. Karabekir Cd. No:105/4",
+    "sg:city":"Maslak",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 341 0300",
+    "sg:postcode":"34398",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929577,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AVWZGrqdrhZiQZlMgd9jP_39.943459_32.845715@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065070,
+    "wof:geomhash":"d32f2afdc7bf28586ea0a726acedc7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929577,
+            "region_id":85679409,
+            "venue_id":1108582347
+        }
+    ],
+    "wof:id":1108582347,
+    "wof:lastmodified":1474065070,
+    "wof:name":"?nder Otomotiv San. Tic. A.s.",
+    "wof:parent_id":85929577,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    32.8457145691,
+    39.9434585571,
+    32.8457145691,
+    39.9434585571
+],
+  "geometry": {"coordinates":[32.8457145691,39.9434585571],"type":"Point"}
+}

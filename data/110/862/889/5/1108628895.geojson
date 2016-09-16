@@ -1,0 +1,70 @@
+{
+  "id": 1108628895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1422595978,38.4252090454,27.1422595978,38.4252090454",
+    "geom:latitude":38.425209,
+    "geom:longitude":27.14226,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Gaziosmanpasa Bulv. Yeni Asir Ishani No: 3/c",
+    "sg:city":"Bakanliklar",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2324822425445",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "agency",
+        "tourism"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929657,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KFiNRGmrvhvtMQr1o9mwt_38.425209_27.142260@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066852,
+    "wof:geomhash":"90d1a9ccfa9937fad3be809169d695ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929657,
+            "region_id":85679201,
+            "venue_id":1108628895
+        }
+    ],
+    "wof:id":1108628895,
+    "wof:lastmodified":1474066852,
+    "wof:name":"Yeni Atilim Turizm",
+    "wof:parent_id":85929657,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "tourism"
+    ]
+},
+  "bbox": [
+    27.1422595978,
+    38.4252090454,
+    27.1422595978,
+    38.4252090454
+],
+  "geometry": {"coordinates":[27.1422595978,38.4252090454],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108664769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1401786804,41.0162849426,29.1401786804,41.0162849426",
+    "geom:latitude":41.016285,
+    "geom:longitude":29.140179,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nato Yolu Cd. No:8 Ihlamurkuyu",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 415 9921",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SPHOlCmWLqWjJD7D3Cgve_41.016285_29.140179@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068434,
+    "wof:geomhash":"3abf68cf69b3fb69253faebe2f906a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108664769
+        }
+    ],
+    "wof:id":1108664769,
+    "wof:lastmodified":1474068434,
+    "wof:name":"Mersa Yapi ?r?n. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1401786804,
+    41.0162849426,
+    29.1401786804,
+    41.0162849426
+],
+  "geometry": {"coordinates":[29.1401786804,41.0162849426],"type":"Point"}
+}

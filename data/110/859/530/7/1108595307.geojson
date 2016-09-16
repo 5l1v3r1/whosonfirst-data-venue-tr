@@ -1,0 +1,69 @@
+{
+  "id": 1108595307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9072761536,41.0234603882,28.9072761536,41.0234603882",
+    "geom:latitude":41.02346,
+    "geom:longitude":28.907276,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Davutpasa Cad.yildiz Sok.no:2/50",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 483 3936",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lathe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906455,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49RSBsA8BO65YHSB6snwU7_41.023460_28.907276@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065431,
+    "wof:geomhash":"4e6caf1d2f3e4420c7660dfc764e925e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906455,
+            "region_id":85679237,
+            "venue_id":1108595307
+        }
+    ],
+    "wof:id":1108595307,
+    "wof:lastmodified":1474065431,
+    "wof:name":"Pakna Plastik",
+    "wof:parent_id":85906455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lathe"
+    ]
+},
+  "bbox": [
+    28.9072761536,
+    41.0234603882,
+    28.9072761536,
+    41.0234603882
+],
+  "geometry": {"coordinates":[28.9072761536,41.0234603882],"type":"Point"}
+}

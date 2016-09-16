@@ -1,0 +1,73 @@
+{
+  "id": 1108592863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0139560699,41.0701828003,29.0139560699,41.0701828003",
+    "geom:latitude":41.070183,
+    "geom:longitude":29.013956,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istanbul Sehitleri Cad. Huzur Apt.no:16/1",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 507 1041",
+    "sg:postcode":"01980",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58JKg0JMotMgJv8IvcxVZP_41.070183_29.013956@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065338,
+    "wof:geomhash":"c69cc8d0f1911ef39f0d21491734b5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108592863
+        }
+    ],
+    "wof:id":1108592863,
+    "wof:lastmodified":1474065338,
+    "wof:name":"Bahcelievler Veteriner Klinigi",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    29.0139560699,
+    41.0701828003,
+    29.0139560699,
+    41.0701828003
+],
+  "geometry": {"coordinates":[29.0139560699,41.0701828003],"type":"Point"}
+}

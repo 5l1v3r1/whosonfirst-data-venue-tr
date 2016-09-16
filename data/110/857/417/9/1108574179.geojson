@@ -1,0 +1,73 @@
+{
+  "id": 1108574179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1643123627,40.9424858093,29.1643123627,40.9424858093",
+    "geom:latitude":40.942486,
+    "geom:longitude":29.164312,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esentepe Mah.kocatepe Cad.g-11 Sok.no:1",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 353 7883",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dFRpS084XuYBSgUiOwwSr_40.942486_29.164312@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064630,
+    "wof:geomhash":"137d5f595f8a656dd271cfd76ad1b90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":1108574179
+        }
+    ],
+    "wof:id":1108574179,
+    "wof:lastmodified":1474064630,
+    "wof:name":"Yeni Kartal Cam",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.1643123627,
+    40.9424858093,
+    29.1643123627,
+    40.9424858093
+],
+  "geometry": {"coordinates":[29.1643123627,40.9424858093],"type":"Point"}
+}

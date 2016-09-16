@@ -1,0 +1,68 @@
+{
+  "id": 1108615357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.9058418274,39.9560890198,32.9058418274,39.9560890198",
+    "geom:latitude":39.956089,
+    "geom:longitude":32.905842,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karacakaya Cad. No:105 Siteler",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 348 8501",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wwXTBe2go5IbTJsUDNWUp_39.956089_32.905842@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066286,
+    "wof:geomhash":"cab88c5aaf6f0afd42f46d9205bdc739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108615357
+        }
+    ],
+    "wof:id":1108615357,
+    "wof:lastmodified":1474066286,
+    "wof:name":"Firintas Mobilya A.s.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    32.9058418274,
+    39.9560890198,
+    32.9058418274,
+    39.9560890198
+],
+  "geometry": {"coordinates":[32.9058418274,39.9560890198],"type":"Point"}
+}

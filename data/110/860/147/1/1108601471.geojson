@@ -1,0 +1,75 @@
+{
+  "id": 1108601471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0285758972,41.0280761719,29.0285758972,41.0280761719",
+    "geom:latitude":41.028076,
+    "geom:longitude":29.028576,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Caddesi 71",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 225 0255",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929383,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CyC7TNDL11l3qTkmWtpmk_41.028076_29.028576@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065698,
+    "wof:geomhash":"f6444108bae0673a4718cdf91bf38b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929383,
+            "region_id":85679237,
+            "venue_id":1108601471
+        }
+    ],
+    "wof:id":1108601471,
+    "wof:lastmodified":1474065698,
+    "wof:name":"Iranair",
+    "wof:parent_id":85929383,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    29.0285758972,
+    41.0280761719,
+    29.0285758972,
+    41.0280761719
+],
+  "geometry": {"coordinates":[29.0285758972,41.0280761719],"type":"Point"}
+}

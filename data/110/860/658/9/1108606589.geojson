@@ -1,0 +1,71 @@
+{
+  "id": 1108606589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9119968414,41.0101470947,28.9119968414,41.0101470947",
+    "geom:latitude":41.010147,
+    "geom:longitude":28.911997,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Merkezefendi Mah. G.59 Sok. No:2",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 558 4062",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DPQhlIvbL39tbM1Rp6ZBK_41.010147_28.911997@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065917,
+    "wof:geomhash":"fd65ef148d3aeddb03c8aae52efe1717",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108606589
+        }
+    ],
+    "wof:id":1108606589,
+    "wof:lastmodified":1474065917,
+    "wof:name":"Ozcan Kofeksiyon",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9119968414,
+    41.0101470947,
+    28.9119968414,
+    41.0101470947
+],
+  "geometry": {"coordinates":[28.9119968414,41.0101470947],"type":"Point"}
+}

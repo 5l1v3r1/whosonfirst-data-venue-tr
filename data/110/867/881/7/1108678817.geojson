@@ -1,0 +1,64 @@
+{
+  "id": 1108678817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0041503906,41.0866737366,29.0041503906,41.0866737366",
+    "geom:latitude":41.086674,
+    "geom:longitude":29.00415,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Akarsu Cd. No:38",
+    "sg:city":"Cihangir",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 1477",
+    "sg:postcode":"13500",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XVdwEkkAdulF5kYCxO6aA_41.086674_29.004150@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068999,
+    "wof:geomhash":"e0e533cbb194316e50f9db3a90c37287",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108678817
+        }
+    ],
+    "wof:id":1108678817,
+    "wof:lastmodified":1474068999,
+    "wof:name":"Sark Ekspres Tasima. Grubu",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0041503906,
+    41.0866737366,
+    29.0041503906,
+    41.0866737366
+],
+  "geometry": {"coordinates":[29.0041503906,41.0866737366],"type":"Point"}
+}

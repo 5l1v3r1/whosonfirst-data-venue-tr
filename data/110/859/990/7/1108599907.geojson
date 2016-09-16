@@ -1,0 +1,82 @@
+{
+  "id": 1108599907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9714260101,41.0231246948,28.9714260101,41.0231246948",
+    "geom:latitude":41.023125,
+    "geom:longitude":28.971426,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tersane Cad. No:99",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 238 8350",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906587,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyXpEIbZJnVQfzZ2dCMOe_41.023125_28.971426@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065629,
+    "wof:geomhash":"df77ec43f517e2cd33492b5c82706f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906587,
+            "region_id":85679237,
+            "venue_id":1108599907
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906579,
+            "region_id":85679237,
+            "venue_id":1108599907
+        }
+    ],
+    "wof:id":1108599907,
+    "wof:lastmodified":1474065629,
+    "wof:name":"Emin Dis Tic.tarim Makinalari San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural"
+    ]
+},
+  "bbox": [
+    28.9714260101,
+    41.0231246948,
+    28.9714260101,
+    41.0231246948
+],
+  "geometry": {"coordinates":[28.9714260101,41.0231246948],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1108573411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.5139274597,39.7736625671,30.5139274597,39.7736625671",
+    "geom:latitude":39.773663,
+    "geom:longitude":30.513927,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Istiklal Mah Resadiye Sok No:44/a",
+    "sg:city":"Siteler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 230 6021",
+    "sg:postcode":"07070",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85934771,
+        102191569,
+        85632393,
+        101912871,
+        85679255,
+        85934767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sAi4ySRpLnXfxbndTbNlP_39.773663_30.513927@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064596,
+    "wof:geomhash":"50bcb1728f9dce89ddc6498da8531bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255,
+            "venue_id":1108573411
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255,
+            "venue_id":1108573411
+        }
+    ],
+    "wof:id":1108573411,
+    "wof:lastmodified":1474064596,
+    "wof:name":"Aydin Cam Ticaret",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    30.5139274597,
+    39.7736625671,
+    30.5139274597,
+    39.7736625671
+],
+  "geometry": {"coordinates":[30.5139274597,39.7736625671],"type":"Point"}
+}

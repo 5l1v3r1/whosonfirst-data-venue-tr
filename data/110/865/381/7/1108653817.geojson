@@ -1,0 +1,72 @@
+{
+  "id": 1108653817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9975948334,41.0700378418,28.9975948334,41.0700378418",
+    "geom:latitude":41.070038,
+    "geom:longitude":28.997595,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ak?m Sk. No:26 4.levent",
+    "sg:city":"34670",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 9016",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929455,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_739XZvvmzyFO5bwAJ3Nwoa_41.070038_28.997595@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068012,
+    "wof:geomhash":"a20b7d5340b07fdbb261a43d96979273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929455,
+            "region_id":85679237,
+            "venue_id":1108653817
+        }
+    ],
+    "wof:id":1108653817,
+    "wof:lastmodified":1474068012,
+    "wof:name":"Primer Dis Tic. Metal San. A.s.",
+    "wof:parent_id":85929455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9975948334,
+    41.0700378418,
+    28.9975948334,
+    41.0700378418
+],
+  "geometry": {"coordinates":[28.9975948334,41.0700378418],"type":"Point"}
+}

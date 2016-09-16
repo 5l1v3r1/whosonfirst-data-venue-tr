@@ -1,0 +1,72 @@
+{
+  "id": 1108573435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1261730194,40.9288673401,29.1261730194,40.9288673401",
+    "geom:latitude":40.928867,
+    "geom:longitude":29.126173,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cad.sider Sok. No:6",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 352 7400",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T2DdcGVyGcPmGKkAttXJv_40.928867_29.126173@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064597,
+    "wof:geomhash":"9af065a0a15bf176b3816da3fccf683d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":1108573435
+        }
+    ],
+    "wof:id":1108573435,
+    "wof:lastmodified":1474064597,
+    "wof:name":"Bayhan Cam Insaat",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.1261730194,
+    40.9288673401,
+    29.1261730194,
+    40.9288673401
+],
+  "geometry": {"coordinates":[29.1261730194,40.9288673401],"type":"Point"}
+}

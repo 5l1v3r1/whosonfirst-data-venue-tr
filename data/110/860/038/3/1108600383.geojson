@@ -1,0 +1,71 @@
+{
+  "id": 1108600383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3352775574,36.9861106873,35.3352775574,36.9861106873",
+    "geom:latitude":36.986111,
+    "geom:longitude":35.335278,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yavuzlar Mh. No.256",
+    "sg:city":"Urgup",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 351 0422",
+    "sg:postcode":"50350",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XW6nasp2CJOOx3h2f0ulO_36.986111_35.335278@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065652,
+    "wof:geomhash":"29c6a049818e748304029726a9654a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108600383
+        }
+    ],
+    "wof:id":1108600383,
+    "wof:lastmodified":1474065652,
+    "wof:name":"Aktan Tarim ?rnl. Ltd.sti.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    35.3352775574,
+    36.9861106873,
+    35.3352775574,
+    36.9861106873
+],
+  "geometry": {"coordinates":[35.3352775574,36.9861106873],"type":"Point"}
+}

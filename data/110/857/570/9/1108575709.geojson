@@ -1,0 +1,73 @@
+{
+  "id": 1108575709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1019611359,41.0937652588,29.1019611359,41.0937652588",
+    "geom:latitude":41.093765,
+    "geom:longitude":29.101961,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cumhuriyet Cad. No:131/1",
+    "sg:city":"Elmadag",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21223022722",
+    "sg:postcode":"65900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930211,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n6Tj9nw6eI2yLz8gspLYf_41.093765_29.101961@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064689,
+    "wof:geomhash":"d88de3d7981576096714a616a315b0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930211,
+            "region_id":85679237,
+            "venue_id":1108575709
+        }
+    ],
+    "wof:id":1108575709,
+    "wof:lastmodified":1474064689,
+    "wof:name":"Plan Tur",
+    "wof:parent_id":85930211,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.1019611359,
+    41.0937652588,
+    29.1019611359,
+    41.0937652588
+],
+  "geometry": {"coordinates":[29.1019611359,41.0937652588],"type":"Point"}
+}

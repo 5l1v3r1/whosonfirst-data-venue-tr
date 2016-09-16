@@ -1,0 +1,75 @@
+{
+  "id": 1108602465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1013908386,41.1130485535,29.1013908386,41.1130485535",
+    "geom:latitude":41.113049,
+    "geom:longitude":29.101391,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Mh. Su Yolu ?z. No:9",
+    "sg:city":"Esenyurt",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 620 1715",
+    "sg:postcode":"07800",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930037,
+        102191569,
+        85632393,
+        101912645,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mFnyacTwqwvtfqn2K2LG8_41.113049_29.101391@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065734,
+    "wof:geomhash":"10e27e437b2db9bf4bc29b9713463d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912645,
+            "neighbourhood_id":85930037,
+            "region_id":85679237,
+            "venue_id":1108602465
+        }
+    ],
+    "wof:id":1108602465,
+    "wof:lastmodified":1474065734,
+    "wof:name":"Petniz Isi San.",
+    "wof:parent_id":85930037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    29.1013908386,
+    41.1130485535,
+    29.1013908386,
+    41.1130485535
+],
+  "geometry": {"coordinates":[29.1013908386,41.1130485535],"type":"Point"}
+}

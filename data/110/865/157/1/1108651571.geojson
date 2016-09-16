@@ -1,0 +1,68 @@
+{
+  "id": 1108651571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8788490295,39.9337348938,32.8788490295,39.9337348938",
+    "geom:latitude":39.933735,
+    "geom:longitude":32.878849,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Bulvari 113/19 Cebeci",
+    "sg:city":"Fomara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 310 0073",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934667,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yjcDIgTKGDZGXo3jRRq7b_39.933735_32.878849@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067906,
+    "wof:geomhash":"5c6652427ccf070af3a324b281a061eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934667,
+            "region_id":85679409,
+            "venue_id":1108651571
+        }
+    ],
+    "wof:id":1108651571,
+    "wof:lastmodified":1474067906,
+    "wof:name":"Opak Medikal",
+    "wof:parent_id":85934667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8788490295,
+    39.9337348938,
+    32.8788490295,
+    39.9337348938
+],
+  "geometry": {"coordinates":[32.8788490295,39.9337348938],"type":"Point"}
+}

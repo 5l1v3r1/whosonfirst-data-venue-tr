@@ -1,0 +1,72 @@
+{
+  "id": 1108652055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.087726593,40.9811820984,29.087726593,40.9811820984",
+    "geom:latitude":40.981182,
+    "geom:longitude":29.087727,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Serasker Cad. Serasker Han No:53 Kat:2 D:13 Kadikoy",
+    "sg:city":"K???k?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 449 4366",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929973,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vdt610N5va9XQLYEQiqN8_40.981182_29.087727@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067928,
+    "wof:geomhash":"fbf08ee776cdbe643a95bf549f247234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85929973,
+            "region_id":85679237,
+            "venue_id":1108652055
+        }
+    ],
+    "wof:id":1108652055,
+    "wof:lastmodified":1474067928,
+    "wof:name":"Yeditepe Medikal",
+    "wof:parent_id":85929973,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.087726593,
+    40.9811820984,
+    29.087726593,
+    40.9811820984
+],
+  "geometry": {"coordinates":[29.087726593,40.9811820984],"type":"Point"}
+}

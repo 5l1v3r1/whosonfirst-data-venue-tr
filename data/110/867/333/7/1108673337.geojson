@@ -1,0 +1,73 @@
+{
+  "id": 1108673337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0658988953,40.9740028381,29.0658988953,40.9740028381",
+    "geom:latitude":40.974003,
+    "geom:longitude":29.065899,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G?sel Mh. 28 Nisan Cd. No:37/a",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 220 4244",
+    "sg:postcode":"65710",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930279,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y9RXWDLFhoqbL8BCOt1nC_40.974003_29.065899@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068778,
+    "wof:geomhash":"d4baa17a96536b6d22dfd346d9bbb1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930279,
+            "region_id":85679237,
+            "venue_id":1108673337
+        }
+    ],
+    "wof:id":1108673337,
+    "wof:lastmodified":1474068778,
+    "wof:name":"Reni ?i?ek?ilik",
+    "wof:parent_id":85930279,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0658988953,
+    40.9740028381,
+    29.0658988953,
+    40.9740028381
+],
+  "geometry": {"coordinates":[29.0658988953,40.9740028381],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108651557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.987903595,41.0586929321,28.987903595,41.0586929321",
+    "geom:latitude":41.058693,
+    "geom:longitude":28.987904,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kocamansur Sk. Furgiz Ism. D:13 Sisli",
+    "sg:city":"Fomara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 230 8706",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_057IrpU3BvTQS1aoEbpwMz_41.058693_28.987904@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067905,
+    "wof:geomhash":"bfd135ea6e94fbe3c425da3269c1073e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108651557
+        }
+    ],
+    "wof:id":1108651557,
+    "wof:lastmodified":1474067905,
+    "wof:name":"Odiomed Tibbi Cih. Tic.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.987903595,
+    41.0586929321,
+    28.987903595,
+    41.0586929321
+],
+  "geometry": {"coordinates":[28.987903595,41.0586929321],"type":"Point"}
+}

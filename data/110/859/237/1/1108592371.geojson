@@ -1,0 +1,68 @@
+{
+  "id": 1108592371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9090633392,40.9917526245,28.9090633392,40.9917526245",
+    "geom:latitude":40.991753,
+    "geom:longitude":28.909063,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Telsiz Mah. 104.sok. No:39",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 547 2597",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0za3VLNvDs1UCmaInDZdzg_40.991753_28.909063@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065321,
+    "wof:geomhash":"7cea2a5fe017afa20674dbc8272e2d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108592371
+        }
+    ],
+    "wof:id":1108592371,
+    "wof:lastmodified":1474065321,
+    "wof:name":"Yagmur Tekstil",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.9090633392,
+    40.9917526245,
+    28.9090633392,
+    40.9917526245
+],
+  "geometry": {"coordinates":[28.9090633392,40.9917526245],"type":"Point"}
+}

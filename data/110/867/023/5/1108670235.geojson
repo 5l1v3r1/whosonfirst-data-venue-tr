@@ -1,0 +1,71 @@
+{
+  "id": 1108670235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1558055878,38.4319000244,27.1558055878,38.4319000244",
+    "geom:latitude":38.4319,
+    "geom:longitude":27.155806,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1517 Sk. No.75",
+    "sg:city":"Kahramanlar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 421 5522",
+    "sg:postcode":"25700",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "feed",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929637,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vZUYnTtYP1X4xm0fEDCAg_38.431900_27.155806@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068651,
+    "wof:geomhash":"0307b671112937b528d080c1efb7449c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929637,
+            "region_id":85679201,
+            "venue_id":1108670235
+        }
+    ],
+    "wof:id":1108670235,
+    "wof:lastmodified":1474068651,
+    "wof:name":"Pasaoglu Yem Gida San. A.s.",
+    "wof:parent_id":85929637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1558055878,
+    38.4319000244,
+    27.1558055878,
+    38.4319000244
+],
+  "geometry": {"coordinates":[27.1558055878,38.4319000244],"type":"Point"}
+}

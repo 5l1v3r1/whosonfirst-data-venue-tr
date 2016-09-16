@@ -1,0 +1,68 @@
+{
+  "id": 1108676797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3137359619,37.0007171631,35.3137359619,37.0007171631",
+    "geom:latitude":37.000717,
+    "geom:longitude":35.313736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ceyhan Yolu Keresteciler Sitesi 1035/107 Sk. No:14 Y?egir",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 346 4224",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bn2d4uNIs3Op64ZWpvtoO_37.000717_35.313736@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068919,
+    "wof:geomhash":"be1dc0b309ae7cabc26bf816a8deeda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108676797
+        }
+    ],
+    "wof:id":1108676797,
+    "wof:lastmodified":1474068919,
+    "wof:name":"Kaynaklar Orman ?r?leri Ins.demir San. Ve Tic.ltd.sti.",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    35.3137359619,
+    37.0007171631,
+    35.3137359619,
+    37.0007171631
+],
+  "geometry": {"coordinates":[35.3137359619,37.0007171631],"type":"Point"}
+}

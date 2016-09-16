@@ -1,0 +1,75 @@
+{
+  "id": 1108567579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8167419434,39.9059181213,32.8167419434,39.9059181213",
+    "geom:latitude":39.905918,
+    "geom:longitude":32.816742,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ceyhun Atif Kansu Cad. No:26/6 Balgat",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 285 9355",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929601,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6VuHZMU2psLeLAk11wf7_39.905918_32.816742@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064359,
+    "wof:geomhash":"ad99fc4c7af1c3f2fa06380aaf924e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85929601,
+            "region_id":85679409,
+            "venue_id":1108567579
+        }
+    ],
+    "wof:id":1108567579,
+    "wof:lastmodified":1474064359,
+    "wof:name":"Guralp Vinc & Makina Kons. San.tic. Ltd.sti.",
+    "wof:parent_id":85929601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8167419434,
+    39.9059181213,
+    32.8167419434,
+    39.9059181213
+],
+  "geometry": {"coordinates":[32.8167419434,39.9059181213],"type":"Point"}
+}

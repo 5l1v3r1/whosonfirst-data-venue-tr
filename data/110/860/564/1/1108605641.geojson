@@ -1,0 +1,69 @@
+{
+  "id": 1108605641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7065505981,40.9830055237,28.7065505981,40.9830055237",
+    "geom:latitude":40.983006,
+    "geom:longitude":28.706551,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"G.osmanpasa Cad.no.23/b",
+    "sg:city":"Gungoren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 539 8773",
+    "sg:postcode":"33630",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HuuPyjBPyGLnJR1c7xBzU_40.983006_28.706551@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065869,
+    "wof:geomhash":"15071fd8cf36825aad062e59f7867a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930285,
+            "venue_id":1108605641
+        }
+    ],
+    "wof:id":1108605641,
+    "wof:lastmodified":1474065869,
+    "wof:name":"Faym Tekstil San.tic.ltd.sti.",
+    "wof:parent_id":85930285,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.7065505981,
+    40.9830055237,
+    28.7065505981,
+    40.9830055237
+],
+  "geometry": {"coordinates":[28.7065505981,40.9830055237],"type":"Point"}
+}

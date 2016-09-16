@@ -1,0 +1,69 @@
+{
+  "id": 1108592933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2207355499,38.467830658,27.2207355499,38.467830658",
+    "geom:latitude":38.467831,
+    "geom:longitude":27.220736,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Sok.no:6",
+    "sg:city":"Bornova",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 388 3842",
+    "sg:postcode":"35040",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HgPWXUrWICVjMxab4jr96_38.467831_27.220736@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065340,
+    "wof:geomhash":"2e6ae1bb5a3f5c6a0b358b5681f9a192",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108592933
+        }
+    ],
+    "wof:id":1108592933,
+    "wof:lastmodified":1474065340,
+    "wof:name":"Egevet Hayvancilik Ve Ticaret Ltd.",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    27.2207355499,
+    38.467830658,
+    27.2207355499,
+    38.467830658
+],
+  "geometry": {"coordinates":[27.2207355499,38.467830658],"type":"Point"}
+}

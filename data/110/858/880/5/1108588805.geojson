@@ -1,0 +1,71 @@
+{
+  "id": 1108588805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8596229553,39.9219551086,32.8596229553,39.9219551086",
+    "geom:latitude":39.921955,
+    "geom:longitude":32.859623,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ziya Gokalp Cad. 30/1-2",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 0512",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YX4f2UWqH7abAMDKUQYYr_39.921955_32.859623@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065223,
+    "wof:geomhash":"960e4a254f6da4f6b30b73d876202742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108588805
+        }
+    ],
+    "wof:id":1108588805,
+    "wof:lastmodified":1474065223,
+    "wof:name":"Parantez",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    32.8596229553,
+    39.9219551086,
+    32.8596229553,
+    39.9219551086
+],
+  "geometry": {"coordinates":[32.8596229553,39.9219551086],"type":"Point"}
+}

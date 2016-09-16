@@ -1,0 +1,66 @@
+{
+  "id": 1108672825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9367313385,41.0076065063,28.9367313385,41.0076065063",
+    "geom:latitude":41.007607,
+    "geom:longitude":28.936731,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kizilelma Cd. No:60",
+    "sg:city":"Findikzade",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 586 4708",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NzbK8zVjeDWtwKPqqy92j_41.007607_28.936731@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068755,
+    "wof:geomhash":"fa8cc5f80c8ddd13eb3f570082b0b401",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108672825
+        }
+    ],
+    "wof:id":1108672825,
+    "wof:lastmodified":1474068755,
+    "wof:name":"Bilici ?i?ek Evleri",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9367313385,
+    41.0076065063,
+    28.9367313385,
+    41.0076065063
+],
+  "geometry": {"coordinates":[28.9367313385,41.0076065063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108568769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1296863556,38.4186973572,27.1296863556,38.4186973572",
+    "geom:latitude":38.418697,
+    "geom:longitude":27.129686,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saim ?ikrik? Cad.no:85",
+    "sg:city":"Kisikk?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 2322576008257",
+    "sg:postcode":"35476",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904135,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x970IxDxE8DTNxdcaD1iW_38.418697_27.129686@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064406,
+    "wof:geomhash":"3bf43c6415f50d7e68805afa2fa9a77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904135,
+            "region_id":85679201,
+            "venue_id":1108568769
+        }
+    ],
+    "wof:id":1108568769,
+    "wof:lastmodified":1474064406,
+    "wof:name":"Or-ay Turkuaz Mak.san.tic.ltd.sti",
+    "wof:parent_id":85904135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    27.1296863556,
+    38.4186973572,
+    27.1296863556,
+    38.4186973572
+],
+  "geometry": {"coordinates":[27.1296863556,38.4186973572],"type":"Point"}
+}

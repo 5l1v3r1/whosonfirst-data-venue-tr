@@ -1,0 +1,71 @@
+{
+  "id": 1108568319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0021953583,41.0967903137,29.0021953583,41.0967903137",
+    "geom:latitude":41.09679,
+    "geom:longitude":29.002195,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Demirbas Sk. No.26, 4.levent",
+    "sg:city":"Karakoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 4293",
+    "sg:postcode":"07700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930127,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WHjAphWBQNSLrw7bwZAoN_41.096790_29.002195@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064386,
+    "wof:geomhash":"045677066bc2f24adb047cf1e61e523e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930127,
+            "region_id":85679237,
+            "venue_id":1108568319
+        }
+    ],
+    "wof:id":1108568319,
+    "wof:lastmodified":1474064386,
+    "wof:name":"Levent Makina",
+    "wof:parent_id":85930127,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0021953583,
+    41.0967903137,
+    29.0021953583,
+    41.0967903137
+],
+  "geometry": {"coordinates":[29.0021953583,41.0967903137],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108665797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9833946228,41.0604133606,28.9833946228,41.0604133606",
+    "geom:latitude":41.060413,
+    "geom:longitude":28.983395,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kazim Orbay Cd. No:92 Sisli",
+    "sg:city":"Bostanci",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 246 0980",
+    "sg:postcode":"25900",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929403,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43fKIa77uJ2oy5EV56qskB_41.060413_28.983395@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068478,
+    "wof:geomhash":"079ad4c28f5453fd4e1003b31bc59c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237,
+            "venue_id":1108665797
+        }
+    ],
+    "wof:id":1108665797,
+    "wof:lastmodified":1474068478,
+    "wof:name":"Pan? Elektronik San. Tic. A.s.",
+    "wof:parent_id":85929403,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    28.9833946228,
+    41.0604133606,
+    28.9833946228,
+    41.0604133606
+],
+  "geometry": {"coordinates":[28.9833946228,41.0604133606],"type":"Point"}
+}

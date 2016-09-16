@@ -1,0 +1,75 @@
+{
+  "id": 1108671689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.045124054,40.9824943542,29.045124054,40.9824943542",
+    "geom:latitude":40.982494,
+    "geom:longitude":29.045124,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Recep Peker Cad. No:42/k Kiziltoprak/kadikoy",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 4066",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929437,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kMGCWpZbJ9I1bR6UFnh96_40.982494_29.045124@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068707,
+    "wof:geomhash":"0527d4e9a8c60c518fbf057b6a3afc8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929437,
+            "region_id":85679237,
+            "venue_id":1108671689
+        }
+    ],
+    "wof:id":1108671689,
+    "wof:lastmodified":1474068707,
+    "wof:name":"Abc Yangindan Koruma Ve Kurtarma Sis. San. Dis Tic.ltd.sti.",
+    "wof:parent_id":85929437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    29.045124054,
+    40.9824943542,
+    29.045124054,
+    40.9824943542
+],
+  "geometry": {"coordinates":[29.045124054,40.9824943542],"type":"Point"}
+}

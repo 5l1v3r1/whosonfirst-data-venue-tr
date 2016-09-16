@@ -1,0 +1,68 @@
+{
+  "id": 1108676807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.890171051,39.9594421387,32.890171051,39.9594421387",
+    "geom:latitude":39.959442,
+    "geom:longitude":32.890171,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sirma Sk. No:4 Siteler",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 349 1489",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904155,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PeV37VWpJ7imlS4yBJRcw_39.959442_32.890171@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068919,
+    "wof:geomhash":"83a51c72707077ece7ec80e16e2c6377",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904155,
+            "region_id":85679409,
+            "venue_id":1108676807
+        }
+    ],
+    "wof:id":1108676807,
+    "wof:lastmodified":1474068919,
+    "wof:name":"Ke?beyoglu Orman ?r?n.",
+    "wof:parent_id":85904155,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    32.890171051,
+    39.9594421387,
+    32.890171051,
+    39.9594421387
+],
+  "geometry": {"coordinates":[32.890171051,39.9594421387],"type":"Point"}
+}

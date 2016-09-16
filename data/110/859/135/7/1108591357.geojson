@@ -1,0 +1,80 @@
+{
+  "id": 1108591357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9706287384,41.0241241455,28.9706287384,41.0241241455",
+    "geom:latitude":41.024124,
+    "geom:longitude":28.970629,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 N?hetiye Cd. No:21 Besiktas",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 259 7286",
+    "sg:postcode":"41400",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "wardrobe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906587,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jeb36EtmHeapNnBTe57pP_41.024124_28.970629@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065286,
+    "wof:geomhash":"9af65831e6b98d420cf188cb3ffbdfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906587,
+            "region_id":85679237,
+            "venue_id":1108591357
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906589,
+            "region_id":85679237,
+            "venue_id":1108591357
+        }
+    ],
+    "wof:id":1108591357,
+    "wof:lastmodified":1474065286,
+    "wof:name":"Yapi Mobilya",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wardrobe"
+    ]
+},
+  "bbox": [
+    28.9706287384,
+    41.0241241455,
+    28.9706287384,
+    41.0241241455
+],
+  "geometry": {"coordinates":[28.9706287384,41.0241241455],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1108640267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8584594727,39.9201202393,32.8584594727,39.9201202393",
+    "geom:latitude":39.92012,
+    "geom:longitude":32.858459,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mesrutiyet Cd. Hatay Sk. No:23 D:8 Kocatepe",
+    "sg:city":"Ke??en",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 425 4189",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pux9LhmzCLKT8WTAwlRWb_39.920120_32.858459@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067435,
+    "wof:geomhash":"beec0779ffa343eba174d7c0e19780a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108640267
+        }
+    ],
+    "wof:id":1108640267,
+    "wof:lastmodified":1474067435,
+    "wof:name":"Saglik Gerec. Uret. Temsil. Dernegi",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8584594727,
+    39.9201202393,
+    32.8584594727,
+    39.9201202393
+],
+  "geometry": {"coordinates":[32.8584594727,39.9201202393],"type":"Point"}
+}

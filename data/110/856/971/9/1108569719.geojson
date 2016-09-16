@@ -1,0 +1,75 @@
+{
+  "id": 1108569719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0061817169,41.0452957153,29.0061817169,41.0452957153",
+    "geom:latitude":41.045296,
+    "geom:longitude":29.006182,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulv. Akdogan Sk. No:25/1 Besiktas",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 258 9195",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906569,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZH48xEIz2OsjbjmPecXv1_41.045296_29.006182@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064443,
+    "wof:geomhash":"32a2a2cb6dde250192ab247e2ecfe412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85906569,
+            "region_id":85679237,
+            "venue_id":1108569719
+        }
+    ],
+    "wof:id":1108569719,
+    "wof:lastmodified":1474064443,
+    "wof:name":"Uzer Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906569,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0061817169,
+    41.0452957153,
+    29.0061817169,
+    41.0452957153
+],
+  "geometry": {"coordinates":[29.0061817169,41.0452957153],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108675951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1653404236,40.9097938538,29.1653404236,40.9097938538",
+    "geom:latitude":40.909794,
+    "geom:longitude":29.16534,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bankalar Cad. 31/33, Karak? L",
+    "sg:city":"Boyobat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 293 4227",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vmelmM784M4qMKj06ZXyW_40.909794_29.165340@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068890,
+    "wof:geomhash":"64e7684d3bb5d444d242bc210deba2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108675951
+        }
+    ],
+    "wof:id":1108675951,
+    "wof:lastmodified":1474068890,
+    "wof:name":"Brezilya",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    29.1653404236,
+    40.9097938538,
+    29.1653404236,
+    40.9097938538
+],
+  "geometry": {"coordinates":[29.1653404236,40.9097938538],"type":"Point"}
+}

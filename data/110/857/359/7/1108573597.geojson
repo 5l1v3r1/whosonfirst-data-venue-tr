@@ -1,0 +1,69 @@
+{
+  "id": 1108573597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2001037598,38.4419021606,27.2001037598,38.4419021606",
+    "geom:latitude":38.441902,
+    "geom:longitude":27.200104,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 Sok. No:21-",
+    "sg:city":"Altindag",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 458 9163",
+    "sg:postcode":"07050",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZQcZDe6Ez9XtW1TmZxc0t_38.441902_27.200104@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064608,
+    "wof:geomhash":"93c13d9505961e257e0c50e64e549240",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108573597
+        }
+    ],
+    "wof:id":1108573597,
+    "wof:lastmodified":1474064608,
+    "wof:name":"Desina Cam",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    27.2001037598,
+    38.4419021606,
+    27.2001037598,
+    38.4419021606
+],
+  "geometry": {"coordinates":[27.2001037598,38.4419021606],"type":"Point"}
+}

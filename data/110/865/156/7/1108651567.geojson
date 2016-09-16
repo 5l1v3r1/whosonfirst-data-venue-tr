@@ -1,0 +1,68 @@
+{
+  "id": 1108651567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8753013611,39.9106330872,32.8753013611,39.9106330872",
+    "geom:latitude":39.910633,
+    "geom:longitude":32.875301,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A.adnan Saygun Cad. No:4/8 Sihhiye",
+    "sg:city":"Fomara",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 1533",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1srycBid2Pbnj4L6K8iz4w_39.910633_32.875301@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067906,
+    "wof:geomhash":"ce8f352c28aac41fc81bb742a7c23f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108651567
+        }
+    ],
+    "wof:id":1108651567,
+    "wof:lastmodified":1474067906,
+    "wof:name":"Onay Medikal Tic. Ltd. Sti.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    32.8753013611,
+    39.9106330872,
+    32.8753013611,
+    39.9106330872
+],
+  "geometry": {"coordinates":[32.8753013611,39.9106330872],"type":"Point"}
+}

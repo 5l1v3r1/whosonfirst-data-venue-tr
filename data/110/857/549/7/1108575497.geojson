@@ -1,0 +1,72 @@
+{
+  "id": 1108575497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0335674286,41.0528144836,29.0335674286,41.0528144836",
+    "geom:latitude":41.052814,
+    "geom:longitude":29.033567,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Muallim Naci Cad. No:142",
+    "sg:city":"Ortak?",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21226593072",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904149,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QhjWHOjsIeUSEd1toUuZq_41.052814_29.033567@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064681,
+    "wof:geomhash":"21aae284b1fb5f024fe0d6021fa16909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904149,
+            "region_id":85679237,
+            "venue_id":1108575497
+        }
+    ],
+    "wof:id":1108575497,
+    "wof:lastmodified":1474064681,
+    "wof:name":"Care Tourism",
+    "wof:parent_id":85904149,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.0335674286,
+    41.0528144836,
+    29.0335674286,
+    41.0528144836
+],
+  "geometry": {"coordinates":[29.0335674286,41.0528144836],"type":"Point"}
+}

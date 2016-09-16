@@ -1,0 +1,75 @@
+{
+  "id": 1108597123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9853496552,41.0583534241,28.9853496552,41.0583534241",
+    "geom:latitude":41.058353,
+    "geom:longitude":28.98535,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"O.cebeci Sk. No.15/17 Sisli",
+    "sg:city":"Zeytinburnu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 231 0646",
+    "sg:postcode":"41000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_313vLbDF7DDGIVXfVCzky2_41.058353_28.985350@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065517,
+    "wof:geomhash":"221a83a384f17accc90ae2f8c26913ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108597123
+        }
+    ],
+    "wof:id":1108597123,
+    "wof:lastmodified":1474065517,
+    "wof:name":"S?et Pazlama Tic. A.s.",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9853496552,
+    41.0583534241,
+    28.9853496552,
+    41.0583534241
+],
+  "geometry": {"coordinates":[28.9853496552,41.0583534241],"type":"Point"}
+}

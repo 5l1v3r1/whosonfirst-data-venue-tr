@@ -1,0 +1,70 @@
+{
+  "id": 1108598983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1387844086,40.9864578247,29.1387844086,40.9864578247",
+    "geom:latitude":40.986458,
+    "geom:longitude":29.138784,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A. Dudullu Alemdag Cd. No:19",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 3938",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930135,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34av3OZgPXiUvbXQQqE6ho_40.986458_29.138784@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065589,
+    "wof:geomhash":"e476f5c0db0bb538f577986131100779",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930135,
+            "region_id":85679237,
+            "venue_id":1108598983
+        }
+    ],
+    "wof:id":1108598983,
+    "wof:lastmodified":1474065589,
+    "wof:name":"G?rb?z Elektrik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930135,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.1387844086,
+    40.9864578247,
+    29.1387844086,
+    40.9864578247
+],
+  "geometry": {"coordinates":[29.1387844086,40.9864578247],"type":"Point"}
+}

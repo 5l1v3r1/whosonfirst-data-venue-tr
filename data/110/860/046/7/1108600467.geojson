@@ -1,0 +1,71 @@
+{
+  "id": 1108600467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9073085785,41.0244255066,28.9073085785,41.0244255066",
+    "geom:latitude":41.024426,
+    "geom:longitude":28.907309,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kucuk Langa Cad. Yildiz Apt.no:45/3",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 529 4676",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "agricultural",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906455,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fBD4jzssx6owdhiALlGr8_41.024426_28.907309@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065655,
+    "wof:geomhash":"1746a6fe5a8d8620f71df8b85abcfb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906455,
+            "region_id":85679237,
+            "venue_id":1108600467
+        }
+    ],
+    "wof:id":1108600467,
+    "wof:lastmodified":1474065655,
+    "wof:name":"Atila Dis Tic.san.ltd.sti.",
+    "wof:parent_id":85906455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "product"
+    ]
+},
+  "bbox": [
+    28.9073085785,
+    41.0244255066,
+    28.9073085785,
+    41.0244255066
+],
+  "geometry": {"coordinates":[28.9073085785,41.0244255066],"type":"Point"}
+}

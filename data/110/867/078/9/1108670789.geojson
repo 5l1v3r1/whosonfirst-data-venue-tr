@@ -1,0 +1,75 @@
+{
+  "id": 1108670789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1086826324,41.0364685059,29.1086826324,41.0364685059",
+    "geom:latitude":41.036469,
+    "geom:longitude":29.108683,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Inkilap Mah.cumhuriyet Cad.no:9 Umraniye",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 521 2405",
+    "sg:postcode":"36100",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "filter",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930015,
+        102191569,
+        85632393,
+        101912647,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F7KVn885xB9q8C1g4qWPL_41.036469_29.108683@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068675,
+    "wof:geomhash":"3397efa58577102044c035c2fc8f211f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912647,
+            "neighbourhood_id":85930015,
+            "region_id":85679237,
+            "venue_id":1108670789
+        }
+    ],
+    "wof:id":1108670789,
+    "wof:lastmodified":1474068675,
+    "wof:name":"Akan Otomotiv (mann Filter)",
+    "wof:parent_id":85930015,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1086826324,
+    41.0364685059,
+    29.1086826324,
+    41.0364685059
+],
+  "geometry": {"coordinates":[29.1086826324,41.0364685059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108566097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.4990272522,37.8715362549,32.4990272522,37.8715362549",
+    "geom:latitude":37.871536,
+    "geom:longitude":32.499027,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi ?arsisi G?d? Sok. No:18",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 233 2174",
+    "sg:postcode":"81260",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IAsSQ5Ewl5chymTuQk7h3_37.871536_32.499027@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064283,
+    "wof:geomhash":"6a13cb02e1898ae6323e9760394bae70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108566097
+        }
+    ],
+    "wof:id":1108566097,
+    "wof:lastmodified":1474064283,
+    "wof:name":"Akdogan Konvey?r Bant Sanayi",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.4990272522,
+    37.8715362549,
+    32.4990272522,
+    37.8715362549
+],
+  "geometry": {"coordinates":[32.4990272522,37.8715362549],"type":"Point"}
+}

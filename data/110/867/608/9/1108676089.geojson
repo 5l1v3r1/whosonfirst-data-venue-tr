@@ -1,0 +1,73 @@
+{
+  "id": 1108676089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9962329865,41.0516319275,28.9962329865,41.0516319275",
+    "geom:latitude":41.051632,
+    "geom:longitude":28.996233,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Poyracik Sok. No:35 Tesvikiye",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212225550119",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uCUl51Ri9ANwiTm2zDsk9_41.051632_28.996233@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068895,
+    "wof:geomhash":"45638743de55146a5e54ed6d1199891c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":1108676089
+        }
+    ],
+    "wof:id":1108676089,
+    "wof:lastmodified":1474068895,
+    "wof:name":"Macaristan",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9962329865,
+    41.0516319275,
+    28.9962329865,
+    41.0516319275
+],
+  "geometry": {"coordinates":[28.9962329865,41.0516319275],"type":"Point"}
+}

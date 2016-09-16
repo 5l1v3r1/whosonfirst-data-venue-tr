@@ -1,0 +1,76 @@
+{
+  "id": 1108658131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9428749084,41.0283355713,28.9428749084,41.0283355713",
+    "geom:latitude":41.028336,
+    "geom:longitude":28.942875,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Servet Turgut",
+    "sg:city":"Manavgat",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 382 243 2004",
+    "sg:postcode":"07600",
+    "sg:province":"Aksaray",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906459,
+        85679237,
+        85906523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_366SvieaetBAanRqKoWuBI_41.028336_28.942875@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068177,
+    "wof:geomhash":"f1c43355f1024040e51c694a97d0e4ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906459,
+            "region_id":85679237,
+            "venue_id":1108658131
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906523,
+            "region_id":85679237,
+            "venue_id":1108658131
+        }
+    ],
+    "wof:id":1108658131,
+    "wof:lastmodified":1474068177,
+    "wof:name":"Incesu Belediye Baskani",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    28.9428749084,
+    41.0283355713,
+    28.9428749084,
+    41.0283355713
+],
+  "geometry": {"coordinates":[28.9428749084,41.0283355713],"type":"Point"}
+}

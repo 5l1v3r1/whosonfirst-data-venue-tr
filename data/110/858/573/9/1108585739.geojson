@@ -1,0 +1,71 @@
+{
+  "id": 1108585739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9700107574,41.0070381165,28.9700107574,41.0070381165",
+    "geom:latitude":41.007038,
+    "geom:longitude":28.970011,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cad. K?emen Sok. No:16",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 292 4994",
+    "sg:postcode":"34425",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "waste",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906497,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Lv8prCwlJsM5AyWrNtj3_41.007038_28.970011@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065151,
+    "wof:geomhash":"6faedf44b362c89e4c4215de5b4f1f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906497,
+            "region_id":85679237,
+            "venue_id":1108585739
+        }
+    ],
+    "wof:id":1108585739,
+    "wof:lastmodified":1474065151,
+    "wof:name":"Mir Grup Su Aritma Ins. Ve Gida San. Tic. Ltd. Sti",
+    "wof:parent_id":85906497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "treatment"
+    ]
+},
+  "bbox": [
+    28.9700107574,
+    41.0070381165,
+    28.9700107574,
+    41.0070381165
+],
+  "geometry": {"coordinates":[28.9700107574,41.0070381165],"type":"Point"}
+}

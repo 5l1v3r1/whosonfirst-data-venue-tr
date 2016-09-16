@@ -1,0 +1,67 @@
+{
+  "id": 1108651463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9508495331,41.01720047,28.9508495331,41.01720047",
+    "geom:latitude":41.0172,
+    "geom:longitude":28.95085,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hulusi Noyan Sk. No:4/3 Fatih",
+    "sg:city":"G?ztepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 532 8238",
+    "sg:postcode":"34000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RxFJegUuQRKdjSjkypZAC_41.017200_28.950850@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067902,
+    "wof:geomhash":"87db73819c85aeea21af08a5720c3c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906519,
+            "venue_id":1108651463
+        }
+    ],
+    "wof:id":1108651463,
+    "wof:lastmodified":1474067902,
+    "wof:name":"Mega Maden Ltd. Sti.",
+    "wof:parent_id":85906519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9508495331,
+    41.01720047,
+    28.9508495331,
+    41.01720047
+],
+  "geometry": {"coordinates":[28.9508495331,41.01720047],"type":"Point"}
+}

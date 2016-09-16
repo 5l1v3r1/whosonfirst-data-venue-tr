@@ -1,0 +1,67 @@
+{
+  "id": 1108598271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1233253479,38.4031028748,27.1233253479,38.4031028748",
+    "geom:latitude":38.403103,
+    "geom:longitude":27.123325,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"502/2 Sokak No:15-a",
+    "sg:city":"Bahcelievler",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 228 9628",
+    "sg:postcode":"01980",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929647,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rcgw9us9G12LG9ZS015zT_38.403103_27.123325@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065558,
+    "wof:geomhash":"691337f9dba7e2c7b4141297334b746a",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85929647,
+            "region_id":85679201,
+            "venue_id":1108598271
+        }
+    ],
+    "wof:id":1108598271,
+    "wof:lastmodified":1474065558,
+    "wof:name":"Uz-el Asansorleri Imalat San.ve Tic.ltd.sti.",
+    "wof:parent_id":85929647,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    27.1233253479,
+    38.4031028748,
+    27.1233253479,
+    38.4031028748
+],
+  "geometry": {"coordinates":[27.1233253479,38.4031028748],"type":"Point"}
+}

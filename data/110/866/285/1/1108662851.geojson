@@ -1,0 +1,68 @@
+{
+  "id": 1108662851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8717460632,39.9011116028,32.8717460632,39.9011116028",
+    "geom:latitude":39.901112,
+    "geom:longitude":32.871746,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"36. Cad. 432 Sk. Ezgi Ev. Sit. A Blok No:1 100. Yil",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 286 8659",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2soCCo14HfrFYJD9tWqPoS_39.901112_32.871746@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068359,
+    "wof:geomhash":"5d4872490b8628f40bda3c6aba0cd112",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108662851
+        }
+    ],
+    "wof:id":1108662851,
+    "wof:lastmodified":1474068359,
+    "wof:name":"Beta Nova Ilac Paz.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    32.8717460632,
+    39.9011116028,
+    32.8717460632,
+    39.9011116028
+],
+  "geometry": {"coordinates":[32.8717460632,39.9011116028],"type":"Point"}
+}

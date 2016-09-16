@@ -1,0 +1,70 @@
+{
+  "id": 1108598791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9102725983,40.9981193542,28.9102725983,40.9981193542",
+    "geom:latitude":40.998119,
+    "geom:longitude":28.910273,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Telsiz Mah.84.sok.no:47",
+    "sg:city":"Z.burnu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 679 4499",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XT3m8UDda4Zak1leUcxCn_40.998119_28.910273@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065582,
+    "wof:geomhash":"2977edf9bfef6a2098d397301da62e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108598791
+        }
+    ],
+    "wof:id":1108598791,
+    "wof:lastmodified":1474065582,
+    "wof:name":"Cicek Aydinlatma",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9102725983,
+    40.9981193542,
+    28.9102725983,
+    40.9981193542
+],
+  "geometry": {"coordinates":[28.9102725983,40.9981193542],"type":"Point"}
+}

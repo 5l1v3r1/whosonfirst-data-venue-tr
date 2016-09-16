@@ -1,0 +1,73 @@
+{
+  "id": 1108598559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8619842529,39.905670166,32.8619842529,39.905670166",
+    "geom:latitude":39.90567,
+    "geom:longitude":32.861984,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Guniz Sok.no.23/8 Kavaklidere",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312466216970",
+    "sg:postcode":"75200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "sound",
+        "light",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60rqx8JMrbHH79IzfDAs6K_39.905670_32.861984@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065568,
+    "wof:geomhash":"600fd7162a9c5fcfc810b4829937ab1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108598559
+        }
+    ],
+    "wof:id":1108598559,
+    "wof:lastmodified":1474065568,
+    "wof:name":"Sigma Elektronik San.ic Ve Dis Tic.ltd.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "light",
+        "system"
+    ]
+},
+  "bbox": [
+    32.8619842529,
+    39.905670166,
+    32.8619842529,
+    39.905670166
+],
+  "geometry": {"coordinates":[32.8619842529,39.905670166],"type":"Point"}
+}

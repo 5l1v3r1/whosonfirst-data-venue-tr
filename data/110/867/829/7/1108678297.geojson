@@ -1,0 +1,68 @@
+{
+  "id": 1108678297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8633155823,39.9216766357,32.8633155823,39.9216766357",
+    "geom:latitude":39.921677,
+    "geom:longitude":32.863316,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Libya Cd. No:32 D:4-5-6 Cankaya",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 431 5183",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929555,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JcBIgPYKa2vF415VXDJqM_39.921677_32.863316@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"994ce599f7c84da303069c759d35d1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929555,
+            "region_id":85679409,
+            "venue_id":1108678297
+        }
+    ],
+    "wof:id":1108678297,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Yoksullara Yard. Egitim Vakfi",
+    "wof:parent_id":85929555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    32.8633155823,
+    39.9216766357,
+    32.8633155823,
+    39.9216766357
+],
+  "geometry": {"coordinates":[32.8633155823,39.9216766357],"type":"Point"}
+}

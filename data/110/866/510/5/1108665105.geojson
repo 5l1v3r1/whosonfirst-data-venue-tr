@@ -1,0 +1,73 @@
+{
+  "id": 1108665105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0003490448,41.0672302246,29.0003490448,41.0672302246",
+    "geom:latitude":41.06723,
+    "geom:longitude":29.000349,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2. Tasocagi Cad. Damla Sk. No.3,",
+    "sg:city":"Mecidiyek\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 4343",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IBxQcyPKXupX7dLwfsvVK_41.067230_29.000349@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068446,
+    "wof:geomhash":"06c4128c3e05fcfe1b28788f2d8ba9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108665105
+        }
+    ],
+    "wof:id":1108665105,
+    "wof:lastmodified":1474068446,
+    "wof:name":"Cc Iletisim",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    29.0003490448,
+    41.0672302246,
+    29.0003490448,
+    41.0672302246
+],
+  "geometry": {"coordinates":[29.0003490448,41.0672302246],"type":"Point"}
+}

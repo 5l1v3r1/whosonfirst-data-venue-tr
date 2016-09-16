@@ -1,0 +1,71 @@
+{
+  "id": 1108606565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7957057953,40.9910926819,28.7957057953,40.9910926819",
+    "geom:latitude":40.991093,
+    "geom:longitude":28.795706,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Besyol Birlik Cad.no.6/9",
+    "sg:city":"Sefakoy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212580544360",
+    "sg:postcode":"42000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929917,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sfr4qzoGO5znPxP4M0weI_40.991093_28.795706@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065916,
+    "wof:geomhash":"a5d072608cca733c9907437091990af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929917,
+            "region_id":85679237,
+            "venue_id":1108606565
+        }
+    ],
+    "wof:id":1108606565,
+    "wof:lastmodified":1474065916,
+    "wof:name":"Orpa Tekstil",
+    "wof:parent_id":85929917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.7957057953,
+    40.9910926819,
+    28.7957057953,
+    40.9910926819
+],
+  "geometry": {"coordinates":[28.7957057953,40.9910926819],"type":"Point"}
+}

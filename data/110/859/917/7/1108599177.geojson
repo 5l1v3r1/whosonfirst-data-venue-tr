@@ -1,0 +1,75 @@
+{
+  "id": 1108599177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9605083466,41.047832489,28.9605083466,41.047832489",
+    "geom:latitude":41.047832,
+    "geom:longitude":28.960508,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Emekyemez Mah.mektep Sok.no:49-4",
+    "sg:city":"Pangalti",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 254 0825",
+    "sg:postcode":"34373",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929411,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LAaBE8r7pqqygsDRriQqL_41.047832_28.960508@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065595,
+    "wof:geomhash":"668fcea8ace3d93db337d947d35fb2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929411,
+            "region_id":85679237,
+            "venue_id":1108599177
+        }
+    ],
+    "wof:id":1108599177,
+    "wof:lastmodified":1474065595,
+    "wof:name":"Oznur Avize & Aydinlatma Ith.ihr.san.tic.ltd.sti.",
+    "wof:parent_id":85929411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9605083466,
+    41.047832489,
+    28.9605083466,
+    41.047832489
+],
+  "geometry": {"coordinates":[28.9605083466,41.047832489],"type":"Point"}
+}

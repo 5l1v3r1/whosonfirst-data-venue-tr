@@ -1,0 +1,74 @@
+{
+  "id": 1108607011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9416332245,41.0762405396,28.9416332245,41.0762405396",
+    "geom:latitude":41.076241,
+    "geom:longitude":28.941633,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Cad. Zafer Sk. No.64/2",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 579 5629",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d5QLfD7rcFbpxOuaPsiu4_41.076241_28.941633@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065943,
+    "wof:geomhash":"9905616b49a0489648a18ef21fdbbbe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108607011
+        }
+    ],
+    "wof:id":1108607011,
+    "wof:lastmodified":1474065943,
+    "wof:name":"Sporteks Giyim As.",
+    "wof:parent_id":85930103,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9416332245,
+    41.0762405396,
+    28.9416332245,
+    41.0762405396
+],
+  "geometry": {"coordinates":[28.9416332245,41.0762405396],"type":"Point"}
+}

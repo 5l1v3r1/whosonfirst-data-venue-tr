@@ -1,0 +1,71 @@
+{
+  "id": 1108598955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1159915924,38.4621162415,27.1159915924,38.4621162415",
+    "geom:latitude":38.462116,
+    "geom:longitude":27.115992,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zubeyde Hanim Cad. No:29-",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 364 3331",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bMW82Dbffg5w9C1XLqZvS_38.462116_27.115992@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065588,
+    "wof:geomhash":"f348d8f3baacd96ff52305055e7475e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108598955
+        }
+    ],
+    "wof:id":1108598955,
+    "wof:lastmodified":1474065588,
+    "wof:name":"Gul Temizlik Ve Kimya San",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    27.1159915924,
+    38.4621162415,
+    27.1159915924,
+    38.4621162415
+],
+  "geometry": {"coordinates":[27.1159915924,38.4621162415],"type":"Point"}
+}

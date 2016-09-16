@@ -1,0 +1,72 @@
+{
+  "id": 1108578859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8349132538,40.9808235168,28.8349132538,40.9808235168",
+    "geom:latitude":40.980824,
+    "geom:longitude":28.834913,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ebuziya Cad. Bilgi Sok.no:1/a3 Bakirkoy",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 570 8013",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930129,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZMwqrpKkWm1gsETvf9vXo_40.980824_28.834913@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064907,
+    "wof:geomhash":"afc49127d2f6ca751819f7a9da537c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85930129,
+            "region_id":85679237,
+            "venue_id":1108578859
+        }
+    ],
+    "wof:id":1108578859,
+    "wof:lastmodified":1474064907,
+    "wof:name":"Lens Dunyasi",
+    "wof:parent_id":85930129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.8349132538,
+    40.9808235168,
+    28.8349132538,
+    40.9808235168
+],
+  "geometry": {"coordinates":[28.8349132538,40.9808235168],"type":"Point"}
+}

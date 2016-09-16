@@ -1,0 +1,73 @@
+{
+  "id": 1108647481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8492851257,40.9891548157,28.8492851257,40.9891548157",
+    "geom:latitude":40.989155,
+    "geom:longitude":28.849285,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atakoy 9.kisim B-14 D:29",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 275 3882",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929987,
+        102191569,
+        85632393,
+        101912671,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04CjB7ZWJvWsjDTfZdWT7y_40.989155_28.849285@1306270069"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067712,
+    "wof:geomhash":"9eeb6d20f20ee67645f89dd271dcff9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912671,
+            "neighbourhood_id":85929987,
+            "region_id":85679237,
+            "venue_id":1108647481
+        }
+    ],
+    "wof:id":1108647481,
+    "wof:lastmodified":1474067712,
+    "wof:name":"Sanalet",
+    "wof:parent_id":85929987,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    28.8492851257,
+    40.9891548157,
+    28.8492851257,
+    40.9891548157
+],
+  "geometry": {"coordinates":[28.8492851257,40.9891548157],"type":"Point"}
+}

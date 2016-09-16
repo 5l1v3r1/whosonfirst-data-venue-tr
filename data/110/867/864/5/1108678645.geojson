@@ -1,0 +1,61 @@
+{
+  "id": 1108678645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1273918152,40.9223670959,29.1273918152,40.9223670959",
+    "geom:latitude":40.922367,
+    "geom:longitude":29.127392,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rihtim Cd. No:131",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 244 7516",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BQoEPB29UkvcQITne0BWU_40.922367_29.127392@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068987,
+    "wof:geomhash":"670da0d7b573b6f01c9ada5f7ae82de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108678645
+        }
+    ],
+    "wof:id":1108678645,
+    "wof:lastmodified":1474068987,
+    "wof:name":"Kalkavan Denizcilik Tic. A.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1273918152,
+    40.9223670959,
+    29.1273918152,
+    40.9223670959
+],
+  "geometry": {"coordinates":[29.1273918152,40.9223670959],"type":"Point"}
+}

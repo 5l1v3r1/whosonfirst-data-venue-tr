@@ -1,0 +1,74 @@
+{
+  "id": 1108568469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0112838745,41.0611610413,29.0112838745,41.0611610413",
+    "geom:latitude":41.061161,
+    "geom:longitude":29.011284,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barbaros Bulv. No:32 Balmumcu",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 1658",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HCO7dv463ZJFnxPXGMmcG_41.061161_29.011284@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064391,
+    "wof:geomhash":"012c50f2168f25588c5d2ae934929cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108568469
+        }
+    ],
+    "wof:id":1108568469,
+    "wof:lastmodified":1474064391,
+    "wof:name":"Mekel Makina San. Tic. A.s.",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0112838745,
+    41.0611610413,
+    29.0112838745,
+    41.0611610413
+],
+  "geometry": {"coordinates":[29.0112838745,41.0611610413],"type":"Point"}
+}

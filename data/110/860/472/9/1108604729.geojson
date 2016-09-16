@@ -1,0 +1,71 @@
+{
+  "id": 1108604729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0768089294,40.1839866638,29.0768089294,40.1839866638",
+    "geom:latitude":40.183987,
+    "geom:longitude":29.076809,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Meydancik Mah. Incirli Cad. 16/b",
+    "sg:city":"Unkapani",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 224 327 2103",
+    "sg:postcode":"55020",
+    "sg:province":"Bursa",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930161,
+        85679231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rtrsVzQpEWiGQvLftRb5v_40.183987_29.076809@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065834,
+    "wof:geomhash":"a935985228a77c86069be7c6437dded0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930161,
+            "region_id":85679231,
+            "venue_id":1108604729
+        }
+    ],
+    "wof:id":1108604729,
+    "wof:lastmodified":1474065834,
+    "wof:name":"Addaks Gomlek",
+    "wof:parent_id":85930161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.0768089294,
+    40.1839866638,
+    29.0768089294,
+    40.1839866638
+],
+  "geometry": {"coordinates":[29.0768089294,40.1839866638],"type":"Point"}
+}

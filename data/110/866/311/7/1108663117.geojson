@@ -1,0 +1,68 @@
+{
+  "id": 1108663117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.860786438,39.9206085205,32.860786438,39.9206085205",
+    "geom:latitude":39.920609,
+    "geom:longitude":32.860786,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atac 2 Sok. 54/3 Kizilay 06420",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 433 2914",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eCN0SneMfjEAIegxG07Cz_39.920609_32.860786@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068370,
+    "wof:geomhash":"5eb0aeede13f3c92071972ce1174c7b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108663117
+        }
+    ],
+    "wof:id":1108663117,
+    "wof:lastmodified":1474068370,
+    "wof:name":"Artcamera Ltd.sti.",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    32.860786438,
+    39.9206085205,
+    32.860786438,
+    39.9206085205
+],
+  "geometry": {"coordinates":[32.860786438,39.9206085205],"type":"Point"}
+}

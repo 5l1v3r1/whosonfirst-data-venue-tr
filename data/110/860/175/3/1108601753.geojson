@@ -1,0 +1,70 @@
+{
+  "id": 1108601753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9052581787,41.0061912537,28.9052581787,41.0061912537",
+    "geom:latitude":41.006191,
+    "geom:longitude":28.905258,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zuhuratbaba Cd. No:24/4",
+    "sg:city":"Bak\u0131rk\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 571 2306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906617,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EKR56cgU1kilLDh2qKtyl_41.006191_28.905258@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065709,
+    "wof:geomhash":"eb56d0e5822e885814580cd713d4df9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906617,
+            "region_id":85679237,
+            "venue_id":1108601753
+        }
+    ],
+    "wof:id":1108601753,
+    "wof:lastmodified":1474065709,
+    "wof:name":"Ata Dogalgaz San. Tic.",
+    "wof:parent_id":85906617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9052581787,
+    41.0061912537,
+    28.9052581787,
+    41.0061912537
+],
+  "geometry": {"coordinates":[28.9052581787,41.0061912537],"type":"Point"}
+}

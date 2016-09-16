@@ -1,0 +1,68 @@
+{
+  "id": 1108641149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9351291656,41.009349823,28.9351291656,41.009349823",
+    "geom:latitude":41.00935,
+    "geom:longitude":28.935129,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Millet Cad. Pazartekkesi Sk. No:35/a Sehremini",
+    "sg:city":"Kazasker/g?ztepe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 533 7260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904161,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28r7GPd0qgPoLE3CPMiAhe_41.009350_28.935129@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067466,
+    "wof:geomhash":"aeedaa340d485a637bf604535b4fe603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904161,
+            "region_id":85679237,
+            "venue_id":1108641149
+        }
+    ],
+    "wof:id":1108641149,
+    "wof:lastmodified":1474067466,
+    "wof:name":"Gorkem Oto San. Ve Tic. Ltd. Sti",
+    "wof:parent_id":85904161,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory"
+    ]
+},
+  "bbox": [
+    28.9351291656,
+    41.009349823,
+    28.9351291656,
+    41.009349823
+],
+  "geometry": {"coordinates":[28.9351291656,41.009349823],"type":"Point"}
+}

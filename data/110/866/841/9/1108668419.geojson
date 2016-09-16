@@ -1,0 +1,71 @@
+{
+  "id": 1108668419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1273822784,41.002494812,29.1273822784,41.002494812",
+    "geom:latitude":41.002495,
+    "geom:longitude":29.127382,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmak Mah.ikbal Cad.mehmetcik Sok. No:13/3 Umraniye",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 499 8120",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930131,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z6cLlsgmO5S6SfNtVcThm_41.002495_29.127382@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068584,
+    "wof:geomhash":"d99bf92ab5c061f45c80d2688b344a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930131,
+            "region_id":85679237,
+            "venue_id":1108668419
+        }
+    ],
+    "wof:id":1108668419,
+    "wof:lastmodified":1474068584,
+    "wof:name":"Turizm Formu",
+    "wof:parent_id":85930131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    29.1273822784,
+    41.002494812,
+    29.1273822784,
+    41.002494812
+],
+  "geometry": {"coordinates":[29.1273822784,41.002494812],"type":"Point"}
+}

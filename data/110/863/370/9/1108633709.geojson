@@ -1,0 +1,71 @@
+{
+  "id": 1108633709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2939548492,40.9115180969,29.2939548492,40.9115180969",
+    "geom:latitude":40.911518,
+    "geom:longitude":29.293955,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:120/62",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 371 9964",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "excavation",
+        "demolition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gjC9K98MIm4sH3QmDb76F_40.911518_29.293955@1306270066"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067173,
+    "wof:geomhash":"e115341260636387d623166208b7c238",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108633709
+        }
+    ],
+    "wof:id":1108633709,
+    "wof:lastmodified":1474067173,
+    "wof:name":"Teknik Hafriyat",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "demolition"
+    ]
+},
+  "bbox": [
+    29.2939548492,
+    40.9115180969,
+    29.2939548492,
+    40.9115180969
+],
+  "geometry": {"coordinates":[29.2939548492,40.9115180969],"type":"Point"}
+}

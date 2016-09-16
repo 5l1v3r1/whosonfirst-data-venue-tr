@@ -1,0 +1,70 @@
+{
+  "id": 1108597151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8836269379,41.0169448853,28.8836269379,41.0169448853",
+    "geom:latitude":41.016945,
+    "geom:longitude":28.883627,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uzun Sk. No.7 Merter",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 557 4498",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930139,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53IjvdN6FqoXoWMj5plzYe_41.016945_28.883627@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065518,
+    "wof:geomhash":"991ed4a259b83d1ae0928caf033e869c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930139,
+            "region_id":85679237,
+            "venue_id":1108597151
+        }
+    ],
+    "wof:id":1108597151,
+    "wof:lastmodified":1474065518,
+    "wof:name":"Togo Deri Konf.ltd.sti.",
+    "wof:parent_id":85930139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.8836269379,
+    41.0169448853,
+    28.8836269379,
+    41.0169448853
+],
+  "geometry": {"coordinates":[28.8836269379,41.0169448853],"type":"Point"}
+}

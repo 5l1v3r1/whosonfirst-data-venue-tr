@@ -1,0 +1,71 @@
+{
+  "id": 1108589881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8826408386,39.9413337708,32.8826408386,39.9413337708",
+    "geom:latitude":39.941334,
+    "geom:longitude":32.882641,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ruzgarli Ege Sok. No:5/94-",
+    "sg:city":"Ulus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 312 7585",
+    "sg:postcode":"01940",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934667,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iH16mTBYCaBiEGQ0FIPXe_39.941334_32.882641@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065248,
+    "wof:geomhash":"f98ccc6c723b74836e9799eae9376251",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934667,
+            "region_id":85679409,
+            "venue_id":1108589881
+        }
+    ],
+    "wof:id":1108589881,
+    "wof:lastmodified":1474065248,
+    "wof:name":"Kale Hirdavat Pazarlama Ve Tic Ltd.",
+    "wof:parent_id":85934667,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    32.8826408386,
+    39.9413337708,
+    32.8826408386,
+    39.9413337708
+],
+  "geometry": {"coordinates":[32.8826408386,39.9413337708],"type":"Point"}
+}

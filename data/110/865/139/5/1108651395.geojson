@@ -1,0 +1,75 @@
+{
+  "id": 1108651395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0263710022,40.9902915955,29.0263710022,40.9902915955",
+    "geom:latitude":40.990292,
+    "geom:longitude":29.026371,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kirtasiyeci Sk. No:11/80 Kadik?",
+    "sg:city":"Fatih",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 348 4773",
+    "sg:postcode":"01740",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ji6VFyhwe2e8XNgji00ON_40.990292_29.026371@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067899,
+    "wof:geomhash":"09d1b34f07cbedfdc32df5b74321bd45",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108651395
+        }
+    ],
+    "wof:id":1108651395,
+    "wof:lastmodified":1474067899,
+    "wof:name":"Medi-a Tibbi Cih. Ith. Tic.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.0263710022,
+    40.9902915955,
+    29.0263710022,
+    40.9902915955
+],
+  "geometry": {"coordinates":[29.0263710022,40.9902915955],"type":"Point"}
+}

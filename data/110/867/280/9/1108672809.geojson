@@ -1,0 +1,69 @@
+{
+  "id": 1108672809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1088867188,38.4649429321,27.1088867188,38.4649429321",
+    "geom:latitude":38.464943,
+    "geom:longitude":27.108887,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Girne Bulvari No:175",
+    "sg:city":"Karsiyaka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 381 6513",
+    "sg:postcode":"01900",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UhMcwvujnCK3FM8WS7qsL_38.464943_27.108887@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068754,
+    "wof:geomhash":"e1807f1f592618edd656898a1c8461cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108672809
+        }
+    ],
+    "wof:id":1108672809,
+    "wof:lastmodified":1474068754,
+    "wof:name":"Balli Sus Bitkileri San.tic. Ltd.sti.",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    27.1088867188,
+    38.4649429321,
+    27.1088867188,
+    38.4649429321
+],
+  "geometry": {"coordinates":[27.1088867188,38.4649429321],"type":"Point"}
+}

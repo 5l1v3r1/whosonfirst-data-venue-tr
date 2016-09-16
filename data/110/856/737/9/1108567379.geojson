@@ -1,0 +1,75 @@
+{
+  "id": 1108567379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9659366608,41.0550117493,28.9659366608,41.0550117493",
+    "geom:latitude":41.055012,
+    "geom:longitude":28.965937,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi ?arsisi Polat Sk. No:29",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 237 1525",
+    "sg:postcode":"31200",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929423,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vv5aGXZe3SD42fYvfuzec_41.055012_28.965937@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064345,
+    "wof:geomhash":"d7226658a29126ac105ebd9a0599578e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85929423,
+            "region_id":85679237,
+            "venue_id":1108567379
+        }
+    ],
+    "wof:id":1108567379,
+    "wof:lastmodified":1474064345,
+    "wof:name":"Esyay",
+    "wof:parent_id":85929423,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9659366608,
+    41.0550117493,
+    28.9659366608,
+    41.0550117493
+],
+  "geometry": {"coordinates":[28.9659366608,41.0550117493],"type":"Point"}
+}

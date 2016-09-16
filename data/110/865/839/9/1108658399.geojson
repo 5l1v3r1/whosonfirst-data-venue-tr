@@ -1,0 +1,73 @@
+{
+  "id": 1108658399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.063287735,41.0425415039,29.063287735,41.0425415039",
+    "geom:latitude":41.042542,
+    "geom:longitude":29.063288,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahim Aksoy",
+    "sg:city":"Kas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 242 845 4666",
+    "sg:postcode":"07580",
+    "sg:province":"Antalya",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929805,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38W6p6XFjDo6cpYaIzKx7A_41.042542_29.063288@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068186,
+    "wof:geomhash":"68b9d3f31da39a41dc374f5aac1f9bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85929805,
+            "region_id":85679237,
+            "venue_id":1108658399
+        }
+    ],
+    "wof:id":1108658399,
+    "wof:lastmodified":1474068186,
+    "wof:name":"Kinik Belediye Baskani",
+    "wof:parent_id":85929805,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    29.063287735,
+    41.0425415039,
+    29.063287735,
+    41.0425415039
+],
+  "geometry": {"coordinates":[29.063287735,41.0425415039],"type":"Point"}
+}

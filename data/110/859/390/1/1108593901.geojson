@@ -1,0 +1,71 @@
+{
+  "id": 1108593901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0160827637,41.0784301758,29.0160827637,41.0784301758",
+    "geom:latitude":41.07843,
+    "geom:longitude":29.016083,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Levent Cad. No:19 Levent",
+    "sg:city":"1.levent",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 9530",
+    "sg:postcode":"34340",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "laboratory",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53dTRMHtlUC7dO4FZ7Re9p_41.078430_29.016083@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065381,
+    "wof:geomhash":"91c38936affa7ee806c318ffe86ece80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108593901
+        }
+    ],
+    "wof:id":1108593901,
+    "wof:lastmodified":1474065381,
+    "wof:name":"Baehringer Mannheim Alman A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "equipment"
+    ]
+},
+  "bbox": [
+    29.0160827637,
+    41.0784301758,
+    29.0160827637,
+    41.0784301758
+],
+  "geometry": {"coordinates":[29.0160827637,41.0784301758],"type":"Point"}
+}

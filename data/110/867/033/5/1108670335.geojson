@@ -1,0 +1,77 @@
+{
+  "id": 1108670335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0291843414,40.9921073914,29.0291843414,40.9921073914",
+    "geom:latitude":40.992107,
+    "geom:longitude":29.029184,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rasimpasa Mah. Halitaga Cad. Ali Kalfa Sok. No.11",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 330 4792",
+    "sg:postcode":"01370",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "fertilize",
+        "soil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102535817,
+        85904115,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uNeFkRHDL2pTbdN6zPX5L_40.992107_29.029184@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068655,
+    "wof:geomhash":"4e6cd39c85e337615ac38dd377d2ff9c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535817,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85904115,
+            "region_id":85679237,
+            "venue_id":1108670335
+        }
+    ],
+    "wof:id":1108670335,
+    "wof:lastmodified":1474068655,
+    "wof:name":"Bahar Bitki Vitaminleri Ve Peyzaj Reklam Promosyon Hizm.san.tic.ltd.sti.",
+    "wof:parent_id":102535817,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilize",
+        "soil"
+    ]
+},
+  "bbox": [
+    29.0291843414,
+    40.9921073914,
+    29.0291843414,
+    40.9921073914
+],
+  "geometry": {"coordinates":[29.0291843414,40.9921073914],"type":"Point"}
+}

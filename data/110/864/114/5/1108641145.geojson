@@ -1,0 +1,72 @@
+{
+  "id": 1108641145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0269794464,41.0645217896,29.0269794464,41.0645217896",
+    "geom:latitude":41.064522,
+    "geom:longitude":29.026979,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A.saygun Cad. 2/3 Aras Apartman Ulus",
+    "sg:city":"Kazasker/g?ztepe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 2222",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904139,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53C4ELOxmiNv3xoT9UTcqT_41.064522_29.026979@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067466,
+    "wof:geomhash":"a63b93913404ac85568be19a0de5900f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85904139,
+            "region_id":85679237,
+            "venue_id":1108641145
+        }
+    ],
+    "wof:id":1108641145,
+    "wof:lastmodified":1474067466,
+    "wof:name":"Global Pazarlama",
+    "wof:parent_id":85904139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory"
+    ]
+},
+  "bbox": [
+    29.0269794464,
+    41.0645217896,
+    29.0269794464,
+    41.0645217896
+],
+  "geometry": {"coordinates":[29.0269794464,41.0645217896],"type":"Point"}
+}

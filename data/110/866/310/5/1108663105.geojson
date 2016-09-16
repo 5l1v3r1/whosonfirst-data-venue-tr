@@ -1,0 +1,68 @@
+{
+  "id": 1108663105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.324848175,36.9842605591,35.324848175,36.9842605591",
+    "geom:latitude":36.984261,
+    "geom:longitude":35.324848,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Saydam Cd. No:139",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 352 1021",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d3nojsg9s8pLwmbnxziCx_36.984261_35.324848@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068370,
+    "wof:geomhash":"3fc4bba66a2ec374534c014822350ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108663105
+        }
+    ],
+    "wof:id":1108663105,
+    "wof:lastmodified":1474068370,
+    "wof:name":"?zaltin Ecza Depo San. Tic. A.s.",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    35.324848175,
+    36.9842605591,
+    35.324848175,
+    36.9842605591
+],
+  "geometry": {"coordinates":[35.324848175,36.9842605591],"type":"Point"}
+}

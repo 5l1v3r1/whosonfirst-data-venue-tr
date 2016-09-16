@@ -1,0 +1,70 @@
+{
+  "id": 1108596787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9000701904,40.9964065552,28.9000701904,40.9964065552",
+    "geom:latitude":40.996407,
+    "geom:longitude":28.90007,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Veliefendi Mah. 75/3 Sk. No. 30 Zeytinburnu",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 2269",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7beWvx1eB71qPxfaDcw4lp_40.996407_28.900070@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065504,
+    "wof:geomhash":"b8c5d9c65b145e13e010e3ba408095b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108596787
+        }
+    ],
+    "wof:id":1108596787,
+    "wof:lastmodified":1474065504,
+    "wof:name":"Has Giyim End. A.s.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9000701904,
+    40.9964065552,
+    28.9000701904,
+    40.9964065552
+],
+  "geometry": {"coordinates":[28.9000701904,40.9964065552],"type":"Point"}
+}

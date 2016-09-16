@@ -1,0 +1,73 @@
+{
+  "id": 1108574409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1557350159,40.9263114929,29.1557350159,40.9263114929",
+    "geom:latitude":40.926311,
+    "geom:longitude":29.155735,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kelebek Sk. No:4 Kartal",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 376 2518",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929905,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fWfuGUvKFwoCICmqySYYl_40.926311_29.155735@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064639,
+    "wof:geomhash":"4ef3b35df6cd888d978b92039807b1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85929905,
+            "region_id":85679237,
+            "venue_id":1108574409
+        }
+    ],
+    "wof:id":1108574409,
+    "wof:lastmodified":1474064639,
+    "wof:name":"Erk?se Cam A.s.",
+    "wof:parent_id":85929905,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glassware"
+    ]
+},
+  "bbox": [
+    29.1557350159,
+    40.9263114929,
+    29.1557350159,
+    40.9263114929
+],
+  "geometry": {"coordinates":[29.1557350159,40.9263114929],"type":"Point"}
+}

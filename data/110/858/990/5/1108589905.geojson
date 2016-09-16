@@ -1,0 +1,71 @@
+{
+  "id": 1108589905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.502040863,37.8636627197,32.502040863,37.8636627197",
+    "geom:latitude":37.863663,
+    "geom:longitude":32.502041,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Serafettin Cad. Sukran Han No: 42/b",
+    "sg:city":"Karatay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 332 350 5561",
+    "sg:postcode":"42000",
+    "sg:province":"Konya",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KbV0xJpFiaT4feqismYlc_37.863663_32.502041@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065248,
+    "wof:geomhash":"770c820d4af29f630031c6b66eda0c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108589905
+        }
+    ],
+    "wof:id":1108589905,
+    "wof:lastmodified":1474065248,
+    "wof:name":"Mus-me Ltd.sti.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    32.502040863,
+    37.8636627197,
+    32.502040863,
+    37.8636627197
+],
+  "geometry": {"coordinates":[32.502040863,37.8636627197],"type":"Point"}
+}

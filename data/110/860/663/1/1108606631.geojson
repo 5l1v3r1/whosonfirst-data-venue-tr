@@ -1,0 +1,68 @@
+{
+  "id": 1108606631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9731750488,41.0144119263,28.9731750488,41.0144119263",
+    "geom:latitude":41.014412,
+    "geom:longitude":28.973175,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Asirefendi Cad. No.40",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 511 6006",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906483,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XiQmRS3faM0edmmvgm2HO_41.014412_28.973175@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065918,
+    "wof:geomhash":"867c17a51a3d025adbc7ebfe661383d3",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906483,
+            "region_id":85679237,
+            "venue_id":1108606631
+        }
+    ],
+    "wof:id":1108606631,
+    "wof:lastmodified":1474065918,
+    "wof:name":"Pala Tekstil A.s.",
+    "wof:parent_id":85906483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9731750488,
+    41.0144119263,
+    28.9731750488,
+    41.0144119263
+],
+  "geometry": {"coordinates":[28.9731750488,41.0144119263],"type":"Point"}
+}

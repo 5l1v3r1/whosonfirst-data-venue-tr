@@ -1,0 +1,72 @@
+{
+  "id": 1108607901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1098823547,40.9767532349,29.1098823547,40.9767532349",
+    "geom:latitude":40.976753,
+    "geom:longitude":29.109882,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi M. 100.yil. Cad. No: 15",
+    "sg:city":"4.levent",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 280 3082",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "insulation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pBUhe0TX7BNpjlgn2PYqd_40.976753_29.109882@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065983,
+    "wof:geomhash":"513570ecc736e0fe2cf67c9055277420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108607901
+        }
+    ],
+    "wof:id":1108607901,
+    "wof:lastmodified":1474065983,
+    "wof:name":"Aygun Alm. San. Ltd.sti.",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation"
+    ]
+},
+  "bbox": [
+    29.1098823547,
+    40.9767532349,
+    29.1098823547,
+    40.9767532349
+],
+  "geometry": {"coordinates":[29.1098823547,40.9767532349],"type":"Point"}
+}

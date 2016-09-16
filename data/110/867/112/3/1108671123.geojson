@@ -1,0 +1,73 @@
+{
+  "id": 1108671123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.015455246,41.0710868835,29.015455246,41.0710868835",
+    "geom:latitude":41.071087,
+    "geom:longitude":29.015455,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukdere Cad. No:163 Esentepe",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 336 3737",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929391,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ueNkUFlW3yJ8pfTe1iSzA_41.071087_29.015455@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068687,
+    "wof:geomhash":"c628c093db3a12011bcd44649f1d09fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85929391,
+            "region_id":85679237,
+            "venue_id":1108671123
+        }
+    ],
+    "wof:id":1108671123,
+    "wof:lastmodified":1474068687,
+    "wof:name":"Iktisat Yatirim Menkul Kiymetler",
+    "wof:parent_id":85929391,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.015455246,
+    41.0710868835,
+    29.015455246,
+    41.0710868835
+],
+  "geometry": {"coordinates":[29.015455246,41.0710868835],"type":"Point"}
+}

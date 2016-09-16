@@ -1,0 +1,81 @@
+{
+  "id": 1108591919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9707946777,41.0230827332,28.9707946777,41.0230827332",
+    "geom:latitude":41.023083,
+    "geom:longitude":28.970795,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"M.akif Cad.taflan Sok. No:2",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 555 5453",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906587,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85906579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q1E15iz0Y64aIGU58taLR_41.023083_28.970795@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065307,
+    "wof:geomhash":"56a5750e8b5d61733b7fa1dde0d250ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906587,
+            "region_id":85679237,
+            "venue_id":1108591919
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906579,
+            "region_id":85679237,
+            "venue_id":1108591919
+        }
+    ],
+    "wof:id":1108591919,
+    "wof:lastmodified":1474065307,
+    "wof:name":"Dayteks Tekstil San.tic.ltd.sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.9707946777,
+    41.0230827332,
+    28.9707946777,
+    41.0230827332
+],
+  "geometry": {"coordinates":[28.9707946777,41.0230827332],"type":"Point"}
+}

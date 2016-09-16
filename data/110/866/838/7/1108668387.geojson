@@ -1,0 +1,78 @@
+{
+  "id": 1108668387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8544502258,39.9289398193,32.8544502258,39.9289398193",
+    "geom:latitude":39.92894,
+    "geom:longitude":32.85445,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strazburg Cd. No:30/b Sihhiye",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 6397",
+    "sg:postcode":"01000",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "house",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934683,
+        85679409,
+        85929569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54a9mB7BjyQaycc4WR3ZQ6_39.928940_32.854450@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068583,
+    "wof:geomhash":"169720959d3aa83c97918de4a94d0bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934683,
+            "region_id":85679409,
+            "venue_id":1108668387
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929569,
+            "region_id":85679409,
+            "venue_id":1108668387
+        }
+    ],
+    "wof:id":1108668387,
+    "wof:lastmodified":1474068583,
+    "wof:name":"Sistem Ofset Basim Yayinci. San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "publishing"
+    ]
+},
+  "bbox": [
+    32.8544502258,
+    39.9289398193,
+    32.8544502258,
+    39.9289398193
+],
+  "geometry": {"coordinates":[32.8544502258,39.9289398193],"type":"Point"}
+}

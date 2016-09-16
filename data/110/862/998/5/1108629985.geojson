@@ -1,0 +1,64 @@
+{
+  "id": 1108629985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1450805664,38.438419342,27.1450805664,38.438419342",
+    "geom:latitude":38.438419,
+    "geom:longitude":27.145081,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1378 Sokak No 4/1 D105, Kordon Ishani Alsancak",
+    "sg:city":"Izmir",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 324 2195",
+    "sg:province":"35220",
+    "sg:website":"www.karavantravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPaGdV38HxF3UL0jqvgr0_38.438419_27.145081@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066915,
+    "wof:geomhash":"0538f7814ddddeedd7d1b9dd67713ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108629985
+        }
+    ],
+    "wof:id":1108629985,
+    "wof:lastmodified":1474066915,
+    "wof:name":"Karavan",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1450805664,
+    38.438419342,
+    27.1450805664,
+    38.438419342
+],
+  "geometry": {"coordinates":[27.1450805664,38.438419342],"type":"Point"}
+}

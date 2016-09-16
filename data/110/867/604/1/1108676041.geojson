@@ -1,0 +1,73 @@
+{
+  "id": 1108676041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9558105469,41.0479888916,28.9558105469,41.0479888916",
+    "geom:latitude":41.047989,
+    "geom:longitude":28.955811,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tomtomkaptan Sok. No:15 Beyoglu",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 243 1024",
+    "sg:postcode":"01220",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906531,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13fKj7mR6G1fHoBz2IVpAr_41.047989_28.955811@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068893,
+    "wof:geomhash":"2e2f20c89200b8234ba7cfca5f94b301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906531,
+            "region_id":85679237,
+            "venue_id":1108676041
+        }
+    ],
+    "wof:id":1108676041,
+    "wof:lastmodified":1474068893,
+    "wof:name":"Italya",
+    "wof:parent_id":85906531,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    28.9558105469,
+    41.0479888916,
+    28.9558105469,
+    41.0479888916
+],
+  "geometry": {"coordinates":[28.9558105469,41.0479888916],"type":"Point"}
+}

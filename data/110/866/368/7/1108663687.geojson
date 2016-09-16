@@ -1,0 +1,71 @@
+{
+  "id": 1108663687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2939071655,40.864112854,29.2939071655,40.864112854",
+    "geom:latitude":40.864113,
+    "geom:longitude":29.293907,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esenyali M. Istiklal C. No: 125 Pendik",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 392 2641",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "window",
+        "door",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DwF3kV1yGSC3jEbxTCSh5_40.864113_29.293907@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068392,
+    "wof:geomhash":"5dab60ae17e3acf1b54e196f46003559",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930009,
+            "venue_id":1108663687
+        }
+    ],
+    "wof:id":1108663687,
+    "wof:lastmodified":1474068392,
+    "wof:name":"Birdal Pen. Insaat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "door",
+        "plastic"
+    ]
+},
+  "bbox": [
+    29.2939071655,
+    40.864112854,
+    29.2939071655,
+    40.864112854
+],
+  "geometry": {"coordinates":[29.2939071655,40.864112854],"type":"Point"}
+}

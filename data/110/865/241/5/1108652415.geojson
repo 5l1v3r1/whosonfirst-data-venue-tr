@@ -1,0 +1,70 @@
+{
+  "id": 1108652415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9928188324,41.0942993164,28.9928188324,41.0942993164",
+    "geom:latitude":41.094299,
+    "geom:longitude":28.992819,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah. Sultan Selim Cad. Sahinler Sk. No:15",
+    "sg:city":"4. Levent",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212282384546",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kKkvovwudTToRKUM7bDOl_41.094299_28.992819@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067956,
+    "wof:geomhash":"3f0d27436985eb362ad7dc9b49378bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108652415
+        }
+    ],
+    "wof:id":1108652415,
+    "wof:lastmodified":1474067956,
+    "wof:name":"Cardinal Sportswear",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9928188324,
+    41.0942993164,
+    28.9928188324,
+    41.0942993164
+],
+  "geometry": {"coordinates":[28.9928188324,41.0942993164],"type":"Point"}
+}

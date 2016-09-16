@@ -1,0 +1,68 @@
+{
+  "id": 1108610375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0897064209,37.7516212463,29.0897064209,37.7516212463",
+    "geom:latitude":37.751621,
+    "geom:longitude":29.089706,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ulus Cad. No:163",
+    "sg:city":"Sefak?",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 258 212 4080",
+    "sg:province":"Denizli",
+    "sg:tags":[
+        "decoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934755,
+        85679277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3esmeUnP7Rdh7lY00O3ShT_37.751621_29.089706@1306270062"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066092,
+    "wof:geomhash":"73d2380a44779059d19c705492a8d861",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934755,
+            "region_id":85679277,
+            "venue_id":1108610375
+        }
+    ],
+    "wof:id":1108610375,
+    "wof:lastmodified":1474066092,
+    "wof:name":"Ozkuvvet Alci",
+    "wof:parent_id":85934755,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration"
+    ]
+},
+  "bbox": [
+    29.0897064209,
+    37.7516212463,
+    29.0897064209,
+    37.7516212463
+],
+  "geometry": {"coordinates":[29.0897064209,37.7516212463],"type":"Point"}
+}

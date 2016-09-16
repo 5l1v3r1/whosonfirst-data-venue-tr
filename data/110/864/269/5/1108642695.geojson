@@ -1,0 +1,68 @@
+{
+  "id": 1108642695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1338596344,41.0179290771,29.1338596344,41.0179290771",
+    "geom:latitude":41.017929,
+    "geom:longitude":29.13386,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmak Mah. Sirt Sok. No:50/a Umraniye",
+    "sg:city":"Sel?klu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 328 0045",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "spare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929833,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63ksp1XvuTv5ha0D92wqLI_41.017929_29.133860@1306270068"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067517,
+    "wof:geomhash":"6e3a7e9fa5879bbe5f393cef8c15e35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929833,
+            "region_id":85679237,
+            "venue_id":1108642695
+        }
+    ],
+    "wof:id":1108642695,
+    "wof:lastmodified":1474067517,
+    "wof:name":"Ikimiz Otomotiv",
+    "wof:parent_id":85929833,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spare"
+    ]
+},
+  "bbox": [
+    29.1338596344,
+    41.0179290771,
+    29.1338596344,
+    41.0179290771
+],
+  "geometry": {"coordinates":[29.1338596344,41.0179290771],"type":"Point"}
+}

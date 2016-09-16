@@ -1,0 +1,72 @@
+{
+  "id": 1108576225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.037115097,41.0155181885,29.037115097,41.0155181885",
+    "geom:latitude":41.015518,
+    "geom:longitude":29.037115,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Barboros H.pasa Mah.no:150",
+    "sg:city":"K??k?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 538 0003",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929355,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gimAbl1buqpV4twccU5pk_41.015518_29.037115@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064709,
+    "wof:geomhash":"878ef94921e2902d1d001224a1205d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929355,
+            "region_id":85679237,
+            "venue_id":1108576225
+        }
+    ],
+    "wof:id":1108576225,
+    "wof:lastmodified":1474064709,
+    "wof:name":"Green Iplik A.s",
+    "wof:parent_id":85929355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    29.037115097,
+    41.0155181885,
+    29.037115097,
+    41.0155181885
+],
+  "geometry": {"coordinates":[29.037115097,41.0155181885],"type":"Point"}
+}

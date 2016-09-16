@@ -1,0 +1,66 @@
+{
+  "id": 1108671541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1325874329,40.9248466492,29.1325874329,40.9248466492",
+    "geom:latitude":40.924847,
+    "geom:longitude":29.132587,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ataturk Cad. Besevler Sok. 8/17 Maltepe",
+    "sg:city":"Sirkeci-eminonu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216383732223",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kTLYrwZfPXqobkJPQFd40_40.924847_29.132587@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068702,
+    "wof:geomhash":"b6c4a3e5f45102dbb2404ac7654068b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108671541
+        }
+    ],
+    "wof:id":1108671541,
+    "wof:lastmodified":1474068702,
+    "wof:name":"Saltukoglu Trafik Musavirligi",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    29.1325874329,
+    40.9248466492,
+    29.1325874329,
+    40.9248466492
+],
+  "geometry": {"coordinates":[29.1325874329,40.9248466492],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108666891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1166667938,40.9833335876,29.1166667938,40.9833335876",
+    "geom:latitude":40.983334,
+    "geom:longitude":29.116667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Atasehir",
+    "sg:city":"Alsancak",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 456 0699",
+    "sg:postcode":"35210",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "education",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930023,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RpIi6iyQGEc3SbVE6ATAc_40.983334_29.116667@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068519,
+    "wof:geomhash":"516e3d18fa2ff4dd516f584c5ba5ab7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930023,
+            "region_id":85679237,
+            "venue_id":1108666891
+        }
+    ],
+    "wof:id":1108666891,
+    "wof:lastmodified":1474068519,
+    "wof:name":"Istanbul G?el Sanatlar Lisesi",
+    "wof:parent_id":85930023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "private"
+    ]
+},
+  "bbox": [
+    29.1166667938,
+    40.9833335876,
+    29.1166667938,
+    40.9833335876
+],
+  "geometry": {"coordinates":[29.1166667938,40.9833335876],"type":"Point"}
+}

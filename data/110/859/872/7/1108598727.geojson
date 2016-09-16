@@ -1,0 +1,71 @@
+{
+  "id": 1108598727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1395740509,38.4223442078,27.1395740509,38.4223442078",
+    "geom:latitude":38.422344,
+    "geom:longitude":27.139574,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1303 Sokak No:3/z-1",
+    "sg:city":"\u00c7ankaya",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 483 8833",
+    "sg:postcode":"35240",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929641,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jcbvuAgQNRoHTlpLz3LDj_38.422344_27.139574@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065579,
+    "wof:geomhash":"482274db2773392aee84cfc934a87ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929641,
+            "region_id":85679201,
+            "venue_id":1108598727
+        }
+    ],
+    "wof:id":1108598727,
+    "wof:lastmodified":1474065579,
+    "wof:name":"Bersan Aydinlatma San.ve Tic.a.s.",
+    "wof:parent_id":85929641,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    27.1395740509,
+    38.4223442078,
+    27.1395740509,
+    38.4223442078
+],
+  "geometry": {"coordinates":[27.1395740509,38.4223442078],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108664807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0041599274,41.0906181335,29.0041599274,41.0906181335",
+    "geom:latitude":41.090618,
+    "geom:longitude":29.00416,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S.selim Cd. No:52 4.levent",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 281 7678",
+    "sg:postcode":"06640",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sbfIX4liReQvYVG42E8Ls_41.090618_29.004160@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068436,
+    "wof:geomhash":"ca7e30316525134568722217b50046f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108664807
+        }
+    ],
+    "wof:id":1108664807,
+    "wof:lastmodified":1474068436,
+    "wof:name":"R-k Decoration San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0041599274,
+    41.0906181335,
+    29.0041599274,
+    41.0906181335
+],
+  "geometry": {"coordinates":[29.0041599274,41.0906181335],"type":"Point"}
+}

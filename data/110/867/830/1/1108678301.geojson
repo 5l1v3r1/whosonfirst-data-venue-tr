@@ -1,0 +1,68 @@
+{
+  "id": 1108678301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0311279297,41.0353813171,29.0311279297,41.0353813171",
+    "geom:latitude":41.035381,
+    "geom:longitude":29.031128,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bostan Sk. G? Apt. No:6 D:3 Besiktas",
+    "sg:city":"B.cekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 260 7651",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904141,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nxi72WDMoxbQA10GM67Is_41.035381_29.031128@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068975,
+    "wof:geomhash":"0e672fe8034bbc4ed9281159cc217a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904141,
+            "region_id":85679237,
+            "venue_id":1108678301
+        }
+    ],
+    "wof:id":1108678301,
+    "wof:lastmodified":1474068975,
+    "wof:name":"Yuksek Ogrenimde Rerber. Tanitma Ve Rehber Yetistirme Vakfi",
+    "wof:parent_id":85904141,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    29.0311279297,
+    41.0353813171,
+    29.0311279297,
+    41.0353813171
+],
+  "geometry": {"coordinates":[29.0311279297,41.0353813171],"type":"Point"}
+}

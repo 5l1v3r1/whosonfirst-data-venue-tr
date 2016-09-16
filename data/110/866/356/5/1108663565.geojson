@@ -1,0 +1,73 @@
+{
+  "id": 1108663565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.85414505,39.9513168335,32.85414505,39.9513168335",
+    "geom:latitude":39.951317,
+    "geom:longitude":32.854145,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.karabekir Cad. No:37/101",
+    "sg:city":"Iskitler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 384 2504",
+    "sg:postcode":"06070",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "wall",
+        "plast",
+        "panel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929513,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64P424hglGYkAANpe5iDzJ_39.951317_32.854145@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068387,
+    "wof:geomhash":"8c374acc83f051ee10ecf25e7b848689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929513,
+            "region_id":85679409,
+            "venue_id":1108663565
+        }
+    ],
+    "wof:id":1108663565,
+    "wof:lastmodified":1474068387,
+    "wof:name":"Panelsan Yapi Sist. San. Ve Tic. Ltd. Sti.",
+    "wof:parent_id":85929513,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wall",
+        "plast",
+        "panel"
+    ]
+},
+  "bbox": [
+    32.85414505,
+    39.9513168335,
+    32.85414505,
+    39.9513168335
+],
+  "geometry": {"coordinates":[32.85414505,39.9513168335],"type":"Point"}
+}

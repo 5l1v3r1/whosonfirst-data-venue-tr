@@ -1,0 +1,66 @@
+{
+  "id": 1108572301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1595001221,40.9112014771,29.1595001221,40.9112014771",
+    "geom:latitude":40.911201,
+    "geom:longitude":29.1595,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cengiz S. Cd. Durmus Oglu Sit. No:1 Kartal",
+    "sg:city":"Eskigaraj",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 306 6490",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_525rTHzppy3I5nL8N3gHFg_40.911201_29.159500@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064551,
+    "wof:geomhash":"7e4f4379830e6a88978a2429a3be6947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930179,
+            "venue_id":1108572301
+        }
+    ],
+    "wof:id":1108572301,
+    "wof:lastmodified":1474064551,
+    "wof:name":"Serar Plastik Ve Ambalaj San. A.s.",
+    "wof:parent_id":85930179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    29.1595001221,
+    40.9112014771,
+    29.1595001221,
+    40.9112014771
+],
+  "geometry": {"coordinates":[29.1595001221,40.9112014771],"type":"Point"}
+}

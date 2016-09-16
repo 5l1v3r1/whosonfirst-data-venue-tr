@@ -1,0 +1,71 @@
+{
+  "id": 1108604087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8853340149,39.9001312256,32.8853340149,39.9001312256",
+    "geom:latitude":39.900131,
+    "geom:longitude":32.885334,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunali Hilmi Cd. B?ten Sk. No:25/7 Kavaklidere",
+    "sg:city":"Topcular",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 5432",
+    "sg:postcode":"81040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "aluminium",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4suf1S1CvjmpK3JrhXAS05_39.900131_32.885334@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065798,
+    "wof:geomhash":"6fca2402ccbc81c116416bdf5ef58ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108604087
+        }
+    ],
+    "wof:id":1108604087,
+    "wof:lastmodified":1474065798,
+    "wof:name":"G?ral Al?minyum San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8853340149,
+    39.9001312256,
+    32.8853340149,
+    39.9001312256
+],
+  "geometry": {"coordinates":[32.8853340149,39.9001312256],"type":"Point"}
+}

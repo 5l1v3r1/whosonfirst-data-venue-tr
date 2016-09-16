@@ -1,0 +1,72 @@
+{
+  "id": 1108673041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1137542725,40.9757041931,29.1137542725,40.9757041931",
+    "geom:latitude":40.975704,
+    "geom:longitude":29.113754,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Karsli Ahmet Cd. No:71",
+    "sg:city":"I?renk?",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 380 7691",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930125,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mEw9aWZDu6zSYWF971gP_40.975704_29.113754@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068763,
+    "wof:geomhash":"7daf139a2155454347c001e1e92b74fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930125,
+            "region_id":85679237,
+            "venue_id":1108673041
+        }
+    ],
+    "wof:id":1108673041,
+    "wof:lastmodified":1474068763,
+    "wof:name":"G?lbah?e ?i?ek Evi",
+    "wof:parent_id":85930125,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.1137542725,
+    40.9757041931,
+    29.1137542725,
+    40.9757041931
+],
+  "geometry": {"coordinates":[29.1137542725,40.9757041931],"type":"Point"}
+}

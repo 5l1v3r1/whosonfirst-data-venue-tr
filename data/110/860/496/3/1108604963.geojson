@@ -1,0 +1,75 @@
+{
+  "id": 1108604963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.093919754,40.9944763184,29.093919754,40.9944763184",
+    "geom:latitude":40.994476,
+    "geom:longitude":29.09392,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fevzi Cakmak Mah. Fatih Cad. No:22/c",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 433 1545",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "ready",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4stpoCvsFgRPgMY7d2xlmz_40.994476_29.093920@1306270061"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065844,
+    "wof:geomhash":"3d488b755d2fc76067210f91db266d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108604963
+        }
+    ],
+    "wof:id":1108604963,
+    "wof:lastmodified":1474065844,
+    "wof:name":"Aydin Giyim",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "wear"
+    ]
+},
+  "bbox": [
+    29.093919754,
+    40.9944763184,
+    29.093919754,
+    40.9944763184
+],
+  "geometry": {"coordinates":[29.093919754,40.9944763184],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108659995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9947376251,41.0918807983,28.9947376251,41.0918807983",
+    "geom:latitude":41.091881,
+    "geom:longitude":28.994738,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Mah.sultan Selim Cad.biricik Sok. No:6 4.levent",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 279 8534",
+    "sg:postcode":"34876",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dg50XfBBKas4D8GltT8lf_41.091881_28.994738@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068255,
+    "wof:geomhash":"56c7ecbe5d5b3f9b290010f859cc5adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108659995
+        }
+    ],
+    "wof:id":1108659995,
+    "wof:lastmodified":1474068255,
+    "wof:name":"Cinar Ambalaj",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9947376251,
+    41.0918807983,
+    28.9947376251,
+    41.0918807983
+],
+  "geometry": {"coordinates":[28.9947376251,41.0918807983],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1108661541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9289798737,41.0144119263,28.9289798737,41.0144119263",
+    "geom:latitude":41.014412,
+    "geom:longitude":28.92898,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Haskoy Cad.haskoy Firin Sok.no:5",
+    "sg:city":"Yenimahalle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 237 7610",
+    "sg:postcode":"06",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906451,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zWNxgEUZ5kFW5tdQUzCF5_41.014412_28.928980@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068309,
+    "wof:geomhash":"cc88a2e564d35ef8549b8f9496aaec5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906451,
+            "region_id":85679237,
+            "venue_id":1108661541
+        }
+    ],
+    "wof:id":1108661541,
+    "wof:lastmodified":1474068309,
+    "wof:name":"Detay Ambalaj San.",
+    "wof:parent_id":85906451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper"
+    ]
+},
+  "bbox": [
+    28.9289798737,
+    41.0144119263,
+    28.9289798737,
+    41.0144119263
+],
+  "geometry": {"coordinates":[28.9289798737,41.0144119263],"type":"Point"}
+}

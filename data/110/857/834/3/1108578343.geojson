@@ -1,0 +1,73 @@
+{
+  "id": 1108578343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9887313843,41.0476341248,28.9887313843,41.0476341248",
+    "geom:latitude":41.047634,
+    "geom:longitude":28.988731,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vefabey Sk. No:9 G.tepe",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 288 1161",
+    "sg:postcode":"326",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mXiREDcVyCNnTetqwuvsj_41.047634_28.988731@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064885,
+    "wof:geomhash":"38a00939ab043d03f9b89c70d8ffa7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108578343
+        }
+    ],
+    "wof:id":1108578343,
+    "wof:lastmodified":1474064885,
+    "wof:name":"Mitasan B?ro Mak. A.s.",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine"
+    ]
+},
+  "bbox": [
+    28.9887313843,
+    41.0476341248,
+    28.9887313843,
+    41.0476341248
+],
+  "geometry": {"coordinates":[28.9887313843,41.0476341248],"type":"Point"}
+}

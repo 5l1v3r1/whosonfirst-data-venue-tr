@@ -1,0 +1,73 @@
+{
+  "id": 1108585009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0288238525,41.0733528137,29.0288238525,41.0733528137",
+    "geom:latitude":41.073353,
+    "geom:longitude":29.028824,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kultur Mah. Aydin Sok. No:11-b",
+    "sg:city":"Mecidiyekoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 287 9932",
+    "sg:postcode":"34387",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930001,
+        102191569,
+        85632393,
+        101912663,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74cpTRMzCVTXWJ0kNiVtkk_41.073353_29.028824@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065131,
+    "wof:geomhash":"b74851a7b43099a40b7a170be959956f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912663,
+            "neighbourhood_id":85930001,
+            "region_id":85679237,
+            "venue_id":1108585009
+        }
+    ],
+    "wof:id":1108585009,
+    "wof:lastmodified":1474065131,
+    "wof:name":"Prosel Tanitim",
+    "wof:parent_id":85930001,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    29.0288238525,
+    41.0733528137,
+    29.0288238525,
+    41.0733528137
+],
+  "geometry": {"coordinates":[29.0288238525,41.0733528137],"type":"Point"}
+}

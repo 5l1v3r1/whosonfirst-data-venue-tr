@@ -1,0 +1,72 @@
+{
+  "id": 1108671055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9979839325,41.0611534119,28.9979839325,41.0611534119",
+    "geom:latitude":41.061153,
+    "geom:longitude":28.997984,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hakki Yeten Cad., Dogu Is Merkezi, No.17/4, Fulya-besiktas",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 295 5505",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929365,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OdmlDWaFWX55z8WhNdmNJ_41.061153_28.997984@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068684,
+    "wof:geomhash":"dad419b940d2e9553da284adaec1b87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929365,
+            "region_id":85679237,
+            "venue_id":1108671055
+        }
+    ],
+    "wof:id":1108671055,
+    "wof:lastmodified":1474068684,
+    "wof:name":"Entez Menkul Degerler",
+    "wof:parent_id":85929365,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9979839325,
+    41.0611534119,
+    28.9979839325,
+    41.0611534119
+],
+  "geometry": {"coordinates":[28.9979839325,41.0611534119],"type":"Point"}
+}

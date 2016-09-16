@@ -1,0 +1,71 @@
+{
+  "id": 1108604037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8560333252,39.9438743591,32.8560333252,39.9438743591",
+    "geom:latitude":39.943874,
+    "geom:longitude":32.856033,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tasdelen Cd. No:27 Zemin Kat Siteler",
+    "sg:city":"Gebze",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 351 5665",
+    "sg:postcode":"41400",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "aluminium",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929573,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kREmGuV67XJZdoLbXkpFg_39.943874_32.856033@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065796,
+    "wof:geomhash":"acc452a4bf01c493c015e989462ca853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929573,
+            "region_id":85679409,
+            "venue_id":1108604037
+        }
+    ],
+    "wof:id":1108604037,
+    "wof:lastmodified":1474065796,
+    "wof:name":"Can Al?minyum San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminium",
+        "industry"
+    ]
+},
+  "bbox": [
+    32.8560333252,
+    39.9438743591,
+    32.8560333252,
+    39.9438743591
+],
+  "geometry": {"coordinates":[32.8560333252,39.9438743591],"type":"Point"}
+}

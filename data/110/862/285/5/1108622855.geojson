@@ -1,0 +1,72 @@
+{
+  "id": 1108622855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9794883728,41.026134491,28.9794883728,41.026134491",
+    "geom:latitude":41.026134,
+    "geom:longitude":28.979488,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Necatibey Cd. No:95",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 249 2495",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "tank-heating-natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906583,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MSwcLSpXXLAj4a81qdQan_41.026134_28.979488@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066585,
+    "wof:geomhash":"eee807614e26f57e0f21d0708f444bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906583,
+            "region_id":85679237,
+            "venue_id":1108622855
+        }
+    ],
+    "wof:id":1108622855,
+    "wof:lastmodified":1474066585,
+    "wof:name":"Era End?striyel R?le Imalat San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906583,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank-heating-natural"
+    ]
+},
+  "bbox": [
+    28.9794883728,
+    41.026134491,
+    28.9794883728,
+    41.026134491
+],
+  "geometry": {"coordinates":[28.9794883728,41.026134491],"type":"Point"}
+}

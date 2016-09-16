@@ -1,0 +1,68 @@
+{
+  "id": 1108671043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.01263237,41.0789680481,29.01263237,41.0789680481",
+    "geom:latitude":41.078968,
+    "geom:longitude":29.012632,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukdere Cad. No.197, K.1 Levent",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 324 0700",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wrLhZtPlVRufGju5rE1Jb_41.078968_29.012632@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068683,
+    "wof:geomhash":"7f2b65664d607c321ca505aebdf1f70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108671043
+        }
+    ],
+    "wof:id":1108671043,
+    "wof:lastmodified":1474068683,
+    "wof:name":"Ekinciler Yatirim Ve Menkul Degerler A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    29.01263237,
+    41.0789680481,
+    29.01263237,
+    41.0789680481
+],
+  "geometry": {"coordinates":[29.01263237,41.0789680481],"type":"Point"}
+}

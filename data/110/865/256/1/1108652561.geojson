@@ -1,0 +1,71 @@
+{
+  "id": 1108652561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9552135468,41.0093345642,28.9552135468,41.0093345642",
+    "geom:latitude":41.009335,
+    "geom:longitude":28.955214,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aksaray Cad.no:3/1",
+    "sg:city":"Laleli",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 518 7676",
+    "sg:postcode":"24300",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "men",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906505,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51W9cH1vY5lAFLSZHCCJ4g_41.009335_28.955214@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067963,
+    "wof:geomhash":"87a35a217c55886ef6a9dd20fb2e73cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906505,
+            "region_id":85679237,
+            "venue_id":1108652561
+        }
+    ],
+    "wof:id":1108652561,
+    "wof:lastmodified":1474067963,
+    "wof:name":"Kusanal Konfeksiyon",
+    "wof:parent_id":85906505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9552135468,
+    41.0093345642,
+    28.9552135468,
+    41.0093345642
+],
+  "geometry": {"coordinates":[28.9552135468,41.0093345642],"type":"Point"}
+}

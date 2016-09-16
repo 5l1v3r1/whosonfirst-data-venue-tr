@@ -1,0 +1,68 @@
+{
+  "id": 1108572655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9693450928,41.0170631409,28.9693450928,41.0170631409",
+    "geom:latitude":41.017063,
+    "geom:longitude":28.969345,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hasircilar Caddesi No:74",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 527 4727",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "sg:website":"zeynelplastik.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906477,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nHEFSKXzQ9H5h92HZHCYL_41.017063_28.969345@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064566,
+    "wof:geomhash":"3c5a838b90729f3f3f2434471f5760e9",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906477,
+            "region_id":85679237,
+            "venue_id":1108572655
+        }
+    ],
+    "wof:id":1108572655,
+    "wof:lastmodified":1474064566,
+    "wof:name":"Zeynel Plastik San. Tic. Ltd. Sti.",
+    "wof:parent_id":85906477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9693450928,
+    41.0170631409,
+    28.9693450928,
+    41.0170631409
+],
+  "geometry": {"coordinates":[28.9693450928,41.0170631409],"type":"Point"}
+}

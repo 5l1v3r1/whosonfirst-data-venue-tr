@@ -1,0 +1,72 @@
+{
+  "id": 1108673301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9903392792,41.0366630554,28.9903392792,41.0366630554",
+    "geom:latitude":41.036663,
+    "geom:longitude":28.990339,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Piripasa Mah. Inonu Cad.",
+    "sg:city":"Silivri",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 723 8523",
+    "sg:postcode":"34570",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69XTcNJngnaDkJH9hG7oj5_41.036663_28.990339@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068777,
+    "wof:geomhash":"0fc3212b4f70459e4441a0bc3a0a20b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904113,
+            "region_id":85679237,
+            "venue_id":1108673301
+        }
+    ],
+    "wof:id":1108673301,
+    "wof:lastmodified":1474068777,
+    "wof:name":"Oz-ak Cicekcilik",
+    "wof:parent_id":85904113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.9903392792,
+    41.0366630554,
+    28.9903392792,
+    41.0366630554
+],
+  "geometry": {"coordinates":[28.9903392792,41.0366630554],"type":"Point"}
+}

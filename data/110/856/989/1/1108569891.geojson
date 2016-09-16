@@ -1,0 +1,82 @@
+{
+  "id": 1108569891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9436798096,41.0583305359,28.9436798096,41.0583305359",
+    "geom:latitude":41.058331,
+    "geom:longitude":28.94368,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Silahtaraga Cd. No:45 Maltepe",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 364 2103",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930103,
+        102191569,
+        85632393,
+        101913185,
+        85679237,
+        85929477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c307knBRCjyN2IoIX49ip_41.058331_28.943680@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064449,
+    "wof:geomhash":"fd99fa08685a021e1c89843340e8973c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85930103,
+            "region_id":85679237,
+            "venue_id":1108569891
+        },
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929477,
+            "region_id":85679237,
+            "venue_id":1108569891
+        }
+    ],
+    "wof:id":1108569891,
+    "wof:lastmodified":1474064449,
+    "wof:name":"Yontar Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9436798096,
+    41.0583305359,
+    28.9436798096,
+    41.0583305359
+],
+  "geometry": {"coordinates":[28.9436798096,41.0583305359],"type":"Point"}
+}

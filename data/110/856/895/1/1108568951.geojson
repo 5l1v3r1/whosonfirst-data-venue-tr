@@ -1,0 +1,75 @@
+{
+  "id": 1108568951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9835090637,41.0750465393,28.9835090637,41.0750465393",
+    "geom:latitude":41.075047,
+    "geom:longitude":28.983509,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sevin?cd. No:4/6 Alibeyk?",
+    "sg:city":"Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 626 4594",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GIr5qUzjA22yMfDeidm3w_41.075047_28.983509@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064414,
+    "wof:geomhash":"80d875a2491101c2876412824f0a52a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108568951
+        }
+    ],
+    "wof:id":1108568951,
+    "wof:lastmodified":1474064414,
+    "wof:name":"Purde Makina San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9835090637,
+    41.0750465393,
+    28.9835090637,
+    41.0750465393
+],
+  "geometry": {"coordinates":[28.9835090637,41.0750465393],"type":"Point"}
+}

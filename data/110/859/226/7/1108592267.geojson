@@ -1,0 +1,68 @@
+{
+  "id": 1108592267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0165176392,41.0762405396,29.0165176392,41.0762405396",
+    "geom:latitude":41.076241,
+    "geom:longitude":29.016518,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Fatih Cad.ardi?sk. No.24",
+    "sg:city":"Merter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 637 0514",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1403Yr7m6icWku4neTMqSe_41.076241_29.016518@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065318,
+    "wof:geomhash":"8dd0cad7c043c498a723bb7b313c22ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108592267
+        }
+    ],
+    "wof:id":1108592267,
+    "wof:lastmodified":1474065318,
+    "wof:name":"Saray ?rme Konfeksiyon A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    29.0165176392,
+    41.0762405396,
+    29.0165176392,
+    41.0762405396
+],
+  "geometry": {"coordinates":[29.0165176392,41.0762405396],"type":"Point"}
+}

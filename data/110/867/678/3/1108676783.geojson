@@ -1,0 +1,68 @@
+{
+  "id": 1108676783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9111595154,41.0398368835,28.9111595154,41.0398368835",
+    "geom:latitude":41.039837,
+    "geom:longitude":28.91116,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Uskup Sk. No:23 Bayrampasa",
+    "sg:city":"07100",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 565 9030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906463,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZCPCBIvV3XbPKx3gGlZaN_41.039837_28.911160@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068918,
+    "wof:geomhash":"c22f082d6425569bb51bcd6bf8df6d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906463,
+            "region_id":85679237,
+            "venue_id":1108676783
+        }
+    ],
+    "wof:id":1108676783,
+    "wof:lastmodified":1474068918,
+    "wof:name":"Kastamonu Entegre Agac San. Tic. A.s.",
+    "wof:parent_id":85906463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    28.9111595154,
+    41.0398368835,
+    28.9111595154,
+    41.0398368835
+],
+  "geometry": {"coordinates":[28.9111595154,41.0398368835],"type":"Point"}
+}

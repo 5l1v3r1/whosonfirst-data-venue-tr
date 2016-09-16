@@ -1,0 +1,71 @@
+{
+  "id": 1108655621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8503456116,39.885269165,32.8503456116,39.885269165",
+    "geom:latitude":39.885269,
+    "geom:longitude":32.850346,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Cd. No:184/a Y.ayranci",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 238 2607",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rTFrLhOZRzTzVfOo0enr8_39.885269_32.850346@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068084,
+    "wof:geomhash":"6a07e8eb37e3c5164ac4104293caeddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108655621
+        }
+    ],
+    "wof:id":1108655621,
+    "wof:lastmodified":1474068084,
+    "wof:name":"Sayak?i Madencilik Tic. Ltd. Sti.",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8503456116,
+    39.885269165,
+    32.8503456116,
+    39.885269165
+],
+  "geometry": {"coordinates":[32.8503456116,39.885269165],"type":"Point"}
+}

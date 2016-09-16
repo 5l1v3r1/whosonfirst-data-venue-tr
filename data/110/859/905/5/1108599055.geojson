@@ -1,0 +1,73 @@
+{
+  "id": 1108599055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.065404892,41.1194038391,29.065404892,41.1194038391",
+    "geom:latitude":41.119404,
+    "geom:longitude":29.065405,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cifte Kasap Sk. No.11/2",
+    "sg:city":"Yenik?",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 299 6275",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34HU8JZlzOvtzhZryn8Njk_41.119404_29.065405@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065591,
+    "wof:geomhash":"2b15c69bc8d2e3e84560c1817b9ab053",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929815,
+            "region_id":85679237,
+            "venue_id":1108599055
+        }
+    ],
+    "wof:id":1108599055,
+    "wof:lastmodified":1474065591,
+    "wof:name":"Karatek Ic Ve Dis Ticaret",
+    "wof:parent_id":85929815,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    29.065404892,
+    41.1194038391,
+    29.065404892,
+    41.1194038391
+],
+  "geometry": {"coordinates":[29.065404892,41.1194038391],"type":"Point"}
+}

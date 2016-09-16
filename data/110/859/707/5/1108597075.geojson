@@ -1,0 +1,73 @@
+{
+  "id": 1108597075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9025211334,40.9839324951,28.9025211334,40.9839324951",
+    "geom:latitude":40.983932,
+    "geom:longitude":28.902521,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zubeyde Hanim Cad. No:208 Zeytinburnu",
+    "sg:city":"\u00c7orlu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 547 1283",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "leather-fur",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85906615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KwCDKMEAOnQPpyZYvr5C3_40.983932_28.902521@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065515,
+    "wof:geomhash":"8bdf5ee82e71d87f6130e14d938e1e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906615,
+            "region_id":85679237,
+            "venue_id":1108597075
+        }
+    ],
+    "wof:id":1108597075,
+    "wof:lastmodified":1474065515,
+    "wof:name":"Sayram Collection",
+    "wof:parent_id":85906615,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leather-fur",
+        "wear"
+    ]
+},
+  "bbox": [
+    28.9025211334,
+    40.9839324951,
+    28.9025211334,
+    40.9839324951
+],
+  "geometry": {"coordinates":[28.9025211334,40.9839324951],"type":"Point"}
+}

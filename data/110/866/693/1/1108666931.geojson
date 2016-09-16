@@ -1,0 +1,63 @@
+{
+  "id": 1108666931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8740997314,39.9622001648,32.8740997314,39.9622001648",
+    "geom:latitude":39.9622,
+    "geom:longitude":32.8741,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hisarpark Cd. Kale Ish. No:16 D:5 Altindag",
+    "sg:city":"Erenk?",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 324 0694",
+    "sg:province":"Ankara",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929613,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wBZTNRKNrkKwQsqWs8OvI_39.962200_32.874100@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068520,
+    "wof:geomhash":"1f89189454f104f3ca267ed87ccbe37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929613,
+            "region_id":85679409,
+            "venue_id":1108666931
+        }
+    ],
+    "wof:id":1108666931,
+    "wof:lastmodified":1474068520,
+    "wof:name":"Ankara Tuhafiye, Parfumeri Ve Billuriyeci. Odasi",
+    "wof:parent_id":85929613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8740997314,
+    39.9622001648,
+    32.8740997314,
+    39.9622001648
+],
+  "geometry": {"coordinates":[32.8740997314,39.9622001648],"type":"Point"}
+}

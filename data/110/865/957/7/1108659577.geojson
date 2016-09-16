@@ -1,0 +1,71 @@
+{
+  "id": 1108659577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8575363159,39.9227905273,32.8575363159,39.9227905273",
+    "geom:latitude":39.922791,
+    "geom:longitude":32.857536,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mithatpasa Cd. No:21/1 Kizilay",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 432 1978",
+    "sg:postcode":"77200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "record",
+        "casette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929551,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23jgoFxCeMGZTUxOsHbQ03_39.922791_32.857536@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068239,
+    "wof:geomhash":"f44e2b6ed8dceb45b1bbe5cd819852bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929551,
+            "region_id":85679409,
+            "venue_id":1108659577
+        }
+    ],
+    "wof:id":1108659577,
+    "wof:lastmodified":1474068239,
+    "wof:name":"Ass M?zik Kurslari",
+    "wof:parent_id":85929551,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "casette"
+    ]
+},
+  "bbox": [
+    32.8575363159,
+    39.9227905273,
+    32.8575363159,
+    39.9227905273
+],
+  "geometry": {"coordinates":[32.8575363159,39.9227905273],"type":"Point"}
+}

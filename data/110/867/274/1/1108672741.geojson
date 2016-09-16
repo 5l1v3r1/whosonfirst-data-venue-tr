@@ -1,0 +1,73 @@
+{
+  "id": 1108672741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0037441254,41.0446929932,29.0037441254,41.0446929932",
+    "geom:latitude":41.044693,
+    "geom:longitude":29.003744,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ihlamurdere Cd. Altintas Sk. No:39",
+    "sg:city":"Besiktas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 261 8577",
+    "sg:postcode":"75200",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XRCSL17NmEusP6QeawfFi_41.044693_29.003744@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068744,
+    "wof:geomhash":"099b3e2962522717fa395830400d7e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108672741
+        }
+    ],
+    "wof:id":1108672741,
+    "wof:lastmodified":1474068744,
+    "wof:name":"Annemiz ?i?ek Evi",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0037441254,
+    41.0446929932,
+    29.0037441254,
+    41.0446929932
+],
+  "geometry": {"coordinates":[29.0037441254,41.0446929932],"type":"Point"}
+}

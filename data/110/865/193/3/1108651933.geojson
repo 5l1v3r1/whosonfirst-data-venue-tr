@@ -1,0 +1,72 @@
+{
+  "id": 1108651933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9614639282,41.0061454773,28.9614639282,41.0061454773",
+    "geom:latitude":41.006145,
+    "geom:longitude":28.961464,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Zincirlikuyu Cad. No:231 K:3 Kasim Ps",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 235 6947",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85904167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15YkLBu5S9xreFXVb1aUeO_41.006145_28.961464@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067919,
+    "wof:geomhash":"40ad28676b98c4975eef492db57ad3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85904167,
+            "region_id":85679237,
+            "venue_id":1108651933
+        }
+    ],
+    "wof:id":1108651933,
+    "wof:lastmodified":1474067919,
+    "wof:name":"Tibset A.s.",
+    "wof:parent_id":85904167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    28.9614639282,
+    41.0061454773,
+    28.9614639282,
+    41.0061454773
+],
+  "geometry": {"coordinates":[28.9614639282,41.0061454773],"type":"Point"}
+}

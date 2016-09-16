@@ -1,0 +1,71 @@
+{
+  "id": 1108568077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9206886292,41.0311851501,28.9206886292,41.0311851501",
+    "geom:latitude":41.031185,
+    "geom:longitude":28.920689,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ibrahimaga Cad. Sur Sok. No:16 Topkapi-maltepe",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 2582",
+    "sg:postcode":"34776",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906447,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WpjzMJ23xbypd5GEsbFRe_41.031185_28.920689@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064378,
+    "wof:geomhash":"2d9ed40f43dcdd1e034032947de4a4d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906447,
+            "region_id":85679237,
+            "venue_id":1108568077
+        }
+    ],
+    "wof:id":1108568077,
+    "wof:lastmodified":1474064378,
+    "wof:name":"Karaman Kardesler",
+    "wof:parent_id":85906447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9206886292,
+    41.0311851501,
+    28.9206886292,
+    41.0311851501
+],
+  "geometry": {"coordinates":[28.9206886292,41.0311851501],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108673071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8596134186,41.0186958313,28.8596134186,41.0186958313",
+    "geom:latitude":41.018696,
+    "geom:longitude":28.859613,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagcilar Cd. No.87",
+    "sg:city":"Bagcilar",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 507 8441",
+    "sg:postcode":"33115",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_313LeyvzAc9K4muLxydKgi_41.018696_28.859613@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068763,
+    "wof:geomhash":"3479bf4fb1e146dc4d7b8cd51eaf2c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108673071
+        }
+    ],
+    "wof:id":1108673071,
+    "wof:lastmodified":1474068763,
+    "wof:name":"Hazal ?i?ek Evi",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    28.8596134186,
+    41.0186958313,
+    28.8596134186,
+    41.0186958313
+],
+  "geometry": {"coordinates":[28.8596134186,41.0186958313],"type":"Point"}
+}

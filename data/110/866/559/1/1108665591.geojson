@@ -1,0 +1,75 @@
+{
+  "id": 1108665591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8569335938,41.0161361694,28.8569335938,41.0161361694",
+    "geom:latitude":41.016136,
+    "geom:longitude":28.856934,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cami Sk. Sahin Apt. No:6 Haznedar",
+    "sg:city":"Kagithane",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 554 5814",
+    "sg:postcode":"34406",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "generator",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929785,
+        102191569,
+        85632393,
+        101912673,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yaoNekviHzJQZvff0XZaX_41.016136_28.856934@1306270073"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068471,
+    "wof:geomhash":"907df3c35c5f53cb168916932974c577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912673,
+            "neighbourhood_id":85929785,
+            "region_id":85679237,
+            "venue_id":1108665591
+        }
+    ],
+    "wof:id":1108665591,
+    "wof:lastmodified":1474068471,
+    "wof:name":"Ayfa Elektronik",
+    "wof:parent_id":85929785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generator",
+        "power"
+    ]
+},
+  "bbox": [
+    28.8569335938,
+    41.0161361694,
+    28.8569335938,
+    41.0161361694
+],
+  "geometry": {"coordinates":[28.8569335938,41.0161361694],"type":"Point"}
+}

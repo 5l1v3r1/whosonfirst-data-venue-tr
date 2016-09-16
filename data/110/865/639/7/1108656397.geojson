@@ -1,0 +1,71 @@
+{
+  "id": 1108656397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9971961975,41.0989608765,28.9971961975,41.0989608765",
+    "geom:latitude":41.098961,
+    "geom:longitude":28.997196,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Seyrantepe Mah., Yayincilar Sk. No.4 K:4 Levent",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 283 0293",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930237,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bGDviYj4c1Ken47YoP01b_41.098961_28.997196@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068116,
+    "wof:geomhash":"bb23f306c8073dc06b6a8a3247b2c5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930237,
+            "region_id":85679237,
+            "venue_id":1108656397
+        }
+    ],
+    "wof:id":1108656397,
+    "wof:lastmodified":1474068116,
+    "wof:name":"Jetka",
+    "wof:parent_id":85930237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mold"
+    ]
+},
+  "bbox": [
+    28.9971961975,
+    41.0989608765,
+    28.9971961975,
+    41.0989608765
+],
+  "geometry": {"coordinates":[28.9971961975,41.0989608765],"type":"Point"}
+}

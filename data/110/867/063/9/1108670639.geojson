@@ -1,0 +1,67 @@
+{
+  "id": 1108670639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.013343811,41.0222549438,29.013343811,41.0222549438",
+    "geom:latitude":41.022255,
+    "geom:longitude":29.013344,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"K.mahmut Pehlivan Cd. No:50/1",
+    "sg:city":"Bayrampasa",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 222 230 2062",
+    "sg:postcode":"36100",
+    "sg:province":"Eskisehir",
+    "sg:tags":[
+        "-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906595,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f6kLHQL94S2vybWH0zfAc_41.022255_29.013344@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068669,
+    "wof:geomhash":"0d465a688ff485529592eae2d0244741",
+    "wof:hierarchy":[
+        {
+            "neighbourhood_id":85906595,
+            "region_id":85679237,
+            "venue_id":1108670639
+        }
+    ],
+    "wof:id":1108670639,
+    "wof:lastmodified":1474068669,
+    "wof:name":"Mega Radyo Fm",
+    "wof:parent_id":85906595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-"
+    ]
+},
+  "bbox": [
+    29.013343811,
+    41.0222549438,
+    29.013343811,
+    41.0222549438
+],
+  "geometry": {"coordinates":[29.013343811,41.0222549438],"type":"Point"}
+}

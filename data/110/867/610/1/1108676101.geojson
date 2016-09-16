@@ -1,0 +1,73 @@
+{
+  "id": 1108676101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0023536682,41.0454063416,29.0023536682,41.0454063416",
+    "geom:latitude":41.045406,
+    "geom:longitude":29.002354,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Besiktas L",
+    "sg:city":"Cankaya",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 227 6081",
+    "sg:postcode":"07080",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S71dMpkPyA4rZc5KmAJ9s_41.045406_29.002354@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068895,
+    "wof:geomhash":"7a2292068201e87d5127c4689bb60704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108676101
+        }
+    ],
+    "wof:id":1108676101,
+    "wof:lastmodified":1474068895,
+    "wof:name":"Malta",
+    "wof:parent_id":85929495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    29.0023536682,
+    41.0454063416,
+    29.0023536682,
+    41.0454063416
+],
+  "geometry": {"coordinates":[29.0023536682,41.0454063416],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1108585795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0030727386,41.0692443848,29.0030727386,41.0692443848",
+    "geom:latitude":41.069244,
+    "geom:longitude":29.003073,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Esentepe Mah Zincirlidere Cad 36/10 Meri? Plaza",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 356 9686",
+    "sg:postcode":"34394",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "water",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929407,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PsfQSnxWoRVZd4vNaQe6h_41.069244_29.003073@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065152,
+    "wof:geomhash":"2d38e50487c50a46383fcfb722d6a9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929407,
+            "region_id":85679237,
+            "venue_id":1108585795
+        }
+    ],
+    "wof:id":1108585795,
+    "wof:lastmodified":1474065152,
+    "wof:name":"Ecs Kimya San Ve Tic Ltd Sti",
+    "wof:parent_id":85929407,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    29.0030727386,
+    41.0692443848,
+    29.0030727386,
+    41.0692443848
+],
+  "geometry": {"coordinates":[29.0030727386,41.0692443848],"type":"Point"}
+}

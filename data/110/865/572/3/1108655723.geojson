@@ -1,0 +1,71 @@
+{
+  "id": 1108655723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2076511383,38.4327545166,27.2076511383,38.4327545166",
+    "geom:latitude":38.432755,
+    "geom:longitude":27.207651,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"S?er Sk. No:6/3 Kizilay",
+    "sg:city":"Iskenderun",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 229 5603",
+    "sg:postcode":"31200",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904075,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UDNARW6DxtdBkkieLMkVG_38.432755_27.207651@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068088,
+    "wof:geomhash":"f29b6c98aeae2feb8f3a46968dea408d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904075,
+            "region_id":85679201,
+            "venue_id":1108655723
+        }
+    ],
+    "wof:id":1108655723,
+    "wof:lastmodified":1474068088,
+    "wof:name":"Uzay M?savirlik Madencilik Ltd. Sti.",
+    "wof:parent_id":85904075,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    27.2076511383,
+    38.4327545166,
+    27.2076511383,
+    38.4327545166
+],
+  "geometry": {"coordinates":[27.2076511383,38.4327545166],"type":"Point"}
+}

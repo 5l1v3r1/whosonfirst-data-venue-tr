@@ -1,0 +1,71 @@
+{
+  "id": 1108654781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3224868774,36.9909629822,35.3224868774,36.9909629822",
+    "geom:latitude":36.990963,
+    "geom:longitude":35.322487,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ptt Mah.",
+    "sg:city":"Yuregir",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 329 3949",
+    "sg:postcode":"01000",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "pruducts",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MaCQbuCZiefZd4NJaVOWG_36.990963_35.322487@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068051,
+    "wof:geomhash":"e9aee62c5e70cde03bb741abaa2a48df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108654781
+        }
+    ],
+    "wof:id":1108654781,
+    "wof:lastmodified":1474068051,
+    "wof:name":"Sut Pinari",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pruducts",
+        "milk"
+    ]
+},
+  "bbox": [
+    35.3224868774,
+    36.9909629822,
+    35.3224868774,
+    36.9909629822
+],
+  "geometry": {"coordinates":[35.3224868774,36.9909629822],"type":"Point"}
+}

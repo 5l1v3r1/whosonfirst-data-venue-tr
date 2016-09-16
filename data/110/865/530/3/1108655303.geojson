@@ -1,0 +1,75 @@
+{
+  "id": 1108655303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0808982849,40.9601516724,29.0808982849,40.9601516724",
+    "geom:latitude":40.960152,
+    "geom:longitude":29.080898,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Bagdat Cd. No:190 Kadik?",
+    "sg:city":"Sisli",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 386 4610",
+    "sg:postcode":"34620",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930005,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tLe4EZUTpINJQIm5gJEkS_40.960152_29.080898@1306270071"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068071,
+    "wof:geomhash":"7d2c047b896631e3d9a0380fa934e4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930005,
+            "region_id":85679237,
+            "venue_id":1108655303
+        }
+    ],
+    "wof:id":1108655303,
+    "wof:lastmodified":1474068071,
+    "wof:name":"Filiz Madencilik A.s.",
+    "wof:parent_id":85930005,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    29.0808982849,
+    40.9601516724,
+    29.0808982849,
+    40.9601516724
+],
+  "geometry": {"coordinates":[29.0808982849,40.9601516724],"type":"Point"}
+}

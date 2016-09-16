@@ -1,0 +1,70 @@
+{
+  "id": 1108602407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8902549744,41.0858535767,28.8902549744,41.0858535767",
+    "geom:latitude":41.085854,
+    "geom:longitude":28.890255,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad.no:161",
+    "sg:city":"K??k?",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21247788",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_567Y0wpoL9LPgbvT0rItLd_41.085854_28.890255@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065732,
+    "wof:geomhash":"92ce0d1ed120ffb59732d0f08f580382",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108602407
+        }
+    ],
+    "wof:id":1108602407,
+    "wof:lastmodified":1474065732,
+    "wof:name":"Mod?ler Sogutma Ve Panel Sistemleri Ltd.sti",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.8902549744,
+    41.0858535767,
+    28.8902549744,
+    41.0858535767
+],
+  "geometry": {"coordinates":[28.8902549744,41.0858535767],"type":"Point"}
+}

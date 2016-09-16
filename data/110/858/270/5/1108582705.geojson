@@ -1,0 +1,68 @@
+{
+  "id": 1108582705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1157302856,38.4537887573,27.1157302856,38.4537887573",
+    "geom:latitude":38.453789,
+    "geom:longitude":27.11573,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Mustafa Bey Cad. No:13 D:14 Alsancak",
+    "sg:city":"\u00dcsk\u00fcdar",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 463 9340",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aOESHvQoRx1w6OiSOPhog_38.453789_27.115730@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065078,
+    "wof:geomhash":"7260798acf4853d455149c0d7b4d9e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108582705
+        }
+    ],
+    "wof:id":1108582705,
+    "wof:lastmodified":1474065078,
+    "wof:name":"The Sandwich Method",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    27.1157302856,
+    38.4537887573,
+    27.1157302856,
+    38.4537887573
+],
+  "geometry": {"coordinates":[27.1157302856,38.4537887573],"type":"Point"}
+}

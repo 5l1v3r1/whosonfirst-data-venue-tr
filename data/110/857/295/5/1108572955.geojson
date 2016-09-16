@@ -1,0 +1,63 @@
+{
+  "id": 1108572955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1133174896,38.463306427,27.1133174896,38.463306427",
+    "geom:latitude":38.463306,
+    "geom:longitude":27.113317,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"1834/2 Sk. 8/5 Karsiyaka",
+    "sg:city":"4640",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 367 7805",
+    "sg:province":"Izmir",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39F6BNNeZzQ8hPgKUP4INr_38.463306_27.113317@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064578,
+    "wof:geomhash":"cf0cb18e838676c06718cdd650dad7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108572955
+        }
+    ],
+    "wof:id":1108572955,
+    "wof:lastmodified":1474064578,
+    "wof:name":"Dogan Aktas",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1133174896,
+    38.463306427,
+    27.1133174896,
+    38.463306427
+],
+  "geometry": {"coordinates":[27.1133174896,38.463306427],"type":"Point"}
+}

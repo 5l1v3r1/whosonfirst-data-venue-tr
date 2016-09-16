@@ -1,0 +1,71 @@
+{
+  "id": 1108672503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8497962952,39.9045753479,32.8497962952,39.9045753479",
+    "geom:latitude":39.904575,
+    "geom:longitude":32.849796,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Hosdere Caddesi No.160 / 9",
+    "sg:city":"Kemalpasa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 441 8436",
+    "sg:postcode":"01340",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "floor-wall",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929503,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_012u7fpeZm3Lq5sJSxsi1o_39.904575_32.849796@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068735,
+    "wof:geomhash":"df7a733ef5793a2ce997a7128157769a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929503,
+            "region_id":85679409,
+            "venue_id":1108672503
+        }
+    ],
+    "wof:id":1108672503,
+    "wof:lastmodified":1474068735,
+    "wof:name":"Greton Granit Ve Prekast Malzemeleri San A.s.",
+    "wof:parent_id":85929503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor-wall",
+        "covering"
+    ]
+},
+  "bbox": [
+    32.8497962952,
+    39.9045753479,
+    32.8497962952,
+    39.9045753479
+],
+  "geometry": {"coordinates":[32.8497962952,39.9045753479],"type":"Point"}
+}

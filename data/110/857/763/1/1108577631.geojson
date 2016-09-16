@@ -1,0 +1,73 @@
+{
+  "id": 1108577631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9837799072,41.0762634277,28.9837799072,41.0762634277",
+    "geom:latitude":41.076263,
+    "geom:longitude":28.98378,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tasocagi Cd. No:81 Caglayan",
+    "sg:city":"Hask?y-beyoglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 224 7015",
+    "sg:postcode":"34440",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930041,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ptRR3CLDOmeWVHn0PLTSk_41.076263_28.983780@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064830,
+    "wof:geomhash":"f2b3fdb9cfe045d0a2fa667ad4839051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85930041,
+            "region_id":85679237,
+            "venue_id":1108577631
+        }
+    ],
+    "wof:id":1108577631,
+    "wof:lastmodified":1474064830,
+    "wof:name":"Has Metal",
+    "wof:parent_id":85930041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    28.9837799072,
+    41.0762634277,
+    28.9837799072,
+    41.0762634277
+],
+  "geometry": {"coordinates":[28.9837799072,41.0762634277],"type":"Point"}
+}

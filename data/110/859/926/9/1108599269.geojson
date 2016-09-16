@@ -1,0 +1,70 @@
+{
+  "id": 1108599269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9692649841,41.0268325806,28.9692649841,41.0268325806",
+    "geom:latitude":41.026833,
+    "geom:longitude":28.969265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yolcuzade Iskender Cd. No:14",
+    "sg:city":"Sishane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 255 5505",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904111,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ltmbjvowiojz3H63X9S1e_41.026833_28.969265@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065599,
+    "wof:geomhash":"fb9b8aae94469dff47ff9f85a63e2259",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904111,
+            "region_id":85679237,
+            "venue_id":1108599269
+        }
+    ],
+    "wof:id":1108599269,
+    "wof:lastmodified":1474065599,
+    "wof:name":"Ta? Avize San. Dis Tic. Ltd. Sti.",
+    "wof:parent_id":85904111,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    28.9692649841,
+    41.0268325806,
+    28.9692649841,
+    41.0268325806
+],
+  "geometry": {"coordinates":[28.9692649841,41.0268325806],"type":"Point"}
+}

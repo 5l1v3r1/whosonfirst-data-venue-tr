@@ -1,0 +1,72 @@
+{
+  "id": 1108650697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0246295929,40.9955711365,29.0246295929,40.9955711365",
+    "geom:latitude":40.995571,
+    "geom:longitude":29.02463,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rihtim Cad. No:66 Kadik?",
+    "sg:city":"58010",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 346 4749",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929485,
+        102191569,
+        85632393,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57WSah7CtnE8M7cfpRQMB2_40.995571_29.024630@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067871,
+    "wof:geomhash":"fe44bbe2f25044f6960744cfe954bde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912675,
+            "neighbourhood_id":85929485,
+            "region_id":85679237,
+            "venue_id":1108650697
+        }
+    ],
+    "wof:id":1108650697,
+    "wof:lastmodified":1474067871,
+    "wof:name":"Alfa Med Ilac San. Tic. A.s.",
+    "wof:parent_id":85929485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    29.0246295929,
+    40.9955711365,
+    29.0246295929,
+    40.9955711365
+],
+  "geometry": {"coordinates":[29.0246295929,40.9955711365],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108635797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3250198364,36.9854202271,35.3250198364,36.9854202271",
+    "geom:latitude":36.98542,
+    "geom:longitude":35.32502,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Resatbey Mah. Ordu Cad. Meziyet Hanim Apt. Zemin Kat Seyhan",
+    "sg:city":"Erenkoy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 322 458 9950",
+    "sg:postcode":"07060",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929983,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hn32JqmfL4unHd082D2S7_36.985420_35.325020@1306270067"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067256,
+    "wof:geomhash":"ed6f0322023b157fe4e81754f2fcd080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929983,
+            "region_id":85679443,
+            "venue_id":1108635797
+        }
+    ],
+    "wof:id":1108635797,
+    "wof:lastmodified":1474067256,
+    "wof:name":"Ayser Bilgisayar",
+    "wof:parent_id":85929983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [
+    35.3250198364,
+    36.9854202271,
+    35.3250198364,
+    36.9854202271
+],
+  "geometry": {"coordinates":[35.3250198364,36.9854202271],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108575469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1282901764,40.9366226196,29.1282901764,40.9366226196",
+    "geom:latitude":40.936623,
+    "geom:longitude":29.12829,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rihtim Cad. No:207 K:4 Nesli Han",
+    "sg:city":"Karak\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 252 5724",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "yachting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85930197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72HhQPIb425hgPhyhZRbkx_40.936623_29.128290@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064680,
+    "wof:geomhash":"bff53f3e013ef9628bc228432a078847",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85930197,
+            "region_id":85679237,
+            "venue_id":1108575469
+        }
+    ],
+    "wof:id":1108575469,
+    "wof:lastmodified":1474064680,
+    "wof:name":"Best Yachting",
+    "wof:parent_id":85930197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yachting"
+    ]
+},
+  "bbox": [
+    29.1282901764,
+    40.9366226196,
+    29.1282901764,
+    40.9366226196
+],
+  "geometry": {"coordinates":[29.1282901764,40.9366226196],"type":"Point"}
+}

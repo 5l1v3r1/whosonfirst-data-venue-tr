@@ -1,0 +1,73 @@
+{
+  "id": 1108573745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0439453125,40.9919052124,29.0439453125,40.9919052124",
+    "geom:latitude":40.991905,
+    "geom:longitude":29.043945,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Selimpasa Sk. No:4/4",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 618 3953",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929427,
+        102191569,
+        85632393,
+        101912677,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wG7yckfnHMc7XfpdGEZKM_40.991905_29.043945@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064614,
+    "wof:geomhash":"ce1db442b82247d33208f12a88850d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912677,
+            "neighbourhood_id":85929427,
+            "region_id":85679237,
+            "venue_id":1108573745
+        }
+    ],
+    "wof:id":1108573745,
+    "wof:lastmodified":1474064614,
+    "wof:name":"G?neri Kristal Biblo San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.0439453125,
+    40.9919052124,
+    29.0439453125,
+    40.9919052124
+],
+  "geometry": {"coordinates":[29.0439453125,40.9919052124],"type":"Point"}
+}

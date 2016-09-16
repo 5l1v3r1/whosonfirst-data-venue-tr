@@ -1,0 +1,72 @@
+{
+  "id": 1108670987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9969673157,41.0520401001,28.9969673157,41.0520401001",
+    "geom:latitude":41.05204,
+    "geom:longitude":28.996967,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tesvikiye Cad. No.103 Ikbal Is Merkezi K.2 Tesvikiye",
+    "sg:city":"Asagi Ayranci",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 236 4510",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929397,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oKWUGRxIiMk97vBWEmAyg_41.052040_28.996967@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068681,
+    "wof:geomhash":"51509d4dbf40fe05bfd2a2580127a4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929397,
+            "region_id":85679237,
+            "venue_id":1108670987
+        }
+    ],
+    "wof:id":1108670987,
+    "wof:lastmodified":1474068681,
+    "wof:name":"Cagdas Menkul Degerler",
+    "wof:parent_id":85929397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finance"
+    ]
+},
+  "bbox": [
+    28.9969673157,
+    41.0520401001,
+    28.9969673157,
+    41.0520401001
+],
+  "geometry": {"coordinates":[28.9969673157,41.0520401001],"type":"Point"}
+}

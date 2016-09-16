@@ -1,0 +1,68 @@
+{
+  "id": 1108629987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"30.7143802643,36.8939399719,30.7143802643,36.8939399719",
+    "geom:latitude":36.89394,
+    "geom:longitude":30.71438,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2007 Sok No. 7, Caglayan Mah.",
+    "sg:city":"Antalya",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 902 423 2390",
+    "sg:province":"07230",
+    "sg:website":"www.kesit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929789,
+        102191569,
+        85632393,
+        101912923,
+        85679263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57gHTWRuL2tZo7PoSFRHbT_36.893940_30.714380@1306270065"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066915,
+    "wof:geomhash":"ec3cfa9660613a7bcc4fa842dc560a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912923,
+            "neighbourhood_id":85929789,
+            "region_id":85679263,
+            "venue_id":1108629987
+        }
+    ],
+    "wof:id":1108629987,
+    "wof:lastmodified":1474066915,
+    "wof:name":"Kesit Tourism And Hotels Travel Agency",
+    "wof:parent_id":85929789,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7143802643,
+    36.8939399719,
+    30.7143802643,
+    36.8939399719
+],
+  "geometry": {"coordinates":[30.7143802643,36.8939399719],"type":"Point"}
+}

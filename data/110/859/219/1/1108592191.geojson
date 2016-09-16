@@ -1,0 +1,68 @@
+{
+  "id": 1108592191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9699668884,41.0112533569,28.9699668884,41.0112533569",
+    "geom:latitude":41.011253,
+    "geom:longitude":28.969967,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cakmakcilar Yokusu No:92",
+    "sg:city":"Sultanhamam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 513 7918",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "knitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85906487,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a1BeHPkQbDip4nstygrIk_41.011253_28.969967@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065316,
+    "wof:geomhash":"18e88a4d31a028e1f0a6f146cade35d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85906487,
+            "region_id":85679237,
+            "venue_id":1108592191
+        }
+    ],
+    "wof:id":1108592191,
+    "wof:lastmodified":1474065316,
+    "wof:name":"Ogun Tekstil Sanayi Koll. Sti.",
+    "wof:parent_id":85906487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "knitting"
+    ]
+},
+  "bbox": [
+    28.9699668884,
+    41.0112533569,
+    28.9699668884,
+    41.0112533569
+],
+  "geometry": {"coordinates":[28.9699668884,41.0112533569],"type":"Point"}
+}

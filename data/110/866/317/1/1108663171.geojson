@@ -1,0 +1,68 @@
+{
+  "id": 1108663171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.502040863,37.8636627197,32.502040863,37.8636627197",
+    "geom:latitude":37.863663,
+    "geom:longitude":32.502041,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ankara Cd. Dede Han No:120",
+    "sg:city":"Kazasker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 519 4249",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85934711,
+        85679425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l7VeKgmnmzYkqwkivTnxt_37.863663_32.502041@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068372,
+    "wof:geomhash":"770c820d4af29f630031c6b66eda0c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85934711,
+            "region_id":85679425,
+            "venue_id":1108663171
+        }
+    ],
+    "wof:id":1108663171,
+    "wof:lastmodified":1474068372,
+    "wof:name":"Eftas Elekt. Foto San. Tic. A.s.",
+    "wof:parent_id":85934711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    32.502040863,
+    37.8636627197,
+    32.502040863,
+    37.8636627197
+],
+  "geometry": {"coordinates":[32.502040863,37.8636627197],"type":"Point"}
+}

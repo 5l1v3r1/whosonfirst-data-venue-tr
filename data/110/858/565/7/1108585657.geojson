@@ -1,0 +1,73 @@
+{
+  "id": 1108585657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0816383362,41.018196106,29.0816383362,41.018196106",
+    "geom:latitude":41.018196,
+    "geom:longitude":29.081638,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yerlioglu Sok.2/b Bulgurlu",
+    "sg:city":"Uskudar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 443 9303",
+    "sg:postcode":"34672",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930133,
+        102191569,
+        85632393,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VfSI2XeULmILjNMZHnKP1_41.018196_29.081638@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065150,
+    "wof:geomhash":"79344aff623c3a392b71eab6bf499a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912541,
+            "neighbourhood_id":85930133,
+            "region_id":85679237,
+            "venue_id":1108585657
+        }
+    ],
+    "wof:id":1108585657,
+    "wof:lastmodified":1474065150,
+    "wof:name":"Erikli Su Bulgurlu-kisikli Bayii",
+    "wof:parent_id":85930133,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mineral"
+    ]
+},
+  "bbox": [
+    29.0816383362,
+    41.018196106,
+    29.0816383362,
+    41.018196106
+],
+  "geometry": {"coordinates":[29.0816383362,41.018196106],"type":"Point"}
+}

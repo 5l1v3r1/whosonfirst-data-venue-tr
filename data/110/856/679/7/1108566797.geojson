@@ -1,0 +1,71 @@
+{
+  "id": 1108566797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0169830322,41.0775718689,29.0169830322,41.0775718689",
+    "geom:latitude":41.077572,
+    "geom:longitude":29.016983,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Lale Sk. No:11 Levent",
+    "sg:city":"Kad\u0131k\u00f6y",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 638 6255",
+    "sg:postcode":"34990",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "machine",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SVHAkvfUK23jbPcjG2IZP_41.077572_29.016983@1306270054"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064319,
+    "wof:geomhash":"c813d44b2dece560525712393684df8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108566797
+        }
+    ],
+    "wof:id":1108566797,
+    "wof:lastmodified":1474064319,
+    "wof:name":"Ceta Makina San. Tic. A.s.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0169830322,
+    41.0775718689,
+    29.0169830322,
+    41.0775718689
+],
+  "geometry": {"coordinates":[29.0169830322,41.0775718689],"type":"Point"}
+}

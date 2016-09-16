@@ -1,0 +1,69 @@
+{
+  "id": 1108675997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8563995361,39.8926734924,32.8563995361,39.8926734924",
+    "geom:latitude":39.892673,
+    "geom:longitude":32.8564,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cinnah Cd.no:77/a ?ankaya",
+    "sg:city":"Goztepe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 438 2195",
+    "sg:postcode":"01220",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904089,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IMbAz5ktOIQIAP3AaY95T_39.892673_32.856400@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068892,
+    "wof:geomhash":"e1e6ce2011ae347daf205497e6211848",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904089,
+            "region_id":85679409,
+            "venue_id":1108675997
+        }
+    ],
+    "wof:id":1108675997,
+    "wof:lastmodified":1474068892,
+    "wof:name":"Hindistan Cumh.b?y?kel?iligi",
+    "wof:parent_id":85904089,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.8563995361,
+    39.8926734924,
+    32.8563995361,
+    39.8926734924
+],
+  "geometry": {"coordinates":[32.8563995361,39.8926734924],"type":"Point"}
+}

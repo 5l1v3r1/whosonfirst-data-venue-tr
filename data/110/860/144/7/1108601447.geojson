@@ -1,0 +1,74 @@
+{
+  "id": 1108601447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.096572876,40.9580764771,29.096572876,40.9580764771",
+    "geom:latitude":40.958076,
+    "geom:longitude":29.096573,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sesettin G?altay Cad.no:138/4",
+    "sg:city":"Erenkoy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 464 3800",
+    "sg:postcode":"07060",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85679237,
+        85632393,
+        85929857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JKnTGnlNPFaBtYKWkTcwB_40.958076_29.096573@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065697,
+    "wof:geomhash":"f7494d71c0e096b241da21217ae89718",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632393,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85929857,
+            "region_id":85679237,
+            "venue_id":1108601447
+        }
+    ],
+    "wof:id":1108601447,
+    "wof:lastmodified":1474065697,
+    "wof:name":"Elit Uluslararasi Tas.tic.ltd.sti.",
+    "wof:parent_id":85929857,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    29.096572876,
+    40.9580764771,
+    29.096572876,
+    40.9580764771
+],
+  "geometry": {"coordinates":[29.096572876,40.9580764771],"type":"Point"}
+}

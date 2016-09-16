@@ -1,0 +1,71 @@
+{
+  "id": 1108593553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.7984962463,41.0884017944,28.7984962463,41.0884017944",
+    "geom:latitude":41.088402,
+    "geom:longitude":28.798496,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Masko San. Sitesi 16/6",
+    "sg:city":"Ikitelli",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212675070910",
+    "sg:postcode":"34306",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "-curtains",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929961,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMFqjoaqXtJbiwBEzbrVH_41.088402_28.798496@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065365,
+    "wof:geomhash":"5b3dcd79e0fa5d622b4256819b821b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929961,
+            "region_id":85679237,
+            "venue_id":1108593553
+        }
+    ],
+    "wof:id":1108593553,
+    "wof:lastmodified":1474065365,
+    "wof:name":"Erva Tekstil",
+    "wof:parent_id":85929961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "-curtains",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    28.7984962463,
+    41.0884017944,
+    28.7984962463,
+    41.0884017944
+],
+  "geometry": {"coordinates":[28.7984962463,41.0884017944],"type":"Point"}
+}

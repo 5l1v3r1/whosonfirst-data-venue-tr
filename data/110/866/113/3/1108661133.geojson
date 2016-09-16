@@ -1,0 +1,71 @@
+{
+  "id": 1108661133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9026374817,40.9924430847,28.9026374817,40.9924430847",
+    "geom:latitude":40.992443,
+    "geom:longitude":28.902637,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tikvesli Yolu 3. Emintas San. Sit. No:35 Top?lar",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 0478",
+    "sg:postcode":"34020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904171,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DK8h0LUReO1JS0ZnFm1EJ_40.992443_28.902637@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068294,
+    "wof:geomhash":"e255c3f99e9b3adb89d31d6d0f8a6999",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904171,
+            "region_id":85679237,
+            "venue_id":1108661133
+        }
+    ],
+    "wof:id":1108661133,
+    "wof:lastmodified":1474068294,
+    "wof:name":"?narsan Ambalaj Mak. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85904171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    28.9026374817,
+    40.9924430847,
+    28.9026374817,
+    40.9924430847
+],
+  "geometry": {"coordinates":[28.9026374817,40.9924430847],"type":"Point"}
+}

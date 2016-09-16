@@ -1,0 +1,69 @@
+{
+  "id": 1108582891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8626022339,39.9065208435,32.8626022339,39.9065208435",
+    "geom:latitude":39.906521,
+    "geom:longitude":32.862602,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Buyukelci Sok. 13/1",
+    "sg:city":"Kavaklidere",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 426 5072",
+    "sg:postcode":"35040",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929547,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NZymPk1lsZ6rXfR5B35Ot_39.906521_32.862602@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065082,
+    "wof:geomhash":"2bd18ae2021b492190837353a677c8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929547,
+            "region_id":85679409,
+            "venue_id":1108582891
+        }
+    ],
+    "wof:id":1108582891,
+    "wof:lastmodified":1474065082,
+    "wof:name":"Deniz Muhendislik Hizmetleri Ve Tic.ltd.",
+    "wof:parent_id":85929547,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    32.8626022339,
+    39.9065208435,
+    32.8626022339,
+    39.9065208435
+],
+  "geometry": {"coordinates":[32.8626022339,39.9065208435],"type":"Point"}
+}

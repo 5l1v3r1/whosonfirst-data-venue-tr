@@ -1,0 +1,72 @@
+{
+  "id": 1108673153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0647830963,40.992477417,29.0647830963,40.992477417",
+    "geom:latitude":40.992477,
+    "geom:longitude":29.064783,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Dr. Erkin Cd. No:21/5 ?st",
+    "sg:city":"G?tepe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 369 8334",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930223,
+        102191569,
+        85632393,
+        101912641,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3alHF0ihmYxBuDjpdGvmxK_40.992477_29.064783@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068767,
+    "wof:geomhash":"fa8546190dd454281d6e626557245db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912641,
+            "neighbourhood_id":85930223,
+            "region_id":85679237,
+            "venue_id":1108673153
+        }
+    ],
+    "wof:id":1108673153,
+    "wof:lastmodified":1474068767,
+    "wof:name":"Lale ?i?ek Galerisi",
+    "wof:parent_id":85930223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    29.0647830963,
+    40.992477417,
+    29.0647830963,
+    40.992477417
+],
+  "geometry": {"coordinates":[29.0647830963,40.992477417],"type":"Point"}
+}

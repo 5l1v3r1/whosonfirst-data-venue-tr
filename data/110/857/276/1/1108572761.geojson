@@ -1,0 +1,67 @@
+{
+  "id": 1108572761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8713321686,40.9776382446,28.8713321686,40.9776382446",
+    "geom:latitude":40.977638,
+    "geom:longitude":28.871332,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"A. Ipek? Cd. Y?sel Emintas San. Sit. Bayrampasa",
+    "sg:city":"Rami",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 567 4339",
+    "sg:postcode":"34140",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lZ4bHaxEOVQtgRyMcGXdQ_40.977638_28.871332@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064570,
+    "wof:geomhash":"923ec3940be2d0653e22c8c463a10fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930019,
+            "venue_id":1108572761
+        }
+    ],
+    "wof:id":1108572761,
+    "wof:lastmodified":1474064570,
+    "wof:name":"?zkan Plastik Mak. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85930019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8713321686,
+    40.9776382446,
+    28.8713321686,
+    40.9776382446
+],
+  "geometry": {"coordinates":[28.8713321686,40.9776382446],"type":"Point"}
+}

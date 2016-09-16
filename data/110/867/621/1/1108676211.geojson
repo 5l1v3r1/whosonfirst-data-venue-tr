@@ -1,0 +1,69 @@
+{
+  "id": 1108676211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.854473114,39.8835334778,32.854473114,39.8835334778",
+    "geom:latitude":39.883533,
+    "geom:longitude":32.854473,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Ahmet Rasim Sk.no:14 ?ankaya",
+    "sg:city":"Etiler",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 439 2740",
+    "sg:postcode":"07010",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929559,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00QpYdN2S3ZPYHPkMF8t5L_39.883533_32.854473@1306270075"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068899,
+    "wof:geomhash":"dd9e8e26f1b12080d78ed7bbd3d99996",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929559,
+            "region_id":85679409,
+            "venue_id":1108676211
+        }
+    ],
+    "wof:id":1108676211,
+    "wof:lastmodified":1474068899,
+    "wof:name":"?zbekistan B?y?kel?iligi",
+    "wof:parent_id":85929559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foreign"
+    ]
+},
+  "bbox": [
+    32.854473114,
+    39.8835334778,
+    32.854473114,
+    39.8835334778
+],
+  "geometry": {"coordinates":[32.854473114,39.8835334778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108573869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.164018631,40.9418182373,29.164018631,40.9418182373",
+    "geom:latitude":40.941818,
+    "geom:longitude":29.164019,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yalniz Selvi Cad. No: 13/2 Soganlik-",
+    "sg:city":"Kartal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 216 309 0253",
+    "sg:postcode":"46000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "glass-mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930183,
+        102191569,
+        85632393,
+        101912649,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bFAYKx5yt2m4ueWEm7BCj_40.941818_29.164019@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064619,
+    "wof:geomhash":"0752fcf2ec190e063cdbdb8156bb488d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912649,
+            "neighbourhood_id":85930183,
+            "region_id":85679237,
+            "venue_id":1108573869
+        }
+    ],
+    "wof:id":1108573869,
+    "wof:lastmodified":1474064619,
+    "wof:name":"Kobatek Ltd. Sti.",
+    "wof:parent_id":85930183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-mirror"
+    ]
+},
+  "bbox": [
+    29.164018631,
+    40.9418182373,
+    29.164018631,
+    40.9418182373
+],
+  "geometry": {"coordinates":[29.164018631,40.9418182373],"type":"Point"}
+}

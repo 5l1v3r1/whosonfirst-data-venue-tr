@@ -1,0 +1,69 @@
+{
+  "id": 1108571891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8961639404,41.0291442871,28.8961639404,41.0291442871",
+    "geom:latitude":41.029144,
+    "geom:longitude":28.896164,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?iftehavuzlar Cd. No:28 Bayrampasa",
+    "sg:city":"Osmangazi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 576 8736",
+    "sg:postcode":"46050",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929891,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y4gGX2DEGRtmQKj56XuAf_41.029144_28.896164@1306270055"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064531,
+    "wof:geomhash":"614b4cc49c8ded89baba3054b075de05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929891,
+            "region_id":85679237,
+            "venue_id":1108571891
+        }
+    ],
+    "wof:id":1108571891,
+    "wof:lastmodified":1474064531,
+    "wof:name":"Orta?lar Plastik San.",
+    "wof:parent_id":85929891,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    28.8961639404,
+    41.0291442871,
+    28.8961639404,
+    41.0291442871
+],
+  "geometry": {"coordinates":[28.8961639404,41.0291442871],"type":"Point"}
+}

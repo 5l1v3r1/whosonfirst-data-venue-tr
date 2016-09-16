@@ -1,0 +1,67 @@
+{
+  "id": 1108650379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9923667908,41.0526428223,28.9923667908,41.0526428223",
+    "geom:latitude":41.052643,
+    "geom:longitude":28.992367,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Valikonagi Cad.no:86 - Sisli",
+    "sg:city":"Merkez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 247 0042",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929491,
+        102191569,
+        85632393,
+        101912685,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJdccHVfFuF4nzjrGRVSg_41.052643_28.992367@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474067854,
+    "wof:geomhash":"060676dc0306969782e6e1ee2bb9b554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108650379
+        }
+    ],
+    "wof:id":1108650379,
+    "wof:lastmodified":1474067854,
+    "wof:name":"Dr.pakize Tarzi Lab.-nisantasi",
+    "wof:parent_id":85929491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9923667908,
+    41.0526428223,
+    28.9923667908,
+    41.0526428223
+],
+  "geometry": {"coordinates":[28.9923667908,41.0526428223],"type":"Point"}
+}

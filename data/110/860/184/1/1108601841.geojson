@@ -1,0 +1,75 @@
+{
+  "id": 1108601841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9654254913,41.036365509,28.9654254913,41.036365509",
+    "geom:latitude":41.036366,
+    "geom:longitude":28.965425,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nalinci Sk. No: 19/2-3",
+    "sg:city":"Aksaray",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 531 6120",
+    "sg:postcode":"31030",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "conditioner",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906535,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tT66uCCfXwWiYJLoDPMCz_41.036366_28.965425@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065712,
+    "wof:geomhash":"3891ec3847688973929b941f196c8cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85906535,
+            "region_id":85679237,
+            "venue_id":1108601841
+        }
+    ],
+    "wof:id":1108601841,
+    "wof:lastmodified":1474065712,
+    "wof:name":"Cemre Isi Sistem.san. Tic.",
+    "wof:parent_id":85906535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioner",
+        "air"
+    ]
+},
+  "bbox": [
+    28.9654254913,
+    41.036365509,
+    28.9654254913,
+    41.036365509
+],
+  "geometry": {"coordinates":[28.9654254913,41.036365509],"type":"Point"}
+}

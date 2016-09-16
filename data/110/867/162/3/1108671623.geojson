@@ -1,0 +1,73 @@
+{
+  "id": 1108671623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8580665588,39.9089546204,32.8580665588,39.9089546204",
+    "geom:latitude":39.908955,
+    "geom:longitude":32.858067,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Tunus Cad. No:66 06700 Kavaklidere Ankara",
+    "sg:city":"Cagaloglu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 428 2826",
+    "sg:postcode":"34440",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904129,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36MVTKuNl4MFQCgRFelwlf_39.908955_32.858067@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068705,
+    "wof:geomhash":"9fa6e8699bcc143dd0cb48ff6f099ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904129,
+            "region_id":85679409,
+            "venue_id":1108671623
+        }
+    ],
+    "wof:id":1108671623,
+    "wof:lastmodified":1474068705,
+    "wof:name":"Bati Makine Kalip San Tic As",
+    "wof:parent_id":85904129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "finished",
+        "-",
+        "metallic"
+    ]
+},
+  "bbox": [
+    32.8580665588,
+    39.9089546204,
+    32.8580665588,
+    39.9089546204
+],
+  "geometry": {"coordinates":[32.8580665588,39.9089546204],"type":"Point"}
+}

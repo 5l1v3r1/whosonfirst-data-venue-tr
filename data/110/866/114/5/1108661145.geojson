@@ -1,0 +1,71 @@
+{
+  "id": 1108661145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0058689117,41.0891799927,29.0058689117,41.0891799927",
+    "geom:latitude":41.08918,
+    "geom:longitude":29.005869,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"?amlik Cd. No:29 Silahtar",
+    "sg:city":"Topkapi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 626 6086",
+    "sg:postcode":"34020",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "packing",
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LnWf9cBVu0D6MZDSrpR4W_41.089180_29.005869@1306270072"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068294,
+    "wof:geomhash":"466948f4ca548fdbf491285e2f609d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108661145
+        }
+    ],
+    "wof:id":1108661145,
+    "wof:lastmodified":1474068294,
+    "wof:name":"?zertas Ambalaj Mak. San. Tic. Ltd. Sti.",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "industry"
+    ]
+},
+  "bbox": [
+    29.0058689117,
+    41.0891799927,
+    29.0058689117,
+    41.0891799927
+],
+  "geometry": {"coordinates":[29.0058689117,41.0891799927],"type":"Point"}
+}

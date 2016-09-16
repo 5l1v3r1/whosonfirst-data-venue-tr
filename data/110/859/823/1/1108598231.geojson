@@ -1,0 +1,69 @@
+{
+  "id": 1108598231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.1184997559,38.47864151,27.1184997559,38.47864151",
+    "geom:latitude":38.478642,
+    "geom:longitude":27.1185,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"2033 Sk.no:25/b Atakent- 3362665",
+    "sg:city":"Kadikoy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 232 422 3100",
+    "sg:postcode":"01370",
+    "sg:province":"Izmir",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904071,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2txXBv4OWl4WDH5jwT0Fqk_38.478642_27.118500@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065556,
+    "wof:geomhash":"1facb260bd96cf53fdbf365588dad29d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904071,
+            "region_id":85679201,
+            "venue_id":1108598231
+        }
+    ],
+    "wof:id":1108598231,
+    "wof:lastmodified":1474065556,
+    "wof:name":"Tesla Asansorleri",
+    "wof:parent_id":85904071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    27.1184997559,
+    38.47864151,
+    27.1184997559,
+    38.47864151
+],
+  "geometry": {"coordinates":[27.1184997559,38.47864151],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1108618355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9927597046,41.0472373962,28.9927597046,41.0472373962",
+    "geom:latitude":41.047237,
+    "geom:longitude":28.99276,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Eytam Cad. 35",
+    "sg:city":"Tesvikiye",
+    "sg:classifiers":[],
+    "sg:orig_category":"Hotels: Motels",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212232320023",
+    "sg:postcode":"43270",
+    "sg:province":"Istanbul",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85929495,
+        102191569,
+        85632393,
+        101912685,
+        85679237,
+        85929491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08EDJ3YcbjzmeWDI9UoTy8_41.047237_28.992760@1306270063"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066406,
+    "wof:geomhash":"c209a0ad92f2b7c28e3755eb2e206895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929495,
+            "region_id":85679237,
+            "venue_id":1108618355
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912685,
+            "neighbourhood_id":85929491,
+            "region_id":85679237,
+            "venue_id":1108618355
+        }
+    ],
+    "wof:id":1108618355,
+    "wof:lastmodified":1474066406,
+    "wof:name":"Ma?ka Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9927597046,
+    41.0472373962,
+    28.9927597046,
+    41.0472373962
+],
+  "geometry": {"coordinates":[28.9927597046,41.0472373962],"type":"Point"}
+}

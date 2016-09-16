@@ -1,0 +1,70 @@
+{
+  "id": 1108599531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.2992725372,40.9004592896,29.2992725372,40.9004592896",
+    "geom:latitude":40.900459,
+    "geom:longitude":29.299273,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Sanayi Sitesi 32.sok. No:16",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 362 238 1810",
+    "sg:province":"Samsun",
+    "sg:tags":[
+        "gas",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929941,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vbw1O73oQjil5uMb1LyVJ_40.900459_29.299273@1306270060"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065614,
+    "wof:geomhash":"60eee468c489c4b342518e70acce7266",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929941,
+            "region_id":85679241,
+            "venue_id":1108599531
+        }
+    ],
+    "wof:id":1108599531,
+    "wof:lastmodified":1474065614,
+    "wof:name":"Nur Motor Yenileme",
+    "wof:parent_id":85929941,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "system"
+    ]
+},
+  "bbox": [
+    29.2992725372,
+    40.9004592896,
+    29.2992725372,
+    40.9004592896
+],
+  "geometry": {"coordinates":[29.2992725372,40.9004592896],"type":"Point"}
+}

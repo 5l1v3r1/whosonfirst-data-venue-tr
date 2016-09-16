@@ -1,0 +1,70 @@
+{
+  "id": 1108589971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"35.3152198792,37.0002632141,35.3152198792,37.0002632141",
+    "geom:latitude":37.000263,
+    "geom:longitude":35.31522,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Doseme Mah.mucahitler Cad.no:71",
+    "sg:city":"Alanya",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"07400",
+    "sg:province":"Adana",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929841,
+        85679443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kVrSXjHYbKcvczcgK11em_37.000263_35.315220@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065250,
+    "wof:geomhash":"93baa1ca407f4aa02099d9576ad8b14d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929841,
+            "region_id":85679443,
+            "venue_id":1108589971
+        }
+    ],
+    "wof:id":1108589971,
+    "wof:lastmodified":1474065250,
+    "wof:name":"Yale Anahtarci",
+    "wof:parent_id":85929841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    35.3152198792,
+    37.0002632141,
+    35.3152198792,
+    37.0002632141
+],
+  "geometry": {"coordinates":[35.3152198792,37.0002632141],"type":"Point"}
+}

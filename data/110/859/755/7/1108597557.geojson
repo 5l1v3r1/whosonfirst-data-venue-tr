@@ -1,0 +1,68 @@
+{
+  "id": 1108597557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.0069770813,41.0797271729,29.0069770813,41.0797271729",
+    "geom:latitude":41.079727,
+    "geom:longitude":29.006977,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Talatpasa Cad. No:9/1-k",
+    "sg:city":"Maltepe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01000",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "lifts-elevators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929845,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ykl5stovgIfR4aI0R8Xkt_41.079727_29.006977@1306270059"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065531,
+    "wof:geomhash":"5f2c8c9f3a6b30b243fd17af8d0f9191",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929845,
+            "region_id":85679237,
+            "venue_id":1108597557
+        }
+    ],
+    "wof:id":1108597557,
+    "wof:lastmodified":1474065531,
+    "wof:name":"Cagin Asans? Sanayi",
+    "wof:parent_id":85929845,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lifts-elevators"
+    ]
+},
+  "bbox": [
+    29.0069770813,
+    41.0797271729,
+    29.0069770813,
+    41.0797271729
+],
+  "geometry": {"coordinates":[29.0069770813,41.0797271729],"type":"Point"}
+}

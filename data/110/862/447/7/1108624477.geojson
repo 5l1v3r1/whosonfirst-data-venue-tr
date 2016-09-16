@@ -1,0 +1,70 @@
+{
+  "id": 1108624477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8906993866,41.0850372314,28.8906993866,41.0850372314",
+    "geom:latitude":41.085037,
+    "geom:longitude":28.890699,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Cebeci Cad. No.113",
+    "sg:city":"K??k?",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 537 9975",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "sizing",
+        "dye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85930271,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ToAdDTaVWTe1MwO9cMuZQ_41.085037_28.890699@1306270064"
+    },
+    "wof:country":"TR",
+    "wof:created":1474066641,
+    "wof:geomhash":"c12d0c91f730e2a96cd306f5acfb7ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85930271,
+            "region_id":85679237,
+            "venue_id":1108624477
+        }
+    ],
+    "wof:id":1108624477,
+    "wof:lastmodified":1474066641,
+    "wof:name":"Huzur Tekstil Boya Ve Kasar A.s.",
+    "wof:parent_id":85930271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sizing",
+        "dye"
+    ]
+},
+  "bbox": [
+    28.8906993866,
+    41.0850372314,
+    28.8906993866,
+    41.0850372314
+],
+  "geometry": {"coordinates":[28.8906993866,41.0850372314],"type":"Point"}
+}

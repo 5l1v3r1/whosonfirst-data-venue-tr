@@ -1,0 +1,79 @@
+{
+  "id": 1108674633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.1239433289,40.9938163757,29.1239433289,40.9938163757",
+    "geom:latitude":40.993816,
+    "geom:longitude":29.123943,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"B??dere Cad.emlak Bankasi Apt.1/36 4.levent .",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 284 4164",
+    "sg:postcode":"52750",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85930023,
+        102191569,
+        85632393,
+        101912637,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20DimCsGvN8gbLMfR32iX4_40.993816_29.123943@1306270074"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068829,
+    "wof:geomhash":"d27790a90d4457d13ef787e4be7e3f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912637,
+            "neighbourhood_id":85930023,
+            "region_id":85679237,
+            "venue_id":1108674633
+        }
+    ],
+    "wof:id":1108674633,
+    "wof:lastmodified":1474068829,
+    "wof:name":"Tunaltas Foreign Trade Company",
+    "wof:parent_id":85930023,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "exporter",
+        "aricultural"
+    ]
+},
+  "bbox": [
+    29.1239433289,
+    40.9938163757,
+    29.1239433289,
+    40.9938163757
+],
+  "geometry": {"coordinates":[29.1239433289,40.9938163757],"type":"Point"}
+}

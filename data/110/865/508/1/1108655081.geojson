@@ -1,0 +1,75 @@
+{
+  "id": 1108655081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8371391296,39.9318771362,32.8371391296,39.9318771362",
+    "geom:latitude":39.931877,
+    "geom:longitude":32.837139,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Iler Sk. No:18/8 Tandogan",
+    "sg:city":"Mersin",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 221 1413",
+    "sg:postcode":"52750",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "industry",
+        "mine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904083,
+        102191569,
+        85632393,
+        101912789,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RYBMK7P22PnLeW5Lq1qkm_39.931877_32.837139@1306270070"
+    },
+    "wof:country":"TR",
+    "wof:created":1474068061,
+    "wof:geomhash":"e8b7c8d4757f6b8f6db4f4530ea59fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101912789,
+            "neighbourhood_id":85904083,
+            "region_id":85679409,
+            "venue_id":1108655081
+        }
+    ],
+    "wof:id":1108655081,
+    "wof:lastmodified":1474068061,
+    "wof:name":"Berin Madencilik San. Ltd. Sti.",
+    "wof:parent_id":85904083,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mine"
+    ]
+},
+  "bbox": [
+    32.8371391296,
+    39.9318771362,
+    32.8371391296,
+    39.9318771362
+],
+  "geometry": {"coordinates":[32.8371391296,39.9318771362],"type":"Point"}
+}

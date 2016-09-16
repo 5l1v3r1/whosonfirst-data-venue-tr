@@ -1,0 +1,69 @@
+{
+  "id": 1108592787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"32.8415718079,39.9289627075,32.8415718079,39.9289627075",
+    "geom:latitude":39.928963,
+    "geom:longitude":32.841572,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Turgut Reis Cad. No:66/1",
+    "sg:city":"Gonen",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 3122313838230",
+    "sg:postcode":"32090",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929593,
+        85679409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rj12FC5Icd3nw0gCztMjc_39.928963_32.841572@1306270058"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065335,
+    "wof:geomhash":"81481d9546ea7b07e553e6d52f8c71c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929593,
+            "region_id":85679409,
+            "venue_id":1108592787
+        }
+    ],
+    "wof:id":1108592787,
+    "wof:lastmodified":1474065335,
+    "wof:name":"Ahmet Kiremitci",
+    "wof:parent_id":85929593,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    32.8415718079,
+    39.9289627075,
+    32.8415718079,
+    39.9289627075
+],
+  "geometry": {"coordinates":[32.8415718079,39.9289627075],"type":"Point"}
+}

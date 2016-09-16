@@ -1,0 +1,69 @@
+{
+  "id": 1108565059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9072113037,41.0155906677,28.9072113037,41.0155906677",
+    "geom:latitude":41.015591,
+    "geom:longitude":28.907211,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Yilanli Ayazma Cd. No:2 Cevizlibag",
+    "sg:city":"K.?ekmece",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 212 577 6637",
+    "sg:postcode":"34670",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "gasket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85904123,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kaUQ414cpDikWwOtwVt8H_41.015591_28.907211@1306270053"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064206,
+    "wof:geomhash":"39200a5f384e2ded6389a28b7d80f17b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85904123,
+            "region_id":85679237,
+            "venue_id":1108565059
+        }
+    ],
+    "wof:id":1108565059,
+    "wof:lastmodified":1474064206,
+    "wof:name":"Standart Conta",
+    "wof:parent_id":85904123,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasket"
+    ]
+},
+  "bbox": [
+    28.9072113037,
+    41.0155906677,
+    28.9072113037,
+    41.0155906677
+],
+  "geometry": {"coordinates":[28.9072113037,41.0155906677],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108587985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.2188663483,38.4655838013,27.2188663483,38.4655838013",
+    "geom:latitude":38.465584,
+    "geom:longitude":27.218866,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Izmir Cad. Fevzi Cakmak Sok. No:3/b",
+    "sg:city":"Kizilay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 312 231 8442",
+    "sg:postcode":"23050",
+    "sg:province":"Ankara",
+    "sg:tags":[
+        "woman",
+        "wear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632393,
+        85929627,
+        85679201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35pODpIxn4dM21pqNfNiNE_38.465584_27.218866@1306270057"
+    },
+    "wof:country":"TR",
+    "wof:created":1474065205,
+    "wof:geomhash":"cf6e395ea988a38c4b8b121e49bbf96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "neighbourhood_id":85929627,
+            "region_id":85679201,
+            "venue_id":1108587985
+        }
+    ],
+    "wof:id":1108587985,
+    "wof:lastmodified":1474065205,
+    "wof:name":"Ahsen Etek",
+    "wof:parent_id":85929627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woman",
+        "wear"
+    ]
+},
+  "bbox": [
+    27.2188663483,
+    38.4655838013,
+    27.2188663483,
+    38.4655838013
+],
+  "geometry": {"coordinates":[27.2188663483,38.4655838013],"type":"Point"}
+}

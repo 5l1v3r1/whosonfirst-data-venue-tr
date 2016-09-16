@@ -1,0 +1,73 @@
+{
+  "id": 1108576977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.9850978851,41.0369796753,28.9850978851,41.0369796753",
+    "geom:latitude":41.03698,
+    "geom:longitude":28.985098,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Taksim",
+    "sg:city":"\u00dcmraniye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+90 21229241144",
+    "sg:postcode":"81260",
+    "sg:province":"Istanbul",
+    "sg:tags":[
+        "quality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904159,
+        102191569,
+        85632393,
+        101913185,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RZgIiiStUIMDQtX0vhYCO_41.036980_28.985098@1306270056"
+    },
+    "wof:country":"TR",
+    "wof:created":1474064753,
+    "wof:geomhash":"bb4b91f25451f86498ba0c82e95584d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":101913185,
+            "neighbourhood_id":85904159,
+            "region_id":85679237,
+            "venue_id":1108576977
+        }
+    ],
+    "wof:id":1108576977,
+    "wof:lastmodified":1474064753,
+    "wof:name":"Abs Quality Evaluations",
+    "wof:parent_id":85904159,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quality"
+    ]
+},
+  "bbox": [
+    28.9850978851,
+    41.0369796753,
+    28.9850978851,
+    41.0369796753
+],
+  "geometry": {"coordinates":[28.9850978851,41.0369796753],"type":"Point"}
+}
