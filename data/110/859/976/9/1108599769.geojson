@@ -2,6 +2,10 @@
   "id": 1108599769,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Sitesi 4.cad. No:10 Ferizli Gaziantep 54110",
+    "addr:housenumber":"4.cad no 10",
+    "addr:postcode":"54110",
+    "addr:street":"Sanayi Sitesi;Ferizli Gaziantep",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108599769,
-    "wof:lastmodified":1474065623,
+    "wof:lastmodified":1474070840,
     "wof:name":"Anteplioglu",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",

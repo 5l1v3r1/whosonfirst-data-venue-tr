@@ -2,6 +2,10 @@
   "id": 1108663031,
   "type": "Feature",
   "properties": {
+    "addr:full":"269/13 Sok. No:6 Bornova Emek Izmir 01940",
+    "addr:housenumber":"269 / 13;no;emek",
+    "addr:postcode":"01940",
+    "addr:street":"Sok.;Bornova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108663031,
-    "wof:lastmodified":1474068367,
+    "wof:lastmodified":1474070787,
     "wof:name":"Ozdecan Eczanesi",
     "wof:parent_id":85929643,
     "wof:placetype":"venue",

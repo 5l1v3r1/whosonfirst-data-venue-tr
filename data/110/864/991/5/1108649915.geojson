@@ -2,6 +2,10 @@
   "id": 1108649915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Izmir Cad. Moda Ish. A Blok No:103 Kizilay Tarabya Ankara 80820",
+    "addr:housenumber":"blok no 103",
+    "addr:postcode":"80820",
+    "addr:street":"Izmir Cad. Moda Ish. A;Kizilay",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108649915,
-    "wof:lastmodified":1474067837,
+    "wof:lastmodified":1474070871,
     "wof:name":"Starmed A.s.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

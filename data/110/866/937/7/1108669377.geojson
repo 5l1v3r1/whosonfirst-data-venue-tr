@@ -2,6 +2,10 @@
   "id": 1108669377,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Ekim Cad. No:26 Dogu Sanayi Sitesi Alti 34530 Yenibosna Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"29;26",
+    "addr:postcode":"34530;34670",
+    "addr:street":"Ekim Cad. No;Sitesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108669377,
-    "wof:lastmodified":1474068623,
+    "wof:lastmodified":1474070863,
     "wof:name":"Polaris Tekstil San Ve Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

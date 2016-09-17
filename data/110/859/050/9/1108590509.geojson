@@ -2,6 +2,10 @@
   "id": 1108590509,
   "type": "Feature",
   "properties": {
+    "addr:full":"1456 Sokak No:50 Alsancak Izmir 35220",
+    "addr:housenumber":"no 50",
+    "addr:postcode":"35220",
+    "addr:street":"1456 Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108590509,
-    "wof:lastmodified":1474065262,
+    "wof:lastmodified":1474070680,
     "wof:name":"Elmo",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",

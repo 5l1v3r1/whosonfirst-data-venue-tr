@@ -2,6 +2,10 @@
   "id": 1108625249,
   "type": "Feature",
   "properties": {
+    "addr:full":"Guzelyali Mah. 135.sok. Kardelen Sitesi C Blok Kat: 6 D:11 Merter Adana 34610",
+    "addr:housenumber":"135.sok;blok kat 6 d 11",
+    "addr:postcode":"34610",
+    "addr:street":"Guzelyali Mah.;Merter Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108625249,
-    "wof:lastmodified":1474066669,
+    "wof:lastmodified":1474070793,
     "wof:name":"Seltex Ltd.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

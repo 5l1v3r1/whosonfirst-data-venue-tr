@@ -2,6 +2,10 @@
   "id": 169647853,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Cad. No: 85 Sirkeci Kizilay Istanbul 06650",
+    "addr:housenumber":"85",
+    "addr:postcode":"06650",
+    "addr:street":"Ankara Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":169647853,
-    "wof:lastmodified":1466313389,
+    "wof:lastmodified":1474070673,
     "wof:name":"Papimeks",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

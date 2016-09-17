@@ -2,6 +2,10 @@
   "id": 1108655881,
   "type": "Feature",
   "properties": {
+    "addr:full":"Otakcilar Cad. No:56 Defterdar Mah. 34050 Eyup Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"56;mah.",
+    "addr:postcode":"34050;33740",
+    "addr:street":"Otakcilar Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108655881,
-    "wof:lastmodified":1474068093,
+    "wof:lastmodified":1474070826,
     "wof:name":"Fikret Erdogan Ve Ortaklari Koll.sti",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

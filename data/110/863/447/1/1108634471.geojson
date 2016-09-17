@@ -2,6 +2,10 @@
   "id": 1108634471,
   "type": "Feature",
   "properties": {
+    "addr:full":"Demiryolu Cad. No:72 Girgin Ishani Kat:3 Izmit Uskudar Kocaeli 34704",
+    "addr:housenumber":"72;kat 3",
+    "addr:postcode":"34704",
+    "addr:street":"Demiryolu Cad. No;Ishani;Izmit Uskudar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108634471,
-    "wof:lastmodified":1474067204,
+    "wof:lastmodified":1474070771,
     "wof:name":"Getas Uluslararasi Gozetme Mum. A.s.",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108630221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kkocaoglan Mah. 27 Nolu Sok. No:4 Ataturk Mah. 3.sok. No:64 Sisli Istanbul 65710",
+    "addr:housenumber":"27;no 4;3.sok no 64",
+    "addr:postcode":"65710",
+    "addr:street":"Kkocaoglan Mah.;Nolu Sok.;Ataturk Mah.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108630221,
-    "wof:lastmodified":1474066927,
+    "wof:lastmodified":1474070674,
     "wof:name":"Mercan Tekstil Orme San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108619765,
   "type": "Feature",
   "properties": {
+    "addr:full":"50. Yil Mah. M. Cad. No:82 Gaziosmanpasa Istanbul 01950",
+    "addr:housenumber":"50;82",
+    "addr:postcode":"01950",
+    "addr:street":"Yil Mah. M. Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108619765,
-    "wof:lastmodified":1474066461,
+    "wof:lastmodified":1474070849,
     "wof:name":"Aksu Halicilik Ltd. Sti.",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",

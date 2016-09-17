@@ -2,6 +2,10 @@
   "id": 1108625815,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. No:245 80230 Harbiye Istanbul 31080",
+    "addr:housenumber":"245",
+    "addr:postcode":"80230;31080",
+    "addr:street":"Cumhuriyet Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108625815,
-    "wof:lastmodified":1474066693,
+    "wof:lastmodified":1474070798,
     "wof:name":"Asya-tur Turizm (harbiye Subesi)",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

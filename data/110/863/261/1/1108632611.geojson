@@ -2,6 +2,10 @@
   "id": 1108632611,
   "type": "Feature",
   "properties": {
+    "addr:full":"Savaklar Cad. Yeni Kusat Sok. No:6 Kat:2 Eyup Melikgazi Istanbul 38070",
+    "addr:housenumber":"no 6 kat 2",
+    "addr:postcode":"38070",
+    "addr:street":"Savaklar Cad. Yeni Kusat Sok.;Eyup Melikgazi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108632611,
-    "wof:lastmodified":1474067133,
+    "wof:lastmodified":1474070732,
     "wof:name":"King Sat",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

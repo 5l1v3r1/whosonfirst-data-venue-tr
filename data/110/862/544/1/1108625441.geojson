@@ -2,6 +2,10 @@
   "id": 1108625441,
   "type": "Feature",
   "properties": {
+    "addr:full":"T.cemal Beriker Bulv. Ziya Algan Ism.kat.2 No:1seyhan Otel Karsisi Seyhan Adana 01000",
+    "addr:housenumber":"ism.kat.2 no 1seyhan otel",
+    "addr:postcode":"01000",
+    "addr:street":"Beriker Bulv. Ziya Algan;Karsisi Seyhan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108625441,
-    "wof:lastmodified":1474066680,
+    "wof:lastmodified":1474070805,
     "wof:name":"Ach Turizm",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108678353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kasap Sk. No:18 Eser Apt. B Blok Esentepe Istanbul 01930",
+    "addr:housenumber":"18;blok",
+    "addr:postcode":"01930",
+    "addr:street":"Kasap Sk. No;Esentepe Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108678353,
-    "wof:lastmodified":1474068977,
+    "wof:lastmodified":1474070794,
     "wof:name":"Aksay Denizcilik San.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

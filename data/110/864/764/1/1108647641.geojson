@@ -2,6 +2,10 @@
   "id": 1108647641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Taksim Feridiye Cad. No: 67 80080 Taksim Istanbul Kartal Istanbul 46000",
+    "addr:housenumber":"67",
+    "addr:postcode":"80080;46000",
+    "addr:street":"Feridiye Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108647641,
-    "wof:lastmodified":1474067718,
+    "wof:lastmodified":1474070866,
     "wof:name":"Tezpa Otomotiv San. Tic. Ltd Sti",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

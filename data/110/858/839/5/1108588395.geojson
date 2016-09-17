@@ -2,6 +2,10 @@
   "id": 1108588395,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kodaman Sk. No:130/a K:4 D:12 Osmanbey Istanbul 63000",
+    "addr:housenumber":"130 / a;4 d 12",
+    "addr:postcode":"63000",
+    "addr:street":"Kodaman Sk. No;K;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108588395,
-    "wof:lastmodified":1474065213,
+    "wof:lastmodified":1474070800,
     "wof:name":"Gamze Kreasyon",
     "wof:parent_id":85929491,
     "wof:placetype":"venue",

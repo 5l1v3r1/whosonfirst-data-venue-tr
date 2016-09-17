@@ -2,6 +2,10 @@
   "id": 1108600603,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mumhane Cad. Suhalfazli 2 Han. No:101/3 Karakoy Istanbul 07700",
+    "addr:housenumber":"2;101 / 3",
+    "addr:postcode":"07700",
+    "addr:street":"Mumhane Cad. Suhalfazli;Han. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108600603,
-    "wof:lastmodified":1474065660,
+    "wof:lastmodified":1474070679,
     "wof:name":"Da-ye Konfeksiyon Ve Ev Ihtiyaclari San. Ve Dis Tic.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

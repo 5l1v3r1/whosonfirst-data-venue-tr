@@ -2,6 +2,10 @@
   "id": 1108651741,
   "type": "Feature",
   "properties": {
+    "addr:full":"Saglik Sk. No:59/19 Sihhiye Merkez Ankara 26000",
+    "addr:housenumber":"59 / 19",
+    "addr:postcode":"26000",
+    "addr:street":"Saglik Sk. No;Sihhiye Merkez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108651741,
-    "wof:lastmodified":1474067913,
+    "wof:lastmodified":1474070754,
     "wof:name":"Sante-med Medikal",
     "wof:parent_id":85934683,
     "wof:placetype":"venue",

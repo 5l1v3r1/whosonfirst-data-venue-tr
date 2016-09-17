@@ -2,6 +2,10 @@
   "id": 1108654215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Mah. Marmara San Sitesi C Blok Kat:3 No:47 34670 Ikitelli Istanbul Bayrampasa Istanbul 36100",
+    "addr:housenumber":"blok kat 3 no 47",
+    "addr:postcode":"34670;36100",
+    "addr:street":"Ataturk Mah. Marmara San Sitesi C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108654215,
-    "wof:lastmodified":1474068028,
+    "wof:lastmodified":1474070817,
     "wof:name":"Estas Eksantrik San Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

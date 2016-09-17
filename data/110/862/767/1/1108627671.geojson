@@ -2,6 +2,10 @@
   "id": 1108627671,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Mayis Mah. Saadet Hanim Sk. ?zt?k Apt. No:6/12 Sisli Istanbul 34820",
+    "addr:housenumber":"19;?;?;12",
+    "addr:postcode":"34820",
+    "addr:street":"Mayis Mah. Saadet;Sk.;K Apt. No 6 /;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108627671,
-    "wof:lastmodified":1474066769,
+    "wof:lastmodified":1474070826,
     "wof:name":"Nuance Tourism & Travel Agency",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

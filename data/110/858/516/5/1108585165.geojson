@@ -2,6 +2,10 @@
   "id": 1108585165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Buyukdere Cad. Tevfik Erdonmez Sok. 2.blok D:11 Zincirlikuyu Sindirgi Istanbul 10330",
+    "addr:housenumber":"2.blok d 11",
+    "addr:postcode":"10330",
+    "addr:street":"Buyukdere Cad. Tevfik Erdonmez Sok.;Zincirlikuyu Sindirgi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108585165,
-    "wof:lastmodified":1474065135,
+    "wof:lastmodified":1474070706,
     "wof:name":"Acma Reklam",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

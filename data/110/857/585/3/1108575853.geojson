@@ -2,6 +2,10 @@
   "id": 1108575853,
   "type": "Feature",
   "properties": {
+    "addr:full":"Veliefendi Yolu No:47 Bakirkoy Istanbul 35790",
+    "addr:housenumber":"no 47",
+    "addr:postcode":"35790",
+    "addr:street":"Veliefendi Yolu;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108575853,
-    "wof:lastmodified":1474064695,
+    "wof:lastmodified":1474070738,
     "wof:name":"Akin Tekstil A.s",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

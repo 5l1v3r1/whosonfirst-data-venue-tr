@@ -2,6 +2,10 @@
   "id": 1108671145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad., No.255/2, Harbiye Cankaya Istanbul 07080",
+    "addr:housenumber":"no.255 / 2",
+    "addr:postcode":"07080",
+    "addr:street":"Cumhuriyet Cad.;Harbiye Cankaya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1108671145,
-    "wof:lastmodified":1474068687,
+    "wof:lastmodified":1474070643,
     "wof:name":"Istanbul Yatirim Menkul Kiymetler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

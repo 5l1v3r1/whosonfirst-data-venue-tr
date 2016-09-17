@@ -2,6 +2,10 @@
   "id": 1108671675,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cad.nebahat Yetkim Apt. No: 118 Kat 4 Daire 12 81530 Maltepe Istanbul Cagaloglu Istanbul 34440",
+    "addr:housenumber":"kat 4;12",
+    "addr:postcode":"81530;34440",
+    "addr:street":"Daire",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108671675,
-    "wof:lastmodified":1474068706,
+    "wof:lastmodified":1474070652,
     "wof:name":"Poras Mekanik Isleri As",
     "wof:parent_id":85929411,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108602677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yildiz Cad. Teyfik Pasa Konagi 35/3 Besiktas Istanbul 75200",
+    "addr:housenumber":"35 / 3",
+    "addr:postcode":"75200",
+    "addr:street":"Yildiz Cad. Teyfik Pasa Konagi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108602677,
-    "wof:lastmodified":1474065743,
+    "wof:lastmodified":1474070713,
     "wof:name":"Tetisan",
     "wof:parent_id":85930103,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108595125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. No:279 Adli Han Girisi Ustu Harbiye Sisli Istanbul 65710",
+    "addr:housenumber":"279",
+    "addr:postcode":"adli;65710",
+    "addr:street":"Cumhuriyet Cad. No;Harbiye",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108595125,
-    "wof:lastmodified":1474065424,
+    "wof:lastmodified":1474070750,
     "wof:name":"Vep English",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

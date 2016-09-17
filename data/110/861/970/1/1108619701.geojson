@@ -2,6 +2,10 @@
   "id": 1108619701,
   "type": "Feature",
   "properties": {
+    "addr:full":"1364 Sok. No:11/e Cankaya Izmir 07080",
+    "addr:housenumber":"no 11 / e",
+    "addr:postcode":"1364;07080",
+    "addr:street":"Sok.;Cankaya Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108619701,
-    "wof:lastmodified":1474066458,
+    "wof:lastmodified":1474070838,
     "wof:name":"Metro & Logistic Kargo",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

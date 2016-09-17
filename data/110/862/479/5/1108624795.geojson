@@ -2,6 +2,10 @@
   "id": 1108624795,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gunestepe Mah. Calisir Sok. No:12 Zemin Kat Gungoren Istanbul 33630",
+    "addr:housenumber":"no 12;kat",
+    "addr:postcode":"33630",
+    "addr:street":"Gunestepe Mah. Calisir Sok.;Zemin;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108624795,
-    "wof:lastmodified":1474066653,
+    "wof:lastmodified":1474070773,
     "wof:name":"Beyaz Mumessillik Tekstil Ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

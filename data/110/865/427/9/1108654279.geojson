@@ -2,6 +2,10 @@
   "id": 1108654279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kitapci Mehmet S?eyman Sok. No. 47 34744 Bostanci Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"?;no. 47",
+    "addr:postcode":"34744;34437",
+    "addr:street":"Mehmet S;Eyman Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654279,
-    "wof:lastmodified":1474068035,
+    "wof:lastmodified":1474070818,
     "wof:name":"Politeknik Ltd Sti",
     "wof:parent_id":85904159,
     "wof:placetype":"venue",

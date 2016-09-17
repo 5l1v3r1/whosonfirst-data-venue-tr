@@ -2,6 +2,10 @@
   "id": 1108615937,
   "type": "Feature",
   "properties": {
+    "addr:full":"San. Sit. Ahsap Isl. 700. Sk. No:18 Karabaglar Antalya 35400",
+    "addr:housenumber":"700;18",
+    "addr:postcode":"35400",
+    "addr:street":"Isl.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108615937,
-    "wof:lastmodified":1474066307,
+    "wof:lastmodified":1474070792,
     "wof:name":"Sapmazlar Ahsap San.",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

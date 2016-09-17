@@ -2,6 +2,10 @@
   "id": 1108662259,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulv. Ertugrul Sit. No:93/2 Besiktas Tuzla Istanbul 01900",
+    "addr:housenumber":"ertugrul sit. no 93 / 2",
+    "addr:postcode":"01900",
+    "addr:street":"Barbaros Bulv.;Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108662259,
-    "wof:lastmodified":1474068335,
+    "wof:lastmodified":1474070774,
     "wof:name":"Ak Deniz Akaryakit",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

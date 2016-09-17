@@ -2,6 +2,10 @@
   "id": 1108587675,
   "type": "Feature",
   "properties": {
+    "addr:full":"G?alp Mah. 42. Sk. No:45 Zeytinburnu Istanbul 41000",
+    "addr:housenumber":"42;45",
+    "addr:postcode":"41000",
+    "addr:street":"Alp Mah.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108587675,
-    "wof:lastmodified":1474065199,
+    "wof:lastmodified":1474070773,
     "wof:name":"Tugba Gelinlik .",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

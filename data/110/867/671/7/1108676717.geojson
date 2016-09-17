@@ -2,6 +2,10 @@
   "id": 1108676717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nato Yolu Bayrak Sok.no:20 Modoko Karsisi 6.kapi Y.dudullu Ikitelli-k??cekmece Istanbul 34670",
+    "addr:housenumber":"bayrak;20;6.kapi",
+    "addr:postcode":"34670",
+    "addr:street":"Nato Yolu;Modoko Karsisi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108676717,
-    "wof:lastmodified":1474068916,
+    "wof:lastmodified":1474070761,
     "wof:name":"Haskol Mobilya Ve Taahut",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

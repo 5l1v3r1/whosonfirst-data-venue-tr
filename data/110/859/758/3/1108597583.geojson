@@ -2,6 +2,10 @@
   "id": 1108597583,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi 1. Cad. C 07 Blok No:2 Dudullu \u00dcmraniye Istanbul",
+    "addr:housenumber":"1;c 07 blok no 2",
+    "addr:postcode":"",
+    "addr:street":"Des Sanayi Sitesi;Cad.;Dudullu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108597583,
-    "wof:lastmodified":1474065534,
+    "wof:lastmodified":1474070805,
     "wof:name":"Cesan Kaldirma Tasima Makinalari",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

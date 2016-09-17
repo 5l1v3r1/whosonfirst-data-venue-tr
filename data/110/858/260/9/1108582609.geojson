@@ -2,6 +2,10 @@
   "id": 1108582609,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rumeli Cad.no:2/2 Melek Apt.kat:3-4-5 Nisantasi Antakya Istanbul 31000",
+    "addr:housenumber":"2 / 2;3-4-5",
+    "addr:postcode":"31000",
+    "addr:street":"Cad.No;Melek Apt.Kat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108582609,
-    "wof:lastmodified":1474065076,
+    "wof:lastmodified":1474070703,
     "wof:name":"Lasalle Egitim Merk.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

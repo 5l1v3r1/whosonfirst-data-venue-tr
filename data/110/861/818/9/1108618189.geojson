@@ -2,6 +2,10 @@
   "id": 1108618189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1379 Sok. 55 Sevgi Yolu 35210 Alsancak Izmir 01365",
+    "addr:housenumber":"1379;55",
+    "addr:postcode":"35210;01365",
+    "addr:street":"Sok.;Sevgi Yolu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108618189,
-    "wof:lastmodified":1474066397,
+    "wof:lastmodified":1474070841,
     "wof:name":"Karaca Hotel",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

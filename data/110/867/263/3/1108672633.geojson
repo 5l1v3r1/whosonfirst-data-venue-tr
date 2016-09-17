@@ -2,6 +2,10 @@
   "id": 1108672633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Isik Sok. No:13/6 Tandogan Ankara 44050",
+    "addr:housenumber":"no 13 / 6",
+    "addr:postcode":"44050",
+    "addr:street":"Isik Sok.;Tandogan Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108672633,
-    "wof:lastmodified":1474068741,
+    "wof:lastmodified":1474070652,
     "wof:name":"Tokar Ltd.",
     "wof:parent_id":85904083,
     "wof:placetype":"venue",

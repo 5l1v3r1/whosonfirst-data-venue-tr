@@ -2,6 +2,10 @@
   "id": 1108641745,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Sok. No:4 A.o.s.b. Cigli Gaziemir Izmir 35410",
+    "addr:housenumber":"no 4",
+    "addr:postcode":"10001;35410",
+    "addr:street":"Sok.;Gaziemir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108641745,
-    "wof:lastmodified":1474067486,
+    "wof:lastmodified":1474070743,
     "wof:name":"Rom Pazarlama I? Ve Dis Tic. A.s.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 169541533,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Cad 9 Aydin 09100 01513",
+    "addr:housenumber":"9",
+    "addr:postcode":"09100",
+    "addr:street":"Istiklal Cad;Aydin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169541533,
-    "wof:lastmodified":1466313201,
+    "wof:lastmodified":1474070632,
     "wof:name":"Toprakbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108630723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fatih Mah. Fatih Cad. 49 Sok. No:6 Esenler Iskenderun Istanbul 31200",
+    "addr:housenumber":"49;no 6",
+    "addr:postcode":"31200",
+    "addr:street":"Fatih Mah. Fatih Cad.;Sok.;Esenler",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108630723,
-    "wof:lastmodified":1474067051,
+    "wof:lastmodified":1474070672,
     "wof:name":"Aksu Elektrik",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108631971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Cad. No:114 Cumhuriyet Mah.cayirova 41400 Gebze Kocaeli Melikgazi Istanbul 38030",
+    "addr:housenumber":"114",
+    "addr:postcode":"41400;38030",
+    "addr:street":"Istanbul Cad. No;Mah.Cayirova",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108631971,
-    "wof:lastmodified":1474067101,
+    "wof:lastmodified":1474070732,
     "wof:name":"Kondas Kondansator San Tic As",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

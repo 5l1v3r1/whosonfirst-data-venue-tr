@@ -2,6 +2,10 @@
   "id": 1108677145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dedeoglu Cd. Kiremit Deresi Sk. No:123 ?ubuklu Maltepe Istanbul 01000",
+    "addr:housenumber":"123 ?",
+    "addr:postcode":"01000",
+    "addr:street":"Dedeoglu Cd. Kiremit Deresi Sk. No;Ubuklu Maltepe Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108677145,
-    "wof:lastmodified":1474068930,
+    "wof:lastmodified":1474070769,
     "wof:name":"Tasdelen Aga? San. Tic. Ltd.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

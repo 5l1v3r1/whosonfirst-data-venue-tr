@@ -2,6 +2,10 @@
   "id": 1108625349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cin Cin Dere Cd. No:127 Sanayi Mh. Kat:2-3-4 34610 Gungoren Istanbul Osmanbey Istanbul 63000",
+    "addr:housenumber":"no 127;2-3-4",
+    "addr:postcode":"34610;63000",
+    "addr:street":"Dere Cd.;Mh. Kat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108625349,
-    "wof:lastmodified":1474066672,
+    "wof:lastmodified":1474070796,
     "wof:name":"Te-teks Orme San.ve Tic.ltd.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

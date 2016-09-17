@@ -2,6 +2,10 @@
   "id": 1108573323,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Telsiz Mah 75/2 Sk No:162/a Zeytinburnu Istanbul 41000",
+    "addr:housenumber":"5;75 / 2;/ a",
+    "addr:postcode":"41000",
+    "addr:street":"Telsiz Mah;No 162",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573323,
-    "wof:lastmodified":1474064593,
+    "wof:lastmodified":1474070710,
     "wof:name":"Afra Cam Ticaret",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108619827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nuruosmaniye Cad. No:35-7 Atasaray Ishani No:203 Cagaloglu Istanbul",
+    "addr:housenumber":"35-7",
+    "addr:postcode":"203",
+    "addr:street":"Nuruosmaniye Cad. No;Ishani No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108619827,
-    "wof:lastmodified":1474066463,
+    "wof:lastmodified":1474070832,
     "wof:name":"Burcak Halicilik Tic. Ltd. Sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

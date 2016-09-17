@@ -2,6 +2,10 @@
   "id": 1108594025,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mithatpasa Cad. No:207/1 Bornova Izmir 35040",
+    "addr:housenumber":"207 / 1",
+    "addr:postcode":"35040",
+    "addr:street":"Mithatpasa Cad. No;Bornova Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108594025,
-    "wof:lastmodified":1474065385,
+    "wof:lastmodified":1474070737,
     "wof:name":"Lab Tex",
     "wof:parent_id":85929647,
     "wof:placetype":"venue",

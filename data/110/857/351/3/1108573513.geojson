@@ -2,6 +2,10 @@
   "id": 1108573513,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cd. 510. Sk. No:15 Sandikli Denizli 25900",
+    "addr:housenumber":"510;15",
+    "addr:postcode":"25900",
+    "addr:street":"Cumhuriyet Cd.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573513,
-    "wof:lastmodified":1474064605,
+    "wof:lastmodified":1474070712,
     "wof:name":"Cam-is Tic.",
     "wof:parent_id":85934747,
     "wof:placetype":"venue",

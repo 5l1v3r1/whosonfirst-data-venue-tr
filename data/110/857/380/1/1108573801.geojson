@@ -2,6 +2,10 @@
   "id": 1108573801,
   "type": "Feature",
   "properties": {
+    "addr:full":"Eski Izmit Yolu Uzeri Tepeoren Koyu Tuzla Istanbul 01900",
+    "addr:housenumber":"uzeri;koyu",
+    "addr:postcode":"01900",
+    "addr:street":"Eski Izmit Yolu;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108573801,
-    "wof:lastmodified":1474064616,
+    "wof:lastmodified":1474070730,
     "wof:name":"Ipeker Cam Tic",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

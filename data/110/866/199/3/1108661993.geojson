@@ -2,6 +2,10 @@
   "id": 1108661993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ihlamur Yildiz Cad. No:10 A.blok Kat:6 Besiktas Istanbul Ikitelli Istanbul 12345",
+    "addr:housenumber":"10;kat 6",
+    "addr:postcode":"12345",
+    "addr:street":"Yildiz Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108661993,
-    "wof:lastmodified":1474068325,
+    "wof:lastmodified":1474070749,
     "wof:name":"Toprak Kagit Sanayii A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

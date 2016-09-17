@@ -2,6 +2,10 @@
   "id": 1108645061,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. Koktas Pasaji No:45 D:35 Maltepe Istanbul 01000",
+    "addr:housenumber":"45 d 35",
+    "addr:postcode":"01000",
+    "addr:street":"Ataturk Cad. Koktas Pasaji No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108645061,
-    "wof:lastmodified":1474067602,
+    "wof:lastmodified":1474070833,
     "wof:name":"Simetri",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

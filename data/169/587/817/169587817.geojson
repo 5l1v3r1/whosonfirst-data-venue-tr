@@ -2,6 +2,10 @@
   "id": 169587817,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Eylul San.sitesi 31.blok 7.cad.no:23 Yenisehir Sivas 31750",
+    "addr:housenumber":"4;31.blok;23",
+    "addr:postcode":"31750",
+    "addr:street":"Eylul San.Sitesi;Yenisehir Sivas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169587817,
-    "wof:lastmodified":1466313335,
+    "wof:lastmodified":1474070665,
     "wof:name":"Gunebakan Gunes Enerjisi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

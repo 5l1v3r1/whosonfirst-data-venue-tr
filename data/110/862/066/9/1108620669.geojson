@@ -2,6 +2,10 @@
   "id": 1108620669,
   "type": "Feature",
   "properties": {
+    "addr:full":"Solfasol Cad. 280 Sok. No:14 Altindag Ankara 07050",
+    "addr:housenumber":"280;no 14",
+    "addr:postcode":"07050",
+    "addr:street":"Solfasol Cad.;Sok.;Altindag Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108620669,
-    "wof:lastmodified":1474066498,
+    "wof:lastmodified":1474070682,
     "wof:name":"Selale Yemek Fabrikasi",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

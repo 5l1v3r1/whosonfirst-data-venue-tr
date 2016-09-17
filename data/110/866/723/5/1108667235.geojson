@@ -2,6 +2,10 @@
   "id": 1108667235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Prof. Orhan Ersek Sokak 46/4 Nisantasi Istanbul 25370",
+    "addr:housenumber":"46 / 4",
+    "addr:postcode":"25370",
+    "addr:street":"Prof.;Ersek Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108667235,
-    "wof:lastmodified":1474068531,
+    "wof:lastmodified":1474070857,
     "wof:name":"Adworks",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

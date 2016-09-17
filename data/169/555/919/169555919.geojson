@@ -2,6 +2,10 @@
   "id": 169555919,
   "type": "Feature",
   "properties": {
+    "addr:full":"Akyol Sokak No:18/2 Haci Izzet Pasa Sokak Rota Apt.setustu 80040 Kabatas Istanbul Atasehir Istanbul 81120",
+    "addr:housenumber":"no 18 / 2",
+    "addr:postcode":"80040;81120",
+    "addr:street":"Akyol Sokak;Haci Izzet Pasa Sokak;Apt.Setustu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169555919,
-    "wof:lastmodified":1466313250,
+    "wof:lastmodified":1474070697,
     "wof:name":"Afeks Uluslar Arasi Ticari Fuarlar As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108651173,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kovacilar Cad. No:27/211 Vefa Kartal Istanbul 46000",
+    "addr:housenumber":"27 / 211",
+    "addr:postcode":"46000",
+    "addr:street":"Kovacilar Cad. No;Vefa Kartal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108651173,
-    "wof:lastmodified":1474067892,
+    "wof:lastmodified":1474070716,
     "wof:name":"Interlab Tek. Mlz. Tic.",
     "wof:parent_id":85906527,
     "wof:placetype":"venue",

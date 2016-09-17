@@ -2,6 +2,10 @@
   "id": 1108659679,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hasircilar Cad. No:11 Kizilhan Sokak 34460 Eminonu Istanbul Merkez Istanbul 77200",
+    "addr:housenumber":"11",
+    "addr:postcode":"34460;77200",
+    "addr:street":"Hasircilar Cad. No;Kizilhan Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108659679,
-    "wof:lastmodified":1474068244,
+    "wof:lastmodified":1474070854,
     "wof:name":"Bereket Plastik San Tic As",
     "wof:parent_id":85906481,
     "wof:placetype":"venue",

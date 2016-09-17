@@ -2,6 +2,10 @@
   "id": 1108669625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Akinci Bayir Sok. 25/4 Mecidiyekoy Besiktas Istanbul 75200",
+    "addr:housenumber":"25 / 4",
+    "addr:postcode":"75200",
+    "addr:street":"Bayir Sok.;Mecidiyekoy Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108669625,
-    "wof:lastmodified":1474068631,
+    "wof:lastmodified":1474070856,
     "wof:name":"Selten Fuarcilik",
     "wof:parent_id":85929365,
     "wof:placetype":"venue",

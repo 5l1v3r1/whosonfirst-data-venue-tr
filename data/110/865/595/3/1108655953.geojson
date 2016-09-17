@@ -2,6 +2,10 @@
   "id": 1108655953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mimar Vedat Cad. No:36/14 Oz Han K:5 Sirkeci 34450 Eminonu Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"36 / 14;5",
+    "addr:postcode":"34450;33740",
+    "addr:street":"Mimar Vedat Cad. No;Oz Han K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655953,
-    "wof:lastmodified":1474068096,
+    "wof:lastmodified":1474070822,
     "wof:name":"Sel-ka Kimya San Ve Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108648141,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fabrikalar Cad. No:30 Kartal 27020 Istanbul",
+    "addr:housenumber":"30",
+    "addr:postcode":"27020",
+    "addr:street":"Fabrikalar Cad. No;Kartal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108648141,
-    "wof:lastmodified":1474067748,
+    "wof:lastmodified":1474070866,
     "wof:name":"Birgi San. A.s.",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",

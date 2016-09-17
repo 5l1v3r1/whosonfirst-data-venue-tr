@@ -2,6 +2,10 @@
   "id": 1108623993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Avukat Cad. Lala Sahin Sk. No.25 Bomonti Unkapani Istanbul 55020",
+    "addr:housenumber":"bomonti",
+    "addr:postcode":"55020",
+    "addr:street":"Avukat;Sk. No.25;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108623993,
-    "wof:lastmodified":1474066624,
+    "wof:lastmodified":1474070765,
     "wof:name":"Art Textile",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

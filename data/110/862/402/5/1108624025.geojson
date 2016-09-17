@@ -2,6 +2,10 @@
   "id": 1108624025,
   "type": "Feature",
   "properties": {
+    "addr:full":"139/2 Sok.no:15 Yesilova Izmir Merkez Izmir 46100",
+    "addr:housenumber":"139 / 2;15",
+    "addr:postcode":"46100",
+    "addr:street":"Sok.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108624025,
-    "wof:lastmodified":1474066625,
+    "wof:lastmodified":1474070766,
     "wof:name":"Bornava Giyim Ltd.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

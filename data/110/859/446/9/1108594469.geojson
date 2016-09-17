@@ -2,6 +2,10 @@
   "id": 1108594469,
   "type": "Feature",
   "properties": {
+    "addr:full":"Incirli Cad. No:62 Kat:1 D5 Camlik-bakirkoy (352) 222 29 24 Istanbul",
+    "addr:housenumber":"62 kat 1 d5;352;24",
+    "addr:postcode":"222 29",
+    "addr:street":"Incirli Cad. No;Camlik-Bakirkoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108594469,
-    "wof:lastmodified":1474065401,
+    "wof:lastmodified":1474070738,
     "wof:name":"Medlab International",
     "wof:parent_id":85930129,
     "wof:placetype":"venue",

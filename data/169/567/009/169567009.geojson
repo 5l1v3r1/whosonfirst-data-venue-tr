@@ -2,6 +2,10 @@
   "id": 169567009,
   "type": "Feature",
   "properties": {
+    "addr:full":"50,yil Mah 215 Sok.no:12/4 Gaziosmanpasa Istanbul 01950",
+    "addr:housenumber":"50;215;12 / 4",
+    "addr:postcode":"01950",
+    "addr:street":"Yil Mah",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169567009,
-    "wof:lastmodified":1466313444,
+    "wof:lastmodified":1474070632,
     "wof:name":"Doruk Elektronik G?enlik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

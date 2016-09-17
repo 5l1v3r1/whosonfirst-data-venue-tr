@@ -2,6 +2,10 @@
   "id": 1108615107,
   "type": "Feature",
   "properties": {
+    "addr:full":"M.kemal Cad. 123/g Bornova Altindag Izmir 07050",
+    "addr:housenumber":"123 / g",
+    "addr:postcode":"07050",
+    "addr:street":"M.Kemal Cad.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108615107,
-    "wof:lastmodified":1474066278,
+    "wof:lastmodified":1474070781,
     "wof:name":"Borege Ltd.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

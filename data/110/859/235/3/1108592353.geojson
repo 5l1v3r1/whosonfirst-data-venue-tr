@@ -2,6 +2,10 @@
   "id": 1108592353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Karistiran Yolu 2 Km Muratli Tekirdag 25850",
+    "addr:housenumber":"2 km",
+    "addr:postcode":"25850",
+    "addr:street":"Karistiran Yolu;Muratli Tekirdag",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108592353,
-    "wof:lastmodified":1474065321,
+    "wof:lastmodified":1474070712,
     "wof:name":"Tunc Export",
     "wof:parent_id":85934645,
     "wof:placetype":"venue",

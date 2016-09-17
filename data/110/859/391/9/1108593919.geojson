@@ -2,6 +2,10 @@
   "id": 1108593919,
   "type": "Feature",
   "properties": {
+    "addr:full":"19,mayis Mah. Esin Sok. No:9/6 Kozyatagi 1.levent Istanbul 34340",
+    "addr:housenumber":"19;sok. no 9 / 6;1.levent",
+    "addr:postcode":"34340",
+    "addr:street":"Mayis Mah. Esin;Kozyatagi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1108593919,
-    "wof:lastmodified":1474065381,
+    "wof:lastmodified":1474070736,
     "wof:name":"Biomerieux Diagnostik Malzemelri A.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

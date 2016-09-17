@@ -2,6 +2,10 @@
   "id": 1108602987,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Bulv. No:162 Gulpalas D:3/4 Aksaray Istanbul 31030",
+    "addr:housenumber":"no;3 / 4",
+    "addr:postcode":"31030",
+    "addr:street":"Ataturk Bulv.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108602987,
-    "wof:lastmodified":1474065754,
+    "wof:lastmodified":1474070716,
     "wof:name":"Turkish Airlines (thy)",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

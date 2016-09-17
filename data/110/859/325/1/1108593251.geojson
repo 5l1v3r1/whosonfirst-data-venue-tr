@@ -2,6 +2,10 @@
   "id": 1108593251,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Bulvari No:67/b Izmit Kocaeli 41000",
+    "addr:housenumber":"no 67 / b",
+    "addr:postcode":"41000",
+    "addr:street":"Ataturk Bulvari;Izmit Kocaeli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108593251,
-    "wof:lastmodified":1474065349,
+    "wof:lastmodified":1474070719,
     "wof:name":"Pasteur Veteriner Klinigi",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

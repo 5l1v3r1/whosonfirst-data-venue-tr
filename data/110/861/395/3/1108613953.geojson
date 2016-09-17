@@ -2,6 +2,10 @@
   "id": 1108613953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Sit. 680 Sk. No:57-59 07100 Antalya",
+    "addr:housenumber":"680;57-59",
+    "addr:postcode":"07100",
+    "addr:street":"Sit.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108613953,
-    "wof:lastmodified":1474066233,
+    "wof:lastmodified":1474070726,
     "wof:name":"Ilmak A.s.",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

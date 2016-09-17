@@ -2,6 +2,10 @@
   "id": 1108648321,
   "type": "Feature",
   "properties": {
+    "addr:full":"100. Yil Blv. No:73/1 Merkez Antalya 03300",
+    "addr:housenumber":"100;73 / 1",
+    "addr:postcode":"03300",
+    "addr:street":"Yil Blv. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108648321,
-    "wof:lastmodified":1474067756,
+    "wof:lastmodified":1474070869,
     "wof:name":"Delta Medikal",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

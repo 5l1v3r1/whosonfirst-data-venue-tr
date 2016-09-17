@@ -2,6 +2,10 @@
   "id": 1108621945,
   "type": "Feature",
   "properties": {
+    "addr:full":"Davut Suvari Sok. No: 30/a Bagcilar Izmir 34550",
+    "addr:housenumber":"no 30 / a",
+    "addr:postcode":"34550",
+    "addr:street":"Suvari Sok.;Bagcilar Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108621945,
-    "wof:lastmodified":1474066553,
+    "wof:lastmodified":1474070747,
     "wof:name":"Erpa Temizlik Urunleri",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

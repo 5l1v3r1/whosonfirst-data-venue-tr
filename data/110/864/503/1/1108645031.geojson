@@ -2,6 +2,10 @@
   "id": 1108645031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1408 Sok.no:4/2 Alsancak Izmir 01365",
+    "addr:housenumber":"1408;4 / 2",
+    "addr:postcode":"01365",
+    "addr:street":"Sok.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108645031,
-    "wof:lastmodified":1474067600,
+    "wof:lastmodified":1474070834,
     "wof:name":"Satir Madencilik Mermercilik Ins.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

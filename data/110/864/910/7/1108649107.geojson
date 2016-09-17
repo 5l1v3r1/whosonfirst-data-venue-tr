@@ -2,6 +2,10 @@
   "id": 1108649107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. Ozen Apt. No:95 K:1 D:2 Bornova Bursa 3500",
+    "addr:housenumber":"95 k 1 d 2",
+    "addr:postcode":"3500",
+    "addr:street":"Ataturk Cad. Ozen Apt. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108649107,
-    "wof:lastmodified":1474067803,
+    "wof:lastmodified":1474070870,
     "wof:name":"Lifemed Ltd. Sti.",
     "wof:parent_id":85929875,
     "wof:placetype":"venue",

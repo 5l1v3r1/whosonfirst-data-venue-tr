@@ -2,6 +2,10 @@
   "id": 1108676509,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fevzi Cakmak Mah. Ucar Sok. No:13 Sefakoy 24000 Istanbul",
+    "addr:housenumber":"no 13",
+    "addr:postcode":"24000",
+    "addr:street":"Cakmak Mah. Ucar Sok.;Sefakoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108676509,
-    "wof:lastmodified":1474068909,
+    "wof:lastmodified":1474070760,
     "wof:name":"Dedeagacli Ticaret",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

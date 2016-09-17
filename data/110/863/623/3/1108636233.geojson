@@ -2,6 +2,10 @@
   "id": 1108636233,
   "type": "Feature",
   "properties": {
+    "addr:full":"Buyukdere Cad. 1.imar Ishani No: 48/5 M.koy Mersin Istanbul 52750",
+    "addr:housenumber":"1.imar;48 / 5",
+    "addr:postcode":"52750",
+    "addr:street":"Buyukdere Cad.;Ishani No;M.Koy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108636233,
-    "wof:lastmodified":1474067274,
+    "wof:lastmodified":1474070802,
     "wof:name":"Minerva Yazilim A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

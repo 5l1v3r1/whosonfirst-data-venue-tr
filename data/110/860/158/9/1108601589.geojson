@@ -2,6 +2,10 @@
   "id": 1108601589,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Mayis Caddesi 4/505 Nova Baran Sisli Istanbul 65710",
+    "addr:housenumber":"19;4 / 505",
+    "addr:postcode":"65710",
+    "addr:street":"Mayis Caddesi;Nova Baran",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108601589,
-    "wof:lastmodified":1474065703,
+    "wof:lastmodified":1474070720,
     "wof:name":"Varig (brazilian Airlines)",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108645107,
   "type": "Feature",
   "properties": {
+    "addr:full":"Atifbey Mh. 61 Sk. No:23 Guzelyali Izmir 01170",
+    "addr:housenumber":"61;23",
+    "addr:postcode":"01170",
+    "addr:street":"Atifbey Mh.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108645107,
-    "wof:lastmodified":1474067603,
+    "wof:lastmodified":1474070841,
     "wof:name":"Templa Tekstil Mermer Ltd.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108600117,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bornova Cad. No: 14/16 Isikkent Izmir 32100",
+    "addr:housenumber":"14 / 16",
+    "addr:postcode":"32100",
+    "addr:street":"Bornova Cad. No;Isikkent Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108600117,
-    "wof:lastmodified":1474065636,
+    "wof:lastmodified":1474070678,
     "wof:name":"Palaplast Sulama Sistemleri A.s.",
     "wof:parent_id":85929643,
     "wof:placetype":"venue",

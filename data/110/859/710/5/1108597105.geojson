@@ -2,6 +2,10 @@
   "id": 1108597105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinan Mah.1258 Sok.eyi? Apt.no:10/c Zeytinburnu Antalya 41000",
+    "addr:housenumber":"mah.1258 sok.eyi ?;10 / c",
+    "addr:postcode":"41000",
+    "addr:street":"Sinan;Apt.No;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108597105,
-    "wof:lastmodified":1474065516,
+    "wof:lastmodified":1474070784,
     "wof:name":"Simge Deri",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",

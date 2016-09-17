@@ -2,6 +2,10 @@
   "id": 1108620647,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cevdetpasa Cad. Manolya Sok. Sahilyolu No:244 Bebek Istanbul 02000",
+    "addr:housenumber":"sahilyolu",
+    "addr:postcode":"02000",
+    "addr:street":"Cevdetpasa Cad. Manolya Sok.;No 244 Bebek",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108620647,
-    "wof:lastmodified":1474066497,
+    "wof:lastmodified":1474070669,
     "wof:name":"New Yorker Catering Ve Davet Organizasyonu",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

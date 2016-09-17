@@ -2,6 +2,10 @@
   "id": 169578913,
   "type": "Feature",
   "properties": {
+    "addr:full":"Izmir Cad. Dacka A 1 Sitesi 1-1 Beylikduzu Istanbul 34520",
+    "addr:housenumber":"1;1-1",
+    "addr:postcode":"34520",
+    "addr:street":"Izmir Cad. Dacka A;Sitesi;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169578913,
-    "wof:lastmodified":1466313326,
+    "wof:lastmodified":1474070674,
     "wof:name":"Terra Chartering And Shipping Agency",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

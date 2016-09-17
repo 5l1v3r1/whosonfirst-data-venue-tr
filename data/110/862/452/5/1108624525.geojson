@@ -2,6 +2,10 @@
   "id": 1108624525,
   "type": "Feature",
   "properties": {
+    "addr:full":"?amlica Aydinoglu 33 81180 \u00dcsk\u00fcdar Istanbul 34672",
+    "addr:housenumber":"?;33",
+    "addr:postcode":"81180;34672",
+    "addr:street":"Amlica Aydinoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108624525,
-    "wof:lastmodified":1474066643,
+    "wof:lastmodified":1474070771,
     "wof:name":"Nobel Sirketler Grubu",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

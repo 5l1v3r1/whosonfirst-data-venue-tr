@@ -2,6 +2,10 @@
   "id": 1108674773,
   "type": "Feature",
   "properties": {
+    "addr:full":"Inonu Cad. Kozyatagi Turaboglu Sokak Sumko Sit A.7 D4 81090 Kadikoy Istanbul Merkez Istanbul 24000",
+    "addr:housenumber":"sumko;d4",
+    "addr:postcode":"81090;24000",
+    "addr:street":"Inonu Cad. Kozyatagi Turaboglu Sokak;A.7",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108674773,
-    "wof:lastmodified":1474068834,
+    "wof:lastmodified":1474070724,
     "wof:name":"Rast Gida San Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

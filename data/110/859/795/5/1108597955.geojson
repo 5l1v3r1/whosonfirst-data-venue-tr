@@ -2,6 +2,10 @@
   "id": 1108597955,
   "type": "Feature",
   "properties": {
+    "addr:full":"10002 Sk.no:19 Iaosb Cigli Izmir 46000",
+    "addr:housenumber":"10002;19",
+    "addr:postcode":"46000",
+    "addr:street":"Sk.No;Cigli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108597955,
-    "wof:lastmodified":1474065547,
+    "wof:lastmodified":1474070814,
     "wof:name":"Loher Asansor Sanayi Ve Ticaret A.s.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

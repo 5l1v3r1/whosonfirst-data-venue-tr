@@ -2,6 +2,10 @@
   "id": 1108600241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinan Mah. 1261.sok. No:6/d Gaziosmanpasa Antalya 34110",
+    "addr:housenumber":"1261.sok no 6 / d",
+    "addr:postcode":"34110",
+    "addr:street":"Sinan Mah.;Gaziosmanpasa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108600241,
-    "wof:lastmodified":1474065641,
+    "wof:lastmodified":1474070684,
     "wof:name":"Veliddin Tarim Makinalari",
     "wof:parent_id":85929965,
     "wof:placetype":"venue",

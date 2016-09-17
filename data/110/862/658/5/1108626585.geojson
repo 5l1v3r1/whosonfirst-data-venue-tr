@@ -2,6 +2,10 @@
   "id": 1108626585,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Caddesi Ercan Ishani No:104/36 Maltepe Istanbul 01000",
+    "addr:housenumber":"104 / 36",
+    "addr:postcode":"01000",
+    "addr:street":"Bagdat Caddesi Ercan Ishani No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626585,
-    "wof:lastmodified":1474066721,
+    "wof:lastmodified":1474070802,
     "wof:name":"Etna Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

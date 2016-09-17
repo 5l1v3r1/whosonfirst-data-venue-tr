@@ -2,6 +2,10 @@
   "id": 1108625181,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. No:50 Gungoren Istanbul 33630",
+    "addr:housenumber":"50",
+    "addr:postcode":"33630",
+    "addr:street":"Ataturk Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108625181,
-    "wof:lastmodified":1474066666,
+    "wof:lastmodified":1474070792,
     "wof:name":"Imaj Tela Tekstil",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",

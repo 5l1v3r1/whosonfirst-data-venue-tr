@@ -2,6 +2,10 @@
   "id": 1108678727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1443 Sok. No:159 Kat:4 D:7 Eytemiz Apt. Alsancak Izmir 01365",
+    "addr:housenumber":"no;kat 4 d 7",
+    "addr:postcode":"1443;01365",
+    "addr:street":"Sok.;Eytemiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108678727,
-    "wof:lastmodified":1474068996,
+    "wof:lastmodified":1474070807,
     "wof:name":"Mates Uluslararasi Tasimacilik Ve Tic.ltd.sti.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

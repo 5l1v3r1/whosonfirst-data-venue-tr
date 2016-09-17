@@ -2,6 +2,10 @@
   "id": 1108578991,
   "type": "Feature",
   "properties": {
+    "addr:full":"Osmanaga Mah. Kirtasiyeci Sok. No:10-7 Kadikoy Meram Istanbul 42100",
+    "addr:housenumber":"no",
+    "addr:postcode":"42100",
+    "addr:street":"Osmanaga Mah. Kirtasiyeci Sok.;Kadikoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108578991,
-    "wof:lastmodified":1474064914,
+    "wof:lastmodified":1474070811,
     "wof:name":"Bab Organizasyon",
     "wof:parent_id":102535817,
     "wof:placetype":"venue",

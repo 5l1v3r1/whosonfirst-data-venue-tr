@@ -2,6 +2,10 @@
   "id": 1108610723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Adnan Kahveci Bulvari, Beyazlar Plaza 39/45, Bah?lievler Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"beyazlar;45;?",
+    "addr:postcode":"34670",
+    "addr:street":"Adnan Kahveci Bulvari;Plaza 39 /;Lievler Ikitelli / Kuec\u0327Uekc\u0327Ekmece",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108610723,
-    "wof:lastmodified":1474066114,
+    "wof:lastmodified":1474070696,
     "wof:name":"Kardent Health Services & Trading Ltd.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

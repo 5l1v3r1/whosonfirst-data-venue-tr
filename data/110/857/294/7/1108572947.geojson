@@ -2,6 +2,10 @@
   "id": 1108572947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 Sk. 63/5 Alsancak 4640 Izmir",
+    "addr:housenumber":"1421;5",
+    "addr:postcode":"4640",
+    "addr:street":"Sk. 63 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108572947,
-    "wof:lastmodified":1474064578,
+    "wof:lastmodified":1474070695,
     "wof:name":"Demoplex Ltd. Sti.",
     "wof:parent_id":85929637,
     "wof:placetype":"venue",

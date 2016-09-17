@@ -2,6 +2,10 @@
   "id": 1108655971,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cayir Cimen Sok Emlak Bankasi Bloklari A-2 Blok K:9 D:39 Levent 80690 Besiktas Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"emlak;9;39",
+    "addr:postcode":"80690;33740",
+    "addr:street":"Cimen Sok;A-2;D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655971,
-    "wof:lastmodified":1474068096,
+    "wof:lastmodified":1474070826,
     "wof:name":"Uygar Kimya San Ve Tic Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

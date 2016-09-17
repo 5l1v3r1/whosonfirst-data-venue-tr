@@ -2,6 +2,10 @@
   "id": 1108596703,
   "type": "Feature",
   "properties": {
+    "addr:full":"Telsiz Mah. 69/2 Sok. No. 7/a 340760 Zeytunburnu \u00c7orlu Istanbul",
+    "addr:housenumber":"69 / 2;no. 7 / a",
+    "addr:postcode":"340760",
+    "addr:street":"Telsiz Mah.;Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108596703,
-    "wof:lastmodified":1474065500,
+    "wof:lastmodified":1474070781,
     "wof:name":"Fast Model By Otis",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108627485,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hamamyolu Caddesi ?zper Sok. No:24 K:1 Basmane Eskisehir 35240",
+    "addr:housenumber":"?;no 24 k 1",
+    "addr:postcode":"35240",
+    "addr:street":"Hamamyolu Caddesi;Zper Sok.;Eskisehir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108627485,
-    "wof:lastmodified":1474066758,
+    "wof:lastmodified":1474070829,
     "wof:name":"Mesg?r Turizm",
     "wof:parent_id":85934771,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108611329,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Yolu 13.km.sasmaz Fabrika Yani No:74 Sasmaz \u00dcmraniye Ankara 34100",
+    "addr:housenumber":"13.km.sasmaz;no 74",
+    "addr:postcode":"34100",
+    "addr:street":"Istanbul Yolu;Yani;Sasmaz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108611329,
-    "wof:lastmodified":1474066135,
+    "wof:lastmodified":1474070707,
     "wof:name":"Servet Sondaj San.tic.ltd.sti.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

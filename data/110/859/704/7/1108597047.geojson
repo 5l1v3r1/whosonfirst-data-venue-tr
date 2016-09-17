@@ -2,6 +2,10 @@
   "id": 1108597047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ziya Gokalp Mah. 42/1 Sok. No:8 Zeytinburnu \u00c7orlu Istanbul",
+    "addr:housenumber":"42 / 1;no 8",
+    "addr:postcode":"",
+    "addr:street":"Ziya Gokalp Mah.;Sok.;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108597047,
-    "wof:lastmodified":1474065514,
+    "wof:lastmodified":1474070784,
     "wof:name":"Rialto Pelle",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

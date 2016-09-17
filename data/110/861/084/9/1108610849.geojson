@@ -2,6 +2,10 @@
   "id": 1108610849,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi 112 Sk. D-3 Blok No:14 Y.dudullu \u00dcmraniye Istanbul 34776",
+    "addr:housenumber":"112;blok no 14",
+    "addr:postcode":"34776",
+    "addr:street":"Des Sanayi Sitesi;Sk. D-3;Y.Dudullu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108610849,
-    "wof:lastmodified":1474066117,
+    "wof:lastmodified":1474070696,
     "wof:name":"Tanay Dis Tic.ins. San. Ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

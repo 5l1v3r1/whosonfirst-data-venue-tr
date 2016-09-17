@@ -2,6 +2,10 @@
   "id": 1108629313,
   "type": "Feature",
   "properties": {
+    "addr:full":"Florya 5 Yol Kavsagi Reyhan Cad.sahinler Sok. No:13 Kat:1 Sefakoy Istanbul 42000",
+    "addr:housenumber":"5 yol;reyhan;no 13 kat 1",
+    "addr:postcode":"42000",
+    "addr:street":"Florya;Cad.Sahinler Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108629313,
-    "wof:lastmodified":1474066872,
+    "wof:lastmodified":1474070858,
     "wof:name":"G & G & A Home Art",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108623991,
   "type": "Feature",
   "properties": {
+    "addr:full":"10006 Sok.no:51 Atat?k Org.san.b?gesi B.?igli Unkapani Izmir 55020",
+    "addr:housenumber":"10006;51;?;?;?",
+    "addr:postcode":"55020",
+    "addr:street":"Sok.No;K Org.San.B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108623991,
-    "wof:lastmodified":1474066624,
+    "wof:lastmodified":1474070758,
     "wof:name":"Alfa Dis Ticaret Ltd.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

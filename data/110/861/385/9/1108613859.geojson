@@ -2,6 +2,10 @@
   "id": 1108613859,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kalmaz Cd. Mermerci Han No:19/12 Ulus Ankara 01940",
+    "addr:housenumber":"19 / 12",
+    "addr:postcode":"01940",
+    "addr:street":"Kalmaz Cd. Mermerci Han No;Ulus Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108613859,
-    "wof:lastmodified":1474066230,
+    "wof:lastmodified":1474070727,
     "wof:name":"Demirbilek Tic. Ltd. Sti.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

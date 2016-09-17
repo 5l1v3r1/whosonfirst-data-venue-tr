@@ -2,6 +2,10 @@
   "id": 1108655947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nispetiye Cad. No:19/2-4 Peker Sokak Ucler Apt. 80600 1.levent Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"19 / 2-4;ucler",
+    "addr:postcode":"80600;33740",
+    "addr:street":"Nispetiye Cad. No;Peker Sokak;1.Levent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655947,
-    "wof:lastmodified":1474068095,
+    "wof:lastmodified":1474070823,
     "wof:name":"Reanimed Teknik Ve Tibbi Sistem San Ve Tic San Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

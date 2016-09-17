@@ -2,6 +2,10 @@
   "id": 1108626719,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulv. G?naydin-2 Apt. No: 131/3-4 Balmumcu 80700 Besiktas Istanbul 75200",
+    "addr:housenumber":"?;apt.;/ 3-4",
+    "addr:postcode":"80700;75200",
+    "addr:street":"Barbaros Bulv. G;No 131;Balmumcu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626719,
-    "wof:lastmodified":1474066726,
+    "wof:lastmodified":1474070803,
     "wof:name":"Gemini Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

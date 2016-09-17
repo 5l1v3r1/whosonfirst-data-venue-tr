@@ -2,6 +2,10 @@
   "id": 1108655927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dr. Mediha Eldem Sokak No:69/3 06640 Kocatepe Ankara Sariyer Ankara 33740",
+    "addr:housenumber":"no 69 / 3",
+    "addr:postcode":"06640;33740",
+    "addr:street":"Eldem Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108655927,
-    "wof:lastmodified":1474068095,
+    "wof:lastmodified":1474070823,
     "wof:name":"Omak Makina San Tic Ltd Sti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

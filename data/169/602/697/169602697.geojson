@@ -2,6 +2,10 @@
   "id": 169602697,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Cd. No:74 Ankara Han K:1 Sirkeci 07230 Istanbul",
+    "addr:housenumber":"no 74;1",
+    "addr:postcode":"07230",
+    "addr:street":"K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169602697,
-    "wof:lastmodified":1466313353,
+    "wof:lastmodified":1474070637,
     "wof:name":"Aceka Spor Malz.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

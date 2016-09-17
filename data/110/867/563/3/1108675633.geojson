@@ -2,6 +2,10 @@
   "id": 1108675633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sirinyali Mah.sinanoglu Cad. 1515.sok. Aysel Koseler Apt. No: 14/3 Nazilli Antalya 65600",
+    "addr:housenumber":"1515.sok",
+    "addr:postcode":"65600",
+    "addr:street":"Mah.Sinanoglu Cad.;Nazilli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108675633,
-    "wof:lastmodified":1474068880,
+    "wof:lastmodified":1474070747,
     "wof:name":"Mag Gida Pazarlama",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",

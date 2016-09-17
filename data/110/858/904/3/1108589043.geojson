@@ -2,6 +2,10 @@
   "id": 1108589043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mahmutpasa Cad. Irfaniye ?ar. No:56 Mahmutpasa Istanbul 60100",
+    "addr:housenumber":"irfaniye ?;56",
+    "addr:postcode":"60100",
+    "addr:street":"Mahmutpasa Cad.;Ar. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108589043,
-    "wof:lastmodified":1474065228,
+    "wof:lastmodified":1474070806,
     "wof:name":"?zen Esarp",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108647643,
   "type": "Feature",
   "properties": {
+    "addr:full":"G?ercin Yolu No: 111-112 06560 Gazi Ankara Kartal Ankara 46000",
+    "addr:housenumber":"111-112",
+    "addr:postcode":"06560;46000",
+    "addr:street":"Ercin Yolu No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108647643,
-    "wof:lastmodified":1474067718,
+    "wof:lastmodified":1474070862,
     "wof:name":"T?rktrakt?r Ve Ziraat Makinaleri As",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

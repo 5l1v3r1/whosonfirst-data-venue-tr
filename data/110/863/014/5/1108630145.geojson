@@ -2,6 +2,10 @@
   "id": 1108630145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Caglayan Vatan Cad. No:124 /b Kat: 3 Bayrampasa Istanbul 36100",
+    "addr:housenumber":"124 / b kat 3",
+    "addr:postcode":"36100",
+    "addr:street":"Vatan Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108630145,
-    "wof:lastmodified":1474066923,
+    "wof:lastmodified":1474070666,
     "wof:name":"Elektra",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

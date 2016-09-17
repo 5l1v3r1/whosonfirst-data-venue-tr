@@ -2,6 +2,10 @@
   "id": 1108637713,
   "type": "Feature",
   "properties": {
+    "addr:full":"Catalca Yolu 1.km Tepecik 34907 B.cekmece Ineg?l Istanbul 16400",
+    "addr:housenumber":"1.km",
+    "addr:postcode":"34907;ineg ?;16400",
+    "addr:street":"Catalca Yolu;Tepecik;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108637713,
-    "wof:lastmodified":1474067331,
+    "wof:lastmodified":1474070813,
     "wof:name":"Meridian Marketing Co.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

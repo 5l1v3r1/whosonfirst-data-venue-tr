@@ -2,6 +2,10 @@
   "id": 1108599647,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cad. Cetin Sok. No:10/2 Maltepe Istanbul 01000",
+    "addr:housenumber":"no 10 / 2",
+    "addr:postcode":"01000",
+    "addr:street":"Bagdat Cad. Cetin Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108599647,
-    "wof:lastmodified":1474065619,
+    "wof:lastmodified":1474070839,
     "wof:name":"Galenka Ilac San",
     "wof:parent_id":85930197,
     "wof:placetype":"venue",

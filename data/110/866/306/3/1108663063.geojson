@@ -2,6 +2,10 @@
   "id": 1108663063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kule Meydan Sok.no:28 K:22-23 Maslak Emek Istanbul 01940",
+    "addr:housenumber":"28 k",
+    "addr:postcode":"22-23;01940",
+    "addr:street":"Kule;Sok.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108663063,
-    "wof:lastmodified":1474068368,
+    "wof:lastmodified":1474070781,
     "wof:name":"Servier Ilac Arastirma A.s",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

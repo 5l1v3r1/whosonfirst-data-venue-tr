@@ -2,6 +2,10 @@
   "id": 1108673713,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fenerli Ahmet Sok.no:26 Camlik Apt.a Blok K:3 D:7 Feneryolu- Kadikoy Istanbul 01370",
+    "addr:housenumber":"26;blok k 3 d 7",
+    "addr:postcode":"01370",
+    "addr:street":"Camlik Apt.A;Feneryolu Kadikoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108673713,
-    "wof:lastmodified":1474068791,
+    "wof:lastmodified":1474070678,
     "wof:name":"Gida Maddeleri Saticisi",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

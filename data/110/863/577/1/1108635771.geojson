@@ -2,6 +2,10 @@
   "id": 1108635771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fathiye Cad. Tanaydin Apartmani Kat.4 No:10 41300 Izmit Mersin Kocaeli 52750",
+    "addr:housenumber":"kat.4 no 10",
+    "addr:postcode":"41300;52750",
+    "addr:street":"Fathiye Cad. Tanaydin Apartmani",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108635771,
-    "wof:lastmodified":1474067255,
+    "wof:lastmodified":1474070780,
     "wof:name":"Athena Bilisim Sitemleri",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

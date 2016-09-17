@@ -2,6 +2,10 @@
   "id": 1108587595,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bayar Caddesi G?bahar Sokak 17 Perdemsa?plaza Kat 8 No :87 Kozyatagi Istanbul 34742",
+    "addr:housenumber":"?;17;?;8 no 87",
+    "addr:postcode":"34742",
+    "addr:street":"Bayar Caddesi G;Bahar Sokak;Plaza Kat;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108587595,
-    "wof:lastmodified":1474065197,
+    "wof:lastmodified":1474070778,
     "wof:name":"Last Digital Turkiye",
     "wof:parent_id":85930125,
     "wof:placetype":"venue",

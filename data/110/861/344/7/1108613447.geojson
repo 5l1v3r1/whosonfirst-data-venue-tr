@@ -2,6 +2,10 @@
   "id": 1108613447,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vatan Caddesi No:9 Kat:2 Daire:28 - Sisli 64020 Istanbul",
+    "addr:housenumber":"2;28",
+    "addr:postcode":"64020",
+    "addr:street":"Vatan Caddesi No 9 Kat;Daire",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108613447,
-    "wof:lastmodified":1474066215,
+    "wof:lastmodified":1474070705,
     "wof:name":"Beyoglu 20 Noterligi",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",

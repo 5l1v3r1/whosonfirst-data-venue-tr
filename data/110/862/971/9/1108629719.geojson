@@ -2,6 +2,10 @@
   "id": 1108629719,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Bulvari 105/207 Kizilay Sisli Ankara 34387",
+    "addr:housenumber":"105 / 207",
+    "addr:postcode":"34387",
+    "addr:street":"Ataturk Bulvari;Kizilay Sisli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108629719,
-    "wof:lastmodified":1474066897,
+    "wof:lastmodified":1474070859,
     "wof:name":"Birlesik Cevirmenlik Hizmetleri",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

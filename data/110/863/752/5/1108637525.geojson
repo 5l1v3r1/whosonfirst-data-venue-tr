@@ -2,6 +2,10 @@
   "id": 1108637525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kurtulus Mah. 19 Sok. Ali D?er Apt. Kat:3 Daire :8 Yenisehir Adana 31750",
+    "addr:housenumber":"3;8",
+    "addr:postcode":"31750",
+    "addr:street":"Mah. 19 Sok. Ali D;Er;Kat;Daire;Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108637525,
-    "wof:lastmodified":1474067318,
+    "wof:lastmodified":1474070821,
     "wof:name":"Yeter Insaat Ltd. Sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

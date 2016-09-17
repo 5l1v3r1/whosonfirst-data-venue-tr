@@ -2,6 +2,10 @@
   "id": 1108581411,
   "type": "Feature",
   "properties": {
+    "addr:full":"Halaskargazi Cad.336/1 Sadiklar 2 Apt.kat:3 Sisli Kartal Istanbul 46000",
+    "addr:housenumber":"2;3",
+    "addr:postcode":"46000",
+    "addr:street":"Sadiklar;Apt.Kat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108581411,
-    "wof:lastmodified":1474065050,
+    "wof:lastmodified":1474070689,
     "wof:name":"Otobilgi Otomotiv Sanayi Ve Ticaret",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108594687,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. Koktas Pasaji No:45/10 Maltepe Istanbul 01000",
+    "addr:housenumber":"45 / 10",
+    "addr:postcode":"01000",
+    "addr:street":"Ataturk Cad. Koktas Pasaji No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108594687,
-    "wof:lastmodified":1474065408,
+    "wof:lastmodified":1474070739,
     "wof:name":"Cinar Sehir Ve Peyzaj Planlama",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

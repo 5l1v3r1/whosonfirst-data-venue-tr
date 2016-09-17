@@ -2,6 +2,10 @@
   "id": 1108582565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1386 Sok.yayla Apy.no:3 B Blok K:2 D:4 Alsancak Antakya Izmir 31000",
+    "addr:housenumber":"1386;3 b blok k 2 d 4",
+    "addr:postcode":"31000",
+    "addr:street":"Sok.Yayla Apy.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108582565,
-    "wof:lastmodified":1474065075,
+    "wof:lastmodified":1474070690,
     "wof:name":"Ege Bireysel Gelisim",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

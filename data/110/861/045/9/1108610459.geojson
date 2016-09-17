@@ -2,6 +2,10 @@
   "id": 1108610459,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Yil Blv Altindag M 169 S Zeytinciler Apt Cankaya Antalya 07080",
+    "addr:housenumber":"100;169",
+    "addr:postcode":"07080",
+    "addr:street":"Yil Blv Altindag M;S Zeytinciler;Cankaya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108610459,
-    "wof:lastmodified":1474066095,
+    "wof:lastmodified":1474070695,
     "wof:name":"Sentez Dekoline",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108647555,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yaprak Sok. Ordu Cad No. 176 81530 Maltepe Istanbul Kartal Istanbul 46000",
+    "addr:housenumber":"176",
+    "addr:postcode":"81530;46000",
+    "addr:street":"Yaprak Sok. Ordu Cad No.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108647555,
-    "wof:lastmodified":1474067715,
+    "wof:lastmodified":1474070868,
     "wof:name":"Basaran Paslanmaz Celik Mutfak Ve San. Rucham Basaran",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

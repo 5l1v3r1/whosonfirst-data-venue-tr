@@ -2,6 +2,10 @@
   "id": 1108654385,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kisla Caddesi No:94 34140 Rami Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"no 94",
+    "addr:postcode":"34140;34437",
+    "addr:street":"Kisla Caddesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108654385,
-    "wof:lastmodified":1474068039,
+    "wof:lastmodified":1474070818,
     "wof:name":"Denet Civata Sanayii A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

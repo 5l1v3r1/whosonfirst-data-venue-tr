@@ -2,6 +2,10 @@
   "id": 1108607879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nato Caddesi No:29/2 Seyrantepe 4. Levent Istanbul 34418",
+    "addr:housenumber":"no 29 / 2;4",
+    "addr:postcode":"34418",
+    "addr:street":"Nato Caddesi;Seyrantepe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108607879,
-    "wof:lastmodified":1474065977,
+    "wof:lastmodified":1474070797,
     "wof:name":"Terminix Hasere Kontrol Hizmetleri",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

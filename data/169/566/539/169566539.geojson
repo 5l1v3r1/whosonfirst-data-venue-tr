@@ -2,6 +2,10 @@
   "id": 169566539,
   "type": "Feature",
   "properties": {
+    "addr:full":"Acibadem Emniyet Sok. No:12/1 Kadikoy Sisli Istanbul 65710",
+    "addr:housenumber":"no 12 / 1",
+    "addr:postcode":"65710",
+    "addr:street":"Emniyet Sok.;Kadikoy Sisli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169566539,
-    "wof:lastmodified":1466313265,
+    "wof:lastmodified":1474070645,
     "wof:name":"Core Net",
     "wof:parent_id":85930223,
     "wof:placetype":"venue",

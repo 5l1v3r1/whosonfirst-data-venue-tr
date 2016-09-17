@@ -2,6 +2,10 @@
   "id": 1108590671,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi 1.cad. C.5 Blk. No: 10 Yukaridudullu Tuzla Istanbul 81700",
+    "addr:housenumber":"1.cad c.5 blk. no 10",
+    "addr:postcode":"81700",
+    "addr:street":"Des Sanayi Sitesi;Yukaridudullu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108590671,
-    "wof:lastmodified":1474065266,
+    "wof:lastmodified":1474070686,
     "wof:name":"Garanti Celik",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

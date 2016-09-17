@@ -2,6 +2,10 @@
   "id": 1108628293,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kibris Sehitleri Cad. 1443 Sok. No: 45/2 D: 3 Alsancak Izmir 01365",
+    "addr:housenumber":"no 45 / 2 d 3",
+    "addr:postcode":"1443;01365",
+    "addr:street":"Sehitleri Cad.;Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108628293,
-    "wof:lastmodified":1474066802,
+    "wof:lastmodified":1474070862,
     "wof:name":"Sival Turizm",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

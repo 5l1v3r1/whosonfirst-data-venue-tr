@@ -2,6 +2,10 @@
   "id": 1108575785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Emirhan Cad. No:145 A Blok K:19 80700 Besiktas Istanbul 75200",
+    "addr:housenumber":"145 a blok k 19",
+    "addr:postcode":"80700;75200",
+    "addr:street":"Emirhan Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108575785,
-    "wof:lastmodified":1474064692,
+    "wof:lastmodified":1474070738,
     "wof:name":"Tuna Yachting",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

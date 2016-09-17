@@ -2,6 +2,10 @@
   "id": 1108617235,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinanpasa Mah. 1.sok. 01280 Yuregir Kusadasi Adana 09400",
+    "addr:housenumber":"1.sok",
+    "addr:postcode":"01280;09400",
+    "addr:street":"Sinanpasa Mah.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108617235,
-    "wof:lastmodified":1474066352,
+    "wof:lastmodified":1474070825,
     "wof:name":"Adana Hilton Sa",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

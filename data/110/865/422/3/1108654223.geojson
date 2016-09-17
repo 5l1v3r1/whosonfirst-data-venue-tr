@@ -2,6 +2,10 @@
   "id": 1108654223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Cad. No:75 G?pinar 34902 B??cekmece Istanbul Bayrampasa Istanbul 36100",
+    "addr:housenumber":"75 g ?;b ? ?",
+    "addr:postcode":"34902;36100",
+    "addr:street":"Istanbul Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108654223,
-    "wof:lastmodified":1474068028,
+    "wof:lastmodified":1474070817,
     "wof:name":"Tozmetal Ticaret Ve Sanayi As",
     "wof:parent_id":85930205,
     "wof:placetype":"venue",

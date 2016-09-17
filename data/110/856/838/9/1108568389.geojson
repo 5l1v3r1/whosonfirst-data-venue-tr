@@ -2,6 +2,10 @@
   "id": 1108568389,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yildiz Posta Cd. Akin Sit. No:12 4. Blok D:72 Gayrettepe \u00dcmraniye Istanbul 81260",
+    "addr:housenumber":"sit. no 12;72",
+    "addr:postcode":"81260",
+    "addr:street":"Posta Cd. Akin;4 Blok D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108568389,
-    "wof:lastmodified":1474064389,
+    "wof:lastmodified":1474070809,
     "wof:name":"Maksan Malatya Makina San. A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

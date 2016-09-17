@@ -2,6 +2,10 @@
   "id": 1108579303,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. Sanatcilar Sok. No:6 D:9 Merter Bursa 34010",
+    "addr:housenumber":"no 6 d 9",
+    "addr:postcode":"34010",
+    "addr:street":"Ataturk Cad. Sanatcilar Sok.;Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108579303,
-    "wof:lastmodified":1474064931,
+    "wof:lastmodified":1474070827,
     "wof:name":"Dogcan Medikal",
     "wof:parent_id":85934645,
     "wof:placetype":"venue",

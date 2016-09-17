@@ -2,6 +2,10 @@
   "id": 1108585149,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yavuz Selim Cad. 501 Sok. No:1/2 Camdibi Izmir 24300",
+    "addr:housenumber":"501;no 1 / 2",
+    "addr:postcode":"24300",
+    "addr:street":"Yavuz Selim Cad.;Sok.;Camdibi Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108585149,
-    "wof:lastmodified":1474065135,
+    "wof:lastmodified":1474070702,
     "wof:name":"?zsin Tekstil ?r?nleri San.tic. Ltd.sti.",
     "wof:parent_id":85904097,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108651027,
   "type": "Feature",
   "properties": {
+    "addr:full":"Oguzhan Cad. Yenisaray Apt. No:23/6 Findikzade 07100 Istanbul",
+    "addr:housenumber":"23 / 6",
+    "addr:postcode":"07100",
+    "addr:street":"Oguzhan Cad. Yenisaray Apt. No;Findikzade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108651027,
-    "wof:lastmodified":1474067882,
+    "wof:lastmodified":1474070727,
     "wof:name":"Galeri Tip A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

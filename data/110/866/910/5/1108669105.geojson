@@ -2,6 +2,10 @@
   "id": 1108669105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Isik Sok No:18 Binbirdirek Mah Iletisim Han Sultanahmet 34450 Eminonu Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"no 18",
+    "addr:postcode":"34450;34670",
+    "addr:street":"Isik Sok;Mah Iletisim Han",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108669105,
-    "wof:lastmodified":1474068608,
+    "wof:lastmodified":1474070857,
     "wof:name":"Sarkkoykilim San Ve Tic Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

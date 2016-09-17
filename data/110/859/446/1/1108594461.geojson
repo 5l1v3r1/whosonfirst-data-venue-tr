@@ -2,6 +2,10 @@
   "id": 1108594461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1359 Sk. No:9/13 Alsancak (352) 222 29 24 Izmir",
+    "addr:housenumber":"1359;13",
+    "addr:postcode":"352 222 29 24",
+    "addr:street":"Sk. No 9 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108594461,
-    "wof:lastmodified":1474065401,
+    "wof:lastmodified":1474070744,
     "wof:name":"Mediset Ltd. Sti.",
     "wof:parent_id":85929637,
     "wof:placetype":"venue",

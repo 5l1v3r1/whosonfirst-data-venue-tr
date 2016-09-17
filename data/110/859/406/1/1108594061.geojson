@@ -2,6 +2,10 @@
   "id": 1108594061,
   "type": "Feature",
   "properties": {
+    "addr:full":"H. Efendi Mah. Gazi Bulv. 17 Sk. No:45/5 K:3 Bornova Aydin 35040",
+    "addr:housenumber":"17;45 / 5 k 3",
+    "addr:postcode":"35040",
+    "addr:street":"H. Efendi Mah. Gazi Bulv.;Sk. No;Bornova Aydin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108594061,
-    "wof:lastmodified":1474065386,
+    "wof:lastmodified":1474070752,
     "wof:name":"Menekse Tip",
     "wof:parent_id":85929987,
     "wof:placetype":"venue",

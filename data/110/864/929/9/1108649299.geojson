@@ -2,6 +2,10 @@
   "id": 1108649299,
   "type": "Feature",
   "properties": {
+    "addr:full":"R?garli Ege Sok. U?r Ticaret Merkezi Kat.3 No:5/424 \u00c7ankaya Ankara 06690",
+    "addr:housenumber":"u ? r ticaret merkezi kat.3 no 5 / 424",
+    "addr:postcode":"06690",
+    "addr:street":"Ege Sok.;C\u0327Ankaya Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108649299,
-    "wof:lastmodified":1474067811,
+    "wof:lastmodified":1474070870,
     "wof:name":"Medilab Rontgen Aksesuarlari",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

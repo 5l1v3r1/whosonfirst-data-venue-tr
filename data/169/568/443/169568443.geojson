@@ -2,6 +2,10 @@
   "id": 169568443,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hakki Manco Sok. 17/3 Ziverbey 81040 Kadikoy Gaziosmanpasa Istanbul 34245",
+    "addr:housenumber":"17 / 3",
+    "addr:postcode":"81040;34245",
+    "addr:street":"Manco Sok.;Ziverbey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169568443,
-    "wof:lastmodified":1466313284,
+    "wof:lastmodified":1474070665,
     "wof:name":"Helios Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

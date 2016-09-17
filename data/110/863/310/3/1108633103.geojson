@@ -2,6 +2,10 @@
   "id": 1108633103,
   "type": "Feature",
   "properties": {
+    "addr:full":"?aglayan Mh. Levent Sk. No:6/a-b ?aglayan Nazilli Istanbul 65600",
+    "addr:housenumber":"?;a-b ?",
+    "addr:postcode":"65600",
+    "addr:street":"Aglayan Mh. Levent Sk. No 6 /;Aglayan Nazilli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108633103,
-    "wof:lastmodified":1474067153,
+    "wof:lastmodified":1474070727,
     "wof:name":"Yildirim San. Tic.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

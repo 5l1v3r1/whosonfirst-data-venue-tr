@@ -2,6 +2,10 @@
   "id": 1108674763,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Cad. No:36 Seyhli Koyu Kurtkoy 81520 Pendik Istanbul Merkez Istanbul 24000",
+    "addr:housenumber":"36;koyu",
+    "addr:postcode":"81520;24000",
+    "addr:street":"Sanayi Cad. No;Kurtkoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108674763,
-    "wof:lastmodified":1474068834,
+    "wof:lastmodified":1474070724,
     "wof:name":"Kar Gida San Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

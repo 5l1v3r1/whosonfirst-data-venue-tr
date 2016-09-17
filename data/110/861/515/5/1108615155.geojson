@@ -2,6 +2,10 @@
   "id": 1108615155,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kozan Yolu Uzeri Selahattin Eyubi Mah.49 .sok.no:659 Obalar Cad.no:447 Mersin Adana 52750",
+    "addr:housenumber":"uzeri;mah.49;659;447",
+    "addr:postcode":"52750",
+    "addr:street":"Kozan Yolu;Selahattin Eyubi;Obalar Cad.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108615155,
-    "wof:lastmodified":1474066279,
+    "wof:lastmodified":1474070783,
     "wof:name":"Cebe Mobilya",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

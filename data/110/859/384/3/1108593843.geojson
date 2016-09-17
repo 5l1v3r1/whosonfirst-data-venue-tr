@@ -2,6 +2,10 @@
   "id": 1108593843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2834 Sok No:15 1. San Sit Mersinli Izmir 35110",
+    "addr:housenumber":"no 15 1",
+    "addr:postcode":"2834;35110",
+    "addr:street":"Sok;San;Mersinli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108593843,
-    "wof:lastmodified":1474065376,
+    "wof:lastmodified":1474070735,
     "wof:name":"?zkan Kaynak",
     "wof:parent_id":85904105,
     "wof:placetype":"venue",

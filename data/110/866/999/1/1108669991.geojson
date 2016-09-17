@@ -2,6 +2,10 @@
   "id": 1108669991,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinan Mah. 1269 Sok. No:32/3 . Fax:(242) 462 1428 Dortyol Antalya 31600",
+    "addr:housenumber":"no 32 / 3",
+    "addr:postcode":"1269;31600",
+    "addr:street":"Sinan Mah.;Sok.;Fax (242) 462 1428 Dortyol",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108669991,
-    "wof:lastmodified":1474068643,
+    "wof:lastmodified":1474070866,
     "wof:name":"Ortualti Tarim Teknolojisi Ve Danismanlik",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",

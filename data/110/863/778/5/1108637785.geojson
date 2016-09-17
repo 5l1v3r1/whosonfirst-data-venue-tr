@@ -2,6 +2,10 @@
   "id": 1108637785,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Haziran Mah.eski Istanbul Cad.emek Apt.no:3 41100 Kocaeli",
+    "addr:housenumber":"28;3",
+    "addr:postcode":"41100",
+    "addr:street":"Haziran Mah.Eski;Apt.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108637785,
-    "wof:lastmodified":1474067334,
+    "wof:lastmodified":1474070814,
     "wof:name":"Tu-re Sanat Mobilya Dekorasyon",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

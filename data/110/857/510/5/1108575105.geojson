@@ -2,6 +2,10 @@
   "id": 1108575105,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Yolu 14. Km. Yeni Mah. Ergazi Mah. 460/4 06370 Ergazi Ankara Konak Istanbul 07110",
+    "addr:housenumber":"14 km.;460 / 4",
+    "addr:postcode":"06370;07110",
+    "addr:street":"Istanbul Yolu;Yeni Mah. Ergazi Mah.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108575105,
-    "wof:lastmodified":1474064666,
+    "wof:lastmodified":1474070736,
     "wof:name":"Isik Makina Imalat Ve Pazarlama As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

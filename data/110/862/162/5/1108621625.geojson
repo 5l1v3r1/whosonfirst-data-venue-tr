@@ -2,6 +2,10 @@
   "id": 1108621625,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Ekim Cad. No:6 Merkez Mah. 34530 Bahcelievler Istanbul Mahmutbey Istanbul 46600",
+    "addr:housenumber":"29;mah.",
+    "addr:postcode":"34530;46600",
+    "addr:street":"Ekim Cad. No 6 Merkez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108621625,
-    "wof:lastmodified":1474066536,
+    "wof:lastmodified":1474070700,
     "wof:name":"Boytek Recine Boya Kimya San Tic As",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

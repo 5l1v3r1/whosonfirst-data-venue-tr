@@ -2,6 +2,10 @@
   "id": 1108623983,
   "type": "Feature",
   "properties": {
+    "addr:full":"Beyazit ?arsisi No: 3 Fax: (212) 616 44 94 Unkapani Istanbul 55020",
+    "addr:housenumber":"212",
+    "addr:postcode":"616 44 94;55020",
+    "addr:street":"No 3 Fax",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108623983,
-    "wof:lastmodified":1474066624,
+    "wof:lastmodified":1474070765,
     "wof:name":"Akay Import & Export",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

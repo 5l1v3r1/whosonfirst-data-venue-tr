@@ -2,6 +2,10 @@
   "id": 1108584943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Cad. Birsen Sok. Ozyasam Sit. A.blok D.23 Maltepe Istanbul 01000",
+    "addr:housenumber":"ozyasam;d.23",
+    "addr:postcode":"01000",
+    "addr:street":"Istiklal Cad. Birsen Sok.;Maltepe Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108584943,
-    "wof:lastmodified":1474065130,
+    "wof:lastmodified":1474070701,
     "wof:name":"Kotteks Ltd.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

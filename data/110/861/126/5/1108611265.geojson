@@ -2,6 +2,10 @@
   "id": 1108611265,
   "type": "Feature",
   "properties": {
+    "addr:full":"G?bahar Cd. 3. Sk. No: 71 G?esli 24040 Istanbul",
+    "addr:housenumber":"3;71 g ?",
+    "addr:postcode":"24040",
+    "addr:street":"Bahar Cd.;Sk. No;Esli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108611265,
-    "wof:lastmodified":1474066132,
+    "wof:lastmodified":1474070691,
     "wof:name":"Arslan Sondaj",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

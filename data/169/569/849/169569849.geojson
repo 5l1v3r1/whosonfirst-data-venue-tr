@@ -2,6 +2,10 @@
   "id": 169569849,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bayar Cad. No:71 Daire:14 Kozyatasi 63100 Istanbul",
+    "addr:housenumber":"71;14",
+    "addr:postcode":"63100",
+    "addr:street":"Bayar Cad. No;Daire",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":169569849,
-    "wof:lastmodified":1466313307,
+    "wof:lastmodified":1474070675,
     "wof:name":"Seren Alarm Danismanlik",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

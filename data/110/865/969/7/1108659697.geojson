@@ -2,6 +2,10 @@
   "id": 1108659697,
   "type": "Feature",
   "properties": {
+    "addr:full":"Davutpasa Cad. No:103/507 Davutpasa San Sit Kat:2 34020 Topkapi Istanbul Merkez Istanbul 77200",
+    "addr:housenumber":"103 / 507;kat 2",
+    "addr:postcode":"34020;77200",
+    "addr:street":"Davutpasa Cad. No;Davutpasa San",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108659697,
-    "wof:lastmodified":1474068245,
+    "wof:lastmodified":1474070848,
     "wof:name":"Pal Plastik Ambalaj San Ve Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

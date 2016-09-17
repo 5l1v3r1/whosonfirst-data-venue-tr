@@ -2,6 +2,10 @@
   "id": 1108655915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des San Sit 114 Sokak 13 Blok No:7 81260 Dudullu Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"114;13 blok no 7",
+    "addr:postcode":"81260;33740",
+    "addr:street":"Des San Sit;Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655915,
-    "wof:lastmodified":1474068094,
+    "wof:lastmodified":1474070822,
     "wof:name":"Mumak Makina San Ve Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

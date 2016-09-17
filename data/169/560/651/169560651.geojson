@@ -2,6 +2,10 @@
   "id": 169560651,
   "type": "Feature",
   "properties": {
+    "addr:full":"58. Bulvar Cd. 55/3. Sk. No:28/7 Zeytinburnu Seyhan Istanbul 01000",
+    "addr:housenumber":"58;55 / 3;28 / 7",
+    "addr:postcode":"01000",
+    "addr:street":"Bulvar Cd.;Sk. No;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":169560651,
-    "wof:lastmodified":1466313258,
+    "wof:lastmodified":1474070648,
     "wof:name":"G?ney Temiz. Sosyal Hizmet. Organize Ltd. Sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

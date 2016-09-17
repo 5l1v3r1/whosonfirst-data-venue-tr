@@ -2,6 +2,10 @@
   "id": 1108610207,
   "type": "Feature",
   "properties": {
+    "addr:full":"Altindag Mah 100 Yil Bulvari Yorukoglu Ap No: 30/b Edremit Antalya 04500",
+    "addr:housenumber":"100;ap;b",
+    "addr:postcode":"04500",
+    "addr:street":"Altindag Mah;Yil Bulvari Yorukoglu;No 30 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108610207,
-    "wof:lastmodified":1474066085,
+    "wof:lastmodified":1474070690,
     "wof:name":"Karatli Dekorasyon",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

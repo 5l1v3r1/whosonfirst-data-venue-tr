@@ -2,6 +2,10 @@
   "id": 1108600215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2.san.sit.303. Sokak No:72/2 Bornova (232) 461 24 81 Fax: 461 24 81 Tire Izmir 35900",
+    "addr:housenumber":"no 72 / 2;232;81",
+    "addr:postcode":"461;461;35900",
+    "addr:street":"2.San.Sit.303 Sokak;Bornova;24;Fax",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108600215,
-    "wof:lastmodified":1474065639,
+    "wof:lastmodified":1474070684,
     "wof:name":"Tumsan Makina Sanayii",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

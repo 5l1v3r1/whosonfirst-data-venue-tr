@@ -2,6 +2,10 @@
   "id": 1108637375,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kenan Evren Bulvari 22 Durak Sahinbey Sit. C-blok Kat:1/41 Besiktas Adana 75200",
+    "addr:housenumber":"22;kat 1 / 41",
+    "addr:postcode":"75200",
+    "addr:street":"Kenan Evren Bulvari;Besiktas Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108637375,
-    "wof:lastmodified":1474067312,
+    "wof:lastmodified":1474070807,
     "wof:name":"Rochester Muhendislik Tic.ltd.sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

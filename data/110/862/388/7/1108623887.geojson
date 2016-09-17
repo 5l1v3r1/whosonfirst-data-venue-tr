@@ -2,6 +2,10 @@
   "id": 1108623887,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ismetpasa Cd. 465. Sk. No:9/b 07100 Antalya",
+    "addr:housenumber":"465;b",
+    "addr:postcode":"07100",
+    "addr:street":"Ismetpasa Cd.;Sk. No 9 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1108623887,
-    "wof:lastmodified":1474066620,
+    "wof:lastmodified":1474070758,
     "wof:name":"Orsis Ltd. Sti.",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

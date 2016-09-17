@@ -2,6 +2,10 @@
   "id": 1108612543,
   "type": "Feature",
   "properties": {
+    "addr:full":"4323 Sok. No:5 Karabaglar Konak Izmir 07110",
+    "addr:housenumber":"no 5;konak",
+    "addr:postcode":"4323;07110",
+    "addr:street":"Sok.;Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108612543,
-    "wof:lastmodified":1474066181,
+    "wof:lastmodified":1474070700,
     "wof:name":"Pusula Elektrikli Ev Aletleri",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

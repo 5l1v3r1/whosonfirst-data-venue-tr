@@ -2,6 +2,10 @@
   "id": 1108668835,
   "type": "Feature",
   "properties": {
+    "addr:full":"42. Sk. No:21 Ostim 100. Yil Bulv. Ostim Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Ankara 34670",
+    "addr:housenumber":"42;21;100;ostim",
+    "addr:postcode":"34670",
+    "addr:street":"Sk. No;Yil Bulv.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108668835,
-    "wof:lastmodified":1474068598,
+    "wof:lastmodified":1474070855,
     "wof:name":"Pomsan Pompa Mak. Imal. San.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

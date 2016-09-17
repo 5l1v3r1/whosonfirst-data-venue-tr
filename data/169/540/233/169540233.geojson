@@ -2,6 +2,10 @@
   "id": 169540233,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mayis Mahallesi No 19, Dr Sevketbay Sok No 5, 80220 Sisli, Istanbul Istanbul Istanbul",
+    "addr:housenumber":"19;no 5",
+    "addr:postcode":"80220",
+    "addr:street":"Mayis Mahallesi No;Dr Sevketbay Sok",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":169540233,
-    "wof:lastmodified":1466313435,
+    "wof:lastmodified":1474070644,
     "wof:name":"Taib Yatirim Bank As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

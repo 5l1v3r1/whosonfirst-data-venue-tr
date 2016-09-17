@@ -2,6 +2,10 @@
   "id": 1108599765,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fevzi ?akmak Cad.no: 57 / A Ferizli Sakarya 54110",
+    "addr:housenumber":"?;57 / a",
+    "addr:postcode":"54110",
+    "addr:street":"Fevzi;Cad.No;Ferizli Sakarya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108599765,
-    "wof:lastmodified":1474065623,
+    "wof:lastmodified":1474070839,
     "wof:name":"Anadolu Elektronik",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

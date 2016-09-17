@@ -2,6 +2,10 @@
   "id": 1108629699,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yurt Mah. Sk.227 Kenanoglu Apt. No:28 01170 Sisli Adana 34380",
+    "addr:housenumber":"sk.227",
+    "addr:postcode":"01170;34380",
+    "addr:street":"Yurt Mah.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108629699,
-    "wof:lastmodified":1474066895,
+    "wof:lastmodified":1474070859,
     "wof:name":"Asatrans",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

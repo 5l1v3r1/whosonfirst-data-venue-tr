@@ -2,6 +2,10 @@
   "id": 1108648715,
   "type": "Feature",
   "properties": {
+    "addr:full":"58. Blv. Cad. 55/3 Sk. No:28 K:3 Zeytinburnu 22/306 Istanbul",
+    "addr:housenumber":"58;55 / 3;28 k 3;22 / 306",
+    "addr:postcode":"",
+    "addr:street":"Blv. Cad.;Sk. No;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108648715,
-    "wof:lastmodified":1474067783,
+    "wof:lastmodified":1474070869,
     "wof:name":"Gobeklioglu Med. Dis. Tic.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

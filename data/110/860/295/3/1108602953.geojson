@@ -2,6 +2,10 @@
   "id": 1108602953,
   "type": "Feature",
   "properties": {
+    "addr:full":"Airport Office:ataturk Hava Limani Kat 3 Yesilkoy Istanbul 01680",
+    "addr:housenumber":"kat 3",
+    "addr:postcode":"01680",
+    "addr:street":"Hava",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108602953,
-    "wof:lastmodified":1474065753,
+    "wof:lastmodified":1474070716,
     "wof:name":"Mas Air (flights To Bodrum)",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

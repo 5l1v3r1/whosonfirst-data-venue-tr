@@ -2,6 +2,10 @@
   "id": 169531327,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mete Cad 22/3 Istanbul 80000",
+    "addr:housenumber":"22 / 3",
+    "addr:postcode":"80000",
+    "addr:street":"Mete Cad;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":169531327,
-    "wof:lastmodified":1466313200,
+    "wof:lastmodified":1474070657,
     "wof:name":"Banque Paribas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

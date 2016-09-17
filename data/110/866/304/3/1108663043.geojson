@@ -2,6 +2,10 @@
   "id": 1108663043,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kocamansur Sok.m.berksoy Ishani No:55/35 Sisli Tel : (212) 224 54 58 Fax: (212) 233 45 89 Emek Istanbul 01940",
+    "addr:housenumber":"55 / 35;58;212",
+    "addr:postcode":"224;233 45 89;01940",
+    "addr:street":"Ishani No;Sisli Tel;54;Fax",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108663043,
-    "wof:lastmodified":1474068367,
+    "wof:lastmodified":1474070781,
     "wof:name":"Remvision Konferans Sistemleri",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

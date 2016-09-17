@@ -2,6 +2,10 @@
   "id": 1108590965,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hekimsuyu Cad. 559. Sok No: 39 Kucukkoy Sirinyer Istanbul 35380",
+    "addr:housenumber":"559;no 39",
+    "addr:postcode":"35380",
+    "addr:street":"Hekimsuyu Cad.;Sok",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108590965,
-    "wof:lastmodified":1474065272,
+    "wof:lastmodified":1474070683,
     "wof:name":"Mimta Ltd. Sti.",
     "wof:parent_id":85929781,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108655907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bayar Cad. No:17 Gulbahar Sokak Perdemsac Plaza K:8 D:86 81090 Kozyatagi Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"17;perdemsac;8 d 86",
+    "addr:postcode":"81090;33740",
+    "addr:street":"Bayar Cad. No;Gulbahar Sokak;Plaza K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655907,
-    "wof:lastmodified":1474068094,
+    "wof:lastmodified":1474070822,
     "wof:name":"Metal Sac Tic Ve San Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

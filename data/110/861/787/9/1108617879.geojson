@@ -2,6 +2,10 @@
   "id": 1108617879,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mustafa Kemal Pasa Cad. Fabrika Sok. No:13 Yenikapi Istanbul 23000",
+    "addr:housenumber":"no 13",
+    "addr:postcode":"23000",
+    "addr:street":"Mustafa Kemal Pasa Cad. Fabrika Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108617879,
-    "wof:lastmodified":1474066379,
+    "wof:lastmodified":1474070831,
     "wof:name":"Grand Emin Hotel",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

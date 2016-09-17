@@ -2,6 +2,10 @@
   "id": 1108566643,
   "type": "Feature",
   "properties": {
+    "addr:full":"Y.maltepe Yolu Emintas Ulubatli San. Sit. No:151/152 Bayrampasa Okmeydani Istanbul 43050",
+    "addr:housenumber":"emintas;no;/ 152",
+    "addr:postcode":"43050",
+    "addr:street":"Y.Maltepe Yolu;Ulubatli San. Sit.;Bayrampasa Okmeydani",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108566643,
-    "wof:lastmodified":1474064313,
+    "wof:lastmodified":1474070715,
     "wof:name":"Bilgili Makina San.tic. Ltd.sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

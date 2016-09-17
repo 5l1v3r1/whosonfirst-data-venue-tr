@@ -2,6 +2,10 @@
   "id": 1108613237,
   "type": "Feature",
   "properties": {
+    "addr:full":"Orucreis Mah: 602 . Sok. No: 14/15 Esenler Istanbul 01350",
+    "addr:housenumber":"no 14 / 15",
+    "addr:postcode":"602;01350",
+    "addr:street":"Orucreis Mah;Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108613237,
-    "wof:lastmodified":1474066204,
+    "wof:lastmodified":1474070702,
     "wof:name":"Ozer Coraplari",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

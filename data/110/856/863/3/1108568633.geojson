@@ -2,6 +2,10 @@
   "id": 1108568633,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Sokak No:17 2 Nci Sanayi Sitesi Bornova 41020 Izmir",
+    "addr:housenumber":"no 17 2",
+    "addr:postcode":"41020",
+    "addr:street":"301 Sokak;Nci Sanayi Sitesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108568633,
-    "wof:lastmodified":1474064398,
+    "wof:lastmodified":1474070811,
     "wof:name":"Muzer Makina Sanayi Ve Ticaret",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",

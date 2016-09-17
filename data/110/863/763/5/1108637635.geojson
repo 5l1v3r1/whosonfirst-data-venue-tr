@@ -2,6 +2,10 @@
   "id": 1108637635,
   "type": "Feature",
   "properties": {
+    "addr:full":"Esenler Yolu Ar Sk. G?dallar 11. San. Sit. No:1/18 Maltepe Turhal Istanbul 60300",
+    "addr:housenumber":"?;11;sit. no 1 / 18",
+    "addr:postcode":"60300",
+    "addr:street":"Esenler Yolu;Sk. G;Dallar;Maltepe Turhal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108637635,
-    "wof:lastmodified":1474067322,
+    "wof:lastmodified":1474070813,
     "wof:name":"Cemosan Mobilya Ltd. Sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

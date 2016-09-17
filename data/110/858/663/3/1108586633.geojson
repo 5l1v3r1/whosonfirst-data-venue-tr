@@ -2,6 +2,10 @@
   "id": 1108586633,
   "type": "Feature",
   "properties": {
+    "addr:full":"364/1 Sok. No:32/b Bornova Izmir 35040",
+    "addr:housenumber":"364 / 1;no 32 / b",
+    "addr:postcode":"35040",
+    "addr:street":"Sok.;Bornova Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108586633,
-    "wof:lastmodified":1474065173,
+    "wof:lastmodified":1474070743,
     "wof:name":"Izteks Tekstil Ltd.sti.",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",

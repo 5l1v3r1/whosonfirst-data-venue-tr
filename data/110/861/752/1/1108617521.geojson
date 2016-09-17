@@ -2,6 +2,10 @@
   "id": 1108617521,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Bulvari No: 195 06680 Kavaklidere Fethiye Ankara 44000",
+    "addr:housenumber":"no",
+    "addr:postcode":"06680;44000",
+    "addr:street":"Ataturk Bulvari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108617521,
-    "wof:lastmodified":1474066366,
+    "wof:lastmodified":1474070837,
     "wof:name":"Best Hotel",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

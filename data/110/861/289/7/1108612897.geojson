@@ -2,6 +2,10 @@
   "id": 1108612897,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kocavezir Mh. 768 Sk. No.1/a Seyhan Adana 01000",
+    "addr:housenumber":"768;/ a",
+    "addr:postcode":"01000",
+    "addr:street":"Kocavezir Mh.;Sk. No.1;Seyhan Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108612897,
-    "wof:lastmodified":1474066193,
+    "wof:lastmodified":1474070701,
     "wof:name":"Ak Yumurta",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

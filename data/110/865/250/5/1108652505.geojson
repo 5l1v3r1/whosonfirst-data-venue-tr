@@ -2,6 +2,10 @@
   "id": 1108652505,
   "type": "Feature",
   "properties": {
+    "addr:full":"?iftesaraylar Cad. Murat Pasaji No:38 Yesildirek Istanbul 63200",
+    "addr:housenumber":"?;38",
+    "addr:postcode":"63200",
+    "addr:street":"Iftesaraylar Cad. Murat Pasaji No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108652505,
-    "wof:lastmodified":1474067960,
+    "wof:lastmodified":1474070783,
     "wof:name":"G?lbag Giyim",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

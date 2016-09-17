@@ -2,6 +2,10 @@
   "id": 1108633705,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mahmutbey Yolu Erdem Ishani No:140 K:4 D:4 Sirinevler Istanbul 15040",
+    "addr:housenumber":"erdem;140 k 4 d 4",
+    "addr:postcode":"15040",
+    "addr:street":"Mahmutbey Yolu;Ishani No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108633705,
-    "wof:lastmodified":1474067173,
+    "wof:lastmodified":1474070729,
     "wof:name":"Taskin Hafriyat",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

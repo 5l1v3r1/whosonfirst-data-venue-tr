@@ -2,6 +2,10 @@
   "id": 1108591229,
   "type": "Feature",
   "properties": {
+    "addr:full":"Girne Bulv. 1835/1 Sk. No:170/a Karsiyaka Sisli Izmir 34400",
+    "addr:housenumber":"1835 / 1;170 / a",
+    "addr:postcode":"34400",
+    "addr:street":"Bulv.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108591229,
-    "wof:lastmodified":1474065277,
+    "wof:lastmodified":1474070689,
     "wof:name":"Simge Mutfak",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",

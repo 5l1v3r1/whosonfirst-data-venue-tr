@@ -2,6 +2,10 @@
   "id": 1108597723,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Caddesi Polat Is Merkezi No:108 Kat:5 Daire :69 Kartal Istanbul 46000",
+    "addr:housenumber":"kat 5;69",
+    "addr:postcode":"46000",
+    "addr:street":"Ankara Caddesi Polat;No;Daire",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108597723,
-    "wof:lastmodified":1474065539,
+    "wof:lastmodified":1474070810,
     "wof:name":"Ermak Asans?r Sanayi Ve Ticaret Ltd.sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

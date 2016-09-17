@@ -2,6 +2,10 @@
   "id": 1108651369,
   "type": "Feature",
   "properties": {
+    "addr:full":"58.bulvar Cad.depo Duragi No:110 Kat:3 Zeytinburnu Fatih Istanbul 01740",
+    "addr:housenumber":"kat 3",
+    "addr:postcode":"01740",
+    "addr:street":"No;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108651369,
-    "wof:lastmodified":1474067899,
+    "wof:lastmodified":1474070742,
     "wof:name":"Med-tools Tibb ?r?nler",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

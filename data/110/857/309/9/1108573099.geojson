@@ -2,6 +2,10 @@
   "id": 1108573099,
   "type": "Feature",
   "properties": {
+    "addr:full":"Zambak Sok. No:8 Istiklal Cad. Taksim- Bagdat Cad. 256 Goztepe 26020 Istanbul",
+    "addr:housenumber":"no 8;256",
+    "addr:postcode":"26020",
+    "addr:street":"Zambak Sok.;Istiklal Cad.;Bagdat Cad.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573099,
-    "wof:lastmodified":1474064584,
+    "wof:lastmodified":1474070710,
     "wof:name":"Liila",
     "wof:parent_id":85930211,
     "wof:placetype":"venue",

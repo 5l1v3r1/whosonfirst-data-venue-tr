@@ -2,6 +2,10 @@
   "id": 1108674905,
   "type": "Feature",
   "properties": {
+    "addr:full":"2131/19 Sok.no:6/3 Bornova Izmir 35040",
+    "addr:housenumber":"2131 / 19;6 / 3",
+    "addr:postcode":"35040",
+    "addr:street":"Sok.No;Bornova Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108674905,
-    "wof:lastmodified":1474068844,
+    "wof:lastmodified":1474070725,
     "wof:name":"Genba Makina M?hendislik Ltd.sti",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",

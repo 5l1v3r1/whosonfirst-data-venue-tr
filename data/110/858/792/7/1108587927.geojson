@@ -2,6 +2,10 @@
   "id": 1108587927,
   "type": "Feature",
   "properties": {
+    "addr:full":"Litros Yolu Hac San.carsisi No:15 1b40 Maltepe Kozyatagi Istanbul 81090",
+    "addr:housenumber":"hac;no;1b40 maltepe",
+    "addr:postcode":"81090",
+    "addr:street":"Litros Yolu;15;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108587927,
-    "wof:lastmodified":1474065204,
+    "wof:lastmodified":1474070777,
     "wof:name":"Usak Makina San.meas",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

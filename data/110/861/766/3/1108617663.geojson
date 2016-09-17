@@ -2,6 +2,10 @@
   "id": 1108617663,
   "type": "Feature",
   "properties": {
+    "addr:full":"Izmir Cad. No.154 Ilica, Cesme Izmir 15930",
+    "addr:housenumber":"no.154",
+    "addr:postcode":"15930",
+    "addr:street":"Izmir Cad.;Ilica Cesme",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108617663,
-    "wof:lastmodified":1474066372,
+    "wof:lastmodified":1474070830,
     "wof:name":"Delmar Hotel",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

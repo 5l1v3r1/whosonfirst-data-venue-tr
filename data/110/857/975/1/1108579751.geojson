@@ -2,6 +2,10 @@
   "id": 1108579751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mehmet Sevki Pasa Cad. 26/2 Bostanci-kadikoy Osmangazi Istanbul 16000",
+    "addr:housenumber":"26 / 2",
+    "addr:postcode":"16000",
+    "addr:street":"Pasa Cad.;Bostanci-Kadikoy Osmangazi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108579751,
-    "wof:lastmodified":1474064955,
+    "wof:lastmodified":1474070865,
     "wof:name":"Auto Saloon",
     "wof:parent_id":85929857,
     "wof:placetype":"venue",

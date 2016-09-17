@@ -2,6 +2,10 @@
   "id": 1108633199,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Telsiz Mh. 114 Sk. No:46/1 Z.burnu Nazilli Istanbul 65600",
+    "addr:housenumber":"5;114;46 / 1",
+    "addr:postcode":"65600",
+    "addr:street":"Telsiz Mh.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108633199,
-    "wof:lastmodified":1474067156,
+    "wof:lastmodified":1474070733,
     "wof:name":"?zdem Hali Beyazesya San.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

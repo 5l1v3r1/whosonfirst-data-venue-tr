@@ -2,6 +2,10 @@
   "id": 1108602655,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cevizli Mah. 20 Temmuz Cad. No:36/b Maltepe Istanbul 01000",
+    "addr:housenumber":"20;36 / b",
+    "addr:postcode":"01000",
+    "addr:street":"Mah.;Temmuz Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108602655,
-    "wof:lastmodified":1474065741,
+    "wof:lastmodified":1474070713,
     "wof:name":"Termodizayn Termik Cihazlari San.ve Tic.ltd.sti.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",

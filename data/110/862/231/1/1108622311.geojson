@@ -2,6 +2,10 @@
   "id": 1108622311,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mehmet Akif Cad. 24 34010 Merter Istanbul Zeytinburnu Istanbul 34020",
+    "addr:housenumber":"24",
+    "addr:postcode":"34010;34020",
+    "addr:street":"Mehmet Akif Cad.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108622311,
-    "wof:lastmodified":1474066565,
+    "wof:lastmodified":1474070757,
     "wof:name":"Idesan Istanbul Dokuma San Tic Ltd Sti",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

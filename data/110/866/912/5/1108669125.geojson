@@ -2,6 +2,10 @@
   "id": 1108669125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Divan Yolu Cad. No:16 Sultanahmet 34450 Eminonu Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"16",
+    "addr:postcode":"34450;34670",
+    "addr:street":"Divan Yolu Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108669125,
-    "wof:lastmodified":1474068609,
+    "wof:lastmodified":1474070857,
     "wof:name":"Yurdan Hali Kuyumcu Tur. Ins",
     "wof:parent_id":85906489,
     "wof:placetype":"venue",

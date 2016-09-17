@@ -2,6 +2,10 @@
   "id": 1108628907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Merkez Cad. Marmara Cad. Samli Sok Erenler Apt. No: 22 C Blok 2/3 Avcilar Istanbul 01350",
+    "addr:housenumber":"erenler;blok 2 / 3",
+    "addr:postcode":"01350",
+    "addr:street":"Merkez Cad. Marmara Cad. Samli Sok;No 22 C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628907,
-    "wof:lastmodified":1474066852,
+    "wof:lastmodified":1474070858,
     "wof:name":"Yenilik Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

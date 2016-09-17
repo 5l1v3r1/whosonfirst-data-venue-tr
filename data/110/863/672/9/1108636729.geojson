@@ -2,6 +2,10 @@
   "id": 1108636729,
   "type": "Feature",
   "properties": {
+    "addr:full":"1879 Sk. No:12/11 Kat:3 Merkez Ishani B.??k Bul. Karsiyaka Izmir 35530",
+    "addr:housenumber":"12 / 11 kat 3;ishani b. ? ?",
+    "addr:postcode":"35530",
+    "addr:street":"1879 Sk. No;Merkez;K Bul. Karsiyaka",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108636729,
-    "wof:lastmodified":1474067290,
+    "wof:lastmodified":1474070804,
     "wof:name":"Beta Harita",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

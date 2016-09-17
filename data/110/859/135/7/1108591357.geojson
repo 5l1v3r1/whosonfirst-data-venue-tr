@@ -2,6 +2,10 @@
   "id": 1108591357,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 N?hetiye Cd. No:21 Besiktas Gebze Istanbul 41400",
+    "addr:housenumber":"81;?;no 21",
+    "addr:postcode":"41400",
+    "addr:street":"N;Hetiye Cd.;Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1108591357,
-    "wof:lastmodified":1474065286,
+    "wof:lastmodified":1474070689,
     "wof:name":"Yapi Mobilya",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

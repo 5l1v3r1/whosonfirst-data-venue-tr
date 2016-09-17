@@ -2,6 +2,10 @@
   "id": 1108629773,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sogutlucesme Cad. No:37/10 Kadikoy Beyoglu Istanbul 34437",
+    "addr:housenumber":"37 / 10",
+    "addr:postcode":"34437",
+    "addr:street":"Sogutlucesme Cad. No;Kadikoy Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108629773,
-    "wof:lastmodified":1474066899,
+    "wof:lastmodified":1474070859,
     "wof:name":"Kadikoy Tercume",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108613719,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ege Sk. No:5/403 Ulus Ankara 01940",
+    "addr:housenumber":"403",
+    "addr:postcode":"01940",
+    "addr:street":"Ege;Ulus Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108613719,
-    "wof:lastmodified":1474066225,
+    "wof:lastmodified":1474070715,
     "wof:name":"Ada Ltd. Sti.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

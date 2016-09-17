@@ -2,6 +2,10 @@
   "id": 1108591351,
   "type": "Feature",
   "properties": {
+    "addr:full":"Vasif ?inar Bulv. 1379 Sk. No:22/1 Alsancak Gebze Izmir 41400",
+    "addr:housenumber":"1379;22 / 1",
+    "addr:postcode":"41400",
+    "addr:street":"Inar Bulv.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108591351,
-    "wof:lastmodified":1474065286,
+    "wof:lastmodified":1474070689,
     "wof:name":"Yalisan A.s.",
     "wof:parent_id":85929653,
     "wof:placetype":"venue",

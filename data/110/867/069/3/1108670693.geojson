@@ -2,6 +2,10 @@
   "id": 1108670693,
   "type": "Feature",
   "properties": {
+    "addr:full":"?merbey Mah. Yeni Belediye Is Merkezi Kat.9 Bayrampasa Bursa 36100",
+    "addr:housenumber":"?;mah.;kat.9",
+    "addr:postcode":"36100",
+    "addr:street":"Merbey;Yeni Belediye;Bayrampasa Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108670693,
-    "wof:lastmodified":1474068671,
+    "wof:lastmodified":1474070639,
     "wof:name":"Radyo Poyraz",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

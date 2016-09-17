@@ -2,6 +2,10 @@
   "id": 1108570321,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ceyhan Yolu ?zeri 15 Km Yukari Dudullu Adana 34776",
+    "addr:housenumber":"?;15 km",
+    "addr:postcode":"34776",
+    "addr:street":"Ceyhan Yolu;Zeri;Yukari Dudullu Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108570321,
-    "wof:lastmodified":1474064471,
+    "wof:lastmodified":1474070661,
     "wof:name":"Aksu Plastik Sanayi Ve Ticaret As.",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

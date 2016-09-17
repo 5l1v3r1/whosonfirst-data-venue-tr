@@ -2,6 +2,10 @@
   "id": 1108674613,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kazim Dirik Cad. No.3 Yeni Han K.5 D.505 Pasaport Mersin Izmir 52750",
+    "addr:housenumber":"no.3;d.505",
+    "addr:postcode":"52750",
+    "addr:street":"Dirik Cad.;K.5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108674613,
-    "wof:lastmodified":1474068829,
+    "wof:lastmodified":1474070708,
     "wof:name":"Ten Ic & Dis Tic.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

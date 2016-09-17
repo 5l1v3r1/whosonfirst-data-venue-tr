@@ -2,6 +2,10 @@
   "id": 1108674767,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dereboyu Cad. No:11 Beyzan Yapi Koop. Uzuner Is Merkezi Yani 34900 Haramidere Istanbul Merkez Istanbul 24000",
+    "addr:housenumber":"11",
+    "addr:postcode":"34900;24000",
+    "addr:street":"Dereboyu Cad. No;Yapi;Uzuner;Yani",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108674767,
-    "wof:lastmodified":1474068834,
+    "wof:lastmodified":1474070724,
     "wof:name":"Kervan Gida San Tic Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

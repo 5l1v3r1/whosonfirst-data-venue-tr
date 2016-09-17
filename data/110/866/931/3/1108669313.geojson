@@ -2,6 +2,10 @@
   "id": 1108669313,
   "type": "Feature",
   "properties": {
+    "addr:full":"6. Cad. No:463 San Bir Bulvari 3. Bolge 34900 Buyukcekmece Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"6;463;3",
+    "addr:postcode":"34900;34670",
+    "addr:street":"Cad. No;Bulvari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108669313,
-    "wof:lastmodified":1474068621,
+    "wof:lastmodified":1474070863,
     "wof:name":"Huhtamaki Istanbul Ambalaj San As.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108676057,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bulvar Cad. 2/a, Zeytinburnu Goztepe Istanbul 01220",
+    "addr:housenumber":"2 / a",
+    "addr:postcode":"01220",
+    "addr:street":"Bulvar Cad.;Zeytinburnu Goztepe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108676057,
-    "wof:lastmodified":1474068894,
+    "wof:lastmodified":1474070760,
     "wof:name":"Kazakistan",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

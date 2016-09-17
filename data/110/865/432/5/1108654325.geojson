@@ -2,6 +2,10 @@
   "id": 1108654325,
   "type": "Feature",
   "properties": {
+    "addr:full":"9.cadde No:69 Hadimkoy Yolu San Bir Bul.4 Bol.cakmakli Koyu 34909 Buyukcekmece Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"no 69;bul.4;koyu",
+    "addr:postcode":"34909;34437",
+    "addr:street":"Hadimkoy Yolu San Bir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654325,
-    "wof:lastmodified":1474068037,
+    "wof:lastmodified":1474070818,
     "wof:name":"Demirtas Aluminyum Profil San Tic As",
     "wof:parent_id":85904159,
     "wof:placetype":"venue",

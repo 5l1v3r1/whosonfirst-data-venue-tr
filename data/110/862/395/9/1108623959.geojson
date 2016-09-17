@@ -2,6 +2,10 @@
   "id": 1108623959,
   "type": "Feature",
   "properties": {
+    "addr:full":"Denizciler Cad. Derman Sok. 15/b Ulus Ankara 01940",
+    "addr:housenumber":"15 / b",
+    "addr:postcode":"01940",
+    "addr:street":"Denizciler Cad. Derman Sok.;Ulus Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108623959,
-    "wof:lastmodified":1474066623,
+    "wof:lastmodified":1474070766,
     "wof:name":"Ozen-is Cadir Tente Sanayi",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

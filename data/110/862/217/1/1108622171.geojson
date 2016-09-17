@@ -2,6 +2,10 @@
   "id": 1108622171,
   "type": "Feature",
   "properties": {
+    "addr:full":"Org.deri San.bolg. F-9 1.yol 4.depo 81700 Tuzla Istanbul Zeytinburnu Istanbul 34020",
+    "addr:housenumber":"1.yol 4.depo",
+    "addr:postcode":"81700;34020",
+    "addr:street":"F-9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108622171,
-    "wof:lastmodified":1474066560,
+    "wof:lastmodified":1474070756,
     "wof:name":"Ak Deri San.tic.ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

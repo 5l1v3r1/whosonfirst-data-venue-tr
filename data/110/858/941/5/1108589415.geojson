@@ -2,6 +2,10 @@
   "id": 1108589415,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Mayis Cad.?ruh Sok.no42/a Sisli Istanbul 34360",
+    "addr:housenumber":"19;?;sok.no42 / a",
+    "addr:postcode":"34360",
+    "addr:street":"Mayis Cad.;Ruh",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108589415,
-    "wof:lastmodified":1474065237,
+    "wof:lastmodified":1474070806,
     "wof:name":"Hasmont Iselbiseleri",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108644431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Cad. Bogazici Sok. No:72 Alibeykoy Istanbul 34450",
+    "addr:housenumber":"no 72",
+    "addr:postcode":"34450",
+    "addr:street":"Ataturk Cad. Bogazici Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108644431,
-    "wof:lastmodified":1474067578,
+    "wof:lastmodified":1474070821,
     "wof:name":"Baykaralar Mermer",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108654285,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. No:255/3, 34367 Harbiye Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"255 / 3",
+    "addr:postcode":"34367;34437",
+    "addr:street":"Cumhuriyet Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654285,
-    "wof:lastmodified":1474068035,
+    "wof:lastmodified":1474070817,
     "wof:name":"Superlit Boru Ve Levha San. As.",
     "wof:parent_id":85906559,
     "wof:placetype":"venue",

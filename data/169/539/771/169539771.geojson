@@ -2,6 +2,10 @@
   "id": 169539771,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gazipasa Cad 290 Adana 1120 63570",
+    "addr:housenumber":"290;1120",
+    "addr:postcode":"63570",
+    "addr:street":"Gazipasa Cad",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169539771,
-    "wof:lastmodified":1466313433,
+    "wof:lastmodified":1474070668,
     "wof:name":"S?erbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108628501,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bostanci Mah. Semsettin G?naltan Cad. Esen Apt. B Blok No:34/12 Kad\u0131k\u00f6y Istanbul 34990",
+    "addr:housenumber":"?;blok no 34 / 12",
+    "addr:postcode":"34990",
+    "addr:street":"Bostanci Mah. Semsettin G;Naltan Cad. Esen Apt. B;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628501,
-    "wof:lastmodified":1474066835,
+    "wof:lastmodified":1474070864,
     "wof:name":"Tilkici Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

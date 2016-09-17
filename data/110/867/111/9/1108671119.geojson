@@ -2,6 +2,10 @@
   "id": 1108671119,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ihlas Holding Merkez Binasi 29 Ekim Cad. No:23 Yenibosna Cankaya Istanbul 07080",
+    "addr:housenumber":"29;23",
+    "addr:postcode":"07080",
+    "addr:street":"Binasi;Ekim Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108671119,
-    "wof:lastmodified":1474068686,
+    "wof:lastmodified":1474070644,
     "wof:name":"Ihlas Finans Kurumu A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

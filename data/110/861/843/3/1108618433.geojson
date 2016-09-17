@@ -2,6 +2,10 @@
   "id": 1108618433,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mesrutiyet Cad. 223 Tepebasi Istanbul 46300",
+    "addr:housenumber":"223",
+    "addr:postcode":"46300",
+    "addr:street":"Mesrutiyet Cad.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108618433,
-    "wof:lastmodified":1474066408,
+    "wof:lastmodified":1474070830,
     "wof:name":"Monopol Hotel",
     "wof:parent_id":85906543,
     "wof:placetype":"venue",

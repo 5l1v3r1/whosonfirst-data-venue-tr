@@ -2,6 +2,10 @@
   "id": 1108593803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Antalya Cd.no:12/b Manavgat Antalya 07600",
+    "addr:housenumber":"12 / b",
+    "addr:postcode":"07600",
+    "addr:street":"Manavgat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108593803,
-    "wof:lastmodified":1474065374,
+    "wof:lastmodified":1474070722,
     "wof:name":"Akdeniz Internet Center",
     "wof:parent_id":85930243,
     "wof:placetype":"venue",

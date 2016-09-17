@@ -2,6 +2,10 @@
   "id": 1108617909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1368 Sok. No:6 Basmane Izmir 35230",
+    "addr:housenumber":"no 6",
+    "addr:postcode":"1368;35230",
+    "addr:street":"Sok.;Basmane Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108617909,
-    "wof:lastmodified":1474066383,
+    "wof:lastmodified":1474070838,
     "wof:name":"Grand Zeybek Hotel",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108620847,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari No:53/9 Basiktas 07100 Istanbul",
+    "addr:housenumber":"no 53 / 9",
+    "addr:postcode":"07100",
+    "addr:street":"Barbaros Bulvari;Basiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108620847,
-    "wof:lastmodified":1474066505,
+    "wof:lastmodified":1474070701,
     "wof:name":"Anka Foreign Trade Co.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

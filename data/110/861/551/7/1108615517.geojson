@@ -2,6 +2,10 @@
   "id": 1108615517,
   "type": "Feature",
   "properties": {
+    "addr:full":"Modoko San. Sit. 3. Cd. 7. Sk. No:34 Y.dudullu 07100 Istanbul",
+    "addr:housenumber":"3;7;34",
+    "addr:postcode":"07100",
+    "addr:street":"Cd.;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108615517,
-    "wof:lastmodified":1474066291,
+    "wof:lastmodified":1474070777,
     "wof:name":"Idosan",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

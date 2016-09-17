@@ -2,6 +2,10 @@
   "id": 1108610319,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cankiri Yolu 7 Km. Akyurt Ankara 24800",
+    "addr:housenumber":"7 km.",
+    "addr:postcode":"24800",
+    "addr:street":"Cankiri Yolu;Akyurt Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108610319,
-    "wof:lastmodified":1474066090,
+    "wof:lastmodified":1474070694,
     "wof:name":"Mob",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

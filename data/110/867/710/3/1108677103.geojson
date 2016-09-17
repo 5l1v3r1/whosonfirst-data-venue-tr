@@ -2,6 +2,10 @@
   "id": 1108677103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Carsisi Reyhan Sok. No:37 Yenisehir Ankara Cad. No:333/a Arabayatagi Ineg? Bursa 16410",
+    "addr:housenumber":"no 37;333 / a",
+    "addr:postcode":"16410",
+    "addr:street":"Reyhan Sok.;Yenisehir Ankara Cad. No;Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108677103,
-    "wof:lastmodified":1474068929,
+    "wof:lastmodified":1474070769,
     "wof:name":"Sonmez Kerestecilik",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108669693,
   "type": "Feature",
   "properties": {
+    "addr:full":"Izmir Cd. No:44/5 Kizilay Ankara 23050",
+    "addr:housenumber":"no 44 / 5",
+    "addr:postcode":"23050",
+    "addr:street":"Cd.;Kizilay Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108669693,
-    "wof:lastmodified":1474068633,
+    "wof:lastmodified":1474070864,
     "wof:name":"Brans Moda",
     "wof:parent_id":85934683,
     "wof:placetype":"venue",

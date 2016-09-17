@@ -2,6 +2,10 @@
   "id": 1108647633,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des San. Sitesi 102. Sok. B 06 Blok 81260 Dudullu Istanbul Kartal Istanbul 46000",
+    "addr:housenumber":"102;b 06 blok",
+    "addr:postcode":"81260;46000",
+    "addr:street":"Des San. Sitesi;Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108647633,
-    "wof:lastmodified":1474067718,
+    "wof:lastmodified":1474070862,
     "wof:name":"Sistem Teknik End?striyel Sistemler San. Ve Tic. Ltd Sti",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

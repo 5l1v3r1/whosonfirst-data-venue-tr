@@ -2,6 +2,10 @@
   "id": 1108622297,
   "type": "Feature",
   "properties": {
+    "addr:full":"Beylikduzu Gunaydin Yapi Koop. 2 Cad. Gunaydin Apt. D Blok D:2 34900 B.cekmece Istanbul Zeytinburnu Istanbul 34020",
+    "addr:housenumber":"2;blok d 2",
+    "addr:postcode":"34900;34020",
+    "addr:street":"Koop.;Cad. Gunaydin Apt. D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108622297,
-    "wof:lastmodified":1474066565,
+    "wof:lastmodified":1474070757,
     "wof:name":"Yakamoz Deri Ve Teks San Dis Tic",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

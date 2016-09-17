@@ -2,6 +2,10 @@
   "id": 1108578937,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ulus Mah. 2115 Sk. No:7 Kat:1 Daire:4 07100 Antalya",
+    "addr:housenumber":"1;4",
+    "addr:postcode":"07100",
+    "addr:street":"Mah. 2115 Sk. No 7 Kat;Daire",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108578937,
-    "wof:lastmodified":1474064912,
+    "wof:lastmodified":1474070805,
     "wof:name":"?esa Asans?r Ltd. Sti.",
     "wof:parent_id":85930033,
     "wof:placetype":"venue",

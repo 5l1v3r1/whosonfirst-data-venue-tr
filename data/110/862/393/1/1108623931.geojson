@@ -2,6 +2,10 @@
   "id": 1108623931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202/2 Sk. No: 31/104 Yenisehir Izmir 31750",
+    "addr:housenumber":"1202 / 2;31 / 104",
+    "addr:postcode":"31750",
+    "addr:street":"Sk. No;Yenisehir Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108623931,
-    "wof:lastmodified":1474066622,
+    "wof:lastmodified":1474070771,
     "wof:name":"Ilgaz Ticaret Ve Danismanlik",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

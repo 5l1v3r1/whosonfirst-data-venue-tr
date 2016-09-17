@@ -2,6 +2,10 @@
   "id": 1108594999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Buyukdere Cad. Gokfiliz Ishani Kat:8 D:19 M.koy Beyoglu Istanbul 34430",
+    "addr:housenumber":"kat 8 d 19",
+    "addr:postcode":"34430",
+    "addr:street":"Buyukdere Cad. Gokfiliz Ishani;M.Koy Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108594999,
-    "wof:lastmodified":1474065419,
+    "wof:lastmodified":1474070749,
     "wof:name":"Bogazi?i Ingilizce Kurslari",
     "wof:parent_id":85906543,
     "wof:placetype":"venue",

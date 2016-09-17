@@ -2,6 +2,10 @@
   "id": 1108661803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagcilar 100. Yil Mh. Matbaacilar Sit. No:192 Ikitelli Istanbul 34670",
+    "addr:housenumber":"100;sit. no 192",
+    "addr:postcode":"34670",
+    "addr:street":"Yil Mh. Matbaacilar;Ikitelli Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108661803,
-    "wof:lastmodified":1474068318,
+    "wof:lastmodified":1474070747,
     "wof:name":"Numune Matbaacilik Cilt San. Ltd. Sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

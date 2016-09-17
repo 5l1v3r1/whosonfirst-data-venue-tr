@@ -2,6 +2,10 @@
   "id": 1108669309,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yesildere Cad. No: 87 35120 Yesildere Izmir Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Izmir 34670",
+    "addr:housenumber":"87",
+    "addr:postcode":"35120;34670",
+    "addr:street":"Yesildere Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108669309,
-    "wof:lastmodified":1474068621,
+    "wof:lastmodified":1474070863,
     "wof:name":"Heris Pamar As",
     "wof:parent_id":85904085,
     "wof:placetype":"venue",

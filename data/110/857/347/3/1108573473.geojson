@@ -2,6 +2,10 @@
   "id": 1108573473,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kenan Evren Bulv Demircioglu Apt No:26/b Seyhan Adana 01000",
+    "addr:housenumber":"26 / b",
+    "addr:postcode":"01000",
+    "addr:street":"Kenan Evren Bulv Demircioglu Apt No;Seyhan Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573473,
-    "wof:lastmodified":1474064604,
+    "wof:lastmodified":1474070711,
     "wof:name":"Bor Glass",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

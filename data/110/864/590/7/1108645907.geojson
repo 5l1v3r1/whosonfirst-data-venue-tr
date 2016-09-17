@@ -2,6 +2,10 @@
   "id": 1108645907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bogazkesen Cad. No:151 Tophane Istanbul 07400",
+    "addr:housenumber":"151",
+    "addr:postcode":"07400",
+    "addr:street":"Bogazkesen Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108645907,
-    "wof:lastmodified":1474067651,
+    "wof:lastmodified":1474070860,
     "wof:name":"Vira Denizcilik",
     "wof:parent_id":85906545,
     "wof:placetype":"venue",

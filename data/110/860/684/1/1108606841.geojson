@@ -2,6 +2,10 @@
   "id": 1108606841,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cihangir Mah. Tan Sok. No:30 Avcilar Istanbul 01350",
+    "addr:housenumber":"mah.;no 30",
+    "addr:postcode":"01350",
+    "addr:street":"Tan Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108606841,
-    "wof:lastmodified":1474065931,
+    "wof:lastmodified":1474070772,
     "wof:name":"Sameks Konf.san. A.s.",
     "wof:parent_id":85906535,
     "wof:placetype":"venue",

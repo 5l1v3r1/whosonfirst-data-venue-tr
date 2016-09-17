@@ -2,6 +2,10 @@
   "id": 1108647651,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rami Kisla Cad. No:37/8 Sariyasar Pala Sanayi Carsisi 34140 Eyup Istanbul Kartal Istanbul 46000",
+    "addr:housenumber":"37 / 8",
+    "addr:postcode":"34140;46000",
+    "addr:street":"Kisla Cad. No;Sariyasar Pala Sanayi Carsisi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108647651,
-    "wof:lastmodified":1474067719,
+    "wof:lastmodified":1474070855,
     "wof:name":"Dincer Makina San Tic Ltd Sti",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

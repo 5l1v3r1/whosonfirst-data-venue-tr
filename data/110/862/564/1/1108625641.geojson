@@ -2,6 +2,10 @@
   "id": 1108625641,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cad. Edler Apt. No:454 K:1 D:2 Suadiye Kad\u0131k\u00f6y Istanbul 34990",
+    "addr:housenumber":"apt.;1 d 2",
+    "addr:postcode":"34990",
+    "addr:street":"Bagdat Cad. Edler;No 454 K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108625641,
-    "wof:lastmodified":1474066687,
+    "wof:lastmodified":1474070805,
     "wof:name":"Alsek Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

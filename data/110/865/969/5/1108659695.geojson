@@ -2,6 +2,10 @@
   "id": 1108659695,
   "type": "Feature",
   "properties": {
+    "addr:full":"Org. San Bol 3. Cad. Haci Mansur Sok. 80220 Osmanbey Istanbul Merkez Istanbul 77200",
+    "addr:housenumber":"3",
+    "addr:postcode":"80220;77200",
+    "addr:street":"Org. San Bol;Cad. Haci Mansur Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108659695,
-    "wof:lastmodified":1474068245,
+    "wof:lastmodified":1474070848,
     "wof:name":"Oztarhanlar Holding",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

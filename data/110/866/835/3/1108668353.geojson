@@ -2,6 +2,10 @@
   "id": 1108668353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kagithane Cad. Ozge Is Hani No: 17 Kat.2 Kagithane Maltepe Istanbul 01000",
+    "addr:housenumber":"no;kat.2",
+    "addr:postcode":"01000",
+    "addr:street":"Kagithane Cad. Ozge Is;17;Maltepe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108668353,
-    "wof:lastmodified":1474068582,
+    "wof:lastmodified":1474070850,
     "wof:name":"Roll Reklam Baski Hizm.tic.ltd.sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108658679,
   "type": "Feature",
   "properties": {
+    "addr:full":"Anadolu Cad.1595 Sok.no: 225/401 Karsiyaka Izmir 35600",
+    "addr:housenumber":"225 / 401",
+    "addr:postcode":"35600",
+    "addr:street":"Sok.No;Karsiyaka Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108658679,
-    "wof:lastmodified":1474068200,
+    "wof:lastmodified":1474070853,
     "wof:name":"Norm Havuzculuk",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",

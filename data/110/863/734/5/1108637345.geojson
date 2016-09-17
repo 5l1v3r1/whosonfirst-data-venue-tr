@@ -2,6 +2,10 @@
   "id": 1108637345,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yeni Baraj Mah. 100.yil Bulv. 1 Sok. Balkaroglu Sit. B-blok Kat:1 No:3 Seyhan Adana 01000",
+    "addr:housenumber":"1;balkaroglu;kat 1 no 3",
+    "addr:postcode":"01000",
+    "addr:street":"Mah. 100.Yil Bulv.;Sok.;Seyhan Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108637345,
-    "wof:lastmodified":1474067311,
+    "wof:lastmodified":1474070807,
     "wof:name":"Proje Planlama Mimarlik Insaat Taahhut Ticaret Ve Ithalat Ihracat Ltd.sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

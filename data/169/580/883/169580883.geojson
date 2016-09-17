@@ -2,6 +2,10 @@
   "id": 169580883,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 St. No:1 K:2/213 Ticaret Merkezi Binasi Isikkent Izmir 35070",
+    "addr:housenumber":"112;2 / 213",
+    "addr:postcode":"35070",
+    "addr:street":"St. No 1 K;Ticaret Merkezi Binasi Isikkent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169580883,
-    "wof:lastmodified":1466313349,
+    "wof:lastmodified":1474070682,
     "wof:name":"Hochy Shoes",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",

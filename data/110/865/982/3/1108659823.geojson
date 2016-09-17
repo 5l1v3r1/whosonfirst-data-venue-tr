@@ -2,6 +2,10 @@
   "id": 1108659823,
   "type": "Feature",
   "properties": {
+    "addr:full":"Davutpasa Cd. Askeri Firin ?ikmazi No:12 Topkapi Kemerburgaz/ey? Istanbul 34075",
+    "addr:housenumber":"?;no 12;kemerburgaz / ey ?",
+    "addr:postcode":"34075",
+    "addr:street":"Davutpasa Cd. Askeri Firin;Topkapi;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108659823,
-    "wof:lastmodified":1474068249,
+    "wof:lastmodified":1474070848,
     "wof:name":"Arslaner Ambalaj San. A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

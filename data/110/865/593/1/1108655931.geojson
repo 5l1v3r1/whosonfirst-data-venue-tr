@@ -2,6 +2,10 @@
   "id": 1108655931,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mahatma Gandi Cad. No:103 06700 G.o.p Ankara Sariyer Ankara 33740",
+    "addr:housenumber":"103",
+    "addr:postcode":"06700;33740",
+    "addr:street":"Gandi Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108655931,
-    "wof:lastmodified":1474068095,
+    "wof:lastmodified":1474070826,
     "wof:name":"Orta Anadolu Ihracatci Birlikleri Genel Sekreterligi",
     "wof:parent_id":85904089,
     "wof:placetype":"venue",

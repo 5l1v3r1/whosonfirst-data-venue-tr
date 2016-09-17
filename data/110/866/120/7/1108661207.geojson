@@ -2,6 +2,10 @@
   "id": 1108661207,
   "type": "Feature",
   "properties": {
+    "addr:full":"Isto?4. Ada No:27 Mahmutbey Istanbul 34217",
+    "addr:housenumber":"4;27",
+    "addr:postcode":"34217",
+    "addr:street":"Ada No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108661207,
-    "wof:lastmodified":1474068297,
+    "wof:lastmodified":1474070711,
     "wof:name":"Ekster Kodlama",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

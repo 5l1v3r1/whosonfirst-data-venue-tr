@@ -2,6 +2,10 @@
   "id": 1108598519,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kasap Sokak Nazmiye Hak Apt No:6 D:2 Esentepe Sisli Istanbul 65710",
+    "addr:housenumber":"nazmiye;d 2",
+    "addr:postcode":"65710",
+    "addr:street":"Kasap Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108598519,
-    "wof:lastmodified":1474065567,
+    "wof:lastmodified":1474070841,
     "wof:name":"Powerplay Ses Isik Sistemleri",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108654333,
   "type": "Feature",
   "properties": {
+    "addr:full":"Incirli Caddesi No:2 Asiller Sokak Asiller Apt. D:1 34150 Bakirkoy Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"asiller;1",
+    "addr:postcode":"34150;34437",
+    "addr:street":"Incirli Caddesi No 2 Asiller Sokak;D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654333,
-    "wof:lastmodified":1474068037,
+    "wof:lastmodified":1474070817,
     "wof:name":"Ergil Makina Sanayi Ve Ticaret Limited Sirketi",
     "wof:parent_id":85904159,
     "wof:placetype":"venue",

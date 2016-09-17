@@ -2,6 +2,10 @@
   "id": 169656387,
   "type": "Feature",
   "properties": {
+    "addr:full":"E-5 Karayolu ?zeri No:169 Ernler Erenler Sakarya 54100",
+    "addr:housenumber":"169;erenler",
+    "addr:postcode":"54100",
+    "addr:street":"Karayolu;Zeri No;Sakarya",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169656387,
-    "wof:lastmodified":1466313389,
+    "wof:lastmodified":1474070636,
     "wof:name":"Sarica ?elik Kapi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

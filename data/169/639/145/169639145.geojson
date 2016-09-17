@@ -2,6 +2,10 @@
   "id": 169639145,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cemal Gursel Cad. 14.sok. No:2 Kat:1 Tuna-kendirci Ishani Kat:1 Seyhan Osmanbey Adana 63000",
+    "addr:housenumber":"14.sok no 2 kat 1;kat 1",
+    "addr:postcode":"63000",
+    "addr:street":"Gursel Cad.;Ishani;Seyhan Osmanbey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169639145,
-    "wof:lastmodified":1466313370,
+    "wof:lastmodified":1474070659,
     "wof:name":"Emko Say Egitim Gerecleri Ltd.sti.",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

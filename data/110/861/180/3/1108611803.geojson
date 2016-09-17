@@ -2,6 +2,10 @@
   "id": 1108611803,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kocavezir Mah. 32.sok. Menguc Ishani Kat:1 No:7 Seyhan Adana 01000",
+    "addr:housenumber":"32.sok;kat 1 no 7",
+    "addr:postcode":"01000",
+    "addr:street":"Kocavezir Mah.;Ishani;Seyhan Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108611803,
-    "wof:lastmodified":1474066153,
+    "wof:lastmodified":1474070697,
     "wof:name":"Kuzenler Ltd.sti.",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108578851,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Cad. No:65/2 Beyoglu 07100 Istanbul",
+    "addr:housenumber":"65 / 2",
+    "addr:postcode":"07100",
+    "addr:street":"Istiklal Cad. No;Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108578851,
-    "wof:lastmodified":1474064907,
+    "wof:lastmodified":1474070810,
     "wof:name":"Kesin Kontaktlens",
     "wof:parent_id":85906573,
     "wof:placetype":"venue",

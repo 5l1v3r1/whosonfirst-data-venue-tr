@@ -2,6 +2,10 @@
   "id": 1108636189,
   "type": "Feature",
   "properties": {
+    "addr:full":"Aytar Cad. 20/7 1.levent Istanbul 34330",
+    "addr:housenumber":"20 / 7 1.levent",
+    "addr:postcode":"34330",
+    "addr:street":"Aytar Cad.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108636189,
-    "wof:lastmodified":1474067272,
+    "wof:lastmodified":1474070803,
     "wof:name":"Med Campus Bilgisayar Ltd. Sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108625081,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fuatpasa Cad. 50 Bereket Han 103 Mercan Istanbul 12600",
+    "addr:housenumber":"50;103",
+    "addr:postcode":"12600",
+    "addr:street":"Fuatpasa Cad.;Han",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108625081,
-    "wof:lastmodified":1474066663,
+    "wof:lastmodified":1474070779,
     "wof:name":"Ak-sa Konf. San. Ltd. Sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

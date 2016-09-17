@@ -2,6 +2,10 @@
   "id": 1108665943,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yesillik Cad. 230 Modeka Selgecen Ish. No:6/623 Karabaglar Maltepe Izmir 01000",
+    "addr:housenumber":"230;623",
+    "addr:postcode":"01000",
+    "addr:street":"Yesillik Cad.;Ish. No 6 /;Maltepe Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108665943,
-    "wof:lastmodified":1474068483,
+    "wof:lastmodified":1474070851,
     "wof:name":"Erke Insaat Makina San.tic. Ltd.sti.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108592371,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Telsiz Mah. 104.sok. No:39 Merter Istanbul",
+    "addr:housenumber":"5;104.sok no 39",
+    "addr:postcode":"",
+    "addr:street":"Telsiz Mah.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108592371,
-    "wof:lastmodified":1474065321,
+    "wof:lastmodified":1474070714,
     "wof:name":"Yagmur Tekstil",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

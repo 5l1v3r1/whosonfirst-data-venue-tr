@@ -2,6 +2,10 @@
   "id": 1108603051,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari Sadiklar Han 49 Taksim 1 Kat 3 80690 Besiktas Istanbul Taksim Istanbul 24040",
+    "addr:housenumber":"49;1 kat 3",
+    "addr:postcode":"80690;24040",
+    "addr:street":"Barbaros Bulvari;Han",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108603051,
-    "wof:lastmodified":1474065757,
+    "wof:lastmodified":1474070724,
     "wof:name":"Kaan Uluslar Arasi Tasimacilik Ve Tic. Ltd. Sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

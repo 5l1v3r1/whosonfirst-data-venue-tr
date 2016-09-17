@@ -2,6 +2,10 @@
   "id": 1108590223,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mustafa Kemal Cad. No:126/d Bornova Ineg?l Izmir 16400",
+    "addr:housenumber":"126 / d;ineg",
+    "addr:postcode":"16400",
+    "addr:street":"Mustafa Kemal Cad. No;L Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108590223,
-    "wof:lastmodified":1474065256,
+    "wof:lastmodified":1474070683,
     "wof:name":"Bakislar Mutfak Banyo",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",

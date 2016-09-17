@@ -2,6 +2,10 @@
   "id": 1108620525,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Asf. 42. Km. Istasyon Mev. Gebze Zeytinburnu Kocaeli 41000",
+    "addr:housenumber":"42 km.",
+    "addr:postcode":"41000",
+    "addr:street":"Asf.;Istasyon Mev.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108620525,
-    "wof:lastmodified":1474066488,
+    "wof:lastmodified":1474070678,
     "wof:name":"?ebitas Demir ?elik End. A.s.",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

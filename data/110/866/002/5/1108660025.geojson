@@ -2,6 +2,10 @@
   "id": 1108660025,
   "type": "Feature",
   "properties": {
+    "addr:full":"10023 Sok. No:14 Ataturk Organize San. Bolgesi Cigli Kartal Izmir 34876",
+    "addr:housenumber":"no 14",
+    "addr:postcode":"10023;34876",
+    "addr:street":"Sok.;Ataturk Organize San. Bolgesi Cigli Kartal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108660025,
-    "wof:lastmodified":1474068256,
+    "wof:lastmodified":1474070636,
     "wof:name":"Dekamak",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108570587,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Yolu 8 Km. Oto San. Sit. 38. Blok No:121 123 Yildirim Bursa 03300",
+    "addr:housenumber":"8;38 blok no 121 123",
+    "addr:postcode":"yildirim;03300",
+    "addr:street":"Ankara Yolu;Sit.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108570587,
-    "wof:lastmodified":1474064480,
+    "wof:lastmodified":1474070643,
     "wof:name":"Basar Plastik",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

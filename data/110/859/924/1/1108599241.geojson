@@ -2,6 +2,10 @@
   "id": 1108599241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ali Riza G?rcan Cad Cirpici Yolu No:1 Kat5 Ofis 527 Meridyen Is Merkezi Merter Istanbul 34600",
+    "addr:housenumber":"?;no;527",
+    "addr:postcode":"34600",
+    "addr:street":"Riza G;Rcan Cad Cirpici Yolu;Ofis;Merter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108599241,
-    "wof:lastmodified":1474065598,
+    "wof:lastmodified":1474070842,
     "wof:name":"Sercons Sertifika Merkezi",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

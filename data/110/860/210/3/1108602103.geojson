@@ -2,6 +2,10 @@
   "id": 1108602103,
   "type": "Feature",
   "properties": {
+    "addr:full":"Piri Reis Cd. No:12 Maltepe Istanbul 01000",
+    "addr:housenumber":"no 12",
+    "addr:postcode":"01000",
+    "addr:street":"Piri Reis;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108602103,
-    "wof:lastmodified":1474065720,
+    "wof:lastmodified":1474070711,
     "wof:name":"G?n Ak Isi Dogalgaz Ltd.",
     "wof:parent_id":85930179,
     "wof:placetype":"venue",

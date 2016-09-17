@@ -2,6 +2,10 @@
   "id": 1108622233,
   "type": "Feature",
   "properties": {
+    "addr:full":"Iller Sok 1/1 Mebusevleri 06580 Cankaya Ankara Zeytinburnu Ankara 34020",
+    "addr:housenumber":"1 / 1",
+    "addr:postcode":"06580;34020",
+    "addr:street":"Iller Sok;Mebusevleri",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108622233,
-    "wof:lastmodified":1474066563,
+    "wof:lastmodified":1474070749,
     "wof:name":"G?venli Yasam Is G?venli San Ve Tic Ltd Sti",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

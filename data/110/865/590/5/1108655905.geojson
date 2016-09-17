@@ -2,6 +2,10 @@
   "id": 1108655905,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kayi Cad. No:19 Ataturk Mah.yenikent 06378 Sincan Ankara Sariyer Ankara 33740",
+    "addr:housenumber":"19",
+    "addr:postcode":"06378;33740",
+    "addr:street":"Kayi Cad. No;Mah.Yenikent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108655905,
-    "wof:lastmodified":1474068094,
+    "wof:lastmodified":1474070821,
     "wof:name":"Mesa Toplu Konut Yatirim As/ Dograma Fabrikasi",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

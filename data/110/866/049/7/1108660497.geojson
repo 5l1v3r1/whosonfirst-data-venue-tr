@@ -2,6 +2,10 @@
   "id": 1108660497,
   "type": "Feature",
   "properties": {
+    "addr:full":"Evren Mah. G?bahar Cad. Gur Sk. No: 10 G?esli Isikkent Istanbul 32100",
+    "addr:housenumber":"?;10 g ?",
+    "addr:postcode":"32100",
+    "addr:street":"Evren Mah. G;Bahar Cad.;Sk. No;Esli Isikkent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108660497,
-    "wof:lastmodified":1474068272,
+    "wof:lastmodified":1474070689,
     "wof:name":"Kuzey Ambalaj",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108609907,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ahmet Hasim Cad.no: 3/a Nisantasi Ankara 25370",
+    "addr:housenumber":"3 / a",
+    "addr:postcode":"25370",
+    "addr:street":"Ahmet;Cad.No;Nisantasi Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108609907,
-    "wof:lastmodified":1474066074,
+    "wof:lastmodified":1474070872,
     "wof:name":"Celik Insaat",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108633325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Mah. Ataturk Cad.no: 100 Eyup Is Hani Kat.3/16 ?esme/ Gung?en Istanbul",
+    "addr:housenumber":"100;16 ?;/ gung ?",
+    "addr:postcode":"eyup",
+    "addr:street":"Sanayi Mah. Ataturk Cad.No;Esme",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108633325,
-    "wof:lastmodified":1474067160,
+    "wof:lastmodified":1474070727,
     "wof:name":"Cizgi Nakis",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

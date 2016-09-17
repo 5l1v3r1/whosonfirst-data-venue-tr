@@ -2,6 +2,10 @@
   "id": 1108669101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Adana Ceyhan Karayolu 21. Km 01434 Suluca Adana Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Adana 34670",
+    "addr:housenumber":"21 km",
+    "addr:postcode":"01434;34670",
+    "addr:street":"Karayolu;Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108669101,
-    "wof:lastmodified":1474068608,
+    "wof:lastmodified":1474070857,
     "wof:name":"Pibay Tekstil San Ve Tic As",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

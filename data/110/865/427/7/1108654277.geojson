@@ -2,6 +2,10 @@
   "id": 1108654277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2.cadde No:10 Cetin Emec Bulvari 06450 Ovecler Ankara Beyoglu Ankara 34437",
+    "addr:housenumber":"no 10",
+    "addr:postcode":"06450;beyoglu;34437",
+    "addr:street":"Cetin Emec Bulvari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654277,
-    "wof:lastmodified":1474068035,
+    "wof:lastmodified":1474070818,
     "wof:name":"Noksel Celik Boru Sanayi As",
     "wof:parent_id":85929601,
     "wof:placetype":"venue",

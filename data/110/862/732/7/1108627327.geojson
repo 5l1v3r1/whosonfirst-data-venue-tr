@@ -2,6 +2,10 @@
   "id": 1108627327,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari Ufuk Apt. No: 28/3 Balmumcu Istanbul 34349",
+    "addr:housenumber":"ufuk;3",
+    "addr:postcode":"34349",
+    "addr:street":"Barbaros Bulvari;No 28 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108627327,
-    "wof:lastmodified":1474066753,
+    "wof:lastmodified":1474070821,
     "wof:name":"Latin Turizm Ve Ticaret A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

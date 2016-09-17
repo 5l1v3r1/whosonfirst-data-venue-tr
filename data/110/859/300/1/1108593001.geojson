@@ -2,6 +2,10 @@
   "id": 1108593001,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tabaklar Mah. 38.sok.kasapoglu Apt.no:1 Karacabey Bursa 38800",
+    "addr:housenumber":"38.sok.kasapoglu;1",
+    "addr:postcode":"38800",
+    "addr:street":"Tabaklar Mah.;Apt.No;Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108593001,
-    "wof:lastmodified":1474065342,
+    "wof:lastmodified":1474070718,
     "wof:name":"Hayati Demirel",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

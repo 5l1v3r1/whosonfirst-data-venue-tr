@@ -2,6 +2,10 @@
   "id": 1108631903,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kizilay Caddesi 1376 Sk. No:10 Gal Apt.d:1-2 Alsancak Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Izmir 34670",
+    "addr:housenumber":"1376;10;1-2",
+    "addr:postcode":"34670",
+    "addr:street":"Kizilay Caddesi;Sk. No;Apt.D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108631903,
-    "wof:lastmodified":1474067099,
+    "wof:lastmodified":1474070732,
     "wof:name":"Vestelkom Elektronik Haberlesme Cihazlari Imalat",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

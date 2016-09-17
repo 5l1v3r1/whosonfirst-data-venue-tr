@@ -2,6 +2,10 @@
   "id": 1108568621,
   "type": "Feature",
   "properties": {
+    "addr:full":"A-blok 106 Sok.no:13 Y.dudullu ?mraniye 41020 Istanbul",
+    "addr:housenumber":"106;13;?",
+    "addr:postcode":"41020",
+    "addr:street":"Sok.No;Mraniye",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108568621,
-    "wof:lastmodified":1474064398,
+    "wof:lastmodified":1474070811,
     "wof:name":"Murat Makina San.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

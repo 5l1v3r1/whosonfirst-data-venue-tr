@@ -2,6 +2,10 @@
   "id": 1108573431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Soganlik Cad. No:68 A Karlitepe Kartal Istanbul 46000",
+    "addr:housenumber":"68 a",
+    "addr:postcode":"46000",
+    "addr:street":"Soganlik Cad. No;Karlitepe Kartal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573431,
-    "wof:lastmodified":1474064597,
+    "wof:lastmodified":1474070723,
     "wof:name":"Baran Cam",
     "wof:parent_id":85930139,
     "wof:placetype":"venue",

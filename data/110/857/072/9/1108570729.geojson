@@ -2,6 +2,10 @@
   "id": 1108570729,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cifte Havular Cad. Vatan Mah. Akin Sok. Kalaycioglu Is Hani No:1 Kat: 1 Bayrampasa Yenibosna Istanbul 43270",
+    "addr:housenumber":"kat 1",
+    "addr:postcode":"43270",
+    "addr:street":"Havular Cad.;Akin Sok. Kalaycioglu Is;No 1;Yenibosna",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108570729,
-    "wof:lastmodified":1474064486,
+    "wof:lastmodified":1474070644,
     "wof:name":"Buyukdeniz Makina Sanayi",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108578013,
   "type": "Feature",
   "properties": {
+    "addr:full":"Y. Maltepe Yolu, Emintas A. San. Sit. No:160/161 Bayrampasa Bagcilar Istanbul 33115",
+    "addr:housenumber":"emintas a.;no;/ 161",
+    "addr:postcode":"33115",
+    "addr:street":"Maltepe Yolu;San. Sit.;Bayrampasa Bagcilar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108578013,
-    "wof:lastmodified":1474064865,
+    "wof:lastmodified":1474070783,
     "wof:name":"Ucerler Buro A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

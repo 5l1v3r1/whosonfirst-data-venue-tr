@@ -2,6 +2,10 @@
   "id": 1108631363,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ok?musa Cd. Tutsak Sk. Haci Mehmet Ishani No:27 K:3 D:11 Karak? Mersin Istanbul 52750",
+    "addr:housenumber":"27 k 3 d 11;?",
+    "addr:postcode":"52750",
+    "addr:street":"Musa Cd. Tutsak Sk. Haci;Ishani No;Karak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108631363,
-    "wof:lastmodified":1474067075,
+    "wof:lastmodified":1474070731,
     "wof:name":"Imel M?h. Elektrik San. Tic.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108634505,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Sok. No:27 A.o.s.b. Cigli Uskudar Izmir 34704",
+    "addr:housenumber":"no 27",
+    "addr:postcode":"10001;34704",
+    "addr:street":"Sok.;Cigli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108634505,
-    "wof:lastmodified":1474067205,
+    "wof:lastmodified":1474070771,
     "wof:name":"Gul Turizm A.s.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

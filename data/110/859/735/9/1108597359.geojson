@@ -2,6 +2,10 @@
   "id": 1108597359,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Yil Mah 44 Sok. No:67 Seyhan Adana 01000",
+    "addr:housenumber":"100;no 67",
+    "addr:postcode":"01000",
+    "addr:street":"Yil Mah 44 Sok.;Seyhan Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108597359,
-    "wof:lastmodified":1474065524,
+    "wof:lastmodified":1474070797,
     "wof:name":"Albey Elektrik Asansor",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108649171,
   "type": "Feature",
   "properties": {
+    "addr:full":"100. Yil Blv. 184. Sk. 9/3 Nazilli Antalya 65600",
+    "addr:housenumber":"100;184;9 / 3",
+    "addr:postcode":"65600",
+    "addr:street":"Yil Blv.;Sk.;Nazilli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108649171,
-    "wof:lastmodified":1474067806,
+    "wof:lastmodified":1474070870,
     "wof:name":"Med Sag. Arc. A.s.",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

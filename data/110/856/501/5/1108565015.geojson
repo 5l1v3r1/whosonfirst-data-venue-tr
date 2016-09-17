@@ -2,6 +2,10 @@
   "id": 1108565015,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mayis Is Merkezi 123/1 Kat:3/301 Cumhuriyet Bulvari Alsancak K.?ekmece Izmir 34670",
+    "addr:housenumber":"123 / 1 kat 3 / 301;?",
+    "addr:postcode":"34670",
+    "addr:street":"Cumhuriyet Bulvari;K.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108565015,
-    "wof:lastmodified":1474064203,
+    "wof:lastmodified":1474070665,
     "wof:name":"Egi Gasket",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

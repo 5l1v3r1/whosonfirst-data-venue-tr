@@ -2,6 +2,10 @@
   "id": 1108602895,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ordu Cad. No: 206/1 34470 Laleli Istanbul 24300",
+    "addr:housenumber":"206 / 1",
+    "addr:postcode":"34470;24300",
+    "addr:street":"Ordu Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108602895,
-    "wof:lastmodified":1474065750,
+    "wof:lastmodified":1474070715,
     "wof:name":"Adria Airways - The Airline Of Slovenia",
     "wof:parent_id":85930015,
     "wof:placetype":"venue",

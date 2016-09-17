@@ -2,6 +2,10 @@
   "id": 1108620593,
   "type": "Feature",
   "properties": {
+    "addr:full":"124/2 Sok.no:13 Isikkent Izmir 35070",
+    "addr:housenumber":"124 / 2;13",
+    "addr:postcode":"35070",
+    "addr:street":"Sok.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108620593,
-    "wof:lastmodified":1474066491,
+    "wof:lastmodified":1474070672,
     "wof:name":"Demiroglu Yemek Ve Catering",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

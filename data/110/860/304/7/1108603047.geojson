@@ -2,6 +2,10 @@
   "id": 1108603047,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mete Cad. No:24/1 Ovalar Apt. 80090 Taksim Istanbul 24040",
+    "addr:housenumber":"24 / 1",
+    "addr:postcode":"80090;24040",
+    "addr:street":"Mete Cad. No;Ovalar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108603047,
-    "wof:lastmodified":1474065757,
+    "wof:lastmodified":1474070717,
     "wof:name":"Virgin Atlantic",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

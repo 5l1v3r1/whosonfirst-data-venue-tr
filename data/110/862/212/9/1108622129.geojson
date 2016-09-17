@@ -2,6 +2,10 @@
   "id": 1108622129,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istoc Ada 40 No:27 Mahmutbey 55020 Istanbul",
+    "addr:housenumber":"40 no 27",
+    "addr:postcode":"55020",
+    "addr:street":"Ada;Mahmutbey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108622129,
-    "wof:lastmodified":1474066559,
+    "wof:lastmodified":1474070749,
     "wof:name":"Yol Gida Ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

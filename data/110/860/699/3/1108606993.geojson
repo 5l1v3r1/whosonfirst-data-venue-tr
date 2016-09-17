@@ -2,6 +2,10 @@
   "id": 1108606993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fahrettin Kerim Gokay Cad. No:250 Goztepe Istanbul 01220",
+    "addr:housenumber":"250",
+    "addr:postcode":"01220",
+    "addr:street":"Fahrettin Kerim Gokay Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108606993,
-    "wof:lastmodified":1474065937,
+    "wof:lastmodified":1474070766,
     "wof:name":"Sm Textile",
     "wof:parent_id":85930279,
     "wof:placetype":"venue",

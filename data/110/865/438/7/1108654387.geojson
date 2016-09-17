@@ -2,6 +2,10 @@
   "id": 1108654387,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Cadde No:53 Yildiztepe Mevkii Kirac Koyu San Bir 3 Bolge 34909 Buyukcekmece Istanbul Beyoglu Istanbul 34437",
+    "addr:housenumber":"no 53;koyu;3",
+    "addr:postcode":"34909;34437",
+    "addr:street":"6 Cadde;Yildiztepe Mevkii Kirac;San Bir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108654387,
-    "wof:lastmodified":1474068039,
+    "wof:lastmodified":1474070824,
     "wof:name":"Gimsan Madeniyat San Tic As",
     "wof:parent_id":85904159,
     "wof:placetype":"venue",

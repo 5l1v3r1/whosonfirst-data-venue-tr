@@ -2,6 +2,10 @@
   "id": 1108626299,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Agustos Cad. 2. G?ktan Apt. No: 15 K: 2 D: 10 K?ycegiz Antalya",
+    "addr:housenumber":"30;2 g ?;2 d 10 k ?",
+    "addr:postcode":"",
+    "addr:street":"Agustos Cad.;Ktan;No 15 K;Ycegiz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108626299,
-    "wof:lastmodified":1474066711,
+    "wof:lastmodified":1474070801,
     "wof:name":"Delos Turizm (antalya Sb.)",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

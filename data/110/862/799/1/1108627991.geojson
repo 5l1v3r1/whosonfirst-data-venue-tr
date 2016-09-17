@@ -2,6 +2,10 @@
   "id": 1108627991,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mithatpasa Cad. Sara? Ishak Mah. Fermanli Sok. No: 7-9 D: 601 Beyazit Istanbul 65400",
+    "addr:housenumber":"no 7-9 d 601",
+    "addr:postcode":"65400",
+    "addr:street":"Mithatpasa Cad. Sara ? Ishak;Fermanli Sok.;Beyazit Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108627991,
-    "wof:lastmodified":1474066784,
+    "wof:lastmodified":1474070830,
     "wof:name":"Remzi Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108612101,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mehmet?k Cd. Fulya Mh. No:44/a Mecidiyek? Nazilli Istanbul 65600",
+    "addr:housenumber":"mh. no 44 / a;?",
+    "addr:postcode":"65600",
+    "addr:street":"K Cd.;Mecidiyek",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108612101,
-    "wof:lastmodified":1474066164,
+    "wof:lastmodified":1474070703,
     "wof:name":"Bulanlar Tic. A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

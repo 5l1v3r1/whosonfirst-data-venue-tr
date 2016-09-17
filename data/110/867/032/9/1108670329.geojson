@@ -2,6 +2,10 @@
   "id": 1108670329,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yildiz Posta Cad. Emekli Subay Evleri 65/2 80280 Esentepe Istanbul 01930",
+    "addr:housenumber":"65 / 2",
+    "addr:postcode":"80280;01930",
+    "addr:street":"Posta Cad. Emekli Subay Evleri",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108670329,
-    "wof:lastmodified":1474068654,
+    "wof:lastmodified":1474070637,
     "wof:name":"Ari Kimya A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

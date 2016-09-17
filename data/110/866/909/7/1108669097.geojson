@@ -2,6 +2,10 @@
   "id": 1108669097,
   "type": "Feature",
   "properties": {
+    "addr:full":"E 5 ?zeri Ambarli Kavsagi Eksinol Cad. No. 13 34850 Avcilar Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"5 ?;13",
+    "addr:postcode":"34850;34670",
+    "addr:street":"E;Zeri Ambarli Kavsagi Eksinol Cad. No.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108669097,
-    "wof:lastmodified":1474068608,
+    "wof:lastmodified":1474070857,
     "wof:name":"Nurtac Tekstil Tic Ve San As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

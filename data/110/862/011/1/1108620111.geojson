@@ -2,6 +2,10 @@
   "id": 1108620111,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Mayis Mah.dr. Ismet Ozturk Sok.8/7 Sisli Istanbul 65710",
+    "addr:housenumber":"19;sok.8 / 7",
+    "addr:postcode":"65710",
+    "addr:street":"Mayis Mah.Dr. Ismet Ozturk",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108620111,
-    "wof:lastmodified":1474066473,
+    "wof:lastmodified":1474070654,
     "wof:name":"Pasha Oriental",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

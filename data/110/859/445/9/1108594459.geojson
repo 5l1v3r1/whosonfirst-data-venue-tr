@@ -2,6 +2,10 @@
   "id": 1108594459,
   "type": "Feature",
   "properties": {
+    "addr:full":"Anafartalar Cad. 146. Sk. No:2/4 (352) 222 29 24 Antalya",
+    "addr:housenumber":"146;352;24",
+    "addr:postcode":"222",
+    "addr:street":"Anafartalar Cad.;Sk. No 2 / 4;29",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108594459,
-    "wof:lastmodified":1474065401,
+    "wof:lastmodified":1474070738,
     "wof:name":"Medimpeks Ltd. Sti.",
     "wof:parent_id":85930187,
     "wof:placetype":"venue",

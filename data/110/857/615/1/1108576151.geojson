@@ -2,6 +2,10 @@
   "id": 1108576151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1. Organize Sanayi Bolgesi No:19 27120 Topkapi Gaziantep 24620",
+    "addr:housenumber":"1;19",
+    "addr:postcode":"27120;24620",
+    "addr:street":"Organize Sanayi Bolgesi No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108576151,
-    "wof:lastmodified":1474064707,
+    "wof:lastmodified":1474070745,
     "wof:name":"Erkent Mensucat",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108613243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ivedik Org. Sanayi Bolgesi Ozpetek San. Sitesi 514.sok. No:22 Esenler Ankara 01350",
+    "addr:housenumber":"514.sok no 22",
+    "addr:postcode":"01350",
+    "addr:street":"Org.;Bolgesi;San. Sitesi;Esenler Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108613243,
-    "wof:lastmodified":1474066204,
+    "wof:lastmodified":1474070706,
     "wof:name":"Ozkanlar Lastik Sanayi",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

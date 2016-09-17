@@ -2,6 +2,10 @@
   "id": 1108655939,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari No:93 80690 Besiktas Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"no 93",
+    "addr:postcode":"80690;33740",
+    "addr:street":"Barbaros Bulvari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108655939,
-    "wof:lastmodified":1474068095,
+    "wof:lastmodified":1474070823,
     "wof:name":"Permak Makina Tic San As",
     "wof:parent_id":85906569,
     "wof:placetype":"venue",

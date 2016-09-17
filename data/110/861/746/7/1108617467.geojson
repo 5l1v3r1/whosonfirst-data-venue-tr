@@ -2,6 +2,10 @@
   "id": 1108617467,
   "type": "Feature",
   "properties": {
+    "addr:full":"Refik Saydam Cad. 312, Tepebasi Istanbul 80050",
+    "addr:housenumber":"312",
+    "addr:postcode":"80050",
+    "addr:street":"Saydam Cad.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108617467,
-    "wof:lastmodified":1474066364,
+    "wof:lastmodified":1474070829,
     "wof:name":"Bale Hotel",
     "wof:parent_id":85906543,
     "wof:placetype":"venue",

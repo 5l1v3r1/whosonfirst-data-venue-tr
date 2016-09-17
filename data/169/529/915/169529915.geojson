@@ -2,6 +2,10 @@
   "id": 169529915,
   "type": "Feature",
   "properties": {
+    "addr:full":"Turgut Ozal Cad No:121 Ikitelli Organize San Bolgesi Haseyad Koop 34670 Ikitelli Istanbul Sehitkamil Istanbul 27000",
+    "addr:housenumber":"121",
+    "addr:postcode":"34670;27000",
+    "addr:street":"Turgut Ozal Cad No;Organize San Bolgesi Haseyad Koop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169529915,
-    "wof:lastmodified":1466313198,
+    "wof:lastmodified":1474070677,
     "wof:name":"Dusan Koll Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

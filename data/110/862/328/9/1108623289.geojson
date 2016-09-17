@@ -2,6 +2,10 @@
   "id": 1108623289,
   "type": "Feature",
   "properties": {
+    "addr:full":"Atisan 19.sok. No:6 Ostim Ankara 06374",
+    "addr:housenumber":"19.sok no 6",
+    "addr:postcode":"06374",
+    "addr:street":"Atisan;Ostim Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108623289,
-    "wof:lastmodified":1474066600,
+    "wof:lastmodified":1474070751,
     "wof:name":"Teknik Ates Ates Tugla",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

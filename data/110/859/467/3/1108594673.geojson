@@ -2,6 +2,10 @@
   "id": 1108594673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1203/2 .sok.no:13 K:1 D:101 Yenisehir Izmir 31750",
+    "addr:housenumber":"1203 / 2;13 k 1 d 101",
+    "addr:postcode":"31750",
+    "addr:street":"Sok.No;Yenisehir Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108594673,
-    "wof:lastmodified":1474065408,
+    "wof:lastmodified":1474070739,
     "wof:name":"Cevre Sistem Ltd.sti.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

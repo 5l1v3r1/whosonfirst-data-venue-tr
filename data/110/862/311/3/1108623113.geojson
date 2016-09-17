@@ -2,6 +2,10 @@
   "id": 1108623113,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cd. 1. Sonar Sk. Dogan Apt. D Blok No:13/4 Maltepe Istanbul 01000",
+    "addr:housenumber":"1;blok no 13 / 4",
+    "addr:postcode":"01000",
+    "addr:street":"Bagdat Cd.;Sk. Dogan Apt. D;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108623113,
-    "wof:lastmodified":1474066594,
+    "wof:lastmodified":1474070751,
     "wof:name":"Onur Teknik Hizmet. Ltd. Sti.",
     "wof:parent_id":85904095,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108633811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1203/1 Sk. No:101 Yenisehir Avcilar Izmir 34840",
+    "addr:housenumber":"1203 / 1;101",
+    "addr:postcode":"34840",
+    "addr:street":"Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108633811,
-    "wof:lastmodified":1474067176,
+    "wof:lastmodified":1474070735,
     "wof:name":"Akder Dis Tic. Ltd. Sti.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

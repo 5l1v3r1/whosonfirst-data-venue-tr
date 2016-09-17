@@ -2,6 +2,10 @@
   "id": 1108579579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. Akkusoglu Pasaji No: 135 Ust Kat Yenimahalle Bursa 15030",
+    "addr:housenumber":"135;kat",
+    "addr:postcode":"15030",
+    "addr:street":"Cumhuriyet Cad. Akkusoglu Pasaji No;Ust;Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108579579,
-    "wof:lastmodified":1474064945,
+    "wof:lastmodified":1474070858,
     "wof:name":"Adapa",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

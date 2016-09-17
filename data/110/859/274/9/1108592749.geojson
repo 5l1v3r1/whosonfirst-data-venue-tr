@@ -2,6 +2,10 @@
   "id": 1108592749,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istoc 1 Ada No:119-121 34550 Mahmutbey Istanbul Salihli Istanbul 24600",
+    "addr:housenumber":"1;119-121",
+    "addr:postcode":"34550;24600",
+    "addr:street":"Istoc;No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108592749,
-    "wof:lastmodified":1474065334,
+    "wof:lastmodified":1474070715,
     "wof:name":"Nsk Sinai Mamuller Imalat Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

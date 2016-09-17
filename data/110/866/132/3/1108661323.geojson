@@ -2,6 +2,10 @@
   "id": 1108661323,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Karayolu ?zeri 7 Km Ankara Karayolu Uzeri 7.km. Pk:155 20020 Denizli Adalar Ankara 81340",
+    "addr:housenumber":"7 km",
+    "addr:postcode":"20020;81340",
+    "addr:street":"Karayolu;Zeri;Ankara Karayolu Uzeri 7.Km Pk 155",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108661323,
-    "wof:lastmodified":1474068301,
+    "wof:lastmodified":1474070713,
     "wof:name":"Dentas Ambalaj Ve Kagit Sanayi As",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

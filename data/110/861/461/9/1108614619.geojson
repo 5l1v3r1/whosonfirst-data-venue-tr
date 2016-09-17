@@ -2,6 +2,10 @@
   "id": 1108614619,
   "type": "Feature",
   "properties": {
+    "addr:full":"40. Sk. No:85 Sel?uklu Ankara 42300",
+    "addr:housenumber":"40;85;?",
+    "addr:postcode":"42300",
+    "addr:street":"Sk. No;Uklu Ankara",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108614619,
-    "wof:lastmodified":1474066257,
+    "wof:lastmodified":1474070755,
     "wof:name":"Maydor Mak. San.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

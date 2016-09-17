@@ -2,6 +2,10 @@
   "id": 1108610815,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi 114 Sok C-19 Blok No:9 Y.dudullu \u00dcmraniye Istanbul 37776",
+    "addr:housenumber":"114;c-19 blok no 9",
+    "addr:postcode":"37776",
+    "addr:street":"Des Sanayi Sitesi;Sok;Y.Dudullu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108610815,
-    "wof:lastmodified":1474066116,
+    "wof:lastmodified":1474070691,
     "wof:name":"Mdf Metal Dis Ticaret A.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

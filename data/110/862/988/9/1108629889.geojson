@@ -2,6 +2,10 @@
   "id": 1108629889,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dikilitas Emirhan Caddesi 145 A Blok Kat 13 Besiktas 34349 Istanbu",
+    "addr:housenumber":"145 a blok kat 13",
+    "addr:postcode":"34349",
+    "addr:street":"Emirhan Caddesi;Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108629889,
-    "wof:lastmodified":1474066905,
+    "wof:lastmodified":1474070860,
     "wof:name":"Age Tourism",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

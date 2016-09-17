@@ -2,6 +2,10 @@
   "id": 1108640023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mesrutiyet Cd. No:111 Beyoglu Sirinyer Istanbul 35140",
+    "addr:housenumber":"no",
+    "addr:postcode":"35140",
+    "addr:street":"Mesrutiyet Cd.;Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108640023,
-    "wof:lastmodified":1474067425,
+    "wof:lastmodified":1474070665,
     "wof:name":"Mason Dernegi",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

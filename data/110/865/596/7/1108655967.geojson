@@ -2,6 +2,10 @@
   "id": 1108655967,
   "type": "Feature",
   "properties": {
+    "addr:full":"Davutpasa Cad. No:14 K:2 Topkapi 34770 Zeytinburnu Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"14 k 2",
+    "addr:postcode":"34770;33740",
+    "addr:street":"Davutpasa Cad. No;Topkapi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108655967,
-    "wof:lastmodified":1474068096,
+    "wof:lastmodified":1474070823,
     "wof:name":"Temak Tekstil Makina Aksesuarlari",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",

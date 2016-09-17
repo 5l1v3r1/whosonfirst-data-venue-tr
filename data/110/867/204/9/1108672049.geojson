@@ -2,6 +2,10 @@
   "id": 1108672049,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kocamustafapasa Caddesi No:94 - Fatih Ikitelli Istanbul 34306",
+    "addr:housenumber":"no;fatih",
+    "addr:postcode":"34306",
+    "addr:street":"Kocamustafapasa Caddesi;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108672049,
-    "wof:lastmodified":1474068719,
+    "wof:lastmodified":1474070653,
     "wof:name":"Mobi Line",
     "wof:parent_id":85906529,
     "wof:placetype":"venue",

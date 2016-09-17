@@ -2,6 +2,10 @@
   "id": 1108565887,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yakacik Yolu Kastel San. Sit. D Blok No:75 Yakacik Istanbul 07900",
+    "addr:housenumber":"blok no 75",
+    "addr:postcode":"07900",
+    "addr:street":"Yakacik Yolu;San. Sit. D;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108565887,
-    "wof:lastmodified":1474064269,
+    "wof:lastmodified":1474070716,
     "wof:name":"Termoplastik San. Tic. A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

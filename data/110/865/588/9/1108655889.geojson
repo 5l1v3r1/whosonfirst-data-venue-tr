@@ -2,6 +2,10 @@
   "id": 1108655889,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Yil Cad. Ataturk Sanayi Bolgesi 34860 Hadimkoy Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"75",
+    "addr:postcode":"34860;33740",
+    "addr:street":"Yil Cad. Ataturk Sanayi Bolgesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108655889,
-    "wof:lastmodified":1474068093,
+    "wof:lastmodified":1474070822,
     "wof:name":"Guven Celik Makina San Tic Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

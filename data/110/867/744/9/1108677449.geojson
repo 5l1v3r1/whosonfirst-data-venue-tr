@@ -2,6 +2,10 @@
   "id": 1108677449,
   "type": "Feature",
   "properties": {
+    "addr:full":"Akdeniz Cad. No:105 Nihal Apt. Kat. 5 D.6 Fatih Istanbul 01740",
+    "addr:housenumber":"105;apt.;5",
+    "addr:postcode":"01740",
+    "addr:street":"Akdeniz Cad. No;Kat.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108677449,
-    "wof:lastmodified":1474068940,
+    "wof:lastmodified":1474070788,
     "wof:name":"Aydinlar Ocagi",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

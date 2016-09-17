@@ -2,6 +2,10 @@
   "id": 1108666063,
   "type": "Feature",
   "properties": {
+    "addr:full":"Isiklar Cad. No:15 Haramidere 34840 Avcilar Istanbul Fikirtepe Istanbul 81030",
+    "addr:housenumber":"15",
+    "addr:postcode":"34840;81030",
+    "addr:street":"Isiklar Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108666063,
-    "wof:lastmodified":1474068488,
+    "wof:lastmodified":1474070853,
     "wof:name":"Plaksan Plak San As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

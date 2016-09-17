@@ -2,6 +2,10 @@
   "id": 1108674079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Halit Ziya Bul. 1337 Sok. No.1 K.8/803 Izmir Konak Izmir 35240",
+    "addr:housenumber":"no.1 k.8 / 803",
+    "addr:postcode":"1337;35240",
+    "addr:street":"Ziya Bul.;Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108674079,
-    "wof:lastmodified":1474068804,
+    "wof:lastmodified":1474070687,
     "wof:name":"Doruk Tarim Urunleri Dis Tic As",
     "wof:parent_id":85929641,
     "wof:placetype":"venue",

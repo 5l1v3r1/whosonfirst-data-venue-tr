@@ -2,6 +2,10 @@
   "id": 1108583947,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi 113.sok.c3 Blok.no:7 Esensehir-?mraniye Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"113.sok.c3;7;?",
+    "addr:postcode":"34670",
+    "addr:street":"Des Sanayi Sitesi;Blok.No;Mraniye Ikitelli / Kuec\u0327Uekc\u0327Ekmece",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108583947,
-    "wof:lastmodified":1474065109,
+    "wof:lastmodified":1474070700,
     "wof:name":"Karya Metal Makina San.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

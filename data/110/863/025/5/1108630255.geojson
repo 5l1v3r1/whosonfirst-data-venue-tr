@@ -2,6 +2,10 @@
   "id": 1108630255,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kazim Orbay Cad. 112 80260 Sisli Istanbul 65710",
+    "addr:housenumber":"112",
+    "addr:postcode":"80260;65710",
+    "addr:street":"Orbay Cad.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108630255,
-    "wof:lastmodified":1474066928,
+    "wof:lastmodified":1474070668,
     "wof:name":"Perlin Tekstil A.s",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

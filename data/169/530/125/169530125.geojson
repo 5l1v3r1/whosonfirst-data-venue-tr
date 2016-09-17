@@ -2,6 +2,10 @@
   "id": 169530125,
   "type": "Feature",
   "properties": {
+    "addr:full":"Po Box 10 Eskisehir 26010 12800",
+    "addr:housenumber":"po box 10",
+    "addr:postcode":"26010 12800",
+    "addr:street":"Eskisehir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169530125,
-    "wof:lastmodified":1466313199,
+    "wof:lastmodified":1474070642,
     "wof:name":"Akbank Tas",
     "wof:parent_id":85902779,
     "wof:placetype":"venue",

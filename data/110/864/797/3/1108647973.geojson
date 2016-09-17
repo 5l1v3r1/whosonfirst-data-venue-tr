@@ -2,6 +2,10 @@
   "id": 1108647973,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yenibaraj Mah. H.omer Sabanci Cad. Askeri Hast. Karsisi Omur Apt. Kat:1 D:3 Findikzade Adana 34270",
+    "addr:housenumber":"1 d 3",
+    "addr:postcode":"34270",
+    "addr:street":"Yenibaraj Mah. H.Omer Sabanci Cad. Askeri Hast.;Omur;Kat;Findikzade Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108647973,
-    "wof:lastmodified":1474067732,
+    "wof:lastmodified":1474070862,
     "wof:name":"Aytip Medikal",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108668253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yenicarsi Cad. 33 Ferah Apt. 80060 Galatasaray Maltepe Istanbul 01000",
+    "addr:housenumber":"33",
+    "addr:postcode":"80060;01000",
+    "addr:street":"Yenicarsi Cad.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108668253,
-    "wof:lastmodified":1474068579,
+    "wof:lastmodified":1474070851,
     "wof:name":"Mavibulut Yayinlari",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

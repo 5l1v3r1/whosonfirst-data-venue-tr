@@ -2,6 +2,10 @@
   "id": 1108636295,
   "type": "Feature",
   "properties": {
+    "addr:full":"Rumeli Cad. Itir Sok. Gungor Apt. No:2/4 K:2 D:5 Osmanbey 103 Istanbul",
+    "addr:housenumber":"4 k 2 d 5;103",
+    "addr:postcode":"",
+    "addr:street":"Rumeli Cad. Itir Sok. Gungor Apt. No 2 /;Osmanbey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108636295,
-    "wof:lastmodified":1474067276,
+    "wof:lastmodified":1474070802,
     "wof:name":"Nt Station",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

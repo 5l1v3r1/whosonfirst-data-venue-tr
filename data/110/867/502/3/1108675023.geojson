@@ -2,6 +2,10 @@
   "id": 1108675023,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Mah. Sanayi Cad. No: 120 Armutlu Sanayi Bolgesi Kasimpasa Izmir 25300",
+    "addr:housenumber":"120",
+    "addr:postcode":"25300",
+    "addr:street":"Cumhuriyet Mah. Sanayi Cad. No;Armutlu Sanayi Bolgesi Kasimpasa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108675023,
-    "wof:lastmodified":1474068849,
+    "wof:lastmodified":1474070729,
     "wof:name":"Pakis Ambalaj Ve Tavukculuk A.s.",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

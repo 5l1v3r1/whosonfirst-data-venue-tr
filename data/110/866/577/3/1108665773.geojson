@@ -2,6 +2,10 @@
   "id": 1108665773,
   "type": "Feature",
   "properties": {
+    "addr:full":"Kore Sehitleri Cad. 35/3 Zincirlikuyu Bornova Istanbul 3540",
+    "addr:housenumber":"35 / 3",
+    "addr:postcode":"3540",
+    "addr:street":"Sehitleri Cad.;Zincirlikuyu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108665773,
-    "wof:lastmodified":1474068477,
+    "wof:lastmodified":1474070844,
     "wof:name":"Mosa Jenerator",
     "wof:parent_id":85929393,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108628695,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cemalpasa Mah. Toros Cad. Baris Apt. D Blok No:3 Maltepe Adana 01000",
+    "addr:housenumber":"baris;blok no 3",
+    "addr:postcode":"01000",
+    "addr:street":"Cemalpasa Mah. Toros Cad.;D;Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108628695,
-    "wof:lastmodified":1474066843,
+    "wof:lastmodified":1474070865,
     "wof:name":"T?r Turizm",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108587217,
   "type": "Feature",
   "properties": {
+    "addr:full":"Hasanpasa Uzuncayir Cad.no:31 B-1 Blok D:9 Kadikoy Istanbul 01370",
+    "addr:housenumber":"31 b-1;9",
+    "addr:postcode":"01370",
+    "addr:street":"Cad.No;Blok D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108587217,
-    "wof:lastmodified":1474065189,
+    "wof:lastmodified":1474070749,
     "wof:name":"Soler Sanayi Mumessillik Ve Tic.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

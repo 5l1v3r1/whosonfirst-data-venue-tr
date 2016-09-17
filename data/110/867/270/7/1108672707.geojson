@@ -2,6 +2,10 @@
   "id": 1108672707,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Yolu Uzeri Kestel Cikisi Kestel Besiktas Bursa 75200",
+    "addr:housenumber":"uzeri",
+    "addr:postcode":"75200",
+    "addr:street":"Ankara Yolu;Kestel",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108672707,
-    "wof:lastmodified":1474068743,
+    "wof:lastmodified":1474070652,
     "wof:name":"Akay Cicekcilik Ve Fidancilik",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

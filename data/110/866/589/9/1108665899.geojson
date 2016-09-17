@@ -2,6 +2,10 @@
   "id": 1108665899,
   "type": "Feature",
   "properties": {
+    "addr:full":"E-5 Karayolu ?zeri No:12 Kozyatagi Istanbul 81120",
+    "addr:housenumber":"12",
+    "addr:postcode":"81120",
+    "addr:street":"Karayolu;Zeri No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108665899,
-    "wof:lastmodified":1474068482,
+    "wof:lastmodified":1474070857,
     "wof:name":"Antre Ahsap Prefabrik Yapi Ltd.sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

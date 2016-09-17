@@ -2,6 +2,10 @@
   "id": 1108626241,
   "type": "Feature",
   "properties": {
+    "addr:full":"Lamartin Cad.no:28/1 Turegun Apt. Kat:2 D:3 Taksim Istanbul 24040",
+    "addr:housenumber":"28 / 1;2 d 3",
+    "addr:postcode":"24040",
+    "addr:street":"Turegun;Kat",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626241,
-    "wof:lastmodified":1474066709,
+    "wof:lastmodified":1474070795,
     "wof:name":"Corporate Travel",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108628639,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. No:125 Suna Apt.k:2-3 Elmadag Istanbul 65900",
+    "addr:housenumber":"125;2-3",
+    "addr:postcode":"65900",
+    "addr:street":"Cumhuriyet Cad. No;Suna Apt.K;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628639,
-    "wof:lastmodified":1474066841,
+    "wof:lastmodified":1474070864,
     "wof:name":"Tura Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

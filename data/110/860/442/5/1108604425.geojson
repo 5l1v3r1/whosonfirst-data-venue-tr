@@ -2,6 +2,10 @@
   "id": 1108604425,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yakacik Yolu Cifteselviler Ugur Cad. No:6 Kartal Istanbul 46000",
+    "addr:housenumber":"cifteselviler",
+    "addr:postcode":"46000",
+    "addr:street":"Yakacik Yolu;Ugur Cad. No 6 Kartal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108604425,
-    "wof:lastmodified":1474065815,
+    "wof:lastmodified":1474070733,
     "wof:name":"Capamarka Gida San.a.s",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

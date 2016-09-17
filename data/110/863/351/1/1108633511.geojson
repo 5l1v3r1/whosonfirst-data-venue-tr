@@ -2,6 +2,10 @@
   "id": 1108633511,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Yolu 20.km. Ankara Asfalti 20.km. 35171 Kemalpasa Izmir Esenler Ankara 01350",
+    "addr:housenumber":"20.km;20.km",
+    "addr:postcode":"35171;01350",
+    "addr:street":"Ankara Yolu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108633511,
-    "wof:lastmodified":1474067166,
+    "wof:lastmodified":1474070733,
     "wof:name":"Efe Endustri A.s.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

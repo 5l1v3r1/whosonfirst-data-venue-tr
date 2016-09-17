@@ -2,6 +2,10 @@
   "id": 1108613657,
   "type": "Feature",
   "properties": {
+    "addr:full":"Inonu Cad. No:129/37 Izmit/ Hasanpasa Kocaeli 15600",
+    "addr:housenumber":"129 / 37",
+    "addr:postcode":"15600",
+    "addr:street":"Inonu Cad. No;Izmit;Kocaeli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108613657,
-    "wof:lastmodified":1474066222,
+    "wof:lastmodified":1474070708,
     "wof:name":"Kardelen El Sanatlari",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

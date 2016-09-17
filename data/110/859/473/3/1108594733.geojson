@@ -2,6 +2,10 @@
   "id": 1108594733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1710 Sok. No:35 Karsiyaka Izmir 01900",
+    "addr:housenumber":"no 35",
+    "addr:postcode":"1710;01900",
+    "addr:street":"Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108594733,
-    "wof:lastmodified":1474065410,
+    "wof:lastmodified":1474070739,
     "wof:name":"Ezgin Peysaj",
     "wof:parent_id":85904075,
     "wof:placetype":"venue",

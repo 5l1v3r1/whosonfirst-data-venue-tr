@@ -2,6 +2,10 @@
   "id": 1108594355,
   "type": "Feature",
   "properties": {
+    "addr:full":"E-5 Karayolu Uzeri Meric Sok. No:1 Toyak Is Merkezi Kat:3/175 Sirinevler Bahcelievler Sahinbey Istanbul 27300",
+    "addr:housenumber":"no 1;kat 3 / 175",
+    "addr:postcode":"27300",
+    "addr:street":"Meric Sok.;Toyak;Sirinevler Bahcelievler",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108594355,
-    "wof:lastmodified":1474065397,
+    "wof:lastmodified":1474070746,
     "wof:name":"Gunes Lab.malz.tic.ltd.sti.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

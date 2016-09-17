@@ -2,6 +2,10 @@
   "id": 1108629005,
   "type": "Feature",
   "properties": {
+    "addr:full":"H?k?met Caddesi Yeni ?arsi Sokak Yeni Han No:7 K:3 D:19 Osmangazi Tekirdag 46050",
+    "addr:housenumber":"?;3 d 19",
+    "addr:postcode":"46050",
+    "addr:street":"Met Caddesi Yeni;Arsi Sokak;Han No 7 K;Osmangazi Tekirdag",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108629005,
-    "wof:lastmodified":1474066857,
+    "wof:lastmodified":1474070858,
     "wof:name":"?agri Turizm (tekirdag Sb)",
     "wof:parent_id":85934641,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108654221,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Cad. No:64 Yeldegirmeni Mevkii Gurpinar 34902 Buyukcekmece Istanbul Bayrampasa Istanbul 36100",
+    "addr:housenumber":"64",
+    "addr:postcode":"34902;36100",
+    "addr:street":"Istanbul Cad. No;Yeldegirmeni Mevkii Gurpinar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108654221,
-    "wof:lastmodified":1474068028,
+    "wof:lastmodified":1474070824,
     "wof:name":"Ozgur Metal Urunleri San Tic Ltd Sti",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

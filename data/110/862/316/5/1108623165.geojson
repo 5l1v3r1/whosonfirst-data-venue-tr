@@ -2,6 +2,10 @@
   "id": 1108623165,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ege Tic. Merk. 1203/1. Sk. No:27/a Yenisehir Izmir 31750",
+    "addr:housenumber":"1203 / 1;27 / a",
+    "addr:postcode":"31750",
+    "addr:street":"Merk.;Sk. No;Yenisehir Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108623165,
-    "wof:lastmodified":1474066595,
+    "wof:lastmodified":1474070764,
     "wof:name":"Promat Ltd. Sti.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

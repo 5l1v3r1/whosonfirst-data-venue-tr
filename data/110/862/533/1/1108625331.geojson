@@ -2,6 +2,10 @@
   "id": 1108625331,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istanbul Caddesi No:212 32200 Isparta Osmanbey Istanbul 63000",
+    "addr:housenumber":"no",
+    "addr:postcode":"32200;63000",
+    "addr:street":"Istanbul Caddesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108625331,
-    "wof:lastmodified":1474066671,
+    "wof:lastmodified":1474070788,
     "wof:name":"Kotex Konfeksiyon Ve Tekstil San As",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

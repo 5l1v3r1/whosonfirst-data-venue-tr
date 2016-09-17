@@ -2,6 +2,10 @@
   "id": 1108615565,
   "type": "Feature",
   "properties": {
+    "addr:full":"M.omeraga Mah. 2123.sok. No:17 Karamursel Kagithane Kocaeli 80340",
+    "addr:housenumber":"2123.sok no 17",
+    "addr:postcode":"80340",
+    "addr:street":"M.Omeraga Mah.;Karamursel Kagithane",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108615565,
-    "wof:lastmodified":1474066293,
+    "wof:lastmodified":1474070776,
     "wof:name":"Karamursel Mobilya",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

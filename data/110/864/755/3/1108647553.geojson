@@ -2,6 +2,10 @@
   "id": 1108647553,
   "type": "Feature",
   "properties": {
+    "addr:full":"Abdi Ipekci Cad. No:195 Yenidogan Mah. 34150 Bayrampasa Istanbul Kartal Istanbul 46000",
+    "addr:housenumber":"195 yenidogan mah.",
+    "addr:postcode":"34150;46000",
+    "addr:street":"Ipekci Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108647553,
-    "wof:lastmodified":1474067715,
+    "wof:lastmodified":1474070865,
     "wof:name":"Balkan Plastik San Tic As",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

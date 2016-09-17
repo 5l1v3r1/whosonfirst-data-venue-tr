@@ -2,6 +2,10 @@
   "id": 1108583353,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cad. No:256 /11 Goztepe \u00dcmraniye Istanbul 34776",
+    "addr:housenumber":"256 / 11",
+    "addr:postcode":"34776",
+    "addr:street":"Bagdat Cad. No;Goztepe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108583353,
-    "wof:lastmodified":1474065091,
+    "wof:lastmodified":1474070699,
     "wof:name":"Arena Metal",
     "wof:parent_id":85929463,
     "wof:placetype":"venue",

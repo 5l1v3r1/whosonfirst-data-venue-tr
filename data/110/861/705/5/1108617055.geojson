@@ -2,6 +2,10 @@
   "id": 1108617055,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bayindir Mh. 325 Sk. No:8 \u00dcmraniye Antalya 81260",
+    "addr:housenumber":"325",
+    "addr:postcode":"81260",
+    "addr:street":"Bayindir Mh.;Sk. No 8",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108617055,
-    "wof:lastmodified":1474066346,
+    "wof:lastmodified":1474070828,
     "wof:name":"Ozel Antalya Hastanesi",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",

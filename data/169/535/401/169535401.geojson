@@ -2,6 +2,10 @@
   "id": 169535401,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istasyon Cad 16/1-2 Istanbul 34800",
+    "addr:housenumber":"16 / 1-2",
+    "addr:postcode":"34800",
+    "addr:street":"Istasyon Cad;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":169535401,
-    "wof:lastmodified":1466313419,
+    "wof:lastmodified":1474070673,
     "wof:name":"Finansbank As",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

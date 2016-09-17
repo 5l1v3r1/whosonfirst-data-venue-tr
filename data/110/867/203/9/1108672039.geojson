@@ -2,6 +2,10 @@
   "id": 1108672039,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ayse Cavus Cad.aydin Sok. No: 9 Servi Apt.suadiye Ikitelli Istanbul 34306",
+    "addr:housenumber":"no 9",
+    "addr:postcode":"34306",
+    "addr:street":"Cad.Aydin Sok.;Servi Apt.Suadiye Ikitelli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108672039,
-    "wof:lastmodified":1474068719,
+    "wof:lastmodified":1474070663,
     "wof:name":"Medi-care Ambulans",
     "wof:parent_id":85929961,
     "wof:placetype":"venue",

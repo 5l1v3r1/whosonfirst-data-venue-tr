@@ -2,6 +2,10 @@
   "id": 1108626243,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ertugrul Mahallesi Barbaros Bulvari No:131 D:3 Besiktas Istanbul 75200",
+    "addr:housenumber":"bulvari no 131 d 3",
+    "addr:postcode":"75200",
+    "addr:street":"Ertugrul Mahallesi Barbaros",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626243,
-    "wof:lastmodified":1474066709,
+    "wof:lastmodified":1474070801,
     "wof:name":"Cosmopolis Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

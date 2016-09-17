@@ -2,6 +2,10 @@
   "id": 1108610093,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ataturk Bulvari Ibrahim Gunay Ap 49/c Maltepe Adana 01000",
+    "addr:housenumber":"49 / c",
+    "addr:postcode":"01000",
+    "addr:street":"Ataturk Bulvari Ibrahim Gunay Ap;Maltepe Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108610093,
-    "wof:lastmodified":1474066080,
+    "wof:lastmodified":1474070661,
     "wof:name":"Fuser Ltd",
     "wof:parent_id":85929983,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108647409,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari No:133-9 Ko?apt. K:5 Balmumcu Istanbul 34349",
+    "addr:housenumber":"no 133-9;?;5",
+    "addr:postcode":"34349",
+    "addr:street":"Barbaros Bulvari;Ko;K",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108647409,
-    "wof:lastmodified":1474067709,
+    "wof:lastmodified":1474070862,
     "wof:name":"Ihlamur Gida Ltd.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

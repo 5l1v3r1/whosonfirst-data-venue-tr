@@ -2,6 +2,10 @@
   "id": 1108676969,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi Sitesi 14.sok. No:5 Merkez Elazig 53100",
+    "addr:housenumber":"14.sok no 5",
+    "addr:postcode":"53100",
+    "addr:street":"Sanayi Sitesi;Merkez Elazig",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108676969,
-    "wof:lastmodified":1474068924,
+    "wof:lastmodified":1474070770,
     "wof:name":"Polat Ltd.sti.",
     "wof:parent_id":85929941,
     "wof:placetype":"venue",

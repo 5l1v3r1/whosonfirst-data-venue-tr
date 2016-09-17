@@ -2,6 +2,10 @@
   "id": 1108616921,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mustafa Kemal Pasa Mahallesi Esenyurt Yolu - Avcilar Osmangazi Istanbul 16220",
+    "addr:housenumber":"avcilar",
+    "addr:postcode":"16220",
+    "addr:street":"Mustafa Kemal Pasa Mahallesi;Yolu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1108616921,
-    "wof:lastmodified":1474066341,
+    "wof:lastmodified":1474070819,
     "wof:name":"Anadolu Hastanesi",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

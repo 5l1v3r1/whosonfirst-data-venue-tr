@@ -2,6 +2,10 @@
   "id": 1108595937,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 Mayis Mah.ononu Cad.no:5/3 B.cekmece Zeytinburnu Istanbul 34020",
+    "addr:housenumber":"19;5 / 3",
+    "addr:postcode":"34020",
+    "addr:street":"Mayis Mah.Ononu Cad.No;B.Cekmece Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108595937,
-    "wof:lastmodified":1474065464,
+    "wof:lastmodified":1474070764,
     "wof:name":"Aybotanik Export Import",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

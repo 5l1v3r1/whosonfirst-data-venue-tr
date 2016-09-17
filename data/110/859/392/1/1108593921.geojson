@@ -2,6 +2,10 @@
   "id": 1108593921,
   "type": "Feature",
   "properties": {
+    "addr:full":"Eski Londra Asfalti No:39/5 Sirinevler 1.levent Istanbul 34340",
+    "addr:housenumber":"39 / 5;1.levent",
+    "addr:postcode":"34340",
+    "addr:street":"Eski Londra Asfalti No;Sirinevler",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108593921,
-    "wof:lastmodified":1474065381,
+    "wof:lastmodified":1474070743,
     "wof:name":"Biotest Ltd. Sti.",
     "wof:parent_id":85929771,
     "wof:placetype":"venue",

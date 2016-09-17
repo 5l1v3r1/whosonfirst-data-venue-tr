@@ -2,6 +2,10 @@
   "id": 1108628301,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinanpasa Mah. Hasfirin Cad. No:65 Vidin Ishani B?ro No:36 Besiktas Istanbul 75200",
+    "addr:housenumber":"65;36",
+    "addr:postcode":"75200",
+    "addr:street":"Sinanpasa Mah. Hasfirin Cad. No;Ro No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628301,
-    "wof:lastmodified":1474066803,
+    "wof:lastmodified":1474070856,
     "wof:name":"Snoopy Travel",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

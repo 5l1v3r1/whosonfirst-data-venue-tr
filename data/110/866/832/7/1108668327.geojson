@@ -2,6 +2,10 @@
   "id": 1108668327,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bul. 74/4 Besiktas Maltepe Istanbul 01000",
+    "addr:housenumber":"74 / 4",
+    "addr:postcode":"01000",
+    "addr:street":"Bul.;Besiktas Maltepe Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1108668327,
-    "wof:lastmodified":1474068581,
+    "wof:lastmodified":1474070856,
     "wof:name":"Pan Yayincilik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

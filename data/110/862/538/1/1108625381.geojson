@@ -2,6 +2,10 @@
   "id": 1108625381,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Sok.no:13/a Camdibi Izmir 24300",
+    "addr:housenumber":"607;13 / a",
+    "addr:postcode":"24300",
+    "addr:street":"Sok.No;Camdibi Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108625381,
-    "wof:lastmodified":1474066678,
+    "wof:lastmodified":1474070804,
     "wof:name":"Temiz-is Ltd.sti",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

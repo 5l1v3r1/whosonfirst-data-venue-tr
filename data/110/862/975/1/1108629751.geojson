@@ -2,6 +2,10 @@
   "id": 1108629751,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cihannuma Mah. Seremcebey Yokusu Firat Ishani Kat:3 D:24 Besiktas Besiktas Istanbul 80700",
+    "addr:housenumber":"kat 3 d 24",
+    "addr:postcode":"80700",
+    "addr:street":"Cihannuma Mah. Seremcebey Yokusu Firat Ishani;Besiktas Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108629751,
-    "wof:lastmodified":1474066898,
+    "wof:lastmodified":1474070865,
     "wof:name":"Guncel Tercume Burosu Dil Ve Danismanlik Hizmetleri",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

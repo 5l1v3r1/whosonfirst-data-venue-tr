@@ -2,6 +2,10 @@
   "id": 1108679599,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mehmet Ali Bey Sok.kumcuoglu Apt.no:10/1 Besiktas Istanbul 75200",
+    "addr:housenumber":"10 / 1",
+    "addr:postcode":"75200",
+    "addr:street":"Mehmet;Apt.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":1108679599,
-    "wof:lastmodified":1474069027,
+    "wof:lastmodified":1474070834,
     "wof:name":"Bali House",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

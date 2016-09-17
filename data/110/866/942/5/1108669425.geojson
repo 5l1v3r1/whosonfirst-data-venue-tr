@@ -2,6 +2,10 @@
   "id": 1108669425,
   "type": "Feature",
   "properties": {
+    "addr:full":"San 1 4. B?ge 7. Cad. No: 42 Cakmakli Mevkii 34500 B??cekmece Istanbul Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Istanbul 34670",
+    "addr:housenumber":"1 4 b ?;7;42;b ? ?",
+    "addr:postcode":"34500;34670",
+    "addr:street":"San;Ge;Cad. No;Cakmakli Mevkii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108669425,
-    "wof:lastmodified":1474068624,
+    "wof:lastmodified":1474070863,
     "wof:name":"?zis Tekstil L Turizim San Ve Tic As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 169562515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Abidei Hurriyet Cad. No:111 Dilek Apt. D:2 Sisli 07100 Istanbul",
+    "addr:housenumber":"111;2",
+    "addr:postcode":"07100",
+    "addr:street":"Hurriyet Cad. No;D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":169562515,
-    "wof:lastmodified":1466313262,
+    "wof:lastmodified":1474070661,
     "wof:name":"Tem-pak Temizlik Ltd.sti.",
     "wof:parent_id":85929403,
     "wof:placetype":"venue",

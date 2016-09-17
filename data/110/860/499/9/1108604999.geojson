@@ -2,6 +2,10 @@
   "id": 1108604999,
   "type": "Feature",
   "properties": {
+    "addr:full":"Telsiz Mah. 85/2 .sok.no:2 Kat:3 Zeytinburnu Istanbul 41000",
+    "addr:housenumber":"85 / 2;2 kat 3",
+    "addr:postcode":"41000",
+    "addr:street":"Telsiz Mah.;Sok.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108604999,
-    "wof:lastmodified":1474065845,
+    "wof:lastmodified":1474070753,
     "wof:name":"Azelyam A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

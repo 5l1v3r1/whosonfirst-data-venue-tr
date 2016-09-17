@@ -2,6 +2,10 @@
   "id": 1108660211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Gumussuyu Cad. Litros 2.matbacilar Sitesi 4 Nf 8.kat. No. 6 Topkapi Seyhan Istanbul 01000",
+    "addr:housenumber":"2.matbacilar;4;8.kat no. 6",
+    "addr:postcode":"01000",
+    "addr:street":"Gumussuyu Cad. Litros;Sitesi;Nf",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108660211,
-    "wof:lastmodified":1474068262,
+    "wof:lastmodified":1474070667,
     "wof:name":"Fer Matbaa Ve Reklam Tesisleri",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

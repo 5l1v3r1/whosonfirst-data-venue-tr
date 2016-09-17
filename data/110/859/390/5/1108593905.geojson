@@ -2,6 +2,10 @@
   "id": 1108593905,
   "type": "Feature",
   "properties": {
+    "addr:full":"Golden Plaza 19 Mayis Cad. No:1 Sisli 1.levent Istanbul 34340",
+    "addr:housenumber":"19;1.levent",
+    "addr:postcode":"34340",
+    "addr:street":"Mayis Cad. No 1 Sisli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108593905,
-    "wof:lastmodified":1474065381,
+    "wof:lastmodified":1474070743,
     "wof:name":"Bayer Diagnostics",
     "wof:parent_id":85929441,
     "wof:placetype":"venue",

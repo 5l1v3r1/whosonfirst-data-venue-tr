@@ -2,6 +2,10 @@
   "id": 1108628625,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Cad. No: 261/4 Ata Apt. Harbiye Istanbul 31080",
+    "addr:housenumber":"261 / 4",
+    "addr:postcode":"31080",
+    "addr:street":"Cumhuriyet Cad. No;Ata;Harbiye",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628625,
-    "wof:lastmodified":1474066840,
+    "wof:lastmodified":1474070869,
     "wof:name":"Tur D?nyasi",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

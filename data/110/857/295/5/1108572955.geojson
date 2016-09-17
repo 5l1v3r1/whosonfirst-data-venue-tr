@@ -2,6 +2,10 @@
   "id": 1108572955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1834/2 Sk. 8/5 Karsiyaka 4640 Izmir",
+    "addr:housenumber":"1834 / 2;8 / 5",
+    "addr:postcode":"4640",
+    "addr:street":"Sk.;Karsiyaka",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108572955,
-    "wof:lastmodified":1474064578,
+    "wof:lastmodified":1474070682,
     "wof:name":"Dogan Aktas",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",

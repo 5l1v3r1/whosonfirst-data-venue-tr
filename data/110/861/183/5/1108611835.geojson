@@ -2,6 +2,10 @@
   "id": 1108611835,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 Sok. No:22/b Bornova Izmir 35040",
+    "addr:housenumber":"no 22 / b",
+    "addr:postcode":"35040",
+    "addr:street":"213 Sok.;Bornova Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108611835,
-    "wof:lastmodified":1474066154,
+    "wof:lastmodified":1474070701,
     "wof:name":"Performans Food Instudy Ltd.",
     "wof:parent_id":85929657,
     "wof:placetype":"venue",

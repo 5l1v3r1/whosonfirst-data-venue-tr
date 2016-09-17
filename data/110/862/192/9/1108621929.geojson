@@ -2,6 +2,10 @@
   "id": 1108621929,
   "type": "Feature",
   "properties": {
+    "addr:full":"Selamsiz Cad. Kapalicarsi No:30 D:275-299 Uskudar Kosuyolu Istanbul 81020",
+    "addr:housenumber":"kapalicarsi",
+    "addr:postcode":"275-299;81020",
+    "addr:street":"Selamsiz Cad.;No 30 D;Uskudar",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108621929,
-    "wof:lastmodified":1474066552,
+    "wof:lastmodified":1474070747,
     "wof:name":"Dogal Urunler Merkezi San. Ve Tic.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

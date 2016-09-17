@@ -2,6 +2,10 @@
   "id": 1108599877,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sanayi ?arsisi 33 Sk.no:12 Karsiyaka Adana 01900",
+    "addr:housenumber":"?;33;12",
+    "addr:postcode":"01900",
+    "addr:street":"Sanayi;Arsisi;Karsiyaka Adana",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108599877,
-    "wof:lastmodified":1474065628,
+    "wof:lastmodified":1474070839,
     "wof:name":"Dogan Makina Ve Trakt? Yedek Par?",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

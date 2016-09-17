@@ -2,6 +2,10 @@
   "id": 1108677253,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Mah.33 Nolu Cad.no:98 Sahinbey Sapanca Gaziantep 54600",
+    "addr:housenumber":"nolu;98",
+    "addr:postcode":"54600",
+    "addr:street":"Istiklal;Cad.No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108677253,
-    "wof:lastmodified":1474068934,
+    "wof:lastmodified":1474070769,
     "wof:name":"Yildiz Ahsap",
     "wof:parent_id":85934731,
     "wof:placetype":"venue",

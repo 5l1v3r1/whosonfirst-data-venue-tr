@@ -2,6 +2,10 @@
   "id": 1108577257,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nuro Osmaniye Cad. Erkutan No. 106 Kat 1 34880 Cakal Oglu Istanbul Besiktas Istanbul 75200",
+    "addr:housenumber":"kat 1",
+    "addr:postcode":"34880;75200",
+    "addr:street":"Cad.;No.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108577257,
-    "wof:lastmodified":1474064786,
+    "wof:lastmodified":1474070771,
     "wof:name":"Seyrekoglu Kuyumculuk San. Tic. As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

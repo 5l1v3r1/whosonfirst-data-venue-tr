@@ -2,6 +2,10 @@
   "id": 1108620087,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cemal Yener Tosyali Cad. No:42 Unkapani Istanbul 55020",
+    "addr:housenumber":"42",
+    "addr:postcode":"55020",
+    "addr:street":"Cemal;Tosyali Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -40,7 +44,7 @@
         }
     ],
     "wof:id":1108620087,
-    "wof:lastmodified":1474066472,
+    "wof:lastmodified":1474070642,
     "wof:name":"Nurteks Hali San. A.s.",
     "wof:parent_id":85906509,
     "wof:placetype":"venue",

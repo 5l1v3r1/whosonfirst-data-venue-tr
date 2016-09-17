@@ -2,6 +2,10 @@
   "id": 1108626163,
   "type": "Feature",
   "properties": {
+    "addr:full":"Marmara Caddesi Yusuf ?avus Ismerkezi No:29 K:2/43 Avcilar Istanbul 01350",
+    "addr:housenumber":"?;2 / 43",
+    "addr:postcode":"01350",
+    "addr:street":"Marmara Caddesi Yusuf;No 29 K;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626163,
-    "wof:lastmodified":1474066706,
+    "wof:lastmodified":1474070801,
     "wof:name":"Cansu Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

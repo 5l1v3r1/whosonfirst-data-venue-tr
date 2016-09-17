@@ -2,6 +2,10 @@
   "id": 1108667759,
   "type": "Feature",
   "properties": {
+    "addr:full":"1203/6 Sok. No:227/231 Buyukcarsi Ege Ticaret Merkz. Yenisehir Zeytinburnu Izmir 34740",
+    "addr:housenumber":"1203 / 6;no;/ 231;ticaret",
+    "addr:postcode":"34740",
+    "addr:street":"Sok.;Buyukcarsi Ege;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108667759,
-    "wof:lastmodified":1474068551,
+    "wof:lastmodified":1474070850,
     "wof:name":"Zeki Ozkaner Klise-ofset",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

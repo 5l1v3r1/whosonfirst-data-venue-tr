@@ -2,6 +2,10 @@
   "id": 169604383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Telsiz Mh. 101. Sk. No:20 Zeytinburnu 07230 Istanbul",
+    "addr:housenumber":"5;101;20",
+    "addr:postcode":"07230",
+    "addr:street":"Telsiz Mh.;Sk. No;Zeytinburnu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169604383,
-    "wof:lastmodified":1466313352,
+    "wof:lastmodified":1474070635,
     "wof:name":"Dogan Safak Giyim San. Tic. Ltd. Sti.",
     "wof:parent_id":85906451,
     "wof:placetype":"venue",

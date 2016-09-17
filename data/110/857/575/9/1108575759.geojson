@@ -2,6 +2,10 @@
   "id": 1108575759,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cumhuriyet Bulvari No:286 Kat.3 D.6 35220 Alsancak Izmir 01365",
+    "addr:housenumber":"no 286;d.6",
+    "addr:postcode":"kat.3;35220;01365",
+    "addr:street":"Cumhuriyet Bulvari",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108575759,
-    "wof:lastmodified":1474064691,
+    "wof:lastmodified":1474070739,
     "wof:name":"Solaris Turizm Ve Ticaret A.s .",
     "wof:parent_id":85904135,
     "wof:placetype":"venue",

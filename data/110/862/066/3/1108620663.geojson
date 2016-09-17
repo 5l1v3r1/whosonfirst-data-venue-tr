@@ -2,6 +2,10 @@
   "id": 1108620663,
   "type": "Feature",
   "properties": {
+    "addr:full":"H?riyet Cad. No:53 Yenibosna Istanbul 43270",
+    "addr:housenumber":"53",
+    "addr:postcode":"43270",
+    "addr:street":"Riyet Cad. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108620663,
-    "wof:lastmodified":1474066498,
+    "wof:lastmodified":1474070682,
     "wof:name":"Savas Sirketler Grubu",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

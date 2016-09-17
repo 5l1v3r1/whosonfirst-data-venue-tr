@@ -2,6 +2,10 @@
   "id": 1108610799,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi A8 Blok 104 Sok. No:12-14-16 Dudullu Istanbul",
+    "addr:housenumber":"a8 blok;no",
+    "addr:postcode":"12-14-16",
+    "addr:street":"Des Sanayi Sitesi;104 Sok.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1108610799,
-    "wof:lastmodified":1474066116,
+    "wof:lastmodified":1474070691,
     "wof:name":"Karaca Grup",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 169579279,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Caddesi Gurle Building Floor 4. No 141 Gemlik Bursa 16600",
+    "addr:housenumber":"gurle;floor;141",
+    "addr:postcode":"16600",
+    "addr:street":"Istiklal Caddesi;4 No;Bursa",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169579279,
-    "wof:lastmodified":1466313300,
+    "wof:lastmodified":1474070642,
     "wof:name":"Ural Tasimacilik Ticaret Ltd.",
     "wof:parent_id":85929923,
     "wof:placetype":"venue",

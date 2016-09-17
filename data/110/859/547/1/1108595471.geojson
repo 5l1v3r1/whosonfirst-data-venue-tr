@@ -2,6 +2,10 @@
   "id": 1108595471,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cebeci Cad. No:77/5 Kucukkoy 34080 G.o.p. Istanbul Emin\u00f6n\u00fc/Ca\u011falo\u011flu Istanbul 34245",
+    "addr:housenumber":"77 / 5",
+    "addr:postcode":"34080;34245",
+    "addr:street":"Cebeci Cad. No;Kucukkoy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108595471,
-    "wof:lastmodified":1474065438,
+    "wof:lastmodified":1474070749,
     "wof:name":"Serplast Ortopedik Ic Tabanlik",
     "wof:parent_id":85930271,
     "wof:placetype":"venue",

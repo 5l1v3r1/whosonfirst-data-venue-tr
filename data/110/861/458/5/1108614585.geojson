@@ -2,6 +2,10 @@
   "id": 1108614585,
   "type": "Feature",
   "properties": {
+    "addr:full":"42/a Sk. No:22 Ostim Bornova Ankara 35040",
+    "addr:housenumber":"42 / a;22",
+    "addr:postcode":"35040",
+    "addr:street":"Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108614585,
-    "wof:lastmodified":1474066256,
+    "wof:lastmodified":1474070777,
     "wof:name":"Hid-mak-san.",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

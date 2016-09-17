@@ -2,6 +2,10 @@
   "id": 1108598079,
   "type": "Feature",
   "properties": {
+    "addr:full":"Girne Bulvari 1735 Sok. No:106 A Karsiyaka Izmir 01900",
+    "addr:housenumber":"no 106 a",
+    "addr:postcode":"1735;01900",
+    "addr:street":"Bulvari;Sok.;Karsiyaka Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108598079,
-    "wof:lastmodified":1474065551,
+    "wof:lastmodified":1474070819,
     "wof:name":"Ozcan Asansorleri San Ve Tic Ltd Sti",
     "wof:parent_id":85904071,
     "wof:placetype":"venue",

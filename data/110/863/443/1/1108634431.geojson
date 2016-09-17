@@ -2,6 +2,10 @@
   "id": 1108634431,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mehmet Akif Mah. Baris Sok. No:41 Ikitelli Melikgazi Istanbul 38000",
+    "addr:housenumber":"no 41",
+    "addr:postcode":"38000",
+    "addr:street":"Mehmet Akif Mah. Baris Sok.;Ikitelli Melikgazi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108634431,
-    "wof:lastmodified":1474067203,
+    "wof:lastmodified":1474070771,
     "wof:name":"Form Akustik Ltd.sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

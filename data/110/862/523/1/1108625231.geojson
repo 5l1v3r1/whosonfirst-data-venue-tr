@@ -2,6 +2,10 @@
   "id": 1108625231,
   "type": "Feature",
   "properties": {
+    "addr:full":"Osmanbey, Samanyolu Sk. No:98 Belde Han K:1 No:12-13 Sisli Istanbul 65710",
+    "addr:housenumber":"98;1 no 12-13",
+    "addr:postcode":"65710",
+    "addr:street":"Samanyolu Sk. No;Sisli Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108625231,
-    "wof:lastmodified":1474066668,
+    "wof:lastmodified":1474070786,
     "wof:name":"Pem Teks. Konf. Aks.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

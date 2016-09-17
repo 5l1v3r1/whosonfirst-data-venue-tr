@@ -2,6 +2,10 @@
   "id": 1108636717,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fethiye Cad. Karagoz Ishani No:70 Izmit Kocaeli 41000",
+    "addr:housenumber":"karagoz;70",
+    "addr:postcode":"41000",
+    "addr:street":"Fethiye Cad.;Ishani No;Kocaeli",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1108636717,
-    "wof:lastmodified":1474067290,
+    "wof:lastmodified":1474070804,
     "wof:name":"Batgun Ic Mimarlik",
     "wof:parent_id":85934721,
     "wof:placetype":"venue",

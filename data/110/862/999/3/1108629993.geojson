@@ -2,6 +2,10 @@
   "id": 1108629993,
   "type": "Feature",
   "properties": {
+    "addr:full":"Nispetiye Caddesi No: 15/b Seyran Apt. Etiler 80630 Istanbu",
+    "addr:housenumber":"no 15 / b",
+    "addr:postcode":"80630",
+    "addr:street":"Nispetiye Caddesi;Seyran;Etiler",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108629993,
-    "wof:lastmodified":1474066916,
+    "wof:lastmodified":1474070859,
     "wof:name":"Koptur Tourism",
     "wof:parent_id":85929391,
     "wof:placetype":"venue",

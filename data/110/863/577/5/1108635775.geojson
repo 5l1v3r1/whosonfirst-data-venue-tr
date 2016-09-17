@@ -2,6 +2,10 @@
   "id": 1108635775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Eylul Cad. Ticaret Sarayi Kat:3 No:90-94 Mersin Eskisehir 52750",
+    "addr:housenumber":"2;kat 3 no 90-94",
+    "addr:postcode":"52750",
+    "addr:street":"Eylul Cad. Ticaret",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108635775,
-    "wof:lastmodified":1474067255,
+    "wof:lastmodified":1474070786,
     "wof:name":"Atlantis Bilisim A.s.",
     "wof:parent_id":85934771,
     "wof:placetype":"venue",

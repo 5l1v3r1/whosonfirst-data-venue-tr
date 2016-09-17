@@ -2,6 +2,10 @@
   "id": 1108610845,
   "type": "Feature",
   "properties": {
+    "addr:full":"Des Sanayi Sitesi Bugulu 110 Sk. D-27 Blok No:7 Dudullu \u00dcmraniye Istanbul 34776",
+    "addr:housenumber":"110;blok no 7",
+    "addr:postcode":"34776",
+    "addr:street":"Des Sanayi Sitesi Bugulu;Sk. D-27;Dudullu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108610845,
-    "wof:lastmodified":1474066117,
+    "wof:lastmodified":1474070696,
     "wof:name":"Star Elektrik Pano San. Ve Tic . Ltd. Sti.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

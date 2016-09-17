@@ -2,6 +2,10 @@
   "id": 1108628593,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari No:41-a Blok D:10 Besiktas Istanbul 75200",
+    "addr:housenumber":"41-a;10",
+    "addr:postcode":"75200",
+    "addr:street":"Barbaros Bulvari No;Blok D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628593,
-    "wof:lastmodified":1474066839,
+    "wof:lastmodified":1474070864,
     "wof:name":"Trek Turizm (besiktas Sb)",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

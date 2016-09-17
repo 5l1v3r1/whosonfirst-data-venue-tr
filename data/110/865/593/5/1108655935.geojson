@@ -2,6 +2,10 @@
   "id": 1108655935,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bulgurlu Cad. No:60 81190 Kucukcamlica Istanbul Sariyer Istanbul 33740",
+    "addr:housenumber":"60",
+    "addr:postcode":"81190;33740",
+    "addr:street":"Bulgurlu Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108655935,
-    "wof:lastmodified":1474068095,
+    "wof:lastmodified":1474070822,
     "wof:name":"Palmet Metal Endustri Ve Tic As",
     "wof:parent_id":85930093,
     "wof:placetype":"venue",

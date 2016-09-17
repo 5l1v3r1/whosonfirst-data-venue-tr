@@ -2,6 +2,10 @@
   "id": 1108669371,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mersin Yolu Uzeri Sakirpasa Mevkii 01190 Adana Ikitelli/K\u00fc\u00e7\u00fck\u00e7ekmece Adana 34670",
+    "addr:housenumber":"uzeri",
+    "addr:postcode":"01190;34670",
+    "addr:street":"Mersin Yolu;Sakirpasa Mevkii",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108669371,
-    "wof:lastmodified":1474068622,
+    "wof:lastmodified":1474070863,
     "wof:name":"Ozbucak San Ve Tic As",
     "wof:parent_id":85929841,
     "wof:placetype":"venue",

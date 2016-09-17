@@ -2,6 +2,10 @@
   "id": 1108635499,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yapi Kredi Plaza C.blok Kat:8 P.k Ishani Kat:6 D:26 4.levent Besiktas Istanbul 34350",
+    "addr:housenumber":"kat 8;kat 6 d 26 4.levent",
+    "addr:postcode":"34350",
+    "addr:street":"C.Blok;P.K Ishani",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108635499,
-    "wof:lastmodified":1474067246,
+    "wof:lastmodified":1474070780,
     "wof:name":"Troyka Insaat Ve Tic.a.s.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

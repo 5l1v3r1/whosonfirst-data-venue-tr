@@ -2,6 +2,10 @@
   "id": 1108647541,
   "type": "Feature",
   "properties": {
+    "addr:full":"Ankara Asfalti 25.km. 35177 Kemal Pasa Izmir Kartal Ankara 46000",
+    "addr:housenumber":"25.km",
+    "addr:postcode":"35177;46000",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1108647541,
-    "wof:lastmodified":1474067714,
+    "wof:lastmodified":1474070866,
     "wof:name":"Akzo Nobel Kemipol Kimya San Ve Tic As",
     "wof:parent_id":85929573,
     "wof:placetype":"venue",

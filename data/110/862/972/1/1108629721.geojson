@@ -2,6 +2,10 @@
   "id": 1108629721,
   "type": "Feature",
   "properties": {
+    "addr:full":"Elalmis Cad. Berrak Sit. Defne Apt. D 27 Sisli Istanbul 34387",
+    "addr:housenumber":"berrak;27",
+    "addr:postcode":"34387",
+    "addr:street":"Elalmis Cad.;Sisli Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108629721,
-    "wof:lastmodified":1474066897,
+    "wof:lastmodified":1474070865,
     "wof:name":"Bsg Terc?anlik",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

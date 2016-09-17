@@ -2,6 +2,10 @@
   "id": 1108590835,
   "type": "Feature",
   "properties": {
+    "addr:full":"Veliefendi, 75/1 Sk. No:78 Z.burnu Kad\u0131k\u00f6y Istanbul 34990",
+    "addr:housenumber":"75 / 1;78",
+    "addr:postcode":"34990",
+    "addr:street":"Veliefendi;Sk. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108590835,
-    "wof:lastmodified":1474065269,
+    "wof:lastmodified":1474070688,
     "wof:name":"Karemtas Tic.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

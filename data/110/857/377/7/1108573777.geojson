@@ -2,6 +2,10 @@
   "id": 1108573777,
   "type": "Feature",
   "properties": {
+    "addr:full":"Sinan Cad. No:94 Dikmen Ankara 07630",
+    "addr:housenumber":"94",
+    "addr:postcode":"07630",
+    "addr:street":"Sinan Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108573777,
-    "wof:lastmodified":1474064615,
+    "wof:lastmodified":1474070729,
     "wof:name":"House Of Art",
     "wof:parent_id":85929559,
     "wof:placetype":"venue",

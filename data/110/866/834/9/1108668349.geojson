@@ -2,6 +2,10 @@
   "id": 1108668349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bulgurlu Mah. Cesme Sok. No:2/b Uskudar Maltepe Istanbul 01000",
+    "addr:housenumber":"no 2 / b",
+    "addr:postcode":"01000",
+    "addr:street":"Bulgurlu Mah. Cesme Sok.;Uskudar Maltepe Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108668349,
-    "wof:lastmodified":1474068582,
+    "wof:lastmodified":1474070850,
     "wof:name":"Rida Ofset",
     "wof:parent_id":85930093,
     "wof:placetype":"venue",

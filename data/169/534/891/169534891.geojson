@@ -2,6 +2,10 @@
   "id": 169534891,
   "type": "Feature",
   "properties": {
+    "addr:full":"Tunus Caddesi 33 Kirsehir Ankara 40000",
+    "addr:housenumber":"33",
+    "addr:postcode":"40000",
+    "addr:street":"Tunus Caddesi",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":169534891,
-    "wof:lastmodified":1466313417,
+    "wof:lastmodified":1474070683,
     "wof:name":"Etibank Bao",
     "wof:parent_id":85904129,
     "wof:placetype":"venue",

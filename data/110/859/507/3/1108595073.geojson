@@ -2,6 +2,10 @@
   "id": 1108595073,
   "type": "Feature",
   "properties": {
+    "addr:full":"Barbaros Bulvari Yildiz Ishani No:7/2 Besiktas Gayrettepe Istanbul 34349",
+    "addr:housenumber":"yildiz;2",
+    "addr:postcode":"34349",
+    "addr:street":"Barbaros Bulvari;Ishani No 7 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108595073,
-    "wof:lastmodified":1474065423,
+    "wof:lastmodified":1474070749,
     "wof:name":"Istanbul Lisan Merkezi",
     "wof:parent_id":85904169,
     "wof:placetype":"venue",

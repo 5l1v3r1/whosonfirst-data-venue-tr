@@ -2,6 +2,10 @@
   "id": 1108598423,
   "type": "Feature",
   "properties": {
+    "addr:full":"Dr.esat Isik Cad. Esen Apt. 98/1 Kadikoy Besiktas Istanbul 75200",
+    "addr:housenumber":"98 / 1",
+    "addr:postcode":"75200",
+    "addr:street":"Isik Cad. Esen Apt.;Kadikoy Besiktas",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108598423,
-    "wof:lastmodified":1474065563,
+    "wof:lastmodified":1474070813,
     "wof:name":"Eksone Ses Isik Sistemleri",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

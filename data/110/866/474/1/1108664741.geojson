@@ -2,6 +2,10 @@
   "id": 1108664741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202/1 Sokak 23/p Yenisehir Beyoglu Izmir 34000",
+    "addr:housenumber":"1202 /;23 / p",
+    "addr:postcode":"34000",
+    "addr:street":"1 Sokak;Yenisehir Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1108664741,
-    "wof:lastmodified":1474068433,
+    "wof:lastmodified":1474070844,
     "wof:name":"Kordon Havuzculuk Insaat Sanayi",
     "wof:parent_id":85929637,
     "wof:placetype":"venue",

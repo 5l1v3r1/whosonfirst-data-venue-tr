@@ -2,6 +2,10 @@
   "id": 1108626663,
   "type": "Feature",
   "properties": {
+    "addr:full":"Siracevizler Cad. No: 60/a 8260 Sisli Istanbul 65710",
+    "addr:housenumber":"60 / a",
+    "addr:postcode":"8260;65710",
+    "addr:street":"Siracevizler Cad. No",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108626663,
-    "wof:lastmodified":1474066724,
+    "wof:lastmodified":1474070802,
     "wof:name":"Fiorino Turizm",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

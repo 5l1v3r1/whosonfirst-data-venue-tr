@@ -2,6 +2,10 @@
   "id": 1108601833,
   "type": "Feature",
   "properties": {
+    "addr:full":"Fulya Mah. Narcicegi Sok. Eren Apt. No:6 D: 1 M.koy (212) 274 98 46-47 Fax: 213 83 68 Sirinyer Istanbul 35380",
+    "addr:housenumber":"1;212",
+    "addr:postcode":"274 98 46-47;213 83 68;35380",
+    "addr:street":"Mah. Narcicegi Sok. Eren Apt. No 6 D;Fax",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108601833,
-    "wof:lastmodified":1474065711,
+    "wof:lastmodified":1474070710,
     "wof:name":"Butik Seramik San.tic.a.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

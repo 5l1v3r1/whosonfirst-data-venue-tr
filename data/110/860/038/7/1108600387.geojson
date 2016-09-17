@@ -2,6 +2,10 @@
   "id": 1108600387,
   "type": "Feature",
   "properties": {
+    "addr:full":"M.fevzi Cakmak Cad. Fevzi Cakmak Sok. Denizpark Apt. No:14/2 Maltepe Istanbul 01000",
+    "addr:housenumber":"14 / 2",
+    "addr:postcode":"01000",
+    "addr:street":"Cakmak Cad. Fevzi Cakmak Sok. Denizpark Apt. No;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108600387,
-    "wof:lastmodified":1474065652,
+    "wof:lastmodified":1474070679,
     "wof:name":"Alacam A.s.",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 1108618761,
   "type": "Feature",
   "properties": {
+    "addr:full":"?mer Avni Mah. Besaret Sok. No:14 Ayaspasa Istanbul 80040",
+    "addr:housenumber":"?;no 14",
+    "addr:postcode":"80040",
+    "addr:street":"Mer Avni;Besaret Sok.;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108618761,
-    "wof:lastmodified":1474066419,
+    "wof:lastmodified":1474070838,
     "wof:name":"Sed Hotel",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

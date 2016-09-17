@@ -2,6 +2,10 @@
   "id": 1108598579,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Cad. Mavi Han No:69/2 Beyoglu Kagithane Istanbul 34403",
+    "addr:housenumber":"mavi;2",
+    "addr:postcode":"34403",
+    "addr:street":"Istiklal Cad.;No 69 /",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108598579,
-    "wof:lastmodified":1474065569,
+    "wof:lastmodified":1474070835,
     "wof:name":"Sun Lighting & Sound",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

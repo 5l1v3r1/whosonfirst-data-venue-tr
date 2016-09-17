@@ -2,6 +2,10 @@
   "id": 1108644349,
   "type": "Feature",
   "properties": {
+    "addr:full":"Mithatpasa Cad. Cadirci Is Hani No:5 D: 202 Beyazit Istanbul 65400",
+    "addr:housenumber":"202",
+    "addr:postcode":"65400",
+    "addr:street":"Mithatpasa Cad. Cadirci Is;No 5 D;Istanbul",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1108644349,
-    "wof:lastmodified":1474067575,
+    "wof:lastmodified":1474070796,
     "wof:name":"Altunlar Mermer & Granit Sanayi",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

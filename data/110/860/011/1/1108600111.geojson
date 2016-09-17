@@ -2,6 +2,10 @@
   "id": 1108600111,
   "type": "Feature",
   "properties": {
+    "addr:full":"6799/1 Sok. No:3/8 Cigli Izmir 46000",
+    "addr:housenumber":"6799 / 1;no 3 / 8",
+    "addr:postcode":"46000",
+    "addr:street":"Sok.;Cigli Izmir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1108600111,
-    "wof:lastmodified":1474065635,
+    "wof:lastmodified":1474070678,
     "wof:name":"Ozgur Teknik Elektrik Elektronik Makina Kontrol Sistemleri",
     "wof:parent_id":85929627,
     "wof:placetype":"venue",

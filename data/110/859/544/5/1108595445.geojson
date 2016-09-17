@@ -2,6 +2,10 @@
   "id": 1108595445,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yenidogan Mah. 49/2 Sokak No:30 34760 Zeytinburnu Istanbul K???k?ekmece Istanbul 34620",
+    "addr:housenumber":"49 /;no 30",
+    "addr:postcode":"34760;?;34620",
+    "addr:street":"Yenidogan Mah.;2 Sokak",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1108595445,
-    "wof:lastmodified":1474065437,
+    "wof:lastmodified":1474070755,
     "wof:name":"Torino Dericilik San Ve Tic",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

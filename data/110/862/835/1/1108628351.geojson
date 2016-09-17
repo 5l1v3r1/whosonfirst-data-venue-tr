@@ -2,6 +2,10 @@
   "id": 1108628351,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bagdat Cad.ankara Apt. 272/13 Caddebostan Istanbul 81080",
+    "addr:housenumber":"272 / 13",
+    "addr:postcode":"81080",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108628351,
-    "wof:lastmodified":1474066806,
+    "wof:lastmodified":1474070863,
     "wof:name":"Stopover Tourism",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

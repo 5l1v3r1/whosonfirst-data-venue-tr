@@ -2,6 +2,10 @@
   "id": 1108629827,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cami Sok.no:6 Kilic Han.d:8-9 Tesvikiye \u00c7ankaya Istanbul 06440",
+    "addr:housenumber":"6;8-9",
+    "addr:postcode":"06440",
+    "addr:street":"Sok.No;Han.D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1108629827,
-    "wof:lastmodified":1474066902,
+    "wof:lastmodified":1474070860,
     "wof:name":"Tercume Kulturel Destek Servisleri",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

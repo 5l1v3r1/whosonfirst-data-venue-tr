@@ -2,6 +2,10 @@
   "id": 1108647211,
   "type": "Feature",
   "properties": {
+    "addr:full":"Uluonder Mah. 1. Cad. No: 18 Kutlukent Eskisehir 55330",
+    "addr:housenumber":"1;18",
+    "addr:postcode":"55330",
+    "addr:street":"Uluonder Mah.;Cad. No;Eskisehir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108647211,
-    "wof:lastmodified":1474067702,
+    "wof:lastmodified":1474070866,
     "wof:name":"Etasis Elektronik Tarti Aletleri A.s.",
     "wof:parent_id":85934771,
     "wof:placetype":"venue",

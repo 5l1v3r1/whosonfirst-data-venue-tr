@@ -2,6 +2,10 @@
   "id": 169603373,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bickiyurdu Sok. No:10 Guz Ishani Kat:2/6-8 Cagaloglu 07230 Istanbul",
+    "addr:housenumber":"no 10;kat 2 / 6-8",
+    "addr:postcode":"07230",
+    "addr:street":"Bickiyurdu Sok.;Guz Ishani;Cagaloglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169603373,
-    "wof:lastmodified":1466313349,
+    "wof:lastmodified":1474070635,
     "wof:name":"Bandosan",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

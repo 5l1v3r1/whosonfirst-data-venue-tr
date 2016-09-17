@@ -2,6 +2,10 @@
   "id": 1108668185,
   "type": "Feature",
   "properties": {
+    "addr:full":"Feyzullah Mah. Sakizagaci Sok. Yildiz Pasaji ?elikel Apt. A Blok. No: 41 Maltepe Istanbul 01000",
+    "addr:housenumber":"yildiz pasaji ?",
+    "addr:postcode":"01000",
+    "addr:street":"Mah. Sakizagaci Sok.;Elikel;Maltepe",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1108668185,
-    "wof:lastmodified":1474068572,
+    "wof:lastmodified":1474070850,
     "wof:name":"Istanbul Ajans",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

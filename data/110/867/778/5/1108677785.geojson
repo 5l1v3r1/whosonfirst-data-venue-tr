@@ -2,6 +2,10 @@
   "id": 1108677785,
   "type": "Feature",
   "properties": {
+    "addr:full":"Istiklal Cd. Terkos Ish. No:316 D:3/310 Beyoglu Fatih Istanbul 01740",
+    "addr:housenumber":"316 d 3 / 310",
+    "addr:postcode":"01740",
+    "addr:street":"Istiklal Cd. Terkos Ish. No;Beyoglu",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108677785,
-    "wof:lastmodified":1474068953,
+    "wof:lastmodified":1474070790,
     "wof:name":"Istanbul Platformu Vakfi",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",

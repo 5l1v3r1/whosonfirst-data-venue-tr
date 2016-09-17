@@ -2,6 +2,10 @@
   "id": 1108594337,
   "type": "Feature",
   "properties": {
+    "addr:full":"100. Yil Blv. No:98/5 Sahinbey Antalya 27300",
+    "addr:housenumber":"100;98 / 5",
+    "addr:postcode":"27300",
+    "addr:street":"Yil Blv. No;Sahinbey",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1108594337,
-    "wof:lastmodified":1474065397,
+    "wof:lastmodified":1474070738,
     "wof:name":"Falez Medikal Ltd. Sti.",
     "wof:parent_id":85930093,
     "wof:placetype":"venue",

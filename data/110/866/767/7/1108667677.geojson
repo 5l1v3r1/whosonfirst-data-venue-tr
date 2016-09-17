@@ -2,6 +2,10 @@
   "id": 1108667677,
   "type": "Feature",
   "properties": {
+    "addr:full":"Yesilbahce Mah. 1461.sok.kirmizigul Apt.no:17-5 Merkez Antalya 07100",
+    "addr:housenumber":"1461.sok.kirmizigul;17-5",
+    "addr:postcode":"07100",
+    "addr:street":"Yesilbahce Mah.;Merkez",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1108667677,
-    "wof:lastmodified":1474068547,
+    "wof:lastmodified":1474070855,
     "wof:name":"So Ajans",
     "wof:parent_id":85930261,
     "wof:placetype":"venue",
