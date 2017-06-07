@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9076919556,40.9914512634,28.9076919556,40.9914512634",
     "geom:latitude":40.991451,
     "geom:longitude":28.907692,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rDeqgyx5cplAAUzfaK5Hz_40.991451_28.907692@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065502,
     "wof:geomhash":"e9b7b9bd0bc844238e964edd18202f29",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596723
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596723,
-    "wof:lastmodified":1474070781,
+    "wof:lastmodified":1491897863,
     "wof:name":"Gani Deri",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

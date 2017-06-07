@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0453987122,41.0199508667,29.0453987122,41.0199508667",
     "geom:latitude":41.019951,
     "geom:longitude":29.045399,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929355,
+        85679237,
         102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85929355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +52,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85929355,
             "region_id":85679237,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108672027,
-    "wof:lastmodified":1474070649,
+    "wof:lastmodified":1491938363,
     "wof:name":"Marmara Ambulans Saglik Tem. Ve Uls.sti.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8071060181,41.030090332,28.8071060181,41.030090332",
     "geom:latitude":41.03009,
     "geom:longitude":28.807106,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FgcSb8CySKblkYI5GpBad_41.030090_28.807106@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065877,
     "wof:geomhash":"795355174a04bb3b3b7fe3fbe54a8a21",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108605839
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108605839,
-    "wof:lastmodified":1474070768,
+    "wof:lastmodified":1491896536,
     "wof:name":"G?rex Tekstil Paz. San. Ve Dis Tic.ltd.sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

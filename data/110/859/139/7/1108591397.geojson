@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9785900116,41.0757369995,28.9785900116,41.0757369995",
     "geom:latitude":41.075737,
     "geom:longitude":28.97859,
@@ -31,11 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
         102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +50,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1108591397,
-    "wof:lastmodified":1474070691,
+    "wof:lastmodified":1491911162,
     "wof:name":"Zeycan Mobilya",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

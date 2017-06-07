@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9141368866,41.0361862183,28.9141368866,41.0361862183",
     "geom:latitude":41.036186,
     "geom:longitude":28.914137,
@@ -23,11 +24,7 @@
     "sg:postcode":"34660",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jwPgisRHnO771yEEUNqGR_41.036186_28.914137@1306270075"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474069034,
     "wof:geomhash":"573e66b71ec5f57906a5e80f411efbe3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108679771
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108679771,
-    "wof:lastmodified":1474070841,
+    "wof:lastmodified":1491920323,
     "wof:name":"Nese Mobilya",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

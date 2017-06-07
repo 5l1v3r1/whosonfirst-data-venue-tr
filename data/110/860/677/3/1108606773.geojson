@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1162395477,41.0194816589,29.1162395477,41.0194816589",
     "geom:latitude":41.019482,
     "geom:longitude":29.11624,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a3oi11yU5LKwm8YyuJYKL_41.019482_29.116240@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065924,
     "wof:geomhash":"2dcd9ab2909b3cf9292d96f95d8b2c3a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108606773
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606773,
-    "wof:lastmodified":1474070766,
+    "wof:lastmodified":1491916632,
     "wof:name":"Roba Tekstil Ve Konfeksiyon San.tic. Ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

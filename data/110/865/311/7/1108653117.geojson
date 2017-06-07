@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.917301178,41.0436515808,28.917301178,41.0436515808",
     "geom:latitude":41.043652,
     "geom:longitude":28.917301,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R5xbxM5eC7QMJxEnluufy_41.043652_28.917301@1306270070"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067989,
     "wof:geomhash":"07b68202e736c1354d3c282cc42133eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108653117
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108653117,
-    "wof:lastmodified":1474070780,
+    "wof:lastmodified":1491920326,
     "wof:name":"Beyazit Metal San. Ve Tic.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.009441,41.023006,29.009441,41.023006",
     "geom:latitude":41.023006,
     "geom:longitude":29.009441,
@@ -32,28 +33,16 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d6sgSW9NZhDYM6xQqmBc6_41.023006_29.009441@1306270051"
     },
     "wof:country":"TR",
     "wof:geomhash":"d3bc0ea93b90204b0a520ccacf211190",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":169551179
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169551179,
-    "wof:lastmodified":1474070632,
+    "wof:lastmodified":1491926956,
     "wof:name":"Birlik Sunger Kimya San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

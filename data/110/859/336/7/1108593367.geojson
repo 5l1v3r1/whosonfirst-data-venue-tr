@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0130271912,41.0232658386,29.0130271912,41.0232658386",
     "geom:latitude":41.023266,
     "geom:longitude":29.013027,
@@ -31,10 +32,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BM2pJM9YpLCJaiCaUUpUu_41.023266_29.013027@1306270058"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065358,
     "wof:geomhash":"56ee5466dedba484b113d697cdc43966",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108593367
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108593367,
-    "wof:lastmodified":1474070715,
+    "wof:lastmodified":1491926955,
     "wof:name":"Uskudar Veteriner Klinigi",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

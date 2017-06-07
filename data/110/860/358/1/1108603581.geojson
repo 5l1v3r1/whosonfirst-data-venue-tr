@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.117181778,41.0203590393,29.117181778,41.0203590393",
     "geom:latitude":41.020359,
     "geom:longitude":29.117182,
@@ -23,11 +24,7 @@
     "sg:postcode":"80300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ySuSPQy1RO7MYZAOnP9Xs_41.020359_29.117182@1306270060"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474065778,
     "wof:geomhash":"3f57755e47a631255aa6cdc20115d66b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108603581
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108603581,
-    "wof:lastmodified":1474070728,
+    "wof:lastmodified":1491916633,
     "wof:name":"Kut Al Alum. Dog. San. A.s.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

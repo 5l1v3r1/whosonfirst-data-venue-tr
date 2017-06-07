@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0118026733,41.0541763306,29.0118026733,41.0541763306",
     "geom:latitude":41.054176,
     "geom:longitude":29.011803,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904169,
+        85679237,
         102191569,
         85632393,
         101912663,
-        85679237
+        890462841,
+        85904169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +52,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462841,
             "locality_id":101912663,
             "neighbourhood_id":85904169,
             "region_id":85679237,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108593695,
-    "wof:lastmodified":1474070717,
+    "wof:lastmodified":1491913408,
     "wof:name":"Selmi Tic. Ltd. Sti.",
     "wof:parent_id":85904169,
     "wof:placetype":"venue",

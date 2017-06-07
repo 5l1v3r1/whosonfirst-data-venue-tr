@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.8927,35.718201,35.8927,35.718201",
     "geom:latitude":35.718201,
     "geom:longitude":35.8927,
@@ -29,27 +30,29 @@
     "sg:province":"10400",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85678345,
+        102191569,
         85632413,
-        85678345
+        1108779125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yple3SzWDT6mgfwAucyMo_35.718201_35.892700@1306270051"
     },
     "wof:country":"TR",
-    "wof:geomhash":"5e81588116d891bb4bc0a61372601555",
+    "wof:geomhash":"24e1a30354eb4850884f4943edc2f002",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632413,
+            "county_id":1108779125,
             "locality_id":-1,
-            "neighbourhood_id":-1,
             "region_id":85678345,
             "venue_id":169538021
         }
     ],
     "wof:id":169538021,
-    "wof:lastmodified":1474070632,
+    "wof:lastmodified":1496775432,
     "wof:name":"Milli Aydin, Bankasi Tas - Tarisbank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

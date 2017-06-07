@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2224121094,40.883026123,29.2224121094,40.883026123",
     "geom:latitude":40.883026,
     "geom:longitude":29.222412,
@@ -28,10 +29,7 @@
     "sg:postcode":"06105",
     "sg:province":"Ankara",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Oeilh0hdaLp3k3384n86_40.883026_29.222412@1306270075"
@@ -39,15 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474068979,
     "wof:geomhash":"647d7b9e78b7e29e533982fc727aface",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108678417
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108678417,
-    "wof:lastmodified":1474070819,
+    "wof:lastmodified":1491902294,
     "wof:name":"Aykor Denizcilik Nakliyat Tic. A.s.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

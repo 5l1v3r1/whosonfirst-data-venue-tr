@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.950163,41.006016,28.950163,41.006016",
     "geom:latitude":41.006016,
     "geom:longitude":28.950163,
@@ -31,30 +32,16 @@
         "bag-belt-accessories"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MOXwq3WeSA0JdEWCftGO8_41.006016_28.950163@1306270050"
     },
     "wof:country":"TR",
     "wof:geomhash":"223f62817f97860779a8bf49f703d1e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":169528521
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169528521,
-    "wof:lastmodified":1474070632,
+    "wof:lastmodified":1491908614,
     "wof:name":"Degirmenler Ith.ihr.ltd.sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

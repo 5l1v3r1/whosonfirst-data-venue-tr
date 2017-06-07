@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8493270874,41.047706604,28.8493270874,41.047706604",
     "geom:latitude":41.047707,
     "geom:longitude":28.849327,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q8O6bX9UhvLqyM481klRI_41.047707_28.849327@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065930,
     "wof:geomhash":"85c61c10d2a422d3f74456d0290ed20e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108606807
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606807,
-    "wof:lastmodified":1474070767,
+    "wof:lastmodified":1491916188,
     "wof:name":"Sabri Giyim A.s.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0162677765,41.0259132385,29.0162677765,41.0259132385",
     "geom:latitude":41.025913,
     "geom:longitude":29.016268,
@@ -31,10 +32,7 @@
         "agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18bp6JEpX02fSKJrgNYBP4_41.025913_29.016268@1306270060"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065618,
     "wof:geomhash":"46ba4f5acceef345d34a483b1e650c1e",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108599627
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108599627,
-    "wof:lastmodified":1474070839,
+    "wof:lastmodified":1491926957,
     "wof:name":"Cagin Ziraat Binmarsesi",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

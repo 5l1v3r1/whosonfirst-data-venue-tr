@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.954052,41.008259,28.954052,41.008259",
     "geom:latitude":41.008259,
     "geom:longitude":28.954052,
@@ -32,30 +33,16 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16E2BCiA3cxDVxGEYdmrw5_41.008259_28.954052@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"b0c28f43f9d530d7acb37c0df413e6a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":169571447
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571447,
-    "wof:lastmodified":1474070650,
+    "wof:lastmodified":1491908615,
     "wof:name":"Universal Dekorasyon (magaza Donatimi)",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

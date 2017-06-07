@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.992008,41.081497,28.992008,41.081497",
     "geom:latitude":41.081497,
     "geom:longitude":28.992008,
@@ -28,10 +29,12 @@
     "sg:province":"80640",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"accd7b0bb2b111928dca49cdb026b62c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169533663,
-    "wof:lastmodified":1474070675,
+    "wof:lastmodified":1491911192,
     "wof:name":"Esbank Eskisehir, Bankasi Tas",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

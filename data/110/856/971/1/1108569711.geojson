@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9123477936,41.0460319519,28.9123477936,41.0460319519",
     "geom:latitude":41.046032,
     "geom:longitude":28.912348,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N1P7Aek57dkqcszChZs1B_41.046032_28.912348@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064443,
     "wof:geomhash":"17d7b5b0515ca10ade0c66ebd1f997f9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108569711
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108569711,
-    "wof:lastmodified":1474070845,
+    "wof:lastmodified":1491920324,
     "wof:name":"Uzay Makina Takim Tezgahlari San. Tic.a.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8176193237,41.046672821,28.8176193237,41.046672821",
     "geom:latitude":41.046673,
     "geom:longitude":28.817619,
@@ -22,11 +23,7 @@
     "sg:phone":"+90 212 446 8221",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lSvThvDv6SgL9s1Kz8ReI_41.046673_28.817619@1306270075"
@@ -34,16 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474069037,
     "wof:geomhash":"d9519fb714b1ef628786cfd6c25b1f3c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108679849
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108679849,
-    "wof:lastmodified":1474070850,
+    "wof:lastmodified":1491896532,
     "wof:name":"Sunger A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

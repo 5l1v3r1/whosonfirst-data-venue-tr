@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8723239899,40.9761009216,28.8723239899,40.9761009216",
     "geom:latitude":40.976101,
     "geom:longitude":28.872324,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930077,
+        85679237,
         102191569,
         85632393,
         101912673,
-        85679237,
+        890462833,
+        85930077,
         85930019
     ],
     "wof:breaches":[],
@@ -50,21 +52,26 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462833,
             "locality_id":101912673,
             "neighbourhood_id":85930077,
             "region_id":85679237,
             "venue_id":1108577345
         },
         {
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
+            "region_id":85679237,
             "venue_id":1108577345
         }
     ],
     "wof:id":1108577345,
-    "wof:lastmodified":1474070764,
+    "wof:lastmodified":1491895282,
     "wof:name":"Benna Mob. Dekor.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

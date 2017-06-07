@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9320983887,41.0362091064,28.9320983887,41.0362091064",
     "geom:latitude":41.036209,
     "geom:longitude":28.932098,
@@ -31,11 +32,7 @@
         "knitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76qJf5vybe34Ql7OjL5uFu_41.036209_28.932098@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065320,
     "wof:geomhash":"855cfecebca417087b3953ce08c2014f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108592331
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108592331,
-    "wof:lastmodified":1474070723,
+    "wof:lastmodified":1491920320,
     "wof:name":"Tekfil Iplik Ve Orme San.ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

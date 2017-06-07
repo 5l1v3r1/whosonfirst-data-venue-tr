@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.012430191,41.0246429443,29.012430191,41.0246429443",
     "geom:latitude":41.024643,
     "geom:longitude":29.01243,
@@ -31,10 +32,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IS3YXYmjgbEGSIjRAPQhW_41.024643_29.012430@1306270072"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068377,
     "wof:geomhash":"55ad2710ae1a88d9dce298a9ec984adc",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108663315
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663315,
-    "wof:lastmodified":1474070794,
+    "wof:lastmodified":1491926956,
     "wof:name":"Spot Foto Ltd.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

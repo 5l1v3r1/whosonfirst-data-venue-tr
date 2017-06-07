@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9045829773,40.9894561768,28.9045829773,40.9894561768",
     "geom:latitude":40.989456,
     "geom:longitude":28.904583,
@@ -31,11 +32,7 @@
         "supplementaries"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VnKa9f6oi06kgh7mwHeAG_40.989456_28.904583@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065453,
     "wof:geomhash":"5a4fd96f65c159332892bde8e17d8890",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595827
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595827,
-    "wof:lastmodified":1474070763,
+    "wof:lastmodified":1491897857,
     "wof:name":"Akserbant Uya San.deri Ve Konf.yan.san.urun.iml.ve Tic.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

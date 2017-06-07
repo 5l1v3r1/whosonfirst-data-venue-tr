@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.795584,41.036301,28.795584,41.036301",
     "geom:latitude":41.036301,
     "geom:longitude":28.795584,
@@ -31,29 +32,16 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929887,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Auh1oXn0s6sM9N5F6SfsN_41.036301_28.795584@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"c1a12795d2d79e8831c2fa65ebeeed8a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":169569589
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169569589,
-    "wof:lastmodified":1474070673,
+    "wof:lastmodified":1491896534,
     "wof:name":"Reelteknik",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

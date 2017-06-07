@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2865543365,40.8172454834,29.2865543365,40.8172454834",
     "geom:latitude":40.817245,
     "geom:longitude":29.286554,
@@ -32,11 +33,7 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929767,
-        85679241
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XNgpg2zy0DKiORNTO0tlY_40.817245_29.286554@1306270057"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065153,
     "wof:geomhash":"bf34205be4dec3c0272aa2f992be33d4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929767,
-            "region_id":85679241,
-            "venue_id":1108585813
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108585813,
-    "wof:lastmodified":1474070703,
+    "wof:lastmodified":1491914186,
     "wof:name":"Meridyen Tuzla",
     "wof:parent_id":85929767,
     "wof:placetype":"venue",

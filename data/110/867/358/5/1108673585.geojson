@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0102863312,41.0226745605,29.0102863312,41.0226745605",
     "geom:latitude":41.022675,
     "geom:longitude":29.010286,
@@ -31,10 +32,7 @@
         "flower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OmQThgft1PA6WYVZBaNiy_41.022675_29.010286@1306270074"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068786,
     "wof:geomhash":"be114c52b3f50ab8127bb15bd71eed45",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108673585
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108673585,
-    "wof:lastmodified":1474070674,
+    "wof:lastmodified":1491926956,
     "wof:name":"?amlica Yeni?i?ek",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2344493866,40.8798789978,29.2344493866,40.8798789978",
     "geom:latitude":40.879879,
     "geom:longitude":29.234449,
@@ -22,10 +23,7 @@
     "sg:phone":"+90 216 390 1910",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oO2yHadYiF0Q2245WZb2i_40.879879_29.234449@1306270060"
@@ -33,15 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474065777,
     "wof:geomhash":"7d3084fe526d04683836227b36839c82",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108603561
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108603561,
-    "wof:lastmodified":1474070728,
+    "wof:lastmodified":1491902294,
     "wof:name":"Koclar Alum. San.a.s.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

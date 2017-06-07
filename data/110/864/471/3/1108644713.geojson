@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0123462677,41.0444602966,29.0123462677,41.0444602966",
     "geom:latitude":41.04446,
     "geom:longitude":29.012346,
@@ -34,11 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904169,
+        85679237,
         102191569,
         85632393,
         101912663,
-        85679237
+        890462841,
+        85904169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462841,
             "locality_id":101912663,
             "neighbourhood_id":85904169,
             "region_id":85679237,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108644713,
-    "wof:lastmodified":1474070826,
+    "wof:lastmodified":1491913407,
     "wof:name":"Gramer Granit Mermer Tic. Ve San.ltd.sti.",
     "wof:parent_id":85904169,
     "wof:placetype":"venue",

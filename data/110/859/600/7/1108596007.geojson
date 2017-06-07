@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9067401886,40.9873046875,28.9067401886,40.9873046875",
     "geom:latitude":40.987305,
     "geom:longitude":28.90674,
@@ -28,11 +29,7 @@
     "sg:postcode":"34490",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dXjU4gRs3C1lSXIBjnBAe_40.987305_28.906740@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065467,
     "wof:geomhash":"ab7f9d8c4bacefdfcc458763b0cf8e7d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596007
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596007,
-    "wof:lastmodified":1474070757,
+    "wof:lastmodified":1491897852,
     "wof:name":"Dersan Dericilik Ve Tekstil Sanayi Tic.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

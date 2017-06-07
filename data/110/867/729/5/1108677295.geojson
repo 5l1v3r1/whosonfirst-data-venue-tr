@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9501743317,41.0040397644,28.9501743317,41.0040397644",
     "geom:latitude":41.00404,
     "geom:longitude":28.950174,
@@ -31,11 +32,7 @@
         "forest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ePVo2uQ6PvWBSAZBlBcIC_41.004040_28.950174@1306270075"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068935,
     "wof:geomhash":"822b7e777d24c2b06fc9d778f30f86e8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108677295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108677295,
-    "wof:lastmodified":1474070770,
+    "wof:lastmodified":1491908613,
     "wof:name":"?aydavul Orman ?r?n. San. Ve Tic. Ltd.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

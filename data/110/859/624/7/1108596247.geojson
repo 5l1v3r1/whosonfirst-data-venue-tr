@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9049243927,40.9882583618,28.9049243927,40.9882583618",
     "geom:latitude":40.988258,
     "geom:longitude":28.904924,
@@ -28,11 +29,7 @@
     "sg:postcode":"65400",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tr5d9X5fJbuY5LSziud5k_40.988258_28.904924@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065480,
     "wof:geomhash":"a4be63a74aa501572e8ba79131eb1b1a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596247
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596247,
-    "wof:lastmodified":1474070764,
+    "wof:lastmodified":1491897856,
     "wof:name":"Yesilova Deri Tekstil Urunleri",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

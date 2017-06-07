@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.872555,40.975521,28.872555,40.975521",
     "geom:latitude":40.975521,
     "geom:longitude":28.872555,
@@ -28,8 +29,12 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930019,
-        85632393
+        85679237,
+        102191569,
+        85632393,
+        101912673,
+        890462833,
+        85930019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +44,17 @@
     "wof:geomhash":"508cc7b5f4c4116be216727cc01ebf6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":-1,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
-            "region_id":-1,
+            "region_id":85679237,
             "venue_id":169645793
         }
     ],
     "wof:id":169645793,
-    "wof:lastmodified":1474070652,
+    "wof:lastmodified":1491895283,
     "wof:name":"Mouawad International Group",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

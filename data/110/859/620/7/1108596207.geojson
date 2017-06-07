@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.906993866,40.988861084,28.906993866,40.988861084",
     "geom:latitude":40.988861,
     "geom:longitude":28.906994,
@@ -28,11 +29,7 @@
     "sg:postcode":"65400",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67nIGqLpjL7zbLvS61og65_40.988861_28.906994@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065474,
     "wof:geomhash":"97ac3ca76b40bd7fd29d64306c2a17c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596207
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596207,
-    "wof:lastmodified":1474070764,
+    "wof:lastmodified":1491897864,
     "wof:name":"Terzioglu Deri Tekstil Ve San.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9021892548,40.9946517944,28.9021892548,40.9946517944",
     "geom:latitude":40.994652,
     "geom:longitude":28.902189,
@@ -27,11 +28,7 @@
     "sg:phone":"+90 902 125 1069",
     "sg:province":"34770",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IGdEQIoF24HKuH80VOP5y_40.994652_28.902189@1306270065"
@@ -39,16 +36,9 @@
     "wof:country":"TR",
     "wof:created":1474066918,
     "wof:geomhash":"c468369d64193ff4edbe5e5e0caf38b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108630041
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108630041,
-    "wof:lastmodified":1474070666,
+    "wof:lastmodified":1491897857,
     "wof:name":"Sentez Tourism",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

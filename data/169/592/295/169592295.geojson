@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.818619,41.043331,28.818619,41.043331",
     "geom:latitude":41.043331,
     "geom:longitude":28.818619,
@@ -31,29 +32,16 @@
         "spice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929887,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16A9EWwvgHja4lhIpCzAH5_41.043331_28.818619@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"475e59995ffcfffc746299d073fe322e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":169592295
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169592295,
-    "wof:lastmodified":1474070634,
+    "wof:lastmodified":1491896534,
     "wof:name":"Mayasan Gida San.a.s",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

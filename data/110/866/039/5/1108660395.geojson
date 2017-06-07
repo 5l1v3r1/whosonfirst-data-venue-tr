@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9193096161,41.0458984375,28.9193096161,41.0458984375",
     "geom:latitude":41.045898,
     "geom:longitude":28.91931,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OkUjeKICpdYEVHzNhlfBl_41.045898_28.919310@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068269,
     "wof:geomhash":"1a7c6f49c854e62a08132358ed5501f4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108660395
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108660395,
-    "wof:lastmodified":1474070675,
+    "wof:lastmodified":1491920318,
     "wof:name":"Izol Ambalaj San. Tic. Ltd. Sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

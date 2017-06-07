@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1143608093,41.0213394165,29.1143608093,41.0213394165",
     "geom:latitude":41.021339,
     "geom:longitude":29.114361,
@@ -31,11 +32,7 @@
         "lifts-elevators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zkGFe2R3a8I4lHnqNcBYn_41.021339_29.114361@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065527,
     "wof:geomhash":"50bbfe81d261130962409bc2356e5fce",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108597435
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597435,
-    "wof:lastmodified":1474070797,
+    "wof:lastmodified":1491916635,
     "wof:name":"Asmelsan Asans?r Ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

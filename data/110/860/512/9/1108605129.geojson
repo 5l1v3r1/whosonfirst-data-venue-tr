@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9000377655,40.9904251099,28.9000377655,40.9904251099",
     "geom:latitude":40.990425,
     "geom:longitude":28.900038,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QqXWWMl9tObb4H2NbvhOB_40.990425_28.900038@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065849,
     "wof:geomhash":"73190fe376aea14e1401720842cf3cb1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108605129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108605129,
-    "wof:lastmodified":1474070746,
+    "wof:lastmodified":1491897864,
     "wof:name":"Bogazici Teksil",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8518352509,41.0563087463,28.8518352509,41.0563087463",
     "geom:latitude":41.056309,
     "geom:longitude":28.851835,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hg2VZWA91v10kCMPfaKt4_41.056309_28.851835@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064411,
     "wof:geomhash":"0e97edc2d29c0f43e65e7915b307d0b1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108568883
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108568883,
-    "wof:lastmodified":1474070813,
+    "wof:lastmodified":1491916186,
     "wof:name":"Petas Makina San. Tic.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

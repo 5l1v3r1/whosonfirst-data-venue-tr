@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.992258,41.08004,28.992258,41.08004",
     "geom:latitude":41.08004,
     "geom:longitude":28.992258,
@@ -28,10 +29,12 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +44,9 @@
     "wof:geomhash":"08f5c4917db7238aeeba6a725a7051a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":169547107,
-    "wof:lastmodified":1474070634,
+    "wof:lastmodified":1491911193,
     "wof:name":"Uluslararasi Yatirim Holding As",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

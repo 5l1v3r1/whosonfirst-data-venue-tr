@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9155673981,41.0372619629,28.9155673981,41.0372619629",
     "geom:latitude":41.037262,
     "geom:longitude":28.915567,
@@ -31,11 +32,7 @@
         "foundation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H0ulCCS6Z0nozVMPhwkET_41.037262_28.915567@1306270075"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068954,
     "wof:geomhash":"7eabd1d42a5b1155450ad21358b336b5",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108677831
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108677831,
-    "wof:lastmodified":1474070797,
+    "wof:lastmodified":1491920325,
     "wof:name":"Karadeniz Egitim-kultur Ve Cev. Kor. Vakfi",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

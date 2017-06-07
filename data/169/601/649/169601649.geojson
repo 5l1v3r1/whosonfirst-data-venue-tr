@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.010412,41.020081,29.010412,41.020081",
     "geom:latitude":41.020081,
     "geom:longitude":29.010412,
@@ -31,28 +32,16 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904151,
-        85632393
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qpQdp0FOU76ieT0qKUDwu_41.020081_29.010412@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"db1b2cfecc5b24edfbb786d81ccd75b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85904151,
-            "region_id":-1,
-            "venue_id":169601649
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169601649,
-    "wof:lastmodified":1474070655,
+    "wof:lastmodified":1491919633,
     "wof:name":"Uguralp San.tic.ltd.sti.",
     "wof:parent_id":85904151,
     "wof:placetype":"venue",

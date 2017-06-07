@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8019142151,41.0332794189,28.8019142151,41.0332794189",
     "geom:latitude":41.033279,
     "geom:longitude":28.801914,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cqEMCW8AXp3DHnrp7V3Rx_41.033279_28.801914@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068256,
     "wof:geomhash":"06d038cf3f78d6d806846768536508ce",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108660015
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108660015,
-    "wof:lastmodified":1474070635,
+    "wof:lastmodified":1491896535,
     "wof:name":"Dasa Oluklu Mukavva Kutu Ltd. Sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

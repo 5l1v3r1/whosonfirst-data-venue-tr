@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.7934150696,41.035068512,28.7934150696,41.035068512",
     "geom:latitude":41.035069,
     "geom:longitude":28.793415,
@@ -31,11 +32,7 @@
         "weaving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QUskaMqTIpnwIsmdza5vp_41.035069_28.793415@1306270057"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065178,
     "wof:geomhash":"02dd5af00d29c61e069f454cfddcac06",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108586847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108586847,
-    "wof:lastmodified":1474070744,
+    "wof:lastmodified":1491896533,
     "wof:name":"Nitex- 50",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

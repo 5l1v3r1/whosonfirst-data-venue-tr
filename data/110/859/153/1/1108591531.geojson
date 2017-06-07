@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9205245972,41.0434684753,28.9205245972,41.0434684753",
     "geom:latitude":41.043468,
     "geom:longitude":28.920525,
@@ -31,11 +32,7 @@
         "kitchenware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q4v5iUjY5n6X9l9WCMBf6_41.043468_28.920525@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065292,
     "wof:geomhash":"fde5034aca4b3002c3e0c7f2e83edf8f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108591531
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591531,
-    "wof:lastmodified":1474070700,
+    "wof:lastmodified":1491920322,
     "wof:name":"Cenk Metal San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

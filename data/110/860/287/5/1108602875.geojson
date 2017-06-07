@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0198059082,41.1222839355,29.0198059082,41.1222839355",
     "geom:latitude":41.122284,
     "geom:longitude":29.019806,
@@ -33,11 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929945,
+        85679237,
         102191569,
         85632393,
         101912651,
-        85679237
+        890461743,
+        85929945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +52,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912651,
             "neighbourhood_id":85929945,
             "region_id":85679237,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108602875,
-    "wof:lastmodified":1474070715,
+    "wof:lastmodified":1491889274,
     "wof:name":"?zk?seoglu Isi San.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",

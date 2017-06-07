@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.7916641235,41.0380554199,28.7916641235,41.0380554199",
     "geom:latitude":41.038055,
     "geom:longitude":28.791664,
@@ -30,11 +31,7 @@
         "municipality"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00uYcz4T0KfEISbFWfgFEj_41.038055_28.791664@1306270071"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474068236,
     "wof:geomhash":"29c88b9aa0068b58207f54639a07bf0c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108659485
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108659485,
-    "wof:lastmodified":1474070847,
+    "wof:lastmodified":1491896533,
     "wof:name":"?ildir Belediye Baskani",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

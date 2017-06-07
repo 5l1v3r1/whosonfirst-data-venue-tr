@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9103069305,40.9964065552,28.9103069305,40.9964065552",
     "geom:latitude":40.996407,
     "geom:longitude":28.910307,
@@ -23,11 +24,7 @@
     "sg:postcode":"81010",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59xIX8bvNboYgCKfZfnPn5_40.996407_28.910307@1306270060"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474065784,
     "wof:geomhash":"470416738dd0571cc6806b07635d3f3c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108603743
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108603743,
-    "wof:lastmodified":1474070721,
+    "wof:lastmodified":1491897859,
     "wof:name":"Samim Alum. Paz.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

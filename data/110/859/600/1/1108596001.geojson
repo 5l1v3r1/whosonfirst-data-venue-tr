@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9108829498,40.9920349121,28.9108829498,40.9920349121",
     "geom:latitude":40.992035,
     "geom:longitude":28.910883,
@@ -28,11 +29,7 @@
     "sg:postcode":"34490",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QxTym2PI4BTNCuBUh5knk_40.992035_28.910883@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065467,
     "wof:geomhash":"28b815d06b9942fafbb24926a0cd85ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596001
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596001,
-    "wof:lastmodified":1474070763,
+    "wof:lastmodified":1491897857,
     "wof:name":"Derimpeks Deri San. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

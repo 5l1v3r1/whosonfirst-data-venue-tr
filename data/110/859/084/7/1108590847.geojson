@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.989030838,41.0322914124,28.989030838,41.0322914124",
     "geom:latitude":41.032291,
     "geom:longitude":28.989031,
@@ -31,11 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WFWcSQKnpZzw5FOKBLJ6J_41.032291_28.989031@1306270058"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065269,
     "wof:geomhash":"de0be36c2d487672415264e9ca4f147f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108590847
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108590847,
-    "wof:lastmodified":1474070683,
+    "wof:lastmodified":1491922839,
     "wof:name":"Kelebek Mobilya",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

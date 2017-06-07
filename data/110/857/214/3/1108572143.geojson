@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9076366425,40.9852180481,28.9076366425,40.9852180481",
     "geom:latitude":40.985218,
     "geom:longitude":28.907637,
@@ -30,11 +31,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jFKIxOO9UK4n8rfB7rqlp_40.985218_28.907637@1306270055"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064546,
     "wof:geomhash":"b6ec5c0f6f56e16f27fe35a18dd7b6fa",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108572143
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108572143,
-    "wof:lastmodified":1474070652,
+    "wof:lastmodified":1491897857,
     "wof:name":"Profleks Plastik Profil San. A.s.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

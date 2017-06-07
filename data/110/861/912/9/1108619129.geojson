@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9593238831,41.0081443787,28.9593238831,41.0081443787",
     "geom:latitude":41.008144,
     "geom:longitude":28.959324,
@@ -23,11 +24,7 @@
     "sg:postcode":"24300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hJiKZ5eSkNPLSFfbIlSpI_41.008144_28.959324@1306270063"
@@ -35,19 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066438,
     "wof:geomhash":"e0cb66144439acb21ba89416d50dffc7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108619129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108619129,
-    "wof:lastmodified":1474070832,
+    "wof:lastmodified":1491908617,
     "wof:name":"?zmen Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

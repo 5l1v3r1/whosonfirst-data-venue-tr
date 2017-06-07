@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9556503296,41.0049362183,28.9556503296,41.0049362183",
     "geom:latitude":41.004936,
     "geom:longitude":28.95565,
@@ -32,11 +33,7 @@
         "lighting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72gUWLDIXCJqKXRH33mdL1_41.004936_28.955650@1306270059"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065598,
     "wof:geomhash":"79a65889b58daa06441676564b5ea4ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108599243
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108599243,
-    "wof:lastmodified":1474070836,
+    "wof:lastmodified":1491908618,
     "wof:name":"Sezay Aydinlatma Gida Ins. Turizm San. Ve Tic.ltd.sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

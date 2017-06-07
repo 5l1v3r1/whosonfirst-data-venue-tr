@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9026374817,40.9924430847,28.9026374817,40.9924430847",
     "geom:latitude":40.992443,
     "geom:longitude":28.902637,
@@ -33,11 +34,7 @@
     ],
     "sg:website":"zeynelplastik.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p38HLckx0ncyn6rzII3MO_40.992443_28.902637@1306270072"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068293,
     "wof:geomhash":"e255c3f99e9b3adb89d31d6d0f8a6999",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108661107
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108661107,
-    "wof:lastmodified":1474070710,
+    "wof:lastmodified":1491897864,
     "wof:name":"Zeynel Plastik San. Tic. Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

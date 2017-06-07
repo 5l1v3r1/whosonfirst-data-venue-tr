@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9172706604,41.0463752747,28.9172706604,41.0463752747",
     "geom:latitude":41.046375,
     "geom:longitude":28.917271,
@@ -31,11 +32,7 @@
         "flower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_185MVLBCkgGkTQBZarmXNG_41.046375_28.917271@1306270074"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068782,
     "wof:geomhash":"f1d7eacd0f0da6305019dd8bf3a60bb1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108673445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108673445,
-    "wof:lastmodified":1474070664,
+    "wof:lastmodified":1491920317,
     "wof:name":"Star ?i?ek?ilik",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

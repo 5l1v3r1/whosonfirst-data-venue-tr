@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1171340942,41.022518158,29.1171340942,41.022518158",
     "geom:latitude":41.022518,
     "geom:longitude":29.117134,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X4QOvjLnNvprWGOnV79hP_41.022518_29.117134@1306270053"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064297,
     "wof:geomhash":"d28d89b2a87f7cd906f41cbec58883c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108566251
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108566251,
-    "wof:lastmodified":1474070719,
+    "wof:lastmodified":1491916634,
     "wof:name":"Anb Makina Sanayi Ve Tic.ltd.sti",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

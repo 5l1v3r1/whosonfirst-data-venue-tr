@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0103111267,41.0227890015,29.0103111267,41.0227890015",
     "geom:latitude":41.022789,
     "geom:longitude":29.010311,
@@ -23,10 +24,7 @@
     "sg:postcode":"81010",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YrzkOCHwqKHgfzSprFsJc_41.022789_29.010311@1306270060"
@@ -34,15 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474065785,
     "wof:geomhash":"b94b547105c40fd22d1be1d5e935f40c",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108603775
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108603775,
-    "wof:lastmodified":1474070721,
+    "wof:lastmodified":1491926957,
     "wof:name":"Sel Dis Tic.ltd.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9898262024,41.0320510864,28.9898262024,41.0320510864",
     "geom:latitude":41.032051,
     "geom:longitude":28.989826,
@@ -28,11 +29,7 @@
     "sg:postcode":"55530",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PoXRUqdpmLC85FiPuA52K_41.032051_28.989826@1306270075"
@@ -40,19 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474069002,
     "wof:geomhash":"2e083cfa9ddfaf83b9682320a6c26b34",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108678879
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108678879,
-    "wof:lastmodified":1474070818,
+    "wof:lastmodified":1491922837,
     "wof:name":"T?rkiye Gemi San. A.s.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

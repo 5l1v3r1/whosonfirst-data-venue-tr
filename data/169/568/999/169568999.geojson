@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.976759,41.068787,28.976759,41.068787",
     "geom:latitude":41.068787,
     "geom:longitude":28.976759,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,9 @@
     "wof:geomhash":"2dbc16fb4ec884b6c69b7575aaf7fd47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169568999,
-    "wof:lastmodified":1474070698,
+    "wof:lastmodified":1491911193,
     "wof:name":"Metropol Guvenlik Sist. Isl.tic.ltd.sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

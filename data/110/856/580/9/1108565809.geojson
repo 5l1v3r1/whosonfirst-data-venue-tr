@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8178329468,41.0451011658,28.8178329468,41.0451011658",
     "geom:latitude":41.045101,
     "geom:longitude":28.817833,
@@ -22,11 +23,7 @@
     "sg:phone":"+90 212 550 2760",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IyG1ksz94XqqzZxiivPnB_41.045101_28.817833@1306270053"
@@ -34,16 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474064266,
     "wof:geomhash":"43cfe43ac8674f2393ed6edef2f9a09e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108565809
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108565809,
-    "wof:lastmodified":1474070712,
+    "wof:lastmodified":1491896533,
     "wof:name":"Sim-pres D?k?m San. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

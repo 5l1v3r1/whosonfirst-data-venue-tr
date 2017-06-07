@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9232997894,41.0420417786,28.9232997894,41.0420417786",
     "geom:latitude":41.042042,
     "geom:longitude":28.9233,
@@ -31,11 +32,7 @@
         "weighing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rSoyV9LEd6S4V8VJ52cXP_41.042042_28.923300@1306270069"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067700,
     "wof:geomhash":"4ee00b5f4d5b4c0c59b5b00b9964048b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108647183
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108647183,
-    "wof:lastmodified":1474070861,
+    "wof:lastmodified":1491920334,
     "wof:name":"Bagdatli Teknik Hirdavat Ve Dis Ticaret Ltd.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

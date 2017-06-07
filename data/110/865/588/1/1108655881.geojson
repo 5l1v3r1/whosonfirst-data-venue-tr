@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9300231934,41.0386161804,28.9300231934,41.0386161804",
     "geom:latitude":41.038616,
     "geom:longitude":28.930023,
@@ -23,11 +24,7 @@
     "sg:postcode":"33740",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MSQZ9wYNLccP7HtTcMYhM_41.038616_28.930023@1306270071"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474068093,
     "wof:geomhash":"9dce6306f7e5299af949dd39735add4d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108655881
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108655881,
-    "wof:lastmodified":1474070826,
+    "wof:lastmodified":1491920320,
     "wof:name":"Fikret Erdogan Ve Ortaklari Koll.sti",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

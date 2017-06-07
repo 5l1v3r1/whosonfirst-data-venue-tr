@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.801119,41.026745,28.801119,41.026745",
     "geom:latitude":41.026745,
     "geom:longitude":28.801119,
@@ -27,29 +28,16 @@
     "sg:phone":"+90 216 553 4619",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929887,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b6EadJtHTk2PApUwDc8SF_41.026745_28.801119@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"90b602b9974bc23912825f5dade64e12",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":169581381
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169581381,
-    "wof:lastmodified":1474070651,
+    "wof:lastmodified":1491896533,
     "wof:name":"Marcatelli-salto Ayakkabi",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

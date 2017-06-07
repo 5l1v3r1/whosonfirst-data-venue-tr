@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.911447525,40.9946670532,28.911447525,40.9946670532",
     "geom:latitude":40.994667,
     "geom:longitude":28.911448,
@@ -28,11 +29,7 @@
     "sg:postcode":"34490",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lwlT8H6zZdKbNqS5d9F3s_40.994667_28.911448@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065468,
     "wof:geomhash":"d375ec8b8b4f1e65f31a316f3da2ae8e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596035
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596035,
-    "wof:lastmodified":1474070756,
+    "wof:lastmodified":1491897852,
     "wof:name":"Erl?ks Deri San. A.s.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

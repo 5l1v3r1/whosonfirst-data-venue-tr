@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2344322205,40.8781204224,29.2344322205,40.8781204224",
     "geom:latitude":40.87812,
     "geom:longitude":29.234432,
@@ -31,10 +32,7 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58VQrMZaaeUZrHXJhYH724_40.878120_29.234432@1306270056"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064869,
     "wof:geomhash":"b8b064610e6415ebba82a805d23e3596",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108578075
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108578075,
-    "wof:lastmodified":1474070785,
+    "wof:lastmodified":1491902294,
     "wof:name":"Akcan B?ro Mak. Tic.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

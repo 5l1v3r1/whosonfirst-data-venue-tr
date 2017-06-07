@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.049629,41.00758,29.049629,41.00758",
     "geom:latitude":41.00758,
     "geom:longitude":29.049629,
@@ -29,10 +30,12 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929355,
+        85679237,
+        102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85929355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,9 @@
     "wof:geomhash":"67693e9c3fb2cf6235d45303f2dc8e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85929355,
             "region_id":85679237,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169633841,
-    "wof:lastmodified":1474070637,
+    "wof:lastmodified":1491938366,
     "wof:name":"Aksiyon Kagit Kirtasiye",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",

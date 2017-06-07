@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9547271729,41.0084228516,28.9547271729,41.0084228516",
     "geom:latitude":41.008423,
     "geom:longitude":28.954727,
@@ -31,11 +32,7 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NAMNe2RQdWptO2hRrr4Pw_41.008423_28.954727@1306270056"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064969,
     "wof:geomhash":"8b0244c2c80301c93bd6b055d92edab9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108579957
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108579957,
-    "wof:lastmodified":1474070857,
+    "wof:lastmodified":1491908612,
     "wof:name":"Danislar Otomotiv San. Tic. A.s.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9012508392,40.9865074158,28.9012508392,40.9865074158",
     "geom:latitude":40.986507,
     "geom:longitude":28.901251,
@@ -31,11 +32,7 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SAaBxutIwF5ZqatYHOF61_40.986507_28.901251@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064694,
     "wof:geomhash":"e49e2fde65056220ca317f9a3fca0103",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108575831
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575831,
-    "wof:lastmodified":1474070745,
+    "wof:lastmodified":1491897852,
     "wof:name":"Ademoglu Iplik San. Ve Dis Tic.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

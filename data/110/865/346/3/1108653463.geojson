@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.925447464,41.0410461426,28.925447464,41.0410461426",
     "geom:latitude":41.041046,
     "geom:longitude":28.925447,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iN8sBPtMmbYcgrsFX5UZl_41.041046_28.925447@1306270070"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068000,
     "wof:geomhash":"430ef21273b7ad47b78754027e429d13",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108653463
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108653463,
-    "wof:lastmodified":1474070788,
+    "wof:lastmodified":1491920326,
     "wof:name":"Hm Korozyon Muh.san.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

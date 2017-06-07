@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0064258575,41.054359436,29.0064258575,41.054359436",
     "geom:latitude":41.054359,
     "geom:longitude":29.006426,
@@ -32,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929473,
+        85679237,
         102191569,
         85632393,
-        101912685,
-        85679237,
+        101912663,
+        890462841,
         85904169,
-        101912663
+        101912685,
+        890461743,
+        85929473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +54,26 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":101912685,
-            "neighbourhood_id":85929473,
+            "county_id":890462841,
+            "locality_id":101912663,
+            "neighbourhood_id":85904169,
             "region_id":85679237,
             "venue_id":1108665183
         },
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":101912663,
-            "neighbourhood_id":85904169,
+            "county_id":890461743,
+            "locality_id":101912685,
+            "neighbourhood_id":85929473,
             "region_id":85679237,
             "venue_id":1108665183
         }
     ],
     "wof:id":1108665183,
-    "wof:lastmodified":1474070851,
+    "wof:lastmodified":1491913405,
     "wof:name":"Mail Boxes",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.021729,41.116024,29.021729,41.116024",
     "geom:latitude":41.116024,
     "geom:longitude":29.021729,
@@ -31,10 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929945,
+        85679237,
+        102191569,
         85632393,
         101912651,
-        85679237
+        890461743,
+        85929945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,9 @@
     "wof:geomhash":"f98f858645164506ab4e42538180d3db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912651,
             "neighbourhood_id":85929945,
             "region_id":85679237,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":169548963,
-    "wof:lastmodified":1474070691,
+    "wof:lastmodified":1491889274,
     "wof:name":"Bayindir Rulman Ltd. Sti.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9584960938,41.0047454834,28.9584960938,41.0047454834",
     "geom:latitude":41.004745,
     "geom:longitude":28.958496,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oUpJFeaRxNjJyImGH8Ijx_41.004745_28.958496@1306270054"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064499,
     "wof:geomhash":"310614c14b1f525c44b7da0b98cffa10",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108571069
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108571069,
-    "wof:lastmodified":1474070646,
+    "wof:lastmodified":1491908617,
     "wof:name":"Farma Plast Fir?a Ve Plastik San. Tic. A.s.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

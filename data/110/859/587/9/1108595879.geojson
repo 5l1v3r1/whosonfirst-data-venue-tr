@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9132118225,41.0321388245,28.9132118225,41.0321388245",
     "geom:latitude":41.032139,
     "geom:longitude":28.913212,
@@ -30,11 +31,7 @@
         "supplementaries"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zwhsoMIPdlAKZFnSK4sTt_41.032139_28.913212@1306270059"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474065463,
     "wof:geomhash":"6ddaf0d43d887b977cb638158bf9ce49",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108595879
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595879,
-    "wof:lastmodified":1474070772,
+    "wof:lastmodified":1491920330,
     "wof:name":"Seny?zl? Deri ?rnl. Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

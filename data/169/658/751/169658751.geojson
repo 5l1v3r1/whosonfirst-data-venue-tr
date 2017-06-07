@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.986826,41.03091,28.986826,41.03091",
     "geom:latitude":41.03091,
     "geom:longitude":28.986826,
@@ -32,30 +33,16 @@
         "utensil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iNS4lYKGSr0EwyODpaZQV_41.030910_28.986826@1306270053"
     },
     "wof:country":"TR",
     "wof:geomhash":"1f9fe6efa0a056363019cca7d7a8e6d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":169658751
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169658751,
-    "wof:lastmodified":1474070655,
+    "wof:lastmodified":1491922838,
     "wof:name":"Baldini & Co.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

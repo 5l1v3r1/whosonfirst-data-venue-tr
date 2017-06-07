@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8550891876,41.0588569641,28.8550891876,41.0588569641",
     "geom:latitude":41.058857,
     "geom:longitude":28.855089,
@@ -32,11 +33,7 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ifC1zd4oLRTqHhL3VNPVo_41.058857_28.855089@1306270073"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068565,
     "wof:geomhash":"7794d349aa5ac89c3290e3917031f693",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108668139
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108668139,
-    "wof:lastmodified":1474070850,
+    "wof:lastmodified":1491916189,
     "wof:name":"Globus D?nya Basinevi",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

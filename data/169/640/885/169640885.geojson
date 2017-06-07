@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.904543,40.990181,28.904543,40.990181",
     "geom:latitude":40.990181,
     "geom:longitude":28.904543,
@@ -27,29 +28,16 @@
     "sg:phone":"+90 212 558 6268",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904171,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m3AQWQhX0nKETdceE5tPC_40.990181_28.904543@1306270053"
     },
     "wof:country":"TR",
     "wof:geomhash":"98238618af731e543c5f162a325e529b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":169640885
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169640885,
-    "wof:lastmodified":1474070671,
+    "wof:lastmodified":1491897852,
     "wof:name":"G?kalp ?zalit",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

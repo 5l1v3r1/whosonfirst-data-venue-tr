@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9102478027,40.9933815002,28.9102478027,40.9933815002",
     "geom:latitude":40.993382,
     "geom:longitude":28.910248,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AqWO2Fc7S3tOAoNneSd5V_40.993382_28.910248@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065496,
     "wof:geomhash":"85c26ac1e2b2780667fd9976154dbd93",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596567
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596567,
-    "wof:lastmodified":1474070801,
+    "wof:lastmodified":1491897856,
     "wof:name":"Der-ay Deri San.tic.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

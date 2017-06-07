@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8530864716,41.0647010803,28.8530864716,41.0647010803",
     "geom:latitude":41.064701,
     "geom:longitude":28.853086,
@@ -31,11 +32,7 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bKlU1cm4cwmUgxsDzuBtS_41.064701_28.853086@1306270056"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064795,
     "wof:geomhash":"1079cf6f66aa75526c01f2a9c3067536",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108577321
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108577321,
-    "wof:lastmodified":1474070770,
+    "wof:lastmodified":1491916185,
     "wof:name":"Atilim Buro Mob.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

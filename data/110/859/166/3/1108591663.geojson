@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9545936584,41.0077095032,28.9545936584,41.0077095032",
     "geom:latitude":41.00771,
     "geom:longitude":28.954594,
@@ -31,11 +32,7 @@
         "kitchenware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JO9HrniyZ33NzQtLs5QRU_41.007710_28.954594@1306270058"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065298,
     "wof:geomhash":"7413fff76b843ea963440a999c304924",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108591663
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591663,
-    "wof:lastmodified":1474070693,
+    "wof:lastmodified":1491908615,
     "wof:name":"Lazer Metal San Tic.ltd.sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

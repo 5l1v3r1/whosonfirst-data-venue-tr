@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2301692963,40.8758430481,29.2301692963,40.8758430481",
     "geom:latitude":40.875843,
     "geom:longitude":29.230169,
@@ -32,10 +33,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Iv9AVvca3hSN71rQ5TOMF_40.875843_29.230169@1306270060"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065746,
     "wof:geomhash":"0ee82f67fcb7f4995e8add9764235e3b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108602791
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602791,
-    "wof:lastmodified":1474070722,
+    "wof:lastmodified":1491902294,
     "wof:name":"Yonca Dogalgaz Isi San.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

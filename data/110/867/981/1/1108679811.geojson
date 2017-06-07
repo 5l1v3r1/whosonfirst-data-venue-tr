@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9260425568,41.0408096313,28.9260425568,41.0408096313",
     "geom:latitude":41.04081,
     "geom:longitude":28.926043,
@@ -23,11 +24,7 @@
     "sg:postcode":"34600",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JqClkd8hwfhfUjnNbhJVE_41.040810_28.926043@1306270075"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474069035,
     "wof:geomhash":"4ef62c07d397b792fe1edf6f1cb3724d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108679811
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108679811,
-    "wof:lastmodified":1474070851,
+    "wof:lastmodified":1491920332,
     "wof:name":"Punto Mobilya Aksesuarlari",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

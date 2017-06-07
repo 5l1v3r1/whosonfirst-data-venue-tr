@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.863306,41.056545,28.863306,41.056545",
     "geom:latitude":41.056545,
     "geom:longitude":28.863306,
@@ -31,29 +32,16 @@
         "necktie"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85930169,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mX1DRsBStjxYNuoKcsNir_41.056545_28.863306@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"30a5f5bafea9b27908df44885cbb3bc2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":169579669
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169579669,
-    "wof:lastmodified":1474070677,
+    "wof:lastmodified":1491916188,
     "wof:name":"Serhat Tekstil",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

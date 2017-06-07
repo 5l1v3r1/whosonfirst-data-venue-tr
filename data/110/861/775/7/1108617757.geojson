@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.957906723,41.0076599121,28.957906723,41.0076599121",
     "geom:latitude":41.00766,
     "geom:longitude":28.957907,
@@ -22,11 +23,7 @@
     "sg:postcode":"24300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_118Hw0txigzhkHcNyGGDn9_41.007660_28.957907@1306270063"
@@ -34,19 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474066374,
     "wof:geomhash":"b454a3194c7f849d2e7ea741e10cdb7f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108617757
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617757,
-    "wof:lastmodified":1474070830,
+    "wof:lastmodified":1491908617,
     "wof:name":"Erdal Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

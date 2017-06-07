@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2312355042,40.8779525757,29.2312355042,40.8779525757",
     "geom:latitude":40.877953,
     "geom:longitude":29.231236,
@@ -33,10 +34,7 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W7LFkVB4EiqfViDIsGkBH_40.877953_29.231236@1306270072"
@@ -44,15 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068394,
     "wof:geomhash":"04852047d2ee2f84390a8f9ed473f37e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108663729
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663729,
-    "wof:lastmodified":1474070789,
+    "wof:lastmodified":1491902293,
     "wof:name":"Doga Pen Pvc Kapi Pencere Sistemleri Tic. Sti.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

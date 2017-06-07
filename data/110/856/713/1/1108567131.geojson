@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9046916962,40.9882240295,28.9046916962,40.9882240295",
     "geom:latitude":40.988224,
     "geom:longitude":28.904692,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dljkPAq2OHXmwS1qYoyrz_40.988224_28.904692@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064334,
     "wof:geomhash":"482ae726c1f740093fe14c73410276fc",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108567131
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108567131,
-    "wof:lastmodified":1474070748,
+    "wof:lastmodified":1491897862,
     "wof:name":"Elif Makina San. Tic. Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

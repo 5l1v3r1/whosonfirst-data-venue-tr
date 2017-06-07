@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9562702179,41.0076789856,28.9562702179,41.0076789856",
     "geom:latitude":41.007679,
     "geom:longitude":28.95627,
@@ -22,11 +23,7 @@
     "sg:postcode":"24300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53VOMNmgr3fIwjcJZ4BDi9_41.007679_28.956270@1306270063"
@@ -34,19 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474066366,
     "wof:geomhash":"aec2f008a041969261ca7919b7838117",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108617509
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617509,
-    "wof:lastmodified":1474070830,
+    "wof:lastmodified":1491908614,
     "wof:name":"Beg? Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.986179,41.072453,28.986179,41.072453",
     "geom:latitude":41.072453,
     "geom:longitude":28.986179,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,9 @@
     "wof:geomhash":"bcb5aeef35123cc1757f8f4376ff2484",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169584617,
-    "wof:lastmodified":1474070682,
+    "wof:lastmodified":1491911166,
     "wof:name":"Hamidiye Furkan Su",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

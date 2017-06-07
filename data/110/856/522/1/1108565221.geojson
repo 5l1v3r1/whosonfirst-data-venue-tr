@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.917345047,41.0334434509,28.917345047,41.0334434509",
     "geom:latitude":41.033443,
     "geom:longitude":28.917345,
@@ -22,11 +23,7 @@
     "sg:phone":"+90 212 674 2480",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a9lFKgQeTFh0Thdq6iuks_41.033443_28.917345@1306270053"
@@ -34,16 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474064227,
     "wof:geomhash":"92272d4d15978b426aa9dad4f8d402bc",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108565221
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108565221,
-    "wof:lastmodified":1474070689,
+    "wof:lastmodified":1491920329,
     "wof:name":"Bahar Otomatik Otopark Sistemleri A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

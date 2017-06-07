@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2329998016,40.879283905,29.2329998016,40.879283905",
     "geom:latitude":40.879284,
     "geom:longitude":29.233,
@@ -30,10 +31,7 @@
         "lifts-elevators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kZdO6iICaPRpaEsOu1Rhh_40.879284_29.233000@1306270059"
@@ -41,15 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474065537,
     "wof:geomhash":"4d2d38a3e4a593f18ae93759dd6e13dc",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108597655
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597655,
-    "wof:lastmodified":1474070801,
+    "wof:lastmodified":1491902293,
     "wof:name":"Edessa Asans? Sanayi",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

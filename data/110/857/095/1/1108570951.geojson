@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9705238342,41.016910553,28.9705238342,41.016910553",
     "geom:latitude":41.016911,
     "geom:longitude":28.970524,
@@ -31,10 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906479,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yyLqfwm6E960j4y5Fxh88_41.016911_28.970524@1306270054"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064495,
     "wof:geomhash":"7a5fee88e6b845f6eabafba8f9f5d91f",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906479,
-            "region_id":85679237,
-            "venue_id":1108570951
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108570951,
-    "wof:lastmodified":1474070662,
+    "wof:lastmodified":1491901182,
     "wof:name":"Ender Plastik Ambalaj Sanayi",
     "wof:parent_id":85906479,
     "wof:placetype":"venue",

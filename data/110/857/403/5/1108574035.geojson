@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9031677246,40.9917755127,28.9031677246,40.9917755127",
     "geom:latitude":40.991776,
     "geom:longitude":28.903168,
@@ -30,11 +31,7 @@
         "glass-mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49VMBhSi95aeWrc8i2VHbV_40.991776_28.903168@1306270055"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064625,
     "wof:geomhash":"ea0c54a19829df00f2c10b98d2b1d837",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108574035
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108574035,
-    "wof:lastmodified":1474070725,
+    "wof:lastmodified":1491897861,
     "wof:name":"Sedef Cam-altin Yaldiz Tezyinat",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

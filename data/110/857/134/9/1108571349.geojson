@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.92694664,41.0366249084,28.92694664,41.0366249084",
     "geom:latitude":41.036625,
     "geom:longitude":28.926947,
@@ -30,11 +31,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Thw5fuD3Lljco2RNIODuL_41.036625_28.926947@1306270054"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064509,
     "wof:geomhash":"3c2be5c7cd0a1345ffd16a5a273dc21d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108571349
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108571349,
-    "wof:lastmodified":1474070649,
+    "wof:lastmodified":1491920320,
     "wof:name":"Ideal Plastik Kalip Ve Makina",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

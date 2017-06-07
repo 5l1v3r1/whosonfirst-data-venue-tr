@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9546756744,41.0077056885,28.9546756744,41.0077056885",
     "geom:latitude":41.007706,
     "geom:longitude":28.954676,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75JrYix3zerSgyWxnnA0yq_41.007706_28.954676@1306270070"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474067962,
     "wof:geomhash":"4d50d8af324a0cabe450a6c428e973fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108652545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108652545,
-    "wof:lastmodified":1474070778,
+    "wof:lastmodified":1491908616,
     "wof:name":"Klasmen",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

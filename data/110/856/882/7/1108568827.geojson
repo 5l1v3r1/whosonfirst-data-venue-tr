@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.11876297,41.0228691101,29.11876297,41.0228691101",
     "geom:latitude":41.022869,
     "geom:longitude":29.118763,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ESwveWlvca6h3YdOlUMvd_41.022869_29.118763@1306270054"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064409,
     "wof:geomhash":"4a021c6899588f711014f916d5086a99",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108568827
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108568827,
-    "wof:lastmodified":1474070822,
+    "wof:lastmodified":1491916632,
     "wof:name":"Oztabak Tic.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

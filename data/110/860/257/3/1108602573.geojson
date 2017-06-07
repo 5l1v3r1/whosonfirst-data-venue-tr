@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9309234619,41.0393981934,28.9309234619,41.0393981934",
     "geom:latitude":41.039398,
     "geom:longitude":28.930923,
@@ -32,11 +33,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ifT1HflxDg3PBfnQtLjcB_41.039398_28.930923@1306270060"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065739,
     "wof:geomhash":"f803c85a7346b52240db73b878bd807d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108602573
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602573,
-    "wof:lastmodified":1474070713,
+    "wof:lastmodified":1491920328,
     "wof:name":"Soley M?h. Dogalgaz Isi San.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

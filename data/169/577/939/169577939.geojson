@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.959414,41.00576,28.959414,41.00576",
     "geom:latitude":41.00576,
     "geom:longitude":28.959414,
@@ -33,30 +34,16 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LAhpFTk652IKOGAB05CAK_41.005760_28.959414@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"5cc37e0ce1339abd1fdebb6dabe54fb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":169577939
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169577939,
-    "wof:lastmodified":1474070662,
+    "wof:lastmodified":1491908619,
     "wof:name":"Oguz Deniz Act.ltd.sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

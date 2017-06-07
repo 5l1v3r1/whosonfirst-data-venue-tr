@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9308547974,41.0004730225,28.9308547974,41.0004730225",
     "geom:latitude":41.000473,
     "geom:longitude":28.930855,
@@ -30,11 +31,7 @@
         "architect"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85929373
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xMnwFd1s48RsvZZT6k33W_41.000473_28.930855@1306270067"
@@ -42,19 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474067292,
     "wof:geomhash":"4bfc2d91d23d7cbd78caa0e0fa1f9067",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85929373,
-            "region_id":85679237,
-            "venue_id":1108636795
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108636795,
-    "wof:lastmodified":1474070805,
+    "wof:lastmodified":1491910372,
     "wof:name":"Celteks Muhendilik",
     "wof:parent_id":85929373,
     "wof:placetype":"venue",

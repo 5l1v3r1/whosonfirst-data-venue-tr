@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9057292938,40.9904708862,28.9057292938,40.9904708862",
     "geom:latitude":40.990471,
     "geom:longitude":28.905729,
@@ -34,11 +35,7 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eGwEInq0MUI222PpRKfHI_40.990471_28.905729@1306270059"
@@ -46,16 +43,9 @@
     "wof:country":"TR",
     "wof:created":1474065437,
     "wof:geomhash":"84d2b159d80037f21e5354c162bd9aa9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595445,
-    "wof:lastmodified":1474070755,
+    "wof:lastmodified":1491897863,
     "wof:name":"Torino Dericilik San Ve Tic",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

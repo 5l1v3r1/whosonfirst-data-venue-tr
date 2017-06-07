@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9373493195,41.0366363525,28.9373493195,41.0366363525",
     "geom:latitude":41.036636,
     "geom:longitude":28.937349,
@@ -32,11 +33,7 @@
         "casting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_238H7TihJ4R2SmUV2XynZw_41.036636_28.937349@1306270063"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474066488,
     "wof:geomhash":"f54291ee473f22d26f791d991226f8cc",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108620493
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108620493,
-    "wof:lastmodified":1474070672,
+    "wof:lastmodified":1491920325,
     "wof:name":"Temiz Is D?k?m Tic. Ltd. Sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

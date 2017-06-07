@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9063777924,40.9896774292,28.9063777924,40.9896774292",
     "geom:latitude":40.989677,
     "geom:longitude":28.906378,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j1vGcmC4PI9gHxq2ShBZg_40.989677_28.906378@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065510,
     "wof:geomhash":"638cc9e6407c010ca54f19a4651c7d4b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596941,
-    "wof:lastmodified":1474070791,
+    "wof:lastmodified":1491897857,
     "wof:name":"Narin Deri Konf. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

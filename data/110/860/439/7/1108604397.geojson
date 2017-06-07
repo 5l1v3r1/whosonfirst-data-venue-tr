@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1138114929,41.0188941956,29.1138114929,41.0188941956",
     "geom:latitude":41.018894,
     "geom:longitude":29.113811,
@@ -31,11 +32,7 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K4goSc7fxn1DzacdWQei8_41.018894_29.113811@1306270061"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065814,
     "wof:geomhash":"86f635276f8a78147b59c1e09f9c4f95",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108604397
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108604397,
-    "wof:lastmodified":1474070734,
+    "wof:lastmodified":1491916636,
     "wof:name":"Birlik Gida Ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

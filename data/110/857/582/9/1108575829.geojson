@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8526668549,41.061088562,28.8526668549,41.061088562",
     "geom:latitude":41.061089,
     "geom:longitude":28.852667,
@@ -31,11 +32,7 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DWvoldH91jMCfA0vooYT7_41.061089_28.852667@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064694,
     "wof:geomhash":"53d74adf5a5589762b0c0edef88f8eab",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108575829
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575829,
-    "wof:lastmodified":1474070743,
+    "wof:lastmodified":1491916187,
     "wof:name":"Acar Iplik A.s",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

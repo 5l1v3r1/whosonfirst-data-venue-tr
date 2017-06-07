@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8016319275,41.0260696411,28.8016319275,41.0260696411",
     "geom:latitude":41.02607,
     "geom:longitude":28.801632,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i9JYlULVoCHIiiPv8VF6A_41.026070_28.801632@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065901,
     "wof:geomhash":"4b91a074ff2512b45ee9560679ef606d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108606343
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606343,
-    "wof:lastmodified":1474070764,
+    "wof:lastmodified":1491896535,
     "wof:name":"Metas Tekstil San. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

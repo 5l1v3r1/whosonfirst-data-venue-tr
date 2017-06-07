@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.972216,41.074734,28.972216,41.074734",
     "geom:latitude":41.074734,
     "geom:longitude":28.972216,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,9 @@
     "wof:geomhash":"d3f38117d0844d6c837007d56a20f42d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169548595,
-    "wof:lastmodified":1474070670,
+    "wof:lastmodified":1491911182,
     "wof:name":"Pilma Pil San. Ltd. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

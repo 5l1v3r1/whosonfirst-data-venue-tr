@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9140300751,41.0344467163,28.9140300751,41.0344467163",
     "geom:latitude":41.034447,
     "geom:longitude":28.91403,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JqvQ1wtwU3iFb4UgZJBlo_41.034447_28.914030@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065509,
     "wof:geomhash":"297286dbf400e4dc43168179da1c378c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108596905
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596905,
-    "wof:lastmodified":1474070800,
+    "wof:lastmodified":1491920328,
     "wof:name":"Matras Deri A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

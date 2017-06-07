@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9026985168,40.987575531,28.9026985168,40.987575531",
     "geom:latitude":40.987576,
     "geom:longitude":28.902699,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LlEJVcekCvTHbIHKrvdKJ_40.987576_28.902699@1306270071"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068246,
     "wof:geomhash":"28713b7089dec7256e5b63b4be1039fa",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108659737
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108659737,
-    "wof:lastmodified":1474070848,
+    "wof:lastmodified":1491897858,
     "wof:name":"Ak Tic. Kagitcilik Ve Ambalaj Malz.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9174156189,41.0425872803,28.9174156189,41.0425872803",
     "geom:latitude":41.042587,
     "geom:longitude":28.917416,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sEuDxGmCUmNCkaZxYHpti_41.042587_28.917416@1306270060"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065806,
     "wof:geomhash":"606da07247db0a0cb341614f38ddba91",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108604167
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108604167,
-    "wof:lastmodified":1474070734,
+    "wof:lastmodified":1491920322,
     "wof:name":"Ozen Aluminyum Sanayi Ve Ticaret A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9215126038,41.0425262451,28.9215126038,41.0425262451",
     "geom:latitude":41.042526,
     "geom:longitude":28.921513,
@@ -31,11 +32,7 @@
         "agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BpIPEUY3XEz9pdIU5Zzh9_41.042526_28.921513@1306270060"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065636,
     "wof:geomhash":"e184fbe345341748e7a58ea3188cb1b0",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108600129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108600129,
-    "wof:lastmodified":1474070678,
+    "wof:lastmodified":1491920324,
     "wof:name":"Sabri Yaman Agac Makinalari Sanayi A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

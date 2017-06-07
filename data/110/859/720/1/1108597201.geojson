@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9042510986,40.9929084778,28.9042510986,40.9929084778",
     "geom:latitude":40.992908,
     "geom:longitude":28.904251,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NzA3n9gAnxbfQhUo2pIsF_40.992908_28.904251@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065519,
     "wof:geomhash":"7ab0b9367ece7c9bf527fc0ac62399f4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108597201
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597201,
-    "wof:lastmodified":1474070800,
+    "wof:lastmodified":1491897860,
     "wof:name":"Vizon Deri Show",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

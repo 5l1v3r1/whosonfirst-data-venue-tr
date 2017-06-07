@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9217662811,41.0392913818,28.9217662811,41.0392913818",
     "geom:latitude":41.039291,
     "geom:longitude":28.921766,
@@ -31,11 +32,7 @@
         "glass-mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EiMgr6HTkASkTOZabT2gZ_41.039291_28.921766@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064627,
     "wof:geomhash":"7e1c02d6c6dddfeec134d732097a8208",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108574105
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108574105,
-    "wof:lastmodified":1474070737,
+    "wof:lastmodified":1491920328,
     "wof:name":"Topkapi Sise Cam San. Ltd. Sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

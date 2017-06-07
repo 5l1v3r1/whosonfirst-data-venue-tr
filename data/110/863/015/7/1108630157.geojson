@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9147815704,41.0319061279,28.9147815704,41.0319061279",
     "geom:latitude":41.031906,
     "geom:longitude":28.914782,
@@ -23,11 +24,7 @@
     "sg:postcode":"36100",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GkN29vLqZCIoF4PDtT1eU_41.031906_28.914782@1306270065"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066924,
     "wof:geomhash":"ae15d65c5f3af6e5e9991576b0a12e4d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108630157
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108630157,
-    "wof:lastmodified":1474070674,
+    "wof:lastmodified":1491920320,
     "wof:name":"Gen? Levent Triko",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9579906464,41.0069618225,28.9579906464,41.0069618225",
     "geom:latitude":41.006962,
     "geom:longitude":28.957991,
@@ -23,11 +24,7 @@
     "sg:postcode":"24300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DxaBIeBqlx0Xbg3b6VT15_41.006962_28.957991@1306270063"
@@ -35,19 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066420,
     "wof:geomhash":"69ca81808348dab260d2ce41170a0253",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108618781
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108618781,
-    "wof:lastmodified":1474070838,
+    "wof:lastmodified":1491908617,
     "wof:name":"Selim Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

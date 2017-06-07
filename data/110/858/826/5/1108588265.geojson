@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9148464203,41.0324401855,28.9148464203,41.0324401855",
     "geom:latitude":41.03244,
     "geom:longitude":28.914846,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tRukrOVYVVdsweCfenwYY_41.032440_28.914846@1306270057"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065211,
     "wof:geomhash":"7492c27cf123e9804bdbfb63a9a7b8d2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108588265
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108588265,
-    "wof:lastmodified":1474070788,
+    "wof:lastmodified":1491920326,
     "wof:name":"Egzotik Triko",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

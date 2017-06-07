@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.6210727692,41.0198364258,28.6210727692,41.0198364258",
     "geom:latitude":41.019836,
     "geom:longitude":28.621073,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929935,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LnizE0VlgCy3bilIE9fSj_41.019836_28.621073@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065916,
     "wof:geomhash":"edb76b50811ac7ebd1af8a65bcbc3e0a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929935,
-            "region_id":85679237,
-            "venue_id":1108606571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606571,
-    "wof:lastmodified":1474070770,
+    "wof:lastmodified":1491901279,
     "wof:name":"Osargin Textil",
     "wof:parent_id":85929935,
     "wof:placetype":"venue",

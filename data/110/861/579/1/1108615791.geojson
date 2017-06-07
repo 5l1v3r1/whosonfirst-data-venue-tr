@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9501800537,41.0034217834,28.9501800537,41.0034217834",
     "geom:latitude":41.003422,
     "geom:longitude":28.95018,
@@ -30,11 +31,7 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yVy9b3R505SO0IkpPS1nM_41.003422_28.950180@1306270063"
@@ -42,19 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474066300,
     "wof:geomhash":"0999ef91b25443acdb98ed16be92c06c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108615791
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108615791,
-    "wof:lastmodified":1474070798,
+    "wof:lastmodified":1491908615,
     "wof:name":"Mutlu Mobilya",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

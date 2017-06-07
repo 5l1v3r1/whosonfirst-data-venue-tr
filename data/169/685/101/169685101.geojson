@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.049362,41.178108,29.049362,41.178108",
     "geom:latitude":41.178108,
     "geom:longitude":29.049362,
@@ -32,8 +33,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930165,
         85632393,
+        85930165,
         85679237
     ],
     "wof:breaches":[],
@@ -44,16 +45,14 @@
     "wof:geomhash":"469868fd259530e950112c433a5ecfea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85632393,
-            "locality_id":-1,
             "neighbourhood_id":85930165,
             "region_id":85679237,
             "venue_id":169685101
         }
     ],
     "wof:id":169685101,
-    "wof:lastmodified":1474070645,
+    "wof:lastmodified":1491934072,
     "wof:name":"Pro-vet Veteriner Klinigi",
     "wof:parent_id":85930165,
     "wof:placetype":"venue",

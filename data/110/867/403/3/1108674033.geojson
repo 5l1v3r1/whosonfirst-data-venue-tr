@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0444488525,41.0222091675,29.0444488525,41.0222091675",
     "geom:latitude":41.022209,
     "geom:longitude":29.044449,
@@ -35,11 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906613,
+        85679237,
         102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85906613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +54,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85906613,
             "region_id":85679237,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108674033,
-    "wof:lastmodified":1474070687,
+    "wof:lastmodified":1491925370,
     "wof:name":"Cargill Gida San.ve Tic.a.s.",
     "wof:parent_id":85906613,
     "wof:placetype":"venue",

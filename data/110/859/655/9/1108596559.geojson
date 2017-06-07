@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9046936035,40.9938278198,28.9046936035,40.9938278198",
     "geom:latitude":40.993828,
     "geom:longitude":28.904694,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07k3tXIcqy8yNmhNhpyQYS_40.993828_28.904694@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065495,
     "wof:geomhash":"50de7070c35aa9bc4b0a8b627b9a3e01",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596559
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596559,
-    "wof:lastmodified":1474070795,
+    "wof:lastmodified":1491897853,
     "wof:name":"Denisse Kurk San.tic.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

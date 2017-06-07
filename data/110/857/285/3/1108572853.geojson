@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0115871429,41.0242271423,29.0115871429,41.0242271423",
     "geom:latitude":41.024227,
     "geom:longitude":29.011587,
@@ -28,10 +29,7 @@
     "sg:postcode":"34670",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eaHYQYyRGZPKJo9kAJ8BA_41.024227_29.011587@1306270055"
@@ -39,15 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474064574,
     "wof:geomhash":"32e2ccf61f5916b5f1e4e454abdc3713",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108572853
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108572853,
-    "wof:lastmodified":1474070663,
+    "wof:lastmodified":1491926956,
     "wof:name":"Anadolu Matbaacilik Ltd.sti.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

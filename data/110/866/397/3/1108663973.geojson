@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9333324432,41.0,28.9333324432,41.0",
     "geom:latitude":41.0,
     "geom:longitude":28.933332,
@@ -32,11 +33,7 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85929373
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jmdin5HRHmXXbEELCHkp2_41.000000_28.933332@1306270072"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068403,
     "wof:geomhash":"9d0318aea5d6ecc91fa2e56e51abc145",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85929373,
-            "region_id":85679237,
-            "venue_id":1108663973
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663973,
-    "wof:lastmodified":1474070789,
+    "wof:lastmodified":1491910372,
     "wof:name":"Mod Pen Plastik Pencere Kapi San. Tic. Ltd. Sti.",
     "wof:parent_id":85929373,
     "wof:placetype":"venue",

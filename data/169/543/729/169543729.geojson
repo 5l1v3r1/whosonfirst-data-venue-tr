@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.866425,40.975998,28.866425,40.975998",
     "geom:latitude":40.975998,
     "geom:longitude":28.866425,
@@ -29,8 +30,12 @@
     "sg:province":"34710",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930019,
-        85632393
+        85679237,
+        102191569,
+        85632393,
+        101912673,
+        890462833,
+        85930019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +45,17 @@
     "wof:geomhash":"9f3a46e352ea230ce0011f1d2d602bb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":-1,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
-            "region_id":-1,
+            "region_id":85679237,
             "venue_id":169543729
         }
     ],
     "wof:id":169543729,
-    "wof:lastmodified":1474070680,
+    "wof:lastmodified":1491895280,
     "wof:name":"T?kiye Emlak, Bankasi As",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9038105011,40.9899673462,28.9038105011,40.9899673462",
     "geom:latitude":40.989967,
     "geom:longitude":28.903811,
@@ -33,11 +34,7 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JZfZU8m7VzmFwCOvRnInM_40.989967_28.903811@1306270072"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068413,
     "wof:geomhash":"f17528dc4f90145aea227bb4897177c4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108664233
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108664233,
-    "wof:lastmodified":1474070790,
+    "wof:lastmodified":1491897854,
     "wof:name":"?zkayalar Tic. Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

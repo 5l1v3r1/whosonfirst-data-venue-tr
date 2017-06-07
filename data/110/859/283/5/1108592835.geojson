@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.010433197,41.0248146057,29.010433197,41.0248146057",
     "geom:latitude":41.024815,
     "geom:longitude":29.010433,
@@ -31,10 +32,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yK0ZxrQpyFKP6V9LKEJM9_41.024815_29.010433@1306270058"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065337,
     "wof:geomhash":"93649297c6b47093c56c695f3b6c1db6",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108592835
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108592835,
-    "wof:lastmodified":1474070714,
+    "wof:lastmodified":1491926957,
     "wof:name":"Altunizade Veteriner Klinigi",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

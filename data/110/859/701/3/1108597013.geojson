@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9082679749,40.9889259338,28.9082679749,40.9889259338",
     "geom:latitude":40.988926,
     "geom:longitude":28.908268,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jkYV2tYpoMcPaN38Pawgx_40.988926_28.908268@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065513,
     "wof:geomhash":"2f8fab89886c4648054f858a39994f15",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108597013
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597013,
-    "wof:lastmodified":1474070784,
+    "wof:lastmodified":1491897856,
     "wof:name":"Pasha Deri Konf.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.6180496216,41.0260505676,28.6180496216,41.0260505676",
     "geom:latitude":41.026051,
     "geom:longitude":28.61805,
@@ -31,11 +32,7 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929935,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SUDmnVqCsyI05tvcs1mK6_41.026051_28.618050@1306270063"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474066279,
     "wof:geomhash":"0ad60a5ca7dab4b97fe5516808b095cc",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929935,
-            "region_id":85679237,
-            "venue_id":1108615139
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108615139,
-    "wof:lastmodified":1474070792,
+    "wof:lastmodified":1491901280,
     "wof:name":"Can Mobilya",
     "wof:parent_id":85929935,
     "wof:placetype":"venue",

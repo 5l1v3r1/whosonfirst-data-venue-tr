@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9501991272,41.0053024292,28.9501991272,41.0053024292",
     "geom:latitude":41.005302,
     "geom:longitude":28.950199,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vIZeMd5x7ujkdXigU89kI_41.005302_28.950199@1306270071"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068249,
     "wof:geomhash":"97212c347e6b06f5e8a4cb05cff6bb87",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108659817
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108659817,
-    "wof:lastmodified":1474070849,
+    "wof:lastmodified":1491908616,
     "wof:name":"Anbaj San.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

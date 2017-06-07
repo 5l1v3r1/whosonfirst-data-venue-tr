@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9070777893,40.9979438782,28.9070777893,40.9979438782",
     "geom:latitude":40.997944,
     "geom:longitude":28.907078,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dOL03vk5C9ux3uTMU19pS_40.997944_28.907078@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065513,
     "wof:geomhash":"01e55a69cd8fa78a1f6b70a1982c786c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596995
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596995,
-    "wof:lastmodified":1474070792,
+    "wof:lastmodified":1491897860,
     "wof:name":"Ozkan Deri Kurk Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

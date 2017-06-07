@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9124908447,41.0461883545,28.9124908447,41.0461883545",
     "geom:latitude":41.046188,
     "geom:longitude":28.912491,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3faYLyFw0vm37qJPjCbiFA_41.046188_28.912491@1306270072"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068380,
     "wof:geomhash":"934c8aa3a81d35abecfcebfa3cbdfed0",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108663381
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663381,
-    "wof:lastmodified":1474070792,
+    "wof:lastmodified":1491920331,
     "wof:name":"Borsas Boru Ve Sac San. Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

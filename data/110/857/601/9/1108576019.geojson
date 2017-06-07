@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9172859192,41.0336952209,28.9172859192,41.0336952209",
     "geom:latitude":41.033695,
     "geom:longitude":28.917286,
@@ -31,11 +32,7 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dgeC5iZ82M1Xx5w2MoOWS_41.033695_28.917286@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064701,
     "wof:geomhash":"f83c017cdbfffbe6c9fb4a0464077423",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108576019
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108576019,
-    "wof:lastmodified":1474070743,
+    "wof:lastmodified":1491920317,
     "wof:name":"Buniteks Tekstil Urunleri",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

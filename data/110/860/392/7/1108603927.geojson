@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9041404724,40.9866485596,28.9041404724,40.9866485596",
     "geom:latitude":40.986649,
     "geom:longitude":28.90414,
@@ -23,11 +24,7 @@
     "sg:postcode":"34670",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WIRarLccYHuCbbk7hJJor_40.986649_28.904140@1306270060"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474065791,
     "wof:geomhash":"ce734a025f02aac10d1acb3de7722230",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108603927
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108603927,
-    "wof:lastmodified":1474070721,
+    "wof:lastmodified":1491897853,
     "wof:name":"Ziya Aliminyum Dog .a.s.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

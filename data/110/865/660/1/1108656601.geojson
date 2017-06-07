@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1182403564,41.021812439,29.1182403564,41.021812439",
     "geom:latitude":41.021812,
     "geom:longitude":29.11824,
@@ -33,11 +34,7 @@
     ],
     "sg:website":"plasbak.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tQMauGVCaPO4MqywkqlLg_41.021812_29.118240@1306270071"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068123,
     "wof:geomhash":"cbb2be00b585538a826050653a2dec84",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108656601
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108656601,
-    "wof:lastmodified":1474070841,
+    "wof:lastmodified":1491916635,
     "wof:name":"Plasbak Plastik Bakalit-enjeksiyon-kalip Ltd.s",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

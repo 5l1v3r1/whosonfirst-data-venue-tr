@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9253005981,41.0460014343,28.9253005981,41.0460014343",
     "geom:latitude":41.046001,
     "geom:longitude":28.925301,
@@ -30,11 +31,7 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m9fSSb9BXsjuqR7RsT1Bs_41.046001_28.925301@1306270063"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474066266,
     "wof:geomhash":"993912a3fe1c3745851d1e8750a468aa",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108614895
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108614895,
-    "wof:lastmodified":1474070775,
+    "wof:lastmodified":1491920325,
     "wof:name":"Acarlar Mobilya",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

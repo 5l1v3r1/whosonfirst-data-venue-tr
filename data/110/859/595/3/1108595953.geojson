@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9072284698,40.9886245728,28.9072284698,40.9886245728",
     "geom:latitude":40.988625,
     "geom:longitude":28.907228,
@@ -28,11 +29,7 @@
     "sg:postcode":"34020",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JpwjAw6tm8DZBcbpv7AmX_40.988625_28.907228@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065465,
     "wof:geomhash":"003bbbfffeda80b44f8db3b867aa4c1a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595953
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595953,
-    "wof:lastmodified":1474070756,
+    "wof:lastmodified":1491897864,
     "wof:name":"Bursah Dericilik San.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

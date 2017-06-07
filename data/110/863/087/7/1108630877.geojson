@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9115009308,41.0404891968,28.9115009308,41.0404891968",
     "geom:latitude":41.040489,
     "geom:longitude":28.911501,
@@ -31,11 +32,7 @@
         "electric-electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x6k9Ds8u5YxSuDcMvsKFi_41.040489_28.911501@1306270066"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067057,
     "wof:geomhash":"67ddec30a4c77386ce254ef1c2b2d9db",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108630877
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108630877,
-    "wof:lastmodified":1474070697,
+    "wof:lastmodified":1491920317,
     "wof:name":"Batu Bobinaj San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

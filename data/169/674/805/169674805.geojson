@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.019236,41.112164,29.019236,41.112164",
     "geom:latitude":41.112164,
     "geom:longitude":29.019236,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929945,
+        85679237,
+        102191569,
         85632393,
         101912651,
-        85679237
+        890461743,
+        85929945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,9 @@
     "wof:geomhash":"6d2c5f82f86b512214f349050050b2bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912651,
             "neighbourhood_id":85929945,
             "region_id":85679237,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169674805,
-    "wof:lastmodified":1474070638,
+    "wof:lastmodified":1491889271,
     "wof:name":"Pelit Gida San.a.s.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",

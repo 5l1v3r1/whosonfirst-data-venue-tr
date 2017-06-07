@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.97871,41.03532,28.97871,41.03532",
     "geom:latitude":41.03532,
     "geom:longitude":28.97871,
@@ -30,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906549,
+        102191569,
         85632393,
         101913185,
         85679237
@@ -42,7 +44,7 @@
     "wof:geomhash":"c8a2d542f08241bb62cce4b8fde6aef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906549,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":169580995,
-    "wof:lastmodified":1474070687,
+    "wof:lastmodified":1491892261,
     "wof:name":"Kar Kundura",
     "wof:parent_id":85906549,
     "wof:placetype":"venue",

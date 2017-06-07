@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.010717392,41.0214653015,29.010717392,41.0214653015",
     "geom:latitude":41.021465,
     "geom:longitude":29.010717,
@@ -31,10 +32,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q7o2t9VWMFsSgmktLvemr_41.021465_29.010717@1306270060"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065725,
     "wof:geomhash":"f9f4af15083755b1d35dda66fd0dff07",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108602221
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602221,
-    "wof:lastmodified":1474070705,
+    "wof:lastmodified":1491926957,
     "wof:name":"Isik Isi San. Tic.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

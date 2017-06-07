@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8117904663,41.045791626,28.8117904663,41.045791626",
     "geom:latitude":41.045792,
     "geom:longitude":28.81179,
@@ -31,11 +32,7 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MV51CNnxe9luJyUJiMvmv_41.045792_28.811790@1306270073"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068472,
     "wof:geomhash":"966c392b289d54d0fc6315649a22750c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108665641
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108665641,
-    "wof:lastmodified":1474070852,
+    "wof:lastmodified":1491896536,
     "wof:name":"Eges Elektrik Ve Elektronik Gere?. San. Tic. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

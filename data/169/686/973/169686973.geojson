@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.86969,40.97797,28.86969,40.97797",
     "geom:latitude":40.97797,
     "geom:longitude":28.86969,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930019,
-        85632393
+        85679237,
+        102191569,
+        85632393,
+        101912673,
+        890462833,
+        85930019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +50,17 @@
     "wof:geomhash":"a13842d8315bcd87941b60a88513f3fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":-1,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
-            "region_id":-1,
+            "region_id":85679237,
             "venue_id":169686973
         }
     ],
     "wof:id":169686973,
-    "wof:lastmodified":1474070679,
+    "wof:lastmodified":1491895283,
     "wof:name":"Vogue Dosemelik Ve Perdelik Kumas",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

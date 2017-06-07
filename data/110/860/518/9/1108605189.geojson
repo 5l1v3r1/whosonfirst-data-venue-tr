@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2244167328,40.8820304871,29.2244167328,40.8820304871",
     "geom:latitude":40.88203,
     "geom:longitude":29.224417,
@@ -32,10 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wCN3QTIdJFuROvoj1hMcF_40.882030_29.224417@1306270061"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065851,
     "wof:geomhash":"4a1d74eba3807c956a198ebf62547f10",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108605189
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108605189,
-    "wof:lastmodified":1474070747,
+    "wof:lastmodified":1491902293,
     "wof:name":"Capello Tekstil Sanayi Ve Ticaret",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

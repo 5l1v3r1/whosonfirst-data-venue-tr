@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9171543121,41.0439949036,28.9171543121,41.0439949036",
     "geom:latitude":41.043995,
     "geom:longitude":28.917154,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Cg1cnSHVyuLd61m1iJb1w_41.043995_28.917154@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065513,
     "wof:geomhash":"f68e59080696ddd42ad7b86af19bc482",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108597019
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597019,
-    "wof:lastmodified":1474070792,
+    "wof:lastmodified":1491920330,
     "wof:name":"Pepko Pazarlama A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

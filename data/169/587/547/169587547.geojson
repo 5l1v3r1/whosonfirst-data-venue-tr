@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.955708,41.046566,28.955708,41.046566",
     "geom:latitude":41.046566,
     "geom:longitude":28.955708,
@@ -34,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906531,
+        102191569,
         85632393,
         101913185,
         85679237
@@ -46,7 +48,7 @@
     "wof:geomhash":"988bab0be1a266a731d75ab98432657f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906531,
@@ -55,7 +57,7 @@
         }
     ],
     "wof:id":169587547,
-    "wof:lastmodified":1474070641,
+    "wof:lastmodified":1491905999,
     "wof:name":"G? Pinar Gunes Enerji",
     "wof:parent_id":85906531,
     "wof:placetype":"venue",

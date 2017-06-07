@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9090633392,40.9917526245,28.9090633392,40.9917526245",
     "geom:latitude":40.991753,
     "geom:longitude":28.909063,
@@ -30,11 +31,7 @@
         "knitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0za3VLNvDs1UCmaInDZdzg_40.991753_28.909063@1306270058"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474065321,
     "wof:geomhash":"7cea2a5fe017afa20674dbc8272e2d64",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108592371
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108592371,
-    "wof:lastmodified":1474070714,
+    "wof:lastmodified":1491897858,
     "wof:name":"Yagmur Tekstil",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

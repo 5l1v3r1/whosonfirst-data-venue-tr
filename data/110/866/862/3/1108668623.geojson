@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1178684235,41.022895813,29.1178684235,41.022895813",
     "geom:latitude":41.022896,
     "geom:longitude":29.117868,
@@ -33,11 +34,7 @@
     ],
     "sg:website":"dinckal.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LMYiE21QMCFm6us3xYlUR_41.022896_29.117868@1306270073"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068591,
     "wof:geomhash":"d37a9429430a171b8282c619b2a9b7c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108668623
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108668623,
-    "wof:lastmodified":1474070852,
+    "wof:lastmodified":1491916633,
     "wof:name":"Din?kal Elektrik Mak.san.ve Tic.ltd.sti",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

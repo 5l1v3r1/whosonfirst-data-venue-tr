@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9131507874,41.0366401672,28.9131507874,41.0366401672",
     "geom:latitude":41.03664,
     "geom:longitude":28.913151,
@@ -31,11 +32,7 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bAlGRBw5dMO0NaBl4H5YN_41.036640_28.913151@1306270056"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064953,
     "wof:geomhash":"bb85d75454b063dcae4981e6f6c10090",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108579717
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108579717,
-    "wof:lastmodified":1474070853,
+    "wof:lastmodified":1491920324,
     "wof:name":"Arti Otomotiv",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

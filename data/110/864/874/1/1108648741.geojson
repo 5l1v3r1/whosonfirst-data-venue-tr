@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.7907142639,41.0264358521,28.7907142639,41.0264358521",
     "geom:latitude":41.026436,
     "geom:longitude":28.790714,
@@ -27,11 +28,7 @@
     "sg:phone":"+90 212 244 9641",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZTeE9xQQc8WWeHEak9VA3_41.026436_28.790714@1306270069"
@@ -39,16 +36,9 @@
     "wof:country":"TR",
     "wof:created":1474067784,
     "wof:geomhash":"34df4ba22482604bd23b89a51846fa08",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108648741
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108648741,
-    "wof:lastmodified":1474070869,
+    "wof:lastmodified":1491896535,
     "wof:name":"Guden Tic.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

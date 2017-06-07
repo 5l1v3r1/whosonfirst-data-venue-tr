@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.871332,40.977638,28.871332,40.977638",
     "geom:latitude":40.977638,
     "geom:longitude":28.871332,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930019,
-        85632393
+        85679237,
+        102191569,
+        85632393,
+        101912673,
+        890462833,
+        85930019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +49,17 @@
     "wof:geomhash":"4afff4f12d81377d5d03384a4a1f875a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":-1,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
-            "region_id":-1,
+            "region_id":85679237,
             "venue_id":169556263
         }
     ],
     "wof:id":169556263,
-    "wof:lastmodified":1474070647,
+    "wof:lastmodified":1491895280,
     "wof:name":"Master Electronic",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

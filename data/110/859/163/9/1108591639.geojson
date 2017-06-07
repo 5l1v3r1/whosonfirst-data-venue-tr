@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.913438797,41.0339393616,28.913438797,41.0339393616",
     "geom:latitude":41.033939,
     "geom:longitude":28.913439,
@@ -31,11 +32,7 @@
         "kitchenware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KJeWQ01H1Iywom1Vh9Be9_41.033939_28.913439@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065297,
     "wof:geomhash":"afb40615879b1d83a0f99e5a9545c4f5",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108591639
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591639,
-    "wof:lastmodified":1474070698,
+    "wof:lastmodified":1491920317,
     "wof:name":"Jumbo Madeni Esya San.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

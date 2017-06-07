@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9172706604,41.0463752747,28.9172706604,41.0463752747",
     "geom:latitude":41.046375,
     "geom:longitude":28.917271,
@@ -32,11 +33,7 @@
         "mine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0teUahYCUhKyNygleyAk4U_41.046375_28.917271@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068062,
     "wof:geomhash":"f1d7eacd0f0da6305019dd8bf3a60bb1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108655093
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108655093,
-    "wof:lastmodified":1474070825,
+    "wof:lastmodified":1491920324,
     "wof:name":"Bilge Teknik Madeni Imal. San. Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

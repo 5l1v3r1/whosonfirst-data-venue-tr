@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0513534546,41.0099525452,29.0513534546,41.0099525452",
     "geom:latitude":41.009953,
     "geom:longitude":29.051353,
@@ -28,11 +29,12 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929355,
+        85679237,
         102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85929355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +47,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85929355,
             "region_id":85679237,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1108573145,
-    "wof:lastmodified":1474070709,
+    "wof:lastmodified":1491938338,
     "wof:name":"Mum Dunyasi",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",

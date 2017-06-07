@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8463382721,41.0553359985,28.8463382721,41.0553359985",
     "geom:latitude":41.055336,
     "geom:longitude":28.846338,
@@ -32,11 +33,7 @@
         "mine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76TpOaaiIpvJzL2WzIDciU_41.055336_28.846338@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068063,
     "wof:geomhash":"2355bf6aac7ceceeed4045c61871374d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108655135
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108655135,
-    "wof:lastmodified":1474070820,
+    "wof:lastmodified":1491916185,
     "wof:name":"Can-mer Mermer Ve Insaat San. Tic. Ltd. Sti.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

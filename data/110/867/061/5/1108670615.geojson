@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9803943634,41.0315742493,28.9803943634,41.0315742493",
     "geom:latitude":41.031574,
     "geom:longitude":28.980394,
@@ -32,12 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906583,
+        85906549,
         102191569,
         85632393,
         101913185,
         85679237,
-        85906549
+        85906583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,7 @@
             "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
-            "neighbourhood_id":85906583,
+            "neighbourhood_id":85906549,
             "region_id":85679237,
             "venue_id":1108670615
         },
@@ -59,15 +60,15 @@
             "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
-            "neighbourhood_id":85906549,
+            "neighbourhood_id":85906583,
             "region_id":85679237,
             "venue_id":1108670615
         }
     ],
     "wof:id":1108670615,
-    "wof:lastmodified":1474070640,
+    "wof:lastmodified":1491892260,
     "wof:name":"Kenmovie Filimcilik San. Tic. A.s.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

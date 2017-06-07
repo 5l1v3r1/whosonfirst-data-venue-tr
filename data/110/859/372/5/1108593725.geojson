@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9693222046,41.0149841309,28.9693222046,41.0149841309",
     "geom:latitude":41.014984,
     "geom:longitude":28.969322,
@@ -31,10 +32,7 @@
         "upholstery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906479,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OJnh1zu7ivq3LmIjQ6PFZ_41.014984_28.969322@1306270058"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065372,
     "wof:geomhash":"13793802f6ab5cd760c7f38cb69049ca",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906479,
-            "region_id":85679237,
-            "venue_id":1108593725
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108593725,
-    "wof:lastmodified":1474070740,
+    "wof:lastmodified":1491901181,
     "wof:name":"Tarman Dokuma San. Tic. A.s.",
     "wof:parent_id":85906479,
     "wof:placetype":"venue",

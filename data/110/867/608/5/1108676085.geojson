@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9898052216,41.0342597961,28.9898052216,41.0342597961",
     "geom:latitude":41.03426,
     "geom:longitude":28.989805,
@@ -31,11 +32,7 @@
         "foreign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hNGQOuPl7dKcNYVfIp8UP_41.034260_28.989805@1306270075"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068895,
     "wof:geomhash":"36838300324fdb5ac913bdae5784a2e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108676085
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108676085,
-    "wof:lastmodified":1474070759,
+    "wof:lastmodified":1491922838,
     "wof:name":"L?bnan",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2856636047,40.8355484009,29.2856636047,40.8355484009",
     "geom:latitude":40.835548,
     "geom:longitude":29.285664,
@@ -31,11 +32,7 @@
         "foundation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929767,
-        85679241
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yqfK3i0ooBUNVnSts1vdX_40.835548_29.285664@1306270075"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068966,
     "wof:geomhash":"c7bf2258b7246685f05f1f29c170d260",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929767,
-            "region_id":85679241,
-            "venue_id":1108678129
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108678129,
-    "wof:lastmodified":1474070794,
+    "wof:lastmodified":1491914186,
     "wof:name":"Turk Loydu Vakfi",
     "wof:parent_id":85929767,
     "wof:placetype":"venue",

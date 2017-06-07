@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.850452,41.052567,28.850452,41.052567",
     "geom:latitude":41.052567,
     "geom:longitude":28.850452,
@@ -32,29 +33,16 @@
         "soft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85930169,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XAhq3uYHoojiJhhRT1tiU_41.052567_28.850452@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"3ae4d18265d063d75a15898356f9661f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":169584037
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169584037,
-    "wof:lastmodified":1474070636,
+    "wof:lastmodified":1491916186,
     "wof:name":"Ayko Gida Dis Tic.ltd.sti.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

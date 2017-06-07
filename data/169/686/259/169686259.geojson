@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.906813,40.998363,28.906813,40.998363",
     "geom:latitude":40.998363,
     "geom:longitude":28.906813,
@@ -31,29 +32,16 @@
         "underwear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904171,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ugP1nv3AcDs7catdlseCa_40.998363_28.906813@1306270058"
     },
     "wof:country":"TR",
     "wof:geomhash":"d3f548655b8f7566fc5edb8ffa7511a0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":169686259
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169686259,
-    "wof:lastmodified":1474070667,
+    "wof:lastmodified":1491897855,
     "wof:name":"Yavuz Camasirlari",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

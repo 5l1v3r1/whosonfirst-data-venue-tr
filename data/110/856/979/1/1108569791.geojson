@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9086990356,40.9905853271,28.9086990356,40.9905853271",
     "geom:latitude":40.990585,
     "geom:longitude":28.908699,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26NZk7ErRh6JD1XKpXZaYX_40.990585_28.908699@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064445,
     "wof:geomhash":"21540298ae5de371f1307c249d6a9c2c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108569791
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108569791,
-    "wof:lastmodified":1474070845,
+    "wof:lastmodified":1491897855,
     "wof:name":"Yavuz Makina San.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

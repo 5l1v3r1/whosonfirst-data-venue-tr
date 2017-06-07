@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9059696198,40.9866714478,28.9059696198,40.9866714478",
     "geom:latitude":40.986671,
     "geom:longitude":28.90597,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fSGYf4ESDe6XDNiFsV5Gq_40.986671_28.905970@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065501,
     "wof:geomhash":"e8aa8eeb882327188b5670afc5446c6f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596719,
-    "wof:lastmodified":1474070787,
+    "wof:lastmodified":1491897861,
     "wof:name":"Furmod Kurk Deri Textil Ins. San.tic. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1170959473,41.0222930908,29.1170959473,41.0222930908",
     "geom:latitude":41.022293,
     "geom:longitude":29.117096,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wlXlbMszZyYdHqabiDIbX_41.022293_29.117096@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064362,
     "wof:geomhash":"9faec487a1a28168b908812382523075",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108567663
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108567663,
-    "wof:lastmodified":1474070773,
+    "wof:lastmodified":1491916635,
     "wof:name":"G?nsan Makina Kalip Ve Metal",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

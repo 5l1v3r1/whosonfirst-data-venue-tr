@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2340984344,40.8787307739,29.2340984344,40.8787307739",
     "geom:latitude":40.878731,
     "geom:longitude":29.234098,
@@ -32,10 +33,7 @@
         "lighting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jkxYCn4bLpH5NRKi0WJHS_40.878731_29.234098@1306270059"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065596,
     "wof:geomhash":"956b583a082c6f1c613b7074cb7ecb6f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108599193
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108599193,
-    "wof:lastmodified":1474070836,
+    "wof:lastmodified":1491902293,
     "wof:name":"Pendik Aydinlatma Elektrik Malzeme. San. Tic.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9501533508,41.0066947937,28.9501533508,41.0066947937",
     "geom:latitude":41.006695,
     "geom:longitude":28.950153,
@@ -32,11 +33,7 @@
         "lighting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UoLDGVrXXGY2tYCiAO7mi_41.006695_28.950153@1306270059"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065570,
     "wof:geomhash":"663d65e9058c2a01fbe860bbe4bece90",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108598619
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108598619,
-    "wof:lastmodified":1474070852,
+    "wof:lastmodified":1491908612,
     "wof:name":"Aktay Avize Ve Aydinlatma San.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

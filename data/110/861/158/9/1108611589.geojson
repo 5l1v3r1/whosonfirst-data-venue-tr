@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9864387512,41.0343742371,28.9864387512,41.0343742371",
     "geom:latitude":41.034374,
     "geom:longitude":28.986439,
@@ -27,11 +28,7 @@
     "sg:phone":"+90 212 249 7333",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x6mUoJkWW5QanVYAYMEem_41.034374_28.986439@1306270062"
@@ -39,19 +36,9 @@
     "wof:country":"TR",
     "wof:created":1474066145,
     "wof:geomhash":"824d99d26d2b9e9be1fd360f06b46eb2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108611589
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108611589,
-    "wof:lastmodified":1474070697,
+    "wof:lastmodified":1491922838,
     "wof:name":"Barbaros Kuru Temiz.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

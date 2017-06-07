@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.876396,40.975437,28.876396,40.975437",
     "geom:latitude":40.975437,
     "geom:longitude":28.876396,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930019,
-        85632393
+        85679237,
+        102191569,
+        85632393,
+        101912673,
+        890462833,
+        85930019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +48,17 @@
     "wof:geomhash":"98804394c5fc7ac5c5feb32fdd7e24ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":-1,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
-            "region_id":-1,
+            "region_id":85679237,
             "venue_id":169571623
         }
     ],
     "wof:id":169571623,
-    "wof:lastmodified":1474070670,
+    "wof:lastmodified":1491895279,
     "wof:name":"2k Denizcilik Ve Ticaret Ltd.sti.",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

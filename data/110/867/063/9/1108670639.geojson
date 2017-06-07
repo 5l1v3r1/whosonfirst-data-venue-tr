@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.013343811,41.0222549438,29.013343811,41.0222549438",
     "geom:latitude":41.022255,
     "geom:longitude":29.013344,
@@ -31,10 +32,7 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f6kLHQL94S2vybWH0zfAc_41.022255_29.013344@1306270074"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068669,
     "wof:geomhash":"0d465a688ff485529592eae2d0244741",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108670639
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108670639,
-    "wof:lastmodified":1474070655,
+    "wof:lastmodified":1491926956,
     "wof:name":"Mega Radyo Fm",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

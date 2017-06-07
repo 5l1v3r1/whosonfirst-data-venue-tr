@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9030857086,40.991230011,28.9030857086,40.991230011",
     "geom:latitude":40.99123,
     "geom:longitude":28.903086,
@@ -30,11 +31,7 @@
         "glass-mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OpM2wY4VtHypwYfLobBiy_40.991230_28.903086@1306270055"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064593,
     "wof:geomhash":"d08a150f295775fe767cec7c9c41111a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108573349
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108573349,
-    "wof:lastmodified":1474070726,
+    "wof:lastmodified":1491897862,
     "wof:name":"Akgun Btb Cam Mozaik",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

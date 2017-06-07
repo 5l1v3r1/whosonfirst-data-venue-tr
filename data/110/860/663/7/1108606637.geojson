@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8070316315,41.0289993286,28.8070316315,41.0289993286",
     "geom:latitude":41.028999,
     "geom:longitude":28.807032,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53jqtPESYVXKppgloSIYGv_41.028999_28.807032@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065918,
     "wof:geomhash":"6d6d77baa084e7ca9f7b94e0519b15fd",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108606637
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606637,
-    "wof:lastmodified":1474070758,
+    "wof:lastmodified":1491896534,
     "wof:name":"Pameks Giyim A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

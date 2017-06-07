@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9176254272,41.034702301,28.9176254272,41.034702301",
     "geom:latitude":41.034702,
     "geom:longitude":28.917625,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1adazAtvZUQu0eVjtJAvb7_41.034702_28.917625@1306270054"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064458,
     "wof:geomhash":"47760f9b3f1422daff6f9d4f3dab81ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108570017
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108570017,
-    "wof:lastmodified":1474070637,
+    "wof:lastmodified":1491920326,
     "wof:name":"?ukurova Ziraat End. Ve Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

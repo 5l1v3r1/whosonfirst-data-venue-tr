@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.860534668,41.0500984192,28.860534668,41.0500984192",
     "geom:latitude":41.050098,
     "geom:longitude":28.860535,
@@ -35,11 +36,7 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rDHCjgles1RMmn0BRftnB_41.050098_28.860535@1306270055"
@@ -47,16 +44,9 @@
     "wof:country":"TR",
     "wof:created":1474064666,
     "wof:geomhash":"5b6c724f107cdcbbff4b25730acf3d20",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108575111
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575111,
-    "wof:lastmodified":1474070743,
+    "wof:lastmodified":1491916186,
     "wof:name":"Kromas Makina Ve Metal San Tic Ltd Sti",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1177959442,41.0225028992,29.1177959442,41.0225028992",
     "geom:latitude":41.022503,
     "geom:longitude":29.117796,
@@ -31,11 +32,7 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cpIVO7nwGtx4KCJ61iokb_41.022503_29.117796@1306270073"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068668,
     "wof:geomhash":"8b52cb99735884dd6d8baaa5738515e8",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108670611
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108670611,
-    "wof:lastmodified":1474070660,
+    "wof:lastmodified":1491916634,
     "wof:name":"Ka Prodiksiyon Yayincilik Reklamcilik Ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9902515411,41.035949707,28.9902515411,41.035949707",
     "geom:latitude":41.03595,
     "geom:longitude":28.990252,
@@ -30,11 +31,7 @@
         "yachting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26tp3kkBjXAVXbmhojRLGv_41.035950_28.990252@1306270055"
@@ -42,19 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064679,
     "wof:geomhash":"b2cdc638920015d96d2bcd52b7428695",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108575445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575445,
-    "wof:lastmodified":1474070737,
+    "wof:lastmodified":1491922837,
     "wof:name":"Apaz Denizcilik (istanbul Office)",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

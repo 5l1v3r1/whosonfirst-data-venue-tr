@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0132408142,41.0194396973,29.0132408142,41.0194396973",
     "geom:latitude":41.01944,
     "geom:longitude":29.013241,
@@ -32,10 +33,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904151
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76K3CXAJvyUd0WrCfCd6hR_41.019440_29.013241@1306270060"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065749,
     "wof:geomhash":"aa117b169891b1eb0cfc2221d88c43d1",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904151,
-            "venue_id":1108602863
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602863,
-    "wof:lastmodified":1474070722,
+    "wof:lastmodified":1491919633,
     "wof:name":"?zdemir M?h. Dogalgaz Isi",
     "wof:parent_id":85904151,
     "wof:placetype":"venue",

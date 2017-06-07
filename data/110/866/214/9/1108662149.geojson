@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8162021637,41.0411834717,28.8162021637,41.0411834717",
     "geom:latitude":41.041183,
     "geom:longitude":28.816202,
@@ -31,11 +32,7 @@
         "personnel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v9jH7nNKcxZHFIXlHs5Qx_41.041183_28.816202@1306270072"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068331,
     "wof:geomhash":"657324e496561980755416b2f1a9a8a3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108662149
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108662149,
-    "wof:lastmodified":1474070777,
+    "wof:lastmodified":1491896533,
     "wof:name":"Arslan Turizm Servis Ve Tic.a.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

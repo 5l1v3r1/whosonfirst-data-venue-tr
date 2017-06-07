@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9022693634,40.9914894104,28.9022693634,40.9914894104",
     "geom:latitude":40.991489,
     "geom:longitude":28.902269,
@@ -28,11 +29,7 @@
     "sg:postcode":"34490",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zjURwdm44MVqjknGNxrs3_40.991489_28.902269@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065468,
     "wof:geomhash":"be7df177dc09ffe2b0b4994935e6d1d4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596029
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596029,
-    "wof:lastmodified":1474070757,
+    "wof:lastmodified":1491897855,
     "wof:name":"Ensari Deri Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.7983417511,41.050868988,28.7983417511,41.050868988",
     "geom:latitude":41.050869,
     "geom:longitude":28.798342,
@@ -31,11 +32,7 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oUNtMYLMx42H61IuGm1iy_41.050869_28.798342@1306270053"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064202,
     "wof:geomhash":"cc58fad057fdd97e0b5459fcb3bd47e2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108564973
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108564973,
-    "wof:lastmodified":1474070643,
+    "wof:lastmodified":1491896533,
     "wof:name":"Palmiye Merkezi",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

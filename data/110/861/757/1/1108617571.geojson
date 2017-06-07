@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9594802856,41.0088920593,28.9594802856,41.0088920593",
     "geom:latitude":41.008892,
     "geom:longitude":28.95948,
@@ -23,12 +24,7 @@
     "sg:postcode":"34480",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167,
-        85906505
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CyxGws2U5KD99rCLe3zgj_41.008892_28.959480@1306270063"
@@ -36,27 +32,11 @@
     "wof:country":"TR",
     "wof:created":1474066368,
     "wof:geomhash":"af4f43343739c01997a856af85678518",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108617571
-        },
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906505,
-            "region_id":85679237,
-            "venue_id":1108617571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617571,
-    "wof:lastmodified":1474070837,
+    "wof:lastmodified":1491908612,
     "wof:name":"Cara Hotel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1176166534,41.0241928101,29.1176166534,41.0241928101",
     "geom:latitude":41.024193,
     "geom:longitude":29.117617,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QEoWNb02NcjcpcMu4miyN_41.024193_29.117617@1306270070"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067993,
     "wof:geomhash":"221deaf6162c0ece8b3bb614db0ab38a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108653247
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108653247,
-    "wof:lastmodified":1474070781,
+    "wof:lastmodified":1491916634,
     "wof:name":"Dilek Metal Celik Kontrikisyon San.tic.ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

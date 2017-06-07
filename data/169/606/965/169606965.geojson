@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.955439,41.027561,28.955439,41.027561",
     "geom:latitude":41.027561,
     "geom:longitude":28.955439,
@@ -32,28 +33,16 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904099,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aJPJsuq6mORELBzVEV9L7_41.027561_28.955439@1306270053"
     },
     "wof:country":"TR",
     "wof:geomhash":"6771d60ea49f0f9dd080b4a5aabfc316",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904099,
-            "region_id":85679237,
-            "venue_id":169606965
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169606965,
-    "wof:lastmodified":1474070656,
+    "wof:lastmodified":1491926487,
     "wof:name":"Olimpiyatspor Imal.",
     "wof:parent_id":85904099,
     "wof:placetype":"venue",

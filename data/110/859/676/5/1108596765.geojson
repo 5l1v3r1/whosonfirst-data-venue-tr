@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9063911438,40.987121582,28.9063911438,40.987121582",
     "geom:latitude":40.987122,
     "geom:longitude":28.906391,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mswmwexpXMxUDMUOkW9ze_40.987122_28.906391@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065503,
     "wof:geomhash":"a152ea6bf6c16a746cd065cc5791a23e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596765
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596765,
-    "wof:lastmodified":1474070784,
+    "wof:lastmodified":1491897857,
     "wof:name":"G?nd?z Kurk San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

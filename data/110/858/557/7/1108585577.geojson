@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8060474396,41.0386810303,28.8060474396,41.0386810303",
     "geom:latitude":41.038681,
     "geom:longitude":28.806047,
@@ -28,11 +29,7 @@
     "sg:postcode":"3460",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_248r8Sw9YId00hzwUIjbCZ_41.038681_28.806047@1306270057"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065148,
     "wof:geomhash":"ed568f8d01189c91ef6f9e07a467e7c3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108585577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108585577,
-    "wof:lastmodified":1474070702,
+    "wof:lastmodified":1491896534,
     "wof:name":"Sirnak Genel Ve Tekstil Antrepolari",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

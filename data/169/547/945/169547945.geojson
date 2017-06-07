@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.950176,41.003723,28.950176,41.003723",
     "geom:latitude":41.003723,
     "geom:longitude":28.950176,
@@ -33,30 +34,16 @@
         "batery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xf9uMCVwOEKvMyEObni4S_41.003723_28.950176@1306270051"
     },
     "wof:country":"TR",
     "wof:geomhash":"e66b542341fbd56cb3ba6c71fddea83b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":169547945
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169547945,
-    "wof:lastmodified":1474070672,
+    "wof:lastmodified":1491908611,
     "wof:name":"Alfa Ak? San. Ltd. Sti.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

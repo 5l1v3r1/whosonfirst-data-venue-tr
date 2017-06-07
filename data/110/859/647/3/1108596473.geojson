@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9028072357,40.9872512817,28.9028072357,40.9872512817",
     "geom:latitude":40.987251,
     "geom:longitude":28.902807,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tyuEFdjRa3N76ndfBfvo0_40.987251_28.902807@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065493,
     "wof:geomhash":"de5f18c6ce27545571e4f78bf5a2a8fb",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596473
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596473,
-    "wof:lastmodified":1474070778,
+    "wof:lastmodified":1491897860,
     "wof:name":"Bugra Deri Giyim Tekstil",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

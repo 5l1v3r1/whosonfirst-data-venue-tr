@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9133968353,41.0378303528,28.9133968353,41.0378303528",
     "geom:latitude":41.03783,
     "geom:longitude":28.913397,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T2WzGKsjLVCyptyEGjvRd_41.037830_28.913397@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064552,
     "wof:geomhash":"fdb5b610063fd35cfd96743e2e4d7399",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108572331
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108572331,
-    "wof:lastmodified":1474070665,
+    "wof:lastmodified":1491920332,
     "wof:name":"Sert Plastik Profil San. Ve Tic.ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

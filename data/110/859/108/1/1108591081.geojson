@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8123207092,41.0490951538,28.8123207092,41.0490951538",
     "geom:latitude":41.049095,
     "geom:longitude":28.812321,
@@ -31,11 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dyvoY2axxzhj97NHKvZhC_41.049095_28.812321@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065274,
     "wof:geomhash":"81f25895e7ec24c9d754254c580ee15f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108591081
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591081,
-    "wof:lastmodified":1474070689,
+    "wof:lastmodified":1491896535,
     "wof:name":"Nil Yapi Market San. Ve Dis Tic.ltd.sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

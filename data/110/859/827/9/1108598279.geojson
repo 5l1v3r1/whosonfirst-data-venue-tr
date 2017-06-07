@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1135559082,41.0200843811,29.1135559082,41.0200843811",
     "geom:latitude":41.020084,
     "geom:longitude":29.113556,
@@ -31,11 +32,7 @@
         "lifts-elevators"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HKhDMJBvcYZVGw3NVJyWA_41.020084_29.113556@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065558,
     "wof:geomhash":"926e976148f500350770e072ba5182bf",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108598279
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108598279,
-    "wof:lastmodified":1474070822,
+    "wof:lastmodified":1491916633,
     "wof:name":"Uzman Asansor San.ltd. Sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

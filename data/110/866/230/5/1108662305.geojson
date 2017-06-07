@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2312355042,40.8779525757,29.2312355042,40.8779525757",
     "geom:latitude":40.877953,
     "geom:longitude":29.231236,
@@ -28,10 +29,7 @@
     "sg:postcode":"01900",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74zgudKFPjUT7sGstn12Ix_40.877953_29.231236@1306270072"
@@ -39,15 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474068337,
     "wof:geomhash":"04852047d2ee2f84390a8f9ed473f37e",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108662305
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108662305,
-    "wof:lastmodified":1474070784,
+    "wof:lastmodified":1491902293,
     "wof:name":"Atamay Petrol ?rn. Ins. San. Tic. Ltd. Sti.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

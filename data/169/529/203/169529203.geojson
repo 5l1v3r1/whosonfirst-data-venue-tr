@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.91403,41.034447,28.91403,41.034447",
     "geom:latitude":41.034447,
     "geom:longitude":28.91403,
@@ -31,29 +32,16 @@
         "bag-belt-accessories"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906463,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28Kdnu6v9V0ogWpZnFGxvC_41.034447_28.914030@1306270050"
     },
     "wof:country":"TR",
     "wof:geomhash":"9126fae3cc7a67ffe70c537760a15f08",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":169529203
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169529203,
-    "wof:lastmodified":1474070654,
+    "wof:lastmodified":1491920327,
     "wof:name":"Matras Deri Mam. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

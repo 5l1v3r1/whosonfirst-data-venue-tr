@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9147701263,41.0432090759,28.9147701263,41.0432090759",
     "geom:latitude":41.043209,
     "geom:longitude":28.91477,
@@ -34,11 +35,7 @@
     ],
     "sg:website":"bakiryapi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_094kXUTesHzxEnrboEQKOJ_41.043209_28.914770@1306270064"
@@ -46,16 +43,9 @@
     "wof:country":"TR",
     "wof:created":1474066505,
     "wof:geomhash":"e46065719f660b5c574f0e64e892fae2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108620849
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108620849,
-    "wof:lastmodified":1474070701,
+    "wof:lastmodified":1491920317,
     "wof:name":"Bakir Yapi Malz. Tic. Ltd. Sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

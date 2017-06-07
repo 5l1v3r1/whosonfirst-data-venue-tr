@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1143493652,41.022480011,29.1143493652,41.022480011",
     "geom:latitude":41.02248,
     "geom:longitude":29.114349,
@@ -31,11 +32,7 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GepDP1r7bbjkJnVkT7VTN_41.022480_29.114349@1306270057"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065134,
     "wof:geomhash":"4e8ab6deca2c6c0cb3aeba9785492c4d",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108585127
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108585127,
-    "wof:lastmodified":1474070702,
+    "wof:lastmodified":1491916635,
     "wof:name":"Yeditepe Tekstil Reklamcilik Ve Pazarlama",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

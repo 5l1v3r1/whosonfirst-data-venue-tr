@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9075012207,40.988067627,28.9075012207,40.988067627",
     "geom:latitude":40.988068,
     "geom:longitude":28.907501,
@@ -28,11 +29,7 @@
     "sg:postcode":"65400",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T4JqMdHNFmyZxiVwBBhug_40.988068_28.907501@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065473,
     "wof:geomhash":"00e4c482a956354b30fc189aa1411afd",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596175
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596175,
-    "wof:lastmodified":1474070763,
+    "wof:lastmodified":1491897861,
     "wof:name":"Seyman Dericilik San.tic.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

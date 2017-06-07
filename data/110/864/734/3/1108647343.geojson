@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9128494263,41.0347709656,28.9128494263,41.0347709656",
     "geom:latitude":41.034771,
     "geom:longitude":28.912849,
@@ -31,11 +32,7 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01OjkZiZ4dcfOWALucbrQT_41.034771_28.912849@1306270069"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067707,
     "wof:geomhash":"546bc17e4c85bb6d4a90a4edbec34061",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108647343
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108647343,
-    "wof:lastmodified":1474070865,
+    "wof:lastmodified":1491920325,
     "wof:name":"Bonfilet Et Paz.ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

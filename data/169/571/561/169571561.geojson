@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.28126,40.815536,29.28126,40.815536",
     "geom:latitude":40.815536,
     "geom:longitude":29.28126,
@@ -32,29 +33,16 @@
         "ship"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929767,
-        85632393,
-        85679241
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pzmdep34t7OTZSfM5qW4t_40.815536_29.281260@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"f2f53954f9de93973337efc920ea3fe8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929767,
-            "region_id":85679241,
-            "venue_id":169571561
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169571561,
-    "wof:lastmodified":1474070669,
+    "wof:lastmodified":1491914186,
     "wof:name":"Alfa Gemi Elektronigi M?endisligi",
     "wof:parent_id":85929767,
     "wof:placetype":"venue",

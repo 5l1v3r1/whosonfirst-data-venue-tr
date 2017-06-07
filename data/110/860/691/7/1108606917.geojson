@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0103721619,41.0228996277,29.0103721619,41.0228996277",
     "geom:latitude":41.0229,
     "geom:longitude":29.010372,
@@ -32,10 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n6LuRA6R1FMhTsjzoQE0i_41.022900_29.010372@1306270061"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065935,
     "wof:geomhash":"bd9c2c3ba5fbd28c83cb2cd1971ffd19",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108606917
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606917,
-    "wof:lastmodified":1474070767,
+    "wof:lastmodified":1491926956,
     "wof:name":"Senocak Sapka Tekstil Ve Konf. San.tic.ltd.sti.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.795158,41.027744,28.795158,41.027744",
     "geom:latitude":41.027744,
     "geom:longitude":28.795158,
@@ -31,29 +32,16 @@
         "bag-belt-accessories"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929887,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M6zT59xyxPNpK7YNq8fmn_41.027744_28.795158@1306270050"
     },
     "wof:country":"TR",
     "wof:geomhash":"799d60d1f6a002c8f71ba860ff3ec45a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":169528355
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169528355,
-    "wof:lastmodified":1474070632,
+    "wof:lastmodified":1491896535,
     "wof:name":"Boyraz Deri",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

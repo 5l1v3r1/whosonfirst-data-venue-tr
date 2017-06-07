@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9985179901,41.0689201355,28.9985179901,41.0689201355",
     "geom:latitude":41.06892,
     "geom:longitude":28.998518,
@@ -24,12 +25,13 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929455,
+        85679237,
         102191569,
         85632393,
         101912685,
-        85679237,
-        85929407
+        890461743,
+        85929407,
+        85929455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,24 +44,26 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
-            "neighbourhood_id":85929455,
+            "neighbourhood_id":85929407,
             "region_id":85679237,
             "venue_id":1108666793
         },
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
-            "neighbourhood_id":85929407,
+            "neighbourhood_id":85929455,
             "region_id":85679237,
             "venue_id":1108666793
         }
     ],
     "wof:id":1108666793,
-    "wof:lastmodified":1474070854,
+    "wof:lastmodified":1491934188,
     "wof:name":"Umut Ofset Matbaacilik Reklamcilik San. Ve Tic.ltd.sti.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

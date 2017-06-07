@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8713321686,40.9776382446,28.8713321686,40.9776382446",
     "geom:latitude":40.977638,
     "geom:longitude":28.871332,
@@ -32,7 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85679237,
+        102191569,
         85632393,
+        101912673,
+        890462833,
         85930019
     ],
     "wof:breaches":[],
@@ -44,13 +49,17 @@
     "wof:geomhash":"923ec3940be2d0653e22c8c463a10fb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462833,
+            "locality_id":101912673,
             "neighbourhood_id":85930019,
+            "region_id":85679237,
             "venue_id":1108572621
         }
     ],
     "wof:id":1108572621,
-    "wof:lastmodified":1474070641,
+    "wof:lastmodified":1491895279,
     "wof:name":"Yalkin Meta Ltd.sti.",
     "wof:parent_id":85930019,
     "wof:placetype":"venue",

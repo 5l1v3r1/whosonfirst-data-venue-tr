@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.019112,41.112995,29.019112,41.112995",
     "geom:latitude":41.112995,
     "geom:longitude":29.019112,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929945,
+        85679237,
+        102191569,
         85632393,
         101912651,
-        85679237
+        890461743,
+        85929945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,9 @@
     "wof:geomhash":"c0c23833e278daf383f2f3f05e3cfe77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912651,
             "neighbourhood_id":85929945,
             "region_id":85679237,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169687059,
-    "wof:lastmodified":1474070657,
+    "wof:lastmodified":1491889273,
     "wof:name":"Aksel Jaluzi Ve Perde San.",
     "wof:parent_id":85929945,
     "wof:placetype":"venue",

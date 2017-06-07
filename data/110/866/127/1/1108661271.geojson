@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.903585434,40.9939308167,28.903585434,40.9939308167",
     "geom:latitude":40.993931,
     "geom:longitude":28.903585,
@@ -31,11 +32,7 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lUCCL7yaQRR8Ychwbce7X_40.993931_28.903585@1306270072"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068299,
     "wof:geomhash":"004568801faa04a0fb91e1fc20d71e18",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108661271
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108661271,
-    "wof:lastmodified":1474070714,
+    "wof:lastmodified":1491897861,
     "wof:name":"Baris Dahili Ticaret",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

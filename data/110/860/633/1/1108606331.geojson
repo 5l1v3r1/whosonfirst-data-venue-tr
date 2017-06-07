@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9006309509,40.997756958,28.9006309509,40.997756958",
     "geom:latitude":40.997757,
     "geom:longitude":28.900631,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FhqkyEIoAwZPanWBpQyHl_40.997757_28.900631@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065900,
     "wof:geomhash":"44bfd37f71ee9a018ff3bf4bfc6f23a0",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108606331
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606331,
-    "wof:lastmodified":1474070777,
+    "wof:lastmodified":1491897863,
     "wof:name":"Merhaba Tekstil",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

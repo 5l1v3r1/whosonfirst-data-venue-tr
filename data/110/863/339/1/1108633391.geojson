@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9128856659,41.045337677,28.9128856659,41.045337677",
     "geom:latitude":41.045338,
     "geom:longitude":28.912886,
@@ -31,11 +32,7 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70DRr0KMjOrVjRdpCwzZQd_41.045338_28.912886@1306270066"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067163,
     "wof:geomhash":"e96c16e93dddb0175d3b1a780bdc40d7",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108633391
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108633391,
-    "wof:lastmodified":1474070733,
+    "wof:lastmodified":1491920324,
     "wof:name":"Naksan Nakis San.ltd.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

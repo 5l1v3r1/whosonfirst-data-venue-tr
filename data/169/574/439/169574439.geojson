@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.036772,41.158318,29.036772,41.158318",
     "geom:latitude":41.158318,
     "geom:longitude":29.036772,
@@ -34,8 +35,8 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930143,
         85632393,
+        85930143,
         85679237
     ],
     "wof:breaches":[],
@@ -46,16 +47,14 @@
     "wof:geomhash":"803ea59ede0e968fd5977ba48af3e97a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85632393,
-            "locality_id":-1,
             "neighbourhood_id":85930143,
             "region_id":85679237,
             "venue_id":169574439
         }
     ],
     "wof:id":169574439,
-    "wof:lastmodified":1474070651,
+    "wof:lastmodified":1491897147,
     "wof:name":"Acenta 44 Denizciler Turizm Ve Gemi Hizmetleri Ltd.sti.",
     "wof:parent_id":85930143,
     "wof:placetype":"venue",

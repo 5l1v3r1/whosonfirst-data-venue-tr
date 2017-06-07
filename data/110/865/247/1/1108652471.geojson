@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.114025116,41.0202980042,29.114025116,41.0202980042",
     "geom:latitude":41.020298,
     "geom:longitude":29.114025,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XmKHhKj84H6nIqTtFGS2P_41.020298_29.114025@1306270070"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474067959,
     "wof:geomhash":"80f0d924cfc09ae62c77c692b382a512",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108652471
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108652471,
-    "wof:lastmodified":1474070783,
+    "wof:lastmodified":1491916633,
     "wof:name":"Eryil Tekstil San. Tic.ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

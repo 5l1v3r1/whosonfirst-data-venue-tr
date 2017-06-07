@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9144268036,41.0375442505,28.9144268036,41.0375442505",
     "geom:latitude":41.037544,
     "geom:longitude":28.914427,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SY1VdESVmgvgYo0ByBSbM_41.037544_28.914427@1306270070"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067998,
     "wof:geomhash":"821ce22da4c79abdeb5d3872becbb206",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108653389
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108653389,
-    "wof:lastmodified":1474070795,
+    "wof:lastmodified":1491920332,
     "wof:name":"Galtrans Metal Kaplama San.ve Tic.a.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

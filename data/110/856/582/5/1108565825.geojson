@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9337120056,41.0366897583,28.9337120056,41.0366897583",
     "geom:latitude":41.03669,
     "geom:longitude":28.933712,
@@ -22,11 +23,7 @@
     "sg:phone":"+90 216 362 8272",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00LDPrhUhn81Bn1TdfqpeO_41.036690_28.933712@1306270053"
@@ -34,16 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474064267,
     "wof:geomhash":"b1b2341500f94c438563c0882e6a8372",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108565825
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108565825,
-    "wof:lastmodified":1474070706,
+    "wof:lastmodified":1491920319,
     "wof:name":"Sistem Teknik End?st. Isil Islem Tesis.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

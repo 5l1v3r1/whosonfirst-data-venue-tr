@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9169139862,41.0444374084,28.9169139862,41.0444374084",
     "geom:latitude":41.044437,
     "geom:longitude":28.916914,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tUmtaRhKMkJDsdoZr2dXX_41.044437_28.916914@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068260,
     "wof:geomhash":"088d84a1bc5f8e6eebc8799efdd85098",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108660139
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108660139,
-    "wof:lastmodified":1474070688,
+    "wof:lastmodified":1491920331,
     "wof:name":"Engin Ambalaj San. Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

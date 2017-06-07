@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9102840424,40.9917831421,28.9102840424,40.9917831421",
     "geom:latitude":40.991783,
     "geom:longitude":28.910284,
@@ -28,11 +29,7 @@
     "sg:postcode":"34020",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JwAjpU0NrJrcwMks3hd0C_40.991783_28.910284@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065464,
     "wof:geomhash":"4de927862bfad7834cbf238cc18da8e8",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595929
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595929,
-    "wof:lastmodified":1474070763,
+    "wof:lastmodified":1491897852,
     "wof:name":"Atik Deri San.ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

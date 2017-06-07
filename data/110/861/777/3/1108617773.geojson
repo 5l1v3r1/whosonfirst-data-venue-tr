@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9103527069,41.0356369019,28.9103527069,41.0356369019",
     "geom:latitude":41.035637,
     "geom:longitude":28.910353,
@@ -23,11 +24,7 @@
     "sg:postcode":"34112",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KdD4rOCHsj0VOsZg7fJC1_41.035637_28.910353@1306270063"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066375,
     "wof:geomhash":"07c19b9647091beab34b33d1e24e8fbd",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108617773
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617773,
-    "wof:lastmodified":1474070830,
+    "wof:lastmodified":1491920329,
     "wof:name":"Eris Hotel",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

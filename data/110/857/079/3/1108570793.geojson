@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9199504852,41.0413246155,28.9199504852,41.0413246155",
     "geom:latitude":41.041325,
     "geom:longitude":28.91995,
@@ -31,11 +32,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40cQ2FtX4ULzCwC4Yl9GTl_41.041325_28.919950@1306270054"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064488,
     "wof:geomhash":"5c702075065e9177f9c86abc699d1b97",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108570793
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108570793,
-    "wof:lastmodified":1474070644,
+    "wof:lastmodified":1491920322,
     "wof:name":"Delta Plastik Kalip San. Ve Tic.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

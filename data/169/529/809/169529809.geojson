@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.908445,40.984966,28.908445,40.984966",
     "geom:latitude":40.984966,
     "geom:longitude":28.908445,
@@ -30,29 +31,16 @@
         "bag-belt-accessories"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904171,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YLsprMkGdcrcJRgbgQHBv_40.984966_28.908445@1306270050"
     },
     "wof:country":"TR",
     "wof:geomhash":"a12338addd2c075d801ff0ef4f2ef20e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":169529809
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169529809,
-    "wof:lastmodified":1474070677,
+    "wof:lastmodified":1491897852,
     "wof:name":"Yako Deri Giy.sanayi",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

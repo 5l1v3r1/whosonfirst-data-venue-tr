@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.906621933,40.9914360046,28.906621933,40.9914360046",
     "geom:latitude":40.991436,
     "geom:longitude":28.906622,
@@ -28,11 +29,7 @@
     "sg:postcode":"34020",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S5erAqIrTsYxnd0UbMPU2_40.991436_28.906622@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065464,
     "wof:geomhash":"d4255738ecd650f0a53aeb87cb998050",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595911
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595911,
-    "wof:lastmodified":1474070749,
+    "wof:lastmodified":1491897864,
     "wof:name":"Alpacino Deri San. Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

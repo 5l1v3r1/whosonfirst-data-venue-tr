@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.925892,41.044231,28.925892,41.044231",
     "geom:latitude":41.044231,
     "geom:longitude":28.925892,
@@ -28,29 +29,16 @@
     "sg:postcode":"63570",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906463,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4k8dHExtkfdVY2PtmdmMg9_41.044231_28.925892@1306270050"
     },
     "wof:country":"TR",
     "wof:geomhash":"04f72962936dbf9cbefcc914d50fff26",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":169530801
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169530801,
-    "wof:lastmodified":1474070687,
+    "wof:lastmodified":1491920320,
     "wof:name":"Avor Insaat Gida Tekstil Kimya As",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

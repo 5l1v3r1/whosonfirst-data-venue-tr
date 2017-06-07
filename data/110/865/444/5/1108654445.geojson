@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9010772705,40.9901237488,28.9010772705,40.9901237488",
     "geom:latitude":40.990124,
     "geom:longitude":28.901077,
@@ -32,11 +33,7 @@
         "milk"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11rPPy17saYkK4Pzv3syRc_40.990124_28.901077@1306270070"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068040,
     "wof:geomhash":"9d04d69a854645f232ae8f25b4ff56a3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108654445
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108654445,
-    "wof:lastmodified":1474070818,
+    "wof:lastmodified":1491897860,
     "wof:name":"Ar-dor Gida Ve Iht. Madd. San. Ve Dis Tic.ltd.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

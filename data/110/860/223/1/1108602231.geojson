@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9067497253,40.9914245605,28.9067497253,40.9914245605",
     "geom:latitude":40.991425,
     "geom:longitude":28.90675,
@@ -32,11 +33,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18O8rdv9qQ6BhavsQmVnLJ_40.991425_28.906750@1306270060"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065725,
     "wof:geomhash":"ab18aacf2fc57fea95f7fdc4537174b8",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108602231
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602231,
-    "wof:lastmodified":1474070718,
+    "wof:lastmodified":1491897853,
     "wof:name":"Isilsan Isi. Klima Ins. Reklam San.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9533939362,41.0027503967,28.9533939362,41.0027503967",
     "geom:latitude":41.00275,
     "geom:longitude":28.953394,
@@ -31,11 +32,7 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17zilRpXNNkLbfxirnwEwb_41.002750_28.953394@1306270074"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068722,
     "wof:geomhash":"b79d0f02bbb287d60a99dcd3ad34e4ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108672127
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108672127,
-    "wof:lastmodified":1474070649,
+    "wof:lastmodified":1491908619,
     "wof:name":"Akbal Balik?ilik",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

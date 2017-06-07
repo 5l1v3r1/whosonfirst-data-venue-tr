@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8514461517,41.0627708435,28.8514461517,41.0627708435",
     "geom:latitude":41.062771,
     "geom:longitude":28.851446,
@@ -31,11 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kof2MvDyBybfyNjICJxnu_41.062771_28.851446@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065256,
     "wof:geomhash":"b3d9f3d84e3a16b86c28f7a3a37eaec2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108590267
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108590267,
-    "wof:lastmodified":1474070690,
+    "wof:lastmodified":1491916189,
     "wof:name":"Bir-sen Mobilya",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

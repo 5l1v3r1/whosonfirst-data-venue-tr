@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8430709839,41.0544433594,28.8430709839,41.0544433594",
     "geom:latitude":41.054443,
     "geom:longitude":28.843071,
@@ -31,11 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZJBjdTUgysL657eQkA8ow_41.054443_28.843071@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065258,
     "wof:geomhash":"2a2e4c78528d4e08928fe784be96088b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108590351
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108590351,
-    "wof:lastmodified":1474070685,
+    "wof:lastmodified":1491916188,
     "wof:name":"Cosar Mobilya Ins. Ve Gida San.tic. Ltd.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

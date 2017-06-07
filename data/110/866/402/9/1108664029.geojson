@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9206695557,41.0407676697,28.9206695557,41.0407676697",
     "geom:latitude":41.040768,
     "geom:longitude":28.92067,
@@ -33,11 +34,7 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mKkWoQVZNBbvoZsFwCsGE_41.040768_28.920670@1306270072"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474068405,
     "wof:geomhash":"aacb5823c2ee801875b05debe4ecefc3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108664029
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108664029,
-    "wof:lastmodified":1474070790,
+    "wof:lastmodified":1491920330,
     "wof:name":"Pentek Pencere Aksesuar San. Ve Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

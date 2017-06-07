@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.97082901,41.0242271423,28.97082901,41.0242271423",
     "geom:latitude":41.024227,
     "geom:longitude":28.970829,
@@ -32,12 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85632393,
+        85906589,
+        85679237,
         85906587,
         102191569,
-        85632393,
-        101913185,
-        85679237,
-        85906589
+        101913185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,24 @@
     "wof:geomhash":"17c85c47f5e5c86c860535a17e10a2bf",
     "wof:hierarchy":[
         {
+            "country_id":85632393,
+            "neighbourhood_id":85906589,
+            "region_id":85679237,
+            "venue_id":1108661437
+        },
+        {
             "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906587,
             "region_id":85679237,
             "venue_id":1108661437
-        },
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906589,
-            "region_id":85679237,
-            "venue_id":1108661437
         }
     ],
     "wof:id":1108661437,
-    "wof:lastmodified":1474070704,
+    "wof:lastmodified":1491918741,
     "wof:name":"Ayhan Kagit Tic. Paz. Ith. Ihr. Ltd. Sti.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

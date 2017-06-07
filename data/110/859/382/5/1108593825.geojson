@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9315319061,41.0396499634,28.9315319061,41.0396499634",
     "geom:latitude":41.03965,
     "geom:longitude":28.931532,
@@ -31,11 +32,7 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E7XvxZ3Md0xnCHWdjlp1n_41.039650_28.931532@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065376,
     "wof:geomhash":"bd9b9788497f54da1fa0595f4ccd2075",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108593825
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108593825,
-    "wof:lastmodified":1474070730,
+    "wof:lastmodified":1491920318,
     "wof:name":"Atmaca Makina",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

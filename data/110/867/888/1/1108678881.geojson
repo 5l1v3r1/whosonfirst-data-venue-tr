@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9900932312,41.0329856873,28.9900932312,41.0329856873",
     "geom:latitude":41.032986,
     "geom:longitude":28.990093,
@@ -28,11 +29,7 @@
     "sg:postcode":"01470",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74Cb8YhQ9HUuRJWHNlYaS8_41.032986_28.990093@1306270075"
@@ -40,19 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474069002,
     "wof:geomhash":"3b91fa589d0a4e116b8a4cbaff769dc8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108678881
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108678881,
-    "wof:lastmodified":1474070824,
+    "wof:lastmodified":1491922837,
     "wof:name":"T?rmar Soryev M?savir. Deniz. Tic. A.s.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

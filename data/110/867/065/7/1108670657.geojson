@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9120349884,41.0364646912,28.9120349884,41.0364646912",
     "geom:latitude":41.036465,
     "geom:longitude":28.912035,
@@ -31,11 +32,7 @@
         "-"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f12paexjMaKTRfIOkfcPy_41.036465_28.912035@1306270074"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068670,
     "wof:geomhash":"2d252caf9113c8d9cea718e68fb3f5f9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108670657
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108670657,
-    "wof:lastmodified":1474070642,
+    "wof:lastmodified":1491920332,
     "wof:name":"Onur Produksiyon Ve Reklamcilik Ltd.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

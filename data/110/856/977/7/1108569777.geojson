@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.787317276,41.0372695923,28.787317276,41.0372695923",
     "geom:latitude":41.03727,
     "geom:longitude":28.787317,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30BwDjEv9g1MDg7TkoVWuK_41.037270_28.787317@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064445,
     "wof:geomhash":"4c08e569699780586063e065ebb34c17",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108569777
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108569777,
-    "wof:lastmodified":1474070839,
+    "wof:lastmodified":1491896532,
     "wof:name":"Yanik Kardesler Makas Kesici Alet. San. Ltd. Sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

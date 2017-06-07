@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.849609375,41.0544662476,28.849609375,41.0544662476",
     "geom:latitude":41.054466,
     "geom:longitude":28.849609,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WK2cP4C5xlxMOkYCDQxPQ_41.054466_28.849609@1306270054"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064440,
     "wof:geomhash":"35bf52436ad0cbf6144e4b52b1b675ca",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108569633
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108569633,
-    "wof:lastmodified":1474070839,
+    "wof:lastmodified":1491916187,
     "wof:name":"Ultra A.s.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

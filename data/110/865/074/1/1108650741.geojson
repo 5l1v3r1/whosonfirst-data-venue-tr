@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.912109375,41.0438117981,28.912109375,41.0438117981",
     "geom:latitude":41.043812,
     "geom:longitude":28.912109,
@@ -30,11 +31,7 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JXkQbIR8U9Pp3hHcvykKF_41.043812_28.912109@1306270070"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474067872,
     "wof:geomhash":"7c879f5b07069df7662ea33d8bb7d496",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108650741
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108650741,
-    "wof:lastmodified":1474070728,
+    "wof:lastmodified":1491920326,
     "wof:name":"Aroma Ilac San. Ltd. Sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

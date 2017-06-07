@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.015442,41.021832,29.015442,41.021832",
     "geom:latitude":41.021832,
     "geom:longitude":29.015442,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906599,
+        85679237,
+        102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85906599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,9 @@
     "wof:geomhash":"562a806d37c526d2ccacc4a96432a30e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85906599,
             "region_id":85679237,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":169576123,
-    "wof:lastmodified":1474070647,
+    "wof:lastmodified":1491889234,
     "wof:name":"Escort Shipping And Trading Maritime Agency",
     "wof:parent_id":85906599,
     "wof:placetype":"venue",

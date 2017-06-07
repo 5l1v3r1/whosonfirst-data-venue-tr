@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.7838001251,41.043674469,28.7838001251,41.043674469",
     "geom:latitude":41.043674,
     "geom:longitude":28.7838,
@@ -30,11 +31,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3287yBrfd8hQwz0wMvtIJ7_41.043674_28.783800@1306270072"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474068374,
     "wof:geomhash":"7408af88cd5d31ff6e34365c23f430a4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108663207
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663207,
-    "wof:lastmodified":1474070784,
+    "wof:lastmodified":1491896532,
     "wof:name":"Fuji Film Sinfc Fotograf.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

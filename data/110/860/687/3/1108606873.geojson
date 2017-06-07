@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8143558502,41.0422744751,28.8143558502,41.0422744751",
     "geom:latitude":41.042274,
     "geom:longitude":28.814356,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZB82FZsbXoNnikzVtB1j_41.042274_28.814356@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065933,
     "wof:geomhash":"478c86b92549a509e4e1a255e4849436",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108606873
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606873,
-    "wof:lastmodified":1474070766,
+    "wof:lastmodified":1491896536,
     "wof:name":"Sason Textile Apparel Industry Co.ltd.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

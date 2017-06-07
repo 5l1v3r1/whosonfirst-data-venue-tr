@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9899768829,41.0330963135,28.9899768829,41.0330963135",
     "geom:latitude":41.033096,
     "geom:longitude":28.989977,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76ijMqczCEiNVl40QHaLJ7_41.033096_28.989977@1306270053"
@@ -44,19 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064314,
     "wof:geomhash":"a2c074e4e12687bf46f323138787cb0d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108566677
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108566677,
-    "wof:lastmodified":1474070715,
+    "wof:lastmodified":1491922839,
     "wof:name":"Birsa Makina San. Tic. Ltd. Sti.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

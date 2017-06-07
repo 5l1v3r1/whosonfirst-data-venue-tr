@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8131065369,41.0555915833,28.8131065369,41.0555915833",
     "geom:latitude":41.055592,
     "geom:longitude":28.813107,
@@ -31,11 +32,7 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FM8bZP4pHSq0Z2hdHzyuM_41.055592_28.813107@1306270055"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064704,
     "wof:geomhash":"dd9df48855f2ef17599715122d593c31",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108576101
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108576101,
-    "wof:lastmodified":1474070745,
+    "wof:lastmodified":1491896535,
     "wof:name":"Edip Iplik San. Tic. A.s",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

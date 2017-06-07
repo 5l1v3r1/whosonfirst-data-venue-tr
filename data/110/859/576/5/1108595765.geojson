@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9132080078,41.0381965637,28.9132080078,41.0381965637",
     "geom:latitude":41.038197,
     "geom:longitude":28.913208,
@@ -31,11 +32,7 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TtF4h1CKoM5J1KUazNBDS_41.038197_28.913208@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065451,
     "wof:geomhash":"ff1d3029bde3ac5ea1b42941b79056f9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108595765
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595765,
-    "wof:lastmodified":1474070755,
+    "wof:lastmodified":1491920328,
     "wof:name":"Gundogdu Makina San.tic. Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

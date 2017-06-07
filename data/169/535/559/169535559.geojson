@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.11787,41.120346,29.11787,41.120346",
     "geom:latitude":41.120346,
     "geom:longitude":29.11787,
@@ -27,8 +28,8 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85934775,
         85632393,
+        85934775,
         85679237
     ],
     "wof:breaches":[],
@@ -39,16 +40,14 @@
     "wof:geomhash":"75ad3bd91f2df0948e4afd7fb8169550",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85632393,
-            "locality_id":-1,
             "neighbourhood_id":85934775,
             "region_id":85679237,
             "venue_id":169535559
         }
     ],
     "wof:id":169535559,
-    "wof:lastmodified":1474070678,
+    "wof:lastmodified":1491933972,
     "wof:name":"Garanti ?deme Sistemleri As",
     "wof:parent_id":85934775,
     "wof:placetype":"venue",

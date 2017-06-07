@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1171207428,41.022441864,29.1171207428,41.022441864",
     "geom:latitude":41.022442,
     "geom:longitude":29.117121,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cGaWZXMBLcLvvdQtykypJ_41.022442_29.117121@1306270053"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064284,
     "wof:geomhash":"f2b79a53efc55d1ae28d188fdd1c5d77",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108566125
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108566125,
-    "wof:lastmodified":1474070713,
+    "wof:lastmodified":1491916635,
     "wof:name":"Aksel Makina Imalat Sanayi",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

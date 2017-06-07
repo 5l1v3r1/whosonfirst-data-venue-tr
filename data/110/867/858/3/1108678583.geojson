@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9856147766,41.0285720825,28.9856147766,41.0285720825",
     "geom:latitude":41.028572,
     "geom:longitude":28.985615,
@@ -28,11 +29,7 @@
     "sg:postcode":"55530",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VT4urBbgQANgMDjTVvnX5_41.028572_28.985615@1306270075"
@@ -40,19 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474068985,
     "wof:geomhash":"2540fd8f20655f034aec5e1817e05e8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":1108678583
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108678583,
-    "wof:lastmodified":1474070800,
+    "wof:lastmodified":1491922837,
     "wof:name":"Genel Denizcilik A.s.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

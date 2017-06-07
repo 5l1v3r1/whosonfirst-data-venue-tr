@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9113731384,40.9953689575,28.9113731384,40.9953689575",
     "geom:latitude":40.995369,
     "geom:longitude":28.911373,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lvnKKsdLxmQ57t1DQdJqy_40.995369_28.911373@1306270059"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065485,
     "wof:geomhash":"8e82e07aec68697c2145303a3e6bf047",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596355
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596355,
-    "wof:lastmodified":1474070757,
+    "wof:lastmodified":1491897856,
     "wof:name":"Alson Deri San.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9147224426,41.0325775146,28.9147224426,41.0325775146",
     "geom:latitude":41.032578,
     "geom:longitude":28.914722,
@@ -31,11 +32,7 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A9uWlqLR0EjCfKJu56y84_41.032578_28.914722@1306270056"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064717,
     "wof:geomhash":"b4a8bc10171f54a51a73969cc6792f80",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108576417
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108576417,
-    "wof:lastmodified":1474070740,
+    "wof:lastmodified":1491920323,
     "wof:name":"Kurtkaya Tekstil Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

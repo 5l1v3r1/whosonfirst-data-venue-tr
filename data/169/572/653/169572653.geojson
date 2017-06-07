@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.911448,40.994667,28.911448,40.994667",
     "geom:latitude":40.994667,
     "geom:longitude":28.911448,
@@ -31,29 +32,16 @@
         "shipowner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85904171,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GjZGacjTgwcvQVa6XWu6f_40.994667_28.911448@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"388ceb841b84c26d3ea56e8d4c051ee7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":169572653
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169572653,
-    "wof:lastmodified":1474070667,
+    "wof:lastmodified":1491897852,
     "wof:name":"Eta Denizcilik A.s.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

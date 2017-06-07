@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
     "geom:latitude":41.040855,
     "geom:longitude":28.986183,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85906555,
+        85679237,
         102191569,
         85632393,
         101913185,
-        85679237
+        890461447,
+        85906555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +51,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461447,
             "locality_id":101913185,
             "neighbourhood_id":85906555,
             "region_id":85679237,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108615405,
-    "wof:lastmodified":1474070776,
+    "wof:lastmodified":1491923857,
     "wof:name":"Gencler Mobilya",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9066505432,40.9850578308,28.9066505432,40.9850578308",
     "geom:latitude":40.985058,
     "geom:longitude":28.906651,
@@ -30,11 +31,7 @@
         "kitchenware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79pG65qXzgGzjHFYVUkc6c_40.985058_28.906651@1306270058"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474065291,
     "wof:geomhash":"ca46c9b21e9a9e1dd1622a92ace5e6ff",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108591505
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591505,
-    "wof:lastmodified":1474070685,
+    "wof:lastmodified":1491897861,
     "wof:name":"Bambi Madeni Esya San. Tic.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

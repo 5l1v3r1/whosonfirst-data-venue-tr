@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9542636871,41.0082130432,28.9542636871,41.0082130432",
     "geom:latitude":41.008213,
     "geom:longitude":28.954264,
@@ -23,11 +24,7 @@
     "sg:postcode":"34480",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HJw5GXbaSjoqoeqrJQGCZ_41.008213_28.954264@1306270063"
@@ -35,19 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066374,
     "wof:geomhash":"3cc098e9046be363cc18ae1ffc4ac7e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108617743
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617743,
-    "wof:lastmodified":1474070838,
+    "wof:lastmodified":1491908615,
     "wof:name":"Em?n Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.125705719,41.0071601868,29.125705719,41.0071601868",
     "geom:latitude":41.00716,
     "geom:longitude":29.125706,
@@ -22,11 +23,7 @@
     "sg:phone":"+90 216 365 3305",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kqBQW2eMBOeCFOBLKPs8N_41.007160_29.125706@1306270074"
@@ -34,16 +31,9 @@
     "wof:country":"TR",
     "wof:created":1474068847,
     "wof:geomhash":"9824602f775d441e4ff044732d83cb55",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108674935
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108674935,
-    "wof:lastmodified":1474070735,
+    "wof:lastmodified":1491916635,
     "wof:name":"Ilmak Makina Sanayi Ve Ticaret Ltd.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

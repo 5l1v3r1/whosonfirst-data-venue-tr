@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2778263092,40.832660675,29.2778263092,40.832660675",
     "geom:latitude":40.832661,
     "geom:longitude":29.277826,
@@ -33,11 +34,7 @@
         "trough"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929767,
-        85679241
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GR7JtGyim2P5eKAeRfdRt_40.832661_29.277826@1306270055"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474064677,
     "wof:geomhash":"8d1d4bbdcec723a6d7d8e6318c8b4210",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929767,
-            "region_id":85679241,
-            "venue_id":1108575383
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575383,
-    "wof:lastmodified":1474070737,
+    "wof:lastmodified":1491914186,
     "wof:name":"Yildirim Gemi Ins.san.a.s.",
     "wof:parent_id":85929767,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9116592407,40.9948120117,28.9116592407,40.9948120117",
     "geom:latitude":40.994812,
     "geom:longitude":28.911659,
@@ -32,11 +33,7 @@
         "tourism"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F4kSOxQNBf40y3suT5pRH_40.994812_28.911659@1306270065"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474066788,
     "wof:geomhash":"c0132723e592b551956762fa830714d7",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108628081
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108628081,
-    "wof:lastmodified":1474070863,
+    "wof:lastmodified":1491897854,
     "wof:name":"Sahinoglu Turizm",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

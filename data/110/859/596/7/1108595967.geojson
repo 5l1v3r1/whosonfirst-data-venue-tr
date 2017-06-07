@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9026374817,40.9924430847,28.9026374817,40.9924430847",
     "geom:latitude":40.992443,
     "geom:longitude":28.902637,
@@ -28,11 +29,7 @@
     "sg:postcode":"34020",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65FLBoyQ6A2qx259pIEQIz_40.992443_28.902637@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065465,
     "wof:geomhash":"e255c3f99e9b3adb89d31d6d0f8a6999",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108595967
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595967,
-    "wof:lastmodified":1474070757,
+    "wof:lastmodified":1491897855,
     "wof:name":"Cihaner Dericilik San.a.s.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

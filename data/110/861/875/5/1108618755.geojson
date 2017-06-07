@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9540271759,41.0046691895,28.9540271759,41.0046691895",
     "geom:latitude":41.004669,
     "geom:longitude":28.954027,
@@ -23,11 +24,7 @@
     "sg:postcode":"28300",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04qMctUcyjCpVg0Ve2ivKI_41.004669_28.954027@1306270063"
@@ -35,19 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474066419,
     "wof:geomhash":"a322945165d3e24a184223ff44802810",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108618755
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108618755,
-    "wof:lastmodified":1474070831,
+    "wof:lastmodified":1491908618,
     "wof:name":"Saydam Planet Hotel",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

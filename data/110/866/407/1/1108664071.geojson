@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8119106293,41.0465812683,28.8119106293,41.0465812683",
     "geom:latitude":41.046581,
     "geom:longitude":28.811911,
@@ -32,11 +33,7 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2orYKB6bqCkaKLpf1baZcK_41.046581_28.811911@1306270072"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068407,
     "wof:geomhash":"d98227afcb70a0583a94ec33aa5cb809",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108664071
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108664071,
-    "wof:lastmodified":1474070796,
+    "wof:lastmodified":1491896534,
     "wof:name":"Plastek Plastik San. Tic. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

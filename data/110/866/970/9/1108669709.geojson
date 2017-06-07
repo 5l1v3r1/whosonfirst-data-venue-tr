@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9038505554,40.9865989685,28.9038505554,40.9865989685",
     "geom:latitude":40.986599,
     "geom:longitude":28.903851,
@@ -31,11 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XQO5OrFxAWpgBDXU8DzdW_40.986599_28.903851@1306270073"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068634,
     "wof:geomhash":"3b6c16deaa5d744deb20258cde7dfa03",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108669709
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108669709,
-    "wof:lastmodified":1474070864,
+    "wof:lastmodified":1491897858,
     "wof:name":"Eser Gelin. & Modaevi .",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

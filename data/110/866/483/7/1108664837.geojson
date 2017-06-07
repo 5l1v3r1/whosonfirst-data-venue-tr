@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9210777283,41.0421028137,28.9210777283,41.0421028137",
     "geom:latitude":41.042103,
     "geom:longitude":28.921078,
@@ -28,11 +29,7 @@
     "sg:postcode":"34714",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zFgDW01B5JyIBrPQsw3Ov_41.042103_28.921078@1306270072"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474068436,
     "wof:geomhash":"891dafbd8ebf14c3ccd5f922919318ee",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108664837
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108664837,
-    "wof:lastmodified":1474070835,
+    "wof:lastmodified":1491920318,
     "wof:name":"Setvan Valf San. Ve Tic. A.s",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

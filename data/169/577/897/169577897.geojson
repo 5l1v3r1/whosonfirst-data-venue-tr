@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.045492,41.005192,29.045492,41.005192",
     "geom:latitude":41.005192,
     "geom:longitude":29.045492,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929355,
+        85679237,
+        102191569,
         85632393,
         101912675,
-        85679237
+        890462769,
+        85929355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +50,9 @@
     "wof:geomhash":"8bea566f0c790d88f2a278babc3b787e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462769,
             "locality_id":101912675,
             "neighbourhood_id":85929355,
             "region_id":85679237,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":169577897,
-    "wof:lastmodified":1474070670,
+    "wof:lastmodified":1491938365,
     "wof:name":"Norex North Express Logistics Services And Shipping Co Ltd.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",

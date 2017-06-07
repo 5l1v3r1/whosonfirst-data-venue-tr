@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9019374847,40.9911880493,28.9019374847,40.9911880493",
     "geom:latitude":40.991188,
     "geom:longitude":28.901937,
@@ -31,11 +32,7 @@
         "personnel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iVziF6EFX4hlFm9DeFSvq_40.991188_28.901937@1306270072"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068335,
     "wof:geomhash":"6fc4edb7b5bdff6b9cd06a324adf4f55",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108662247
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108662247,
-    "wof:lastmodified":1474070774,
+    "wof:lastmodified":1491897859,
     "wof:name":"?zmen Turizm Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

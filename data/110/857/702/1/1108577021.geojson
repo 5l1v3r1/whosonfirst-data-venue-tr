@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8584976196,41.0459747314,28.8584976196,41.0459747314",
     "geom:latitude":41.045975,
     "geom:longitude":28.858498,
@@ -31,11 +32,7 @@
         "zipper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wo1Ez7TcFfzkK7pvYM7DR_41.045975_28.858498@1306270056"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474064755,
     "wof:geomhash":"9020034c53129ab234311c64266ad59b",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108577021
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108577021,
-    "wof:lastmodified":1474070767,
+    "wof:lastmodified":1491916188,
     "wof:name":"Budak Textil Fermuar San.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.989977,41.033096,28.989977,41.033096",
     "geom:latitude":41.033096,
     "geom:longitude":28.989977,
@@ -32,30 +33,16 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904113
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jkmn3iMcaVz9GXfK9ogzE_41.033096_28.989977@1306270053"
     },
     "wof:country":"TR",
     "wof:geomhash":"c17c7074f08db7adf34f479f6c47bfd7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904113,
-            "region_id":85679237,
-            "venue_id":169676107
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169676107,
-    "wof:lastmodified":1474070636,
+    "wof:lastmodified":1491922838,
     "wof:name":"Boral Makina San. Tic. Ltd. Sti.",
     "wof:parent_id":85904113,
     "wof:placetype":"venue",

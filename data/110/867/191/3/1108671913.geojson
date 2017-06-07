@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9962387085,41.072807312,28.9962387085,41.072807312",
     "geom:latitude":41.072807,
     "geom:longitude":28.996239,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85929455,
+        85679237,
         102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85929455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +51,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85929455,
             "region_id":85679237,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108671913,
-    "wof:lastmodified":1474070653,
+    "wof:lastmodified":1491934194,
     "wof:name":"Ysc Yangin Sondurme Cihazlari Bakim Hizmetleri Ve Tic. A.s.",
     "wof:parent_id":85929455,
     "wof:placetype":"venue",

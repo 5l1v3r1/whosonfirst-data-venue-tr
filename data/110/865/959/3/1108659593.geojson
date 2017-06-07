@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9623966217,41.0151863098,28.9623966217,41.0151863098",
     "geom:latitude":41.015186,
     "geom:longitude":28.962397,
@@ -32,11 +33,7 @@
         "casette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906469,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MshriCS9ogYaCBRvjriz5_41.015186_28.962397@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068240,
     "wof:geomhash":"5494c82bb812b000e67dd8ad7d601d95",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906469,
-            "region_id":85679237,
-            "venue_id":1108659593
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108659593,
-    "wof:lastmodified":1474070854,
+    "wof:lastmodified":1491896736,
     "wof:name":"Cav Cav M?zik Evi",
     "wof:parent_id":85906469,
     "wof:placetype":"venue",

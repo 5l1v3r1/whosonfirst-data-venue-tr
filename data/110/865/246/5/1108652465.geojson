@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9693527222,41.0147438049,28.9693527222,41.0147438049",
     "geom:latitude":41.014744,
     "geom:longitude":28.969353,
@@ -31,10 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906479,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tZoc7UDIi4Nt8nNVy4VI8_41.014744_28.969353@1306270070"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067958,
     "wof:geomhash":"4f9997e0958c4559a834e3ac03465e23",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906479,
-            "region_id":85679237,
-            "venue_id":1108652465
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108652465,
-    "wof:lastmodified":1474070777,
+    "wof:lastmodified":1491901182,
     "wof:name":"Erol Teks.",
     "wof:parent_id":85906479,
     "wof:placetype":"venue",

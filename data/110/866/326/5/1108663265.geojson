@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9080963135,40.9912071228,28.9080963135,40.9912071228",
     "geom:latitude":40.991207,
     "geom:longitude":28.908096,
@@ -31,11 +32,7 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31cPSnRir1dPXnMbyjGSnQ_40.991207_28.908096@1306270072"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474068375,
     "wof:geomhash":"e4a772218b1baea317d6f5c1978afcac",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108663265
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108663265,
-    "wof:lastmodified":1474070791,
+    "wof:lastmodified":1491897860,
     "wof:name":"Muderkon Deri Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

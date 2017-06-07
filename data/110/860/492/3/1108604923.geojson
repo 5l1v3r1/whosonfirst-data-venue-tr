@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0110988617,41.0186386108,29.0110988617,41.0186386108",
     "geom:latitude":41.018639,
     "geom:longitude":29.011099,
@@ -32,10 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904151
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24gx0SIjql2nPT9blw85EL_41.018639_29.011099@1306270061"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065842,
     "wof:geomhash":"fa4a9829bf8d206c5f48744a7b9ae6a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904151,
-            "venue_id":1108604923
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108604923,
-    "wof:lastmodified":1474070740,
+    "wof:lastmodified":1491919633,
     "wof:name":"Asli Giyim San Ve Tic A.s",
     "wof:parent_id":85904151,
     "wof:placetype":"venue",

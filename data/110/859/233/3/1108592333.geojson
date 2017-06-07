@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.6232395172,41.0296325684,28.6232395172,41.0296325684",
     "geom:latitude":41.029633,
     "geom:longitude":28.62324,
@@ -31,11 +32,7 @@
         "knitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929935,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36ykjnACeOk2zno8GWgPdv_41.029633_28.623240@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065320,
     "wof:geomhash":"76e615397b967898e6d889c46c087564",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929935,
-            "region_id":85679237,
-            "venue_id":1108592333
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108592333,
-    "wof:lastmodified":1474070713,
+    "wof:lastmodified":1491901279,
     "wof:name":"Teknik Emprime San.a.s",
     "wof:parent_id":85929935,
     "wof:placetype":"venue",

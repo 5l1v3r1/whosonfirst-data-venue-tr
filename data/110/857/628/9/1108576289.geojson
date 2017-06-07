@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9812736511,41.0729103088,28.9812736511,41.0729103088",
     "geom:latitude":41.07291,
     "geom:longitude":28.981274,
@@ -32,11 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
         102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +51,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108576289,
-    "wof:lastmodified":1474070740,
+    "wof:lastmodified":1491911179,
     "wof:name":"Hitas Tekstil Ltd.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.010389328,41.022895813,29.010389328,41.022895813",
     "geom:latitude":41.022896,
     "geom:longitude":29.010389,
@@ -30,10 +31,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R7s0DfYWdV7l7E8WSJtz5_41.022896_29.010389@1306270055"
@@ -41,15 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064549,
     "wof:geomhash":"e12eb270d3c9c576468347680b44ed42",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108572229
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108572229,
-    "wof:lastmodified":1474070653,
+    "wof:lastmodified":1491926956,
     "wof:name":"Saran Plastik Ambalaj San. Tic. A.s.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

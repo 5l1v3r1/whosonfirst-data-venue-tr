@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8517971039,41.056312561,28.8517971039,41.056312561",
     "geom:latitude":41.056313,
     "geom:longitude":28.851797,
@@ -31,11 +32,7 @@
         "agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wbx7aKCWvwk93yjxc4a08_41.056313_28.851797@1306270060"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065624,
     "wof:geomhash":"ff7f08d7c0d29c5ba0cbd594c1a5ea16",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108599783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108599783,
-    "wof:lastmodified":1474070839,
+    "wof:lastmodified":1491916187,
     "wof:name":"Asfen Makina Tarim Alet.san. A.s.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

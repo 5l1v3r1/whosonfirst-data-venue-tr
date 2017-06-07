@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9163761139,41.0346298218,28.9163761139,41.0346298218",
     "geom:latitude":41.03463,
     "geom:longitude":28.916376,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E2LfwQqyxLWn8ePkWVhJH_41.034630_28.916376@1306270072"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068277,
     "wof:geomhash":"2ed26150e0f81f139c70e6dc7d1a4381",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108660631
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108660631,
-    "wof:lastmodified":1474070691,
+    "wof:lastmodified":1491920333,
     "wof:name":"Nil Plastik Ambalaj San.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

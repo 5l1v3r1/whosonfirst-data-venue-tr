@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2258319855,40.8796043396,29.2258319855,40.8796043396",
     "geom:latitude":40.879604,
     "geom:longitude":29.225832,
@@ -31,10 +32,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15slNGGRbd4504zA9WDqcb_40.879604_29.225832@1306270058"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065337,
     "wof:geomhash":"e9f000a012fe727302fbf55ea08ca341",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108592855
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108592855,
-    "wof:lastmodified":1474070708,
+    "wof:lastmodified":1491902293,
     "wof:name":"Asya Veterinerlik Hizmetleri Tic.ltd.sti.",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

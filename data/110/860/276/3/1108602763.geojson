@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1143074036,41.0163192749,29.1143074036,41.0163192749",
     "geom:latitude":41.016319,
     "geom:longitude":29.114307,
@@ -32,11 +33,7 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m1OkW4h9il4igbwgi0WcO_41.016319_29.114307@1306270060"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065745,
     "wof:geomhash":"1a8aaa7f92215e4be60f92615d58158c",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108602763
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108602763,
-    "wof:lastmodified":1474070715,
+    "wof:lastmodified":1491916635,
     "wof:name":"Volkan Isi Ltd.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

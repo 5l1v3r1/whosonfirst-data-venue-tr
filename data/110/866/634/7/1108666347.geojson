@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9921588898,41.0720214844,28.9921588898,41.0720214844",
     "geom:latitude":41.072021,
     "geom:longitude":28.992159,
@@ -24,11 +25,12 @@
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
         102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,6 +43,7 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1108666347,
-    "wof:lastmodified":1474070846,
+    "wof:lastmodified":1491911175,
     "wof:name":"Doktoroglu Matbaa Merdane San. Tic. Ltd. Sti.",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

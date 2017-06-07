@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8513698578,41.0430297852,28.8513698578,41.0430297852",
     "geom:latitude":41.04303,
     "geom:longitude":28.85137,
@@ -31,11 +32,7 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x9Qi8Qojgi6GYx3rFhfUz_41.043030_28.851370@1306270066"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067116,
     "wof:geomhash":"8f436826af22ab251d11752279e0b495",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108632165
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108632165,
-    "wof:lastmodified":1474070742,
+    "wof:lastmodified":1491916187,
     "wof:name":"Cansizoglu A.s.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

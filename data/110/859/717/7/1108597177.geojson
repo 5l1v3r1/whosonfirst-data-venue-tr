@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9083900452,40.9933738708,28.9083900452,40.9933738708",
     "geom:latitude":40.993374,
     "geom:longitude":28.90839,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WRvUtUAvqUb53x6YMETYy_40.993374_28.908390@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065518,
     "wof:geomhash":"aff01891fffeb7b5dd4fe9d512f1c7cb",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108597177
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597177,
-    "wof:lastmodified":1474070800,
+    "wof:lastmodified":1491897860,
     "wof:name":"Ugur Deri Mam. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

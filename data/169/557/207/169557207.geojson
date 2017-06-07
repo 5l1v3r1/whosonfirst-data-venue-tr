@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.983854,41.034431,28.983854,41.034431",
     "geom:latitude":41.034431,
     "geom:longitude":28.983854,
@@ -33,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906571,
+        102191569,
         85632393,
         101913185,
         85679237
@@ -45,7 +47,7 @@
     "wof:geomhash":"09ef99723f5c3c6902e55f73b11e543c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906571,
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":169557207,
-    "wof:lastmodified":1474070646,
+    "wof:lastmodified":1491923951,
     "wof:name":"Ospa Erko? Ltd.",
     "wof:parent_id":85906571,
     "wof:placetype":"venue",

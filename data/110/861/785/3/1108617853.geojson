@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9589862823,41.0089073181,28.9589862823,41.0089073181",
     "geom:latitude":41.008907,
     "geom:longitude":28.958986,
@@ -23,12 +24,7 @@
     "sg:postcode":"34470",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167,
-        85906505
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a9OAVnVdn9jWj0g0NLGeT_41.008907_28.958986@1306270063"
@@ -36,27 +32,11 @@
     "wof:country":"TR",
     "wof:created":1474066378,
     "wof:geomhash":"e7b93ca82d23087b01be082da7f0a86a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108617853
-        },
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906505,
-            "region_id":85679237,
-            "venue_id":1108617853
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108617853,
-    "wof:lastmodified":1474070830,
+    "wof:lastmodified":1491908616,
     "wof:name":"Gold Hotel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

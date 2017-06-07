@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9115905762,41.0342826843,28.9115905762,41.0342826843",
     "geom:latitude":41.034283,
     "geom:longitude":28.911591,
@@ -31,11 +32,7 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R8KjtgUUDrSnjIeGzEbxH_41.034283_28.911591@1306270070"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067898,
     "wof:geomhash":"8ba8f5870617268bc01871c4ab7f9a73",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108651353
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108651353,
-    "wof:lastmodified":1474070734,
+    "wof:lastmodified":1491920327,
     "wof:name":"Mct Mum. Ith. Ihr.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

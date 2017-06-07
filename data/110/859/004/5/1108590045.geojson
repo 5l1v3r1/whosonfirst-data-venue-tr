@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9031867981,40.991394043,28.9031867981,40.991394043",
     "geom:latitude":40.991394,
     "geom:longitude":28.903187,
@@ -31,11 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BnyeUkDA7RVVEgCN4Qywt_40.991394_28.903187@1306270057"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065252,
     "wof:geomhash":"48ca394836593040fd517ee79d4a77d3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108590045
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108590045,
-    "wof:lastmodified":1474070640,
+    "wof:lastmodified":1491897852,
     "wof:name":"Acar Mobilya",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

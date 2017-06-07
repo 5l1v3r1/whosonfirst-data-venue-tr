@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.811155,41.036751,28.811155,41.036751",
     "geom:latitude":41.036751,
     "geom:longitude":28.811155,
@@ -31,29 +32,16 @@
         "soft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85929887,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14yadw2cwfzAGZlTUfu3ba_41.036751_28.811155@1306270052"
     },
     "wof:country":"TR",
     "wof:geomhash":"ff62f6544e336b5c43ac5c5a5cb71b7a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":169585651
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169585651,
-    "wof:lastmodified":1474070640,
+    "wof:lastmodified":1491896535,
     "wof:name":"Tamek Gida San. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

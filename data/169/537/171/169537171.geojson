@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.976254,41.0322,28.976254,41.0322",
     "geom:latitude":41.0322,
     "geom:longitude":28.976254,
@@ -29,6 +30,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906549,
+        102191569,
         85632393,
         101913185,
         85679237
@@ -41,7 +43,7 @@
     "wof:geomhash":"68250dce90f5929db4637249ffa9fdbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906549,
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":169537171,
-    "wof:lastmodified":1474070645,
+    "wof:lastmodified":1491892262,
     "wof:name":"Kocbank As",
     "wof:parent_id":85906549,
     "wof:placetype":"venue",

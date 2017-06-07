@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.232711792,40.8759727478,29.232711792,40.8759727478",
     "geom:latitude":40.875973,
     "geom:longitude":29.232712,
@@ -32,10 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZexXyinAzhIv2yfn6Ael6_40.875973_29.232712@1306270054"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064436,
     "wof:geomhash":"ddaf53448d8dc228b7118e445856f623",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108569549
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108569549,
-    "wof:lastmodified":1474070830,
+    "wof:lastmodified":1491902294,
     "wof:name":"Tulga Makina San. Tic. A.s",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

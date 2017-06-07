@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9700431824,41.0142478943,28.9700431824,41.0142478943",
     "geom:latitude":41.014248,
     "geom:longitude":28.970043,
@@ -31,10 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906479,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QLcMYIvHJif8mIEG2HKDm_41.014248_28.970043@1306270057"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065207,
     "wof:geomhash":"a6c69b38f29381977c912105dfbf2942",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906479,
-            "region_id":85679237,
-            "venue_id":1108588091
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108588091,
-    "wof:lastmodified":1474070784,
+    "wof:lastmodified":1491901181,
     "wof:name":"Belli Esarp Y?ksekdag Koll. Sti.",
     "wof:parent_id":85906479,
     "wof:placetype":"venue",

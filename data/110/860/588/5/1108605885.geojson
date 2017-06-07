@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9115180969,41.0418891907,28.9115180969,41.0418891907",
     "geom:latitude":41.041889,
     "geom:longitude":28.911518,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A5YCFdCf4WC2mBVy1OlC7_41.041889_28.911518@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065879,
     "wof:geomhash":"79cbd66ad7e56e9cb83675188d61ea05",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108605885
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108605885,
-    "wof:lastmodified":1474070755,
+    "wof:lastmodified":1491920331,
     "wof:name":"Harmony Tekstil San.tic. Ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9219303131,41.0354995728,28.9219303131,41.0354995728",
     "geom:latitude":41.0355,
     "geom:longitude":28.92193,
@@ -30,11 +31,7 @@
         "glassware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hxDDwqiOLwP8ii42Vuj0I_41.035500_28.921930@1306270055"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474064634,
     "wof:geomhash":"b3d082ed7a89d28508da1aef82844e92",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108574291
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108574291,
-    "wof:lastmodified":1474070732,
+    "wof:lastmodified":1491920324,
     "wof:name":"Ay Plast Ayna Ve Plastik San.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

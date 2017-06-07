@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1157455444,41.026008606,29.1157455444,41.026008606",
     "geom:latitude":41.026009,
     "geom:longitude":29.115746,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DpbzMmZdk5ZaWw8hKMR0f_41.026009_29.115746@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065920,
     "wof:geomhash":"d43fc6ea8d3fa58c5277d885268a0cea",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108606687
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108606687,
-    "wof:lastmodified":1474070772,
+    "wof:lastmodified":1491916634,
     "wof:name":"Poem Tekstil San. Ve Tic. Ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

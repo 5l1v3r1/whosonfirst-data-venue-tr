@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2763671875,40.8334884644,29.2763671875,40.8334884644",
     "geom:latitude":40.833488,
     "geom:longitude":29.276367,
@@ -33,11 +34,7 @@
         "trough"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929767,
-        85679241
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BLOzCHL0h5FByhdVYvjZV_40.833488_29.276367@1306270055"
@@ -45,16 +42,9 @@
     "wof:country":"TR",
     "wof:created":1474064677,
     "wof:geomhash":"2632b6967c4d337985f17bbb7380b244",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929767,
-            "region_id":85679241,
-            "venue_id":1108575389
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108575389,
-    "wof:lastmodified":1474070751,
+    "wof:lastmodified":1491914187,
     "wof:name":"Yonca Onuk Jv",
     "wof:parent_id":85929767,
     "wof:placetype":"venue",

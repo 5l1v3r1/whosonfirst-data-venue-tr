@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9617271423,41.0066604614,28.9617271423,41.0066604614",
     "geom:latitude":41.00666,
     "geom:longitude":28.961727,
@@ -31,11 +32,7 @@
         "supplementaries"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dSIGag5GnQdjvuH6bCS5h_41.006660_28.961727@1306270059"
@@ -43,19 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065453,
     "wof:geomhash":"f8233f4a9465183195c11f644ad94821",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108595841
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108595841,
-    "wof:lastmodified":1474070763,
+    "wof:lastmodified":1491908615,
     "wof:name":"Devran Ayakkabi San. A.s.",
     "wof:parent_id":85904167,
     "wof:placetype":"venue",

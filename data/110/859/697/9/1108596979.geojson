@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9076919556,40.9895248413,28.9076919556,40.9895248413",
     "geom:latitude":40.989525,
     "geom:longitude":28.907692,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DquwY047N2ty9L1RZW2I7_40.989525_28.907692@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065512,
     "wof:geomhash":"47d0a10cd28ac4f665a86a29c73005d3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596979
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596979,
-    "wof:lastmodified":1474070794,
+    "wof:lastmodified":1491897859,
     "wof:name":"Osmanogullari Deri Sanayi",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

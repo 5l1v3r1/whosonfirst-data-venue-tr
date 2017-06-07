@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.906835556,40.9873924255,28.906835556,40.9873924255",
     "geom:latitude":40.987392,
     "geom:longitude":28.906836,
@@ -31,11 +32,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KsD0k6bup9zrE3QglNUno_40.987392_28.906836@1306270059"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065517,
     "wof:geomhash":"3614b19c275ec25fc8d6e5b37bb20856",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108597143
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108597143,
-    "wof:lastmodified":1474070794,
+    "wof:lastmodified":1491897856,
     "wof:name":"Tezisler Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9124069214,41.0405921936,28.9124069214,41.0405921936",
     "geom:latitude":41.040592,
     "geom:longitude":28.912407,
@@ -23,11 +24,7 @@
     "sg:postcode":"33740",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u2m0RPjGViDJL2nAwURv2_41.040592_28.912407@1306270071"
@@ -35,16 +32,9 @@
     "wof:country":"TR",
     "wof:created":1474068093,
     "wof:geomhash":"79104ec080c02310fbf68ae92a3d827a",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108655879
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108655879,
-    "wof:lastmodified":1474070826,
+    "wof:lastmodified":1491920328,
     "wof:name":"Erler Makina Tic San Ltd Sti",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

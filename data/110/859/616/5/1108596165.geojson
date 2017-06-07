@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9071731567,40.9856033325,28.9071731567,40.9856033325",
     "geom:latitude":40.985603,
     "geom:longitude":28.907173,
@@ -28,11 +29,7 @@
     "sg:postcode":"65400",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jeLlrl1zlqWptlahM8zWh_40.985603_28.907173@1306270059"
@@ -40,16 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474065473,
     "wof:geomhash":"dfcf3da7af67485d3477877a69ca1b67",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108596165
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108596165,
-    "wof:lastmodified":1474070762,
+    "wof:lastmodified":1491897861,
     "wof:name":"Salman&vietri Deri Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

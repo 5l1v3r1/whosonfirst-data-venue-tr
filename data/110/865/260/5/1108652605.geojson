@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9576339722,41.0087127686,28.9576339722,41.0087127686",
     "geom:latitude":41.008713,
     "geom:longitude":28.957634,
@@ -32,12 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85679237,
-        85632393,
-        85904167,
-        85906505
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sJfrGCAsCiQJcKWCUli5u_41.008713_28.957634@1306270070"
@@ -45,27 +41,11 @@
     "wof:country":"TR",
     "wof:created":1474067964,
     "wof:geomhash":"2772a001646e0ea1d4ba38fd1a0aa87b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "county_id":-1,
-            "locality_id":-1,
-            "neighbourhood_id":85904167,
-            "region_id":85679237,
-            "venue_id":1108652605
-        },
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906505,
-            "region_id":85679237,
-            "venue_id":1108652605
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108652605,
-    "wof:lastmodified":1474070778,
+    "wof:lastmodified":1491908617,
     "wof:name":"Mondostar Sirketler Grubu",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
     "wof:superseded_by":[],

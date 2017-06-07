@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8597221375,41.0643539429,28.8597221375,41.0643539429",
     "geom:latitude":41.064354,
     "geom:longitude":28.859722,
@@ -31,11 +32,7 @@
         "upholstery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930169,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SEBjDJpjCIw1eMhneCLV0_41.064354_28.859722@1306270058"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065364,
     "wof:geomhash":"342770022a6aa62188f1507494588860",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930169,
-            "region_id":85679237,
-            "venue_id":1108593519
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108593519,
-    "wof:lastmodified":1474070716,
+    "wof:lastmodified":1491916188,
     "wof:name":"Demkar Tekstil San.dis.tic.ltd.sti.",
     "wof:parent_id":85930169,
     "wof:placetype":"venue",

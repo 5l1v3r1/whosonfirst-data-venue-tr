@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.977863,41.073429,28.977863,41.073429",
     "geom:latitude":41.073429,
     "geom:longitude":28.977863,
@@ -31,10 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930041,
+        85679237,
+        102191569,
         85632393,
         101912685,
-        85679237
+        890461743,
+        85930041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +47,9 @@
     "wof:geomhash":"df085beb3de68ff2f05689b079b72707",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890461743,
             "locality_id":101912685,
             "neighbourhood_id":85930041,
             "region_id":85679237,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":169597425,
-    "wof:lastmodified":1474070660,
+    "wof:lastmodified":1491911172,
     "wof:name":"Emin Tekstil Boya Ve Apre",
     "wof:parent_id":85930041,
     "wof:placetype":"venue",

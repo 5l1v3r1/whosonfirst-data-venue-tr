@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8139419556,41.036491394,28.8139419556,41.036491394",
     "geom:latitude":41.036491,
     "geom:longitude":28.813942,
@@ -30,11 +31,7 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wb2KPHPgLmKEumLgJK2oz_41.036491_28.813942@1306270057"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474065132,
     "wof:geomhash":"c1fa13c871229bb32370851ff36eb7a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108585033
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108585033,
-    "wof:lastmodified":1474070706,
+    "wof:lastmodified":1491896535,
     "wof:name":"Sanko Pazarlama Ith.ihr. A.s.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

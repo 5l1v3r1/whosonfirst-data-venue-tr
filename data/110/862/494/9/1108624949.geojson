@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9207782745,41.044418335,28.9207782745,41.044418335",
     "geom:latitude":41.044418,
     "geom:longitude":28.920778,
@@ -31,11 +32,7 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UICI2vW7GyOn8JoS065Bb_41.044418_28.920778@1306270064"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474066658,
     "wof:geomhash":"01072a0b0ae6d6704fec04f30bd43b18",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108624949
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108624949,
-    "wof:lastmodified":1474070779,
+    "wof:lastmodified":1491920318,
     "wof:name":"Nasip Taslama",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

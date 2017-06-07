@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2319641113,40.8796653748,29.2319641113,40.8796653748",
     "geom:latitude":40.879665,
     "geom:longitude":29.231964,
@@ -31,10 +32,7 @@
         "wardrobe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NwtxzFyFQWkGvtGci2ebf_40.879665_29.231964@1306270058"
@@ -42,15 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065287,
     "wof:geomhash":"8280baf155efe61eb4b22df3f167903f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108591377
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108591377,
-    "wof:lastmodified":1474070689,
+    "wof:lastmodified":1491902295,
     "wof:name":"Yonca Ticaret",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

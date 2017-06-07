@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9021892548,40.9946517944,28.9021892548,40.9946517944",
     "geom:latitude":40.994652,
     "geom:longitude":28.902189,
@@ -31,11 +32,7 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50U6kKuMUVHcSfcjEQfOYO_40.994652_28.902189@1306270066"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474067116,
     "wof:geomhash":"c468369d64193ff4edbe5e5e0caf38b9",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108632149
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108632149,
-    "wof:lastmodified":1474070742,
+    "wof:lastmodified":1491897854,
     "wof:name":"Can Day. T?k. Mal.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

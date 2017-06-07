@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.914286,41.0322,28.914286,41.0322",
     "geom:latitude":41.0322,
     "geom:longitude":28.914286,
@@ -28,29 +29,16 @@
     "sg:postcode":"63600",
     "sg:province":"Bayrampasa",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906463,
-        85632393,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mwtgNZNwpdQ8isgZRYrGa_41.032200_28.914286@1306270051"
     },
     "wof:country":"TR",
     "wof:geomhash":"0c87dd4dab71c26b6fc68a3f69a5173e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85632393,
-            "locality_id":-1,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":169534757
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":169534757,
-    "wof:lastmodified":1474070676,
+    "wof:lastmodified":1491920319,
     "wof:name":"Etibank Bao",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

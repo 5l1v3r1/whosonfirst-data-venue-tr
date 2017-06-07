@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2223396301,40.8786239624,29.2223396301,40.8786239624",
     "geom:latitude":40.878624,
     "geom:longitude":29.22234,
@@ -32,10 +33,7 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dpwZuY0Fmpdx2X6P3UiwB_40.878624_29.222340@1306270073"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068552,
     "wof:geomhash":"9957fa2f6115ae6234461c0d26d214c3",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108667801
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108667801,
-    "wof:lastmodified":1474070855,
+    "wof:lastmodified":1491902294,
     "wof:name":"Ada Yayincilik Ssk",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

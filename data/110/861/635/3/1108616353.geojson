@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.970495224,41.0145645142,28.970495224,41.0145645142",
     "geom:latitude":41.014565,
     "geom:longitude":28.970495,
@@ -30,10 +31,7 @@
         "textile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906479,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TnxcGu91coU97OSBM1hkY_41.014565_28.970495@1306270063"
@@ -41,15 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474066321,
     "wof:geomhash":"8ea347773845e2b605a1c257a1d885f7",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906479,
-            "region_id":85679237,
-            "venue_id":1108616353
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108616353,
-    "wof:lastmodified":1474070793,
+    "wof:lastmodified":1491901182,
     "wof:name":"Aydin ?rme San.tic.a.s.",
     "wof:parent_id":85906479,
     "wof:placetype":"venue",

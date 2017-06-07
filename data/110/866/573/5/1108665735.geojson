@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.01039505,41.0230140686,29.01039505,41.0230140686",
     "geom:latitude":41.023014,
     "geom:longitude":29.010395,
@@ -32,10 +33,7 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30zK8phT5fLLl19ZHhVr1A_41.023014_29.010395@1306270073"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068476,
     "wof:geomhash":"aa4c911bda148d41d16127206cec669f",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108665735
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108665735,
-    "wof:lastmodified":1474070850,
+    "wof:lastmodified":1491926956,
     "wof:name":"Isletme Ltd. Sti.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

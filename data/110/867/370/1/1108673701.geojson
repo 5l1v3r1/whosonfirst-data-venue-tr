@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8128147125,41.036151886,28.8128147125,41.036151886",
     "geom:latitude":41.036152,
     "geom:longitude":28.812815,
@@ -32,11 +33,7 @@
         "additive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nAqcHeLJJuLaqWvBkXFzb_41.036152_28.812815@1306270074"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068791,
     "wof:geomhash":"92c051d7a96ab78cdd9d2d60a635d902",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108673701
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108673701,
-    "wof:lastmodified":1474070683,
+    "wof:lastmodified":1491896535,
     "wof:name":"Eren & Ogullari Gida San.ltd.sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

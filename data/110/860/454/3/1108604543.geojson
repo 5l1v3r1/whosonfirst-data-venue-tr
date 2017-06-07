@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.1113510132,41.0196876526,29.1113510132,41.0196876526",
     "geom:latitude":41.019688,
     "geom:longitude":29.111351,
@@ -31,11 +32,7 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930131,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cfbEC5bmIavT8NRonyxpH_41.019688_29.111351@1306270061"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065820,
     "wof:geomhash":"54cf6035f205b0dbaf4c05e997b419f4",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930131,
-            "region_id":85679237,
-            "venue_id":1108604543
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108604543,
-    "wof:lastmodified":1474070733,
+    "wof:lastmodified":1491916634,
     "wof:name":"M.sonmez Gida Ve Tuketim Urunleri San.tic.ltd.sti.",
     "wof:parent_id":85930131,
     "wof:placetype":"venue",

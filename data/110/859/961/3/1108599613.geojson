@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8990535736,40.9917030334,28.8990535736,40.9917030334",
     "geom:latitude":40.991703,
     "geom:longitude":28.899054,
@@ -31,11 +32,7 @@
         "agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TVXrrNjLCn1cIA1ES2aLI_40.991703_28.899054@1306270060"
@@ -43,16 +40,9 @@
     "wof:country":"TR",
     "wof:created":1474065617,
     "wof:geomhash":"9c15aacdb7b4d5e1ce31fba54cec4740",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108599613
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108599613,
-    "wof:lastmodified":1474070839,
+    "wof:lastmodified":1491897860,
     "wof:name":"Aydogdu Tarim",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.011803,41.054176,29.011803,41.054176",
     "geom:latitude":41.054176,
     "geom:longitude":29.011803,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85904169,
+        85679237,
+        102191569,
         85632393,
         101912663,
-        85679237
+        890462841,
+        85904169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,9 @@
     "wof:geomhash":"603e5cf060cbfcd39554807c18e94670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462841,
             "locality_id":101912663,
             "neighbourhood_id":85904169,
             "region_id":85679237,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169572107,
-    "wof:lastmodified":1474070642,
+    "wof:lastmodified":1491913398,
     "wof:name":"Beyak Beyli A.s. .",
     "wof:parent_id":85904169,
     "wof:placetype":"venue",

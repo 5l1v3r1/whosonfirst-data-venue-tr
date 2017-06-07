@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.8038730621,41.0399932861,28.8038730621,41.0399932861",
     "geom:latitude":41.039993,
     "geom:longitude":28.803873,
@@ -32,11 +33,7 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85929887,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uJXgNefEMypcpHODPfDy1_41.039993_28.803873@1306270061"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065848,
     "wof:geomhash":"9c0d947d8d0af9da65b2ec0330c091b5",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85929887,
-            "region_id":85679237,
-            "venue_id":1108605075
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108605075,
-    "wof:lastmodified":1474070754,
+    "wof:lastmodified":1491896533,
     "wof:name":"Benteks Tekstil Ltd.sti.",
     "wof:parent_id":85929887,
     "wof:placetype":"venue",

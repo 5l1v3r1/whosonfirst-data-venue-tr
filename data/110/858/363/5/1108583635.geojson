@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9358386993,41.0363273621,28.9358386993,41.0363273621",
     "geom:latitude":41.036327,
     "geom:longitude":28.935839,
@@ -32,11 +33,7 @@
         "peoducts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01Rd5JGfUzjCw13eXEFftN_41.036327_28.935839@1306270057"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065097,
     "wof:geomhash":"479de8dd3682d85fb1a4120b9e5f9fea",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108583635
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108583635,
-    "wof:lastmodified":1474070699,
+    "wof:lastmodified":1491920330,
     "wof:name":"Doker Dorum Maden Kimya Ins.san.tic.ltd.sti.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",

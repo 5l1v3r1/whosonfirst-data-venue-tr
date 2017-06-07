@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.976557,41.032806,28.976557,41.032806",
     "geom:latitude":41.032806,
     "geom:longitude":28.976557,
@@ -31,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85906549,
+        102191569,
         85632393,
         101913185,
         85679237
@@ -43,7 +45,7 @@
     "wof:geomhash":"99e2251df6fc2be3e4f04c65000fadaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191569,
             "country_id":85632393,
             "locality_id":101913185,
             "neighbourhood_id":85906549,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":169647051,
-    "wof:lastmodified":1474070659,
+    "wof:lastmodified":1491892261,
     "wof:name":"Onk Ajans Ltd",
     "wof:parent_id":85906549,
     "wof:placetype":"venue",

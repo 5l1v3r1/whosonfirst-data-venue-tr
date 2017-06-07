@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.0150814056,41.0258140564,29.0150814056,41.0258140564",
     "geom:latitude":41.025814,
     "geom:longitude":29.015081,
@@ -32,10 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85906595,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xYg52vVeGgkucb2LR2KjQ_41.025814_29.015081@1306270053"
@@ -43,15 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474064310,
     "wof:geomhash":"e52c7d8b2135d2d5fed6967773d995d8",
-    "wof:hierarchy":[
-        {
-            "neighbourhood_id":85906595,
-            "region_id":85679237,
-            "venue_id":1108566579
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108566579,
-    "wof:lastmodified":1474070728,
+    "wof:lastmodified":1491926957,
     "wof:name":"Bekay Ltd.",
     "wof:parent_id":85906595,
     "wof:placetype":"venue",

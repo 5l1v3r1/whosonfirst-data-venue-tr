@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.2271194458,40.8881149292,29.2271194458,40.8881149292",
     "geom:latitude":40.888115,
     "geom:longitude":29.227119,
@@ -28,10 +29,7 @@
     "sg:postcode":"38070",
     "sg:province":"Istanbul",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85930115
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FEgcmomS3zytCUi5r55Nc_40.888115_29.227119@1306270072"
@@ -39,15 +37,9 @@
     "wof:country":"TR",
     "wof:created":1474068347,
     "wof:geomhash":"28ae8043940a6dbabb91f58831835132",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85930115,
-            "venue_id":1108662567
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108662567,
-    "wof:lastmodified":1474070781,
+    "wof:lastmodified":1491902293,
     "wof:name":"Motor Silk Yakit Tasarrufu Ve Koruma Guvensan Petrol",
     "wof:parent_id":85930115,
     "wof:placetype":"venue",

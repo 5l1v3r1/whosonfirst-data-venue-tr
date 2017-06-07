@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9075031281,40.9895591736,28.9075031281,40.9895591736",
     "geom:latitude":40.989559,
     "geom:longitude":28.907503,
@@ -32,11 +33,7 @@
         "industry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WdkyKuYoNnZbcqOmmew5V_40.989559_28.907503@1306270071"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474068270,
     "wof:geomhash":"cebb877e4fb90db8bd95f1341b801d64",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108660413
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108660413,
-    "wof:lastmodified":1474070683,
+    "wof:lastmodified":1491897863,
     "wof:name":"Kankar Ambalaj San. Tic. Ltd. Sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

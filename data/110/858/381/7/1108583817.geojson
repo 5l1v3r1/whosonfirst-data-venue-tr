@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.903585434,40.9939308167,28.903585434,40.9939308167",
     "geom:latitude":40.993931,
     "geom:longitude":28.903585,
@@ -32,11 +33,7 @@
         "peoducts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85904171,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01xhRWeffZmsF5tq7u6PGl_40.993931_28.903585@1306270057"
@@ -44,16 +41,9 @@
     "wof:country":"TR",
     "wof:created":1474065106,
     "wof:geomhash":"004568801faa04a0fb91e1fc20d71e18",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85904171,
-            "region_id":85679237,
-            "venue_id":1108583817
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108583817,
-    "wof:lastmodified":1474070695,
+    "wof:lastmodified":1491897852,
     "wof:name":"Haycelik Metal Urunleri Tic. Ltd.sti.",
     "wof:parent_id":85904171,
     "wof:placetype":"venue",

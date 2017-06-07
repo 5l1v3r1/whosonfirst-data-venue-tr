@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9111595154,41.0398368835,28.9111595154,41.0398368835",
     "geom:latitude":41.039837,
     "geom:longitude":28.91116,
@@ -30,11 +31,7 @@
         "forest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85632393,
-        85906463,
-        85679237
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZCPCBIvV3XbPKx3gGlZaN_41.039837_28.911160@1306270075"
@@ -42,16 +39,9 @@
     "wof:country":"TR",
     "wof:created":1474068918,
     "wof:geomhash":"c22f082d6425569bb51bcd6bf8df6d1f",
-    "wof:hierarchy":[
-        {
-            "country_id":85632393,
-            "neighbourhood_id":85906463,
-            "region_id":85679237,
-            "venue_id":1108676783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":1108676783,
-    "wof:lastmodified":1474070767,
+    "wof:lastmodified":1491920321,
     "wof:name":"Kastamonu Entegre Agac San. Tic. A.s.",
     "wof:parent_id":85906463,
     "wof:placetype":"venue",
