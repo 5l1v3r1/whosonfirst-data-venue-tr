@@ -7,13 +7,16 @@
     "addr:postcode":"?;63000",
     "addr:street":"B;Sk. 30 / C-D K.Dere Osmanbey",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.388338,40.812656,29.388338,40.812656",
     "geom:latitude":40.812656,
     "geom:longitude":29.388338,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"B?l? Sk. 30/c-d K.dere",
     "sg:city":"Osmanbey",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
         "sg:id":"SG_7mCbTFUwLoOyIbVyMwcNmD_40.812656_29.388338@1306270051"
     },
     "wof:country":"TR",
-    "wof:geomhash":"877ccd18512d696f422a42494dcc0bd7",
+    "wof:geomhash":"18a17af0e2a20615769ec0b0d8c96a83",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +56,17 @@
         }
     ],
     "wof:id":169551797,
-    "wof:lastmodified":1474070644,
+    "wof:lastmodified":1510941261,
     "wof:name":"Yatas Puff Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169551797
+    ],
+    "wof:supersedes":[
+        169551797
+    ],
     "wof:tags":[
         "quilt",
         "bed"

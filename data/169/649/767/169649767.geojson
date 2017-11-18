@@ -7,13 +7,16 @@
     "addr:postcode":"43050",
     "addr:street":"Anafartalar Cad.",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.698029,36.889046,30.698029,36.889046",
     "geom:latitude":36.889046,
     "geom:longitude":30.698029,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Anafartalar Cad. 35.sok. No:2/c-d",
     "sg:city":"Okmeydani",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_0iHix5h1QyMfH1zSQhpx1R_36.889046_30.698029@1306270053"
     },
     "wof:country":"TR",
-    "wof:geomhash":"8c7d1079aead0c0ed357f4a10c98dbc2",
+    "wof:geomhash":"6e039ee2e36add4ddeffeec8e2ac2a43",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,13 +54,17 @@
         }
     ],
     "wof:id":169649767,
-    "wof:lastmodified":1474070644,
+    "wof:lastmodified":1510941992,
     "wof:name":"Sonmez Kitabevi Yayin Dagitim Pazarlama",
     "wof:parent_id":85929847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169649767
+    ],
+    "wof:supersedes":[
+        169649767
+    ],
     "wof:tags":[]
 },
   "bbox": [

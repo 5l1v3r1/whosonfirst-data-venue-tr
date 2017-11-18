@@ -7,6 +7,7 @@
     "addr:postcode":"01740",
     "addr:street":"Genc Osman Sok. Derya;No 20 /",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":29.051029,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Genc Osman Sok. Derya Apt. No:20/6 Bahcelievler",
     "sg:city":"Fatih",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
         "sg:id":"SG_6vnHOFmHEpgEHnGqzAvedw_41.011486_29.051029@1306270051"
     },
     "wof:country":"TR",
-    "wof:geomhash":"7a6ba86817d05ffeab98841ab1423e20",
+    "wof:geomhash":"cfe410223493419609f17471c9d99157",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":169560161,
-    "wof:lastmodified":1491938341,
+    "wof:lastmodified":1510943507,
     "wof:name":"Ermet Dis Ticaret Ve Pazarlama Ltd.sti.",
     "wof:parent_id":85929355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        169597687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

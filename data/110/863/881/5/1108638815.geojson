@@ -7,13 +7,16 @@
     "addr:postcode":"80630",
     "addr:street":"Altindag Mah.;Apt.No",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.7092056274,36.8790512085,30.7092056274,36.8790512085",
     "geom:latitude":36.879051,
     "geom:longitude":30.709206,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Altindag Mah. 166.sok. Cengiz Apt.no:6/c-d",
     "sg:city":"Besiktas",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
     },
     "wof:country":"TR",
     "wof:created":1474067378,
-    "wof:geomhash":"de6e658ab3247c1a4422ee844fae3cb2",
+    "wof:geomhash":"c098729f39d9957247c1111e46934bd1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1108638815,
-    "wof:lastmodified":1474070816,
+    "wof:lastmodified":1510943801,
     "wof:name":"Antalya Folklor Ve Genclik Kulubu Dernegi",
     "wof:parent_id":85929837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108638815
+    ],
+    "wof:supersedes":[
+        1108638815
+    ],
     "wof:tags":[]
 },
   "bbox": [

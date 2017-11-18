@@ -7,13 +7,16 @@
     "addr:postcode":"37870",
     "addr:street":"No 91",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.4990272522,37.8715362549,32.4990272522,37.8715362549",
     "geom:latitude":37.871536,
     "geom:longitude":32.499027,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Marangozlar I? D?gerler No:91",
     "sg:city":"Beykoz",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"TR",
     "wof:created":1474064644,
-    "wof:geomhash":"6a13cb02e1898ae6323e9760394bae70",
+    "wof:geomhash":"1274fe50c85053c2f42a60f48c7a685a",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -52,13 +55,17 @@
         }
     ],
     "wof:id":1108574519,
-    "wof:lastmodified":1474070727,
+    "wof:lastmodified":1510944143,
     "wof:name":"Oran Orta Anadolu Cam San. Tic. A.s.",
     "wof:parent_id":85934711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1108574519
+    ],
+    "wof:supersedes":[
+        1108574519
+    ],
     "wof:tags":[
         "glassware"
     ]

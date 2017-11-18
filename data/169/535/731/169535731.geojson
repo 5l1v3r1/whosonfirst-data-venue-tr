@@ -7,13 +7,16 @@
     "addr:postcode":"34530;65900",
     "addr:street":"Binasi;Ekim Cad No",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.975925,41.012379,28.975925,41.012379",
     "geom:latitude":41.012379,
     "geom:longitude":28.975925,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ihlas Holding Merkez Binasi 29 Ekim Cad No 23, Yenibosna, 34530 Istanbul",
     "sg:city":"Elmadag",
     "sg:classifiers":[
@@ -36,7 +39,7 @@
         "sg:id":"SG_5NvCbi7zPTMEVLSgR6xpNg_41.012379_28.975925@1306270051"
     },
     "wof:country":"TR",
-    "wof:geomhash":"934b9d98240618589dcadb3e67221e7c",
+    "wof:geomhash":"d12b7e6ba99f0fbeae8862e18b7042da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":169535731,
-    "wof:lastmodified":1474070675,
+    "wof:lastmodified":1510943794,
     "wof:name":"Ihlas Finans Kurumu As",
     "wof:parent_id":85906483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108671119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

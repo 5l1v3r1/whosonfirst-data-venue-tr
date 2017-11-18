@@ -7,13 +7,16 @@
     "addr:postcode":"34050",
     "addr:street":"Ertem Sk. No 4 D",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.9861831665,41.0408554077,28.9861831665,41.0408554077",
     "geom:latitude":41.040855,
     "geom:longitude":28.986183,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ertem Sk. No:4 D:9 K:4 Gayrettepe",
     "sg:city":"Ey\u00fcp",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"TR",
     "wof:created":1474066176,
-    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:geomhash":"160525b172aacde70c57e2432961a03d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":1108612423,
-    "wof:lastmodified":1474070704,
+    "wof:lastmodified":1510942755,
     "wof:name":"Kili? Tic. Ltd.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108632603
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consumer"

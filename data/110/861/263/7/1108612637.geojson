@@ -7,6 +7,7 @@
     "addr:postcode":"34200",
     "addr:street":"Ertem Sk. K;No 4 /",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":28.986183,
     "iso:country":"TR",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"Ertem Sk. K:4 No:4/9 Gayrettepe",
     "sg:city":"Esenler",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"TR",
     "wof:created":1474066184,
-    "wof:geomhash":"1d501116eaa3ed065acc75b7105f457a",
+    "wof:geomhash":"160525b172aacde70c57e2432961a03d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":1108612637,
-    "wof:lastmodified":1491923468,
+    "wof:lastmodified":1510941879,
     "wof:name":"Temiz Tic. Ltd.",
     "wof:parent_id":85906555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108633001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consumer"
